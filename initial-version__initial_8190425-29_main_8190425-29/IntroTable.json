@@ -433,93 +433,261 @@
           "dataArray": [
             {
               "desc": {
-                "id": "8341769175043202260",
-                "text": ""
+                "BR": "Use o Aprimoramento de Equipamentos para melhorar vários atributos básicos de equipamentos de qualidade ouro. \nO aprimoramento bem-sucedido fornece um aumento fixo nos atributos. Todo atributo tem um limite para o número de tentativas de aprimoramento bem-sucedido.",
+                "CN": "通过装备精锻系统，可提升金色品质装备的各项初始属性。\n精锻成功后，将固定提升属性数值。每项属性都有精锻强化成功次数上限。",
+                "DE": "Nutze Ausrüstungsveredelung, um die verschiedenen Basiswerte von Ausrüstung in Goldqualität zu verbessern. \nWenn die Veredelung erfolgreich ist, werden die Werte um einen festen Wert erhöht. Für jeden Wert kann nur eine bestimmte Anzahl erfolgreicher Veredelungen durchgeführt werden.",
+                "EN": "Use Gear Artificing to improve various base stats of gold-quality gear. \nSuccessful artificing provides a fixed increase to the stats. Every stat has a limit to the number of successful artificing attempts.",
+                "FR": "Utilisez le renforcement d'équipement pour améliorer les statistiques de base de l'équipement de qualité or. \nChaque renforcement réussi confère une augmentation définie de ces stats. Chacune des stats ne tolère qu'un nombre limité de tentatives de renforcement réussies.",
+                "ID": "Gunakan Penyempurnaan Gear untuk meningkatkan berbagai stat dasar gear berkualitas emas. \nJika penyempurnaan berhasil, stat akan mendapatkan peningkatan tetap. Setiap stat punya batas jumlah upaya penyempurnaan yang berhasil.",
+                "IT": "Usa l'artificio di equipaggiamenti per migliorare varie statistiche di base degli equipaggiamenti di qualità oro. \nGli artifici riusciti forniscono un aumento fisso delle statistiche. Ogni statistica ha un limite di tentativi di artificio riusciti.",
+                "JP": "装備の精密加工は、金品質装備の初期ステータスを強化できます。\n精密加工が成功すると、ステータスが一定値上昇します。なお、各ステータスには加工成功の回数上限が設けられています。",
+                "KR": "장비 정밀 단조 시스템을 통해 노란색 품질 장비의 각 초기 속성을 업그레이드할 수 있습니다.\n정밀 단조에 성공하면, 속성 수치가 고정적으로 증가합니다. 각 속성의 정밀 단조 강화 성공 횟수는 제한되어 있습니다.",
+                "MX": "Usa la elaboración de equipamiento para mejorar varias estadísticas base del equipamiento de calidad dorada. \nUna elaboración exitosa otorga un aumento fijo a las estadísticas. Cada estadística tiene un límite de intentos de elaboración exitosos.",
+                "RU": "Дорабатывайте снаряжение, чтобы улучшить базовые характеристики золотого снаряжения.\nУспешная доработка фиксирует повышение характеристик, у каждой из которых есть лимит на количество доработок.",
+                "TC": "利用裝備精鍛系統，可提升金色品質裝備的各項初始屬性。\n精鍛成功後，將固定提升屬性數值。每項屬性都有精鍛強化成功次數上限。",
+                "TH": "ใช้การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​เพื่อ​ปรับปรุง​ค่า​สถานะ​พื้นฐาน​ต่า​งๆ​ ของ​อุปกรณ์​คุณภาพ​ระดับ​ทองคำ​ \nการ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​สำเร็จ​จะ​ทำให้​ค่า​สถานะ​เพิ่มขึ้น​ใน​รูปแบบ​คงที่​ ค่า​สถานะ​แต่ละ​รายการ​จะ​มี​ขีดจำกัด​ของ​จำนวน​ครั้ง​ที่​สามารถ​อาร์​ติ​ไฟ​ซ์​สำเร็จ​ได้",
+                "VN": "Sử dụng Chế Tác Trang Bị để cải thiện các chỉ số cơ bản khác nhau của trang bị chất lượng vàng. \nChế tác thành công sẽ tăng cố định cho chỉ số. Mỗi chỉ số đều giới hạn số lần chế tác thành công."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_1",
               "pageIndex": 1,
               "title": {
-                "id": "6007794145081243958",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos",
+                "CN": "装备精锻",
+                "DE": "Ausrüstungsveredelung",
+                "EN": "Gear Artificing",
+                "FR": "Renforcement d'équipement",
+                "ID": "Penyempurnaan Gear",
+                "IT": "Artificio di equipaggiamenti",
+                "JP": "精密加工",
+                "KR": "장비 정밀 단조",
+                "MX": "Elaboración de equipamiento",
+                "RU": "Доработка снаряжения",
+                "TC": "裝備精鍛",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์",
+                "VN": "Chế Tác Trang Bị"
               }
             },
             {
               "desc": {
-                "id": "-6928630925797081668",
-                "text": ""
+                "BR": "Cada tentativa de aprimoramento custa <@gd.key>equipamento de qualidade ouro</> e <@gd.key>catalisador de aprimoramento de equipamentos</>.",
+                "CN": "每次装备精锻需耗费<@gd.key>金色品质装备</>和<@gd.key>装备精锻助剂</>。",
+                "DE": "Jeder Veredelungsversuch kostet <@gd.key>Ausrüstungsteile in Gold-Qualität</> und <@gd.key>Ausrüstungsveredelungs-Katalysatoren</>.",
+                "EN": "Each artificing attempt costs <@gd.key>gold-quality gear</> and <@gd.key>gear artificing catalyst</>.",
+                "FR": "Chaque tentative de renforcement coûte de <@gd.key>l'équipement de qualité or</> et un <@gd.key>catalyseur de renforcement d'équipement</>.",
+                "ID": "Setiap upaya penyempurnaan butuh <@gd.key>gear berkualitas emas</> dan <@gd.key>katalis penyempurna gear</>.",
+                "IT": "Ogni tentativo di artificio costa 1 <@gd.key>equipaggiamento di qualità oro</> e 1 <@gd.key>catalizzatore per artifici</>.",
+                "JP": "精密加工では、<@gd.key>金品質の装備</>と<@gd.key>精密加工強化剤</>を消費します。",
+                "KR": "정밀 단조를 진행할 때는 <@gd.key>노란색 품질 장비</> 및 <@gd.key>장비 정밀 단조제</>가 필요합니다.",
+                "MX": "Cada intento de elaboración cuesta <@gd.key>equipamiento de calidad dorada</> y un <@gd.key>catalizador de elaboración de equipamiento</>.",
+                "RU": "Каждая доработка потратит <@gd.key>предмет золотого снаряжения</> и <@gd.key>катализатор доработки снаряжения</>.",
+                "TC": "每次裝備精鍛需耗費<@gd.key>金色品質裝備</>和<@gd.key>裝備精鍛助劑</>。",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​แต่ละครั้ง​จะ​ใช้​ <@gd.key>​อุปกรณ์​คุณภาพ​ทองคำ​</> และ​ <@gd.key>​ตัวเร่ง​การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​</>",
+                "VN": "Mỗi lần chế tác sẽ cần đến <@gd.key>trang bị chất lượng vàng</> và <@gd.key>chất xúc tác chế tác trang bị</>."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_2",
               "pageIndex": 2,
               "title": {
-                "id": "-5209881188129525813",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (1)",
+                "CN": "精锻耗费 - 一",
+                "DE": "Ausrüstungsveredelung: Kosten (1)",
+                "EN": "Gear Artificing: Costs (1)",
+                "FR": "Renforcement d'équipement : coûts (1)",
+                "ID": "Penyempurnaan Gear: Biaya (1)",
+                "IT": "Artificio di equipaggiamenti: costo (1)",
+                "JP": "加工素材 - 1",
+                "KR": "정밀 단조 재료 - 1",
+                "MX": "Elaboración de equipamiento: Costos (1)",
+                "RU": "Доработка снаряжения: расход (1)",
+                "TC": "精鍛耗費 - 一",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (1)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (1)"
               }
             },
             {
               "desc": {
-                "id": "2144135209827095944",
-                "text": ""
+                "BR": "Existem diferentes Catalisadores de Aprimoramento de Equipamentos regionais, e eles devem corresponder à região do equipamento que será aprimorado. Os catalisadores podem ser comprados em vários <@gd.key>redistribuidores do estoque regional</>.",
+                "CN": "装备精锻助剂的所属地区必须与待精锻装备相同。管理员可在各<@gd.key>地区调度员</>处兑换装备精锻助剂。",
+                "DE": "In verschiedenen Regionen gibt es unterschiedliche Ausrüstungsveredelungs-Katalysatoren, also achte bei der Veredelung darauf, dass die zu veredelnde Ausrüstung und der Katalysator aus derselben Region stammen. Katalysatoren sind bei verschiedenen <@gd.key>regionalen Vorratneuverteilern</> erhältlich.",
+                "EN": "There are different regional Gear Artificing Catalysts and they must match the region of the gear to be artificed. Purchase the catalysts from various <@gd.key>regional stock redistributors</>.",
+                "FR": "Il existe différents catalyseurs de renforcement d'équipement, qui doivent provenir de la même région que l'équipement à renforcer. Vous pouvez acheter des catalyseurs auprès des divers <@gd.key>redistributeurs de réserves régionaux</>.",
+                "ID": "Ada berbagai Katalis Penyempurna Gear regional, yang harus sesuai dengan wilayah gear yang akan disempurnakan. Beli katalis di berbagai <@gd.key>redistributor stok regional</>.",
+                "IT": "Ci sono diversi catalizzatori per artifici di equipaggiamenti, e devono provenire dalla stessa regione dell'equipaggiamento da sottoporre ad artificio. I catalizzatori possono essere acquistati presso i vari <@gd.key>ridistributori scorte regionali</>.",
+                "JP": "精密加工強化剤は、加工する装備と同じ地域のものを使用する必要があり、<@gd.key>各地域の取引担当</>から入手できます。",
+                "KR": "장비 정밀 단조제는 정밀 단조를 진행할 장비의 지역과 동일한 지역이어야만 합니다. 관리자는 각 <@gd.key>지역의 관리원</>에게서 장비 정밀 단조제를 교환할 수 있습니다.",
+                "MX": "Hay diferentes Catalizadores de elaboración de equipamiento regionales y deben coincidir con la región del equipamiento a elaborar. Compra los catalizadores en varios <@gd.key>redistribuidores de existencias regionales</>.",
+                "RU": "Используемый катализатор доработки снаряжения должен быть из того же региона, что и снаряжение. Катализаторы можно купить в <@gd.key>региональных перераспределителях резервов</>.",
+                "TC": "裝備精鍛助劑的所屬地區必須與待精鍛裝備相同。管理員可在各<@gd.key>地區調度員</>處兌換裝備精鍛助劑。",
+                "TH": "มี​ตัวเร่ง​การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​แยก​ตาม​ภูมิภาค​ และ​ต้อง​ตรง​กับ​ภูมิภาค​ของ​อุปกรณ์​ที่จะ​นำ​ไป​อาร์​ติ​ไฟ​ซ์​ สามารถ​ซื้อ​ตัวเร่ง​เหล่านี้​ได้​จาก​<@gd.key>​ศูนย์​กระจาย​ของ​ตาม​ภูมิภาค​ต่า​งๆ​</>",
+                "VN": "Có nhiều loại Chất Xúc Tác Chế Tác Trang Bị khác nhau tùy theo khu vực và phải đảm bảo chọn loại phù hợp với khu vực có trang bị cần chế tác. Mua chất xúc tác từ <@gd.key>chuyên gia điều phối theo khu vực</>."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_3",
               "pageIndex": 3,
               "title": {
-                "id": "-193439488815456723",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (2)",
+                "CN": "精锻耗费 - 二",
+                "DE": "Ausrüstungsveredelung: Kosten (2)",
+                "EN": "Gear Artificing: Costs (2)",
+                "FR": "Renforcement d'équipement : coûts (2)",
+                "ID": "Penyempurnaan Gear: Biaya (2)",
+                "IT": "Artificio di equipaggiamenti: costo (2)",
+                "JP": "加工素材 - 2",
+                "KR": "정밀 단조 재료 - 2",
+                "MX": "Elaboración de equipamiento: Costos (2)",
+                "RU": "Доработка снаряжения: расход (2)",
+                "TC": "精鍛耗費 - 二",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (2)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (2)"
               }
             },
             {
               "desc": {
-                "id": "-6683570580882688331",
-                "text": ""
+                "BR": "O equipamento usado como material de aprimoramento deve compartilhar o <@gd.key>mesmo tipo (armadura, luvas ou kits)</> do equipamento alvo a ser modificado. Por exemplo, apenas armaduras podem ser usadas para aprimorar outras armaduras.",
+                "CN": "当装备作为精锻耗费材料时，必须与待精锻装备<@gd.key>所属部位类型</>相同。",
+                "DE": "Die Ausrüstung, die als das Veredelungsmaterial verwendet wird, muss vom selben <@gd.key>Typ (Rüstung, Handschuhe oder Kits)</> wie die Ausrüstung sein, die veredelt werden soll. Zum Beispiel lässt sich eine Rüstung nur mit einer anderen Rüstung veredeln.",
+                "EN": "The gear used as the artificing material must share the <@gd.key>type (armor, gloves, or kits)</> of the target gear to be artificed. For example, only armor can be used to artifice another armor.",
+                "FR": "L'équipement utilisé comme matériau de renforcement doit être du <@gd.key>même type (armure, gants ou kits)</> que l'équipement cible à renforcer. Par exemple, seule une armure peut être employée pour renforcer une autre armure.",
+                "ID": "Gear yang digunakan sebagai material penyempurna harus punya <@gd.key>tipe (armor, sarung tangan, atau kit)</> yang sama dengan gear target yang akan disempurnakan. Misalnya, armor hanya bisa digunakan untuk menyempurnakan armor lain.",
+                "IT": "L'equipaggiamento usato come materiale per l'artificio deve essere dello stesso <@gd.key>tipo (armatura, guanti o kit)</> dell'equipaggiamento da sottoporre ad artificio. Ad esempio, solo un armatura può essere usata per sottoporre ad artificio un'altra armatura.",
+                "JP": "精密加工では、<@gd.key>同じ部位の装備</>のみ加工素材として使用できます。",
+                "KR": "장비를 정밀 단조 재료로 사용할 때는, 정밀 단조를 진행할 장비와 같은 <@gd.key>부위의 장비 유형</>이어야 합니다.",
+                "MX": "El equipamiento usado como material de elaboración debe compartir el <@gd.key>tipo (armadura, guantes o kits)</> del equipamiento objetivo a elaborar. Por ejemplo, solo se puede usar armadura para elaborar otra armadura.",
+                "RU": "Снаряжение, используемое в качестве материала для доработки (броня, перчатки или амуниция), должно быть того же <@gd.key>типа</>, что и целевое снаряжение. Например, доработать броню можно только с помощью другой брони.",
+                "TC": "當裝備作為精鍛耗費材料時，必須與待精鍛裝備<@gd.key>所屬部位類型</>相同。",
+                "TH": "อุปกรณ์​ที่​ใช้​เป็น​วัสดุ​ใน​การ​อาร์​ติ​ไฟ​ซ์​เครื่องมือ​ต้อง​เป็น​ประเภท​เดียวกัน​<@gd.key> (เช่น​ เกราะ​ ถุงมือ​ หรือ​ชุด​เครื่องมือ​)</> กับ​อุปกรณ์​เป้าหมาย​ที่จะ​อาร์​ติ​ไฟ​ซ์​ ตัวอย่างเช่น​ การ​อาร์​ติ​ไฟ​ซ์​เกราะ​จะ​ใช้ได้​เฉพาะ​อุปกรณ์​ประเภท​เกราะ​เท่านั้น",
+                "VN": "Trang bị được dùng làm nguyên liệu chế tác phải cùng <@gd.key>loại (giáp, găng tay hoặc bộ dụng cụ)</> với vật liệu trang bị chế tác cần thiết. Ví dụ, chỉ có giáp mới dùng được để chế tác một loại giáp khác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_4",
               "pageIndex": 4,
               "title": {
-                "id": "1725253548504877211",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (3)",
+                "CN": "精锻耗费 - 三",
+                "DE": "Ausrüstungsveredelung: Kosten (3)",
+                "EN": "Gear Artificing: Costs (3)",
+                "FR": "Renforcement d'équipement : coûts (3)",
+                "ID": "Penyempurnaan Gear: Biaya (3)",
+                "IT": "Artificio di equipaggiamenti: costo (3)",
+                "JP": "加工素材 - 3",
+                "KR": "정밀 단조 재료 - 3",
+                "MX": "Elaboración de equipamiento: Costos (3)",
+                "RU": "Доработка снаряжения: расход (3)",
+                "TC": "精鍛耗費 - 三",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (3)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (3)"
               }
             },
             {
               "desc": {
-                "id": "-1922875896864431658",
-                "text": ""
+                "BR": "O equipamento a ser gasto no aprimoramento deve ter <@gd.key>atributos aprimoráveis</>, enquanto o valor base (pré-aprimoramento) desses atributos <@gd.key>não pode ser menor</> que os do equipamento a ser aprimorado.",
+                "CN": "当装备作为精锻耗费材料时，该装备必须<@gd.key>含有待精锻属性</>，且该属性未强化前的初始值<@gd.key>不小于</>待精锻装备对应属性的初始值。",
+                "DE": "Die als Veredelungsmaterial genutzte Ausrüstung muss über <@gd.key>veredelbare Werte</> verfügen. Der Basiswert dieser Werte <@gd.key>muss höher sein</> als der Basiswert der entsprechenden Werte der Ausrüstung, die veredelt werden soll.",
+                "EN": "The gear to be spent for artificing must have <@gd.key>artifice-able stats</>, and the base value (pre-artificing) of such stats <@gd.key>cannot be smaller</> than those of the gear to be artificed.",
+                "FR": "L'équipement utilisé pour le renforcement doit posséder des <@gd.key>stats pouvant être renforcées</>, et leur valeur de base (avant le renforcement) doit être <@gd.key>supérieure ou égale</> à celle des stats de l'équipement à renforcer.",
+                "ID": "Gear yang akan dipakai untuk penyempurnaan harus punya <@gd.key>stat yang bisa disempurnakan</>, dan nilai dasar (sebelum penyempurnaan) stat yang bersangkutan <@gd.key>tidak boleh lebih kecil</> dari nilai dasar gear yang akan disempurnakan.",
+                "IT": "L'equipaggiamento da consumare per l'artificio deve possedere <@gd.key>statistiche compatibili con artificio</> e il valore base di tali statistiche (prima dell'artificio) <@gd.key>non può essere inferiore</> a quello dell'equipaggiamento da potenziare.",
+                "JP": "素材として使用する装備は<@gd.key>精密加工ステータス</>を持ち、かつ初期ステータスが対象装備の同項目の<@gd.key>初期ステータス以上</>である必要があります。",
+                "KR": "정밀 단조 소모 재료로 사용할 장비는 <@gd.key>정밀 단조를 진행할 속성을 꼭 가지고 있어야</> 하며, 해당 속성의 강화되지 않은 초기 수치가 정밀 단조를 진행할 장비가 가진 해당 속성 초기 수치보다 <@gd.key>낮지 않아야</> 합니다.",
+                "MX": "El equipamiento que se gastará para la elaboración debe tener <@gd.key>estadísticas para la elaboración</>, y el valor base (pre-elaboración) de dichas estadísticas <@gd.key>no puede ser menor</> que el del equipamiento a elaborar.",
+                "RU": "У снаряжения, которое будет потрачено, должны быть <@gd.key>характеристики для доработки</>. Ценность этих характеристик (до доработки) должна быть <@gd.key>не ниже</> ценности соответствующих характеристик того снаряжения, которое вы хотите доработать.",
+                "TC": "當裝備作為精鍛耗費材料時，該裝備必須<@gd.key>含有待精鍛屬性</>，且該屬性未強化前的初始值<@gd.key>不小於</>待精鍛裝備對應屬性的初始值。",
+                "TH": "อุปกรณ์​ที่​ใช้​เป็น​วัสดุ​ใน​การ​อาร์​ติ​ไฟ​ซ์​ต้อง​มี​<@gd.key>​ค่า​สถานะ​ที่​สามารถ​อาร์​ติ​ไฟ​ซ์​ได้​</> และ​ค่า​เริ่มต้น​ของ​ค่า​สถานะ​เหล่านั้น​ (ก่อน​การ​อาร์​ติ​ไฟ​ซ์​) <@gd.key>​ต้อง​ไม่​ต่ำกว่า​</>​ค่า​สถานะ​ของ​อุปกรณ์​ที่​กำลังจะ​นำ​ไป​อาร์​ติ​ไฟ​ซ์",
+                "VN": "Trang bị dùng để chế tác phải có <@gd.key>chỉ số chế tác được</> và giá trị ban đầu (trước khi chế tác) của các chỉ số đó <@gd.key>không được nhỏ hơn</> giá trị của trang bị cần chế tác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_5",
               "pageIndex": 5,
               "title": {
-                "id": "-2658023176273765386",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (4)",
+                "CN": "精锻耗费 - 四",
+                "DE": "Ausrüstungsveredelung: Kosten (4)",
+                "EN": "Gear Artificing: Costs (4)",
+                "FR": "Renforcement d'équipement : coûts (4)",
+                "ID": "Penyempurnaan Gear: Biaya (4)",
+                "IT": "Artificio di equipaggiamenti: costo (4)",
+                "JP": "加工素材 - 4",
+                "KR": "정밀 단조 재료 - 4",
+                "MX": "Elaboración de equipamiento: Costos (4)",
+                "RU": "Доработка снаряжения: расход (4)",
+                "TC": "精鍛耗費 - 四",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (4)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (4)"
               }
             },
             {
               "desc": {
-                "id": "-8787919153806283241",
-                "text": ""
+                "BR": "Aprimorar um atributo específico de um equipamento aumenta o progresso de aprimoramento. Atingir o limite de progresso <@gd.key>garante o sucesso</> na próxima tentativa de aprimoramento desse atributo de equipamento. Equipamentos e atributos diferentes possuem limites de progresso de aprimoramento diferentes.",
+                "CN": "每次对装备属性进行精锻时，将积累精锻进度，积累达到上限时，下一次该装备属性精锻强化将<@gd.key>必定成功</>。\n不同装备和属性的精锻积累上限略有不同。",
+                "DE": "Durch die Ausrüstungsveredelung eines bestimmten Ausrüstungswerts sammelt sich Veredelungsfortschritt an. Erreichst du das Fortschrittslimit, <@gd.key>gelingt</> der nächste Veredelungsversuch für diesen Ausrüstungswert garantiert. Verschiedene Ausrüstung und Ausrüstungswerte haben unterschiedliche Limits hinsichtlich des Veredelungsfortschritts.",
+                "EN": "Performing gear artificing of a particular gear stat builds up artificing progress. Reaching the progress limit <@gd.key>guarantees success</> for the next artificing attempt of this gear stat. Different gear and gear stats have different artificing progress limits.",
+                "FR": "Lorsque vous réalisez un renforcement d'équipement pour une certaine stat d'équipement, vous augmentez la progression du renforcement. Une fois la limite de progression atteinte, <@gd.key>le succès sera garanti</> lors de votre prochaine tentative de renforcement pour cette stat d'équipement. Les différents équipements et les diverses stats d'équipement disposent de limites de progression de renforcement variées.",
+                "ID": "Dengan melakukan penyempurnaan gear untuk stat gear tertentu, progres penyempurnaan akan meningkat. Dengan mencapai batas progres, upaya penyempurnaan berikutnya untuk stat gear itu <@gd.key>dijamin akan berhasil</>. Setiap gear dan stat gear punya batas progres penyempurnaan yang berbeda-beda.",
+                "IT": "Eseguire l'artificio di equipaggiamenti su particolari statistiche permette di compiere progressi di artificio. Raggiungere il limite di progresso <@gd.key>garantisce la riuscita</> del tentativo di artificio successivo della statistica in questione. I limiti di progresso degli artifici variano in base agli equipaggiamenti e alle loro statistiche.",
+                "JP": "装備ステータスの精密加工を行うたびに、加工保証の進捗を獲得できます。上限に到達すると、次の精密加工の<@gd.key>成功率が100%になります</>。\n装備やステータスによって、加工保証の進捗上限も異なります。",
+                "KR": "장비 속성을 정밀 단조할 때마다 정밀 단조 진행도가 누적됩니다. 누적 수치가 최대치에 도달하면, 다음번 해당 장비 속성 정밀 단조 강화는 <@gd.key>반드시 성공</>합니다.\n장비 및 속성에 따라 정밀 단조 누적 최대치는 약간씩 다릅니다.",
+                "MX": "Realizar la elaboración de una estadística específica del equipamiento acumula progreso de elaboración. Alcanzar el límite de progreso <@gd.key>garantiza el éxito</> del siguiente intento de elaboración de esta estadística del equipamiento. Diferentes piezas de equipamiento y estadísticas del equipamiento tienen distintos límites de progreso de elaboración.",
+                "RU": "Прогресс накапливается при доработке определенной характеристики снаряжения. Если достичь лимита прогресса, следующая попытка доработки этой характеристики <@gd.key>гарантированно завершится успехом</>. У разного снаряжения и характеристик разные лимиты прогресса.",
+                "TC": "每次精鍛裝備屬性時，將累積精鍛進度，累積達到上限時，下一次該裝備屬性精鍛強化將<@gd.key>必定成功</>。\n不同裝備和屬性的精鍛累積上限略有不同。",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​ใน​ค่า​สถานะ​ใด​สถานะ​หนึ่ง​จะ​สะสม​ความคืบหน้า​การ​อาร์​ติ​ไฟ​ซ์​ เมื่อ​ความคืบหน้า​ถึง​ขีดจำกัด​ จะ​ <@gd.key>​รับประกัน​ความสำเร็จ​</> สำหรับ​การ​อาร์​ติ​ไฟ​ซ์​ค่า​สถานะ​นั้น​ครั้ง​ถัดไป​ อุปกรณ์​และ​ค่า​สถานะ​แต่ละ​ประเภท​จะ​มี​ขีดจำกัด​ความคืบหน้า​การ​อาร์​ติ​ไฟ​ซ์​ที่​แตกต่าง​กัน",
+                "VN": "Tiến hành chế tác trang bị có một chỉ số cụ thể sẽ cộng dồn vào tiến trình chế tác. Hoàn thành toàn bộ tiến trình sẽ <@gd.key>đảm bảo thành công</> cho lần chế tác tiếp theo với chỉ số trang bị đó. Các loại trang bị và chỉ số trang bị khác nhau sẽ có giới hạn tiến trình chế tác khác nhau."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_7",
               "pageIndex": 6,
               "title": {
-                "id": "5699375176790476995",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Progresso (1)",
+                "CN": "精锻积累 - 一",
+                "DE": "Ausrüstungsveredelung: Fortschritt (1)",
+                "EN": "Gear Artificing: Progress (1)",
+                "FR": "Renforcement d'équipement : progression (1)",
+                "ID": "Penyempurnaan Gear: Progres (1)",
+                "IT": "Artificio di equipaggiamenti: progresso (1)",
+                "JP": "加工保証 - 1",
+                "KR": "정밀 단조 누적 - 1",
+                "MX": "Elaboración de equipamiento: Progreso (1)",
+                "RU": "Доработка снаряжения: прогресс (1)",
+                "TC": "精鍛累積 - 一",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ความคืบหน้า​ (1)",
+                "VN": "Chế Tác Trang Bị: Tiến Trình (1)"
               }
             },
             {
               "desc": {
-                "id": "9005403866556744396",
-                "text": ""
+                "BR": "As tentativas de aprimoramento de equipamentos apresentam uma pequena chance de ser bem-sucedidas na primeira tentativa. Uma tentativa bem-sucedida também reinicia o progresso atual do aprimoramento. A chance de sucesso na primeira tentativa é ligeiramente <@gd.key>maior</> quando o equipamento usado como material de aprimoramento possui atributos base <@gd.key>superiores</> aos do equipamento que está sendo aprimorado.",
+                "CN": "装备精锻有较小可能直接强化成功，且清空当前精锻积累。\n耗费装备的属性初始值<@gd.key>高于</>待精锻装备初始值时，直接完成精锻强化的可能性略有<@gd.key>提升</>。",
+                "DE": "Bei Ausrüstungsveredelungsversuchen besteht eine geringe Chance auf direkten Erfolg. Ein erfolgreicher Versuch setzt außerdem den aktuellen Veredelungsfortschritt zurück. Die Chance auf direkten Erfolg wird <@gd.key>geringfügig verbessert</>, wenn die als Veredelungsmaterial genutzte Ausrüstung <@gd.key>höhere</> Basiswerte hat als die zu veredelnde Ausrüstung.",
+                "EN": "Gear artificing attempts have a small chance of direct success. A successful attempt also resets the current artificing progress. Chance of direct success is slightly <@gd.key>improved</> when the gear used as the artificing material has <@gd.key>higher</> base stats than those of the gear to be artificed.",
+                "FR": "Les tentatives de renforcement d'équipement ont peu de chances d'aboutir directement à un succès. Toute tentative réussie réinitialise également la progression de renforcement en cours. Les chances d'obtenir directement un succès sont légèrement <@gd.key>améliorées</> lorsque l'équipement servant de matériau de renforcement dispose de stats de bases <@gd.key>plus élevées</> que celles de l'équipement à renforcer.",
+                "ID": "Upaya penyempurnaan gear hanya punya peluang kecil untuk langsung berhasil. Upaya yang berhasil juga akan mereset progres penyempurnaan saat ini. Peluang keberhasilan langsung akan sedikit <@gd.key>meningkat</> jika gear yang digunakan sebagai material penyempurna punya stat dasar yang <@gd.key>lebih tinggi</> daripada gear yang akan disempurnakan.",
+                "IT": "I tentativi di artificio di equipaggiamenti hanno una piccola probabilità di riuscita diretta. Un tentativo riuscito azzera inoltre il progresso di artificio attuale. Le probabilità di riuscita diretta <@gd.key>aumentano</> leggermente quando l'equipaggiamento utilizzato come materiale per artificio ha statistiche di base <@gd.key>superiori</> a quelle dell'equipaggiamento da potenziare.",
+                "JP": "精密加工は、一定の確率で上限に到達していなくても成功します。その場合、加工保証の進捗はリセットされます。\n素材として使用する装備の初期ステータスが対象装備より<@gd.key>高い</>場合、精密加工がそのまま成功する確率がわずかに<@gd.key>アップ</>します。",
+                "KR": "장비 정밀 단조는 낮은 확률로 즉시 강화에 성공하며, 이 경우 현재 정밀 단조 누적이 초기화됩니다.\n소모하는 장비의 속성 초기 수치가 정밀 단조를 진행할 장비의 초기 수치보다 <@gd.key>높을 경우</>, 즉시 정밀 단조 강화가 완료될 확률이 약간 <@gd.key>증가</>합니다.",
+                "MX": "Los intentos de elaboración de equipamiento tienen una pequeña probabilidad de éxito directo. Un intento exitoso también reinicia el progreso de elaboración actual. La probabilidad de éxito directo <@gd.key>mejora</> ligeramente cuando el equipo usado como material de elaboración tiene estadísticas base <@gd.key>más altas</> que las del equipo que se va a elaborar.",
+                "RU": "При доработке снаряжения есть небольшой шанс на мгновенный успех. Успешная попытка сбрасывает текущий прогресс доработки. Шанс на мгновенный успех немного <@gd.key>повышается</>, если базовые характеристики снаряжения, которое будет потрачено, <@gd.key>выше</> соответствующих характеристик того снаряжения, которое вы хотите доработать.",
+                "TC": "裝備精鍛有較小可能直接強化成功，且清空目前的精鍛累積進度。\n耗費裝備的屬性初始值<@gd.key>高於</>待精鍛裝備初始值時，直接完成精鍛強化的可能性略有<@gd.key>提升</>。",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​มีโอกาส​เล็กน้อย​ที่จะ​สำเร็จ​ทันที​ โดย​การ​อาร์​ติ​ไฟ​ซ์​ที่​สำเร็จ​จะ​รีเซ็ต​ความคืบหน้า​การ​การ​อาร์​ติ​ไฟ​ซ์​ใน​ปัจจุบัน​ทั้งหมด​ โอกาส​สำเร็จ​ทันที​จะ​ <@gd.key>​เพิ่มขึ้น​</> เล็กน้อย​ หาก​อุปกรณ์​ที่​ใช้​เป็น​วัตถุดิบ​มีค่า​สถานะ​พื้นฐาน​ <@gd.key>​สูง​กว่า​</>​อุปกรณ์​เป้าหมาย​เหล่านั้น",
+                "VN": "Chế tác trang bị có tỷ lệ thành công trực tiếp rất nhỏ. Một lần chế tác thành công cũng sẽ đưa tiến trình chế tác hiện tại về ban đầu. Tỷ lệ thành công trực tiếp sẽ <@gd.key>tăng</> nhẹ khi trang bị được dùng làm nguyên liệu chế tác có chỉ số cơ bản <@gd.key>cao hơn</> so với trang bị cần chế tác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_6",
               "pageIndex": 7,
               "title": {
-                "id": "-3131472083476860865",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Progresso (2)",
+                "CN": "精锻积累 - 二",
+                "DE": "Ausrüstungsveredelung: Fortschritt (2)",
+                "EN": "Gear Artificing: Progress (2)",
+                "FR": "Renforcement d'équipement : progression (2)",
+                "ID": "Penyempurnaan Gear: Progres (2)",
+                "IT": "Artificio di equipaggiamenti: progresso (2)",
+                "JP": "加工保証 - 2",
+                "KR": "정밀 단조 누적 - 2",
+                "MX": "Elaboración de equipamiento: Progreso (2)",
+                "RU": "Доработка снаряжения: прогресс (2)",
+                "TC": "精鍛累積 - 二",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ความคืบหน้า​ (2)",
+                "VN": "Chế Tác Trang Bị: Tiến Trình (2)"
               }
             }
           ]
@@ -528,132 +696,372 @@
           "dataArray": [
             {
               "desc": {
-                "id": "290735761642309690",
-                "text": ""
+                "BR": "Use o Aprimoramento de Equipamentos para melhorar vários atributos básicos de equipamentos de qualidade ouro. \nUm aprimoramento bem-sucedido fornece um aumento fixo no atributo. Todo atributo tem um limite para o número de tentativas de aprimoramento bem-sucedidas.",
+                "CN": "通过装备精锻系统，可提升金色品质装备的各项初始属性。\n精锻强化成功后，将固定提升属性数值。每项属性都有精锻强化成功次数上限。",
+                "DE": "Nutze Ausrüstungsveredelung, um die verschiedenen Basiswerte von Ausrüstung in Goldqualität zu verbessern. \nErfolgreiches Veredeln gewährt eine feste Erhöhung der Werte. Für jeden Wert kann nur eine bestimmte Anzahl erfolgreicher Veredelungen durchgeführt werden.",
+                "EN": "Use Gear Artificing to improve various base stats of gold-quality gear. \nSuccessful artificing gives a fixed stat increase. Every stat has a limit to the number of successful artificing attempts.",
+                "FR": "Utilisez le renforcement d'équipement pour améliorer les statistiques de base de l'équipement de qualité or. \nChaque renforcement réussi octroie une augmentation de stats définie. Chacune des stats ne tolère qu'un nombre limité de tentatives de renforcement réussies.",
+                "ID": "Gunakan Penyempurnaan Gear untuk meningkatkan berbagai stat dasar gear berkualitas emas. \nJika penyempurnaan berhasil, stat akan mendapatkan peningkatan tetap. Setiap stat punya batas jumlah upaya penyempurnaan yang berhasil.",
+                "IT": "Usa l'artificio di equipaggiamenti per migliorare varie statistiche di base degli equipaggiamenti di qualità oro. \nGli artifici riusciti forniscono un aumento fisso delle statistiche. Ogni statistica ha un limite di tentativi di artificio riusciti.",
+                "JP": "装備の精密加工は、金品質装備の初期ステータスを強化できます。\n精密加工が成功すると、ステータスが一定値上昇します。なお、各ステータスには加工成功の回数上限が設けられています。",
+                "KR": "장비 정밀 단조 시스템을 통해 노란색 품질 장비의 각 초기 속성을 업그레이드할 수 있습니다.\n정밀 단조 강화에 성공하면, 속성 수치가 고정적으로 증가합니다. 각 속성의 정밀 단조 강화 성공 횟수는 제한되어 있습니다.",
+                "MX": "Usa la elaboración de equipamiento para mejorar varias estadísticas base del equipamiento de calidad dorada. \nUna elaboración exitosa otorga un aumento fijo de estadísticas. Cada estadística tiene un límite de intentos de elaboración exitosos.",
+                "RU": "Дорабатывайте снаряжение, чтобы улучшить базовые характеристики золотого снаряжения.\nУспешная доработка фиксирует повышение характеристик, у каждой из которых есть лимит на количество доработок.",
+                "TC": "透過裝備精鍛系統，可提升金色品質裝備的各項初始屬性。\n精鍛強化成功後，將固定提升屬性數值。每項屬性都有精鍛強化成功次數上限。",
+                "TH": "ใช้การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​เพื่อ​ปรับปรุง​ค่า​สถานะ​พื้นฐาน​ต่า​งๆ​ ของ​อุปกรณ์​คุณภาพ​ระดับ​ทองคำ​ \nการ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​สำเร็จ​จะ​ทำให้​ค่า​สถานะ​เพิ่มขึ้น​ใน​รูปแบบ​คงที่​ ค่า​สถานะ​แต่ละ​รายการ​จะ​มี​ขีดจำกัด​ของ​จำนวน​ครั้ง​ที่​สามารถ​อาร์​ติ​ไฟ​ซ์​สำเร็จ​ได้",
+                "VN": "Sử dụng Chế Tác Trang Bị để cải thiện các chỉ số cơ bản khác nhau của trang bị chất lượng vàng. \nChế tác thành công sẽ tăng cố định cho chỉ số. Mỗi chỉ số đều giới hạn số lần chế tác thành công."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_1",
               "pageIndex": 1,
               "title": {
-                "id": "6007794145081243958",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos",
+                "CN": "装备精锻",
+                "DE": "Ausrüstungsveredelung",
+                "EN": "Gear Artificing",
+                "FR": "Renforcement d'équipement",
+                "ID": "Penyempurnaan Gear",
+                "IT": "Artificio di equipaggiamenti",
+                "JP": "精密加工",
+                "KR": "장비 정밀 단조",
+                "MX": "Elaboración de equipamiento",
+                "RU": "Доработка снаряжения",
+                "TC": "裝備精鍛",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์",
+                "VN": "Chế Tác Trang Bị"
               }
             },
             {
               "desc": {
-                "id": "-6928630925797081668",
-                "text": ""
+                "BR": "Cada tentativa de aprimoramento custa <@gd.key>equipamento de qualidade ouro</> e <@gd.key>catalisador de aprimoramento de equipamentos</>.",
+                "CN": "每次装备精锻需耗费<@gd.key>金色品质装备</>和<@gd.key>装备精锻助剂</>。",
+                "DE": "Jeder Veredelungsversuch kostet <@gd.key>Ausrüstungsteile in Gold-Qualität</> und <@gd.key>Ausrüstungsveredelungs-Katalysatoren</>.",
+                "EN": "Each artificing attempt costs <@gd.key>gold-quality gear</> and <@gd.key>gear artificing catalyst</>.",
+                "FR": "Chaque tentative de renforcement coûte de <@gd.key>l'équipement de qualité or</> et un <@gd.key>catalyseur de renforcement d'équipement</>.",
+                "ID": "Setiap upaya penyempurnaan butuh <@gd.key>gear berkualitas emas</> dan <@gd.key>katalis penyempurna gear</>.",
+                "IT": "Ogni tentativo di artificio costa 1 <@gd.key>equipaggiamento di qualità oro</> e 1 <@gd.key>catalizzatore per artifici</>.",
+                "JP": "精密加工では、<@gd.key>金品質の装備</>と<@gd.key>精密加工強化剤</>を消費します。",
+                "KR": "정밀 단조를 진행할 때는 <@gd.key>노란색 품질 장비</> 및 <@gd.key>장비 정밀 단조제</>가 필요합니다.",
+                "MX": "Cada intento de elaboración cuesta <@gd.key>equipamiento de calidad dorada</> y un <@gd.key>catalizador de elaboración de equipamiento</>.",
+                "RU": "Каждая доработка потратит <@gd.key>предмет золотого снаряжения</> и <@gd.key>катализатор доработки снаряжения</>.",
+                "TC": "每次裝備精鍛需耗費<@gd.key>金色品質裝備</>和<@gd.key>裝備精鍛助劑</>。",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​แต่ละครั้ง​จะ​ใช้​ <@gd.key>​อุปกรณ์​คุณภาพ​ทองคำ​</> และ​ <@gd.key>​ตัวเร่ง​การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​</>",
+                "VN": "Mỗi lần chế tác sẽ cần đến <@gd.key>trang bị chất lượng vàng</> và <@gd.key>chất xúc tác chế tác trang bị</>."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_2",
               "pageIndex": 2,
               "title": {
-                "id": "-5209881188129525813",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (1)",
+                "CN": "精锻耗费 - 一",
+                "DE": "Ausrüstungsveredelung: Kosten (1)",
+                "EN": "Gear Artificing: Costs (1)",
+                "FR": "Renforcement d'équipement : coûts (1)",
+                "ID": "Penyempurnaan Gear: Biaya (1)",
+                "IT": "Artificio di equipaggiamenti: costo (1)",
+                "JP": "加工素材 - 1",
+                "KR": "정밀 단조 재료 - 1",
+                "MX": "Elaboración de equipamiento: Costos (1)",
+                "RU": "Доработка снаряжения: расход (1)",
+                "TC": "精鍛耗費 - 一",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (1)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (1)"
               }
             },
             {
               "desc": {
-                "id": "2144135209827095944",
-                "text": ""
+                "BR": "Existem diferentes Catalisadores de Aprimoramento de Equipamentos regionais, e eles devem corresponder à região do equipamento que será aprimorado. Os catalisadores podem ser comprados em vários <@gd.key>redistribuidores do estoque regional</>.",
+                "CN": "装备精锻助剂的所属地区必须与待精锻装备相同。管理员可在各<@gd.key>地区调度员</>处兑换装备精锻助剂。",
+                "DE": "In verschiedenen Regionen gibt es unterschiedliche Ausrüstungsveredelungs-Katalysatoren, also achte bei der Veredelung darauf, dass die zu veredelnde Ausrüstung und der Katalysator aus derselben Region stammen. Katalysatoren sind bei verschiedenen <@gd.key>regionalen Vorratneuverteilern</> erhältlich.",
+                "EN": "There are different regional Gear Artificing Catalysts and they must match the region of the gear to be artificed. Purchase the catalysts from various <@gd.key>regional stock redistributors</>.",
+                "FR": "Il existe différents catalyseurs de renforcement d'équipement, qui doivent provenir de la même région que l'équipement à renforcer. Vous pouvez acheter des catalyseurs auprès des divers <@gd.key>redistributeurs de réserves régionaux</>.",
+                "ID": "Ada berbagai Katalis Penyempurna Gear regional, yang harus sesuai dengan wilayah gear yang akan disempurnakan. Beli katalis di berbagai <@gd.key>redistributor stok regional</>.",
+                "IT": "Ci sono diversi catalizzatori per artifici di equipaggiamenti, e devono provenire dalla stessa regione dell'equipaggiamento da sottoporre ad artificio. I catalizzatori possono essere acquistati presso i vari <@gd.key>ridistributori scorte regionali</>.",
+                "JP": "精密加工強化剤は、加工する装備と同じ地域のものを使用する必要があり、<@gd.key>各地域の取引担当</>から入手できます。",
+                "KR": "장비 정밀 단조제는 정밀 단조를 진행할 장비의 지역과 동일한 지역이어야만 합니다. 관리자는 각 <@gd.key>지역의 관리원</>에게서 장비 정밀 단조제를 교환할 수 있습니다.",
+                "MX": "Hay diferentes Catalizadores de elaboración de equipamiento regionales y deben coincidir con la región del equipamiento a elaborar. Compra los catalizadores en varios <@gd.key>redistribuidores de existencias regionales</>.",
+                "RU": "Используемый катализатор доработки снаряжения должен быть из того же региона, что и снаряжение. Катализаторы можно купить в <@gd.key>региональных перераспределителях резервов</>.",
+                "TC": "裝備精鍛助劑的所屬地區必須與待精鍛裝備相同。管理員可在各<@gd.key>地區調度員</>處兌換裝備精鍛助劑。",
+                "TH": "มี​ตัวเร่ง​การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​แยก​ตาม​ภูมิภาค​ และ​ต้อง​ตรง​กับ​ภูมิภาค​ของ​อุปกรณ์​ที่จะ​นำ​ไป​อาร์​ติ​ไฟ​ซ์​ สามารถ​ซื้อ​ตัวเร่ง​เหล่านี้​ได้​จาก​<@gd.key>​ศูนย์​กระจาย​ของ​ตาม​ภูมิภาค​ต่า​งๆ​</>",
+                "VN": "Có nhiều loại Chất Xúc Tác Chế Tác Trang Bị khác nhau tùy theo khu vực và phải đảm bảo chọn loại phù hợp với khu vực có trang bị cần chế tác. Mua chất xúc tác từ <@gd.key>chuyên gia điều phối theo khu vực</>."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_3",
               "pageIndex": 3,
               "title": {
-                "id": "-193439488815456723",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (2)",
+                "CN": "精锻耗费 - 二",
+                "DE": "Ausrüstungsveredelung: Kosten (2)",
+                "EN": "Gear Artificing: Costs (2)",
+                "FR": "Renforcement d'équipement : coûts (2)",
+                "ID": "Penyempurnaan Gear: Biaya (2)",
+                "IT": "Artificio di equipaggiamenti: costo (2)",
+                "JP": "加工素材 - 2",
+                "KR": "정밀 단조 재료 - 2",
+                "MX": "Elaboración de equipamiento: Costos (2)",
+                "RU": "Доработка снаряжения: расход (2)",
+                "TC": "精鍛耗費 - 二",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (2)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (2)"
               }
             },
             {
               "desc": {
-                "id": "3109475274646128641",
-                "text": ""
+                "BR": "O equipamento usado como material de aprimoramento deve compartilhar o <@gd.key>mesmo tipo (armadura, luvas ou kits)</> do equipamento alvo a ser aprimorado. Por exemplo, apenas armaduras podem ser usadas para aprimorar outras armaduras.",
+                "CN": "当装备作为精锻耗材时，必须与待精锻装备<@gd.key>所属部位类型</>相同。",
+                "DE": "Die Ausrüstung, die als Veredelungsmaterial verwendet wird, muss vom selben <@gd.key>Typ (Rüstung, Handschuhe oder Kits)</> wie die Ausrüstung sein, die veredelt werden soll. Zum Beispiel lässt sich eine Rüstung nur mit einer anderen Rüstung veredeln.",
+                "EN": "The gear used as artificing material must share the <@gd.key>type (armor, gloves, or kits)</> of the target gear to be artificed. For example, only armor can be used to artifice another armor.",
+                "FR": "L'équipement utilisé comme matériau de renforcement doit être du <@gd.key>même type (armure, gants ou kits)</> que l'équipement cible à renforcer. Par exemple, seule une armure peut être employée pour renforcer une autre armure.",
+                "ID": "Gear yang digunakan sebagai material penyempurna harus punya <@gd.key>tipe (armor, sarung tangan, atau kit)</> yang sama dengan gear target yang akan disempurnakan. Misalnya, armor hanya bisa digunakan untuk menyempurnakan armor lain.",
+                "IT": "L'equipaggiamento usato come materiale per l'artificio deve essere dello stesso <@gd.key>tipo (armatura, guanti o kit)</> dell'equipaggiamento da sottoporre ad artificio. Ad esempio, solo un'armatura può essere usata per sottoporre ad artificio un'altra armatura.",
+                "JP": "精密加工では、<@gd.key>同じ部位の装備</>のみ加工素材として使用できます。",
+                "KR": "장비를 정밀 단조 소모품으로 사용할 때는, 정밀 단조를 진행할 장비와 같은 <@gd.key>부위의 장비 유형</>이어야 합니다.",
+                "MX": "El equipamiento utilizado como material de elaboración debe compartir el <@gd.key>tipo (armadura, guantes o kits)</> del equipamiento objetivo que se elaborará. Por ejemplo, solo se puede usar armadura para elaborar otra armadura.",
+                "RU": "Снаряжение, используемое в качестве материала для доработки (броня, перчатки или амуниция), должно быть того же <@gd.key>типа</>, что и целевое снаряжение. Например, доработать броню можно только с помощью другой брони.",
+                "TC": "當裝備作為精鍛耗材時，必須與待精鍛裝備<@gd.key>所屬部位類型</>相同。",
+                "TH": "อุปกรณ์​ที่​ใช้​เป็น​วัสดุ​ใน​การ​อาร์​ติ​ไฟ​ซ์​เครื่องมือ​ต้อง​เป็น​ประเภท​เดียวกัน​<@gd.key> (เช่น​ เกราะ​ ถุงมือ​ หรือ​ชุด​เครื่องมือ​)</> กับ​อุปกรณ์​เป้าหมาย​ที่จะ​อาร์​ติ​ไฟ​ซ์​ ตัวอย่างเช่น​ การ​อาร์​ติ​ไฟ​ซ์​เกราะ​จะ​ใช้ได้​เฉพาะ​อุปกรณ์​ประเภท​เกราะ​เท่านั้น",
+                "VN": "Trang bị được dùng làm nguyên liệu chế tác phải cùng <@gd.key>loại (giáp, găng tay hoặc bộ dụng cụ)</> với vật liệu trang bị chế tác cần thiết. Ví dụ, chỉ có giáp mới dùng được để chế tác một loại giáp khác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_4",
               "pageIndex": 4,
               "title": {
-                "id": "1725253548504877211",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (3)",
+                "CN": "精锻耗费 - 三",
+                "DE": "Ausrüstungsveredelung: Kosten (3)",
+                "EN": "Gear Artificing: Costs (3)",
+                "FR": "Renforcement d'équipement : coûts (3)",
+                "ID": "Penyempurnaan Gear: Biaya (3)",
+                "IT": "Artificio di equipaggiamenti: costo (3)",
+                "JP": "加工素材 - 3",
+                "KR": "정밀 단조 재료 - 3",
+                "MX": "Elaboración de equipamiento: Costos (3)",
+                "RU": "Доработка снаряжения: расход (3)",
+                "TC": "精鍛耗費 - 三",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (3)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (3)"
               }
             },
             {
               "desc": {
-                "id": "1268340915588302279",
-                "text": ""
+                "BR": "O equipamento a ser usado como material de aprimoramento deve ter <@gd.key>atributos aprimoráveis</>, enquanto o valor base (pré-aprimoramento) desses atributos <@gd.key>não pode ser menor</> que os do equipamento a ser aprimorado.",
+                "CN": "当装备作为精锻耗材时，该装备必须<@gd.key>含有待精锻属性</>，且该属性未强化前的初始值<@gd.key>不小于</>待精锻装备对应属性的初始值。",
+                "DE": "Die als Veredelungsmaterial genutzte Ausrüstung muss über <@gd.key>veredelbare Werte</> verfügen. Der Basiswert (vor dem Veredeln) dieser Werte <@gd.key>darf nicht kleiner sein</> als der Basiswert der entsprechenden Werte der Ausrüstung, die veredelt werden soll.",
+                "EN": "The gear used as artificing material must have <@gd.key>artifice-able stats</>, and the base value (pre-artificing) of such stats <@gd.key>cannot be smaller</> than those of the target gear to be artificed.",
+                "FR": "L'équipement utilisé comme matériau de renforcement doit posséder des <@gd.key>stats pouvant être renforcées</>, et leur valeur de base (avant le renforcement) doit être <@gd.key>supérieure ou égale</> à celle des stats de l'équipement à renforcer.",
+                "ID": "Gear yang akan digunakan sebagai material penyempurna harus punya <@gd.key>stat yang bisa disempurnakan</>, dan nilai dasar (sebelum penyempurnaan) stat yang bersangkutan <@gd.key>tidak boleh lebih kecil</> dari nilai dasar gear target yang akan disempurnakan.",
+                "IT": "L'equipaggiamento da usare per l'artificio deve possedere <@gd.key>statistiche compatibili con l'artificio</> e il valore base di tali statistiche (prima dell'artificio) <@gd.key>non può essere inferiore</> a quello dell'equipaggiamento da potenziare.",
+                "JP": "素材として使用する装備は<@gd.key>精密加工ステータス</>を持ち、かつ初期ステータスが対象装備の同項目の<@gd.key>初期ステータス以上</>である必要があります。",
+                "KR": "정밀 단조 소모품으로 사용할 장비는 <@gd.key>정밀 단조를 진행할 속성을 꼭 가지고 있어야</> 하며, 해당 속성의 강화되지 않은 초기 수치가 정밀 단조를 진행할 장비가 가진 해당 속성 초기 수치보다 <@gd.key>낮지 않아야</> 합니다.",
+                "MX": "El equipamiento utilizado como material para elaborar debe tener <@gd.key>estadísticas para la elaboración</>, y el valor base (antes de la elaboración) de dichas estadísticas <@gd.key>no puede ser menor</> que los del equipamiento objetivo que se elaborará.",
+                "RU": "У снаряжения, которое будет использовано, должны быть <@gd.key>характеристики для доработки</>. Ценность этих характеристик (до доработки) должна быть <@gd.key>не ниже</> ценности соответствующих характеристик того снаряжения, которое вы хотите доработать.",
+                "TC": "當裝備作為精鍛耗材時，該裝備必須<@gd.key>含有待精鍛屬性</>，且該屬性未強化前的初始值<@gd.key>不小於</>待精鍛裝備對應屬性的初始值。",
+                "TH": "อุปกรณ์​ที่​ใช้​เป็น​วัสดุ​ใน​การ​อาร์​ติ​ไฟ​ซ์​ต้อง​มี​<@gd.key>​ค่า​สถานะ​ที่​สามารถ​อาร์​ติ​ไฟ​ซ์​ได้​</> และ​ค่า​เริ่มต้น​ของ​ค่า​สถานะ​เหล่านั้น​ (ก่อน​การ​อาร์​ติ​ไฟ​ซ์​) <@gd.key>​ต้อง​ไม่​ต่ำกว่า​</>​ค่า​สถานะ​ของ​อุปกรณ์​เป้าหมาย​ที่​กำลังจะ​นำ​ไป​อาร์​ติ​ไฟ​ซ์",
+                "VN": "Trang bị dùng như vật liệu chế tác phải có <@gd.key>chỉ số chế tác được</> và giá trị ban đầu (trước khi chế tác) của các chỉ số đó <@gd.key>không được nhỏ hơn</> giá trị của trang bị cần chế tác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_5",
               "pageIndex": 5,
               "title": {
-                "id": "-2658023176273765386",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (4)",
+                "CN": "精锻耗费 - 四",
+                "DE": "Ausrüstungsveredelung: Kosten (4)",
+                "EN": "Gear Artificing: Costs (4)",
+                "FR": "Renforcement d'équipement : coûts (4)",
+                "ID": "Penyempurnaan Gear: Biaya (4)",
+                "IT": "Artificio di equipaggiamenti: costo (4)",
+                "JP": "加工素材 - 4",
+                "KR": "정밀 단조 재료 - 4",
+                "MX": "Elaboración de equipamiento: Costos (4)",
+                "RU": "Доработка снаряжения: расход (4)",
+                "TC": "精鍛耗費 - 四",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (4)",
+                "VN": "Chế Tác Trang Bị: Tiêu Hao (4)"
               }
             },
             {
               "desc": {
-                "id": "569498138760271126",
-                "text": ""
+                "BR": "Em uma tentativa de aprimoramento, você pode <@gd.key>selecionar em massa</> até 25 peças de equipamento como materiais de aprimoramento. A tentativa de aprimoramento consumirá as peças de equipamento selecionadas, <@gd.key>uma de cada vez, em ordem de seleção</>. Após o aprimoramento bem-sucedido, você receberá as peças de equipamento não consumidas, bem como o Catalisador de Aprimoramento de Equipamento produzido durante a tentativa de aprimoramento.",
+                "CN": "单次精锻中，可<@gd.key>批量选择</>多件装备作为精锻耗材（至多25件）。\n精锻开始后，将按照<@gd.key>选择次序</>依次耗费所选装备。若精锻强化提前成功，则会返还本次精锻未耗费的装备和装备精锻助剂。",
+                "DE": "Bei einem Veredelungsversuch kannst du bis zu 25 Ausrüstungsteile per <@gd.key>Massenauswahl</> als Veredelungsmaterialien zusammenlegen. Durch den Veredelungsversuch werden die gewählten Ausrüstungsteile <@gd.key>nacheinander in der Reihenfolge ihrer Auswahl verbraucht</>. Nach einer erfolgreichen Veredelung erhältst du sämtliche Ausrüstungsteile, die nicht verbraucht wurden, sowie während des Veredelungsversuchs entstandene Ausrüstungsveredelungs-Katalysatoren.",
+                "EN": "For an artificing attempt, you can <@gd.key>bulk-select</> up to 25 pieces of gear as artificing materials. Making the artificing attempt will consume the selected pieces of gear, <@gd.key>one at a time, in the order of selection</>. Upon successful artificing, you will receive any piece of gear not consumed as well as Gear Artificing Catalyst made during that artificing attempt.",
+                "FR": "Pour procéder à une tentative de renforcement, vous pouvez <@gd.key>sélectionner d'un coup</> jusqu'à 25 pièces d'équipements comme matériaux de renforcement. La tentative de renforcement consommera les pièces sélectionnées, <@gd.key>une à la fois et dans l'ordre de sélection</>. Si le renforcement est réussi, vous récupèrerez toutes les pièces d'équipement qui n'ont pas été consommées ainsi que le catalyseur de renforcement d'équipement produit lors de la tentative.",
+                "ID": "Untuk upaya penyempurnaan, kamu bisa menggunakan <@gd.key>pilih massal</> hingga 25 kepingan gear sekaligus sebagai material penyempurna. Upaya penyempurnaan akan memakai kepingan gear yang dipilih, <@gd.key>satu per satu, sesuai urutan pemilihan</>. Setelah penyempurnaan berhasil, kamu akan menerima kepingan gear mana saja yang tidak terpakai serta Katalis Penyempurna Gear yang dibuat dalam upaya penyempurnaan gear itu.",
+                "IT": "Quando tenti un artificio, puoi <@gd.key>selezionare in blocco</> fino a 25 equipaggiamenti come materiali. Procedendo con il tentativo, consumerai gli equipaggiamenti selezionati <@gd.key>uno alla volta, nell'ordine di selezione</>. Se l'artificio riesce, riceverai gli eventuali equipaggiamenti non utilizzati e il catalizzatore per artifici realizzato nel tentativo di artificio.",
+                "JP": "1回の精密加工では、複数の装備を加工素材として<@gd.key>一括選択</>することができます（最大25点）。\n加工開始後、<@gd.key>選択順</>で選んだ装備を使用して加工を行います。素材を使い切る前に加工が成功すると、今回使用されていない装備と精密加工強化剤が返還されます。",
+                "KR": "정밀 단조 1회 진행 시, 여러 장비를 정밀 단조 소모품으로 <@gd.key>일괄 선택</>할 수 있습니다.(최대 25개)\n정밀 단조가 시작된 후, <@gd.key>선택한 순서</>에 따라 해당 장비가 차례대로 소모됩니다. 정밀 단조 강화가 중도에 성공하면, 이번 정밀 단조에서 아직 소모되지 않은 장비와 장비 정밀 단조제는 반환됩니다.",
+                "MX": "Para un intento de elaboración, puedes <@gd.key>seleccionar en masa</> hasta 25 piezas de equipamiento como materiales de elaboración. Al realizar el intento de elaboración, se consumirán las piezas de equipamiento seleccionadas <@gd.key>una a una, en el orden en que fueron seleccionadas</>. Al elaborar con éxito, recibirás cualquier pieza de equipamiento no consumida, así como el Catalizador de elaboración de equipamiento creado durante ese intento de elaboración.",
+                "RU": "Чтобы доработать снаряжение, вы можете <@gd.key>массово выбрать</> до 25 единиц в качестве материалов. При доработке выбранное снаряжение будет поглощено <@gd.key>по одному за раз в порядке выбора</>. В случае успешной доработки вы получите все снаряжение, не поглощенное в ходе этой попытки, а также катализатор доработки снаряжения.",
+                "TC": "單次精鍛中，可<@gd.key>大量選取</>多件裝備作為精鍛耗材（最多25件）。\n精鍛開始後，將按照<@gd.key>選擇順序</>依序耗費所選裝備。若精鍛強化提前成功，則會返還本次精鍛未耗費的裝備和裝備精鍛助劑。",
+                "TH": "ใน​การ​อาร์​ติ​ไฟ​ซ์​ คุณ​สามารถ​<@gd.key>​จัด​ชุด​เลือก​</>​อุปกรณ์​ได้​สูงสุด​ 25 ชิ้น​พร้อมกัน​เป็น​วัสดุ​เพื่อ​การ​อาร์​ติ​ไฟ​ซ์​ การ​อาร์​ติ​ไฟ​ซ์​จะ​ใช้​อุปกรณ์​หลาย​ชิ้น​ที่​เลือก​<@gd.key>​ทีละ​ชิ้น​ตามลำดับ​ที่​เลือก​</> เมื่อ​การ​อาร์​ติ​ไฟ​ซ์​สำเร็จ​ คุณ​จะ​ได้รับ​อุปกรณ์​ทุก​ชิ้น​ที่​ไม่​ถูก​ใช้​ไป​ รวมถึง​ตัวเร่ง​การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​ที่​สร้าง​ขึ้น​ระหว่าง​การ​อาร์​ติ​ไฟ​ซ์​ครั้งนั้น​ด้วย",
+                "VN": "Trong một lần chế tác, bạn có thể <@gd.key>chọn hàng loạt</> nhiều món trang bị làm nguyên liệu, tối đa 25 món. Khi bắt đầu chế tác, các món trang bị đã chọn sẽ bị tiêu hao <@gd.key>từng món một, theo đúng thứ tự đã chọn</>. Nếu chế tác thành công, bạn sẽ nhận được mọi món trang bị chưa bị tiêu hao trong lần đó cùng Chất Xúc Tác Chế Tác Trang Bị tạo ra trong quá trình chế tác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_6",
               "pageIndex": 6,
               "title": {
-                "id": "-6357494007182127027",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (5)",
+                "CN": "精锻耗费 - 五",
+                "DE": "Ausrüstungsveredelung: Kosten (5)",
+                "EN": "Gear Artificing: Costs (5)",
+                "FR": "Renforcement d'équipement : coûts (5)",
+                "ID": "Penyempurnaan Gear: Biaya (5)",
+                "IT": "Artificio di equipaggiamenti: costo (5)",
+                "JP": "加工素材 - 5",
+                "KR": "정밀 단조 재료 - 5",
+                "MX": "Elaboración de equipamiento: Costos (5)",
+                "RU": "Доработка снаряжения: расход (5)",
+                "TC": "精鍛耗費 - 五",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (5)",
+                "VN": "Chế Tác Trang Bị: Tiêu Tốn (5)"
               }
             },
             {
               "desc": {
-                "id": "399238521794158341",
-                "text": ""
+                "BR": "Use o recurso de <@gd.key>Enchimento Automático</> para selecionar várias peças de <@gd.key>equipamento não aprimorado</> como materiais para aprimoramento de acordo com uma sequência padrão.",
+                "CN": "通过<@gd.key>一键填充</>功能，可以将多件<@gd.key>未精锻装备</>，按照默认顺序批量选择为精锻耗材。",
+                "DE": "Nutze die Funktion zum <@gd.key>automatischen Ausfüllen</>, um mehrere <@gd.key>unveredelte Ausrüstungsteile</> in einer festgelegten Reihenfolge als Veredelungsmaterialien auszuwählen.",
+                "EN": "Use the <@gd.key>Auto-Fill</> feature to select multiple pieces of <@gd.key>unartificed gear</> according to a default sequence as the artificing materials.",
+                "FR": "Utilisez la fonction de <@gd.key>remplissage automatique</> pour sélectionner plusieurs <@gd.key>équipements non renforcés</> dans un ordre par défaut. Ces pièces seront utilisées comme matériaux de renforcement.",
+                "ID": "Gunakan fitur <@gd.key>Isi Otomatis</> untuk memilih beberapa kepingan gear yang <@gd.key>belum disempurnakan</> sesuai tahap default sebagai material penyempurna.",
+                "IT": "Usa la funzione di <@gd.key>riempimento automatico</> per selezionare come materiali vari <@gd.key>equipaggiamenti non sottoposti ad artificio</> in una sequenza predefinita.",
+                "JP": "<@gd.key>一括補充</>を使うと、複数の<@gd.key>未加工の装備</>を加工素材としてデフォルト順で一括選択することができます。",
+                "KR": "<@gd.key>일괄 채우기</> 기능을 통해 여러 개의 <@gd.key>정밀 단조하지 않은 장비</>를 기본 순서에 따라 정밀 단조 소모품으로 일괄 선택할 수 있습니다.",
+                "MX": "Usa la función <@gd.key>Llenado automático</> para seleccionar varias piezas de <@gd.key>equipamiento no elaborado</> según una secuencia predeterminada como materiales de elaboración.",
+                "RU": "Функция <@gd.key>автонаполнения</> позволяет выбрать несколько предметов <@gd.key>снаряжения без доработки</> согласно последовательности материалов для доработки по умолчанию.",
+                "TC": "透過<@gd.key>快速填充</>功能，可以將多件<@gd.key>未精鍛裝備</>，按照預設順序大量選取為精鍛耗材。",
+                "TH": "ใช้​ฟีเจอร์​ <@gd.key>​เติม​อัตโนมัติ​</> เพื่อ​เลือก​<@gd.key>​อุปกรณ์​ที่​ยัง​ไม่ได้​อาร์​ติ​ไฟ​ซ์​</>​หลาย​ชิ้น​ตามลำดับ​เริ่มต้น​เป็น​วัสดุ​เพื่อ​ทำการ​อาร์​ติ​ไฟ​ซ์",
+                "VN": "Sử dụng tính năng <@gd.key>Tự Động Điền</> để chọn nhiều món <@gd.key>trang bị chưa qua chế tác</> theo một trình tự mặc định làm nguyên liệu chế tác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_6",
               "pageIndex": 7,
               "title": {
-                "id": "-5596614589061396710",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (6)",
+                "CN": "精锻耗费 - 六",
+                "DE": "Ausrüstungsveredelung: Kosten (6)",
+                "EN": "Gear Artificing: Costs (6)",
+                "FR": "Renforcement d'équipement : coûts (6)",
+                "ID": "Penyempurnaan Gear: Biaya (6)",
+                "IT": "Artificio di equipaggiamenti: costo (6)",
+                "JP": "加工素材 - 6",
+                "KR": "정밀 단조 재료 - 6",
+                "MX": "Elaboración de equipamiento: Costos (6)",
+                "RU": "Доработка снаряжения: расход (6)",
+                "TC": "精鍛耗費 - 六",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (6)",
+                "VN": "Chế Tác Trang Bị: Tiêu Tốn (6)"
               }
             },
             {
               "desc": {
-                "id": "7271762806607665174",
-                "text": ""
+                "BR": "O equipamento aprimorado deve ser selecionado manualmente na lista para ser usado como material de aprimoramento. O equipamento utilizado por um operador não pode ser selecionado como material de aprimoramento.",
+                "CN": "若需要将已精锻过的装备作为精锻耗材，仍需在列表中主动选择。\n干员穿戴中的装备无法选择为精锻耗材。",
+                "DE": "Veredelte Ausrüstung musst du manuell auf der Liste auswählen, damit sie als Veredelungsmaterial dienen kann. Ausrüstung, die von Operatoren aktuell getragen wird, eignet sich nicht als Veredelungsmaterial.",
+                "EN": "Artificed gear must be manually selected from the list to be used as artificing material. Gear being equipped by an operator cannot be selected as artificing material.",
+                "FR": "L'équipement renforcé doit être sélectionné manuellement dans la liste afin de pouvoir être utilisé comme matériau de renforcement. S'il est utilisé par un opérateur, l'équipement ne peut pas être sélectionné.",
+                "ID": "Gear yang sudah disempurnakan harus dipilih secara manual dari daftar untuk digunakan sebagai material penyempurna. Gear yang sedang dipakai oleh operator tidak bisa dipilih sebagai material penyempurna.",
+                "IT": "Gli equipaggiamenti sottoposti ad artificio devono essere selezionati manualmente dall'elenco. Non è possibile scegliere come materiale di artificio gli equipaggiamenti che gli operatori stanno utilizzando.",
+                "JP": "加工済みの装備を加工素材として使用する場合、リストから手動で選択する必要があります。\nオペレーターが着用している装備は加工素材として選択できません。",
+                "KR": "이미 정밀 단조한 장비를 정밀 단조 소모품으로 사용하려면, 여전히 목록에서 직접 선택해야 합니다.\n오퍼레이터가 착용 중인 장비는 정밀 단조 소모품으로 선택할 수 없습니다.",
+                "MX": "El equipamiento elaborado debe seleccionarse manualmente de la lista para usarse como material de elaboración. El equipamiento que esté usando un operador no puede seleccionarse como material de elaboración.",
+                "RU": "Чтобы использовать в качестве материалов доработанное снаряжение, необходимо выбирать его из списка вручную. Снаряжение, используемое оперативником, нельзя выбрать в качестве материалов для доработки.",
+                "TC": "若需要將已精鍛過的裝備作為精鍛耗材，仍需在列表中主動選擇。\n幹員穿戴中的裝備無法選擇為精鍛耗材。",
+                "TH": "อุปกรณ์​อาร์​ติ​ไฟ​ซ์​ต้อง​เลือก​เอง​จาก​รายการ​ที่จะ​ใช้​เป็น​วัสดุ​เพื่อ​ทำการ​อาร์​ติ​ไฟ​ซ์​ อุปกรณ์​ที่​โอเปอเรเตอร์​สวมใส่​จะ​เลือก​เป็น​วัสดุ​เพื่อ​ทำการ​อาร์​ติ​ไฟ​ซ์​ไม่ได้",
+                "VN": "Trang bị đã qua chế tác phải được chọn thủ công từ danh sách nếu muốn dùng làm nguyên liệu chế tác. Những trang bị đang được cán viên dùng làm trang bị sẽ không thể được chọn làm nguyên liệu chế tác."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_7",
               "pageIndex": 8,
               "title": {
-                "id": "1606908991372468077",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Custos (7)",
+                "CN": "精锻耗费 - 七",
+                "DE": "Ausrüstungsveredelung: Kosten (7)",
+                "EN": "Gear Artificing: Costs (7)",
+                "FR": "Renforcement d'équipement : coûts (7)",
+                "ID": "Penyempurnaan Gear: Biaya (7)",
+                "IT": "Artificio di equipaggiamenti: costo (7)",
+                "JP": "加工素材 - 7",
+                "KR": "정밀 단조 재료 - 7",
+                "MX": "Elaboración de equipamiento: Costos (7)",
+                "RU": "Доработка снаряжения: расход (7)",
+                "TC": "精鍛耗費 - 七",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: ค่าใช้จ่าย​ (7)",
+                "VN": "Chế Tác Trang Bị: Tiêu Tốn (7)"
               }
             },
             {
               "desc": {
-                "id": "4423839671945094470",
-                "text": ""
+                "BR": "Aprimorar um atributo específico de um equipamento aumenta o progresso do aprimoramento. Atingir o limite de progresso <@gd.key>garante o sucesso</> na próxima tentativa de aprimoramento desse atributo de equipamento. Equipamentos e atributos diferentes possuem limites de progresso de aprimoramento diferentes.",
+                "CN": "每次对装备属性进行精锻时，将积累精锻进度，积累达到上限时，下一次该装备属性精锻强化将<@gd.key>必定成功</>。\n不同装备和属性的精锻积累上限略有不同。",
+                "DE": "Durch die Ausrüstungsveredelung eines bestimmten Ausrüstungswerts sammelt sich Veredelungsfortschritt an. Erreichst du das Fortschrittslimit, <@gd.key>gelingt</> der nächste Veredelungsversuch für diesen Ausrüstungswert garantiert. Verschiedene Ausrüstung und Ausrüstungswerte haben unterschiedliche Limits hinsichtlich des Veredelungsfortschritts.",
+                "EN": "Performing gear artificing of a particular gear stat builds up artificing progress. Reaching the progress limit <@gd.key>guarantees success</> for the next artificing attempt of this gear stat. Different gear and gear stats have different artificing progress limits.",
+                "FR": "Lorsque vous réalisez un renforcement d'équipement pour une certaine stat d'équipement, vous augmentez la progression du renforcement. Une fois la limite de progression atteinte, <@gd.key>le succès sera garanti</> lors de votre prochaine tentative de renforcement pour cette stat d'équipement. Les différents équipements et les diverses stats d'équipement disposent de limites de progression de renforcement variées.",
+                "ID": "Dengan melakukan penyempurnaan gear untuk stat gear tertentu, progres penyempurnaan akan meningkat. Dengan mencapai batas progres, upaya penyempurnaan berikutnya untuk stat gear itu <@gd.key>dijamin akan berhasil</>. Setiap gear dan stat gear punya batas progres penyempurnaan yang berbeda-beda.",
+                "IT": "Eseguire l'artificio di equipaggiamenti su particolari statistiche permette di compiere progressi di artificio. Raggiungere il limite di progresso <@gd.key>garantisce la riuscita</> del tentativo di artificio successivo della statistica in questione. I limiti di progresso degli artifici variano in base agli equipaggiamenti e alle loro statistiche.",
+                "JP": "装備ステータスの精密加工を行うたびに、加工保証の進捗を獲得できます。上限に到達すると、次の精密加工の<@gd.key>成功率が100%になります</>。\n装備やステータスによって、加工保証の進捗上限も異なります。",
+                "KR": "장비 속성을 정밀 단조할 때마다 정밀 단조 진행도가 누적됩니다. 누적 수치가 최대치에 도달하면, 다음번 해당 장비 속성 정밀 단조 강화는 <@gd.key>반드시 성공</>합니다.\n장비 및 속성에 따라 정밀 단조 누적 최대치는 약간씩 다릅니다.",
+                "MX": "Realizar la elaboración de una estadística específica del equipamiento acumula progreso de elaboración. Alcanzar el límite de progreso <@gd.key>garantiza el éxito</> del siguiente intento de elaboración de esta estadística del equipamiento. Diferentes piezas de equipamiento y estadísticas del equipamiento tienen distintos límites de progreso de elaboración.",
+                "RU": "Прогресс накапливается при доработке определенной характеристики снаряжения. Если достичь лимита прогресса, следующая попытка доработки этой характеристики <@gd.key>гарантированно завершится успехом</>. У разного снаряжения и характеристик разные лимиты прогресса.",
+                "TC": "每次精鍛裝備屬性時，將累積精鍛進度，累積達到上限時，下一次該裝備屬性精鍛強化將<@gd.key>必定成功</>。\n不同裝備和屬性的精鍛累積上限略有不同。",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​ใน​ค่า​สถานะ​ใด​สถานะ​หนึ่ง​จะ​สะสม​กระบวนการ​อาร์​ติ​ไฟ​ซ์​ เมื่อ​กระบวนการ​ถึง​ขีดจำกัด​ จะ​ <@gd.key>​รับประกัน​ความสำเร็จ​</> สำหรับ​การ​อาร์​ติ​ไฟ​ซ์​ค่า​สถานะ​นั้น​ครั้ง​ถัดไป​ อุปกรณ์​และ​ค่า​สถานะ​แต่ละ​ประเภท​จะ​มี​ขีดจำกัด​กระบวนการ​อาร์​ติ​ไฟ​ซ์​ที่​แตกต่าง​กัน",
+                "VN": "Việc tiến hành chế tác trang bị có chỉ số trang bị cụ thể sẽ cộng dồn vào tiến độ chế tác. Hoàn thành toàn bộ tiến độ sẽ <@gd.key>đảm bảo thành công</> cho lần chế tác tiếp theo với chỉ số trang bị đó. Các loại trang bị và chỉ số trang bị khác nhau sẽ có giới hạn tiến độ chế tác khác nhau."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_8",
               "pageIndex": 9,
               "title": {
-                "id": "4302554927298070168",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Progresso (1)",
+                "CN": "精锻积累 - 一",
+                "DE": "Ausrüstungsveredelung: Fortschritt (1)",
+                "EN": "Gear Artificing: Progress (1)",
+                "FR": "Renforcement d'équipement : progression (1)",
+                "ID": "Penyempurnaan Gear: Progres (1)",
+                "IT": "Artificio di equipaggiamenti: progresso (1)",
+                "JP": "加工保証 - 1",
+                "KR": "정밀 단조 누적 - 1",
+                "MX": "Elaboración de equipamiento: Progreso (1)",
+                "RU": "Доработка снаряжения: прогресс (1)",
+                "TC": "精鍛累積 - 一",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: กระบวนการ​ (1)",
+                "VN": "Chế Tác Trang Bị: Tiến Độ (1)"
               }
             },
             {
               "desc": {
-                "id": "1115896778014365637",
-                "text": ""
+                "BR": "As tentativas de aprimoramento de equipamentos apresentam uma pequena chance de ser bem-sucedidas na primeira tentativa. Uma tentativa bem-sucedida também reinicia o progresso atual do aprimoramento. A chance de sucesso na primeira tentativa é ligeiramente <@gd.key>maior</> quando o equipamento usado como material de aprimoramento possui atributos base <@gd.key>superiores</> aos do equipamento que está sendo aprimorado. Esse equipamento receberá a tag: <@gd.key>Boa Correspondência</>.",
+                "CN": "装备精锻有较小可能直接强化成功，且清空当前精锻积累。\n耗费装备的属性初始值<@gd.key>高于</>待精锻装备初始值时，直接完成精锻强化的可能性略有<@gd.key>提升</>，这些装备将会标记为“<@gd.key>较好适配</>”。",
+                "DE": "Bei Ausrüstungsveredelungsversuchen besteht eine geringe Chance auf direkten Erfolg. Ein erfolgreicher Versuch setzt außerdem den aktuellen Veredelungsfortschritt zurück. Die Chance auf direkten Erfolg wird geringfügig <@gd.key>verbessert</>, wenn die als Veredelungsmaterial genutzte Ausrüstung <@gd.key>höhere</> Basiswerte hat als die zu veredelnde Ausrüstung. Solche Ausrüstung erhält den Zusatz: <@gd.key>Gute Übereinstimmung</>.",
+                "EN": "Gear artificing attempts have a small chance of direct success. A successful attempt also resets the current artificing progress. Chance of direct success is slightly <@gd.key>improved</> when the gear used as the artificing material has <@gd.key>higher</> base stats than those of the gear to be artificed. Such gear will be given the tag: <@gd.key>Good Match</>.",
+                "FR": "Les tentatives de renforcement d'équipement ont peu de chances d'aboutir directement à un succès. Toute tentative réussie réinitialise également la progression du renforcement en cours. Les chances d'obtenir directement un succès sont légèrement <@gd.key>améliorées</> lorsque l'équipement servant de matériau de renforcement dispose de stats de bases <@gd.key>plus élevées</> que celles de l'équipement à renforcer. Cet équipement disposera du libellé : <@gd.key>Bonne association</>.",
+                "ID": "Upaya penyempurnaan gear hanya punya peluang kecil untuk langsung berhasil. Upaya yang berhasil juga akan mereset progres penyempurnaan saat ini. Peluang keberhasilan langsung akan sedikit <@gd.key>meningkat</> jika gear yang digunakan sebagai material penyempurna punya stat dasar yang <@gd.key>lebih tinggi</> daripada gear yang akan disempurnakan. Gear seperti ini akan diberi tag: <@gd.key>Pasangan Bagus</>.",
+                "IT": "I tentativi di artificio di equipaggiamenti hanno poche probabilità di riuscita diretta. Un tentativo riuscito azzera inoltre il progresso di artificio attuale. Le probabilità di riuscita diretta <@gd.key>aumentano</> leggermente quando l'equipaggiamento utilizzato come materiale ha statistiche di base <@gd.key>superiori</> a quelle dell'equipaggiamento da potenziare. In tal caso sull'equipaggiamento sarà visibile l'etichetta <@gd.key>[Buona corrispondenza]</>.",
+                "JP": "精密加工は、一定の確率で上限に到達していなくても成功します。その場合、加工保証の進捗はリセットされます。\n素材として使用する装備の初期ステータスが対象装備より<@gd.key>高い</>場合、精密加工がそのまま成功する確率がわずかに<@gd.key>アップ</>します。こういった装備は「<@gd.key>高適合</>」としてマークされます。",
+                "KR": "장비 정밀 단조는 낮은 확률로 즉시 강화에 성공하며, 이 경우 현재 정밀 단조 누적이 초기화됩니다.\n소모하는 장비의 속성 초기 수치가 정밀 단조를 진행할 장비의 초기 수치보다 <@gd.key>높을 경우</>, 즉시 정밀 단조 강화가 완료될 확률이 약간 <@gd.key>증가</>합니다. 이 장비들은 <@gd.key>'양호 조합'</>으로 표시됩니다.",
+                "MX": "Los intentos de elaboración de equipamiento tienen una pequeña probabilidad de éxito directo. Un intento exitoso también reinicia el progreso de elaboración actual. La probabilidad de éxito directo <@gd.key>mejora</> ligeramente cuando el equipamiento usado como material de elaboración tiene estadísticas base <@gd.key>más altas</> que las del equipamiento que se va a elaborar. Dicho equipamiento recibirá la etiqueta: <@gd.key>Buena coincidencia</>.",
+                "RU": "При доработке снаряжения есть небольшой шанс на мгновенный успех. Успешная попытка сбрасывает текущий прогресс доработки. Шанс на мгновенный успех немного <@gd.key>повышается</>, если базовые характеристики снаряжения, которое будет потрачено, <@gd.key>выше</> соответствующих характеристик того снаряжения, которое вы хотите доработать. Такое снаряжение получит метку <@gd.key>Отличное сочетание</>.",
+                "TC": "裝備精鍛有較小可能直接強化成功，且清空目前精鍛累積。\n耗費裝備的屬性初始值<@gd.key>高於</>待精鍛裝備初始值時，直接完成精鍛強化的可能性略有<@gd.key>提升</>，這些裝備將會標記為「<@gd.key>較好適用</>」。",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​มีโอกาส​เล็กน้อย​ที่จะ​สำเร็จ​ทันที​ โดย​การ​อาร์​ติ​ไฟ​ซ์​ที่​สำเร็จ​จะ​รีเซ็ต​กระบวนการ​อาร์​ติ​ไฟ​ซ์​ใน​ปัจจุบัน​ทั้งหมด​ โอกาส​สำเร็จ​ทันที​จะ​ <@gd.key>​เพิ่มขึ้น​</> เล็กน้อย​ หาก​อุปกรณ์​ที่​ใช้​เป็น​วัตถุดิบ​อาร์​ติ​ไฟ​ซ์​มีค่า​สถานะ​พื้นฐาน​ <@gd.key>​สูง​กว่า​</>​อุปกรณ์​เป้าหมาย​เหล่านั้น​ อุปกรณ์​ดังกล่าว​จะ​ได้รับ​แท็ก​: <@gd.key>​เข้ากันได้ดี​</>",
+                "VN": "Chế tác trang bị có tỷ lệ thành công trực tiếp rất nhỏ. Một lần chế tác thành công cũng sẽ đưa tiến độ chế tác hiện tại về ban đầu. Tỷ lệ thành công trực tiếp sẽ <@gd.key>tăng</> nhẹ khi trang bị được dùng làm nguyên liệu chế tác có chỉ số cơ bản <@gd.key>cao hơn</> so với trang bị cần chế tác. Các trang bị này sẽ được gắn thẻ: <@gd.key>Hợp Để Ghép</>."
               },
               "id": "equip_enhance",
               "imagePath": "Guide/guide_pic_equip_enhance_9",
               "pageIndex": 10,
               "title": {
-                "id": "-5899266250788257195",
-                "text": ""
+                "BR": "Aprimoramento de Equipamentos: Progresso (2)",
+                "CN": "精锻积累 - 二",
+                "DE": "Ausrüstungsveredelung: Fortschritt (2)",
+                "EN": "Gear Artificing: Progress (2)",
+                "FR": "Renforcement d'équipement : progression (2)",
+                "ID": "Penyempurnaan Gear: Progres (2)",
+                "IT": "Artificio di equipaggiamenti: progresso (2)",
+                "JP": "加工保証 - 2",
+                "KR": "정밀 단조 누적 - 2",
+                "MX": "Elaboración de equipamiento: Progreso (2)",
+                "RU": "Доработка снаряжения: прогресс (2)",
+                "TC": "精鍛累積 - 二",
+                "TH": "การ​อาร์​ติ​ไฟ​ซ์​อุปกรณ์​: กระบวนการ​ (2)",
+                "VN": "Chế Tác Trang Bị: Tiến Độ (2)"
               }
             }
           ]

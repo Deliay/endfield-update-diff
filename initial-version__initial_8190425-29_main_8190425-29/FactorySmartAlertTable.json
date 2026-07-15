@@ -14,30 +14,75 @@
     "changed": {
       "1": {
         "oldValue": {
-          "id": "-1796842805074767031",
-          "text": ""
+          "BR": "Os %s sendo transferidos não correspondem aos materiais na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+          "CN": "当前传输的%s和%s已存放的材料不同，可以手动拖动%s中的材料到背包或仓库，腾出空间。",
+          "DE": "%s (in Übertragung) entsprechen nicht den Materialien in %s. Ziehe Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+          "EN": "%s being transferred don't match materials in the %s. Drag materials from the %s to the Backpack or Depot to free up space.",
+          "FR": "Le transfert de %s ne correspond pas aux matériaux actuellement dans : %s. Afin de libérer de l'espace, transférez dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+          "ID": "%s yang sedang ditransfer tidak cocok dengan material yang ada di %s. Seret material dari %s ke Ransel atau Depot untuk mengosongkan ruang.",
+          "IT": "I materiali trasferiti (%s) non corrispondono ai materiali all'interno di: %s. Trascina i materiali da %s nello zaino o nel deposito per liberare spazio.",
+          "JP": "輸送中の%sは%sに保存されている素材と異なります。%s内の素材を道具箱または倉庫へドラッグして整理しましょう。",
+          "KR": "현재 운송 중인 %s과(와) %s에 보관된 재료가 다릅니다. %s 안의 재료를 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+          "MX": "%s en transferencia no coincide con los materiales en %s. Arrastra los materiales desde %s a la Mochila o al Depósito para liberar espacio.",
+          "RU": "Перемещаемый материал «%s» не соответствует сооружению «%s». Перетащите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+          "TC": "目前傳輸的%s和%s已存放的材料不同，可以手動拖動%s中的材料到背包或倉庫，騰出空間。",
+          "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+          "VN": "%s đang được chuyển không khớp với vật liệu trong %s. Kéo vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
         },
         "newValue": {
           "alertText": {
-            "id": "-1796842805074767031",
-            "text": ""
+            "BR": "Os %s sendo transferidos não correspondem aos materiais na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+            "CN": "当前传输的%s和%s已存放的材料不同，可以手动拖动%s中的材料到背包或仓库，腾出空间。",
+            "DE": "%s (in Übertragung) entsprechen nicht den Materialien in %s. Ziehe Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+            "EN": "%s being transferred don't match materials in the %s. Drag materials from the %s to the Backpack or Depot to free up space.",
+            "FR": "Le transfert de %s ne correspond pas aux matériaux actuellement dans : %s. Afin de libérer de l'espace, transférez dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+            "ID": "%s yang sedang ditransfer tidak cocok dengan material yang ada di %s. Seret material dari %s ke Ransel atau Depot untuk mengosongkan ruang.",
+            "IT": "I materiali trasferiti (%s) non corrispondono ai materiali all'interno di: %s. Trascina i materiali da %s nello zaino o nel deposito per liberare spazio.",
+            "JP": "輸送中の%sは%sに保存されている素材と異なります。%s内の素材を道具箱または倉庫へドラッグして整理しましょう。",
+            "KR": "현재 운송 중인 %s과(와) %s에 보관된 재료가 다릅니다. %s 안의 재료를 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+            "MX": "%s en transferencia no coincide con los materiales en %s. Arrastra los materiales desde %s a la Mochila o al Depósito para liberar espacio.",
+            "RU": "Перемещаемый материал «%s» не соответствует сооружению «%s». Перетащите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+            "TC": "目前傳輸的%s和%s已存放的材料不同，可以手動拖動%s中的材料到背包或倉庫，騰出空間。",
+            "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "%s đang được chuyển không khớp với vật liệu trong %s. Kéo vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
           },
           "alertText_ct": {
-            "id": "-4786304899530944774",
-            "text": ""
+            "BR": "Os %s sendo transferidos não correspondem aos materiais na %s. Mova manualmente materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+            "CN": "当前传输的%s和%s已存放的材料不同，可以手动将%s中的材料移动到背包或仓库，腾出空间。",
+            "DE": "%s (in Übertragung) entsprechen nicht den Materialien in %s. Bewege manuell Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+            "EN": "%s being transferred don't match materials in the %s. Manually move materials from the %s to the Backpack or Depot to free up space.",
+            "FR": "Le transfert de %s ne correspond pas aux matériaux actuellement dans : %s. Afin de libérer de l'espace, déplacez manuellement dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+            "ID": "%s yang sedang ditransfer tidak cocok dengan material yang ada di %s. Pindahkan material dari %s ke Ransel atau Depot secara manual untuk mengosongkan ruang.",
+            "IT": "I materiali trasferiti (%s) non corrispondono ai materiali all'interno di: %s. Sposta manualmente i materiali da %s nello zaino o nel deposito per liberare spazio.",
+            "JP": "輸送中の%sは%sに保存されている素材と異なります。%s内の素材を道具箱または倉庫へ移動して整理しましょう。",
+            "KR": "현재 운송 중인 %s과(와) %s에 보관된 재료가 다릅니다. %s 안의 재료를 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+            "MX": "%s en transferencia no coincide con los materiales en %s. Mueve manualmente los materiales de %s a la Mochila o el Depósito para liberar espacio.",
+            "RU": "Перемещаемый материал «%s» не соответствует сооружению «%s». Вручную переместите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+            "TC": "目前傳輸的%s和%s已存放的材料不同，可以手動將%s中的材料移動到背包或倉庫，騰出空間。",
+            "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "%s đang được chuyển không khớp với vật liệu trong %s. Di chuyển thủ công vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
           },
           "alertText_mb": {
-            "id": "-7713196384491156102",
-            "text": ""
+            "BR": "Os %s sendo transferidos não correspondem aos materiais na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+            "CN": "当前传输的%s和%s已存放的材料不同，可以手动拖动%s中的材料到背包或仓库，腾出空间。",
+            "DE": "%s (in Übertragung) entsprechen nicht den Materialien in %s. Ziehe Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+            "EN": "%s being transferred don't match materials in the %s. Drag materials from the %s to the Backpack or Depot to free up space.",
+            "FR": "Le transfert de %s ne correspond pas aux matériaux actuellement dans : %s. Afin de libérer de l'espace, transférez dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+            "ID": "%s yang sedang ditransfer tidak cocok dengan material yang ada di %s. Seret material dari %s ke Ransel atau Depot untuk mengosongkan ruang.",
+            "IT": "I materiali trasferiti (%s) non corrispondono ai materiali all'interno di: %s. Trascina i materiali da %s nello zaino o nel deposito per liberare spazio.",
+            "JP": "輸送中の%sは%sに保存されている素材と異なります。%s内の素材を道具箱または倉庫へドラッグして整理しましょう。",
+            "KR": "현재 운송 중인 %s과(와) %s에 보관된 재료가 다릅니다. %s 안의 재료를 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+            "MX": "%s en transferencia no coincide con los materiales en %s. Arrastra los materiales desde %s a la Mochila o al Depósito para liberar espacio.",
+            "RU": "Перемещаемый материал «%s» не соответствует сооружению «%s». Перетащите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+            "TC": "目前傳輸的%s和%s已存放的材料不同，可以手動拖動%s中的材料到背包或倉庫，騰出空間。",
+            "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "%s đang được chuyển không khớp với vật liệu trong %s. Kéo vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-1796842805074767031",
-              "text": ""
-            },
+            "oldValue": "Os %s sendo transferidos não correspondem aos materiais na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
             "newValue": {
               "alertText": {
                 "id": "-1796842805074767031",
@@ -57,30 +102,75 @@
       },
       "2": {
         "oldValue": {
-          "id": "-6161564282236229439",
-          "text": ""
+          "BR": "Vários tipos de materiais sendo transferidos não correspondem àqueles na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+          "CN": "当前传输的多种材料和%s已存放的材料不同，可以手动拖动%s中的材料到背包或仓库，腾出空间。",
+          "DE": "Mehrere Materialtypen in Übertragung entsprechen nicht denen in %s. Ziehe Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+          "EN": "Multiple types of materials being transferred don't match those in the %s. Drag materials from the %s to the Backpack or Depot to free up space.",
+          "FR": "De nombreux types de matériaux transférés ne correspondent pas à ceux actuellement dans : %s. Afin de libérer de l'espace, transférez dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+          "ID": "Beberapa tipe material yang sedang ditransfer tidak cocok dengan yang ada di %s. Seret material dari %s ke Ransel atau Depot untuk mengosongkan ruang.",
+          "IT": "Vari tipi di materiali trasferiti non corrispondono ai materiali all'interno di: %s. Trascina i materiali da %s nello zaino o nel deposito per liberare spazio.",
+          "JP": "輸送中の素材は%sに保存されているものと異なります。%s内の素材を道具箱または倉庫へドラッグして整理しましょう。",
+          "KR": "현재 운송 중인 재료들과 %s에 있는 재료가 다릅니다. %s의 재료를 가방이나 창고로 옮겨보세요.",
+          "MX": "Varios tipos de materiales que se están transfiriendo no coinciden con los de %s. Arrastra los materiales desde %s a la Mochila o al Depósito para liberar espacio.",
+          "RU": "Несколько типов перемещаемых материалов не соответствуют сооружению «%s». Перетащите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+          "TC": "目前傳輸的多種材料和%s已存放的材料不同，可以手動拖動%s中的材料到背包或倉庫，騰出空間。",
+          "TH": "วัสดุ​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+          "VN": "Nhiều loại vật liệu đang được chuyển không khớp với vật liệu trong %s. Kéo vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
         },
         "newValue": {
           "alertText": {
-            "id": "-6161564282236229439",
-            "text": ""
+            "BR": "Vários tipos de materiais sendo transferidos não correspondem àqueles na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+            "CN": "当前传输的多种材料和%s已存放的材料不同，可以手动拖动%s中的材料到背包或仓库，腾出空间。",
+            "DE": "Mehrere Materialtypen in Übertragung entsprechen nicht denen in %s. Ziehe Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+            "EN": "Multiple types of materials being transferred don't match those in the %s. Drag materials from the %s to the Backpack or Depot to free up space.",
+            "FR": "De nombreux types de matériaux transférés ne correspondent pas à ceux actuellement dans : %s. Afin de libérer de l'espace, transférez dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+            "ID": "Beberapa tipe material yang sedang ditransfer tidak cocok dengan yang ada di %s. Seret material dari %s ke Ransel atau Depot untuk mengosongkan ruang.",
+            "IT": "Vari tipi di materiali trasferiti non corrispondono ai materiali all'interno di: %s. Trascina i materiali da %s nello zaino o nel deposito per liberare spazio.",
+            "JP": "輸送中の素材は%sに保存されているものと異なります。%s内の素材を道具箱または倉庫へドラッグして整理しましょう。",
+            "KR": "현재 운송 중인 재료들과 %s에 있는 재료가 다릅니다. %s의 재료를 가방이나 창고로 옮겨보세요.",
+            "MX": "Varios tipos de materiales que se están transfiriendo no coinciden con los de %s. Arrastra los materiales desde %s a la Mochila o al Depósito para liberar espacio.",
+            "RU": "Несколько типов перемещаемых материалов не соответствуют сооружению «%s». Перетащите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+            "TC": "目前傳輸的多種材料和%s已存放的材料不同，可以手動拖動%s中的材料到背包或倉庫，騰出空間。",
+            "TH": "วัสดุ​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Nhiều loại vật liệu đang được chuyển không khớp với vật liệu trong %s. Kéo vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
           },
           "alertText_ct": {
-            "id": "9195856054947735705",
-            "text": ""
+            "BR": "Vários tipos de materiais sendo transferidos não correspondem àqueles na %s. Mova manualmente materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+            "CN": "当前传输的多种材料和%s已存放的材料不同，可以手动将%s中的材料移动到背包或仓库，腾出空间。",
+            "DE": "Mehrere Materialtypen in Übertragung entsprechen nicht denen in %s. Bewege manuell Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+            "EN": "Multiple types of materials being transferred don't match those in the %s. Manually move materials from the %s to the Backpack or Depot to free up space.",
+            "FR": "De nombreux types de matériaux transférés ne correspondent pas à ceux actuellement dans : %s. Afin de libérer de l'espace, déplacez manuellement dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+            "ID": "Beberapa tipe material yang sedang ditransfer tidak cocok dengan yang ada di %s. Pindahkan material dari %s ke Ransel atau Depot secara manual untuk mengosongkan ruang.",
+            "IT": "Vari tipi di materiali trasferiti non corrispondono ai materiali all'interno di: %s. Sposta manualmente i materiali da %s nello zaino o nel deposito per liberare spazio.",
+            "JP": "輸送中の素材は%sに保存されているものと異なります。%s内の素材を道具箱または倉庫へ移動して整理しましょう。",
+            "KR": "현재 운송 중인 재료들과 %s에 있는 재료가 다릅니다. %s 안의 재료를 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+            "MX": "Varios tipos de materiales que se están transfiriendo no coinciden con los de %s. Mueve manualmente los materiales de %s a la Mochila o el Depósito para liberar espacio.",
+            "RU": "Несколько типов перемещаемых материалов не соответствуют сооружению «%s». Вручную переместите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+            "TC": "目前傳輸的多種材料和%s已存放的材料不同，可以手動將%s中的材料移動到背包或倉庫，騰出空間。",
+            "TH": "วัสดุ​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Nhiều loại vật liệu đang được chuyển không khớp với vật liệu trong %s. Di chuyển thủ công vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
           },
           "alertText_mb": {
-            "id": "3879298249207392724",
-            "text": ""
+            "BR": "Vários tipos de materiais sendo transferidos não correspondem àqueles na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
+            "CN": "当前传输的多种材料和%s已存放的材料不同，可以手动拖动%s中的材料到背包或仓库，腾出空间。",
+            "DE": "Mehrere Materialtypen in Übertragung entsprechen nicht denen in %s. Ziehe Materialien aus %s in den Rucksack oder ins Depot, um Platz freizugeben.",
+            "EN": "Multiple types of materials being transferred don't match those in the %s. Drag materials from the %s to the Backpack or Depot to free up space.",
+            "FR": "De nombreux types de matériaux transférés ne correspondent pas à ceux actuellement dans : %s. Afin de libérer de l'espace, transférez dans votre sac à dos ou un entrepôt les matériaux de : %s.",
+            "ID": "Beberapa tipe material yang sedang ditransfer tidak cocok dengan yang ada di %s. Seret material dari %s ke Ransel atau Depot untuk mengosongkan ruang.",
+            "IT": "Vari tipi di materiali trasferiti non corrispondono ai materiali all'interno di: %s. Trascina i materiali da %s nello zaino o nel deposito per liberare spazio.",
+            "JP": "輸送中の素材は%sに保存されているものと異なります。%s内の素材を道具箱または倉庫へドラッグして整理しましょう。",
+            "KR": "현재 운송 중인 재료들과 %s에 있는 재료가 다릅니다. %s의 재료를 가방이나 창고로 옮겨보세요.",
+            "MX": "Varios tipos de materiales que se están transfiriendo no coinciden con los de %s. Arrastra los materiales desde %s a la Mochila o al Depósito para liberar espacio.",
+            "RU": "Несколько типов перемещаемых материалов не соответствуют сооружению «%s». Перетащите материалы из сооружения «%s» в рюкзак или на склад и освободите место.",
+            "TC": "目前傳輸的多種材料和%s已存放的材料不同，可以手動拖動%s中的材料到背包或倉庫，騰出空間。",
+            "TH": "วัสดุ​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​วัสดุ​จาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลังสินค้า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Nhiều loại vật liệu đang được chuyển không khớp với vật liệu trong %s. Kéo vật liệu từ %s vào Túi hoặc Kho Hàng để giải phóng không gian."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-6161564282236229439",
-              "text": ""
-            },
+            "oldValue": "Vários tipos de materiais sendo transferidos não correspondem àqueles na %s. Arraste materiais da %s para a Mochila ou para o Depósito para liberar espaço.",
             "newValue": {
               "alertText": {
                 "id": "-6161564282236229439",
@@ -100,30 +190,75 @@
       },
       "3": {
         "oldValue": {
-          "id": "-2803014638835757801",
-          "text": ""
+          "BR": "O %s sendo transferido não corresponde ao fluido na %s. Arraste um recipiente vazio para o fluido na %s para transferi-lo para o recipiente e liberar espaço.",
+          "CN": "当前传输的%s和%s已存放的液体不同，可以手动拖动空容器到%s的液体处，将液体转移到容器内，腾出空间。",
+          "DE": "%s (in Übertragung) entspricht nicht der Flüssigkeit in %s. Ziehe einen leeren Behälter auf die Flüssigkeit in %s, um sie in den Behälter zu übertragen und Platz freizugeben.",
+          "EN": "%s being transferred doesn't match the fluid in the %s. Drag an empty container onto fluid in the %s to transfer it to the container and free up space.",
+          "FR": "Le transfert de %s ne correspond pas au fluide qu'il y a actuellement dans : %s. Afin de libérer de l'espace et procéder à un transfert dans un contenant, apportez un contenant de fluide vide à : %s.",
+          "ID": "%s yang sedang ditransfer tidak cocok dengan cairan di %s. Seret wadah kosong ke cairan di %s untuk menyalurkannya ke dalam wadah dan mengosongkan ruang.",
+          "IT": "Il liquido trasferito (%s) non corrisponde a quello all'interno di: %s. Trascina un contenitore vuoto sul liquido all'interno di: %s. In questo modo lo trasferirai nel contenitore e libererai spazio.",
+          "JP": "輸送中の%sは%sに保存されている液体と異なります。空の容器を%sにドラッグして中身を移し替えましょう。",
+          "KR": "현재 운송 중인 %s과(와) %s에 보관된 액체가 다릅니다. 빈 용기를 %s의 액체 슬롯에 드래그하여 기존 액체를 용기로 옮기고 공간을 확보해 보세요.",
+          "MX": "%s el fluido que intentas transfierir no coincide con el fluido en %s. Arrastra un contenedor vacío %s para transferirlo al contenedor y liberar espacio.",
+          "RU": "Перемещаемая жидкость «%s» не соответствует сооружению «%s». Перетащите пустой контейнер на жидкость в сооружении «%s», чтобы поместить ее внутрь и освободить место.",
+          "TC": "目前傳輸的%s和%s已存放的液體不同，可以手動拖動空容器到%s的液體處，將液體轉移到容器內，騰出空間。",
+          "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​ใน​ %s ลาก​ภาชนะ​ที่ว่างเปล่า​ไป​ที่​ของเหลว​ใน​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+          "VN": "%s đang được chuyển không khớp với chất lỏng trong %s. Kéo một thùng chứa rỗng vào chất lỏng trong %s để chuyển vào thùng và giải phóng không gian."
         },
         "newValue": {
           "alertText": {
-            "id": "-2803014638835757801",
-            "text": ""
+            "BR": "O %s sendo transferido não corresponde ao fluido na %s. Arraste recipientes vazios para o fluido na %s para transferi-lo para o recipiente e liberar espaço.",
+            "CN": "当前传输的%s和%s已存放的液体不同，可以手动拖动空容器到%s的液体处，将液体转移到容器内，腾出空间。",
+            "DE": "%s (in Übertragung) entspricht nicht der Flüssigkeit in %s. Ziehe leere Behälter auf die Flüssigkeit in %s, um sie in den Behälter zu übertragen und Platz freizugeben.",
+            "EN": "%s being transferred doesn't match the fluid in the %s. Drag empty containers onto the fluid in the %s to transfer it to the container and free up space.",
+            "FR": "Le transfert de %s ne correspond pas au fluide qu'il y a actuellement dans : %s. Afin de libérer de l'espace et procéder à un transfert du fluide dans un contenant, apportez des contenants vides à : %s.",
+            "ID": "%s yang sedang ditransfer tidak cocok dengan cairan di %s. Seret wadah kosong ke cairan di %s untuk menyalurkannya ke dalam wadah dan mengosongkan ruang.",
+            "IT": "Il liquido trasferito (%s) non corrisponde a quello all'interno di: %s. Trascina contenitori vuoti sul liquido all'interno di: %s. In questo modo lo trasferirai nel contenitore e libererai spazio.",
+            "JP": "輸送中の%sは%sに保存されている液体と異なります。空の容器を%sにドラッグして充填を行い、空きを確保しましょう。",
+            "KR": "현재 운송 중인 %s과(와) %s에 보관된 액체가 다릅니다. 빈 용기를 %s의 액체 슬롯에 드래그하여 기존 액체를 용기로 옮기고 공간을 확보해 보세요.",
+            "MX": "%s el fluido que intentas transferir no coincide con el fluido en %s. Arrastra contenedores vacíos hasta el fluido en %s para transferirlo al contenedor y liberar espacio.",
+            "RU": "Перемещаемая жидкость «%s» не соответствует сооружению «%s». Перетаскивайте пустые контейнеры на жидкость в сооружении «%s», чтобы поместить ее внутрь и освободить место.",
+            "TC": "目前傳輸的%s和%s已存放的液體不同，可以手動拖動空容器到%s的液體處，將液體轉移到容器內，騰出空間。",
+            "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​ภาชนะ​เปล่า​ไป​วาง​บน​ของเหลว​ใน​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "%s đang được chuyển không khớp với chất lỏng trong %s. Kéo một thùng chứa rỗng vào chất lỏng trong %s để chuyển vào thùng và giải phóng không gian."
           },
           "alertText_ct": {
-            "id": "-7844005925339226850",
-            "text": ""
+            "BR": "O %s sendo transferido não corresponde ao fluido na %s. Transfira o fluido na %s para recipientes vazios e libere algum espaço.",
+            "CN": "当前传输的%s和%s已存放的液体不同，可以使用空容器盛装液体，将%s的液体转移到容器内，腾出空间。",
+            "DE": "%s (in Übertragung) entspricht nicht der Flüssigkeit in %s. Übertrage die Flüssigkeit in %s in leere Behälter, um Platz freizugeben.",
+            "EN": "%s being transferred doesn't match the fluid in the %s. Transfer the fluid in %s to empty containers and free up space.",
+            "FR": "Le transfert de %s ne correspond pas au fluide qu'il y a actuellement dans : %s. Libérez de l'espace et apportez des contenants vides pour procéder à un transfert du fluide de : %s.",
+            "ID": "%s yang sedang ditransfer tidak cocok dengan cairan di %s. Alirkan cairan di %s ke dalam wadah kosong, dan kosongkan ruang.",
+            "IT": "Il liquido trasferito (%s) non corrisponde a quello all'interno di: %s. Trasferisci il liquido all'interno di %s in contenitori vuoti per liberare spazio.",
+            "JP": "輸送中の%sは%sに保存されている液体と異なります。%sの液体を空の容器に移動して空きを確保しましょう。",
+            "KR": "현재 운송 중인 %s과(와) %s에 보관된 액체가 다릅니다. 빈 용기에 액체를 담아 %s의 액체를 액체를 용기로 옮기고 공간을 확보해 보세요.",
+            "MX": "%s el fluido que intentas transferir no coincide con el fluido en %s. Transfiere el fluido de %s a contenedores vacíos y libera espacio.",
+            "RU": "Перемещаемая жидкость «%s» не соответствует сооружению «%s». Переместите жидкость из сооружения «%s» в пустые контейнеры, чтобы освободить место.",
+            "TC": "目前傳輸的%s和%s已存放的液體不同，可以使用空容器盛裝液體，將%s的液體轉移到容器內，騰出空間。",
+            "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ถ่ายโอน​ของเหลว​ใน​ %s ไป​ยัง​ภาชนะ​เปล่า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "%s đang được chuyển không khớp với chất lỏng trong %s. Chuyển chất lỏng vào %s thùng chứa rỗng và giải phóng không gian."
           },
           "alertText_mb": {
-            "id": "-5731626745651806907",
-            "text": ""
+            "BR": "O %s sendo transferido não corresponde ao fluido na %s. Arraste recipientes vazios para o fluido na %s para transferi-lo para o recipiente e liberar espaço.",
+            "CN": "当前传输的%s和%s已存放的液体不同，可以手动拖动空容器到%s的液体处，将液体转移到容器内，腾出空间。",
+            "DE": "%s (in Übertragung) entspricht nicht der Flüssigkeit in %s. Ziehe leere Behälter auf die Flüssigkeit in %s, um sie in den Behälter zu übertragen und Platz freizugeben.",
+            "EN": "%s being transferred doesn't match the fluid in the %s. Drag empty containers onto the fluid in the %s to transfer it to the container and free up space.",
+            "FR": "Le transfert de %s ne correspond pas au fluide qu'il y a actuellement dans : %s. Afin de libérer de l'espace et procéder à un transfert du fluide dans un contenant, apportez des contenants vides à : %s.",
+            "ID": "%s yang sedang ditransfer tidak cocok dengan cairan di %s. Seret wadah kosong ke cairan di %s untuk menyalurkannya ke dalam wadah dan mengosongkan ruang.",
+            "IT": "Il liquido trasferito (%s) non corrisponde a quello all'interno di: %s. Trascina contenitori vuoti sul liquido all'interno di: %s. In questo modo lo trasferirai nel contenitore e libererai spazio.",
+            "JP": "輸送中の%sは%sに保存されている液体と異なります。空の容器を%sにドラッグして充填を行い、空きを確保しましょう。",
+            "KR": "현재 운송 중인 %s과(와) %s에 보관된 액체가 다릅니다. 빈 용기를 %s의 액체 슬롯에 드래그하여 기존 액체를 용기로 옮기고 공간을 확보해 보세요.",
+            "MX": "%s el fluido que intentas transferir no coincide con el fluido en %s. Arrastra contenedores vacíos hasta el fluido en %s para transferirlo al contenedor y liberar espacio.",
+            "RU": "Перемещаемая жидкость «%s» не соответствует сооружению «%s». Перетаскивайте пустые контейнеры на жидкость в сооружении «%s», чтобы поместить ее внутрь и освободить место.",
+            "TC": "目前傳輸的%s和%s已存放的液體不同，可以手動拖動空容器到%s的液體處，將液體轉移到容器內，騰出空間。",
+            "TH": "%s ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​วัสดุ​ใน​ %s ลาก​ภาชนะ​เปล่า​ไป​วาง​บน​ของเหลว​ใน​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "%s đang được chuyển không khớp với chất lỏng trong %s. Kéo một thùng chứa rỗng vào chất lỏng trong %s để chuyển vào thùng và giải phóng không gian."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-2803014638835757801",
-              "text": ""
-            },
+            "oldValue": "O %s sendo transferido não corresponde ao fluido na %s. Arraste recipientes vazios para o fluido na %s para transferi-lo para o recipiente e liberar espaço.",
             "newValue": {
               "alertText": {
                 "id": "-2803014638835757801",
@@ -143,30 +278,75 @@
       },
       "4": {
         "oldValue": {
-          "id": "5202459185895396377",
-          "text": ""
+          "BR": "Vários tipos de fluidos sendo transferido não correspondem ao fluido na %s. Arraste um recipiente vazio para os fluidos na %s para transferi-los para o recipiente e liberar espaço.",
+          "CN": "当前传输的多种液体和%s已存放的液体不同，可以手动拖动空容器到%s的液体处，将液体转移到容器内，腾出空间。",
+          "DE": "Mehrere Arten von Flüssigkeiten in Übertragung entsprechen nicht den Flüssigkeiten in %s. Ziehe einen leeren Behälter auf die Flüssigkeiten in %s, um sie in den Behälter zu übertragen und Platz freizugeben.",
+          "EN": "Multiple types of fluids being transferred don't match the fluid in the %s. Drag an empty container onto fluids in the %s to transfer them to the container and free up space.",
+          "FR": "De nombreux types de fluides ne correspondent pas au fluide qu'il y a actuellement dans : %s. Afin de libérer de l'espace et procéder à un transfert dans un contenant, apportez un contenant de fluide vide à : %s.",
+          "ID": "Beberapa tipe cairan yang sedang ditransfer tidak cocok dengan cairan di %s. Seret wadah kosong ke cairan di %s untuk menyalurkannya ke dalam wadah dan mengosongkan ruang.",
+          "IT": "Vari tipi di liquidi trasferiti non corrispondono a quello all'interno di: %s. Trascina un contenitore vuoto sui liquidi all'interno di: %s. In questo modo li trasferirai nel contenitore e libererai spazio.",
+          "JP": "輸送中の液体は%sに保存されているものと異なります。空の容器を%sにドラッグして中身を移し替えましょう。",
+          "KR": "현재 운송 중인 액체들과 %s에 있는 액체가 다릅니다. 빈 용기를 %s의 액체 슬롯으로 드래그하여 기존 액체를 용기로 옮겨보세요.",
+          "MX": "Varios tipos de fluidos que se están transfiriendo no coinciden con el fluido en %s. Arrastra un contenedor vacío sobre los fluidos en %s para transferirlos al contenedor y liberar espacio.",
+          "RU": "Несколько типов перемещаемых жидкостей не соответствуют сооружению «%s». Перетащите пустой контейнер на жидкости в сооружении «%s», чтобы поместить их внутрь и освободить место.",
+          "TC": "目前傳輸的多種液體和%s已存放的液體不同，可以手動拖動空容器到%s的液體處，將液體轉移到容器內，騰出空間。",
+          "TH": "ของเหลว​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​ใน​ %s ลาก​ภาชนะ​ที่ว่างเปล่า​ไป​ที่​ของเหลว​ใน​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+          "VN": "Nhiều loại chất lỏng đang được chuyển không khớp với vật liệu trong %s. Kéo một thùng chứa rỗng vào chất lỏng trong %s để chuyển chúng vào thùng và giải phóng không gian."
         },
         "newValue": {
           "alertText": {
-            "id": "5202459185895396377",
-            "text": ""
+            "BR": "Vários tipos de fluidos sendo transferidos não correspondem ao fluido na %s. Arraste recipientes vazios para os fluidos na %s para transferi-los para o recipiente e liberar espaço.",
+            "CN": "当前传输的多种液体和%s已存放的液体不同，可以手动拖动空容器到%s的液体处，将液体转移到容器内，腾出空间。",
+            "DE": "Mehrere Arten von Flüssigkeiten in Übertragung entsprechen nicht den Flüssigkeiten in %s. Ziehe leere Behälter auf die Flüssigkeiten in %s, um sie in den Behälter zu übertragen und Platz freizugeben.",
+            "EN": "Multiple types of fluids being transferred don't match the fluid in the %s. Drag empty containers onto the fluids in the %s to transfer them to the container and free up space.",
+            "FR": "De nombreux types de fluides ne correspondent pas au fluide qu'il y a actuellement dans : %s. Afin de libérer de l'espace et procéder à un transfert des fluides dans des contenants, apportez des contenants vides à : %s.",
+            "ID": "Beberapa tipe cairan yang sedang ditransfer tidak cocok dengan cairan di %s. Seret wadah kosong ke cairan di %s untuk menyalurkannya ke dalam wadah dan mengosongkan ruang.",
+            "IT": "Vari tipi di liquidi trasferiti non corrispondono a quello all'interno di: %s. Trascina contenitori vuoti sui liquidi all'interno di: %s. In questo modo li trasferirai nel contenitore e libererai spazio.",
+            "JP": "輸送中の液体は%sに保存されているものと異なります。空の容器を%sにドラッグして空きを確保しましょう。",
+            "KR": "현재 운송 중인 액체들과 %s에 있는 액체가 다릅니다. 빈 용기를 %s의 액체 슬롯으로 드래그하여 기존 액체를 용기로 옮겨보세요.",
+            "MX": "Varios tipos de fluidos que se están transfiriendo no coinciden con el fluido en %s. Arrastra contenedores vacíos hasta los fluidos en %s para transferirlos al contenedor y liberar espacio.",
+            "RU": "Несколько типов перемещаемых жидкостей не соответствуют сооружению «%s». Перетаскивайте пустые контейнеры на жидкости в сооружении «%s», чтобы поместить их внутрь и освободить место.",
+            "TC": "目前傳輸的多種液體和%s已存放的液體不同，可以手動拖動空容器到%s的液體處，將液體轉移到容器內，騰出空間。",
+            "TH": "ของเหลว​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​ของเหลว​ใน​ %s ลาก​ภาชนะ​ที่ว่างเปล่า​ไป​ที่​ของเหลว​ใน​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Nhiều loại chất lỏng đang được chuyển không khớp với vật liệu trong %s. Kéo thùng chứa rỗng vào chất lỏng trong %s để chuyển chúng vào thùng và giải phóng không gian."
           },
           "alertText_ct": {
-            "id": "-5838823404185677988",
-            "text": ""
+            "BR": "Vários tipos de fluidos sendo transferidos não correspondem ao fluido na %s. Transfira os fluidos na %s para recipientes vazios e libere algum espaço.",
+            "CN": "当前传输的多种液体和%s已存放的液体不同，可以使用空容器盛装液体，将%s的液体转移到容器内，腾出空间。",
+            "DE": "Mehrere Arten von Flüssigkeiten in Übertragung entsprechen nicht den Flüssigkeiten in %s. Übertrage die Flüssigkeit aus %s in leere Behälter, um Platz freizugeben.",
+            "EN": "Multiple types of fluids being transferred don't match the fluid in the %s. Transfer the fluids of %s into empty containers and free up space.",
+            "FR": "De nombreux types de fluides ne correspondent pas au fluide qu'il y a actuellement dans : %s. Libérez de l'espace et apportez des contenants vides pour procéder à un transfert des fluides de : %s.",
+            "ID": "Beberapa tipe cairan yang sedang ditransfer tidak cocok dengan cairan di %s. Alirkan cairan di %s ke dalam wadah kosong, dan kosongkan ruang.",
+            "IT": "Vari tipi di liquidi trasferiti non corrispondono a quello all'interno di: %s. Trasferisci il liquido all'interno di %s in contenitori vuoti per liberare spazio.",
+            "JP": "輸送中の液体は%sに保存されているものと異なります。%sの液体を空の容器に移動して空きを確保しましょう。",
+            "KR": "현재 운송 중인 액체들과 %s에 있는 액체가 다릅니다. 빈 용기에 액체를 담아 %s의 액체를 액체를 용기로 옮기고 공간을 확보해 보세요.",
+            "MX": "Varios tipos de fluidos que se están transfiriendo no coinciden con el fluido en %s. Transfiere los fluidos de %s a contenedores vacíos y libera espacio.",
+            "RU": "Несколько типов перемещаемых жидкостей не соответствуют сооружению «%s». Переместите жидкости из сооружения «%s» в пустые контейнеры, чтобы освободить место.",
+            "TC": "目前傳輸的多種液體和%s已存放的液體不同，可以使用空容器盛裝液體，將%s的液體轉移到容器內，騰出空間。",
+            "TH": "ของเหลว​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​ของเหลว​ใน​ %s ถ่ายโอน​ของเหลว​ของ​ %s ลง​ใน​ภาชนะ​เปล่า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Nhiều loại chất lỏng đang được chuyển không khớp với vật liệu trong %s. Chuyển chất lỏng vào %s thùng chứa rỗng và giải phóng không gian."
           },
           "alertText_mb": {
-            "id": "8753977685036738681",
-            "text": ""
+            "BR": "Vários tipos de fluidos sendo transferidos não correspondem ao fluido na %s. Arraste recipientes vazios para os fluidos na %s para transferi-los para o recipiente e liberar espaço.",
+            "CN": "当前传输的多种液体和%s已存放的液体不同，可以手动拖动空容器到%s的液体处，将液体转移到容器内，腾出空间。",
+            "DE": "Mehrere Arten von Flüssigkeiten in Übertragung entsprechen nicht den Flüssigkeiten in %s. Ziehe leere Behälter auf die Flüssigkeiten in %s, um sie in den Behälter zu übertragen und Platz freizugeben.",
+            "EN": "Multiple types of fluids being transferred don't match the fluid in the %s. Drag empty containers onto the fluids in the %s to transfer them to the container and free up space.",
+            "FR": "De nombreux types de fluides ne correspondent pas au fluide qu'il y a actuellement dans : %s. Afin de libérer de l'espace et procéder à un transfert des fluides dans des contenants, apportez des contenants vides à : %s.",
+            "ID": "Beberapa tipe cairan yang sedang ditransfer tidak cocok dengan cairan di %s. Seret wadah kosong ke cairan di %s untuk menyalurkannya ke dalam wadah dan mengosongkan ruang.",
+            "IT": "Vari tipi di liquidi trasferiti non corrispondono a quello all'interno di: %s. Trascina contenitori vuoti sui liquidi all'interno di: %s. In questo modo li trasferirai nel contenitore e libererai spazio.",
+            "JP": "輸送中の液体は%sに保存されているものと異なります。空の容器を%sにドラッグして空きを確保しましょう。",
+            "KR": "현재 운송 중인 액체들과 %s에 있는 액체가 다릅니다. 빈 용기를 %s의 액체 슬롯으로 드래그하여 기존 액체를 용기로 옮겨보세요.",
+            "MX": "Varios tipos de fluidos que se están transfiriendo no coinciden con el fluido en %s. Arrastra contenedores vacíos hasta los fluidos en %s para transferirlos al contenedor y liberar espacio.",
+            "RU": "Несколько типов перемещаемых жидкостей не соответствуют сооружению «%s». Перетаскивайте пустые контейнеры на жидкости в сооружении «%s», чтобы поместить их внутрь и освободить место.",
+            "TC": "目前傳輸的多種液體和%s已存放的液體不同，可以手動拖動空容器到%s的液體處，將液體轉移到容器內，騰出空間。",
+            "TH": "ของเหลว​หลายชนิด​ที่​เพิ่ง​ขนถ่าย​มา​นั้น​ไม่​ตรง​กับ​ของเหลว​ใน​ %s ลาก​ภาชนะ​ที่ว่างเปล่า​ไป​ที่​ของเหลว​ใน​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Nhiều loại chất lỏng đang được chuyển không khớp với vật liệu trong %s. Kéo thùng chứa rỗng vào chất lỏng trong %s để chuyển chúng vào thùng và giải phóng không gian."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "5202459185895396377",
-              "text": ""
-            },
+            "oldValue": "Vários tipos de fluidos sendo transferidos não correspondem ao fluido na %s. Arraste recipientes vazios para os fluidos na %s para transferi-los para o recipiente e liberar espaço.",
             "newValue": {
               "alertText": {
                 "id": "5202459185895396377",
@@ -186,30 +366,75 @@
       },
       "5": {
         "oldValue": {
-          "id": "-1468306718033305341",
-          "text": ""
+          "BR": "Não é possível descarregar produtos. Verifique se a esteira de transporte de saída e a instalação conectada não estão obstruídas.",
+          "CN": "产物无法输出，请查看对应传送带与后续设备是否阻塞。",
+          "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangstransportband und die verbundene Anlage nicht verstopft sind.",
+          "EN": "Unable to unload products. Check that the output transport belt and the connected facility aren't clogged.",
+          "FR": "Impossible de décharger les produits. Vérifiez que le convoyeur à bande et l'installation à laquelle il est connecté ne sont pas obstrués.",
+          "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa sabuk angkut output dan fasilitas yang terhubung tidak tersumbat.",
+          "IT": "Impossibile scaricare i prodotti. Verifica che il nastro trasportatore di uscita e la struttura collegata non siano ostruiti.",
+          "JP": "製品の輸送が停止しています。ベルトコンベアや後続設備の稼働状況を確認してください。",
+          "KR": "생산품이 출력되지 않고 있습니다. 해당 컨베이어 벨트 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+          "MX": "No se pueden descargar los productos. Revisa que la cinta transportadora de salida y la instalación conectada no estén obstruidas.",
+          "RU": "Невозможно разгрузить изделия. Убедитесь, что выходящая транспортировочная лента и подсоединенное сооружение не застопорены.",
+          "TC": "產物無法輸出，請查看對應傳送帶與後續設備是否阻塞。",
+          "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​สายพาน​ขนส่ง​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+          "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra băng tải vận chuyển và công trình đã kết nối xem có bị tắc không."
         },
         "newValue": {
           "alertText": {
-            "id": "-1468306718033305341",
-            "text": ""
+            "BR": "Não é possível descarregar produtos. Verifique se a esteira de transporte de saída e a instalação conectada não estão obstruídas.",
+            "CN": "产物无法输出，请查看对应传送带与后续设备是否阻塞。",
+            "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangstransportband und die verbundene Anlage nicht verstopft sind.",
+            "EN": "Unable to unload products. Check that the output transport belt and the connected facility aren't clogged.",
+            "FR": "Impossible de décharger les produits. Vérifiez que le convoyeur à bande et l'installation à laquelle il est connecté ne sont pas obstrués.",
+            "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa sabuk angkut output dan fasilitas yang terhubung tidak tersumbat.",
+            "IT": "Impossibile scaricare i prodotti. Verifica che il nastro trasportatore di uscita e la struttura collegata non siano ostruiti.",
+            "JP": "製品の輸送が停止しています。ベルトコンベアや後続設備の稼働状況を確認してください。",
+            "KR": "생산품이 출력되지 않고 있습니다. 해당 컨베이어 벨트 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+            "MX": "No se pueden descargar los productos. Revisa que la cinta transportadora de salida y la instalación conectada no estén obstruidas.",
+            "RU": "Невозможно разгрузить изделия. Убедитесь, что выходящая транспортировочная лента и подсоединенное сооружение не застопорены.",
+            "TC": "產物無法輸出，請查看對應傳送帶與後續設備是否阻塞。",
+            "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​สายพาน​ขนส่ง​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+            "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra băng tải vận chuyển và công trình đã kết nối xem có bị tắc không."
           },
           "alertText_ct": {
-            "id": "-8402503311936910374",
-            "text": ""
+            "BR": "Não é possível descarregar produtos. Verifique se a esteira de transporte de saída e a instalação conectada não estão obstruídas.",
+            "CN": "产物无法输出，请查看对应传送带与后续设备是否阻塞。",
+            "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangstransportband und die verbundene Anlage nicht verstopft sind.",
+            "EN": "Unable to unload products. Check that the output transport belt and the connected facility aren't clogged.",
+            "FR": "Impossible de décharger les produits. Vérifiez que le convoyeur à bande et l'installation à laquelle il est connecté ne sont pas obstrués.",
+            "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa sabuk angkut output dan fasilitas yang terhubung tidak tersumbat.",
+            "IT": "Impossibile scaricare i prodotti. Verifica che il nastro trasportatore di uscita e la struttura collegata non siano ostruiti.",
+            "JP": "製品の輸送が停止しています。ベルトコンベアや後続設備の稼働状況を確認してください。",
+            "KR": "생산품이 출력되지 않고 있습니다. 해당 컨베이어 벨트 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+            "MX": "No se pueden descargar los productos. Revisa que la cinta transportadora de salida y la instalación conectada no estén obstruidas.",
+            "RU": "Невозможно разгрузить изделия. Убедитесь, что выходящая транспортировочная лента и подсоединенное сооружение не застопорены.",
+            "TC": "產物無法輸出，請查看對應傳送帶與後續設備是否阻塞。",
+            "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​สายพาน​ขนส่ง​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+            "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra băng tải vận chuyển và công trình đã kết nối xem có bị tắc không."
           },
           "alertText_mb": {
-            "id": "-5094859308436108447",
-            "text": ""
+            "BR": "Não é possível descarregar produtos. Verifique se a esteira de transporte de saída e a instalação conectada não estão obstruídas.",
+            "CN": "产物无法输出，请查看对应传送带与后续设备是否阻塞。",
+            "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangstransportband und die verbundene Anlage nicht verstopft sind.",
+            "EN": "Unable to unload products. Check that the output transport belt and the connected facility aren't clogged.",
+            "FR": "Impossible de décharger les produits. Vérifiez que le convoyeur à bande et l'installation à laquelle il est connecté ne sont pas obstrués.",
+            "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa sabuk angkut output dan fasilitas yang terhubung tidak tersumbat.",
+            "IT": "Impossibile scaricare i prodotti. Verifica che il nastro trasportatore di uscita e la struttura collegata non siano ostruiti.",
+            "JP": "製品の輸送が停止しています。ベルトコンベアや後続設備の稼働状況を確認してください。",
+            "KR": "생산품이 출력되지 않고 있습니다. 해당 컨베이어 벨트 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+            "MX": "No se pueden descargar los productos. Revisa que la cinta transportadora de salida y la instalación conectada no estén obstruidas.",
+            "RU": "Невозможно разгрузить изделия. Убедитесь, что выходящая транспортировочная лента и подсоединенное сооружение не застопорены.",
+            "TC": "產物無法輸出，請查看對應傳送帶與後續設備是否阻塞。",
+            "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​สายพาน​ขนส่ง​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+            "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra băng tải vận chuyển và công trình đã kết nối xem có bị tắc không."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-1468306718033305341",
-              "text": ""
-            },
+            "oldValue": "Não é possível descarregar produtos. Verifique se a esteira de transporte de saída e a instalação conectada não estão obstruídas.",
             "newValue": {
               "alertText": {
                 "id": "-1468306718033305341",
@@ -229,30 +454,75 @@
       },
       "6": {
         "oldValue": {
-          "id": "1913676925174357660",
-          "text": ""
+          "BR": "Não é possível descarregar produtos. Verifique se o tubo de saída e a instalação conectada não estão obstruídos.",
+          "CN": "产物无法输出，请查看对应管道与后续设备是否阻塞。",
+          "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangsrohr und die verbundene Anlage nicht verstopft sind.",
+          "EN": "Unable to unload products. Check that the output pipe and the connected facility aren't clogged.",
+          "FR": "Impossible de décharger les produits. Vérifiez que la conduite de sortie et l'installation à laquelle elle est connectée ne sont pas obstruées.",
+          "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa pipa output dan fasilitas yang terhubung tidak tersumbat.",
+          "IT": "Impossibile scaricare i prodotti. Verifica che il tubo di uscita e la struttura collegata non siano ostruiti.",
+          "JP": "製品の輸送が停止しています。パイプや後続設備の稼働状況を確認してください。",
+          "KR": "생산품이 출력되지 않고 있습니다. 해당 파이프 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+          "MX": "No se pueden descargar los productos. Revisa que la tubería de salida y la instalación conectada no estén obstruidas.",
+          "RU": "Невозможно разгрузить изделия. Убедитесь, что отводящая труба и подсоединенное сооружение не застопорены.",
+          "TC": "產物無法輸出，請查看對應管道與後續設備是否阻塞。",
+          "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​ท่อ​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+          "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra đường ống và công trình đã kết nối xem có bị tắc không."
         },
         "newValue": {
           "alertText": {
-            "id": "1913676925174357660",
-            "text": ""
+            "BR": "Não é possível descarregar produtos. Verifique se o tubo de saída e a instalação conectada não estão obstruídos.",
+            "CN": "产物无法输出，请查看对应管道与后续设备是否阻塞。",
+            "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangsrohr und die verbundene Anlage nicht verstopft sind.",
+            "EN": "Unable to unload products. Check that the output pipe and the connected facility aren't clogged.",
+            "FR": "Impossible de décharger les produits. Vérifiez que la conduite de sortie et l'installation à laquelle elle est connectée ne sont pas obstruées.",
+            "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa pipa output dan fasilitas yang terhubung tidak tersumbat.",
+            "IT": "Impossibile scaricare i prodotti. Verifica che il tubo di uscita e la struttura collegata non siano ostruiti.",
+            "JP": "製品の輸送が停止しています。パイプや後続設備の稼働状況を確認してください。",
+            "KR": "생산품이 출력되지 않고 있습니다. 해당 파이프 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+            "MX": "No se pueden descargar los productos. Revisa que la tubería de salida y la instalación conectada no estén obstruidas.",
+            "RU": "Невозможно разгрузить изделия. Убедитесь, что отводящая труба и подсоединенное сооружение не застопорены.",
+            "TC": "產物無法輸出，請查看對應管道與後續設備是否阻塞。",
+            "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​ท่อ​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+            "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra đường ống và công trình đã kết nối xem có bị tắc không."
           },
           "alertText_ct": {
-            "id": "-5898251139339991946",
-            "text": ""
+            "BR": "Não é possível descarregar produtos. Verifique se o tubo de saída e a instalação conectada não estão obstruídos.",
+            "CN": "产物无法输出，请查看对应管道与后续设备是否阻塞。",
+            "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangsrohr und die verbundene Anlage nicht verstopft sind.",
+            "EN": "Unable to unload products. Check that the output pipe and the connected facility aren't clogged.",
+            "FR": "Impossible de décharger les produits. Vérifiez que la conduite de sortie et l'installation à laquelle elle est connectée ne sont pas obstruées.",
+            "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa pipa output dan fasilitas yang terhubung tidak tersumbat.",
+            "IT": "Impossibile scaricare i prodotti. Verifica che il tubo di uscita e la struttura collegata non siano ostruiti.",
+            "JP": "製品の輸送が停止しています。パイプや後続設備の稼働状況を確認してください。",
+            "KR": "생산품이 출력되지 않고 있습니다. 해당 파이프 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+            "MX": "No se pueden descargar los productos. Revisa que la tubería de salida y la instalación conectada no estén obstruidas.",
+            "RU": "Невозможно разгрузить изделия. Убедитесь, что отводящая труба и подсоединенное сооружение не застопорены.",
+            "TC": "產物無法輸出，請查看對應管道與後續設備是否阻塞。",
+            "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​ท่อ​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+            "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra đường ống và công trình đã kết nối xem có bị tắc không."
           },
           "alertText_mb": {
-            "id": "8406709920648311631",
-            "text": ""
+            "BR": "Não é possível descarregar produtos. Verifique se o tubo de saída e a instalação conectada não estão obstruídos.",
+            "CN": "产物无法输出，请查看对应管道与后续设备是否阻塞。",
+            "DE": "Produkte können nicht entladen werden. Vergewissere dich, dass das Ausgangsrohr und die verbundene Anlage nicht verstopft sind.",
+            "EN": "Unable to unload products. Check that the output pipe and the connected facility aren't clogged.",
+            "FR": "Impossible de décharger les produits. Vérifiez que la conduite de sortie et l'installation à laquelle elle est connectée ne sont pas obstruées.",
+            "ID": "Tidak bisa membongkar muatan produk. Pastikan bahwa pipa output dan fasilitas yang terhubung tidak tersumbat.",
+            "IT": "Impossibile scaricare i prodotti. Verifica che il tubo di uscita e la struttura collegata non siano ostruiti.",
+            "JP": "製品の輸送が停止しています。パイプや後続設備の稼働状況を確認してください。",
+            "KR": "생산품이 출력되지 않고 있습니다. 해당 파이프 및 연결된 설비에 막힌 부분이 있는지 확인하세요.",
+            "MX": "No se pueden descargar los productos. Revisa que la tubería de salida y la instalación conectada no estén obstruidas.",
+            "RU": "Невозможно разгрузить изделия. Убедитесь, что отводящая труба и подсоединенное сооружение не застопорены.",
+            "TC": "產物無法輸出，請查看對應管道與後續設備是否阻塞。",
+            "TH": "ไม่​สามารถ​ขนถ่าย​ผลิตภัณฑ์​ได้​ ตรวจสอบ​ฝั่ง​ขาออก​ของ​ท่อ​และ​สิ่งปลูกสร้าง​ที่​เชื่อมต่อ​ว่า​ไม่มี​การปิดกั้น​ใ​ดๆ​ อยู่",
+            "VN": "Không thể dỡ sản phẩm. Kiểm tra cổng ra đường ống và công trình đã kết nối xem có bị tắc không."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "1913676925174357660",
-              "text": ""
-            },
+            "oldValue": "Não é possível descarregar produtos. Verifique se o tubo de saída e a instalação conectada não estão obstruídos.",
             "newValue": {
               "alertText": {
                 "id": "1913676925174357660",
@@ -272,30 +542,75 @@
       },
       "7": {
         "oldValue": {
-          "id": "3545645762842146949",
-          "text": ""
+          "BR": "A taxa de produção da fórmula atual é menor que a taxa de transporte do material de entrada. Coloque mais instalações e faça com que elas produzam ao mesmo tempo para melhorar a eficiência da produção.",
+          "CN": "当前配方运行速度低于传输速度，可放置更多的设备进行同步运行增加效率。",
+          "DE": "Die Produktionsrate für die aktuelle Formel ist niedriger als die Transportrate des Eingangsmaterials. Platziere weitere Anlagen und lasse sie gleichzeitig produzieren, um die Produktionseffizienz zu erhöhen.",
+          "EN": "Production rate for current formula is lower than the input material transport rate. Place more facilities and have them produce at the same time to improve production efficiency.",
+          "FR": "Le taux de production de la formule actuelle est inférieur à la vitesse d'approvisionnement en matériaux. Placez davantage d'installations et lancez leur production en même temps pour améliorer l'efficacité de production.",
+          "ID": "Laju produksi untuk formula ini lebih rendah daripada laju angkut material input. Tempatkan lebih banyak fasilitas dan buatlah fasilitas itu berproduksi serentak untuk meningkatkan efisiensi produksi.",
+          "IT": "La velocità di produzione per la formula attuale è più bassa della velocità di trasporto del materiale in entrata. Posiziona altre strutture e avvia la loro produzione in contemporanea per aumentare l'efficienza della produzione.",
+          "JP": "レシピの生産効率が輸送効率を下回っています。設備を増やして生産効率を上げてください。",
+          "KR": "현재 조합 공식의 생산 속도가 전송 속도보다 느립니다. 더 많은 설비를 배치하고 생산 효율을 높여보세요.",
+          "MX": "La tasa de producción de la fórmula actual es menor que la tasa de transporte del material de entrada. Coloca más instalaciones y haz que produzcan al mismo tiempo para mejorar la eficiencia de producción.",
+          "RU": "Скорость производства по текущей формуле ниже скорости транспортировки поступающего материала. Разместите больше сооружений и организуйте их одновременную работу, чтобы увеличить эффективность производства.",
+          "TC": "目前配方執行速度低於傳送速度，可擺放更多的設備來同步運作增加效率。",
+          "TH": "อัตรา​การผลิต​ของ​สูตร​ปัจจุบัน​ต่ำกว่า​อัตรา​การ​ป้อน​ส่ง​วัสดุ​ จัดวาง​สิ่งปลูกสร้าง​เพิ่มขึ้น​เพื่อ​เพิ่ม​การผลิต​ ช่วย​เพิ่มประสิทธิภาพ​ใน​การผลิต​โดยรวม",
+          "VN": "Tốc độ sản xuất của công thức hiện tại thấp hơn tốc độ vận chuyển vật liệu cổng vào. Đặt thêm công trình và sản xuất cùng lúc để nâng cao hiệu suất sản xuất."
         },
         "newValue": {
           "alertText": {
-            "id": "3545645762842146949",
-            "text": ""
+            "BR": "A taxa de produção da fórmula atual é menor que a taxa de transporte do material de entrada. Coloque mais instalações e faça com que elas produzam ao mesmo tempo para melhorar a eficiência da produção.",
+            "CN": "当前配方运行速度低于传输速度，可放置更多的设备进行同步运行增加效率。",
+            "DE": "Die Produktionsrate für die aktuelle Formel ist niedriger als die Transportrate des Eingangsmaterials. Platziere weitere Anlagen und lasse sie gleichzeitig produzieren, um die Produktionseffizienz zu erhöhen.",
+            "EN": "Production rate for current formula is lower than the input material transport rate. Place more facilities and have them produce at the same time to improve production efficiency.",
+            "FR": "Le taux de production de la formule actuelle est inférieur à la vitesse d'approvisionnement en matériaux. Placez davantage d'installations et lancez leur production en même temps pour améliorer l'efficacité de production.",
+            "ID": "Laju produksi untuk formula ini lebih rendah daripada laju angkut material input. Tempatkan lebih banyak fasilitas dan buatlah fasilitas itu berproduksi serentak untuk meningkatkan efisiensi produksi.",
+            "IT": "La velocità di produzione per la formula attuale è più bassa della velocità di trasporto del materiale in entrata. Posiziona altre strutture e avvia la loro produzione in contemporanea per aumentare l'efficienza della produzione.",
+            "JP": "レシピの生産効率が輸送効率を下回っています。設備を増やして生産効率を上げてください。",
+            "KR": "현재 조합 공식의 생산 속도가 전송 속도보다 느립니다. 더 많은 설비를 배치하고 생산 효율을 높여보세요.",
+            "MX": "La tasa de producción de la fórmula actual es menor que la tasa de transporte del material de entrada. Coloca más instalaciones y haz que produzcan al mismo tiempo para mejorar la eficiencia de producción.",
+            "RU": "Скорость производства по текущей формуле ниже скорости транспортировки поступающего материала. Разместите больше сооружений и организуйте их одновременную работу, чтобы увеличить эффективность производства.",
+            "TC": "目前配方執行速度低於傳送速度，可擺放更多的設備來同步運作增加效率。",
+            "TH": "อัตรา​การผลิต​ของ​สูตร​ปัจจุบัน​ต่ำกว่า​อัตรา​การ​ป้อน​ส่ง​วัสดุ​ จัดวาง​สิ่งปลูกสร้าง​เพิ่มขึ้น​เพื่อ​เพิ่ม​การผลิต​ ช่วย​เพิ่มประสิทธิภาพ​ใน​การผลิต​โดยรวม",
+            "VN": "Tốc độ sản xuất của công thức hiện tại thấp hơn tốc độ vận chuyển vật liệu cổng vào. Đặt thêm công trình và sản xuất cùng lúc để nâng cao hiệu suất sản xuất."
           },
           "alertText_ct": {
-            "id": "-6488743082635933091",
-            "text": ""
+            "BR": "A taxa de produção da fórmula atual é menor que a taxa de transporte do material de entrada. Coloque mais instalações e faça com que elas produzam ao mesmo tempo para melhorar a eficiência da produção.",
+            "CN": "当前配方运行速度低于传输速度，可放置更多的设备进行同步运行增加效率。",
+            "DE": "Die Produktionsrate für die aktuelle Formel ist niedriger als die Transportrate des Eingangsmaterials. Platziere weitere Anlagen und lasse sie gleichzeitig produzieren, um die Produktionseffizienz zu erhöhen.",
+            "EN": "Production rate for current formula is lower than the input material transport rate. Place more facilities and have them produce at the same time to improve production efficiency.",
+            "FR": "Le taux de production de la formule actuelle est inférieur à la vitesse d'approvisionnement en matériaux. Placez davantage d'installations et lancez leur production en même temps pour améliorer l'efficacité de production.",
+            "ID": "Laju produksi untuk formula ini lebih rendah daripada laju angkut material input. Tempatkan lebih banyak fasilitas dan buatlah fasilitas itu berproduksi serentak untuk meningkatkan efisiensi produksi.",
+            "IT": "La velocità di produzione per la formula attuale è più bassa della velocità di trasporto del materiale in entrata. Posiziona altre strutture e avvia la loro produzione in contemporanea per aumentare l'efficienza della produzione.",
+            "JP": "レシピの生産効率が輸送効率を下回っています。設備を増やして生産効率を上げてください。",
+            "KR": "현재 조합 공식의 생산 속도가 전송 속도보다 느립니다. 더 많은 설비를 배치하고 생산 효율을 높여보세요.",
+            "MX": "La tasa de producción de la fórmula actual es menor que la tasa de transporte del material de entrada. Coloca más instalaciones y haz que produzcan al mismo tiempo para mejorar la eficiencia de producción.",
+            "RU": "Скорость производства по текущей формуле ниже скорости транспортировки поступающего материала. Разместите больше сооружений и организуйте их одновременную работу, чтобы увеличить эффективность производства.",
+            "TC": "目前配方執行速度低於傳送速度，可擺放更多的設備來同步運作增加效率。",
+            "TH": "อัตรา​การผลิต​ของ​สูตร​ปัจจุบัน​ต่ำกว่า​อัตรา​การ​ป้อน​ส่ง​วัสดุ​ จัดวาง​สิ่งปลูกสร้าง​เพิ่มขึ้น​เพื่อ​เพิ่ม​การผลิต​ ช่วย​เพิ่มประสิทธิภาพ​ใน​การผลิต​โดยรวม",
+            "VN": "Tốc độ sản xuất của công thức hiện tại thấp hơn tốc độ vận chuyển vật liệu cổng vào. Đặt thêm công trình và sản xuất cùng lúc để nâng cao hiệu suất sản xuất."
           },
           "alertText_mb": {
-            "id": "-6826957451706306925",
-            "text": ""
+            "BR": "A taxa de produção da fórmula atual é menor que a taxa de transporte do material de entrada. Coloque mais instalações e faça com que elas produzam ao mesmo tempo para melhorar a eficiência da produção.",
+            "CN": "当前配方运行速度低于传输速度，可放置更多的设备进行同步运行增加效率。",
+            "DE": "Die Produktionsrate für die aktuelle Formel ist niedriger als die Transportrate des Eingangsmaterials. Platziere weitere Anlagen und lasse sie gleichzeitig produzieren, um die Produktionseffizienz zu erhöhen.",
+            "EN": "Production rate for current formula is lower than the input material transport rate. Place more facilities and have them produce at the same time to improve production efficiency.",
+            "FR": "Le taux de production de la formule actuelle est inférieur à la vitesse d'approvisionnement en matériaux. Placez davantage d'installations et lancez leur production en même temps pour améliorer l'efficacité de production.",
+            "ID": "Laju produksi untuk formula ini lebih rendah daripada laju angkut material input. Tempatkan lebih banyak fasilitas dan buatlah fasilitas itu berproduksi serentak untuk meningkatkan efisiensi produksi.",
+            "IT": "La velocità di produzione per la formula attuale è più bassa della velocità di trasporto del materiale in entrata. Posiziona altre strutture e avvia la loro produzione in contemporanea per aumentare l'efficienza della produzione.",
+            "JP": "レシピの生産効率が輸送効率を下回っています。設備を増やして生産効率を上げてください。",
+            "KR": "현재 조합 공식의 생산 속도가 전송 속도보다 느립니다. 더 많은 설비를 배치하고 생산 효율을 높여보세요.",
+            "MX": "La tasa de producción de la fórmula actual es menor que la tasa de transporte del material de entrada. Coloca más instalaciones y haz que produzcan al mismo tiempo para mejorar la eficiencia de producción.",
+            "RU": "Скорость производства по текущей формуле ниже скорости транспортировки поступающего материала. Разместите больше сооружений и организуйте их одновременную работу, чтобы увеличить эффективность производства.",
+            "TC": "目前配方執行速度低於傳送速度，可擺放更多的設備來同步運作增加效率。",
+            "TH": "อัตรา​การผลิต​ของ​สูตร​ปัจจุบัน​ต่ำกว่า​อัตรา​การ​ป้อน​ส่ง​วัสดุ​ จัดวาง​สิ่งปลูกสร้าง​เพิ่มขึ้น​เพื่อ​เพิ่ม​การผลิต​ ช่วย​เพิ่มประสิทธิภาพ​ใน​การผลิต​โดยรวม",
+            "VN": "Tốc độ sản xuất của công thức hiện tại thấp hơn tốc độ vận chuyển vật liệu cổng vào. Đặt thêm công trình và sản xuất cùng lúc để nâng cao hiệu suất sản xuất."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "3545645762842146949",
-              "text": ""
-            },
+            "oldValue": "A taxa de produção da fórmula atual é menor que a taxa de transporte do material de entrada. Coloque mais instalações e faça com que elas produzam ao mesmo tempo para melhorar a eficiência da produção.",
             "newValue": {
               "alertText": {
                 "id": "3545645762842146949",
@@ -315,30 +630,75 @@
       },
       "8": {
         "oldValue": {
-          "id": "-7071603633952495103",
-          "text": ""
+          "BR": "O cache de saída %s está cheio. Arraste o %s para a Mochila ou para o Depósito.",
+          "CN": "%s已满，可手动拖动%s到背包或仓库。",
+          "DE": "Der Ausgabespeicher für %s ist voll. Ziehe %s in den Rucksack oder ins Depot.",
+          "EN": "%s output cache is full. Drag the %s to the Backpack or Depot.",
+          "FR": "La cache de sortie de %s a atteint sa limite de stockage. Déplacez %s dans votre sac à dos ou un entrepôt.",
+          "ID": "Cache output %s sudah penuh. Seret %s ke Ransel atau Depot.",
+          "IT": "%s: riserva in uscita piena. Trascina l'oggetto %s nello zaino o nel deposito.",
+          "JP": "%sがいっぱいです。%sを道具箱または倉庫にドラッグしてください。",
+          "KR": "%s이(가) 가득 찼습니다. %s을(를) 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+          "MX": "el almacenaje de salida %s lleno. Arrastra %s a la Mochila o al Depósito.",
+          "RU": "%s: буфер выхода заполнен. Перетащите материал «%s» в рюкзак или на склад.",
+          "TC": "%s已滿，可手動拖動%s到背包或倉庫。",
+          "TH": "%s ที่เก็บ​ชั่วคราว​ขาออก​เต็ม​แล้ว​ ลาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลัง",
+          "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kéo %s vào Túi hoặc Kho Hàng."
         },
         "newValue": {
           "alertText": {
-            "id": "-7071603633952495103",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Arraste o %s para a Mochila ou para o Depósito.",
+            "CN": "%s已满，可手动拖动%s到背包或仓库。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Ziehe %s in den Rucksack oder ins Depot.",
+            "EN": "%s output cache is full. Drag the %s to the Backpack or Depot.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Déplacez %s dans votre sac à dos ou un entrepôt.",
+            "ID": "Cache output %s sudah penuh. Seret %s ke Ransel atau Depot.",
+            "IT": "%s: riserva in uscita piena. Trascina l'oggetto %s nello zaino o nel deposito.",
+            "JP": "%sがいっぱいです。%sを道具箱または倉庫にドラッグしてください。",
+            "KR": "%s이(가) 가득 찼습니다. %s을(를) 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+            "MX": "el almacenaje de salida %s lleno. Arrastra %s a la Mochila o al Depósito.",
+            "RU": "%s: буфер выхода заполнен. Перетащите материал «%s» в рюкзак или на склад.",
+            "TC": "%s已滿，可手動拖動%s到背包或倉庫。",
+            "TH": "%s ที่เก็บ​ชั่วคราว​ขาออก​เต็ม​แล้ว​ ลาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลัง",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kéo %s vào Túi hoặc Kho Hàng."
           },
           "alertText_ct": {
-            "id": "2223488305857866165",
-            "text": ""
+            "BR": "O cache de saída da %s está cheio. Mova manualmente o %s para a Mochila ou para o Depósito.",
+            "CN": "%s已满，可手动将%s移动到背包或仓库。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Bewege %s in den Rucksack oder ins Depot.",
+            "EN": "%s output cache is full. Manually move %s to the Backpack or Depot.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Déplacez manuellement %s dans votre sac à dos ou un entrepôt.",
+            "ID": "Cache output %s sudah penuh. Pindahkan %s ke Ransel atau Depot secara manual.",
+            "IT": "%s: riserva in uscita piena. Sposta manualmente l'oggetto %s nello zaino o nel deposito.",
+            "JP": "%sがいっぱいです。%sを道具箱または倉庫に移動してください。",
+            "KR": "%s이(가) 가득 찼습니다. %s을(를) 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+            "MX": "El almacenaje de salida %s está lleno. Mueve manualmente %s a la Mochila o el Depósito.",
+            "RU": "%s: буфер выхода заполнен. Вручную переместите материал «%s» в рюкзак или на склад.",
+            "TC": "%s已滿，可手動將%s移動到背包或倉庫。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ ลาก​ %s ไป​ยัง​กระเป๋า​เป้​หรือ​คลังสินค้า​ด้วยตัวเอง",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Di chuyển thủ công %s vào Túi hoặc Kho Hàng."
           },
           "alertText_mb": {
-            "id": "6998786046121975737",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Arraste o %s para a Mochila ou para o Depósito.",
+            "CN": "%s已满，可手动拖动%s到背包或仓库。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Ziehe %s in den Rucksack oder ins Depot.",
+            "EN": "%s output cache is full. Drag the %s to the Backpack or Depot.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Déplacez %s dans votre sac à dos ou un entrepôt.",
+            "ID": "Cache output %s sudah penuh. Seret %s ke Ransel atau Depot.",
+            "IT": "%s: riserva in uscita piena. Trascina l'oggetto %s nello zaino o nel deposito.",
+            "JP": "%sがいっぱいです。%sを道具箱または倉庫にドラッグしてください。",
+            "KR": "%s이(가) 가득 찼습니다. %s을(를) 가방이나 창고로 옮겨 공간을 확보해 보세요.",
+            "MX": "el almacenaje de salida %s lleno. Arrastra %s a la Mochila o al Depósito.",
+            "RU": "%s: буфер выхода заполнен. Перетащите материал «%s» в рюкзак или на склад.",
+            "TC": "%s已滿，可手動拖動%s到背包或倉庫。",
+            "TH": "%s ที่เก็บ​ชั่วคราว​ขาออก​เต็ม​แล้ว​ ลาก​ %s ไป​ยัง​กระเป๋า​หรือ​คลัง",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kéo %s vào Túi hoặc Kho Hàng."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-7071603633952495103",
-              "text": ""
-            },
+            "oldValue": "O cache de saída %s está cheio. Arraste o %s para a Mochila ou para o Depósito.",
             "newValue": {
               "alertText": {
                 "id": "-7071603633952495103",
@@ -358,30 +718,75 @@
       },
       "9": {
         "oldValue": {
-          "id": "-4672374044472164987",
-          "text": ""
+          "BR": "O cache de saída %s está cheio. Conecte mais esteiras de transporte para permitir o descarregamento automático de %s.",
+          "CN": "%s已满，可连接更多传送带让%s进行自动输出。",
+          "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Transportbänder, um %s automatisch zu entladen.",
+          "EN": "%s output cache is full. Connect more transport belts to enable automatic unloading of %s.",
+          "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez d'autres convoyeurs à bande pour activer le déchargement automatique de : %s.",
+          "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak sabuk angkut untuk secara otomatis membongkar muatan %s.",
+          "IT": "%s: riserva in uscita piena. Collega più nastri trasportatori per scaricare automaticamente l'oggetto %s.",
+          "JP": "%sがいっぱいです。%sを輸送するベルトコンベアを増やしてください。",
+          "KR": "%s이(가) 가득 찼습니다. 더 많은 컨베이어 벨트를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+          "MX": "el almacenaje de salida de %s está lleno. Conecta más cintas transportadoras para habilitar la descarga automática de %s.",
+          "RU": "%s: буфер выхода заполнен. Подключите дополнительные транспортировочные ленты, чтобы автоматически разгружать изделие «%s».",
+          "TC": "%s已滿，可連接更多傳送帶讓%s自動輸出。",
+          "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อม​สายพาน​ขนส่ง​เพิ่มเติม​เพื่อให้​สามารถ​ถ่าย​ %s ออก​ได้​โดยอัตโนมัติ",
+          "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm băng tải vận chuyển để tự động dỡ hàng của %s."
         },
         "newValue": {
           "alertText": {
-            "id": "-4672374044472164987",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Conecte mais esteiras de transporte para permitir o descarregamento automático de %s.",
+            "CN": "%s已满，可连接更多传送带让%s进行自动输出。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Transportbänder, um %s automatisch zu entladen.",
+            "EN": "%s output cache is full. Connect more transport belts to enable automatic unloading of %s.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez d'autres convoyeurs à bande pour activer le déchargement automatique de : %s.",
+            "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak sabuk angkut untuk secara otomatis membongkar muatan %s.",
+            "IT": "%s: riserva in uscita piena. Collega più nastri trasportatori per scaricare automaticamente l'oggetto %s.",
+            "JP": "%sがいっぱいです。%sを輸送するベルトコンベアを増やしてください。",
+            "KR": "%s이(가) 가득 찼습니다. 더 많은 컨베이어 벨트를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+            "MX": "el almacenaje de salida de %s está lleno. Conecta más cintas transportadoras para habilitar la descarga automática de %s.",
+            "RU": "%s: буфер выхода заполнен. Подключите дополнительные транспортировочные ленты, чтобы автоматически разгружать изделие «%s».",
+            "TC": "%s已滿，可連接更多傳送帶讓%s自動輸出。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อม​สายพาน​ขนส่ง​เพิ่มเติม​เพื่อให้​สามารถ​ถ่าย​ %s ออก​ได้​โดยอัตโนมัติ",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm băng tải vận chuyển để tự động dỡ hàng của %s."
           },
           "alertText_ct": {
-            "id": "1408616978363298907",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Conecte mais esteiras de transporte para permitir o descarregamento automático de %s.",
+            "CN": "%s已满，可连接更多传送带让%s进行自动输出。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Transportbänder, um %s automatisch zu entladen.",
+            "EN": "%s output cache is full. Connect more transport belts to enable automatic unloading of %s.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez d'autres convoyeurs à bande pour activer le déchargement automatique de : %s.",
+            "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak sabuk angkut untuk secara otomatis membongkar muatan %s.",
+            "IT": "%s: riserva in uscita piena. Collega più nastri trasportatori per scaricare automaticamente l'oggetto %s.",
+            "JP": "%sがいっぱいです。%sを輸送するベルトコンベアを増やしてください。",
+            "KR": "%s이(가) 가득 찼습니다. 더 많은 컨베이어 벨트를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+            "MX": "el almacenaje de salida de %s está lleno. Conecta más cintas transportadoras para habilitar la descarga automática de %s.",
+            "RU": "%s: буфер выхода заполнен. Подключите дополнительные транспортировочные ленты, чтобы автоматически разгружать изделие «%s».",
+            "TC": "%s已滿，可連接更多傳送帶讓%s自動輸出。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อม​สายพาน​ขนส่ง​เพิ่มเติม​เพื่อให้​สามารถ​ถ่าย​ %s ออก​ได้​โดยอัตโนมัติ",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm băng tải vận chuyển để tự động dỡ hàng của %s."
           },
           "alertText_mb": {
-            "id": "-5862034939519480785",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Conecte mais esteiras de transporte para permitir o descarregamento automático de %s.",
+            "CN": "%s已满，可连接更多传送带让%s进行自动输出。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Transportbänder, um %s automatisch zu entladen.",
+            "EN": "%s output cache is full. Connect more transport belts to enable automatic unloading of %s.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez d'autres convoyeurs à bande pour activer le déchargement automatique de : %s.",
+            "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak sabuk angkut untuk secara otomatis membongkar muatan %s.",
+            "IT": "%s: riserva in uscita piena. Collega più nastri trasportatori per scaricare automaticamente l'oggetto %s.",
+            "JP": "%sがいっぱいです。%sを輸送するベルトコンベアを増やしてください。",
+            "KR": "%s이(가) 가득 찼습니다. 더 많은 컨베이어 벨트를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+            "MX": "el almacenaje de salida de %s está lleno. Conecta más cintas transportadoras para habilitar la descarga automática de %s.",
+            "RU": "%s: буфер выхода заполнен. Подключите дополнительные транспортировочные ленты, чтобы автоматически разгружать изделие «%s».",
+            "TC": "%s已滿，可連接更多傳送帶讓%s自動輸出。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อม​สายพาน​ขนส่ง​เพิ่มเติม​เพื่อให้​สามารถ​ถ่าย​ %s ออก​ได้​โดยอัตโนมัติ",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm băng tải vận chuyển để tự động dỡ hàng của %s."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-4672374044472164987",
-              "text": ""
-            },
+            "oldValue": "O cache de saída %s está cheio. Conecte mais esteiras de transporte para permitir o descarregamento automático de %s.",
             "newValue": {
               "alertText": {
                 "id": "-4672374044472164987",
@@ -401,30 +806,75 @@
       },
       "10": {
         "oldValue": {
-          "id": "7876495427126413046",
-          "text": ""
+          "BR": "O cache de saída %s está cheio. Arraste um recipiente vazio para a %s para transferi-la para o recipiente e liberar espaço.",
+          "CN": "%s已满，可以手动拖动空容器到%s处将其转移到容器内，腾出空间。",
+          "DE": "Der Ausgabespeicher für %s ist voll. Ziehe einen leeren Behälter auf %s, um den Inhalt in den Behälter zu übertragen und Platz freizugeben.",
+          "EN": "%s output cache is full. Drag an empty container onto the %s to transfer it to the container and free up space.",
+          "FR": "La cache de sortie de %s a atteint sa limite de stockage. Afin de libérer de l'espace et procéder à un transfert dans un contenant, apportez un contenant vide à : %s.",
+          "ID": "Cache output %s sudah penuh. Seret wadah kosong ke %s untuk mentransfernya ke dalam wadah dan mengosongkan ruang.",
+          "IT": "%s: riserva in uscita piena. Trascina un contenitore vuoto su: %s. In questo modo effettuerai il trasferimento al contenitore e libererai spazio.",
+          "JP": "%sがいっぱいです。空の容器をここにドラッグして%sを移動しましょう。",
+          "KR": "%s이(가) 가득 찼습니다. 빈 용기를 %s에 드래그하여 기존 액체를 용기로 옮기고 공간을 확보해 보세요.",
+          "MX": "el almacenaje de salida %s lleno. Arrastra un contenedor vacío sobre %s para transferirlo al contenedor y liberar espacio.",
+          "RU": "%s: буфер выхода заполнен. Перетащите пустой контейнер на жидкость «%s», чтобы поместить ее внутрь и освободить место.",
+          "TC": "%s已滿，可以手動拖動空容器到%s處將其轉移到容器內，騰出空間。",
+          "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ ลาก​ภาชนะ​ที่ว่างเปล่า​ไป​ที่​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+          "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kéo một thùng chứa rỗng vào %s để chuyển vào thùng và giải phóng không gian."
         },
         "newValue": {
           "alertText": {
-            "id": "7876495427126413046",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Arraste um recipiente vazio para a %s para transferi-la para o recipiente e liberar espaço.",
+            "CN": "%s已满，可以手动拖动空容器到%s处将其转移到容器内，腾出空间。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Ziehe einen leeren Behälter auf %s, um den Inhalt in den Behälter zu übertragen und Platz freizugeben.",
+            "EN": "%s output cache is full. Drag an empty container onto the %s to transfer it to the container and free up space.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Afin de libérer de l'espace et procéder à un transfert dans un contenant, apportez un contenant vide à : %s.",
+            "ID": "Cache output %s sudah penuh. Seret wadah kosong ke %s untuk mentransfernya ke dalam wadah dan mengosongkan ruang.",
+            "IT": "%s: riserva in uscita piena. Trascina un contenitore vuoto su: %s. In questo modo effettuerai il trasferimento al contenitore e libererai spazio.",
+            "JP": "%sがいっぱいです。空の容器をここにドラッグして%sを移動しましょう。",
+            "KR": "%s이(가) 가득 찼습니다. 빈 용기를 %s에 드래그하여 기존 액체를 용기로 옮기고 공간을 확보해 보세요.",
+            "MX": "el almacenaje de salida %s lleno. Arrastra un contenedor vacío sobre %s para transferirlo al contenedor y liberar espacio.",
+            "RU": "%s: буфер выхода заполнен. Перетащите пустой контейнер на жидкость «%s», чтобы поместить ее внутрь и освободить место.",
+            "TC": "%s已滿，可以手動拖動空容器到%s處將其轉移到容器內，騰出空間。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ ลาก​ภาชนะ​ที่ว่างเปล่า​ไป​ที่​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kéo một thùng chứa rỗng vào %s để chuyển vào thùng và giải phóng không gian."
           },
           "alertText_ct": {
-            "id": "5449185787888788478",
-            "text": ""
+            "BR": "O cache de saída da %s está cheio. Transfira %s para recipientes vazios e libere algum espaço.",
+            "CN": "%s已满，可以使用空容器盛装液体，将%s转移到容器内，腾出空间。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Übertrage %s in leere Behälter, um Platz freizugeben.",
+            "EN": "%s output cache is full. Transfer %s to empty containers and free up space.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Libérez de l'espace et apportez des contenants vides pour procéder à un transfert de : %s.",
+            "ID": "Cache output %s sudah penuh. Pindahkan %s ke wadah kosong, dan kosongkan ruang.",
+            "IT": "%s: riserva in uscita piena. Trasferisci %s in contenitori vuoti per liberare spazio.",
+            "JP": "%sがいっぱいです。%sの液体を空の容器に移動して空きを確保しましょう。",
+            "KR": "%s이(가) 가득 찼습니다. 빈 용기에 액체를 담아 %s을(를) 용기로 옮기고 공간을 확보해 보세요.",
+            "MX": "El almacenaje de salida %s está lleno. Transfiere %s a contenedores vacíos y libera espacio.",
+            "RU": "%s: буфер выхода заполнен. Переместите жидкость «%s» в пустые контейнеры, чтобы освободить место.",
+            "TC": "%s已滿，可以使用空容器盛裝液體，將%s轉移到容器內，騰出空間。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ ถ่ายโอน​ %s ไป​ยัง​ภาชนะ​เปล่า​เพื่อ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Chuyển %s vào thùng chứa rỗng và giải phóng không gian."
           },
           "alertText_mb": {
-            "id": "5147278092909856926",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Arraste um recipiente vazio para a %s para transferi-la para o recipiente e liberar espaço.",
+            "CN": "%s已满，可以手动拖动空容器到%s处将其转移到容器内，腾出空间。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Ziehe einen leeren Behälter auf %s, um den Inhalt in den Behälter zu übertragen und Platz freizugeben.",
+            "EN": "%s output cache is full. Drag an empty container onto the %s to transfer it to the container and free up space.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Afin de libérer de l'espace et procéder à un transfert dans un contenant, apportez un contenant vide à : %s.",
+            "ID": "Cache output %s sudah penuh. Seret wadah kosong ke %s untuk mentransfernya ke dalam wadah dan mengosongkan ruang.",
+            "IT": "%s: riserva in uscita piena. Trascina un contenitore vuoto su: %s. In questo modo effettuerai il trasferimento al contenitore e libererai spazio.",
+            "JP": "%sがいっぱいです。空の容器をここにドラッグして%sを移動しましょう。",
+            "KR": "%s이(가) 가득 찼습니다. 빈 용기를 %s에 드래그하여 기존 액체를 용기로 옮기고 공간을 확보해 보세요.",
+            "MX": "el almacenaje de salida %s lleno. Arrastra un contenedor vacío sobre %s para transferirlo al contenedor y liberar espacio.",
+            "RU": "%s: буфер выхода заполнен. Перетащите пустой контейнер на жидкость «%s», чтобы поместить ее внутрь и освободить место.",
+            "TC": "%s已滿，可以手動拖動空容器到%s處將其轉移到容器內，騰出空間。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ ลาก​ภาชนะ​ที่ว่างเปล่า​ไป​ที่​ %s เพื่อ​ขนถ่าย​ไป​ยัง​ภาชนะ​และ​เพิ่ม​พื้นที่​ว่าง",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kéo một thùng chứa rỗng vào %s để chuyển vào thùng và giải phóng không gian."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "7876495427126413046",
-              "text": ""
-            },
+            "oldValue": "O cache de saída %s está cheio. Arraste um recipiente vazio para a %s para transferi-la para o recipiente e liberar espaço.",
             "newValue": {
               "alertText": {
                 "id": "7876495427126413046",
@@ -444,30 +894,75 @@
       },
       "11": {
         "oldValue": {
-          "id": "-8855410041613091493",
-          "text": ""
+          "BR": "O cache de saída %s está cheio. Conecte mais tubos para descarregar %s automaticamente.",
+          "CN": "%s已满，可连接更多管道让%s进行自动输出。",
+          "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Rohre, um %s automatisch zu entladen.",
+          "EN": "%s output cache is full. Connect more pipes to automatically unload %s.",
+          "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez davantage de conduites pour décharger automatiquement : %s.",
+          "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak pipa untuk secara otomatis membongkar muatan %s.",
+          "IT": "%s: riserva in uscita piena. Collega altri tubi per scaricare automaticamente l'oggetto %s.",
+          "JP": "%sがいっぱいです。輸送パイプを増やして%sを移動しましょう。",
+          "KR": "%s이(가) 가득 찼습니다. 더 많은 파이프를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+          "MX": "el almacenaje de salida de %s está lleno. Conecta más tuberías para descargar automáticamente %s.",
+          "RU": "%s: буфер выхода заполнен. Подсоедините больше труб, чтобы автоматически разгружать изделие «%s».",
+          "TC": "%s已滿，可連接更多管道讓%s自動輸出。",
+          "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อมต่อ​ท่อ​เพิ่มขึ้น​เพื่อให้​สามารถ​ขนถ่าย​ %s ได้​โดยอัตโนมัติ",
+          "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm đường ống để tự động dỡ %s."
         },
         "newValue": {
           "alertText": {
-            "id": "-8855410041613091493",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Conecte mais tubos para descarregar %s automaticamente.",
+            "CN": "%s已满，可连接更多管道让%s进行自动输出。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Rohre, um %s automatisch zu entladen.",
+            "EN": "%s output cache is full. Connect more pipes to automatically unload %s.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez davantage de conduites pour décharger automatiquement : %s.",
+            "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak pipa untuk secara otomatis membongkar muatan %s.",
+            "IT": "%s: riserva in uscita piena. Collega altri tubi per scaricare automaticamente l'oggetto %s.",
+            "JP": "%sがいっぱいです。輸送パイプを増やして%sを移動しましょう。",
+            "KR": "%s이(가) 가득 찼습니다. 더 많은 파이프를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+            "MX": "el almacenaje de salida de %s está lleno. Conecta más tuberías para descargar automáticamente %s.",
+            "RU": "%s: буфер выхода заполнен. Подсоедините больше труб, чтобы автоматически разгружать изделие «%s».",
+            "TC": "%s已滿，可連接更多管道讓%s自動輸出。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อมต่อ​ท่อ​เพิ่มขึ้น​เพื่อให้​สามารถ​ขนถ่าย​ %s ได้​โดยอัตโนมัติ",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm đường ống để tự động dỡ %s."
           },
           "alertText_ct": {
-            "id": "-1304460123630124896",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Conecte mais tubos para descarregar %s automaticamente.",
+            "CN": "%s已满，可连接更多管道让%s进行自动输出。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Rohre, um %s automatisch zu entladen.",
+            "EN": "%s output cache is full. Connect more pipes to automatically unload %s.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez davantage de conduites pour décharger automatiquement : %s.",
+            "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak pipa untuk secara otomatis membongkar muatan %s.",
+            "IT": "%s: riserva in uscita piena. Collega altri tubi per scaricare automaticamente l'oggetto %s.",
+            "JP": "%sがいっぱいです。輸送パイプを増やして%sを移動しましょう。",
+            "KR": "%s이(가) 가득 찼습니다. 더 많은 파이프를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+            "MX": "el almacenaje de salida de %s está lleno. Conecta más tuberías para descargar automáticamente %s.",
+            "RU": "%s: буфер выхода заполнен. Подсоедините больше труб, чтобы автоматически разгружать изделие «%s».",
+            "TC": "%s已滿，可連接更多管道讓%s自動輸出。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อมต่อ​ท่อ​เพิ่มขึ้น​เพื่อให้​สามารถ​ขนถ่าย​ %s ได้​โดยอัตโนมัติ",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm đường ống để tự động dỡ %s."
           },
           "alertText_mb": {
-            "id": "-1799193994200806436",
-            "text": ""
+            "BR": "O cache de saída %s está cheio. Conecte mais tubos para descarregar %s automaticamente.",
+            "CN": "%s已满，可连接更多管道让%s进行自动输出。",
+            "DE": "Der Ausgabespeicher für %s ist voll. Verbinde weitere Rohre, um %s automatisch zu entladen.",
+            "EN": "%s output cache is full. Connect more pipes to automatically unload %s.",
+            "FR": "La cache de sortie de %s a atteint sa limite de stockage. Connectez davantage de conduites pour décharger automatiquement : %s.",
+            "ID": "Cache output %s sudah penuh. Hubungkan lebih banyak pipa untuk secara otomatis membongkar muatan %s.",
+            "IT": "%s: riserva in uscita piena. Collega altri tubi per scaricare automaticamente l'oggetto %s.",
+            "JP": "%sがいっぱいです。輸送パイプを増やして%sを移動しましょう。",
+            "KR": "%s이(가) 가득 찼습니다. 더 많은 파이프를 연결하여 %s이(가) 자동으로 출력되도록 설정해 보세요.",
+            "MX": "el almacenaje de salida de %s está lleno. Conecta más tuberías para descargar automáticamente %s.",
+            "RU": "%s: буфер выхода заполнен. Подсоедините больше труб, чтобы автоматически разгружать изделие «%s».",
+            "TC": "%s已滿，可連接更多管道讓%s自動輸出。",
+            "TH": "ที่เก็บ​ชั่วคราว​ขาออก​ของ​ %s เต็ม​แล้ว​ เชื่อมต่อ​ท่อ​เพิ่มขึ้น​เพื่อให้​สามารถ​ขนถ่าย​ %s ได้​โดยอัตโนมัติ",
+            "VN": "Kho Lưu Tạm Đầu Ra %s đã đầy. Kết nối thêm đường ống để tự động dỡ %s."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-8855410041613091493",
-              "text": ""
-            },
+            "oldValue": "O cache de saída %s está cheio. Conecte mais tubos para descarregar %s automaticamente.",
             "newValue": {
               "alertText": {
                 "id": "-8855410041613091493",
@@ -487,30 +982,75 @@
       },
       "12": {
         "oldValue": {
-          "id": "1435964910786682714",
-          "text": ""
+          "BR": "Os materiais colocados no momento não podem ser utilizados nesta instalação para produção. Verifique as fórmulas disponíveis na instalação.",
+          "CN": "当前放入的材料无法在本设备中进行生产与合成，可以查看本设备可用的配方。",
+          "DE": "Aktuell platzierte Materialien können von dieser Anlage nicht für die Produktion verwendet werden. Überprüfe die verfügbaren Formeln der Anlage.",
+          "EN": "Currently placed materials can't be used by this facility for production. Check the facility's available formulas.",
+          "FR": "Les matériaux actuellement placés ne peuvent pas être utilisés par cette installation pour la production. Vérifiez les formules disponibles dans l'installation.",
+          "ID": "Material yang ditempatkan ini tidak bisa digunakan oleh fasilitas ini untuk menjalankan produksi. Periksa formula yang tersedia di fasilitas ini.",
+          "IT": "I materiali posizionati non possono essere usati per la produzione da questa struttura. Controlla le formule disponibili per questa struttura.",
+          "JP": "生産や合成に使用できない素材です。設備の詳細からレシピを確認してください。",
+          "KR": "현재 넣은 재료는 해당 설비에서 생산 또는 합성할 수 없습니다. 설비에서 사용할 수 있는 조합 공식을 확인해 보세요.",
+          "MX": "Los materiales colocados actualmente no pueden ser usados por esta instalación para producción. Consulta las fórmulas disponibles de la instalación.",
+          "RU": "Помещенные материалы невозможно обработать в этом сооружении. Посмотрите доступные формулы.",
+          "TC": "目前放入的材料無法在本設備中生產與合成，可以查看本設備可用的配方。",
+          "TH": "วัสดุ​ที่​จัดวาง​ไว้​ในขณะนี้​ไม่​สามารถ​ใช้​ร่วมกับ​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต​ได้​ ตรวจสอบ​สูตร​ที่​พร้อม​ใช้งาน​ของ​สิ่งปลูกสร้าง",
+          "VN": "Vật liệu hiện tại không thể được sử dụng ở công trình này. Hãy kiểm tra các công thức có sẵn của công trình."
         },
         "newValue": {
           "alertText": {
-            "id": "1435964910786682714",
-            "text": ""
+            "BR": "Os materiais colocados no momento não podem ser utilizados nesta instalação para produção. Verifique as fórmulas disponíveis na instalação.",
+            "CN": "当前放入的材料无法在本设备中进行生产与合成，可以查看本设备可用的配方。",
+            "DE": "Aktuell platzierte Materialien können von dieser Anlage nicht für die Produktion verwendet werden. Überprüfe die verfügbaren Formeln der Anlage.",
+            "EN": "Currently placed materials can't be used by this facility for production. Check the facility's available formulas.",
+            "FR": "Les matériaux actuellement placés ne peuvent pas être utilisés par cette installation pour la production. Vérifiez les formules disponibles dans l'installation.",
+            "ID": "Material yang ditempatkan ini tidak bisa digunakan oleh fasilitas ini untuk menjalankan produksi. Periksa formula yang tersedia di fasilitas ini.",
+            "IT": "I materiali posizionati non possono essere usati per la produzione da questa struttura. Controlla le formule disponibili per questa struttura.",
+            "JP": "生産や合成に使用できない素材です。設備の詳細からレシピを確認してください。",
+            "KR": "현재 넣은 재료는 해당 설비에서 생산 또는 합성할 수 없습니다. 설비에서 사용할 수 있는 조합 공식을 확인해 보세요.",
+            "MX": "Los materiales colocados actualmente no pueden ser usados por esta instalación para producción. Consulta las fórmulas disponibles de la instalación.",
+            "RU": "Помещенные материалы невозможно обработать в этом сооружении. Посмотрите доступные формулы.",
+            "TC": "目前放入的材料無法在本設備中生產與合成，可以查看本設備可用的配方。",
+            "TH": "วัสดุ​ที่​จัดวาง​ไว้​ในขณะนี้​ไม่​สามารถ​ใช้​ร่วมกับ​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต​ได้​ ตรวจสอบ​สูตร​ที่​พร้อม​ใช้งาน​ของ​สิ่งปลูกสร้าง",
+            "VN": "Vật liệu hiện tại không thể được sử dụng ở công trình này. Hãy kiểm tra các công thức có sẵn của công trình."
           },
           "alertText_ct": {
-            "id": "-1443261967943047270",
-            "text": ""
+            "BR": "Os materiais colocados no momento não podem ser utilizados nesta instalação para produção. Verifique as fórmulas disponíveis na instalação.",
+            "CN": "当前放入的材料无法在本设备中进行生产与合成，可以查看本设备可用的配方。",
+            "DE": "Aktuell platzierte Materialien können von dieser Anlage nicht für die Produktion verwendet werden. Überprüfe die verfügbaren Formeln der Anlage.",
+            "EN": "Currently placed materials can't be used by this facility for production. Check the facility's available formulas.",
+            "FR": "Les matériaux actuellement placés ne peuvent pas être utilisés par cette installation pour la production. Vérifiez les formules disponibles dans l'installation.",
+            "ID": "Material yang ditempatkan ini tidak bisa digunakan oleh fasilitas ini untuk menjalankan produksi. Periksa formula yang tersedia di fasilitas ini.",
+            "IT": "I materiali posizionati non possono essere usati per la produzione da questa struttura. Controlla le formule disponibili per questa struttura.",
+            "JP": "生産や合成に使用できない素材です。設備の詳細からレシピを確認してください。",
+            "KR": "현재 넣은 재료는 해당 설비에서 생산 또는 합성할 수 없습니다. 설비에서 사용할 수 있는 조합 공식을 확인해 보세요.",
+            "MX": "Los materiales colocados actualmente no pueden ser usados por esta instalación para producción. Consulta las fórmulas disponibles de la instalación.",
+            "RU": "Помещенные материалы невозможно обработать в этом сооружении. Посмотрите доступные формулы.",
+            "TC": "目前放入的材料無法在本設備中生產與合成，可以查看本設備可用的配方。",
+            "TH": "วัสดุ​ที่​จัดวาง​ไว้​ในขณะนี้​ไม่​สามารถ​ใช้​ร่วมกับ​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต​ได้​ ตรวจสอบ​สูตร​ที่​พร้อม​ใช้งาน​ของ​สิ่งปลูกสร้าง",
+            "VN": "Vật liệu hiện tại không thể được sử dụng ở công trình này. Hãy kiểm tra các công thức có sẵn của công trình."
           },
           "alertText_mb": {
-            "id": "-1639025591595441618",
-            "text": ""
+            "BR": "Os materiais colocados no momento não podem ser utilizados nesta instalação para produção. Verifique as fórmulas disponíveis na instalação.",
+            "CN": "当前放入的材料无法在本设备中进行生产与合成，可以查看本设备可用的配方。",
+            "DE": "Aktuell platzierte Materialien können von dieser Anlage nicht für die Produktion verwendet werden. Überprüfe die verfügbaren Formeln der Anlage.",
+            "EN": "Currently placed materials can't be used by this facility for production. Check the facility's available formulas.",
+            "FR": "Les matériaux actuellement placés ne peuvent pas être utilisés par cette installation pour la production. Vérifiez les formules disponibles dans l'installation.",
+            "ID": "Material yang ditempatkan ini tidak bisa digunakan oleh fasilitas ini untuk menjalankan produksi. Periksa formula yang tersedia di fasilitas ini.",
+            "IT": "I materiali posizionati non possono essere usati per la produzione da questa struttura. Controlla le formule disponibili per questa struttura.",
+            "JP": "生産や合成に使用できない素材です。設備の詳細からレシピを確認してください。",
+            "KR": "현재 넣은 재료는 해당 설비에서 생산 또는 합성할 수 없습니다. 설비에서 사용할 수 있는 조합 공식을 확인해 보세요.",
+            "MX": "Los materiales colocados actualmente no pueden ser usados por esta instalación para producción. Consulta las fórmulas disponibles de la instalación.",
+            "RU": "Помещенные материалы невозможно обработать в этом сооружении. Посмотрите доступные формулы.",
+            "TC": "目前放入的材料無法在本設備中生產與合成，可以查看本設備可用的配方。",
+            "TH": "วัสดุ​ที่​จัดวาง​ไว้​ในขณะนี้​ไม่​สามารถ​ใช้​ร่วมกับ​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต​ได้​ ตรวจสอบ​สูตร​ที่​พร้อม​ใช้งาน​ของ​สิ่งปลูกสร้าง",
+            "VN": "Vật liệu hiện tại không thể được sử dụng ở công trình này. Hãy kiểm tra các công thức có sẵn của công trình."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "1435964910786682714",
-              "text": ""
-            },
+            "oldValue": "Os materiais colocados no momento não podem ser utilizados nesta instalação para produção. Verifique as fórmulas disponíveis na instalação.",
             "newValue": {
               "alertText": {
                 "id": "1435964910786682714",
@@ -530,30 +1070,75 @@
       },
       "13": {
         "oldValue": {
-          "id": "6093392952513732387",
-          "text": ""
+          "BR": "Arraste itens da Mochila ou do Depósito para a instalação para produção.",
+          "CN": "可以拖动背包或仓库中的物品到设备中，进行生产与合成。",
+          "DE": "Ziehe Gegenstände aus dem Rucksack oder Depot zur Produktion in die Anlage.",
+          "EN": "Drag items from the Backpack or Depot into the facility for production.",
+          "FR": "Déplacez des objets depuis votre sac à dos ou un entrepôt vers l'installation pour permettre la production.",
+          "ID": "Seret item dari Ransel atau Depot ke fasilitas untuk menjalankan produksi.",
+          "IT": "Trascina gli oggetti dallo zaino o dal deposito all'interno della struttura per la produzione.",
+          "JP": "アイテムを道具箱や倉庫から設備にドラッグすると、生産や合成を行えます。",
+          "KR": "가방이나 창고에서 아이템을 설비로 드래그하여 생산 및 합성을 진행할 수 있습니다.",
+          "MX": "Arrastra objetos desde la Mochila o el Depósito a la instalación para la producción.",
+          "RU": "Перетащите предметы из рюкзака или со склада в сооружение для производства.",
+          "TC": "可以拖動背包或倉庫中的物品到設備中以進行生產與合成。",
+          "TH": "ลาก​ไอ​เทม​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต",
+          "VN": "Kéo vật phẩm từ Túi hoặc Kho Hàng vào công trình để sản xuất."
         },
         "newValue": {
           "alertText": {
-            "id": "6093392952513732387",
-            "text": ""
+            "BR": "Arraste itens da Mochila ou do Depósito para a instalação para produção.",
+            "CN": "可以拖动背包或仓库中的物品到设备中，进行生产与合成。",
+            "DE": "Ziehe Gegenstände aus dem Rucksack oder Depot zur Produktion in die Anlage.",
+            "EN": "Drag items from the Backpack or Depot into the facility for production.",
+            "FR": "Déplacez des objets depuis votre sac à dos ou un entrepôt vers l'installation pour permettre la production.",
+            "ID": "Seret item dari Ransel atau Depot ke fasilitas untuk menjalankan produksi.",
+            "IT": "Trascina gli oggetti dallo zaino o dal deposito all'interno della struttura per la produzione.",
+            "JP": "アイテムを道具箱や倉庫から設備にドラッグすると、生産や合成を行えます。",
+            "KR": "가방이나 창고에서 아이템을 설비로 드래그하여 생산 및 합성을 진행할 수 있습니다.",
+            "MX": "Arrastra objetos desde la Mochila o el Depósito a la instalación para la producción.",
+            "RU": "Перетащите предметы из рюкзака или со склада в сооружение для производства.",
+            "TC": "可以拖動背包或倉庫中的物品到設備中以進行生產與合成。",
+            "TH": "ลาก​ไอ​เทม​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต",
+            "VN": "Kéo vật phẩm từ Túi hoặc Kho Hàng vào công trình để sản xuất."
           },
           "alertText_ct": {
-            "id": "-3096669819898655817",
-            "text": ""
+            "BR": "Mova itens da Mochila ou do Depósito até a instalação para usar na produção.",
+            "CN": "可以将背包或仓库中的物品移动到设备中，进行生产与合成。",
+            "DE": "Bewege Gegenstände aus dem Rucksack oder Depot zur Produktion in die Anlage.",
+            "EN": "Move items from the Backpack or Depot into the facility for production.",
+            "FR": "Déplacez des objets depuis votre sac à dos ou un entrepôt vers l'installation pour permettre la production.",
+            "ID": "Pindahkan item dari Ransel atau Depot ke fasilitas untuk menjalankan produksi.",
+            "IT": "Sposta gli oggetti dallo zaino o dal deposito all'interno della struttura per la produzione.",
+            "JP": "アイテムを道具箱や倉庫から設備に移動すると、生産や合成を行えます。",
+            "KR": "가방이나 창고에서 아이템을 설비로 이동하여 생산 및 합성을 진행할 수 있습니다.",
+            "MX": "Mueve objetos de la Mochila o el Depósito a la instalación para la producción.",
+            "RU": "Переместите предметы из рюкзака или со склада в сооружение для производства.",
+            "TC": "可以將背包或倉庫中的物品移動到設備中，進行生產與合成。",
+            "TH": "ย้าย​ไอ​เทม​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต",
+            "VN": "Di chuyển vật phẩm từ Túi hoặc Kho Hàng vào công trình để sản xuất."
           },
           "alertText_mb": {
-            "id": "-6582750960599914305",
-            "text": ""
+            "BR": "Arraste itens da Mochila ou do Depósito para a instalação para produção.",
+            "CN": "可以拖动背包或仓库中的物品到设备中，进行生产与合成。",
+            "DE": "Ziehe Gegenstände aus dem Rucksack oder Depot zur Produktion in die Anlage.",
+            "EN": "Drag items from the Backpack or Depot into the facility for production.",
+            "FR": "Déplacez des objets depuis votre sac à dos ou un entrepôt vers l'installation pour permettre la production.",
+            "ID": "Seret item dari Ransel atau Depot ke fasilitas untuk menjalankan produksi.",
+            "IT": "Trascina gli oggetti dallo zaino o dal deposito all'interno della struttura per la produzione.",
+            "JP": "アイテムを道具箱や倉庫から設備にドラッグすると、生産や合成を行えます。",
+            "KR": "가방이나 창고에서 아이템을 설비로 드래그하여 생산 및 합성을 진행할 수 있습니다.",
+            "MX": "Arrastra objetos desde la Mochila o el Depósito a la instalación para la producción.",
+            "RU": "Перетащите предметы из рюкзака или со склада в сооружение для производства.",
+            "TC": "可以拖動背包或倉庫中的物品到設備中以進行生產與合成。",
+            "TH": "ลาก​ไอ​เทม​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​ดำเนินการ​ผลิต",
+            "VN": "Kéo vật phẩm từ Túi hoặc Kho Hàng vào công trình để sản xuất."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "6093392952513732387",
-              "text": ""
-            },
+            "oldValue": "Arraste itens da Mochila ou do Depósito para a instalação para produção.",
             "newValue": {
               "alertText": {
                 "id": "6093392952513732387",
@@ -573,30 +1158,75 @@
       },
       "14": {
         "oldValue": {
-          "id": "-5849608839565071189",
-          "text": ""
+          "BR": "Arraste recipientes cheios de fluidos da Mochila ou do Depósito para a instalação para despejar os fluidos.",
+          "CN": "可以将背包或仓库中的存有液体的容器拖入设备中，倾倒容器中的液体。",
+          "DE": "Ziehe mit Flüssigkeiten gefüllte Behälter aus dem Rucksack oder Depot in die Anlage, um die Flüssigkeiten auszugießen.",
+          "EN": "Drag containers filled with fluids from the Backpack or Depot into the facility to pour out the fluids.",
+          "FR": "Déplacez des contenants remplis de fluides depuis votre sac à dos ou un entrepôt vers l'installation pour y verser les fluides.",
+          "ID": "Seret wadah berisi cairan dari Ransel atau Depot ke fasilitas untuk menuangkan cairannya.",
+          "IT": "Trascina i contenitori pieni di liquidi dallo zaino o dal deposito all'interno della struttura per versare i liquidi.",
+          "JP": "液体が入っている容器を道具箱や倉庫から設備にドラッグすると、液体を設備に移し替えることができます。",
+          "KR": "가방이나 창고에서 액체가 담긴 용기를 설비로 드래그하여 액체를 설비에 부을 수 있습니다.",
+          "MX": "Arrastra recipientes llenos de fluidos desde la Mochila o el Depósito hacia la instalación para vaciar los fluidos.",
+          "RU": "Перетащите контейнеры с жидкостью из рюкзака или со склада в сооружение, чтобы ее вылить.",
+          "TC": "可以將背包或倉庫中存有液體的容器拖入設備中，傾倒容器中的液體。",
+          "TH": "ลาก​ภาชนะ​บรรจุ​ของเหลว​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​เท​ของเหลว",
+          "VN": "Kéo thùng chứa có chứa chất lỏng từ Túi hoặc Kho Hàng vào công trình để rót chất lỏng."
         },
         "newValue": {
           "alertText": {
-            "id": "-5849608839565071189",
-            "text": ""
+            "BR": "Arraste recipientes cheios de fluidos da Mochila ou do Depósito para a instalação para despejar os fluidos.",
+            "CN": "可以将背包或仓库中的存有液体的容器拖入设备中，倾倒容器中的液体。",
+            "DE": "Ziehe mit Flüssigkeiten gefüllte Behälter aus dem Rucksack oder Depot in die Anlage, um die Flüssigkeiten auszugießen.",
+            "EN": "Drag containers filled with fluids from the Backpack or Depot into the facility to pour out the fluids.",
+            "FR": "Déplacez des contenants remplis de fluides depuis votre sac à dos ou un entrepôt vers l'installation pour y verser les fluides.",
+            "ID": "Seret wadah berisi cairan dari Ransel atau Depot ke fasilitas untuk menuangkan cairannya.",
+            "IT": "Trascina i contenitori pieni di liquidi dallo zaino o dal deposito all'interno della struttura per versare i liquidi.",
+            "JP": "液体が入っている容器を道具箱や倉庫から設備にドラッグすると、液体を設備に移し替えることができます。",
+            "KR": "가방이나 창고에서 액체가 담긴 용기를 설비로 드래그하여 액체를 설비에 부을 수 있습니다.",
+            "MX": "Arrastra recipientes llenos de fluidos desde la Mochila o el Depósito hacia la instalación para vaciar los fluidos.",
+            "RU": "Перетащите контейнеры с жидкостью из рюкзака или со склада в сооружение, чтобы ее вылить.",
+            "TC": "可以將背包或倉庫中存有液體的容器拖入設備中，傾倒容器中的液體。",
+            "TH": "ลาก​ภาชนะ​บรรจุ​ของเหลว​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​เท​ของเหลว",
+            "VN": "Kéo thùng chứa có chứa chất lỏng từ Túi hoặc Kho Hàng vào công trình để rót chất lỏng."
           },
           "alertText_ct": {
-            "id": "8384104180053743098",
-            "text": ""
+            "BR": "Mova recipientes cheios de fluidos da Mochila ou do Depósito até a instalação para despejar os fluidos.",
+            "CN": "可以选择背包或仓库中的存有液体的容器，倾倒液体至设备中。",
+            "DE": "Bewege mit Flüssigkeiten gefüllte Behälter aus dem Rucksack oder Depot in die Anlage, um die Flüssigkeiten auszugießen.",
+            "EN": "Move containers filled with fluids from the Backpack or Depot into the facility to pour out the fluids.",
+            "FR": "Déplacez des contenants remplis de fluides depuis votre sac à dos ou un entrepôt vers l'installation pour y verser les fluides.",
+            "ID": "Pindahkan wadah berisi cairan dari Ransel atau Depot ke fasilitas untuk menuangkan cairannya.",
+            "IT": "Sposta i contenitori pieni di liquidi dallo zaino o dal deposito all'interno della struttura per versare i liquidi.",
+            "JP": "液体が入っている容器を道具箱や倉庫から設備に移動すると、液体を設備に移し替えることができます。",
+            "KR": "가방이나 창고에 있는 액체가 담긴 용기를 선택해, 설비에 액체를 부을 수 있습니다.",
+            "MX": "Mueve contenedores llenos de fluidos de la Mochila o el Depósito a la instalación para verter los fluidos.",
+            "RU": "Переместите контейнеры с жидкостью из рюкзака или со склада в сооружение, чтобы ее вылить.",
+            "TC": "可以選擇背包或倉庫中存有液體的容器，傾倒液體至設備中。",
+            "TH": "ย้าย​ภาชนะ​บรรจุ​ของเหลว​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​เท​ของเหลว",
+            "VN": "Di chuyển vật phẩm từ Túi hoặc Kho Hàng vào công trình để rót chất lỏng."
           },
           "alertText_mb": {
-            "id": "-3822707246462803482",
-            "text": ""
+            "BR": "Arraste recipientes cheios de fluidos da Mochila ou do Depósito para a instalação para despejar os fluidos.",
+            "CN": "可以将背包或仓库中的存有液体的容器拖入设备中，倾倒容器中的液体。",
+            "DE": "Ziehe mit Flüssigkeiten gefüllte Behälter aus dem Rucksack oder Depot in die Anlage, um die Flüssigkeiten auszugießen.",
+            "EN": "Drag containers filled with fluids from the Backpack or Depot into the facility to pour out the fluids.",
+            "FR": "Déplacez des contenants remplis de fluides depuis votre sac à dos ou un entrepôt vers l'installation pour y verser les fluides.",
+            "ID": "Seret wadah berisi cairan dari Ransel atau Depot ke fasilitas untuk menuangkan cairannya.",
+            "IT": "Trascina i contenitori pieni di liquidi dallo zaino o dal deposito all'interno della struttura per versare i liquidi.",
+            "JP": "液体が入っている容器を道具箱や倉庫から設備にドラッグすると、液体を設備に移し替えることができます。",
+            "KR": "가방이나 창고에서 액체가 담긴 용기를 설비로 드래그하여 액체를 설비에 부을 수 있습니다.",
+            "MX": "Arrastra recipientes llenos de fluidos desde la Mochila o el Depósito hacia la instalación para vaciar los fluidos.",
+            "RU": "Перетащите контейнеры с жидкостью из рюкзака или со склада в сооружение, чтобы ее вылить.",
+            "TC": "可以將背包或倉庫中存有液體的容器拖入設備中，傾倒容器中的液體。",
+            "TH": "ลาก​ภาชนะ​บรรจุ​ของเหลว​จาก​กระเป๋า​หรือ​คลังสินค้า​ไป​ยัง​สิ่งปลูกสร้าง​เพื่อ​เท​ของเหลว",
+            "VN": "Kéo thùng chứa có chứa chất lỏng từ Túi hoặc Kho Hàng vào công trình để rót chất lỏng."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-5849608839565071189",
-              "text": ""
-            },
+            "oldValue": "Arraste recipientes cheios de fluidos da Mochila ou do Depósito para a instalação para despejar os fluidos.",
             "newValue": {
               "alertText": {
                 "id": "-5849608839565071189",
@@ -616,30 +1246,75 @@
       },
       "15": {
         "oldValue": {
-          "id": "7895541410437955129",
-          "text": ""
+          "BR": "A instalação atual está desligada. Ligue-a novamente para produção.",
+          "CN": "当前设备已关闭，可开启设备进行生产。",
+          "DE": "Die Anlage ist derzeit ausgeschaltet. Schalte sie zur Produktion wieder ein.",
+          "EN": "Current facility is switched off. Switch it back on for production.",
+          "FR": "L'installation est actuellement désactivée. Réactivez-la pour permettre la production.",
+          "ID": "Fasilitas ini dimatikan. Nyalakan kembali untuk menjalankan produksi.",
+          "IT": "La struttura è disattivata. Riattivala per avviare la produzione.",
+          "JP": "この設備は現在停止中です。起動してから生産を行ってください。",
+          "KR": "현재 설비가 꺼져 있습니다. 설비를 작동시켜 생산을 시작할 수 있습니다.",
+          "MX": "La instalación actual está apagada. Vuelve a encenderla para iniciar la producción.",
+          "RU": "Сооружение не работает. Включите его, чтобы возобновить производство.",
+          "TC": "目前設備已關閉，可開啟設備進行生產。",
+          "TH": "สิ่งปลูกสร้าง​ปัจจุบัน​ปิด​อยู่​ เปิด​ระบบ​อีกครั้ง​เพื่อ​ดำเนินการ​ผลิต",
+          "VN": "Công trình hiện tại đang tắt. Hãy bật lại để tiếp tục sản xuất."
         },
         "newValue": {
           "alertText": {
-            "id": "7895541410437955129",
-            "text": ""
+            "BR": "A instalação atual está desligada. Ligue-a novamente para produção.",
+            "CN": "当前设备已关闭，可开启设备进行生产。",
+            "DE": "Die Anlage ist derzeit ausgeschaltet. Schalte sie zur Produktion wieder ein.",
+            "EN": "Current facility is switched off. Switch it back on for production.",
+            "FR": "L'installation est actuellement désactivée. Réactivez-la pour permettre la production.",
+            "ID": "Fasilitas ini dimatikan. Nyalakan kembali untuk menjalankan produksi.",
+            "IT": "La struttura è disattivata. Riattivala per avviare la produzione.",
+            "JP": "この設備は現在停止中です。起動してから生産を行ってください。",
+            "KR": "현재 설비가 꺼져 있습니다. 설비를 작동시켜 생산을 시작할 수 있습니다.",
+            "MX": "La instalación actual está apagada. Vuelve a encenderla para iniciar la producción.",
+            "RU": "Сооружение не работает. Включите его, чтобы возобновить производство.",
+            "TC": "目前設備已關閉，可開啟設備進行生產。",
+            "TH": "สิ่งปลูกสร้าง​ปัจจุบัน​ปิด​อยู่​ เปิด​ระบบ​อีกครั้ง​เพื่อ​ดำเนินการ​ผลิต",
+            "VN": "Công trình hiện tại đang tắt. Hãy bật lại để tiếp tục sản xuất."
           },
           "alertText_ct": {
-            "id": "-8899363251934834494",
-            "text": ""
+            "BR": "A instalação atual está desligada. Ligue-a novamente para produção.",
+            "CN": "当前设备已关闭，可开启设备进行生产。",
+            "DE": "Die Anlage ist derzeit ausgeschaltet. Schalte sie zur Produktion wieder ein.",
+            "EN": "Current facility is switched off. Switch it back on for production.",
+            "FR": "L'installation est actuellement désactivée. Réactivez-la pour permettre la production.",
+            "ID": "Fasilitas ini dimatikan. Nyalakan kembali untuk menjalankan produksi.",
+            "IT": "La struttura è disattivata. Riattivala per avviare la produzione.",
+            "JP": "この設備は現在停止中です。起動してから生産を行ってください。",
+            "KR": "현재 설비가 꺼져 있습니다. 설비를 작동시켜 생산을 시작할 수 있습니다.",
+            "MX": "La instalación actual está apagada. Vuelve a encenderla para iniciar la producción.",
+            "RU": "Сооружение не работает. Включите его, чтобы возобновить производство.",
+            "TC": "目前設備已關閉，可開啟設備進行生產。",
+            "TH": "สิ่งปลูกสร้าง​ปัจจุบัน​ปิด​อยู่​ เปิด​ระบบ​อีกครั้ง​เพื่อ​ดำเนินการ​ผลิต",
+            "VN": "Công trình hiện tại đang tắt. Hãy bật lại để tiếp tục sản xuất."
           },
           "alertText_mb": {
-            "id": "-5492574935284192116",
-            "text": ""
+            "BR": "A instalação atual está desligada. Ligue-a novamente para produção.",
+            "CN": "当前设备已关闭，可开启设备进行生产。",
+            "DE": "Die Anlage ist derzeit ausgeschaltet. Schalte sie zur Produktion wieder ein.",
+            "EN": "Current facility is switched off. Switch it back on for production.",
+            "FR": "L'installation est actuellement désactivée. Réactivez-la pour permettre la production.",
+            "ID": "Fasilitas ini dimatikan. Nyalakan kembali untuk menjalankan produksi.",
+            "IT": "La struttura è disattivata. Riattivala per avviare la produzione.",
+            "JP": "この設備は現在停止中です。起動してから生産を行ってください。",
+            "KR": "현재 설비가 꺼져 있습니다. 설비를 작동시켜 생산을 시작할 수 있습니다.",
+            "MX": "La instalación actual está apagada. Vuelve a encenderla para iniciar la producción.",
+            "RU": "Сооружение не работает. Включите его, чтобы возобновить производство.",
+            "TC": "目前設備已關閉，可開啟設備進行生產。",
+            "TH": "สิ่งปลูกสร้าง​ปัจจุบัน​ปิด​อยู่​ เปิด​ระบบ​อีกครั้ง​เพื่อ​ดำเนินการ​ผลิต",
+            "VN": "Công trình hiện tại đang tắt. Hãy bật lại để tiếp tục sản xuất."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "7895541410437955129",
-              "text": ""
-            },
+            "oldValue": "A instalação atual está desligada. Ligue-a novamente para produção.",
             "newValue": {
               "alertText": {
                 "id": "7895541410437955129",
@@ -659,30 +1334,75 @@
       },
       "16": {
         "oldValue": {
-          "id": "-1811580902098400151",
-          "text": ""
+          "BR": "Esta instalação não tem energia suficiente. Coloque um Poste de Eletricidade ou outra fonte de energia por perto.",
+          "CN": "本设备电力不足，请在设备周围放置供电桩等供电设备。",
+          "DE": "Anlage hat nicht genug Energie. Platziere in der Nähe einen Strommast oder eine andere Stromversorgungsanlage.",
+          "EN": "Facility has insufficient power. Place an Electric Pylon, or another power supply facility, nearby.",
+          "FR": "L'installation n'est pas suffisamment alimentée. Placez un pylône électrique ou une autre installation d'alimentation électrique à proximité.",
+          "ID": "Daya pada fasilitas ini tidak cukup. Tempatkan Tiang Listrik, atau fasilitas pasokan listrik lain, di dekatnya.",
+          "IT": "Questa struttura non ha abbastanza energia. Posiziona nelle vicinanze un traliccio elettrico o un'altra struttura che generi elettricità.",
+          "JP": "電力が不足しています。送電スタンドなどの電力供給設備を、設備周辺に設置してください。",
+          "KR": "해당 설비의 전력이 부족합니다. 주변에 전력 공급기 등의 전력 공급 장치를 배치해 주세요.",
+          "MX": "La instalación no tiene suficiente energía. Coloca una Atalaya eléctrica u otra instalación de suministro de energía cerca.",
+          "RU": "Сооружению не хватает энергии. Разместите поблизости электрический пилон или другое сооружение для энергоснабжения.",
+          "TC": "本設備電力不足，請在設備周圍擺放供電樁等供電設備。",
+          "TH": "สิ่งปลูกสร้าง​นี้​มีพลัง​งาน​ไม่​เพียงพอ​ วาง​หลัก​เสาไฟฟ้า​ หรือ​สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​อื่​นๆ​ ไว้​ใกล้เคียง",
+          "VN": "Công trình không có đủ điện năng. Đặt một Cột Điện hoặc công trình cấp điện khác gần đó."
         },
         "newValue": {
           "alertText": {
-            "id": "-1811580902098400151",
-            "text": ""
+            "BR": "Esta instalação não tem energia suficiente. Coloque um Poste de Eletricidade ou outra fonte de energia por perto.",
+            "CN": "本设备电力不足，请在设备周围放置供电桩等供电设备。",
+            "DE": "Anlage hat nicht genug Energie. Platziere in der Nähe einen Strommast oder eine andere Stromversorgungsanlage.",
+            "EN": "Facility has insufficient power. Place an Electric Pylon, or another power supply facility, nearby.",
+            "FR": "L'installation n'est pas suffisamment alimentée. Placez un pylône électrique ou une autre installation d'alimentation électrique à proximité.",
+            "ID": "Daya pada fasilitas ini tidak cukup. Tempatkan Tiang Listrik, atau fasilitas pasokan listrik lain, di dekatnya.",
+            "IT": "Questa struttura non ha abbastanza energia. Posiziona nelle vicinanze un traliccio elettrico o un'altra struttura che generi elettricità.",
+            "JP": "電力が不足しています。送電スタンドなどの電力供給設備を、設備周辺に設置してください。",
+            "KR": "해당 설비의 전력이 부족합니다. 주변에 전력 공급기 등의 전력 공급 장치를 배치해 주세요.",
+            "MX": "La instalación no tiene suficiente energía. Coloca una Atalaya eléctrica u otra instalación de suministro de energía cerca.",
+            "RU": "Сооружению не хватает энергии. Разместите поблизости электрический пилон или другое сооружение для энергоснабжения.",
+            "TC": "本設備電力不足，請在設備周圍擺放供電樁等供電設備。",
+            "TH": "สิ่งปลูกสร้าง​นี้​มีพลัง​งาน​ไม่​เพียงพอ​ วาง​หลัก​เสาไฟฟ้า​ หรือ​สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​อื่​นๆ​ ไว้​ใกล้เคียง",
+            "VN": "Công trình không có đủ điện năng. Đặt một Cột Điện hoặc công trình cấp điện khác gần đó."
           },
           "alertText_ct": {
-            "id": "708590080408399962",
-            "text": ""
+            "BR": "Esta instalação não tem energia suficiente. Coloque um Poste de Eletricidade ou outra fonte de energia por perto.",
+            "CN": "本设备电力不足，请在设备周围放置供电桩等供电设备。",
+            "DE": "Anlage hat nicht genug Energie. Platziere in der Nähe einen Strommast oder eine andere Stromversorgungsanlage.",
+            "EN": "Facility has insufficient power. Place an Electric Pylon, or another power supply facility, nearby.",
+            "FR": "L'installation n'est pas suffisamment alimentée. Placez un pylône électrique ou une autre installation d'alimentation électrique à proximité.",
+            "ID": "Daya pada fasilitas ini tidak cukup. Tempatkan Tiang Listrik, atau fasilitas pasokan listrik lain, di dekatnya.",
+            "IT": "Questa struttura non ha abbastanza energia. Posiziona nelle vicinanze un traliccio elettrico o un'altra struttura che generi elettricità.",
+            "JP": "電力が不足しています。送電スタンドなどの電力供給設備を、設備周辺に設置してください。",
+            "KR": "해당 설비의 전력이 부족합니다. 주변에 전력 공급기 등의 전력 공급 장치를 배치해 주세요.",
+            "MX": "La instalación no tiene suficiente energía. Coloca una Atalaya eléctrica u otra instalación de suministro de energía cerca.",
+            "RU": "Сооружению не хватает энергии. Разместите поблизости электрический пилон или другое сооружение для энергоснабжения.",
+            "TC": "本設備電力不足，請在設備周圍擺放供電樁等供電設備。",
+            "TH": "สิ่งปลูกสร้าง​นี้​มีพลัง​งาน​ไม่​เพียงพอ​ วาง​หลัก​เสาไฟฟ้า​ หรือ​สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​อื่​นๆ​ ไว้​ใกล้เคียง",
+            "VN": "Công trình không có đủ điện năng. Đặt một Cột Điện hoặc công trình cấp điện khác gần đó."
           },
           "alertText_mb": {
-            "id": "-5374906547477795672",
-            "text": ""
+            "BR": "Esta instalação não tem energia suficiente. Coloque um Poste de Eletricidade ou outra fonte de energia por perto.",
+            "CN": "本设备电力不足，请在设备周围放置供电桩等供电设备。",
+            "DE": "Anlage hat nicht genug Energie. Platziere in der Nähe einen Strommast oder eine andere Stromversorgungsanlage.",
+            "EN": "Facility has insufficient power. Place an Electric Pylon, or another power supply facility, nearby.",
+            "FR": "L'installation n'est pas suffisamment alimentée. Placez un pylône électrique ou une autre installation d'alimentation électrique à proximité.",
+            "ID": "Daya pada fasilitas ini tidak cukup. Tempatkan Tiang Listrik, atau fasilitas pasokan listrik lain, di dekatnya.",
+            "IT": "Questa struttura non ha abbastanza energia. Posiziona nelle vicinanze un traliccio elettrico o un'altra struttura che generi elettricità.",
+            "JP": "電力が不足しています。送電スタンドなどの電力供給設備を、設備周辺に設置してください。",
+            "KR": "해당 설비의 전력이 부족합니다. 주변에 전력 공급기 등의 전력 공급 장치를 배치해 주세요.",
+            "MX": "La instalación no tiene suficiente energía. Coloca una Atalaya eléctrica u otra instalación de suministro de energía cerca.",
+            "RU": "Сооружению не хватает энергии. Разместите поблизости электрический пилон или другое сооружение для энергоснабжения.",
+            "TC": "本設備電力不足，請在設備周圍擺放供電樁等供電設備。",
+            "TH": "สิ่งปลูกสร้าง​นี้​มีพลัง​งาน​ไม่​เพียงพอ​ วาง​หลัก​เสาไฟฟ้า​ หรือ​สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​อื่​นๆ​ ไว้​ใกล้เคียง",
+            "VN": "Công trình không có đủ điện năng. Đặt một Cột Điện hoặc công trình cấp điện khác gần đó."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-1811580902098400151",
-              "text": ""
-            },
+            "oldValue": "Esta instalação não tem energia suficiente. Coloque um Poste de Eletricidade ou outra fonte de energia por perto.",
             "newValue": {
               "alertText": {
                 "id": "-1811580902098400151",
@@ -702,30 +1422,75 @@
       },
       "17": {
         "oldValue": {
-          "id": "-2650826887009713543",
-          "text": ""
+          "BR": "As instalações de fornecimento de energia próximas a esta instalação não estão conectadas à rede. Verifique se estão conectadas corretamente para permitir a transmissão de energia.",
+          "CN": "本设备周围的供电设备没有接入电网，请检查并进行电力运输。",
+          "DE": "Stromversorgungsanlagen in der Nähe sind nicht mit dem Stromnetz verbunden. Überprüfe, ob sie ordnungsgemäß verbunden sind, um die Energieübertragung zu ermöglichen.",
+          "EN": "Nearby power supply facilities are not connected to the grid. Check that they are properly connected to enable power transmission.",
+          "FR": "Les installations d'alimentation électrique à proximité ne sont pas connectées au réseau. Vérifiez qu'elles sont bien connectées pour permettre de l'alimenter.",
+          "ID": "Fasilitas aliran listrik di dekat fasilitas ini tidak terhubung ke jaringan. Pastikan bahwa fasilitas itu sudah terhubung agar transmisi daya bisa diaktifkan.",
+          "IT": "Le strutture che erogano elettricità nelle vicinanze non sono collegate alla rete elettrica. Verifica che siano collegate adeguatamente per attivare l'erogazione di elettricità.",
+          "JP": "設備周辺の電力供給設備が、電力システムに接続されていません。接続状況を確認し、電力輸送を行ってください。",
+          "KR": "해당 설비 주변의 전력 공급 장치가 전력망에 연결되어 있지 않습니다. 연결 상태를 확인하고 전력을 운송해 주세요.",
+          "MX": "Las instalaciones de suministro de energía cercanas no están conectadas a la red. Revisa que estén conectadas correctamente para permitir la transmisión de energía.",
+          "RU": "Ближайшие сооружения энергоснабжения не подключены к сети. Подключите их, чтобы начать передачу энергии.",
+          "TC": "本設備周圍的供電設備沒有接入電網，請檢查並運輸電力。",
+          "TH": "สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​ที่อยู่​ใกล้​กับ​สิ่งปลูกสร้าง​นี้​ยัง​ไม่ได้​เชื่อมต่อ​กับ​กริ​ด​ ตรวจสอบ​ว่า​ระบบ​ดังกล่าว​มี​การ​เชื่อมต่อ​อย่างเหมาะสม​แล้ว​หรือไม่​เพื่อให้​สามารถ​ส่ง​พลังงาน​ได้",
+          "VN": "Các công trình cấp điện gần đây chưa được kết nối với lưới điện. Kiểm tra kết nối để đảm bảo có thể truyền điện."
         },
         "newValue": {
           "alertText": {
-            "id": "-2650826887009713543",
-            "text": ""
+            "BR": "As instalações de fornecimento de energia próximas a esta instalação não estão conectadas à rede. Verifique se estão conectadas corretamente para permitir a transmissão de energia.",
+            "CN": "本设备周围的供电设备没有接入电网，请检查并进行电力运输。",
+            "DE": "Stromversorgungsanlagen in der Nähe sind nicht mit dem Stromnetz verbunden. Überprüfe, ob sie ordnungsgemäß verbunden sind, um die Energieübertragung zu ermöglichen.",
+            "EN": "Nearby power supply facilities are not connected to the grid. Check that they are properly connected to enable power transmission.",
+            "FR": "Les installations d'alimentation électrique à proximité ne sont pas connectées au réseau. Vérifiez qu'elles sont bien connectées pour permettre de l'alimenter.",
+            "ID": "Fasilitas aliran listrik di dekat fasilitas ini tidak terhubung ke jaringan. Pastikan bahwa fasilitas itu sudah terhubung agar transmisi daya bisa diaktifkan.",
+            "IT": "Le strutture che erogano elettricità nelle vicinanze non sono collegate alla rete elettrica. Verifica che siano collegate adeguatamente per attivare l'erogazione di elettricità.",
+            "JP": "設備周辺の電力供給設備が、電力システムに接続されていません。接続状況を確認し、電力輸送を行ってください。",
+            "KR": "해당 설비 주변의 전력 공급 장치가 전력망에 연결되어 있지 않습니다. 연결 상태를 확인하고 전력을 운송해 주세요.",
+            "MX": "Las instalaciones de suministro de energía cercanas no están conectadas a la red. Revisa que estén conectadas correctamente para permitir la transmisión de energía.",
+            "RU": "Ближайшие сооружения энергоснабжения не подключены к сети. Подключите их, чтобы начать передачу энергии.",
+            "TC": "本設備周圍的供電設備沒有接入電網，請檢查並運輸電力。",
+            "TH": "สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​ที่อยู่​ใกล้​กับ​สิ่งปลูกสร้าง​นี้​ยัง​ไม่ได้​เชื่อมต่อ​กับ​กริ​ด​ ตรวจสอบ​ว่า​ระบบ​ดังกล่าว​มี​การ​เชื่อมต่อ​อย่างเหมาะสม​แล้ว​หรือไม่​เพื่อให้​สามารถ​ส่ง​พลังงาน​ได้",
+            "VN": "Các công trình cấp điện gần đây chưa được kết nối với lưới điện. Kiểm tra kết nối để đảm bảo có thể truyền điện."
           },
           "alertText_ct": {
-            "id": "-1795609257219896418",
-            "text": ""
+            "BR": "As instalações de fornecimento de energia próximas a esta instalação não estão conectadas à rede. Verifique se estão conectadas corretamente para permitir a transmissão de energia.",
+            "CN": "本设备周围的供电设备没有接入电网，请检查并进行电力运输。",
+            "DE": "Stromversorgungsanlagen in der Nähe sind nicht mit dem Stromnetz verbunden. Überprüfe, ob sie ordnungsgemäß verbunden sind, um die Energieübertragung zu ermöglichen.",
+            "EN": "Nearby power supply facilities are not connected to the grid. Check that they are properly connected to enable power transmission.",
+            "FR": "Les installations d'alimentation électrique à proximité ne sont pas connectées au réseau. Vérifiez qu'elles sont bien connectées pour permettre de l'alimenter.",
+            "ID": "Fasilitas aliran listrik di dekat fasilitas ini tidak terhubung ke jaringan. Pastikan bahwa fasilitas itu sudah terhubung agar transmisi daya bisa diaktifkan.",
+            "IT": "Le strutture che erogano elettricità nelle vicinanze non sono collegate alla rete elettrica. Verifica che siano collegate adeguatamente per attivare l'erogazione di elettricità.",
+            "JP": "設備周辺の電力供給設備が、電力システムに接続されていません。接続状況を確認し、電力輸送を行ってください。",
+            "KR": "해당 설비 주변의 전력 공급 장치가 전력망에 연결되어 있지 않습니다. 연결 상태를 확인하고 전력을 운송해 주세요.",
+            "MX": "Las instalaciones de suministro de energía cercanas no están conectadas a la red. Revisa que estén conectadas correctamente para permitir la transmisión de energía.",
+            "RU": "Ближайшие сооружения энергоснабжения не подключены к сети. Подключите их, чтобы начать передачу энергии.",
+            "TC": "本設備周圍的供電設備沒有接入電網，請檢查並運輸電力。",
+            "TH": "สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​ที่อยู่​ใกล้​กับ​สิ่งปลูกสร้าง​นี้​ยัง​ไม่ได้​เชื่อมต่อ​กับ​กริ​ด​ ตรวจสอบ​ว่า​ระบบ​ดังกล่าว​มี​การ​เชื่อมต่อ​อย่างเหมาะสม​แล้ว​หรือไม่​เพื่อให้​สามารถ​ส่ง​พลังงาน​ได้",
+            "VN": "Các công trình cấp điện gần đây chưa được kết nối với lưới điện. Kiểm tra kết nối để đảm bảo có thể truyền điện."
           },
           "alertText_mb": {
-            "id": "-3429259024165320049",
-            "text": ""
+            "BR": "As instalações de fornecimento de energia próximas a esta instalação não estão conectadas à rede. Verifique se estão conectadas corretamente para permitir a transmissão de energia.",
+            "CN": "本设备周围的供电设备没有接入电网，请检查并进行电力运输。",
+            "DE": "Stromversorgungsanlagen in der Nähe sind nicht mit dem Stromnetz verbunden. Überprüfe, ob sie ordnungsgemäß verbunden sind, um die Energieübertragung zu ermöglichen.",
+            "EN": "Nearby power supply facilities are not connected to the grid. Check that they are properly connected to enable power transmission.",
+            "FR": "Les installations d'alimentation électrique à proximité ne sont pas connectées au réseau. Vérifiez qu'elles sont bien connectées pour permettre de l'alimenter.",
+            "ID": "Fasilitas aliran listrik di dekat fasilitas ini tidak terhubung ke jaringan. Pastikan bahwa fasilitas itu sudah terhubung agar transmisi daya bisa diaktifkan.",
+            "IT": "Le strutture che erogano elettricità nelle vicinanze non sono collegate alla rete elettrica. Verifica che siano collegate adeguatamente per attivare l'erogazione di elettricità.",
+            "JP": "設備周辺の電力供給設備が、電力システムに接続されていません。接続状況を確認し、電力輸送を行ってください。",
+            "KR": "해당 설비 주변의 전력 공급 장치가 전력망에 연결되어 있지 않습니다. 연결 상태를 확인하고 전력을 운송해 주세요.",
+            "MX": "Las instalaciones de suministro de energía cercanas no están conectadas a la red. Revisa que estén conectadas correctamente para permitir la transmisión de energía.",
+            "RU": "Ближайшие сооружения энергоснабжения не подключены к сети. Подключите их, чтобы начать передачу энергии.",
+            "TC": "本設備周圍的供電設備沒有接入電網，請檢查並運輸電力。",
+            "TH": "สิ่งปลูกสร้าง​ด้าน​การ​จ่าย​พลังงาน​ที่อยู่​ใกล้​กับ​สิ่งปลูกสร้าง​นี้​ยัง​ไม่ได้​เชื่อมต่อ​กับ​กริ​ด​ ตรวจสอบ​ว่า​ระบบ​ดังกล่าว​มี​การ​เชื่อมต่อ​อย่างเหมาะสม​แล้ว​หรือไม่​เพื่อให้​สามารถ​ส่ง​พลังงาน​ได้",
+            "VN": "Các công trình cấp điện gần đây chưa được kết nối với lưới điện. Kiểm tra kết nối để đảm bảo có thể truyền điện."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "-2650826887009713543",
-              "text": ""
-            },
+            "oldValue": "As instalações de fornecimento de energia próximas a esta instalação não estão conectadas à rede. Verifique se estão conectadas corretamente para permitir a transmissão de energia.",
             "newValue": {
               "alertText": {
                 "id": "-2650826887009713543",
@@ -745,30 +1510,75 @@
       },
       "18": {
         "oldValue": {
-          "id": "8721211366235282194",
-          "text": ""
+          "BR": "Produção de energia insuficiente. Experimente desligar instalações para reduzir o consumo de energia.",
+          "CN": "当前发电功率不足，可以关闭部分设备减少耗电。",
+          "DE": "Unzureichende Ausgangsleistung. Versuche, Anlagen auszuschalten, um den Energieverbrauch zu senken.",
+          "EN": "Insufficient power output. Try switching off facilities to reduce power consumption.",
+          "FR": "Production d'énergie insuffisante. Essayez de désactiver des installations pour réduire la consommation d'énergie.",
+          "ID": "Output daya tidak cukup. Coba matikan fasilitas untuk mengurangi pemakaian daya.",
+          "IT": "Produzione di elettricità insufficiente. Prova a disattivare qualche struttura per ridurre il consumo di energia.",
+          "JP": "発電量が不足しています。一部の設備を停止して電力消費を抑えてください。",
+          "KR": "현재 발전량이 부족합니다. 일부 설비를 꺼서 전력 소모를 줄일 수 있습니다.",
+          "MX": "Producción de energía insuficiente. Intenta apagar algunas instalaciones para reducir el consumo de energía.",
+          "RU": "Энергии вырабатывается недостаточно. Отключите часть сооружений, чтобы уменьшить расход энергии.",
+          "TC": "目前發電功率不足，可以關閉部分設備減少耗電。",
+          "TH": "พลังงาน​ขาออก​ไม่​เพียงพอ​ ลอง​ปิด​สิ่งปลูกสร้าง​บางส่วน​เพื่อ​ลด​การ​ใช้​พลังงาน",
+          "VN": "Sản lượng điện không đủ. Hãy tắt bớt các công trình khác để giảm tiêu thụ điện năng."
         },
         "newValue": {
           "alertText": {
-            "id": "8721211366235282194",
-            "text": ""
+            "BR": "Produção de energia insuficiente. Experimente desligar instalações para reduzir o consumo de energia.",
+            "CN": "当前发电功率不足，可以关闭部分设备减少耗电。",
+            "DE": "Unzureichende Ausgangsleistung. Versuche, Anlagen auszuschalten, um den Energieverbrauch zu senken.",
+            "EN": "Insufficient power output. Try switching off facilities to reduce power consumption.",
+            "FR": "Production d'énergie insuffisante. Essayez de désactiver des installations pour réduire la consommation d'énergie.",
+            "ID": "Output daya tidak cukup. Coba matikan fasilitas untuk mengurangi pemakaian daya.",
+            "IT": "Produzione di elettricità insufficiente. Prova a disattivare qualche struttura per ridurre il consumo di energia.",
+            "JP": "発電量が不足しています。一部の設備を停止して電力消費を抑えてください。",
+            "KR": "현재 발전량이 부족합니다. 일부 설비를 꺼서 전력 소모를 줄일 수 있습니다.",
+            "MX": "Producción de energía insuficiente. Intenta apagar algunas instalaciones para reducir el consumo de energía.",
+            "RU": "Энергии вырабатывается недостаточно. Отключите часть сооружений, чтобы уменьшить расход энергии.",
+            "TC": "目前發電功率不足，可以關閉部分設備減少耗電。",
+            "TH": "พลังงาน​ขาออก​ไม่​เพียงพอ​ ลอง​ปิด​สิ่งปลูกสร้าง​บางส่วน​เพื่อ​ลด​การ​ใช้​พลังงาน",
+            "VN": "Sản lượng điện không đủ. Hãy tắt bớt các công trình khác để giảm tiêu thụ điện năng."
           },
           "alertText_ct": {
-            "id": "-1508218935629746932",
-            "text": ""
+            "BR": "Produção de energia insuficiente. Experimente desligar instalações para reduzir o consumo de energia.",
+            "CN": "当前发电功率不足，可以关闭部分设备减少耗电。",
+            "DE": "Unzureichende Ausgangsleistung. Versuche, Anlagen auszuschalten, um den Energieverbrauch zu senken.",
+            "EN": "Insufficient power output. Try switching off facilities to reduce power consumption.",
+            "FR": "Production d'énergie insuffisante. Essayez de désactiver des installations pour réduire la consommation d'énergie.",
+            "ID": "Output daya tidak cukup. Coba matikan fasilitas untuk mengurangi pemakaian daya.",
+            "IT": "Produzione di elettricità insufficiente. Prova a disattivare qualche struttura per ridurre il consumo di energia.",
+            "JP": "発電量が不足しています。一部の設備を停止して電力消費を抑えてください。",
+            "KR": "현재 발전량이 부족합니다. 일부 설비를 꺼서 전력 소모를 줄일 수 있습니다.",
+            "MX": "Producción de energía insuficiente. Intenta apagar algunas instalaciones para reducir el consumo de energía.",
+            "RU": "Энергии вырабатывается недостаточно. Отключите часть сооружений, чтобы уменьшить расход энергии.",
+            "TC": "目前發電功率不足，可以關閉部分設備減少耗電。",
+            "TH": "พลังงาน​ขาออก​ไม่​เพียงพอ​ ลอง​ปิด​สิ่งปลูกสร้าง​บางส่วน​เพื่อ​ลด​การ​ใช้​พลังงาน",
+            "VN": "Sản lượng điện không đủ. Hãy tắt bớt các công trình khác để giảm tiêu thụ điện năng."
           },
           "alertText_mb": {
-            "id": "4234764103560780957",
-            "text": ""
+            "BR": "Produção de energia insuficiente. Experimente desligar instalações para reduzir o consumo de energia.",
+            "CN": "当前发电功率不足，可以关闭部分设备减少耗电。",
+            "DE": "Unzureichende Ausgangsleistung. Versuche, Anlagen auszuschalten, um den Energieverbrauch zu senken.",
+            "EN": "Insufficient power output. Try switching off facilities to reduce power consumption.",
+            "FR": "Production d'énergie insuffisante. Essayez de désactiver des installations pour réduire la consommation d'énergie.",
+            "ID": "Output daya tidak cukup. Coba matikan fasilitas untuk mengurangi pemakaian daya.",
+            "IT": "Produzione di elettricità insufficiente. Prova a disattivare qualche struttura per ridurre il consumo di energia.",
+            "JP": "発電量が不足しています。一部の設備を停止して電力消費を抑えてください。",
+            "KR": "현재 발전량이 부족합니다. 일부 설비를 꺼서 전력 소모를 줄일 수 있습니다.",
+            "MX": "Producción de energía insuficiente. Intenta apagar algunas instalaciones para reducir el consumo de energía.",
+            "RU": "Энергии вырабатывается недостаточно. Отключите часть сооружений, чтобы уменьшить расход энергии.",
+            "TC": "目前發電功率不足，可以關閉部分設備減少耗電。",
+            "TH": "พลังงาน​ขาออก​ไม่​เพียงพอ​ ลอง​ปิด​สิ่งปลูกสร้าง​บางส่วน​เพื่อ​ลด​การ​ใช้​พลังงาน",
+            "VN": "Sản lượng điện không đủ. Hãy tắt bớt các công trình khác để giảm tiêu thụ điện năng."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "8721211366235282194",
-              "text": ""
-            },
+            "oldValue": "Produção de energia insuficiente. Experimente desligar instalações para reduzir o consumo de energia.",
             "newValue": {
               "alertText": {
                 "id": "8721211366235282194",
@@ -788,30 +1598,75 @@
       },
       "19": {
         "oldValue": {
-          "id": "5759352149170405591",
-          "text": ""
+          "BR": "Não é possível descarregar %s manualmente. Ele pode ser dispensado em recipientes vazios. Como alternativa, guardar a instalação na reserva e colocá-la novamente também processará automaticamente o %s.",
+          "CN": "%s无法进行排放，可以手动用空容器盛装，也可以将设备收纳后重新放置，相应%s会自动处理完成",
+          "DE": "%s kann nicht manuell entladen, kann aber in leere Behälter gegeben werden. %s wird auch verarbeitet, wenn die Anlage eingelagert und dann wieder platziert wird.",
+          "EN": "%s cannot be discharged manually but can be dispensed into empty containers. Alternatively, stashing the facility and placing it again will also automatically process the %s.",
+          "FR": "Impossible de décharger ce liquide (%s) manuellement, mais il peut être versé dans des contenants vides. Cependant, si vous rangez l'installation puis que vous la placez à nouveau, le traitement du liquide (%s) sera effectué automatiquement.",
+          "ID": "%s tidak bisa dibuang secara manual, tapi bisa dibuang ke wadah kosong. Jika fasilitas disimpan lalu ditempatkan lagi, %s juga akan secara otomatis diproses.",
+          "IT": "Il liquido %s non si può scaricare manualmente, ma può essere erogato in contenitori vuoti. In alternativa, conserva la struttura e poi posizionala di nuovo per lavorare il liquido %s automaticamente.",
+          "JP": "%sは放出できません。空の容器を使って充填するか、設備を収納してもう一度設置すると、%sは自動で処分されます。",
+          "KR": "%s이(가) 배출을 진행할 수 없습니다. 수동으로 빈 용기에 담을 수 있고, 설비를 수납한 후 다시 배치하면 해당 %s은(는) 자동으로 처리됩니다.",
+          "MX": "%s no se puede descargar manualmente, pero sí se puede dispensar en contenedores vacíos. Como alternativa, guardar la instalación y volver a colocarla también procesará automáticamente %s.",
+          "RU": "%s не предполагает сброса вручную. Можно распределить в пустые контейнеры. Также можно убрать и снова разместить сооружение — тогда %s начнет обрабатываться автоматически.",
+          "TC": "%s無法排放，可以手動用空容器盛裝，也可以將設備收回後重新擺放，對應%s會自動處理完成",
+          "TH": "%s ไม่​สามารถ​ปล่อย​ออก​ได้​ด้วยตัวเอง​ สามารถ​จ่าย​ลง​ใน​ภาชนะ​ที่ว่างเปล่า​ได้​ หรือ​อีก​วิธี​หนึ่ง​คือ​เก็บ​สิ่งปลูกสร้าง​นั้น​ไว้​ แล้ว​วาง​ใหม่​อีกครั้ง​ ซึ่ง​จะ​ดำเนินการ​ประมวลผล​ %s โดยอัตโนมัติ",
+          "VN": "%s không thể xả thủ công, nhưng có thể chuyển vào các vật chứa rỗng. Ngoài ra, thu hồi công trình rồi đặt lại cũng sẽ tự động xử lý %s."
         },
         "newValue": {
           "alertText": {
-            "id": "5759352149170405591",
-            "text": ""
+            "BR": "Não é possível descarregar %s manualmente. Ele pode ser dispensado em recipientes vazios. Como alternativa, guardar a instalação na reserva e colocá-la novamente também processará automaticamente o %s.",
+            "CN": "%s无法进行排放，可以手动用空容器盛装，也可以将设备收纳后重新放置，相应%s会自动处理完成",
+            "DE": "%s kann nicht manuell entladen, kann aber in leere Behälter gegeben werden. %s wird auch verarbeitet, wenn die Anlage eingelagert und dann wieder platziert wird.",
+            "EN": "%s cannot be discharged manually but can be dispensed into empty containers. Alternatively, stashing the facility and placing it again will also automatically process the %s.",
+            "FR": "Impossible de décharger ce liquide (%s) manuellement, mais il peut être versé dans des contenants vides. Cependant, si vous rangez l'installation puis que vous la placez à nouveau, le traitement du liquide (%s) sera effectué automatiquement.",
+            "ID": "%s tidak bisa dibuang secara manual, tapi bisa dibuang ke wadah kosong. Jika fasilitas disimpan lalu ditempatkan lagi, %s juga akan secara otomatis diproses.",
+            "IT": "Il liquido %s non si può scaricare manualmente, ma può essere erogato in contenitori vuoti. In alternativa, conserva la struttura e poi posizionala di nuovo per lavorare il liquido %s automaticamente.",
+            "JP": "%sは放出できません。空の容器を使って充填するか、設備を収納してもう一度設置すると、%sは自動で処分されます。",
+            "KR": "%s이(가) 배출을 진행할 수 없습니다. 수동으로 빈 용기에 담을 수 있고, 설비를 수납한 후 다시 배치하면 해당 %s은(는) 자동으로 처리됩니다.",
+            "MX": "%s no se puede descargar manualmente, pero sí se puede dispensar en contenedores vacíos. Como alternativa, guardar la instalación y volver a colocarla también procesará automáticamente %s.",
+            "RU": "%s не предполагает сброса вручную. Можно распределить в пустые контейнеры. Также можно убрать и снова разместить сооружение — тогда %s начнет обрабатываться автоматически.",
+            "TC": "%s無法排放，可以手動用空容器盛裝，也可以將設備收回後重新擺放，對應%s會自動處理完成",
+            "TH": "%s ไม่​สามารถ​ปล่อย​ออก​ได้​ด้วยตัวเอง​ สามารถ​จ่าย​ลง​ใน​ภาชนะ​ที่ว่างเปล่า​ได้​ หรือ​อีก​วิธี​หนึ่ง​คือ​เก็บ​สิ่งปลูกสร้าง​นั้น​ไว้​ แล้ว​วาง​ใหม่​อีกครั้ง​ ซึ่ง​จะ​ดำเนินการ​ประมวลผล​ %s โดยอัตโนมัติ",
+            "VN": "%s không thể xả thủ công, nhưng có thể chuyển vào các vật chứa rỗng. Ngoài ra, thu hồi công trình rồi đặt lại cũng sẽ tự động xử lý %s."
           },
           "alertText_ct": {
-            "id": "-7665011850554416017",
-            "text": ""
+            "BR": "Não é possível descarregar %s manualmente. Ele pode ser dispensado em recipientes vazios. Como alternativa, guardar a instalação na reserva e colocá-la novamente também processará automaticamente o %s.",
+            "CN": "%s无法进行排放，可以手动用空容器盛装，也可以将设备收纳后重新放置，相应%s会自动处理完成",
+            "DE": "%s kann nicht manuell entladen, kann aber in leere Behälter gegeben werden. %s wird auch verarbeitet, wenn die Anlage eingelagert und dann wieder platziert wird.",
+            "EN": "%s cannot be discharged manually but can be dispensed into empty containers. Alternatively, stashing the facility and placing it again will also automatically process the %s.",
+            "FR": "Impossible de décharger ce liquide (%s) manuellement, mais il peut être versé dans des contenants vides. Cependant, si vous rangez l'installation puis que vous la placez à nouveau, le traitement du liquide (%s) sera effectué automatiquement.",
+            "ID": "%s tidak bisa dibuang secara manual, tapi bisa dibuang ke wadah kosong. Jika fasilitas disimpan lalu ditempatkan lagi, %s juga akan secara otomatis diproses.",
+            "IT": "Il liquido %s non si può scaricare manualmente, ma può essere erogato in contenitori vuoti. In alternativa, conserva la struttura e poi posizionala di nuovo per lavorare il liquido %s automaticamente.",
+            "JP": "%sは放出できません。空の容器を使って充填するか、設備を収納してもう一度設置すると、%sは自動で処分されます。",
+            "KR": "%s이(가) 배출을 진행할 수 없습니다. 수동으로 빈 용기에 담을 수 있고, 설비를 수납한 후 다시 배치하면 해당 %s은(는) 자동으로 처리됩니다.",
+            "MX": "%s no se puede descargar manualmente, pero sí se puede dispensar en contenedores vacíos. Como alternativa, guardar la instalación y volver a colocarla también procesará automáticamente %s.",
+            "RU": "%s не предполагает сброса вручную. Можно распределить в пустые контейнеры. Также можно убрать и снова разместить сооружение — тогда %s начнет обрабатываться автоматически.",
+            "TC": "%s無法排放，可以手動用空容器盛裝，也可以將設備收回後重新擺放，對應%s會自動處理完成",
+            "TH": "%s ไม่​สามารถ​ปล่อย​ออก​ได้​ด้วยตัวเอง​ สามารถ​จ่าย​ลง​ใน​ภาชนะ​ที่ว่างเปล่า​ได้​ หรือ​อีก​วิธี​หนึ่ง​คือ​เก็บ​สิ่งปลูกสร้าง​นั้น​ไว้​ แล้ว​วาง​ใหม่​อีกครั้ง​ ซึ่ง​จะ​ดำเนินการ​ประมวลผล​ %s โดยอัตโนมัติ",
+            "VN": "%s không thể xả thủ công, nhưng có thể chuyển vào các vật chứa rỗng. Ngoài ra, thu hồi công trình rồi đặt lại cũng sẽ tự động xử lý %s."
           },
           "alertText_mb": {
-            "id": "-1744669245045908257",
-            "text": ""
+            "BR": "Não é possível descarregar %s manualmente. Ele pode ser dispensado em recipientes vazios. Como alternativa, guardar a instalação na reserva e colocá-la novamente também processará automaticamente o %s.",
+            "CN": "%s无法进行排放，可以手动用空容器盛装，也可以将设备收纳后重新放置，相应%s会自动处理完成",
+            "DE": "%s kann nicht manuell entladen, kann aber in leere Behälter gegeben werden. %s wird auch verarbeitet, wenn die Anlage eingelagert und dann wieder platziert wird.",
+            "EN": "%s cannot be discharged manually but can be dispensed into empty containers. Alternatively, stashing the facility and placing it again will also automatically process the %s.",
+            "FR": "Impossible de décharger ce liquide (%s) manuellement, mais il peut être versé dans des contenants vides. Cependant, si vous rangez l'installation puis que vous la placez à nouveau, le traitement du liquide (%s) sera effectué automatiquement.",
+            "ID": "%s tidak bisa dibuang secara manual, tapi bisa dibuang ke wadah kosong. Jika fasilitas disimpan lalu ditempatkan lagi, %s juga akan secara otomatis diproses.",
+            "IT": "Il liquido %s non si può scaricare manualmente, ma può essere erogato in contenitori vuoti. In alternativa, conserva la struttura e poi posizionala di nuovo per lavorare il liquido %s automaticamente.",
+            "JP": "%sは放出できません。空の容器を使って充填するか、設備を収納してもう一度設置すると、%sは自動で処分されます。",
+            "KR": "%s이(가) 배출을 진행할 수 없습니다. 수동으로 빈 용기에 담을 수 있고, 설비를 수납한 후 다시 배치하면 해당 %s은(는) 자동으로 처리됩니다.",
+            "MX": "%s no se puede descargar manualmente, pero sí se puede dispensar en contenedores vacíos. Como alternativa, guardar la instalación y volver a colocarla también procesará automáticamente %s.",
+            "RU": "%s не предполагает сброса вручную. Можно распределить в пустые контейнеры. Также можно убрать и снова разместить сооружение — тогда %s начнет обрабатываться автоматически.",
+            "TC": "%s無法排放，可以手動用空容器盛裝，也可以將設備收回後重新擺放，對應%s會自動處理完成",
+            "TH": "%s ไม่​สามารถ​ปล่อย​ออก​ได้​ด้วยตัวเอง​ สามารถ​จ่าย​ลง​ใน​ภาชนะ​ที่ว่างเปล่า​ได้​ หรือ​อีก​วิธี​หนึ่ง​คือ​เก็บ​สิ่งปลูกสร้าง​นั้น​ไว้​ แล้ว​วาง​ใหม่​อีกครั้ง​ ซึ่ง​จะ​ดำเนินการ​ประมวลผล​ %s โดยอัตโนมัติ",
+            "VN": "%s không thể xả thủ công, nhưng có thể chuyển vào các vật chứa rỗng. Ngoài ra, thu hồi công trình rồi đặt lại cũng sẽ tự động xử lý %s."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "5759352149170405591",
-              "text": ""
-            },
+            "oldValue": "Não é possível descarregar %s manualmente. Ele pode ser dispensado em recipientes vazios. Como alternativa, guardar a instalação na reserva e colocá-la novamente também processará automaticamente o %s.",
             "newValue": {
               "alertText": {
                 "id": "5759352149170405591",
@@ -831,30 +1686,75 @@
       },
       "20": {
         "oldValue": {
-          "id": "3511695057502116340",
-          "text": ""
+          "BR": "O destino já contém %s. Não é possível despejar %s em outros fluidos.",
+          "CN": "目标已有%s，无法将%s倾倒在其他液体中",
+          "DE": "Im Zielbereich befindet sich bereits %s. %s kann nicht in andere Flüssigkeiten gegossen werden.",
+          "EN": "Target already contains %s. Cannot pour %s into other fluids.",
+          "FR": "La cible contient déjà ce liquide (%s). Impossible de verser le liquide (%s) dans d'autres fluides.",
+          "ID": "Target sudah berisi %s. Tidak bisa menuangkan %s ke cairan lain.",
+          "IT": "Il bersaglio contiene già: %s. Impossibile versare %s in altri liquidi.",
+          "JP": "すでに%sが入っているため、%sを他の液体に放出できません",
+          "KR": "목표에 이미 %s 존재, %s을(를) 유형이 다른 액체에 부을 수 없습니다.",
+          "MX": "El objetivo ya contiene %s. No se puede verter %s en otros fluidos.",
+          "RU": "%s здесь уже есть. %s не может выливаться в другие жидкости.",
+          "TC": "目標已有%s，無法將%s傾倒在其他液體中",
+          "TH": "เป้าหมาย​มี​ %s อยู่​แล้ว​ ไม่​สามารถ​เท​ %s ลง​ใน​ของเหลว​อื่น​ได้",
+          "VN": "Mục tiêu đã chứa %s. Không thể đổ %s vào các dung dịch khác."
         },
         "newValue": {
           "alertText": {
-            "id": "3511695057502116340",
-            "text": ""
+            "BR": "O destino já contém %s. Não é possível despejar %s em outros fluidos.",
+            "CN": "目标已有%s，无法将%s倾倒在其他液体中",
+            "DE": "Im Zielbereich befindet sich bereits %s. %s kann nicht in andere Flüssigkeiten gegossen werden.",
+            "EN": "Target already contains %s. Cannot pour %s into other fluids.",
+            "FR": "La cible contient déjà ce liquide (%s). Impossible de verser le liquide (%s) dans d'autres fluides.",
+            "ID": "Target sudah berisi %s. Tidak bisa menuangkan %s ke cairan lain.",
+            "IT": "Il bersaglio contiene già: %s. Impossibile versare %s in altri liquidi.",
+            "JP": "すでに%sが入っているため、%sを他の液体に放出できません",
+            "KR": "목표에 이미 %s 존재, %s을(를) 유형이 다른 액체에 부을 수 없습니다.",
+            "MX": "El objetivo ya contiene %s. No se puede verter %s en otros fluidos.",
+            "RU": "%s здесь уже есть. %s не может выливаться в другие жидкости.",
+            "TC": "目標已有%s，無法將%s傾倒在其他液體中",
+            "TH": "เป้าหมาย​มี​ %s อยู่​แล้ว​ ไม่​สามารถ​เท​ %s ลง​ใน​ของเหลว​อื่น​ได้",
+            "VN": "Mục tiêu đã chứa %s. Không thể đổ %s vào các dung dịch khác."
           },
           "alertText_ct": {
-            "id": "-8284664076707646128",
-            "text": ""
+            "BR": "O destino já contém %s. Não é possível despejar %s em outros fluidos.",
+            "CN": "目标已有%s，无法将%s倾倒在其他液体中",
+            "DE": "Im Zielbereich befindet sich bereits %s. %s kann nicht in andere Flüssigkeiten gegossen werden.",
+            "EN": "Target already contains %s. Cannot pour %s into other fluids.",
+            "FR": "La cible contient déjà ce liquide (%s). Impossible de verser le liquide (%s) dans d'autres fluides.",
+            "ID": "Target sudah berisi %s. Tidak bisa menuangkan %s ke cairan lain.",
+            "IT": "Il bersaglio contiene già: %s. Impossibile versare %s in altri liquidi.",
+            "JP": "すでに%sが入っているため、%sを他の液体に放出できません",
+            "KR": "목표에 이미 %s 존재, %s을(를) 유형이 다른 액체에 부을 수 없습니다.",
+            "MX": "El objetivo ya contiene %s. No se puede verter %s en otros fluidos.",
+            "RU": "%s здесь уже есть. %s не может выливаться в другие жидкости.",
+            "TC": "目標已有%s，無法將%s傾倒在其他液體中",
+            "TH": "เป้าหมาย​มี​ %s อยู่​แล้ว​ ไม่​สามารถ​เท​ %s ลง​ใน​ของเหลว​อื่น​ได้",
+            "VN": "Mục tiêu đã chứa %s. Không thể đổ %s vào các dung dịch khác."
           },
           "alertText_mb": {
-            "id": "-825506775378836810",
-            "text": ""
+            "BR": "O destino já contém %s. Não é possível despejar %s em outros fluidos.",
+            "CN": "目标已有%s，无法将%s倾倒在其他液体中",
+            "DE": "Im Zielbereich befindet sich bereits %s. %s kann nicht in andere Flüssigkeiten gegossen werden.",
+            "EN": "Target already contains %s. Cannot pour %s into other fluids.",
+            "FR": "La cible contient déjà ce liquide (%s). Impossible de verser le liquide (%s) dans d'autres fluides.",
+            "ID": "Target sudah berisi %s. Tidak bisa menuangkan %s ke cairan lain.",
+            "IT": "Il bersaglio contiene già: %s. Impossibile versare %s in altri liquidi.",
+            "JP": "すでに%sが入っているため、%sを他の液体に放出できません",
+            "KR": "목표에 이미 %s 존재, %s을(를) 유형이 다른 액체에 부을 수 없습니다.",
+            "MX": "El objetivo ya contiene %s. No se puede verter %s en otros fluidos.",
+            "RU": "%s здесь уже есть. %s не может выливаться в другие жидкости.",
+            "TC": "目標已有%s，無法將%s傾倒在其他液體中",
+            "TH": "เป้าหมาย​มี​ %s อยู่​แล้ว​ ไม่​สามารถ​เท​ %s ลง​ใน​ของเหลว​อื่น​ได้",
+            "VN": "Mục tiêu đã chứa %s. Không thể đổ %s vào các dung dịch khác."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "3511695057502116340",
-              "text": ""
-            },
+            "oldValue": "O destino já contém %s. Não é possível despejar %s em outros fluidos.",
             "newValue": {
               "alertText": {
                 "id": "3511695057502116340",
@@ -874,30 +1774,75 @@
       },
       "21": {
         "oldValue": {
-          "id": "7572898350396329767",
-          "text": ""
+          "BR": "Pulverização interrompida. %s não é um fluido necessário para o alvo.",
+          "CN": "%s与目标需要的液体不符，暂停喷洒",
+          "DE": "Besprenkelung angehalten. %s ist keine Flüssigkeit, die im Zielbereich benötigt wird.",
+          "EN": "Sprinkling stopped. %s is not a fluid needed by the target.",
+          "FR": "L'aspersion a cessé. La cible n'a pas besoin de ce fluide (%s).",
+          "ID": "Penyiraman terhenti. %s bukan cairan yang dibutuhkan target.",
+          "IT": "Irrigazione interrotta. Il bersaglio non richiede %s.",
+          "JP": "%sは必要な液体ではないため、散布を停止しました",
+          "KR": "%s와 목표가 요구하는 액체는 맞지 않음, 분사를 중지합니다.",
+          "MX": "Aspersión detenida. %s no es un fluido necesario para el objetivo.",
+          "RU": "Разбрызгивание остановлено. Этой цели %s не требуется.",
+          "TC": "%s與目標需要的液體不符，暫停噴灑",
+          "TH": "การพ่น​หยุด​ลง​แล้ว​ %s ไม่ใช่​ของเหลว​ที่​เป้าหมาย​ต้องการ",
+          "VN": "Ngừng tưới. %s không phải là dung dịch mà mục tiêu cần."
         },
         "newValue": {
           "alertText": {
-            "id": "7572898350396329767",
-            "text": ""
+            "BR": "Pulverização interrompida. %s não é um fluido necessário para o alvo.",
+            "CN": "%s与目标需要的液体不符，暂停喷洒",
+            "DE": "Besprenkelung angehalten. %s ist keine Flüssigkeit, die im Zielbereich benötigt wird.",
+            "EN": "Sprinkling stopped. %s is not a fluid needed by the target.",
+            "FR": "L'aspersion a cessé. La cible n'a pas besoin de ce fluide (%s).",
+            "ID": "Penyiraman terhenti. %s bukan cairan yang dibutuhkan target.",
+            "IT": "Irrigazione interrotta. Il bersaglio non richiede %s.",
+            "JP": "%sは必要な液体ではないため、散布を停止しました",
+            "KR": "%s와 목표가 요구하는 액체는 맞지 않음, 분사를 중지합니다.",
+            "MX": "Aspersión detenida. %s no es un fluido necesario para el objetivo.",
+            "RU": "Разбрызгивание остановлено. Этой цели %s не требуется.",
+            "TC": "%s與目標需要的液體不符，暫停噴灑",
+            "TH": "การพ่น​หยุด​ลง​แล้ว​ %s ไม่ใช่​ของเหลว​ที่​เป้าหมาย​ต้องการ",
+            "VN": "Ngừng tưới. %s không phải là dung dịch mà mục tiêu cần."
           },
           "alertText_ct": {
-            "id": "-9167127645742627879",
-            "text": ""
+            "BR": "Pulverização interrompida. %s não é um fluido necessário para o alvo.",
+            "CN": "%s与目标需要的液体不符，暂停喷洒",
+            "DE": "Besprenkelung angehalten. %s ist keine Flüssigkeit, die im Zielbereich benötigt wird.",
+            "EN": "Sprinkling stopped. %s is not a fluid needed by the target.",
+            "FR": "L'aspersion a cessé. La cible n'a pas besoin de ce fluide (%s).",
+            "ID": "Penyiraman terhenti. %s bukan cairan yang dibutuhkan target.",
+            "IT": "Irrigazione interrotta. Il bersaglio non richiede %s.",
+            "JP": "%sは必要な液体ではないため、散布を停止しました",
+            "KR": "%s와 목표가 요구하는 액체는 맞지 않음, 분사를 중지합니다.",
+            "MX": "Aspersión detenida. %s no es un fluido necesario para el objetivo.",
+            "RU": "Разбрызгивание остановлено. Этой цели %s не требуется.",
+            "TC": "%s與目標需要的液體不符，暫停噴灑",
+            "TH": "การพ่น​หยุด​ลง​แล้ว​ %s ไม่ใช่​ของเหลว​ที่​เป้าหมาย​ต้องการ",
+            "VN": "Ngừng tưới. %s không phải là dung dịch mà mục tiêu cần."
           },
           "alertText_mb": {
-            "id": "6150939419232217818",
-            "text": ""
+            "BR": "Pulverização interrompida. %s não é um fluido necessário para o alvo.",
+            "CN": "%s与目标需要的液体不符，暂停喷洒",
+            "DE": "Besprenkelung angehalten. %s ist keine Flüssigkeit, die im Zielbereich benötigt wird.",
+            "EN": "Sprinkling stopped. %s is not a fluid needed by the target.",
+            "FR": "L'aspersion a cessé. La cible n'a pas besoin de ce fluide (%s).",
+            "ID": "Penyiraman terhenti. %s bukan cairan yang dibutuhkan target.",
+            "IT": "Irrigazione interrotta. Il bersaglio non richiede %s.",
+            "JP": "%sは必要な液体ではないため、散布を停止しました",
+            "KR": "%s와 목표가 요구하는 액체는 맞지 않음, 분사를 중지합니다.",
+            "MX": "Aspersión detenida. %s no es un fluido necesario para el objetivo.",
+            "RU": "Разбрызгивание остановлено. Этой цели %s не требуется.",
+            "TC": "%s與目標需要的液體不符，暫停噴灑",
+            "TH": "การพ่น​หยุด​ลง​แล้ว​ %s ไม่ใช่​ของเหลว​ที่​เป้าหมาย​ต้องการ",
+            "VN": "Ngừng tưới. %s không phải là dung dịch mà mục tiêu cần."
           }
         },
         "changed": {
           "": {
             "type": "value",
-            "oldValue": {
-              "id": "7572898350396329767",
-              "text": ""
-            },
+            "oldValue": "Pulverização interrompida. %s não é um fluido necessário para o alvo.",
             "newValue": {
               "alertText": {
                 "id": "7572898350396329767",
