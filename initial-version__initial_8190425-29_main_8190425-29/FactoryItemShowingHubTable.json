@@ -1,0 +1,397 @@
+{
+  "tableName": "FactoryItemShowingHubTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "domain_1": {
+        "oldValue": {
+          "list": [
+            "item_originium_ore",
+            "item_quartz_sand",
+            "item_iron_ore",
+            "item_plant_moss_1",
+            "item_plant_moss_seed_1",
+            "item_plant_moss_2",
+            "item_plant_moss_seed_2",
+            "item_plant_moss_3",
+            "item_plant_moss_seed_3",
+            "item_plant_bbflower_1",
+            "item_plant_bbflower_seed_1",
+            "item_plant_grass_1",
+            "item_plant_grass_seed_1",
+            "item_plant_grass_2",
+            "item_plant_grass_seed_2",
+            "item_carbon_mtl",
+            "item_crystal_shell",
+            "item_quartz_glass",
+            "item_iron_nugget",
+            "item_copper_nugget",
+            "item_originium_powder",
+            "item_carbon_powder",
+            "item_crystal_powder",
+            "item_quartz_powder",
+            "item_iron_powder",
+            "item_copper_powder",
+            "item_plant_moss_powder_1",
+            "item_plant_moss_powder_2",
+            "item_plant_moss_powder_3",
+            "item_plant_bbflower_powder_1",
+            "item_plant_grass_powder_1",
+            "item_plant_grass_powder_2",
+            "item_plant_tundra_insect_powder_1",
+            "item_plant_tundra_insect_powder_2",
+            "item_originium_enr_powder",
+            "item_carbon_enr_powder",
+            "item_crystal_enr_powder",
+            "item_quartz_enr_powder",
+            "item_iron_enr_powder",
+            "item_plant_moss_enr_powder_1",
+            "item_plant_moss_enr_powder_2",
+            "item_carbon_enr",
+            "item_crystal_enr",
+            "item_quartz_enr",
+            "item_iron_enr",
+            "item_glass_bottle",
+            "item_glass_enr_bottle",
+            "item_iron_bottle",
+            "item_iron_enr_bottle",
+            "item_bottled_food_1",
+            "item_bottled_food_2",
+            "item_bottled_food_3",
+            "item_bottled_rec_hp_1",
+            "item_bottled_rec_hp_2",
+            "item_bottled_rec_hp_3",
+            "item_proc_battery_1",
+            "item_proc_battery_2",
+            "item_proc_battery_3",
+            "item_proc_bomb_1",
+            "item_glass_cmpt",
+            "item_glass_enr_cmpt",
+            "item_iron_cmpt",
+            "item_iron_enr_cmpt",
+            "item_copper_cmpt",
+            "item_equip_script_1",
+            "item_equip_script_2",
+            "item_equip_script_3"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "item_originium_ore",
+            "item_quartz_sand",
+            "item_iron_ore",
+            "item_plant_moss_1",
+            "item_plant_moss_seed_1",
+            "item_plant_moss_2",
+            "item_plant_moss_seed_2",
+            "item_plant_moss_3",
+            "item_plant_moss_seed_3",
+            "item_plant_bbflower_1",
+            "item_plant_bbflower_seed_1",
+            "item_plant_grass_1",
+            "item_plant_grass_seed_1",
+            "item_plant_grass_2",
+            "item_plant_grass_seed_2",
+            "item_carbon_mtl",
+            "item_crystal_shell",
+            "item_quartz_glass",
+            "item_iron_nugget",
+            "item_originium_powder",
+            "item_carbon_powder",
+            "item_crystal_powder",
+            "item_quartz_powder",
+            "item_iron_powder",
+            "item_plant_moss_powder_1",
+            "item_plant_moss_powder_2",
+            "item_plant_moss_powder_3",
+            "item_plant_bbflower_powder_1",
+            "item_plant_grass_powder_1",
+            "item_plant_grass_powder_2",
+            "item_plant_tundra_insect_powder_1",
+            "item_plant_tundra_insect_powder_2",
+            "item_originium_enr_powder",
+            "item_carbon_enr_powder",
+            "item_crystal_enr_powder",
+            "item_quartz_enr_powder",
+            "item_iron_enr_powder",
+            "item_plant_moss_enr_powder_1",
+            "item_plant_moss_enr_powder_2",
+            "item_carbon_enr",
+            "item_crystal_enr",
+            "item_quartz_enr",
+            "item_iron_enr",
+            "item_glass_bottle",
+            "item_glass_enr_bottle",
+            "item_iron_bottle",
+            "item_iron_enr_bottle",
+            "item_bottled_food_1",
+            "item_bottled_food_2",
+            "item_bottled_food_3",
+            "item_bottled_rec_hp_1",
+            "item_bottled_rec_hp_2",
+            "item_bottled_rec_hp_3",
+            "item_proc_battery_1",
+            "item_proc_battery_2",
+            "item_proc_battery_3",
+            "item_proc_bomb_1",
+            "item_glass_cmpt",
+            "item_glass_enr_cmpt",
+            "item_iron_cmpt",
+            "item_iron_enr_cmpt",
+            "item_equip_script_1",
+            "item_equip_script_2",
+            "item_equip_script_3"
+          ]
+        },
+        "changed": {
+          "list[19]": {
+            "type": "value",
+            "oldValue": "item_copper_nugget",
+            "newValue": "item_originium_powder"
+          },
+          "list[20]": {
+            "type": "value",
+            "oldValue": "item_originium_powder",
+            "newValue": "item_carbon_powder"
+          },
+          "list[21]": {
+            "type": "value",
+            "oldValue": "item_carbon_powder",
+            "newValue": "item_crystal_powder"
+          },
+          "list[22]": {
+            "type": "value",
+            "oldValue": "item_crystal_powder",
+            "newValue": "item_quartz_powder"
+          },
+          "list[23]": {
+            "type": "value",
+            "oldValue": "item_quartz_powder",
+            "newValue": "item_iron_powder"
+          },
+          "list[24]": {
+            "type": "value",
+            "oldValue": "item_iron_powder",
+            "newValue": "item_plant_moss_powder_1"
+          },
+          "list[25]": {
+            "type": "value",
+            "oldValue": "item_copper_powder",
+            "newValue": "item_plant_moss_powder_2"
+          },
+          "list[26]": {
+            "type": "value",
+            "oldValue": "item_plant_moss_powder_1",
+            "newValue": "item_plant_moss_powder_3"
+          },
+          "list[27]": {
+            "type": "value",
+            "oldValue": "item_plant_moss_powder_2",
+            "newValue": "item_plant_bbflower_powder_1"
+          },
+          "list[28]": {
+            "type": "value",
+            "oldValue": "item_plant_moss_powder_3",
+            "newValue": "item_plant_grass_powder_1"
+          },
+          "list[29]": {
+            "type": "value",
+            "oldValue": "item_plant_bbflower_powder_1",
+            "newValue": "item_plant_grass_powder_2"
+          },
+          "list[30]": {
+            "type": "value",
+            "oldValue": "item_plant_grass_powder_1",
+            "newValue": "item_plant_tundra_insect_powder_1"
+          },
+          "list[31]": {
+            "type": "value",
+            "oldValue": "item_plant_grass_powder_2",
+            "newValue": "item_plant_tundra_insect_powder_2"
+          },
+          "list[32]": {
+            "type": "value",
+            "oldValue": "item_plant_tundra_insect_powder_1",
+            "newValue": "item_originium_enr_powder"
+          },
+          "list[33]": {
+            "type": "value",
+            "oldValue": "item_plant_tundra_insect_powder_2",
+            "newValue": "item_carbon_enr_powder"
+          },
+          "list[34]": {
+            "type": "value",
+            "oldValue": "item_originium_enr_powder",
+            "newValue": "item_crystal_enr_powder"
+          },
+          "list[35]": {
+            "type": "value",
+            "oldValue": "item_carbon_enr_powder",
+            "newValue": "item_quartz_enr_powder"
+          },
+          "list[36]": {
+            "type": "value",
+            "oldValue": "item_crystal_enr_powder",
+            "newValue": "item_iron_enr_powder"
+          },
+          "list[37]": {
+            "type": "value",
+            "oldValue": "item_quartz_enr_powder",
+            "newValue": "item_plant_moss_enr_powder_1"
+          },
+          "list[38]": {
+            "type": "value",
+            "oldValue": "item_iron_enr_powder",
+            "newValue": "item_plant_moss_enr_powder_2"
+          },
+          "list[39]": {
+            "type": "value",
+            "oldValue": "item_plant_moss_enr_powder_1",
+            "newValue": "item_carbon_enr"
+          },
+          "list[40]": {
+            "type": "value",
+            "oldValue": "item_plant_moss_enr_powder_2",
+            "newValue": "item_crystal_enr"
+          },
+          "list[41]": {
+            "type": "value",
+            "oldValue": "item_carbon_enr",
+            "newValue": "item_quartz_enr"
+          },
+          "list[42]": {
+            "type": "value",
+            "oldValue": "item_crystal_enr",
+            "newValue": "item_iron_enr"
+          },
+          "list[43]": {
+            "type": "value",
+            "oldValue": "item_quartz_enr",
+            "newValue": "item_glass_bottle"
+          },
+          "list[44]": {
+            "type": "value",
+            "oldValue": "item_iron_enr",
+            "newValue": "item_glass_enr_bottle"
+          },
+          "list[45]": {
+            "type": "value",
+            "oldValue": "item_glass_bottle",
+            "newValue": "item_iron_bottle"
+          },
+          "list[46]": {
+            "type": "value",
+            "oldValue": "item_glass_enr_bottle",
+            "newValue": "item_iron_enr_bottle"
+          },
+          "list[47]": {
+            "type": "value",
+            "oldValue": "item_iron_bottle",
+            "newValue": "item_bottled_food_1"
+          },
+          "list[48]": {
+            "type": "value",
+            "oldValue": "item_iron_enr_bottle",
+            "newValue": "item_bottled_food_2"
+          },
+          "list[49]": {
+            "type": "value",
+            "oldValue": "item_bottled_food_1",
+            "newValue": "item_bottled_food_3"
+          },
+          "list[50]": {
+            "type": "value",
+            "oldValue": "item_bottled_food_2",
+            "newValue": "item_bottled_rec_hp_1"
+          },
+          "list[51]": {
+            "type": "value",
+            "oldValue": "item_bottled_food_3",
+            "newValue": "item_bottled_rec_hp_2"
+          },
+          "list[52]": {
+            "type": "value",
+            "oldValue": "item_bottled_rec_hp_1",
+            "newValue": "item_bottled_rec_hp_3"
+          },
+          "list[53]": {
+            "type": "value",
+            "oldValue": "item_bottled_rec_hp_2",
+            "newValue": "item_proc_battery_1"
+          },
+          "list[54]": {
+            "type": "value",
+            "oldValue": "item_bottled_rec_hp_3",
+            "newValue": "item_proc_battery_2"
+          },
+          "list[55]": {
+            "type": "value",
+            "oldValue": "item_proc_battery_1",
+            "newValue": "item_proc_battery_3"
+          },
+          "list[56]": {
+            "type": "value",
+            "oldValue": "item_proc_battery_2",
+            "newValue": "item_proc_bomb_1"
+          },
+          "list[57]": {
+            "type": "value",
+            "oldValue": "item_proc_battery_3",
+            "newValue": "item_glass_cmpt"
+          },
+          "list[58]": {
+            "type": "value",
+            "oldValue": "item_proc_bomb_1",
+            "newValue": "item_glass_enr_cmpt"
+          },
+          "list[59]": {
+            "type": "value",
+            "oldValue": "item_glass_cmpt",
+            "newValue": "item_iron_cmpt"
+          },
+          "list[60]": {
+            "type": "value",
+            "oldValue": "item_glass_enr_cmpt",
+            "newValue": "item_iron_enr_cmpt"
+          },
+          "list[61]": {
+            "type": "value",
+            "oldValue": "item_iron_cmpt",
+            "newValue": "item_equip_script_1"
+          },
+          "list[62]": {
+            "type": "value",
+            "oldValue": "item_iron_enr_cmpt",
+            "newValue": "item_equip_script_2"
+          },
+          "list[63]": {
+            "type": "value",
+            "oldValue": "item_copper_cmpt",
+            "newValue": "item_equip_script_3"
+          },
+          "list[64]": {
+            "type": "value",
+            "oldValue": "item_equip_script_1"
+          },
+          "list[65]": {
+            "type": "value",
+            "oldValue": "item_equip_script_2"
+          },
+          "list[66]": {
+            "type": "value",
+            "oldValue": "item_equip_script_3"
+          }
+        }
+      }
+    }
+  }
+}

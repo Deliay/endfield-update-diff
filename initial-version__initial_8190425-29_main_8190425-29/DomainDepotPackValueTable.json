@@ -1,0 +1,75 @@
+{
+  "tableName": "DomainDepotPackValueTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "domain_2_lv005_depot_1": {
+        "packValueList": [
+          {
+            "deliverItemType": 1,
+            "deliverPackType": 1,
+            "maxLimit": 3000,
+            "minLimit": 500
+          },
+          {
+            "deliverItemType": 1,
+            "deliverPackType": 2,
+            "maxLimit": 8000,
+            "minLimit": 2001
+          },
+          {
+            "deliverItemType": 1,
+            "deliverPackType": 3,
+            "maxLimit": 12000,
+            "minLimit": 8001
+          },
+          {
+            "deliverItemType": 2,
+            "deliverPackType": 1,
+            "maxLimit": 3000,
+            "minLimit": 500
+          },
+          {
+            "deliverItemType": 2,
+            "deliverPackType": 2,
+            "maxLimit": 8000,
+            "minLimit": 2001
+          },
+          {
+            "deliverItemType": 2,
+            "deliverPackType": 3,
+            "maxLimit": 12000,
+            "minLimit": 8001
+          },
+          {
+            "deliverItemType": 3,
+            "deliverPackType": 1,
+            "maxLimit": 3000,
+            "minLimit": 500
+          },
+          {
+            "deliverItemType": 3,
+            "deliverPackType": 2,
+            "maxLimit": 8000,
+            "minLimit": 2001
+          },
+          {
+            "deliverItemType": 3,
+            "deliverPackType": 3,
+            "maxLimit": 12000,
+            "minLimit": 8001
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

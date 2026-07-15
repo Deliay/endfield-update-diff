@@ -1,0 +1,80 @@
+{
+  "tableName": "GiftItemTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "item_gift_jinlong_6": {
+        "favorablePoint": 20,
+        "finishPopularTimeId": "time_gift_1_3_mifu_1",
+        "giftPreferTag": "tag_giftperfer_wuling_4",
+        "id": "item_gift_jinlong_6",
+        "isPopular": true,
+        "isShowPopularFinishTime": false,
+        "tagList": [
+          "tag_hobby_life",
+          "tag_hobby_culture"
+        ]
+      },
+      "item_gift_jinlong_7": {
+        "favorablePoint": 20,
+        "finishPopularTimeId": "time_gift_1_3_camille_1",
+        "giftPreferTag": "tag_giftperfer_wuling_4",
+        "id": "item_gift_jinlong_7",
+        "isPopular": true,
+        "isShowPopularFinishTime": false,
+        "tagList": [
+          "tag_hobby_creativity",
+          "tag_hobby_fashion"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "item_gift_jinlong_5": {
+        "oldValue": {
+          "favorablePoint": 20,
+          "finishPopularTimeId": "time_gift_1_2_zhuangfy_1",
+          "giftPreferTag": "tag_giftperfer_wuling_3",
+          "id": "item_gift_jinlong_5",
+          "isPopular": true,
+          "isShowPopularFinishTime": false,
+          "tagList": [
+            "tag_hobby_culture",
+            "tag_hobby_charity"
+          ]
+        },
+        "newValue": {
+          "favorablePoint": 20,
+          "finishPopularTimeId": "time_gift_1_2_zhuangfy_2",
+          "giftPreferTag": "tag_giftperfer_wuling_3",
+          "id": "item_gift_jinlong_5",
+          "isPopular": true,
+          "isShowPopularFinishTime": true,
+          "tagList": [
+            "tag_hobby_culture",
+            "tag_hobby_charity"
+          ]
+        },
+        "changed": {
+          "finishPopularTimeId": {
+            "type": "value",
+            "oldValue": "time_gift_1_2_zhuangfy_1",
+            "newValue": "time_gift_1_2_zhuangfy_2"
+          },
+          "isShowPopularFinishTime": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          }
+        }
+      }
+    }
+  }
+}

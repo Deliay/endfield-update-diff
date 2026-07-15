@@ -1,0 +1,528 @@
+{
+  "tableName": "KiteStationLevelTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "kitestation_002_1": {
+        "oldValue": {
+          "domainId": "domain_2",
+          "kiteStation": "kitestation_002_1",
+          "levelId": "map02_lv002",
+          "list": {
+            "1": {
+              "costItemCount": [
+                0
+              ],
+              "domainDevExp": 500,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 2,
+              "kiteStation": "kitestation_002_1",
+              "level": 1,
+              "levelDesc": {
+                "id": "7358834162264904982",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "-4274440811169285615",
+                "text": ""
+              },
+              "name": {
+                "id": "8500407708332558455",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": "-1841175189704165004",
+                "text": ""
+              },
+              "upgradeQuestId": "e6m4_q#25",
+              "versionStart": "v0d8d0"
+            },
+            "2": {
+              "costItemCount": [
+                186000
+              ],
+              "domainDevExp": 600,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "kiteStation": "kitestation_002_1",
+              "level": 2,
+              "levelDesc": {
+                "id": "5777340441281891960",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "-2822032467061175129",
+                "text": ""
+              },
+              "name": {
+                "id": "3084577602669717584",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v0d8d0"
+            },
+            "3": {
+              "costItemCount": [
+                250000
+              ],
+              "domainDevExp": 1125,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "kiteStation": "kitestation_002_1",
+              "level": 3,
+              "levelDesc": {
+                "id": "6628145236317820633",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "-1337633484005852138",
+                "text": ""
+              },
+              "name": {
+                "id": "3201578697771769342",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d1d0"
+            },
+            "4": {
+              "costItemCount": [
+                450000
+              ],
+              "domainDevExp": 1600,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "kiteStation": "kitestation_002_1",
+              "level": 4,
+              "levelDesc": {
+                "id": "-7676397078449218802",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "2020898553242035696",
+                "text": ""
+              },
+              "name": {
+                "id": "7956817794350071021",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            }
+          },
+          "name": {
+            "id": "7956817794350071021",
+            "text": ""
+          },
+          "sort": 1
+        },
+        "newValue": {
+          "domainId": "domain_2",
+          "kiteStation": "kitestation_002_1",
+          "levelId": "map02_lv002",
+          "list": {
+            "1": {
+              "costItemCount": [
+                0
+              ],
+              "domainDevExp": 500,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 2,
+              "isFinalMaxLevel": false,
+              "kiteStation": "kitestation_002_1",
+              "level": 1,
+              "levelDesc": {
+                "id": "7358834162264904982",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "-4274440811169285615",
+                "text": ""
+              },
+              "name": {
+                "id": "8500407708332558455",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": "-1841175189704165004",
+                "text": ""
+              },
+              "upgradeQuestId": "e6m4_q#25",
+              "versionStart": "v0d8d0"
+            },
+            "2": {
+              "costItemCount": [
+                186000
+              ],
+              "domainDevExp": 600,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "isFinalMaxLevel": false,
+              "kiteStation": "kitestation_002_1",
+              "level": 2,
+              "levelDesc": {
+                "id": "5777340441281891960",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "-2822032467061175129",
+                "text": ""
+              },
+              "name": {
+                "id": "3084577602669717584",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v0d8d0"
+            },
+            "3": {
+              "costItemCount": [
+                250000
+              ],
+              "domainDevExp": 1125,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "isFinalMaxLevel": false,
+              "kiteStation": "kitestation_002_1",
+              "level": 3,
+              "levelDesc": {
+                "id": "6628145236317820633",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "-1337633484005852138",
+                "text": ""
+              },
+              "name": {
+                "id": "3201578697771769342",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d1d0"
+            },
+            "4": {
+              "costItemCount": [
+                450000
+              ],
+              "domainDevExp": 1600,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "isFinalMaxLevel": true,
+              "kiteStation": "kitestation_002_1",
+              "level": 4,
+              "levelDesc": {
+                "id": "-7676397078449218802",
+                "text": ""
+              },
+              "levelId": "map02_lv002",
+              "levelTitle": {
+                "id": "2020898553242035696",
+                "text": ""
+              },
+              "name": {
+                "id": "7956817794350071021",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            }
+          },
+          "name": {
+            "id": "7956817794350071021",
+            "text": ""
+          },
+          "sort": 1
+        },
+        "changed": {
+          "list.1.isFinalMaxLevel": {
+            "type": "value",
+            "newValue": false
+          },
+          "list.2.isFinalMaxLevel": {
+            "type": "value",
+            "newValue": false
+          },
+          "list.3.isFinalMaxLevel": {
+            "type": "value",
+            "newValue": false
+          },
+          "list.4.isFinalMaxLevel": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "kitestation_004_1": {
+        "oldValue": {
+          "domainId": "domain_2",
+          "kiteStation": "kitestation_004_1",
+          "levelId": "map02_lv004",
+          "list": {
+            "1": {
+              "costItemCount": [
+                30000
+              ],
+              "domainDevExp": 500,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 2,
+              "kiteStation": "kitestation_004_1",
+              "level": 1,
+              "levelDesc": {
+                "id": "-9206308514231133092",
+                "text": ""
+              },
+              "levelId": "map02_lv004",
+              "levelTitle": {
+                "id": "2711362076219823417",
+                "text": ""
+              },
+              "name": {
+                "id": "-6263707456860845569",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            },
+            "2": {
+              "costItemCount": [
+                240000
+              ],
+              "domainDevExp": 600,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "kiteStation": "kitestation_004_1",
+              "level": 2,
+              "levelDesc": {
+                "id": "7800064738443158916",
+                "text": ""
+              },
+              "levelId": "map02_lv004",
+              "levelTitle": {
+                "id": "-1559091692306920393",
+                "text": ""
+              },
+              "name": {
+                "id": "-4892297249602032431",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            },
+            "3": {
+              "costItemCount": [
+                320000
+              ],
+              "domainDevExp": 1125,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "kiteStation": "kitestation_004_1",
+              "level": 3,
+              "levelDesc": {
+                "id": "8486718953048462595",
+                "text": ""
+              },
+              "levelId": "map02_lv004",
+              "levelTitle": {
+                "id": "3189673165163694837",
+                "text": ""
+              },
+              "name": {
+                "id": "5481255536464632362",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            }
+          },
+          "name": {
+            "id": "5481255536464632362",
+            "text": ""
+          },
+          "sort": 2
+        },
+        "newValue": {
+          "domainId": "domain_2",
+          "kiteStation": "kitestation_004_1",
+          "levelId": "map02_lv004",
+          "list": {
+            "1": {
+              "costItemCount": [
+                30000
+              ],
+              "domainDevExp": 500,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 2,
+              "isFinalMaxLevel": false,
+              "kiteStation": "kitestation_004_1",
+              "level": 1,
+              "levelDesc": {
+                "id": "-9206308514231133092",
+                "text": ""
+              },
+              "levelId": "map02_lv004",
+              "levelTitle": {
+                "id": "2711362076219823417",
+                "text": ""
+              },
+              "name": {
+                "id": "-6263707456860845569",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            },
+            "2": {
+              "costItemCount": [
+                240000
+              ],
+              "domainDevExp": 600,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "isFinalMaxLevel": false,
+              "kiteStation": "kitestation_004_1",
+              "level": 2,
+              "levelDesc": {
+                "id": "7800064738443158916",
+                "text": ""
+              },
+              "levelId": "map02_lv004",
+              "levelTitle": {
+                "id": "-1559091692306920393",
+                "text": ""
+              },
+              "name": {
+                "id": "-4892297249602032431",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            },
+            "3": {
+              "costItemCount": [
+                320000
+              ],
+              "domainDevExp": 1125,
+              "domainId": "domain_2",
+              "entrustSlotCnt": 3,
+              "isFinalMaxLevel": false,
+              "kiteStation": "kitestation_004_1",
+              "level": 3,
+              "levelDesc": {
+                "id": "8486718953048462595",
+                "text": ""
+              },
+              "levelId": "map02_lv004",
+              "levelTitle": {
+                "id": "3189673165163694837",
+                "text": ""
+              },
+              "name": {
+                "id": "5481255536464632362",
+                "text": ""
+              },
+              "timeId": "",
+              "upgradeQuestDesc": {
+                "id": 0,
+                "text": ""
+              },
+              "upgradeQuestId": "",
+              "versionStart": "v1d2d0"
+            }
+          },
+          "name": {
+            "id": "5481255536464632362",
+            "text": ""
+          },
+          "sort": 2
+        },
+        "changed": {
+          "list.1.isFinalMaxLevel": {
+            "type": "value",
+            "newValue": false
+          },
+          "list.2.isFinalMaxLevel": {
+            "type": "value",
+            "newValue": false
+          },
+          "list.3.isFinalMaxLevel": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      }
+    }
+  }
+}

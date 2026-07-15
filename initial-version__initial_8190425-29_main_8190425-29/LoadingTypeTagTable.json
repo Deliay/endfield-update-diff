@@ -1,0 +1,316 @@
+{
+  "tableName": "LoadingTypeTagTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 5,
+    "changed": 8
+  },
+  "entries": {
+    "added": {},
+    "removed": {
+      "51": {
+        "bgNameGroup": [
+          "bg_loading_dung_wolfgd_01"
+        ],
+        "tipsTitle": {
+          "id": "2142831153668481817",
+          "text": ""
+        },
+        "typeTag": 51
+      },
+      "52": {
+        "bgNameGroup": [
+          "bg_loading_dung_aglina_01"
+        ],
+        "tipsTitle": {
+          "id": "-6071820607901600521",
+          "text": ""
+        },
+        "typeTag": 52
+      },
+      "53": {
+        "bgNameGroup": [
+          "bg_loading_dung_laevat_01"
+        ],
+        "tipsTitle": {
+          "id": "2716326297786407924",
+          "text": ""
+        },
+        "typeTag": 53
+      },
+      "54": {
+        "bgNameGroup": [
+          "bg_loading_dung_laevat_02"
+        ],
+        "tipsTitle": {
+          "id": "169805992898239952",
+          "text": ""
+        },
+        "typeTag": 54
+      },
+      "55": {
+        "bgNameGroup": [
+          "bg_loading_dung_yvonne_01"
+        ],
+        "tipsTitle": {
+          "id": "4517799843028101736",
+          "text": ""
+        },
+        "typeTag": 55
+      }
+    },
+    "changed": {
+      "0": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1"
+          ],
+          "tipsTitle": {
+            "id": "4121658321903650819",
+            "text": ""
+          },
+          "typeTag": 0
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1"
+          ],
+          "typeTag": 0
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "4121658321903650819",
+              "text": ""
+            }
+          }
+        }
+      },
+      "1": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_factory_map01_1",
+            "bg_loading_factory_map02_1"
+          ],
+          "tipsTitle": {
+            "id": "-6967918197232100021",
+            "text": ""
+          },
+          "typeTag": 1
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_factory_map01_1",
+            "bg_loading_factory_map02_1"
+          ],
+          "typeTag": 1
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "-6967918197232100021",
+              "text": ""
+            }
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1",
+            "bg_loading_map01_lv001_1",
+            "bg_loading_map01_lv002_1",
+            "bg_loading_map01_lv003_1",
+            "bg_loading_map01_lv005_1",
+            "bg_loading_map01_lv006_1",
+            "bg_loading_map01_lv007_1",
+            "bg_loading_map02_lv001_1",
+            "bg_loading_map02_lv001_2",
+            "bg_loading_map02_lv001_3",
+            "bg_loading_map02_lv002_1",
+            "bg_loading_map02_lv002_2",
+            "bg_loading_map02_lv003_1",
+            "bg_loading_map02_lv004_1",
+            "bg_loading_map02_lv005_1"
+          ],
+          "tipsTitle": {
+            "id": "7329966815196045683",
+            "text": ""
+          },
+          "typeTag": 2
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1",
+            "bg_loading_map01_lv001_1",
+            "bg_loading_map01_lv002_1",
+            "bg_loading_map01_lv003_1",
+            "bg_loading_map01_lv005_1",
+            "bg_loading_map01_lv006_1",
+            "bg_loading_map01_lv007_1",
+            "bg_loading_map02_lv001_1",
+            "bg_loading_map02_lv001_2",
+            "bg_loading_map02_lv001_3",
+            "bg_loading_map02_lv002_1",
+            "bg_loading_map02_lv002_2",
+            "bg_loading_map02_lv003_1",
+            "bg_loading_map02_lv004_1",
+            "bg_loading_map02_lv005_1"
+          ],
+          "typeTag": 2
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "7329966815196045683",
+              "text": ""
+            }
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_combat_1"
+          ],
+          "tipsTitle": {
+            "id": "5369829915926747280",
+            "text": ""
+          },
+          "typeTag": 3
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_combat_1"
+          ],
+          "typeTag": 3
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "5369829915926747280",
+              "text": ""
+            }
+          }
+        }
+      },
+      "4": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_upgrade_1"
+          ],
+          "tipsTitle": {
+            "id": "5496742779372479860",
+            "text": ""
+          },
+          "typeTag": 4
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_upgrade_1"
+          ],
+          "typeTag": 4
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "5496742779372479860",
+              "text": ""
+            }
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1"
+          ],
+          "tipsTitle": {
+            "id": "-7083510753392738247",
+            "text": ""
+          },
+          "typeTag": 5
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1"
+          ],
+          "typeTag": 5
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "-7083510753392738247",
+              "text": ""
+            }
+          }
+        }
+      },
+      "6": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_dijiang_1"
+          ],
+          "tipsTitle": {
+            "id": "-2091781280473201229",
+            "text": ""
+          },
+          "typeTag": 6
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_dijiang_1"
+          ],
+          "typeTag": 6
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "-2091781280473201229",
+              "text": ""
+            }
+          }
+        }
+      },
+      "7": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_factory_map01_1",
+            "bg_loading_factory_map02_1"
+          ],
+          "tipsTitle": {
+            "id": "7123577767894666067",
+            "text": ""
+          },
+          "typeTag": 7
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_factory_map01_1",
+            "bg_loading_factory_map02_1"
+          ],
+          "typeTag": 7
+        },
+        "changed": {
+          "tipsTitle": {
+            "type": "value",
+            "oldValue": {
+              "id": "7123577767894666067",
+              "text": ""
+            }
+          }
+        }
+      }
+    }
+  }
+}

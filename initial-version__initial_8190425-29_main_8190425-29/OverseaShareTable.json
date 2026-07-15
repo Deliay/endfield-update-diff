@@ -1,0 +1,569 @@
+{
+  "tableName": "OverseaShareTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 14
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "0": {
+        "oldValue": {
+          "envLang": 0,
+          "shareChannelIdList": [
+            0,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 0,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 11
+          },
+          "shareChannelIdList[4]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 12
+          },
+          "shareChannelIdList[5]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      },
+      "1": {
+        "oldValue": {
+          "envLang": 1,
+          "shareChannelIdList": [
+            0,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 1,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 11
+          },
+          "shareChannelIdList[4]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 12
+          },
+          "shareChannelIdList[5]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "envLang": 2,
+          "shareChannelIdList": [
+            0,
+            10,
+            11,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 2,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 11
+          },
+          "shareChannelIdList[4]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "envLang": 3,
+          "shareChannelIdList": [
+            0,
+            10,
+            11,
+            17,
+            18
+          ]
+        },
+        "newValue": {
+          "envLang": 3,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11,
+            17,
+            18
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 11
+          },
+          "shareChannelIdList[4]": {
+            "type": "value",
+            "oldValue": 18,
+            "newValue": 17
+          },
+          "shareChannelIdList[5]": {
+            "type": "value",
+            "newValue": 18
+          }
+        }
+      },
+      "4": {
+        "oldValue": {
+          "envLang": 4,
+          "shareChannelIdList": [
+            0,
+            10,
+            11
+          ]
+        },
+        "newValue": {
+          "envLang": 4,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "newValue": 11
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "envLang": 5,
+          "shareChannelIdList": [
+            0,
+            10,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 5,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      },
+      "6": {
+        "oldValue": {
+          "envLang": 6,
+          "shareChannelIdList": [
+            0,
+            10
+          ]
+        },
+        "newValue": {
+          "envLang": 6,
+          "shareChannelIdList": [
+            0,
+            19,
+            10
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "newValue": 10
+          }
+        }
+      },
+      "7": {
+        "oldValue": {
+          "envLang": 7,
+          "shareChannelIdList": [
+            0,
+            10
+          ]
+        },
+        "newValue": {
+          "envLang": 7,
+          "shareChannelIdList": [
+            0,
+            19,
+            10
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "newValue": 10
+          }
+        }
+      },
+      "8": {
+        "oldValue": {
+          "envLang": 8,
+          "shareChannelIdList": [
+            0,
+            10
+          ]
+        },
+        "newValue": {
+          "envLang": 8,
+          "shareChannelIdList": [
+            0,
+            19,
+            10
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "newValue": 10
+          }
+        }
+      },
+      "9": {
+        "oldValue": {
+          "envLang": 9,
+          "shareChannelIdList": [
+            0
+          ]
+        },
+        "newValue": {
+          "envLang": 9,
+          "shareChannelIdList": [
+            0,
+            19
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "newValue": 19
+          }
+        }
+      },
+      "10": {
+        "oldValue": {
+          "envLang": 10,
+          "shareChannelIdList": [
+            0,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 10,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 11
+          },
+          "shareChannelIdList[4]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 12
+          },
+          "shareChannelIdList[5]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      },
+      "11": {
+        "oldValue": {
+          "envLang": 11,
+          "shareChannelIdList": [
+            0,
+            10,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 11,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      },
+      "12": {
+        "oldValue": {
+          "envLang": 12,
+          "shareChannelIdList": [
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 12,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[0]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 0
+          },
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 11
+          },
+          "shareChannelIdList[4]": {
+            "type": "value",
+            "newValue": 12
+          },
+          "shareChannelIdList[5]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      },
+      "13": {
+        "oldValue": {
+          "envLang": 13,
+          "shareChannelIdList": [
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "newValue": {
+          "envLang": 13,
+          "shareChannelIdList": [
+            0,
+            19,
+            10,
+            11,
+            12,
+            17
+          ]
+        },
+        "changed": {
+          "shareChannelIdList[0]": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 0
+          },
+          "shareChannelIdList[1]": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 19
+          },
+          "shareChannelIdList[2]": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 10
+          },
+          "shareChannelIdList[3]": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 11
+          },
+          "shareChannelIdList[4]": {
+            "type": "value",
+            "newValue": 12
+          },
+          "shareChannelIdList[5]": {
+            "type": "value",
+            "newValue": 17
+          }
+        }
+      }
+    }
+  }
+}

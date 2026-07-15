@@ -1,0 +1,44 @@
+{
+  "tableName": "EquipItemTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_corp4_spc": {
+        "autoCheckNotInFight": true,
+        "castTime": 2,
+        "chargeCount": 3,
+        "checkTarget": 0,
+        "condParams": [
+          "0.5",
+          "lt"
+        ],
+        "condType": 1,
+        "cooldown": 3,
+        "equipDesc": {
+          "id": "-6972987139056420870",
+          "text": ""
+        },
+        "equipExtraDesc": {
+          "id": "7294677164104914535",
+          "text": ""
+        },
+        "itemId": "item_corp4_spc",
+        "levelUpChargeCount": 3,
+        "levelUpRecoverUpperCount": 1,
+        "recoverTime": 60,
+        "recoverUpperCount": 1,
+        "toMainCharCount": 0,
+        "useTarget": 0
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

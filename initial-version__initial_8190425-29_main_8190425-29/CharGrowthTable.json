@@ -1,0 +1,3924 @@
+{
+  "tableName": "CharGrowthTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0033_camille": {
+        "charBreakCostMap": {
+          "charBreak20": {
+            "breakStage": 1,
+            "charId": "chr_0033_camille",
+            "description": {
+              "id": "4996114339194212004",
+              "text": ""
+            },
+            "equipTierLimit": 2,
+            "name": {
+              "id": "-36880757267111826",
+              "text": ""
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "breakStage": 2,
+            "charId": "chr_0033_camille",
+            "description": {
+              "id": "-5098391631780920062",
+              "text": ""
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "id": "-5647769340902087949",
+              "text": ""
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "breakStage": 3,
+            "charId": "chr_0033_camille",
+            "description": {
+              "id": "3409582742679411124",
+              "text": ""
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "id": "-2833184874691268887",
+              "text": ""
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "breakStage": 4,
+            "charId": "chr_0033_camille",
+            "description": {
+              "id": "3237905608839405819",
+              "text": ""
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "id": "882704193685406958",
+              "text": ""
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_2"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "breakStage": 1,
+            "charId": "chr_0033_camille",
+            "description": {
+              "id": "507382815264158699",
+              "text": ""
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "id": "5512833202644436989",
+              "text": ""
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "breakStage": 3,
+            "charId": "chr_0033_camille",
+            "description": {
+              "id": "6751247125853667760",
+              "text": ""
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "id": "-8552471405982878298",
+              "text": ""
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "breakStage": 2,
+            "charId": "chr_0033_camille",
+            "description": {
+              "id": "6708318881621432342",
+              "text": ""
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "id": "-4247174301477788516",
+              "text": ""
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "charId": "chr_0033_camille",
+        "charTypeId": "Fire",
+        "defaultWeaponId": "wpn_lance_0009",
+        "engName": "Camille",
+        "mainAttrType": 40,
+        "name": {
+          "id": "6825636278913292360",
+          "text": ""
+        },
+        "profession": 7,
+        "rarity": 6,
+        "skillGroupMap": {
+          "chr_0033_camille_ComboSkill": {
+            "desc": {
+              "id": "2244016325495571330",
+              "text": ""
+            },
+            "icon": "icon_combo_skill_camille_01",
+            "name": {
+              "id": "8199980489282362816",
+              "text": ""
+            },
+            "skillGroupId": "chr_0033_camille_ComboSkill",
+            "skillGroupType": 3,
+            "skillIdList": [
+              "chr_0033_camille_combo_skill",
+              "chr_0033_camille_combo_skill_2",
+              "chr_0033_camille_normal_skill_2"
+            ]
+          },
+          "chr_0033_camille_NormalAttack": {
+            "desc": {
+              "id": "-1571079667909788277",
+              "text": ""
+            },
+            "icon": "icon_attack_lance",
+            "name": {
+              "id": "2018886027265170451",
+              "text": ""
+            },
+            "skillGroupId": "chr_0033_camille_NormalAttack",
+            "skillGroupType": 0,
+            "skillIdList": [
+              "chr_0033_camille_attack1",
+              "chr_0033_camille_attack2",
+              "chr_0033_camille_attack3",
+              "chr_0033_camille_attack4",
+              "chr_0033_camille_attack5",
+              "chr_0033_camille_power_attack",
+              "chr_0033_camille_plunging_attack_end"
+            ]
+          },
+          "chr_0033_camille_NormalSkill": {
+            "desc": {
+              "id": "-7202390827837531570",
+              "text": ""
+            },
+            "icon": "icon_skill_camille_01",
+            "name": {
+              "id": "-3552569299210080272",
+              "text": ""
+            },
+            "skillGroupId": "chr_0033_camille_NormalSkill",
+            "skillGroupType": 1,
+            "skillIdList": [
+              "chr_0033_camille_normal_skill"
+            ]
+          },
+          "chr_0033_camille_UltimateSkill": {
+            "desc": {
+              "id": "7755034778733585296",
+              "text": ""
+            },
+            "icon": "icon_ultimate_skill_camille_01",
+            "name": {
+              "id": "4595858388494047939",
+              "text": ""
+            },
+            "skillGroupId": "chr_0033_camille_UltimateSkill",
+            "skillGroupType": 2,
+            "skillIdList": [
+              "chr_0033_camille_ultimate_skill"
+            ]
+          }
+        },
+        "skillLevelUp": [
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0033_camille_NormalSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0033_camille_UltimateSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0033_camille_ComboSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_2"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0033_camille_NormalAttack"
+          }
+        ],
+        "subAttrType": 41,
+        "talentNodeMap": {
+          "charBreak20": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0033_camille_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 3,
+              "index": 0,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0033_camille_0_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 8000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_2"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0033_camille_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 1,
+              "index": 0,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0033_camille_0_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 40,
+                "attrValue": 10,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 1,
+              "desc": {
+                "id": "-6901462749961887809",
+                "text": ""
+              },
+              "favorability": 60,
+              "title": {
+                "id": "-3454658513342497667",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_1",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 5,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_3": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 40,
+                "attrValue": 15,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 2,
+              "desc": {
+                "id": "-2244034830188913243",
+                "text": ""
+              },
+              "favorability": 150,
+              "title": {
+                "id": "6674377539262262448",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_3",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1800,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0033_camille_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 2,
+              "index": 1,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0033_camille_1_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 3000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_5": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 40,
+                "attrValue": 15,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 3,
+              "desc": {
+                "id": "-4321848951893879648",
+                "text": ""
+              },
+              "favorability": 300,
+              "title": {
+                "id": "6186998339686556215",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_5",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_7": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 40,
+                "attrValue": 20,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 4,
+              "desc": {
+                "id": "1206132210285032061",
+                "text": ""
+              },
+              "favorability": 300,
+              "title": {
+                "id": "-3397589508057443441",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_7",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 12000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_passive_skill_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_passive_skill_0_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 1,
+              "iconId": "icon_talent_camille_01",
+              "index": 0,
+              "level": 1,
+              "name": {
+                "id": "3526020706437135429",
+                "text": ""
+              },
+              "talentEffectId": "chr_0033_camille_talent_1_1"
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2400,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_passive_skill_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_passive_skill_0_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 2,
+              "iconId": "icon_talent_camille_01",
+              "index": 0,
+              "level": 2,
+              "name": {
+                "id": "-2456051434821977709",
+                "text": ""
+              },
+              "talentEffectId": "chr_0033_camille_talent_1_2"
+            },
+            "requiredItem": [
+              {
+                "count": 40,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 8600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_passive_skill_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_passive_skill_1_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 2,
+              "iconId": "icon_talent_camille_02",
+              "index": 1,
+              "level": 1,
+              "name": {
+                "id": "-3205924046625551945",
+                "text": ""
+              },
+              "talentEffectId": "chr_0033_camille_talent_2_1"
+            },
+            "requiredItem": [
+              {
+                "count": 48,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 10000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0033_camille_passive_skill_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0033_camille_passive_skill_1_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 3,
+              "iconId": "icon_talent_camille_02",
+              "index": 1,
+              "level": 2,
+              "name": {
+                "id": "3396393274657029973",
+                "text": ""
+              },
+              "talentEffectId": "chr_0033_camille_talent_2_2"
+            },
+            "requiredItem": [
+              {
+                "count": 28,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 24000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0033_camille_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 4,
+              "index": 1,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0033_camille_1_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 20000,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "weaponType": 5
+      },
+      "chr_0031_mifu": {
+        "charBreakCostMap": {
+          "charBreak20": {
+            "breakStage": 1,
+            "charId": "chr_0031_mifu",
+            "description": {
+              "id": "-4234786862246718665",
+              "text": ""
+            },
+            "equipTierLimit": 2,
+            "name": {
+              "id": "3228950771545828693",
+              "text": ""
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "breakStage": 2,
+            "charId": "chr_0031_mifu",
+            "description": {
+              "id": "-8988203398007230482",
+              "text": ""
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "id": "4699336526236467608",
+              "text": ""
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "breakStage": 3,
+            "charId": "chr_0031_mifu",
+            "description": {
+              "id": "3745512023607234654",
+              "text": ""
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "id": "6551718830707434598",
+              "text": ""
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "breakStage": 4,
+            "charId": "chr_0031_mifu",
+            "description": {
+              "id": "-8365480064292122562",
+              "text": ""
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "id": "-5283321387575273745",
+              "text": ""
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_1"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "breakStage": 1,
+            "charId": "chr_0031_mifu",
+            "description": {
+              "id": "7764807173661464286",
+              "text": ""
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "id": "-5385819869360308332",
+              "text": ""
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "breakStage": 3,
+            "charId": "chr_0031_mifu",
+            "description": {
+              "id": "3039316969037032845",
+              "text": ""
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "id": "-9052480349301827702",
+              "text": ""
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "breakStage": 2,
+            "charId": "chr_0031_mifu",
+            "description": {
+              "id": "36976539425558966",
+              "text": ""
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "id": "4877538159928465630",
+              "text": ""
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "charId": "chr_0031_mifu",
+        "charTypeId": "Physical",
+        "defaultWeaponId": "wpn_claym_0010",
+        "engName": "Mifu",
+        "mainAttrType": 39,
+        "name": {
+          "id": "-2122629787715908989",
+          "text": ""
+        },
+        "profession": 0,
+        "rarity": 6,
+        "skillGroupMap": {
+          "chr_0031_mifu_ComboSkill": {
+            "desc": {
+              "id": "-4383109707276744177",
+              "text": ""
+            },
+            "icon": "icon_combo_skill_mifu_01",
+            "name": {
+              "id": "-1766333772439258776",
+              "text": ""
+            },
+            "skillGroupId": "chr_0031_mifu_ComboSkill",
+            "skillGroupType": 3,
+            "skillIdList": [
+              "chr_0031_mifu_combo_skill"
+            ]
+          },
+          "chr_0031_mifu_NormalAttack": {
+            "desc": {
+              "id": "-8767519143826291158",
+              "text": ""
+            },
+            "icon": "icon_attack_claym",
+            "name": {
+              "id": "1428120984983129495",
+              "text": ""
+            },
+            "skillGroupId": "chr_0031_mifu_NormalAttack",
+            "skillGroupType": 0,
+            "skillIdList": [
+              "chr_0031_mifu_attack1",
+              "chr_0031_mifu_attack2",
+              "chr_0031_mifu_attack3",
+              "chr_0031_mifu_attack4",
+              "chr_0031_mifu_plunging_attack_end",
+              "chr_0031_mifu_powerattack"
+            ]
+          },
+          "chr_0031_mifu_NormalSkill": {
+            "desc": {
+              "id": "-4576453353590151871",
+              "text": ""
+            },
+            "icon": "icon_skill_mifu_01",
+            "name": {
+              "id": "3241783657845411930",
+              "text": ""
+            },
+            "skillGroupId": "chr_0031_mifu_NormalSkill",
+            "skillGroupType": 1,
+            "skillIdList": [
+              "chr_0031_mifu_normalskill_1",
+              "chr_0031_mifu_normalskill_2",
+              "chr_0031_mifu_normalskill_3"
+            ]
+          },
+          "chr_0031_mifu_UltimateSkill": {
+            "desc": {
+              "id": "-2191409237232816387",
+              "text": ""
+            },
+            "icon": "icon_ultimate_skill_mifu_01",
+            "name": {
+              "id": "-2238525384254404199",
+              "text": ""
+            },
+            "skillGroupId": "chr_0031_mifu_UltimateSkill",
+            "skillGroupType": 2,
+            "skillIdList": [
+              "chr_0031_mifu_ultimate_skill"
+            ]
+          }
+        },
+        "skillLevelUp": [
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0031_mifu_NormalSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0031_mifu_UltimateSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_5"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_5"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_5"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0031_mifu_ComboSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_5"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_5"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_5"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0031_mifu_NormalAttack"
+          }
+        ],
+        "subAttrType": 42,
+        "talentNodeMap": {
+          "charBreak20": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_1"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 39,
+                "attrValue": 10,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 1,
+              "desc": {
+                "id": "8124957084848365705",
+                "text": ""
+              },
+              "favorability": 60,
+              "title": {
+                "id": "-1926499065713680701",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_1",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 5,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_3": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 39,
+                "attrValue": 15,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 2,
+              "desc": {
+                "id": "-3329547504179161164",
+                "text": ""
+              },
+              "favorability": 150,
+              "title": {
+                "id": "-1991987948410446489",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_3",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1800,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_5": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 39,
+                "attrValue": 15,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 3,
+              "desc": {
+                "id": "1308747970147987268",
+                "text": ""
+              },
+              "favorability": 300,
+              "title": {
+                "id": "-4121815988606705641",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_5",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_7": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 39,
+                "attrValue": 20,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 4,
+              "desc": {
+                "id": "4529489777092904679",
+                "text": ""
+              },
+              "favorability": 300,
+              "title": {
+                "id": "1083025415866318032",
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_7",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 12000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0031_mifu_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 4,
+              "index": 1,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0031_mifu_1_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 20000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_passive_skill_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_passive_skill_0_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 1,
+              "iconId": "icon_talent_mifu_01",
+              "index": 0,
+              "level": 1,
+              "name": {
+                "id": "8421741375969471971",
+                "text": ""
+              },
+              "talentEffectId": "chr_0031_mifu_talent_1_1"
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2400,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_passive_skill_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_passive_skill_1_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 2,
+              "iconId": "icon_talent_mifu_02",
+              "index": 1,
+              "level": 1,
+              "name": {
+                "id": "-202537429254687107",
+                "text": ""
+              },
+              "talentEffectId": "chr_0031_mifu_talent_2_1"
+            },
+            "requiredItem": [
+              {
+                "count": 48,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 10000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_passive_skill_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_passive_skill_0_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 2,
+              "iconId": "icon_talent_mifu_01",
+              "index": 0,
+              "level": 2,
+              "name": {
+                "id": "8312654539118991394",
+                "text": ""
+              },
+              "talentEffectId": "chr_0031_mifu_talent_1_2"
+            },
+            "requiredItem": [
+              {
+                "count": 40,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 8600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0031_mifu_passive_skill_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0031_mifu_passive_skill_1_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 3,
+              "iconId": "icon_talent_mifu_02",
+              "index": 1,
+              "level": 2,
+              "name": {
+                "id": "-233631106431586917",
+                "text": ""
+              },
+              "talentEffectId": "chr_0031_mifu_talent_2_2"
+            },
+            "requiredItem": [
+              {
+                "count": 28,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 24000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0031_mifu_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 3,
+              "index": 0,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0031_mifu_0_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 8000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0031_mifu_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 2,
+              "index": 1,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0031_mifu_1_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 3000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0031_mifu_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifier": {
+                "attrType": 0,
+                "attrValue": 0,
+                "modifierType": 0,
+                "modifyAttributeType": 0
+              },
+              "breakStage": 0,
+              "desc": {
+                "id": 0,
+                "text": ""
+              },
+              "favorability": 0,
+              "title": {
+                "id": 0,
+                "text": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 1,
+              "index": 0,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0031_mifu_0_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "id": 0,
+                "text": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "weaponType": 3
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

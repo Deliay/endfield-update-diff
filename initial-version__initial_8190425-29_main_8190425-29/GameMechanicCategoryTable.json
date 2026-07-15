@@ -1,0 +1,1426 @@
+{
+  "tableName": "GameMechanicCategoryTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 5,
+    "removed": 0,
+    "changed": 23
+  },
+  "entries": {
+    "added": {
+      "world_challenge_survival_mifurdg": {
+        "canReChallenge": false,
+        "canReChallengeAfterFail": false,
+        "canReChallengeAfterReward": false,
+        "canSwitchLanguage": false,
+        "clearGlobalTimedMarker": false,
+        "dungeonResetCharUltimateSpMode": 0,
+        "gameCategory": "world_challenge_survival_mifurdg",
+        "hideBtnNode": false,
+        "hideWorldEnemy": false,
+        "hideWorldNpc": false,
+        "icon": "challenge_icon",
+        "iconBg": "challenge_icon_bg",
+        "ignoreStageFinishAnim": false,
+        "overrideSwitchMainCharRule": false,
+        "resetCharInfoWhenEnterDungeon": false,
+        "restartKeepScriptStage": false,
+        "startToastType": "",
+        "toastIcon": "challenge_icon"
+      },
+      "dungeon_contract": {
+        "canReChallenge": true,
+        "canReChallengeAfterFail": true,
+        "canReChallengeAfterReward": false,
+        "canSwitchLanguage": false,
+        "clearGlobalTimedMarker": true,
+        "dungeonResetCharUltimateSpMode": 0,
+        "gameCategory": "dungeon_contract",
+        "hideBtnNode": true,
+        "hideWorldEnemy": false,
+        "hideWorldNpc": false,
+        "icon": "dungeon_contract_icon",
+        "iconBg": "dungeon_icon_bg",
+        "ignoreStageFinishAnim": false,
+        "overrideSwitchMainCharRule": true,
+        "resetCharInfoWhenEnterDungeon": true,
+        "restartKeepScriptStage": false,
+        "startToastType": "ContingencyStartToast",
+        "toastIcon": "contingency_icon"
+      },
+      "world_challenge_survival": {
+        "canReChallenge": false,
+        "canReChallengeAfterFail": false,
+        "canReChallengeAfterReward": false,
+        "canSwitchLanguage": false,
+        "clearGlobalTimedMarker": false,
+        "dungeonResetCharUltimateSpMode": 0,
+        "gameCategory": "world_challenge_survival",
+        "hideBtnNode": false,
+        "hideWorldEnemy": true,
+        "hideWorldNpc": true,
+        "icon": "challenge_icon",
+        "iconBg": "challenge_icon_bg",
+        "ignoreStageFinishAnim": false,
+        "overrideSwitchMainCharRule": false,
+        "resetCharInfoWhenEnterDungeon": false,
+        "restartKeepScriptStage": false,
+        "startToastType": "",
+        "toastIcon": "challenge_icon"
+      },
+      "dungeon_simulation_training": {
+        "canReChallenge": false,
+        "canReChallengeAfterFail": true,
+        "canReChallengeAfterReward": true,
+        "canSwitchLanguage": false,
+        "clearGlobalTimedMarker": true,
+        "dungeonResetCharUltimateSpMode": 0,
+        "gameCategory": "dungeon_simulation_training",
+        "hideBtnNode": true,
+        "hideWorldEnemy": false,
+        "hideWorldNpc": false,
+        "icon": "",
+        "iconBg": "",
+        "ignoreStageFinishAnim": false,
+        "overrideSwitchMainCharRule": false,
+        "resetCharInfoWhenEnterDungeon": false,
+        "restartKeepScriptStage": false,
+        "startToastType": "DungeonStartToast",
+        "toastIcon": ""
+      },
+      "world_poi_simulation_training": {
+        "canReChallenge": false,
+        "canReChallengeAfterFail": false,
+        "canReChallengeAfterReward": false,
+        "canSwitchLanguage": false,
+        "clearGlobalTimedMarker": false,
+        "dungeonResetCharUltimateSpMode": 0,
+        "gameCategory": "world_poi_simulation_training",
+        "hideBtnNode": false,
+        "hideWorldEnemy": true,
+        "hideWorldNpc": true,
+        "icon": "simulation_training_icon",
+        "iconBg": "challenge_icon_bg",
+        "ignoreStageFinishAnim": false,
+        "overrideSwitchMainCharRule": false,
+        "resetCharInfoWhenEnterDungeon": false,
+        "restartKeepScriptStage": false,
+        "startToastType": "",
+        "toastIcon": "simulation_training_icon"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "activity_qingxi": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "activity_qingxi",
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "activity_qingxi",
+          "hideBtnNode": false,
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "settlement_defence": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "settlement_defence",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "settlementdefense_icon",
+          "iconBg": "",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": ""
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "settlement_defence",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "settlementdefense_icon",
+          "iconBg": "",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": ""
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_actmonster": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_actmonster",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_actmonster",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_char": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_char",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": true,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_char",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": true
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_highdifficulty": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "clearGlobalTimedMarker": true,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_highdifficulty",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToastStyleA",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": true,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_highdifficulty",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToastStyleA",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_bossrush": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 1,
+          "gameCategory": "dungeon_bossrush",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "hunter_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "hunter_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": true,
+          "dungeonResetCharUltimateSpMode": 1,
+          "gameCategory": "dungeon_bossrush",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "hunter_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "hunter_icon"
+        },
+        "changed": {
+          "clearGlobalTimedMarker": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          },
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "world_challenge_race": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_challenge_race",
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_challenge_race",
+          "hideBtnNode": false,
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "world_energy_point": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_energy_point",
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_energy_point",
+          "hideBtnNode": false,
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "world_energy_point_small": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_energy_point_small",
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_energy_point_small",
+          "hideBtnNode": false,
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_challenge": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_challenge",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_challenge",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_wuling_A": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_wuling_A",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_wuling_A",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_chartrial": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_chartrial",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_chartrial",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_weeklyraid": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_weeklyraid",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "",
+          "iconBg": "",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": ""
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": true,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_weeklyraid",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "",
+          "iconBg": "",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": ""
+        },
+        "changed": {
+          "clearGlobalTimedMarker": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          },
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_chartutorial": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_chartutorial",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "chartrain_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": true,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "chartrain_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_chartutorial",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "chartrain_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": true,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "chartrain_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_factory": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_factory",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "challenge_icon_2",
+          "iconBg": "",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": ""
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_factory",
+          "hideBtnNode": true,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "challenge_icon_2",
+          "iconBg": "",
+          "ignoreStageFinishAnim": true,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": ""
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": true
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": true
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_resource": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 1,
+          "gameCategory": "dungeon_resource",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": true,
+          "dungeonResetCharUltimateSpMode": 1,
+          "gameCategory": "dungeon_resource",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "clearGlobalTimedMarker": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          },
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_rpg": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_rpg",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "",
+          "iconBg": "",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": ""
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_rpg",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "",
+          "iconBg": "",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": ""
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_ss": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 1,
+          "gameCategory": "dungeon_ss",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": true,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": true,
+          "dungeonResetCharUltimateSpMode": 1,
+          "gameCategory": "dungeon_ss",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": true,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "clearGlobalTimedMarker": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          },
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_train": {
+        "oldValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_train",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "chartrain_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "chartrain_icon"
+        },
+        "newValue": {
+          "canReChallenge": true,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_train",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "chartrain_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "chartrain_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_worldlevel": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_worldlevel",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToastStyleA",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_worldlevel",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToastStyleA",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dungeon_wuling_B": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_wuling_B",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": true,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "dungeon_wuling_B",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "dungeon_icon",
+          "iconBg": "dungeon_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "DungeonStartToast",
+          "toastIcon": "dungeon_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "world_challenge_capturebugs": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_challenge_capturebugs",
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_challenge_capturebugs",
+          "hideBtnNode": false,
+          "hideWorldEnemy": true,
+          "hideWorldNpc": true,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "world_challenge_deliver": {
+        "oldValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_challenge_deliver",
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "newValue": {
+          "canReChallenge": false,
+          "canReChallengeAfterFail": false,
+          "canReChallengeAfterReward": false,
+          "canSwitchLanguage": false,
+          "clearGlobalTimedMarker": false,
+          "dungeonResetCharUltimateSpMode": 0,
+          "gameCategory": "world_challenge_deliver",
+          "hideBtnNode": false,
+          "hideWorldEnemy": false,
+          "hideWorldNpc": false,
+          "icon": "challenge_icon",
+          "iconBg": "challenge_icon_bg",
+          "ignoreStageFinishAnim": false,
+          "overrideSwitchMainCharRule": false,
+          "resetCharInfoWhenEnterDungeon": false,
+          "restartKeepScriptStage": false,
+          "startToastType": "",
+          "toastIcon": "challenge_icon"
+        },
+        "changed": {
+          "canSwitchLanguage": {
+            "type": "value",
+            "newValue": false
+          },
+          "hideBtnNode": {
+            "type": "value",
+            "newValue": false
+          },
+          "ignoreStageFinishAnim": {
+            "type": "value",
+            "newValue": false
+          },
+          "overrideSwitchMainCharRule": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      }
+    }
+  }
+}

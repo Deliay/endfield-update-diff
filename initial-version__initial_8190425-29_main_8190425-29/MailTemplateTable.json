@@ -1,0 +1,107 @@
+{
+  "tableName": "MailTemplateTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 6,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "deliver_thank_mail_005_jiana_01": {
+        "duration": 259200,
+        "mailContent": {
+          "id": "-4016790449270336267",
+          "text": ""
+        },
+        "rewardId": "reward_domaindepot_thank_mail_map01_005_jiana_1",
+        "senderId": "deliver_thank_002_jiana_01",
+        "templateId": "deliver_thank_mail_005_jiana_01",
+        "title": {
+          "id": "9130268667335208087",
+          "text": ""
+        },
+        "type": 0
+      },
+      "deliver_thank_mail_005_linde_01": {
+        "duration": 259200,
+        "mailContent": {
+          "id": "3890309125857743796",
+          "text": ""
+        },
+        "rewardId": "reward_domaindepot_thank_mail_map02_002_linde_1",
+        "senderId": "deliver_thank_002_linde_01",
+        "templateId": "deliver_thank_mail_005_linde_01",
+        "title": {
+          "id": "6930888843285904655",
+          "text": ""
+        },
+        "type": 0
+      },
+      "deliver_thank_mail_005_mataiao_01": {
+        "duration": 259200,
+        "mailContent": {
+          "id": "-6382738497154172278",
+          "text": ""
+        },
+        "rewardId": "reward_domaindepot_thank_mail_map01_006_mataiao_1",
+        "senderId": "deliver_thank_002_mataiao_01",
+        "templateId": "deliver_thank_mail_005_mataiao_01",
+        "title": {
+          "id": "96129215206609155",
+          "text": ""
+        },
+        "type": 0
+      },
+      "deliver_thank_mail_005_subaiyi_01": {
+        "duration": 259200,
+        "mailContent": {
+          "id": "-7541464209703653214",
+          "text": ""
+        },
+        "rewardId": "reward_domaindepot_thank_mail_map02_002_subaiyi_1",
+        "senderId": "deliver_thank_002_subaiyi_01",
+        "templateId": "deliver_thank_mail_005_subaiyi_01",
+        "title": {
+          "id": "4795559047146778873",
+          "text": ""
+        },
+        "type": 0
+      },
+      "deliver_thank_mail_005_yushi_01": {
+        "duration": 259200,
+        "mailContent": {
+          "id": "-7953758943424092217",
+          "text": ""
+        },
+        "rewardId": "reward_domaindepot_thank_mail_map02_002_yushi_1",
+        "senderId": "deliver_thank_002_yushi_01",
+        "templateId": "deliver_thank_mail_005_yushi_01",
+        "title": {
+          "id": "2464075848119651305",
+          "text": ""
+        },
+        "type": 0
+      },
+      "questionnaire_notify_common": {
+        "duration": -1,
+        "mailContent": {
+          "id": "-907339304186188449",
+          "text": ""
+        },
+        "rewardId": "",
+        "senderId": "system",
+        "templateId": "questionnaire_notify_common",
+        "title": {
+          "id": "4418379011230675496",
+          "text": ""
+        },
+        "type": 0
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "tableName": "UseItemTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_jzmonk_1_hsmob_1_1": {
+        "duration": 300,
+        "effectType": 2,
+        "isPersistentBuff": true,
+        "isValuableDepot": false,
+        "itemId": "item_jzmonk_1_hsmob_1_1",
+        "itemUseDesc": {
+          "id": "2194681365947765933",
+          "text": ""
+        },
+        "stackingKey": "buff",
+        "targetNumType": 0,
+        "uiType": 3,
+        "useActions": [
+          {
+            "buffBBData": {
+              "blackboard": [
+                {
+                  "key": "value",
+                  "value": 0.2547061,
+                  "valueStr": ""
+                },
+                {
+                  "key": "duration",
+                  "value": 300,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_common_ctr_buff_potion_1"
+            },
+            "skillBBData": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "useType": 2
+          },
+          {
+            "buffBBData": {
+              "blackboard": [
+                {
+                  "key": "value",
+                  "value": -0.04929796,
+                  "valueStr": ""
+                },
+                {
+                  "key": "duration",
+                  "value": 300,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_common_def_buff_potion_3"
+            },
+            "skillBBData": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "useType": 2
+          }
+        ]
+      },
+      "item_corp4_spc": {
+        "duration": 0,
+        "effectType": 0,
+        "isPersistentBuff": false,
+        "isValuableDepot": false,
+        "itemId": "item_corp4_spc",
+        "itemUseDesc": {
+          "id": "-8000767089928531042",
+          "text": ""
+        },
+        "stackingKey": "",
+        "targetNumType": 0,
+        "uiType": 5,
+        "useActions": [
+          {
+            "buffBBData": {
+              "blackboard": [
+                {
+                  "key": "value",
+                  "value": 0.4,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_common_ultsp_potion_1"
+            },
+            "skillBBData": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "useType": 2
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

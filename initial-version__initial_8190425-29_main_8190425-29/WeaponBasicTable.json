@@ -1,0 +1,121 @@
+{
+  "tableName": "WeaponBasicTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "wpn_claym_0016": {
+        "breakthroughTemplateId": "weapon_breakthrough_456star_C_1",
+        "engName": {
+          "id": "1428683893430335599",
+          "text": ""
+        },
+        "levelTemplateId": "weapon_upgrade_curve_6star_0.99",
+        "maxLv": 90,
+        "modelPath": "Gameplay/Prefabs/Weapons/wpn_claym_0016.prefab",
+        "potentialUpItemList": [
+          "item_wpnpotentialup_bp"
+        ],
+        "rarity": 6,
+        "talentTemplateId": "wpn_potential_456star",
+        "weaponDesc": {
+          "id": "-5354325440520586621",
+          "text": ""
+        },
+        "weaponId": "wpn_claym_0016",
+        "weaponPotentialSkill": "sk_wpn_claym_0016",
+        "weaponSkillList": [
+          "wpn_attr_str_high",
+          "wpn_sp_attr_phy_spell_high",
+          "sk_wpn_claym_0016"
+        ],
+        "weaponType": 3
+      },
+      "wpn_claym_0017": {
+        "breakthroughTemplateId": "weapon_breakthrough_456star_D_1",
+        "engName": {
+          "id": "-6428567202983049072",
+          "text": ""
+        },
+        "levelTemplateId": "weapon_upgrade_curve_6star_1.03",
+        "maxLv": 90,
+        "modelPath": "Gameplay/Prefabs/Weapons/wpn_claym_0017.prefab",
+        "potentialUpItemList": [],
+        "rarity": 6,
+        "talentTemplateId": "wpn_potential_456star",
+        "weaponDesc": {
+          "id": "-7545888493238850091",
+          "text": ""
+        },
+        "weaponId": "wpn_claym_0017",
+        "weaponPotentialSkill": "sk_wpn_claym_0017",
+        "weaponSkillList": [
+          "wpn_attr_str_high",
+          "wpn_sp_attr_atk_high",
+          "sk_wpn_claym_0017"
+        ],
+        "weaponType": 3
+      },
+      "wpn_lance_0007": {
+        "breakthroughTemplateId": "weapon_breakthrough_456star_E_1",
+        "engName": {
+          "id": "196515616960625435",
+          "text": ""
+        },
+        "levelTemplateId": "weapon_upgrade_curve_6star_0.98",
+        "maxLv": 90,
+        "modelPath": "Gameplay/Prefabs/Weapons/wpn_lance_0007.prefab",
+        "potentialUpItemList": [
+          "item_wpnpotentialup_bp"
+        ],
+        "rarity": 6,
+        "talentTemplateId": "wpn_potential_456star",
+        "weaponDesc": {
+          "id": "2801591303690895052",
+          "text": ""
+        },
+        "weaponId": "wpn_lance_0007",
+        "weaponPotentialSkill": "sk_wpn_lance_0007",
+        "weaponSkillList": [
+          "wpn_attr_agi_high",
+          "wpn_sp_attr_usgs_high",
+          "sk_wpn_lance_0007"
+        ],
+        "weaponType": 5
+      },
+      "wpn_lance_0015": {
+        "breakthroughTemplateId": "weapon_breakthrough_456star_B_2",
+        "engName": {
+          "id": "1870730202533247451",
+          "text": ""
+        },
+        "levelTemplateId": "weapon_upgrade_curve_6star_1.01",
+        "maxLv": 90,
+        "modelPath": "Gameplay/Prefabs/Weapons/wpn_lance_0015.prefab",
+        "potentialUpItemList": [],
+        "rarity": 6,
+        "talentTemplateId": "wpn_potential_456star",
+        "weaponDesc": {
+          "id": "-3675220694833104674",
+          "text": ""
+        },
+        "weaponId": "wpn_lance_0015",
+        "weaponPotentialSkill": "sk_wpn_lance_0015",
+        "weaponSkillList": [
+          "wpn_attr_agi_high",
+          "wpn_sp_attr_firedam_high",
+          "sk_wpn_lance_0015"
+        ],
+        "weaponType": 5
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

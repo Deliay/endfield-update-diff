@@ -1,0 +1,52 @@
+{
+  "tableName": "CheckInInfoTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 5,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_checkin_brilliance": {
+        "checkInRewardChangeTime": 0,
+        "commonPanelWidgetName": "ActivityCharSignBrillianceInfo",
+        "forceShowTwoDigits": true,
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityCharSignBrilliancePopUp"
+      },
+      "activity_checkin_camille": {
+        "checkInRewardChangeTime": 0,
+        "commonPanelWidgetName": "ActivityCharSignCamilleInfo",
+        "forceShowTwoDigits": true,
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityCharSignCamillePopUp"
+      },
+      "activity_checkin_mifu": {
+        "checkInRewardChangeTime": 0,
+        "commonPanelWidgetName": "ActivityCharSignMifuInfo",
+        "forceShowTwoDigits": true,
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityCharSignMifuPopUp"
+      },
+      "activity_checkin_v1d2_end": {
+        "checkInRewardChangeTime": 0,
+        "commonPanelWidgetName": "ActivityV1d2CheckinSignInfo",
+        "forceShowTwoDigits": false,
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityV1d2CheckinSignPopUp"
+      },
+      "activity_checkin_v1d3_end": {
+        "checkInRewardChangeTime": 0,
+        "commonPanelWidgetName": "ActivityV1d3CheckinSignInfo",
+        "forceShowTwoDigits": false,
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityV1d3CheckinSignPopUp"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

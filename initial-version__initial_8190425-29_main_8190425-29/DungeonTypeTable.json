@@ -1,0 +1,77 @@
+{
+  "tableName": "DungeonTypeTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "dungeon_contract": {
+        "afterSuccStopConfirmText": {
+          "id": "4017400903933866394",
+          "text": ""
+        },
+        "beforeSuccStopConfirmText": {
+          "id": "8372707663945025476",
+          "text": ""
+        },
+        "dungeonInfoTitle": {
+          "id": "-2621888722912632876",
+          "text": ""
+        },
+        "dungeonType": "dungeon_contract",
+        "enemyInfoTitle": {
+          "id": "-3852053188187564620",
+          "text": ""
+        },
+        "entryText": {
+          "id": "6131739309161681508",
+          "text": ""
+        },
+        "interactToLeaveDungeon": false,
+        "mapMarkType": 0,
+        "resetConfirmText": {
+          "id": "8489524701224894549",
+          "text": ""
+        },
+        "showTimeRecord": false
+      },
+      "dungeon_simulation_training": {
+        "afterSuccStopConfirmText": {
+          "id": 0,
+          "text": ""
+        },
+        "beforeSuccStopConfirmText": {
+          "id": "-7157757565637354490",
+          "text": ""
+        },
+        "dungeonInfoTitle": {
+          "id": "-8649032619903054895",
+          "text": ""
+        },
+        "dungeonType": "dungeon_simulation_training",
+        "enemyInfoTitle": {
+          "id": "649056474767564805",
+          "text": ""
+        },
+        "entryText": {
+          "id": "-7887893985606789418",
+          "text": ""
+        },
+        "interactToLeaveDungeon": false,
+        "mapMarkType": 0,
+        "resetConfirmText": {
+          "id": 0,
+          "text": ""
+        },
+        "showTimeRecord": false
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

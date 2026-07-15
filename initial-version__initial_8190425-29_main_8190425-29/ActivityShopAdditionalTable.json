@@ -1,0 +1,45 @@
+{
+  "tableName": "ActivityShopAdditionalTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "shop_activity_contingency_contract_0": {
+        "activityId": "activity_contingency_contract_0",
+        "activityMoneyId": "item_activity_contract_gold_0",
+        "banner": "shop_banner_03",
+        "closeCdText": {
+          "id": "5770321892137912147",
+          "text": ""
+        },
+        "hasHelpComponent": true,
+        "hasSortComponent": false,
+        "shopGroupId": "shop_activity_contingency_contract_0",
+        "showCloseCd": true,
+        "titleColor": "FFFFFF"
+      },
+      "shop_activity_limited_formula_1": {
+        "activityId": "activity_limited_formula_1",
+        "activityMoneyId": "item_activity_relief_coupon",
+        "banner": "shop_banner_01",
+        "closeCdText": {
+          "id": 0,
+          "text": ""
+        },
+        "hasHelpComponent": false,
+        "hasSortComponent": true,
+        "shopGroupId": "shop_activity_limited_formula_1",
+        "showCloseCd": false,
+        "titleColor": "2C2C2C"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

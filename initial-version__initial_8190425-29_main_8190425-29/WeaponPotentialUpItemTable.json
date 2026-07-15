@@ -1,0 +1,53 @@
+{
+  "tableName": "WeaponPotentialUpItemTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "item_wpnpotentialup_bp": {
+        "oldValue": {
+          "itemId": "item_wpnpotentialup_bp",
+          "weaponIds": [
+            "wpn_sword_0010",
+            "wpn_funnel_0006",
+            "wpn_pistol_0005",
+            "wpn_sword_0017",
+            "wpn_pistol_0007",
+            "wpn_funnel_0017"
+          ]
+        },
+        "newValue": {
+          "itemId": "item_wpnpotentialup_bp",
+          "weaponIds": [
+            "wpn_sword_0010",
+            "wpn_funnel_0006",
+            "wpn_pistol_0005",
+            "wpn_sword_0017",
+            "wpn_pistol_0007",
+            "wpn_funnel_0017",
+            "wpn_claym_0016",
+            "wpn_lance_0007"
+          ]
+        },
+        "changed": {
+          "weaponIds[6]": {
+            "type": "value",
+            "newValue": "wpn_claym_0016"
+          },
+          "weaponIds[7]": {
+            "type": "value",
+            "newValue": "wpn_lance_0007"
+          }
+        }
+      }
+    }
+  }
+}

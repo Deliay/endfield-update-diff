@@ -1,0 +1,286 @@
+{
+  "tableName": "FactoryLiquidConnectorTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "log_pipe_connector": {
+        "oldValue": {
+          "defaultRendererTemplate": "liquid__0",
+          "id": "log_pipe_connector",
+          "inputPorts": [
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 180,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 270,
+                "z": 0
+              }
+            }
+          ],
+          "liquidUnitData": {
+            "buildCamState": "Factory/CCS_Fac_Building_Large",
+            "iconOnPanel": "icon_log_pipe_connector",
+            "itemId": "item_log_pipe_connector",
+            "msPerRound": 500,
+            "name": {
+              "id": "7401558481998202038",
+              "text": ""
+            },
+            "volume": 1
+          },
+          "outputPorts": [
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 180,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 270,
+                "z": 0
+              }
+            }
+          ],
+          "range": {
+            "x": 1,
+            "y": 4,
+            "z": 1
+          },
+          "rendererTemplateMap": {
+            "liquid__0": {
+              "logisticBaseUnit": "",
+              "machineId": "log_pipe_connector",
+              "machineLevel": 0,
+              "machineModeType": "liquid",
+              "machineRenderId": "log_pipe_connector",
+              "nonLogisticBaseUnit": ""
+            }
+          }
+        },
+        "newValue": {
+          "defaultRendererTemplate": "liquid__0",
+          "id": "log_pipe_connector",
+          "inputPorts": [
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 180,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 270,
+                "z": 0
+              }
+            }
+          ],
+          "liquidUnitData": {
+            "buildCamState": "Factory/CCS_Fac_Building_Large",
+            "iconOnPanel": "icon_log_pipe_connector",
+            "itemId": "item_log_pipe_connector",
+            "msPerRound": 500,
+            "name": {
+              "id": "7401558481998202038",
+              "text": ""
+            },
+            "volume": 1
+          },
+          "outputPorts": [
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 180,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            },
+            {
+              "position": {
+                "x": 0,
+                "y": 3,
+                "z": 0
+              },
+              "rotation": {
+                "x": 0,
+                "y": 270,
+                "z": 0
+              }
+            }
+          ],
+          "range": {
+            "x": 1,
+            "y": 4,
+            "z": 1
+          },
+          "rendererTemplateMap": {
+            "liquid__0": {
+              "logisticBaseUnit": "",
+              "machineId": "log_pipe_connector",
+              "machineLevel": 0,
+              "machineModeType": "liquid",
+              "machineRenderId": "log_pipe_connector",
+              "nonLogisticBaseUnit": "",
+              "suppressExternalDither": false
+            }
+          }
+        },
+        "changed": {
+          "rendererTemplateMap.liquid__0.suppressExternalDither": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      }
+    }
+  }
+}

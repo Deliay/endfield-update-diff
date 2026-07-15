@@ -1,0 +1,697 @@
+{
+  "tableName": "BlocDataTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 8
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "power_army": {
+        "oldValue": {
+          "blocId": "power_army",
+          "blocName": {
+            "id": "-448177770298097566",
+            "text": ""
+          },
+          "engName": "Ironclad Legion",
+          "icon": "icon_power_army",
+          "tagId": "tag_power_army"
+        },
+        "newValue": {
+          "blocId": "power_army",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Ironclad Legion",
+          "icon": "icon_power_army",
+          "tagId": "tag_power_army"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Ordem do Juramento de Aço",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "铁誓军",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Orden des Stahlschwurs",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Order of Steel Oath",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Ordre du serment d'acier",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Order of Steel Oath",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Ordine del Giuramento d'acciaio",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "鉄誓軍",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "철의 서약군",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Orden del juramento de acero",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Орден Стальной клятвы",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "鐵誓軍",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "ภาคี​โล​ห​ปฏิญาณ",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Hội Lời Thề Thép",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "power_commerce": {
+        "oldValue": {
+          "blocId": "power_commerce",
+          "blocName": {
+            "id": "7391325186613022131",
+            "text": ""
+          },
+          "engName": "Ringtower Merchants",
+          "icon": "icon_power_commerce",
+          "tagId": "tag_power_commerce"
+        },
+        "newValue": {
+          "blocId": "power_commerce",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Ringtower Merchants",
+          "icon": "icon_power_commerce",
+          "tagId": "tag_power_commerce"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Câmara Geral de Comércio de Talos-II (CGCT)",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "环塔商会",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Talos-II Allgemeine Handelskammer (TAHK)",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Talos-II General Chamber of Commerce (TGCC)",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Chambre de commerce générale de Talos-II (CCGT)",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Talos-II General Chamber of Commerce (TGCC)",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Camera di commercio generale di Talos-II (CCGT)",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "環タロ商会",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "탈로스 II 상업연합회",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Cámara General de Comercio de Talos-II (C.G.C.T.)",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Генеральная торговая палата Талоса II (ГТПТ)",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "環塔商會",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "หอการค้า​ทั่วไป​ทาล​อส​-II (TGCC)",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Phòng Thương Mại Tổng Hợp Talos-II (TGCC)",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "power_endfield": {
+        "oldValue": {
+          "blocId": "power_endfield",
+          "blocName": {
+            "id": "-4059364429958592288",
+            "text": ""
+          },
+          "engName": "Endfield Engineering Dept",
+          "icon": "icon_power_endfield",
+          "tagId": "tag_power_endfield"
+        },
+        "newValue": {
+          "blocId": "power_endfield",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Endfield Engineering Dept",
+          "icon": "icon_power_endfield",
+          "tagId": "tag_power_endfield"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Endfield Industries",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "终末地工业",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Endfield Industries",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Endfield Industries",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Industries Endfield",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Endfield Industries",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Endfield Industries",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "エンドフィールド工業",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "엔드필드 공업",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Endfield Industries",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Компания Endfield",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "終末地工業",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "Endfield อิน​ดัส​ทรี​ส์",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Tập Đoàn Endfield",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "power_divider": {
+        "oldValue": {
+          "blocId": "power_divider",
+          "blocName": {
+            "id": "-3518369104043335558",
+            "text": ""
+          },
+          "engName": "Divider",
+          "icon": "icon_power_divider",
+          "tagId": "tag_power_divider"
+        },
+        "newValue": {
+          "blocId": "power_divider",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Divider",
+          "icon": "icon_power_divider",
+          "tagId": "tag_power_divider"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Invasor de Terras",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "裂地者",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Landbrecher",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Landbreaker",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Brise-Terre",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Landbreaker",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Fenditerra",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "ランドブレーカー",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "랜드브레이커",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Rompesuelos",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Землекрушитель",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "裂地者",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "แลนด์​เบรก​เกอร์",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Landbreaker",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "power_rhodes": {
+        "oldValue": {
+          "blocId": "power_rhodes",
+          "blocName": {
+            "id": "-8122526978169170733",
+            "text": ""
+          },
+          "engName": "Rhodes Island",
+          "icon": "icon_power_rhodes",
+          "tagId": "tag_power_rhodes"
+        },
+        "newValue": {
+          "blocId": "power_rhodes",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Rhodes Island",
+          "icon": "icon_power_rhodes",
+          "tagId": "tag_power_rhodes"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "罗德岛",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "ロドス",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "로도스 아일랜드",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Родос Айленд",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "羅德島",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "โรด​ส์​ไอ​แลนด์",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Rhodes Island",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "power_hongshan": {
+        "oldValue": {
+          "blocId": "power_hongshan",
+          "blocName": {
+            "id": "-6804567784279414519",
+            "text": ""
+          },
+          "engName": "Hongshan",
+          "icon": "icon_power_hongshan",
+          "tagId": "tag_power_hongshan"
+        },
+        "newValue": {
+          "blocId": "power_hongshan",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Hongshan",
+          "icon": "icon_power_hongshan",
+          "tagId": "tag_power_hongshan"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Hongshan",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "宏山",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Hongshan",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Hongshan",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Hongshan",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Hongshan",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Hongshan",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "宏山",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "홍산",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Hongshan",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Хуншань",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "宏山",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "หง​ซาน",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Hongshan",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "power_monastery": {
+        "oldValue": {
+          "blocId": "power_monastery",
+          "blocName": {
+            "id": "714323761466953287",
+            "text": ""
+          },
+          "engName": "Silent Society",
+          "icon": "icon_power_monastery",
+          "tagId": "tag_power_monastery"
+        },
+        "newValue": {
+          "blocId": "power_monastery",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Silent Society",
+          "icon": "icon_power_monastery",
+          "tagId": "tag_power_monastery"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Cabala da Tranquilidade",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "寂语修会",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Orden der Stille",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Cabal of Tranquility",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Cabale de la Tranquillité",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Cabal of Tranquility",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Cabala della Tranquillità",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "静語伝道会",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "고요한 수도회",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Cábala de la Tranquilidad",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Секта умиротворения",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "寂語修會",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "ภาคี​วัจ​น​สันโดษ",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Tu Hội Tĩnh Lặng",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "power_tribe": {
+        "oldValue": {
+          "blocId": "power_tribe",
+          "blocName": {
+            "id": "-5002267553993142883",
+            "text": ""
+          },
+          "engName": "Lifebreath Zone",
+          "icon": "icon_power_tribe",
+          "tagId": "tag_power_tribe"
+        },
+        "newValue": {
+          "blocId": "power_tribe",
+          "blocName": {
+            "id": 0,
+            "text": ""
+          },
+          "engName": "Lifebreath Zone",
+          "icon": "icon_power_tribe",
+          "tagId": "tag_power_tribe"
+        },
+        "changed": {
+          "blocName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Circuito Hannabit",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "众生长地",
+                "newText": ""
+              },
+              "DE": {
+                "oldText": "Hannabit-Zirkel",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "Hannabit Circuit",
+                "newText": ""
+              },
+              "FR": {
+                "oldText": "Circuit d'Hannabit",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "Hannabit Circuit",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "Circuito Hannabit",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "衆生長地",
+                "newText": ""
+              },
+              "KR": {
+                "oldText": "만물의 대지",
+                "newText": ""
+              },
+              "MX": {
+                "oldText": "Circuito Hannabit",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "Братство Ханнабит",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "眾生長地",
+                "newText": ""
+              },
+              "TH": {
+                "oldText": "วงจร​แฮน​นา​บิท",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "Trường Địa Hannabit",
+                "newText": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

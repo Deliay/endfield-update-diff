@@ -1,0 +1,99 @@
+{
+  "tableName": "SpaceshipCharSkillTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0033_camille": {
+        "maxSkillCount": 2,
+        "skillList": [
+          {
+            "charId": "chr_0033_camille",
+            "skillId": "spaceship_skill_chr_0033_camille_1_1",
+            "skillIndex": 0,
+            "unlockHint": {
+              "id": "7523953265924505314",
+              "text": ""
+            }
+          },
+          {
+            "charId": "chr_0033_camille",
+            "skillId": "spaceship_skill_chr_0033_camille_1_2",
+            "skillIndex": 0,
+            "unlockHint": {
+              "id": "-4773318187807411504",
+              "text": ""
+            }
+          },
+          {
+            "charId": "chr_0033_camille",
+            "skillId": "spaceship_skill_chr_0033_camille_2_1",
+            "skillIndex": 1,
+            "unlockHint": {
+              "id": "-465779343243347658",
+              "text": ""
+            }
+          },
+          {
+            "charId": "chr_0033_camille",
+            "skillId": "spaceship_skill_chr_0033_camille_2_2",
+            "skillIndex": 1,
+            "unlockHint": {
+              "id": "-302503846357707041",
+              "text": ""
+            }
+          }
+        ]
+      },
+      "chr_0031_mifu": {
+        "maxSkillCount": 2,
+        "skillList": [
+          {
+            "charId": "chr_0031_mifu",
+            "skillId": "spaceship_skill_chr_0031_mifu_1_1",
+            "skillIndex": 0,
+            "unlockHint": {
+              "id": "-7003170432936282716",
+              "text": ""
+            }
+          },
+          {
+            "charId": "chr_0031_mifu",
+            "skillId": "spaceship_skill_chr_0031_mifu_1_2",
+            "skillIndex": 0,
+            "unlockHint": {
+              "id": "-2452917828620824514",
+              "text": ""
+            }
+          },
+          {
+            "charId": "chr_0031_mifu",
+            "skillId": "spaceship_skill_chr_0031_mifu_2_1",
+            "skillIndex": 1,
+            "unlockHint": {
+              "id": "7610294922688679934",
+              "text": ""
+            }
+          },
+          {
+            "charId": "chr_0031_mifu",
+            "skillId": "spaceship_skill_chr_0031_mifu_2_2",
+            "skillIndex": 1,
+            "unlockHint": {
+              "id": "-3405098507625422102",
+              "text": ""
+            }
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

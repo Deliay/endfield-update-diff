@@ -1,0 +1,27 @@
+{
+  "tableName": "FactoryConst",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 1,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "facBackUpPowerCooldownTime": 43200,
+      "facBackUpPowerDuration": 1800
+    },
+    "removed": {
+      "facBuildingItemCheckWhiteList": [
+        "battle_cannon_1_dg002",
+        "v_fluid_container_1",
+        "dumper_nop_1",
+        "liquid_clean_gate_1",
+        "liquid_recycle_gate_1"
+      ]
+    },
+    "changed": {}
+  }
+}

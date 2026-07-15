@@ -1,0 +1,433 @@
+{
+  "tableName": "DomainPoiTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 7
+  },
+  "entries": {
+    "added": {
+      "130": {
+        "domainPoiType": 130,
+        "icon": "",
+        "name": {
+          "id": "-8491583121220328814",
+          "text": ""
+        },
+        "noBackgroundIcon": "",
+        "overviewIcon": "icon_domain_overview_simulation_training",
+        "overviewSortId": 7,
+        "phaseId": "",
+        "smallIcon": "",
+        "unlockSystemType": 10000000,
+        "unlockToastTitle": {
+          "id": "-1448661583896529545",
+          "text": ""
+        },
+        "upgradeToastIcon": "title_simulation_training",
+        "upgradeToastTitle": {
+          "id": "8711564008232433753",
+          "text": ""
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "0": {
+        "oldValue": {
+          "domainPoiType": 0,
+          "icon": "",
+          "name": {
+            "id": "1407848635578830924",
+            "text": ""
+          },
+          "noBackgroundIcon": "",
+          "phaseId": "",
+          "smallIcon": "",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "upgradeToastIcon": "",
+          "upgradeToastTitle": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "newValue": {
+          "domainPoiType": 0,
+          "icon": "",
+          "name": {
+            "id": "1407848635578830924",
+            "text": ""
+          },
+          "noBackgroundIcon": "",
+          "overviewIcon": "",
+          "overviewSortId": 0,
+          "phaseId": "",
+          "smallIcon": "",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "upgradeToastIcon": "",
+          "upgradeToastTitle": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "changed": {
+          "overviewIcon": {
+            "type": "value",
+            "newValue": ""
+          },
+          "overviewSortId": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "1": {
+        "oldValue": {
+          "domainPoiType": 1,
+          "icon": "icon_domain_Manage",
+          "name": {
+            "id": "4257134894702039653",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_warfare",
+          "phaseId": "SettlementMain",
+          "smallIcon": "icon_domain_subscript_Manage",
+          "unlockSystemType": 501,
+          "unlockToastTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "upgradeToastIcon": "",
+          "upgradeToastTitle": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "newValue": {
+          "domainPoiType": 1,
+          "icon": "icon_domain_Manage",
+          "name": {
+            "id": "4257134894702039653",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_warfare",
+          "overviewIcon": "icon_domain_overview_settlement",
+          "overviewSortId": 5,
+          "phaseId": "SettlementMain",
+          "smallIcon": "icon_domain_subscript_Manage",
+          "unlockSystemType": 501,
+          "unlockToastTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "upgradeToastIcon": "",
+          "upgradeToastTitle": {
+            "id": 0,
+            "text": ""
+          }
+        },
+        "changed": {
+          "overviewIcon": {
+            "type": "value",
+            "newValue": "icon_domain_overview_settlement"
+          },
+          "overviewSortId": {
+            "type": "value",
+            "newValue": 5
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "domainPoiType": 2,
+          "icon": "icon_domain_shop",
+          "name": {
+            "id": "-3743161453472781007",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_shop",
+          "phaseId": "ShopTrade",
+          "smallIcon": "icon_domain_subscript_shop",
+          "unlockSystemType": 512,
+          "unlockToastTitle": {
+            "id": "-8433441794877016989",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_domain_shop",
+          "upgradeToastTitle": {
+            "id": "-74095688664215077",
+            "text": ""
+          }
+        },
+        "newValue": {
+          "domainPoiType": 2,
+          "icon": "icon_domain_shop",
+          "name": {
+            "id": "-3743161453472781007",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_shop",
+          "overviewIcon": "icon_domain_overview_domain_shop",
+          "overviewSortId": 4,
+          "phaseId": "ShopTrade",
+          "smallIcon": "icon_domain_subscript_shop",
+          "unlockSystemType": 512,
+          "unlockToastTitle": {
+            "id": "-8433441794877016989",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_domain_shop",
+          "upgradeToastTitle": {
+            "id": "-74095688664215077",
+            "text": ""
+          }
+        },
+        "changed": {
+          "overviewIcon": {
+            "type": "value",
+            "newValue": "icon_domain_overview_domain_shop"
+          },
+          "overviewSortId": {
+            "type": "value",
+            "newValue": 4
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "domainPoiType": 3,
+          "icon": "icon_domain_storage",
+          "name": {
+            "id": "8057997334701175059",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_storage",
+          "phaseId": "DomainDepotPackage",
+          "smallIcon": "icon_domain_subscript_storage",
+          "unlockSystemType": 503,
+          "unlockToastTitle": {
+            "id": "3396767340376120092",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_depot",
+          "upgradeToastTitle": {
+            "id": "3799056779145778245",
+            "text": ""
+          }
+        },
+        "newValue": {
+          "domainPoiType": 3,
+          "icon": "icon_domain_storage",
+          "name": {
+            "id": "8057997334701175059",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_storage",
+          "overviewIcon": "icon_domain_overview_domain_depot",
+          "overviewSortId": 3,
+          "phaseId": "DomainDepotPackage",
+          "smallIcon": "icon_domain_subscript_storage",
+          "unlockSystemType": 503,
+          "unlockToastTitle": {
+            "id": "3396767340376120092",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_depot",
+          "upgradeToastTitle": {
+            "id": "3799056779145778245",
+            "text": ""
+          }
+        },
+        "changed": {
+          "overviewIcon": {
+            "type": "value",
+            "newValue": "icon_domain_overview_domain_depot"
+          },
+          "overviewSortId": {
+            "type": "value",
+            "newValue": 3
+          }
+        }
+      },
+      "4": {
+        "oldValue": {
+          "domainPoiType": 4,
+          "icon": "icon_domain_kite_warfare",
+          "name": {
+            "id": "7280776804276681338",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_kite",
+          "phaseId": "KiteStation",
+          "smallIcon": "icon_domain_subscript_kite_warfare",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": "-10685539068576826",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_kitestation",
+          "upgradeToastTitle": {
+            "id": "3467812832235856231",
+            "text": ""
+          }
+        },
+        "newValue": {
+          "domainPoiType": 4,
+          "icon": "icon_domain_kite_warfare",
+          "name": {
+            "id": "7280776804276681338",
+            "text": ""
+          },
+          "noBackgroundIcon": "icon_domain_info_kite",
+          "overviewIcon": "icon_domain_overview_kite_station",
+          "overviewSortId": 2,
+          "phaseId": "KiteStation",
+          "smallIcon": "icon_domain_subscript_kite_warfare",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": "-10685539068576826",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_kitestation",
+          "upgradeToastTitle": {
+            "id": "3467812832235856231",
+            "text": ""
+          }
+        },
+        "changed": {
+          "overviewIcon": {
+            "type": "value",
+            "newValue": "icon_domain_overview_kite_station"
+          },
+          "overviewSortId": {
+            "type": "value",
+            "newValue": 2
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "domainPoiType": 5,
+          "icon": "",
+          "name": {
+            "id": "-4836129701012734250",
+            "text": ""
+          },
+          "noBackgroundIcon": "",
+          "phaseId": "",
+          "smallIcon": "",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": "-1255478167807355643",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_recycle",
+          "upgradeToastTitle": {
+            "id": "-6113610784800492282",
+            "text": ""
+          }
+        },
+        "newValue": {
+          "domainPoiType": 5,
+          "icon": "",
+          "name": {
+            "id": "-4836129701012734250",
+            "text": ""
+          },
+          "noBackgroundIcon": "",
+          "overviewIcon": "icon_domain_overview_recycle_bin",
+          "overviewSortId": 1,
+          "phaseId": "",
+          "smallIcon": "",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": "-1255478167807355643",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_recycle",
+          "upgradeToastTitle": {
+            "id": "-6113610784800492282",
+            "text": ""
+          }
+        },
+        "changed": {
+          "overviewIcon": {
+            "type": "value",
+            "newValue": "icon_domain_overview_recycle_bin"
+          },
+          "overviewSortId": {
+            "type": "value",
+            "newValue": 1
+          }
+        }
+      },
+      "120": {
+        "oldValue": {
+          "domainPoiType": 120,
+          "icon": "",
+          "name": {
+            "id": "-3763389965058743145",
+            "text": ""
+          },
+          "noBackgroundIcon": "",
+          "phaseId": "",
+          "smallIcon": "",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": "3610796113822095737",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_sewage_treat_plant",
+          "upgradeToastTitle": {
+            "id": "-5856109824106367089",
+            "text": ""
+          }
+        },
+        "newValue": {
+          "domainPoiType": 120,
+          "icon": "",
+          "name": {
+            "id": "-3763389965058743145",
+            "text": ""
+          },
+          "noBackgroundIcon": "",
+          "overviewIcon": "icon_domain_overview_sewage_treat_plan",
+          "overviewSortId": 6,
+          "phaseId": "",
+          "smallIcon": "",
+          "unlockSystemType": 10000000,
+          "unlockToastTitle": {
+            "id": "3610796113822095737",
+            "text": ""
+          },
+          "upgradeToastIcon": "title_sewage_treat_plant",
+          "upgradeToastTitle": {
+            "id": "-5856109824106367089",
+            "text": ""
+          }
+        },
+        "changed": {
+          "overviewIcon": {
+            "type": "value",
+            "newValue": "icon_domain_overview_sewage_treat_plan"
+          },
+          "overviewSortId": {
+            "type": "value",
+            "newValue": 6
+          }
+        }
+      }
+    }
+  }
+}

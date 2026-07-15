@@ -1,0 +1,1461 @@
+{
+  "tableName": "BattlePassTaskTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 80,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "bp_04_task_weekly_1_3": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "id": "7741519819490134486",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 103,
+        "taskId": "bp_04_task_weekly_1_3"
+      },
+      "bp_04_task_weekly_1_2": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_03_condition_weekly_1_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "id": "-6307272539406270218",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 102,
+        "taskId": "bp_04_task_weekly_1_2"
+      },
+      "bp_04_task_activity_2_1": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_2_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_contingency_contract_0",
+        "name": {
+          "id": "3846498786182663283",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 411,
+        "taskId": "bp_04_task_activity_2_1"
+      },
+      "bp_04_task_weekly_1_4": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_1",
+        "jumpId": "jump_dungeon_char",
+        "name": {
+          "id": "4329365725541096498",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 104,
+        "taskId": "bp_04_task_weekly_1_4"
+      },
+      "bp_04_task_weekly_1_7": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_1",
+        "jumpId": "jump_gacha",
+        "name": {
+          "id": "-2385540621106730573",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 107,
+        "taskId": "bp_04_task_weekly_1_7"
+      },
+      "bp_04_task_activity_2_4": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_2_4"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_contingency_contract_0",
+        "name": {
+          "id": "3439721914053383149",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 414,
+        "taskId": "bp_04_task_activity_2_4"
+      },
+      "bp_04_task_weekly_1_6": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_4_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "id": "-7887597479250489703",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 106,
+        "taskId": "bp_04_task_weekly_1_6"
+      },
+      "bp_04_task_activity_2_5": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_2_5"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_contingency_contract_0",
+        "name": {
+          "id": "7670410898877273104",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 415,
+        "taskId": "bp_04_task_activity_2_5"
+      },
+      "bp_04_task_weekly_1_1": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "id": "1849301367681315007",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 101,
+        "taskId": "bp_04_task_weekly_1_1"
+      },
+      "bp_04_task_weekly_5_5": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_04_condition_weekly_5_5"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_5",
+        "jumpId": "jump_domain_shop_wuling",
+        "name": {
+          "id": "5509037877394078533",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 145,
+        "taskId": "bp_04_task_weekly_5_5"
+      },
+      "bp_04_task_weekly_1_5": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_04_condition_weekly_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "id": "2116820043299344764",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 105,
+        "taskId": "bp_04_task_weekly_1_5"
+      },
+      "bp_04_task_weekly_6_5": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_04_condition_weekly_6_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "id": "-6343886197724001450",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 155,
+        "taskId": "bp_04_task_weekly_6_5"
+      },
+      "bp_04_task_season_1_6": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "jump_domain_wuling",
+        "name": {
+          "id": "5771329052946640195",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 206,
+        "taskId": "bp_04_task_season_1_6"
+      },
+      "bp_04_task_weekly_6_6": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_04_condition_weekly_6_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "id": "-4794118547134957117",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 156,
+        "taskId": "bp_04_task_weekly_6_6"
+      },
+      "bp_04_task_weekly_6_7": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_condition_weekly_6_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "id": "-2775793331344097230",
+          "text": ""
+        },
+        "opType": 2,
+        "sortId": 157,
+        "taskId": "bp_04_task_weekly_6_7"
+      },
+      "bp_04_task_weekly_4_5": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_04_condition_weekly_4_5"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_4",
+        "jumpId": "",
+        "name": {
+          "id": "-2347857061355189711",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 135,
+        "taskId": "bp_04_task_weekly_4_5"
+      },
+      "bp_04_task_season_1_8": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_8"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "id": "-6061319891581604276",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 208,
+        "taskId": "bp_04_task_season_1_8"
+      },
+      "bp_04_task_season_1_7": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_7"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "id": "6463582377968306610",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 207,
+        "taskId": "bp_04_task_season_1_7"
+      },
+      "bp_04_task_season_1_1": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "jump_mission_activity_CharacterGuide_mifu",
+        "name": {
+          "id": "-6792883034780296464",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 201,
+        "taskId": "bp_04_task_season_1_1"
+      },
+      "bp_04_task_season_1_2": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "jump_mission_activity_CharacterGuide_camille",
+        "name": {
+          "id": "-1134175985634147366",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 202,
+        "taskId": "bp_04_task_season_1_2"
+      },
+      "bp_04_task_season_1_5": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "id": "-6141322182120841804",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 205,
+        "taskId": "bp_04_task_season_1_5"
+      },
+      "bp_03_task_seasoncatchup_1_2": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_03_condition_seasoncatchup_1_2_1",
+          "bp_03_condition_seasoncatchup_1_2_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_03_taskgroup_catchup",
+        "jumpId": "jump_dungeon_enemy_spawner",
+        "name": {
+          "id": "-313493601616294517",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 302,
+        "taskId": "bp_03_task_seasoncatchup_1_2"
+      },
+      "bp_04_task_season_1_3": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "jump_mission_bp_sm2l6m1",
+        "name": {
+          "id": "-9000657242814394132",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 203,
+        "taskId": "bp_04_task_season_1_3"
+      },
+      "bp_03_task_activity_4_1": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_03_condition_activity_4_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_03_taskgroup_activity_4",
+        "jumpId": "jump_center_activity_submit_food_2",
+        "name": {
+          "id": "-724044038318775988",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 431,
+        "taskId": "bp_03_task_activity_4_1"
+      },
+      "bp_04_task_seasoncatchup_1_1": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "id": "-5837832678248721345",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 301,
+        "taskId": "bp_04_task_seasoncatchup_1_1"
+      },
+      "bp_04_task_weekly_5_6": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_04_condition_weekly_5_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_5",
+        "jumpId": "jump_kitestation_wuling",
+        "name": {
+          "id": "-1790749298985326092",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 146,
+        "taskId": "bp_04_task_weekly_5_6"
+      },
+      "bp_04_task_season_1_10": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_10"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "jump_domain_settlement_hongs",
+        "name": {
+          "id": "4821053556198028534",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 210,
+        "taskId": "bp_04_task_season_1_10"
+      },
+      "bp_04_task_weekly_5_4": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_02_condition_weekly_5_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_5",
+        "jumpId": "jump_domain_shop_wuling",
+        "name": {
+          "id": "8774468127842461336",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 144,
+        "taskId": "bp_04_task_weekly_5_4"
+      },
+      "bp_04_task_weekly_5_3": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_condition_weekly_4_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_5",
+        "jumpId": "jump_gem_enhance",
+        "name": {
+          "id": "3209524710645790007",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 143,
+        "taskId": "bp_04_task_weekly_5_3"
+      },
+      "bp_04_task_weekly_4_4": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_02_condition_weekly_2_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_4",
+        "jumpId": "jump_weapon",
+        "name": {
+          "id": "4751217318893044784",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 134,
+        "taskId": "bp_04_task_weekly_4_4"
+      },
+      "bp_04_task_weekly_4_7": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_condition_weekly_4_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_4",
+        "jumpId": "jump_payshop_weapon",
+        "name": {
+          "id": "6892144820720106034",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 137,
+        "taskId": "bp_04_task_weekly_4_7"
+      },
+      "bp_04_task_weekly_4_6": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_04_condition_weekly_4_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_6",
+        "jumpId": "jump_manul_craft",
+        "name": {
+          "id": "2262558353411900750",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 136,
+        "taskId": "bp_04_task_weekly_4_6"
+      },
+      "bp_04_task_weekly_3_7": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_weekly_3_7"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "id": "-8063115854586601920",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 127,
+        "taskId": "bp_04_task_weekly_3_7"
+      },
+      "bp_04_task_weekly_3_4": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_weekly_3_4"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "id": "-2839838603743786989",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 124,
+        "taskId": "bp_04_task_weekly_3_4"
+      },
+      "bp_04_task_seasoncatchup_1_8": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_8"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "id": "795036562518189829",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 308,
+        "taskId": "bp_04_task_seasoncatchup_1_8"
+      },
+      "bp_04_task_season_1_4": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "id": "3605530309287695273",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 204,
+        "taskId": "bp_04_task_season_1_4"
+      },
+      "bp_03_task_activity_4_2": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_03_condition_activity_4_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_03_taskgroup_activity_4",
+        "jumpId": "jump_center_activity_submit_food_2",
+        "name": {
+          "id": "3153430053527491914",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 432,
+        "taskId": "bp_03_task_activity_4_2"
+      },
+      "bp_03_task_activity_4_3": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_03_condition_activity_4_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_03_taskgroup_activity_4",
+        "jumpId": "jump_center_activity_submit_food_2",
+        "name": {
+          "id": "-5648086897581460789",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 433,
+        "taskId": "bp_03_task_activity_4_3"
+      },
+      "bp_04_task_season_1_12": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_12"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "id": "-7012544990672290888",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 212,
+        "taskId": "bp_04_task_season_1_12"
+      },
+      "bp_04_task_seasoncatchup_1_9": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_9"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "id": "962852472336834217",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 309,
+        "taskId": "bp_04_task_seasoncatchup_1_9"
+      },
+      "bp_04_task_activity_1_1": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_1_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_activity_1",
+        "jumpId": "jump_center_activity_high_difficulty_v1d3",
+        "name": {
+          "id": "-102104098658178803",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 401,
+        "taskId": "bp_04_task_activity_1_1"
+      },
+      "bp_04_task_activity_1_2": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_1_2_1",
+          "bp_04_condition_activity_1_2_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_activity_1",
+        "jumpId": "jump_center_activity_high_difficulty_v1d3",
+        "name": {
+          "id": "4312295555736173302",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 402,
+        "taskId": "bp_04_task_activity_1_2"
+      },
+      "bp_04_task_activity_1_3": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_1_3_1",
+          "bp_04_condition_activity_1_3_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_activity_1",
+        "jumpId": "jump_center_activity_high_difficulty_v1d3",
+        "name": {
+          "id": "5098615072993415672",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 403,
+        "taskId": "bp_04_task_activity_1_3"
+      },
+      "bp_04_task_activity_1_4": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_1_4_1",
+          "bp_04_condition_activity_1_4_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_activity_1",
+        "jumpId": "jump_center_activity_high_difficulty_v1d3",
+        "name": {
+          "id": "1131133057444787639",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 404,
+        "taskId": "bp_04_task_activity_1_4"
+      },
+      "bp_04_task_activity_2_2": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_2_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_contingency_contract_0",
+        "name": {
+          "id": "195289490552006230",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 412,
+        "taskId": "bp_04_task_activity_2_2"
+      },
+      "bp_04_task_activity_2_3": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_2_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_contingency_contract_0",
+        "name": {
+          "id": "-8640089077828374420",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 413,
+        "taskId": "bp_04_task_activity_2_3"
+      },
+      "bp_04_task_activity_2_6": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_04_condition_activity_2_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_contingency_contract_0",
+        "name": {
+          "id": "-9155516812903427999",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 416,
+        "taskId": "bp_04_task_activity_2_6"
+      },
+      "bp_04_task_activity_3_1": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_activity_3_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_activity_3",
+        "jumpId": "jump_center_activity_phototaking_carly_2",
+        "name": {
+          "id": "8041458296371269599",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 421,
+        "taskId": "bp_04_task_activity_3_1"
+      },
+      "bp_04_task_weekly_2_1": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_04_condition_weekly_2_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "id": "1207716508142342782",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 111,
+        "taskId": "bp_04_task_weekly_2_1"
+      },
+      "bp_04_task_activity_3_2": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_activity_3_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_activity_3",
+        "jumpId": "jump_center_activity_phototaking_carly_2",
+        "name": {
+          "id": "8791330854713418151",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 422,
+        "taskId": "bp_04_task_activity_3_2"
+      },
+      "bp_04_task_activity_3_3": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_activity_3_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_activity_3",
+        "jumpId": "jump_center_activity_phototaking_carly_2",
+        "name": {
+          "id": "8132773968211248418",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 423,
+        "taskId": "bp_04_task_activity_3_3"
+      },
+      "bp_04_task_season_1_11": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_11"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "id": "-497842159216428805",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 211,
+        "taskId": "bp_04_task_season_1_11"
+      },
+      "bp_04_task_season_1_9": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_04_condition_season_1_9"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "id": "-7322981004024795776",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 209,
+        "taskId": "bp_04_task_season_1_9"
+      },
+      "bp_04_task_seasoncatchup_1_2": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "id": "8753864310855350144",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 302,
+        "taskId": "bp_04_task_seasoncatchup_1_2"
+      },
+      "bp_04_task_seasoncatchup_1_3": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "jump_dungeon_enemy_spawner",
+        "name": {
+          "id": "6052774066994943080",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 303,
+        "taskId": "bp_04_task_seasoncatchup_1_3"
+      },
+      "bp_04_task_weekly_2_2": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_condition_weekly_2_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_2",
+        "jumpId": "jump_equip_produce",
+        "name": {
+          "id": "-3121985916613141486",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 112,
+        "taskId": "bp_04_task_weekly_2_2"
+      },
+      "bp_04_task_seasoncatchup_1_4": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "jump_map_camp_fire",
+        "name": {
+          "id": "3437350879524936125",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 304,
+        "taskId": "bp_04_task_seasoncatchup_1_4"
+      },
+      "bp_04_task_seasoncatchup_1_5": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "id": "156563552284673302",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 305,
+        "taskId": "bp_04_task_seasoncatchup_1_5"
+      },
+      "bp_04_task_seasoncatchup_1_6": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "jump_dungeon_enemy_spawner",
+        "name": {
+          "id": "-161281121456966472",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 306,
+        "taskId": "bp_04_task_seasoncatchup_1_6"
+      },
+      "bp_04_task_seasoncatchup_1_7": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_04_condition_seasoncatchup_1_7"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_catchup",
+        "jumpId": "jump_dungeon_char",
+        "name": {
+          "id": "1687339079228569707",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 307,
+        "taskId": "bp_04_task_seasoncatchup_1_7"
+      },
+      "bp_04_task_weekly_2_3": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_04_condition_weekly_2_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "id": "4272562053421488893",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 113,
+        "taskId": "bp_04_task_weekly_2_3"
+      },
+      "bp_04_task_weekly_2_4": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_condition_weekly_2_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_2",
+        "jumpId": "jump_dungeon_enemy_spawner",
+        "name": {
+          "id": "2558948081868868397",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 114,
+        "taskId": "bp_04_task_weekly_2_4"
+      },
+      "bp_04_task_weekly_2_5": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_04_condition_weekly_2_5"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "id": "-6707577088859675759",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 115,
+        "taskId": "bp_04_task_weekly_2_5"
+      },
+      "bp_04_task_weekly_2_6": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_04_condition_weekly_2_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_2",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "id": "-2337865315444010546",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 116,
+        "taskId": "bp_04_task_weekly_2_6"
+      },
+      "bp_04_task_weekly_2_7": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_04_condition_weekly_2_7"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "id": "-8028201109573669378",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 117,
+        "taskId": "bp_04_task_weekly_2_7"
+      },
+      "bp_04_task_weekly_3_1": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_condition_weekly_3_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "id": "-5797217651400233939",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 121,
+        "taskId": "bp_04_task_weekly_3_1"
+      },
+      "bp_04_task_weekly_3_2": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_weekly_3_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_3",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "id": "3949329073385853668",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 122,
+        "taskId": "bp_04_task_weekly_3_2"
+      },
+      "bp_04_task_weekly_3_3": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_weekly_3_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "id": "-7349899961184755720",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 123,
+        "taskId": "bp_04_task_weekly_3_3"
+      },
+      "bp_04_task_weekly_3_5": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_weekly_3_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "id": "241237592422835529",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 125,
+        "taskId": "bp_04_task_weekly_3_5"
+      },
+      "bp_04_task_weekly_3_6": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_weekly_3_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "id": "-5096744999293572126",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 126,
+        "taskId": "bp_04_task_weekly_3_6"
+      },
+      "bp_04_task_weekly_4_1": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_04_condition_weekly_4_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_4",
+        "jumpId": "",
+        "name": {
+          "id": "-5601975679842748096",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 131,
+        "taskId": "bp_04_task_weekly_4_1"
+      },
+      "bp_04_task_weekly_4_2": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_02_condition_weekly_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_4",
+        "jumpId": "jump_char_level_upgrade",
+        "name": {
+          "id": "-7613542709624087114",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 132,
+        "taskId": "bp_04_task_weekly_4_2"
+      },
+      "bp_04_task_weekly_4_3": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_04_condition_weekly_4_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_4",
+        "jumpId": "",
+        "name": {
+          "id": "4336757196538541707",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 133,
+        "taskId": "bp_04_task_weekly_4_3"
+      },
+      "bp_04_task_weekly_5_1": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_04_condition_weekly_5_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_5",
+        "jumpId": "",
+        "name": {
+          "id": "3662320572781439214",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 141,
+        "taskId": "bp_04_task_weekly_5_1"
+      },
+      "bp_04_task_weekly_5_2": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_04_condition_weekly_5_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_5",
+        "jumpId": "",
+        "name": {
+          "id": "8561211335472120990",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 142,
+        "taskId": "bp_04_task_weekly_5_2"
+      },
+      "bp_04_task_weekly_5_7": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_condition_weekly_4_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_5",
+        "jumpId": "jump_equip_enhance",
+        "name": {
+          "id": "-829825028058600541",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 147,
+        "taskId": "bp_04_task_weekly_5_7"
+      },
+      "bp_04_task_weekly_6_1": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_04_condition_weekly_6_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_6",
+        "jumpId": "jump_payshop_credit",
+        "name": {
+          "id": "2169336084124653479",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 151,
+        "taskId": "bp_04_task_weekly_6_1"
+      },
+      "bp_04_task_weekly_6_2": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_03_condition_weekly_6_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_6",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "id": "-3482424993388064038",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 152,
+        "taskId": "bp_04_task_weekly_6_2"
+      },
+      "bp_04_task_weekly_6_3": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_02_condition_weekly_6_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_04_taskgroup_weekly_4",
+        "jumpId": "jump_weapon",
+        "name": {
+          "id": "5489154154129627214",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 153,
+        "taskId": "bp_04_task_weekly_6_3"
+      },
+      "bp_04_task_weekly_6_4": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_04_condition_weekly_6_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_04_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "id": "-5728776915463759013",
+          "text": ""
+        },
+        "opType": 1,
+        "sortId": 154,
+        "taskId": "bp_04_task_weekly_6_4"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

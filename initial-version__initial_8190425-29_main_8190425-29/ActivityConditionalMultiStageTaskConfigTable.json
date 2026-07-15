@@ -1,0 +1,460 @@
+{
+  "tableName": "ActivityConditionalMultiStageTaskConfigTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_contingency_contract_0": {
+        "TaskConfigMap": {
+          "activity_contingency_contract_0_task_1_1": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_1_1_condition"
+            ],
+            "desc": {
+              "id": "3991257293098673300",
+              "text": ""
+            },
+            "jumpId": "jump_contingency_contract_task_1_1",
+            "rewardId": "reward_activity_contingency_contract_0_task_1_1",
+            "sortId": 1,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_1",
+            "taskId": "activity_contingency_contract_0_task_1_1",
+            "unlockTimeId": ""
+          },
+          "activity_contingency_contract_0_task_1_2": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_1_2_condition"
+            ],
+            "desc": {
+              "id": "6179458848942391582",
+              "text": ""
+            },
+            "jumpId": "jump_contingency_contract_task_1_2",
+            "rewardId": "reward_activity_contingency_contract_0_task_1_2",
+            "sortId": 6,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_1",
+            "taskId": "activity_contingency_contract_0_task_1_2",
+            "unlockTimeId": "time_activity_contingency_contract_0_task_5"
+          },
+          "activity_contingency_contract_0_task_1_3": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_1_3_condition"
+            ],
+            "desc": {
+              "id": "9114723366409445451",
+              "text": ""
+            },
+            "jumpId": "jump_contingency_contract_task_1_3",
+            "rewardId": "reward_activity_contingency_contract_0_task_1_3",
+            "sortId": 3,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_1",
+            "taskId": "activity_contingency_contract_0_task_1_3",
+            "unlockTimeId": "time_activity_contingency_contract_0_task_2"
+          },
+          "activity_contingency_contract_0_task_1_4": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_1_4_condition"
+            ],
+            "desc": {
+              "id": "2322599249638286377",
+              "text": ""
+            },
+            "jumpId": "jump_contingency_contract_task_1_4",
+            "rewardId": "reward_activity_contingency_contract_0_task_1_4",
+            "sortId": 4,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_1",
+            "taskId": "activity_contingency_contract_0_task_1_4",
+            "unlockTimeId": "time_activity_contingency_contract_0_task_3"
+          },
+          "activity_contingency_contract_0_task_2_1": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_2_1_condition"
+            ],
+            "desc": {
+              "id": "-5523324624707298547",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_contingency_contract_0_task_2_1",
+            "sortId": 8,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_2",
+            "taskId": "activity_contingency_contract_0_task_2_1",
+            "unlockTimeId": ""
+          },
+          "activity_contingency_contract_0_task_1_5": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_1_5_condition"
+            ],
+            "desc": {
+              "id": "-1800992466616895683",
+              "text": ""
+            },
+            "jumpId": "jump_contingency_contract_task_1_5",
+            "rewardId": "reward_activity_contingency_contract_0_task_1_5",
+            "sortId": 5,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_1",
+            "taskId": "activity_contingency_contract_0_task_1_5",
+            "unlockTimeId": "time_activity_contingency_contract_0_task_4"
+          },
+          "activity_contingency_contract_0_task_2_2": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_2_2_condition"
+            ],
+            "desc": {
+              "id": "2520244324326953263",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_contingency_contract_0_task_2_2",
+            "sortId": 9,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_2",
+            "taskId": "activity_contingency_contract_0_task_2_2",
+            "unlockTimeId": ""
+          },
+          "activity_contingency_contract_0_task_1_6": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_1_6_condition"
+            ],
+            "desc": {
+              "id": "-27883489193225987",
+              "text": ""
+            },
+            "jumpId": "jump_contingency_contract_task_1_6",
+            "rewardId": "reward_activity_contingency_contract_0_task_1_6",
+            "sortId": 2,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_1",
+            "taskId": "activity_contingency_contract_0_task_1_6",
+            "unlockTimeId": "time_activity_contingency_contract_0_task_1"
+          },
+          "activity_contingency_contract_0_task_2_3": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_2_3_condition"
+            ],
+            "desc": {
+              "id": "-1580518533787029560",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_contingency_contract_0_task_2_3",
+            "sortId": 10,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_2",
+            "taskId": "activity_contingency_contract_0_task_2_3",
+            "unlockTimeId": ""
+          },
+          "activity_contingency_contract_0_task_1_7": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_1_7_condition"
+            ],
+            "desc": {
+              "id": "7857393627901657794",
+              "text": ""
+            },
+            "jumpId": "jump_contingency_contract_task_1_7",
+            "rewardId": "reward_activity_contingency_contract_0_task_1_7",
+            "sortId": 7,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_1",
+            "taskId": "activity_contingency_contract_0_task_1_7",
+            "unlockTimeId": "time_activity_contingency_contract_0_task_6"
+          },
+          "activity_contingency_contract_0_task_2_4": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_2_4_condition"
+            ],
+            "desc": {
+              "id": "-2788073723361403115",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_contingency_contract_0_task_2_4",
+            "sortId": 11,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_2",
+            "taskId": "activity_contingency_contract_0_task_2_4",
+            "unlockTimeId": ""
+          },
+          "activity_contingency_contract_0_task_3_1": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_3_1_condition"
+            ],
+            "desc": {
+              "id": "5496272367976756509",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_contingency_contract_0_task_3_1",
+            "sortId": 13,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_3",
+            "taskId": "activity_contingency_contract_0_task_3_1",
+            "unlockTimeId": ""
+          },
+          "activity_contingency_contract_0_task_3_2": {
+            "completeConditionId": [
+              "activity_contingency_contract_0_task_3_2_condition"
+            ],
+            "desc": {
+              "id": "4909786721677676314",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_contingency_contract_0_task_3_2",
+            "sortId": 14,
+            "taskGroupId": "activity_contingency_contract_0_taskgroup_3",
+            "taskId": "activity_contingency_contract_0_task_3_2",
+            "unlockTimeId": ""
+          }
+        }
+      },
+      "activity_simulation_training_1": {
+        "TaskConfigMap": {
+          "SimulationTraining_task1": {
+            "completeConditionId": [
+              "SimulationTraining_task1_condition"
+            ],
+            "desc": {
+              "id": "-5346133976527074236",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission1",
+            "sortId": 1,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task1",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task10": {
+            "completeConditionId": [
+              "SimulationTraining_task10_condition"
+            ],
+            "desc": {
+              "id": "-4408566852595776892",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission10",
+            "sortId": 10,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task10",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task11": {
+            "completeConditionId": [
+              "SimulationTraining_task11_condition"
+            ],
+            "desc": {
+              "id": "6915935839820870652",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission11",
+            "sortId": 11,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task11",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task4": {
+            "completeConditionId": [
+              "SimulationTraining_task4_condition"
+            ],
+            "desc": {
+              "id": "-1997176740273299381",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission4",
+            "sortId": 4,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task4",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task12": {
+            "completeConditionId": [
+              "SimulationTraining_task12_condition"
+            ],
+            "desc": {
+              "id": "5498378555215583036",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission12",
+            "sortId": 12,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task12",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task13": {
+            "completeConditionId": [
+              "SimulationTraining_task13_condition"
+            ],
+            "desc": {
+              "id": "-4883262473597312838",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission13",
+            "sortId": 13,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task13",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task8": {
+            "completeConditionId": [
+              "SimulationTraining_task8_condition"
+            ],
+            "desc": {
+              "id": "-5801378885274779586",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission8",
+            "sortId": 8,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task8",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task14": {
+            "completeConditionId": [
+              "SimulationTraining_task14_condition"
+            ],
+            "desc": {
+              "id": "-5445194686113380039",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission14",
+            "sortId": 14,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task14",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task15": {
+            "completeConditionId": [
+              "SimulationTraining_task15_condition"
+            ],
+            "desc": {
+              "id": "8709835379416631593",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission15",
+            "sortId": 15,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task15",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task16": {
+            "completeConditionId": [
+              "SimulationTraining_task16_condition"
+            ],
+            "desc": {
+              "id": "7096140742368446933",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission16",
+            "sortId": 16,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task16",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task2": {
+            "completeConditionId": [
+              "SimulationTraining_task2_condition"
+            ],
+            "desc": {
+              "id": "3378913819099146933",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission2",
+            "sortId": 2,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task2",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task3": {
+            "completeConditionId": [
+              "SimulationTraining_task3_condition"
+            ],
+            "desc": {
+              "id": "-2679491089198913183",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission3",
+            "sortId": 3,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task3",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task7": {
+            "completeConditionId": [
+              "SimulationTraining_task7_condition"
+            ],
+            "desc": {
+              "id": "1502384481727127090",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission7",
+            "sortId": 7,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task7",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task5": {
+            "completeConditionId": [
+              "SimulationTraining_task5_condition"
+            ],
+            "desc": {
+              "id": "1182479589155956939",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission5",
+            "sortId": 5,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task5",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task6": {
+            "completeConditionId": [
+              "SimulationTraining_task6_condition"
+            ],
+            "desc": {
+              "id": "-6110806612775219490",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission6",
+            "sortId": 6,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task6",
+            "unlockTimeId": ""
+          },
+          "SimulationTraining_task9": {
+            "completeConditionId": [
+              "SimulationTraining_task9_condition"
+            ],
+            "desc": {
+              "id": "6898047705308983842",
+              "text": ""
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_simulation_training_1_mission9",
+            "sortId": 9,
+            "taskGroupId": "",
+            "taskId": "SimulationTraining_task9",
+            "unlockTimeId": ""
+          }
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

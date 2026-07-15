@@ -1,0 +1,80 @@
+{
+  "tableName": "AttributeMetaTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "1": {
+        "oldValue": {
+          "attributeType": 1,
+          "bigIconName": "",
+          "defaultValue": 1,
+          "hasMaxValue": false,
+          "hasMinValue": false,
+          "iconName": "icon_attribute_maxHp",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "newValue": {
+          "attributeType": 1,
+          "bigIconName": "",
+          "defaultValue": 1,
+          "hasMaxValue": false,
+          "hasMinValue": true,
+          "iconName": "icon_attribute_maxHp",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "changed": {
+          "hasMinValue": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          }
+        }
+      },
+      "23": {
+        "oldValue": {
+          "attributeType": 23,
+          "bigIconName": "",
+          "defaultValue": 1,
+          "hasMaxValue": false,
+          "hasMinValue": true,
+          "iconName": "",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "newValue": {
+          "attributeType": 23,
+          "bigIconName": "",
+          "defaultValue": 0,
+          "hasMaxValue": false,
+          "hasMinValue": false,
+          "iconName": "",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "changed": {
+          "defaultValue": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          },
+          "hasMinValue": {
+            "type": "value",
+            "oldValue": true,
+            "newValue": false
+          }
+        }
+      }
+    }
+  }
+}

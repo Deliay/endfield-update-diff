@@ -1,0 +1,109 @@
+{
+  "tableName": "WikiTutorialPageByEntryTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 12,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "wiki_tut_adv_banana_peel": {
+        "pageIds": [
+          "wiki_tut_adv_banana_peel_1"
+        ]
+      },
+      "wiki_tut_adv_charging_rail": {
+        "pageIds": [
+          "wiki_tut_adv_charging_rail_1"
+        ]
+      },
+      "wiki_tut_adv_rune_tablet_3": {
+        "pageIds": [
+          "wiki_tut_adv_rune_tablet_3_1"
+        ]
+      },
+      "wiki_tut_adv_erosion_barrier": {
+        "pageIds": [
+          "wiki_tut_adv_erosion_barrier_1"
+        ]
+      },
+      "wiki_tut_sys_gem_wishlist": {
+        "pageIds": [
+          "wiki_tut_sys_gem_wishlist_1"
+        ]
+      },
+      "wiki_tut_adv_rolling_stone": {
+        "pageIds": [
+          "wiki_tut_adv_rolling_stone_1"
+        ]
+      },
+      "wiki_tut_adv_rune_tablet_1": {
+        "pageIds": [
+          "wiki_tut_adv_rune_tablet_1_1"
+        ]
+      },
+      "wiki_tut_adv_rune_tablet_2": {
+        "pageIds": [
+          "wiki_tut_adv_rune_tablet_2_1"
+        ]
+      },
+      "wiki_tut_fac_backup_power": {
+        "pageIds": [
+          "wiki_tut_fac_backup_power_1",
+          "wiki_tut_fac_backup_power_2",
+          "wiki_tut_fac_backup_power_3"
+        ]
+      },
+      "wiki_tut_sys_simulation_training": {
+        "pageIds": [
+          "wiki_tut_sys_simulation_training_1",
+          "wiki_tut_sys_simulation_training_2"
+        ]
+      },
+      "wiki_tut_fac_liquid_clean_node": {
+        "pageIds": [
+          "wiki_tut_fac_liquid_clean_node_1",
+          "wiki_tut_fac_liquid_clean_node_2"
+        ]
+      },
+      "wiki_tut_fac_liquid_clean_node_2": {
+        "pageIds": [
+          "wiki_tut_fac_liquid_clean_node_2_1"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "wiki_tut_sys_equip_enhance": {
+        "oldValue": {
+          "pageIds": [
+            "wiki_tut_sys_equip_enhance_1",
+            "wiki_tut_sys_equip_enhance_2",
+            "wiki_tut_sys_equip_enhance_3",
+            "wiki_tut_sys_equip_enhance_4",
+            "wiki_tut_sys_equip_enhance_5"
+          ]
+        },
+        "newValue": {
+          "pageIds": [
+            "wiki_tut_sys_equip_enhance_1",
+            "wiki_tut_sys_equip_enhance_2",
+            "wiki_tut_sys_equip_enhance_3",
+            "wiki_tut_sys_equip_enhance_4",
+            "wiki_tut_sys_equip_enhance_5",
+            "wiki_tut_sys_equip_enhance_6"
+          ]
+        },
+        "changed": {
+          "pageIds[5]": {
+            "type": "value",
+            "newValue": "wiki_tut_sys_equip_enhance_6"
+          }
+        }
+      }
+    }
+  }
+}

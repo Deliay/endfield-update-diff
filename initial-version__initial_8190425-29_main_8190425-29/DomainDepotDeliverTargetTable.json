@@ -1,0 +1,477 @@
+{
+  "tableName": "DomainDepotDeliverTargetTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 5
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "deliver_target_map01_lv005_03": {
+        "oldValue": {
+          "deliverTargetId": "deliver_target_map01_lv005_03",
+          "domainId": "domain_1",
+          "entityType": 1,
+          "level": "map01_lv005",
+          "missionObjDesc": {
+            "id": "3917041138697300660",
+            "text": ""
+          },
+          "targetId": "fabian_map01_lv0053"
+        },
+        "newValue": {
+          "deliverTargetId": "deliver_target_map01_lv005_03",
+          "domainId": "domain_1",
+          "entityType": 1,
+          "level": "map01_lv005",
+          "missionObjDesc": {
+            "id": "2747201015080907365",
+            "text": ""
+          },
+          "targetId": "depot_jiana_map01_v1d3d0_002"
+        },
+        "changed": {
+          "missionObjDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Entregue as mercadorias a <@qu.key>Fabian Collins</> e mantenha-as em boas condições",
+                "newText": "Entregue as mercadorias a <@qu.key>Jana</> e mantenha-as em boas condições"
+              },
+              "CN": {
+                "oldText": "把货物尽可能完整地交给<@qu.key>法比安·柯林斯</>",
+                "newText": "把货物尽可能完整地交给<@qu.key>嘉娜</>"
+              },
+              "DE": {
+                "oldText": "Bringe die Güter in gutem Zustand zu <@qu.key>Fabian Collins</>.",
+                "newText": "Bringe die Güter in gutem Zustand zu <@qu.key>Jana</>."
+              },
+              "EN": {
+                "oldText": "Deliver the goods to <@qu.key>Fabian Collins</> and keep them in good shape",
+                "newText": "Deliver the goods to <@qu.key>Jana</> and keep them in good shape"
+              },
+              "FR": {
+                "oldText": "Livrez la marchandise à <@qu.key>Fabian Collins</> en bon état.",
+                "newText": "Livrez la marchandise à <@qu.key>Jana</> en bon état."
+              },
+              "ID": {
+                "oldText": "Antarkan barang kepada <@qu.key>Fabian Collins</> dan pastikan kondisi barangnya bagus",
+                "newText": "Antarkan barang kepada <@qu.key>Jana</> dan pastikan kondisi barangnya bagus"
+              },
+              "IT": {
+                "oldText": "Consegna gli oggetti a <@qu.key>Fabian Collins</> e mantienili in buono stato.",
+                "newText": "Consegna gli oggetti a <@qu.key>Jana</> e mantienili in buono stato."
+              },
+              "JP": {
+                "oldText": "荷物をできるだけ損傷させずに<@qu.key>ファビアン・コリンズ</>に届ける",
+                "newText": "荷物をできるだけ損傷させずに<@qu.key>ヤナ</>に届ける"
+              },
+              "KR": {
+                "oldText": "화물을 최대한 온전한 상태로 <@qu.key>파비안 콜린스</>에게 전달하기",
+                "newText": "화물을 최대한 온전한 상태로 <@qu.key>야나</>에게 전달하기"
+              },
+              "MX": {
+                "oldText": "Entrégale las mercancías a <@qu.key>Fabian Collins</> y evita que se dañen",
+                "newText": "Entrega las mercancías a <@qu.key>Jana</> y manténlas en buen estado"
+              },
+              "RU": {
+                "oldText": "Доставьте <@qu.key>Фабиану Коллинзу</> товары в хорошем состоянии",
+                "newText": "Доставьте <@qu.key>Джане</> товары в хорошем состоянии"
+              },
+              "TC": {
+                "oldText": "盡可能完整地把貨物交給<@qu.key>法比安·柯林斯</>",
+                "newText": "盡可能完整地把貨物交給<@qu.key>嘉娜</>"
+              },
+              "TH": {
+                "oldText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​ฟา​เบียน​ คอล​ลิน​ส์​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม",
+                "newText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​จา​นา​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม"
+              },
+              "VN": {
+                "oldText": "Giao hàng cho <@qu.key>Fabian Collins</> và đảm bảo chúng còn nguyên vẹn",
+                "newText": "Giao hàng cho <@qu.key>Jana</> và đảm bảo hàng còn nguyên vẹn"
+              }
+            }
+          },
+          "targetId": {
+            "type": "value",
+            "oldValue": "fabian_map01_lv0053",
+            "newValue": "depot_jiana_map01_v1d3d0_002"
+          }
+        }
+      },
+      "deliver_target_map01_lv006_01": {
+        "oldValue": {
+          "deliverTargetId": "deliver_target_map01_lv006_01",
+          "domainId": "domain_1",
+          "entityType": 1,
+          "level": "map01_lv006",
+          "missionObjDesc": {
+            "id": "131645728018579359",
+            "text": ""
+          },
+          "targetId": "yueyisheng_map01_default"
+        },
+        "newValue": {
+          "deliverTargetId": "deliver_target_map01_lv006_01",
+          "domainId": "domain_1",
+          "entityType": 1,
+          "level": "map01_lv006",
+          "missionObjDesc": {
+            "id": "1920669416405474254",
+            "text": ""
+          },
+          "targetId": "depot_mataiao_map01_v1d3d0_002"
+        },
+        "changed": {
+          "missionObjDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Entregue as mercadorias ao <@qu.key>Oficial Médico Yue</> e mantenha-as em boas condições",
+                "newText": "Entregue as mercadorias a <@qu.key>Matteo</> e mantenha-as em boas condições"
+              },
+              "CN": {
+                "oldText": "把货物尽可能完整地交给<@qu.key>越医生</>",
+                "newText": "把货物尽可能完整地交给<@qu.key>马泰奥</>"
+              },
+              "DE": {
+                "oldText": "Bringe die Güter in gutem Zustand zu <@qu.key>Stabsarzt Yue</>.",
+                "newText": "Bringe die Güter in gutem Zustand zu <@qu.key>Matteo</>."
+              },
+              "EN": {
+                "oldText": "Deliver the goods to <@qu.key>Medical Officer Yue</> and keep them in good shape",
+                "newText": "Deliver the goods to <@qu.key>Matteo</> and keep them in good shape"
+              },
+              "FR": {
+                "oldText": "Livrez la marchandise à l'<@qu.key>officier médical Yue</> en bon état.",
+                "newText": "Livrez la marchandise à <@qu.key>Matteo</> en bon état."
+              },
+              "ID": {
+                "oldText": "Antarkan barang kepada <@qu.key>Petugas Medis Yue</> dan pastikan kondisi barangnya bagus",
+                "newText": "Antarkan barang kepada <@qu.key>Matteo</> dan pastikan kondisi barangnya bagus"
+              },
+              "IT": {
+                "oldText": "Consegna gli oggetti all'<@qu.key>ufficiale medico Yue</> e mantienili in buono stato.",
+                "newText": "Consegna gli oggetti a <@qu.key>Matteo</> e mantienili in buono stato."
+              },
+              "JP": {
+                "oldText": "荷物をできるだけ損傷させずに<@qu.key>ユエ先生</>に届ける",
+                "newText": "荷物をできるだけ損傷させずに<@qu.key>マッテオ</>に届ける"
+              },
+              "KR": {
+                "oldText": "화물을 최대한 온전한 상태로 <@qu.key>닥터 월</>에게 전달하기",
+                "newText": "화물을 최대한 온전한 상태로 <@qu.key>마테오</>에게 전달하기"
+              },
+              "MX": {
+                "oldText": "Entrégale las mercancías al <@qu.key>Oficial médico Yue</> y evita que se dañen",
+                "newText": "Entrega las mercancías a <@qu.key>Matteo</> y manténlas en buen estado"
+              },
+              "RU": {
+                "oldText": "Доставьте <@qu.key>медику Юэ</> товары в хорошем состоянии",
+                "newText": "Доставьте <@qu.key>Маттео</> товары в хорошем состоянии"
+              },
+              "TC": {
+                "oldText": "盡可能完整地把貨物交給<@qu.key>越醫生</>",
+                "newText": "盡可能完整地把貨物交給<@qu.key>馬泰奧</>"
+              },
+              "TH": {
+                "oldText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​เจ้าหน้าที่​แพทย์​เย​ว่​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม",
+                "newText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​มัต​เต​โอ​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม"
+              },
+              "VN": {
+                "oldText": "Giao hàng cho <@qu.key>Bác Sĩ Yue</> và đảm bảo chúng còn nguyên vẹn",
+                "newText": "Giao hàng cho <@qu.key>Matteo</> và đảm bảo hàng còn nguyên vẹn"
+              }
+            }
+          },
+          "targetId": {
+            "type": "value",
+            "oldValue": "yueyisheng_map01_default",
+            "newValue": "depot_mataiao_map01_v1d3d0_002"
+          }
+        }
+      },
+      "deliver_target_map02_lv002_02": {
+        "oldValue": {
+          "deliverTargetId": "deliver_target_map02_lv002_02",
+          "domainId": "domain_2",
+          "entityType": 1,
+          "level": "map02_lv002",
+          "missionObjDesc": {
+            "id": "-7446312605758276032",
+            "text": ""
+          },
+          "targetId": "changgeng_map02_default"
+        },
+        "newValue": {
+          "deliverTargetId": "deliver_target_map02_lv002_02",
+          "domainId": "domain_2",
+          "entityType": 1,
+          "level": "map02_lv002",
+          "missionObjDesc": {
+            "id": "-7359192645700001937",
+            "text": ""
+          },
+          "targetId": "depot_pulimo_map02_v1d3d0_002"
+        },
+        "changed": {
+          "missionObjDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Entregue as mercadorias a <@qu.key>Chang Yun</> e mantenha-as em boas condições",
+                "newText": "Entregue as mercadorias a <@qu.key>Primo Linde</> e mantenha-as em boas condições"
+              },
+              "CN": {
+                "oldText": "把货物尽可能完整地交给<@qu.key>常沄</>",
+                "newText": "把货物尽可能完整地交给<@qu.key>普里莫·林德</>"
+              },
+              "DE": {
+                "oldText": "Bringe die Güter in gutem Zustand zu <@qu.key>Chang Yun</>.",
+                "newText": "Bringe die Güter in gutem Zustand zu <@qu.key>Primo Linde</>."
+              },
+              "EN": {
+                "oldText": "Deliver the goods to <@qu.key>Chang Yun</> and keep them in good shape",
+                "newText": "Deliver the goods to <@qu.key>Primo Linde</> and keep them in good shape"
+              },
+              "FR": {
+                "oldText": "Livrez la marchandise à <@qu.key>Chang Yun</> en bon état.",
+                "newText": "Livrez la marchandise à <@qu.key>Primo Linde</> en bon état."
+              },
+              "ID": {
+                "oldText": "Antarkan barang kepada <@qu.key>Chang Yun</> dan pastikan kondisi barangnya bagus",
+                "newText": "Antarkan barang kepada <@qu.key>Primo Linde</> dan pastikan kondisi barangnya bagus"
+              },
+              "IT": {
+                "oldText": "Consegna gli oggetti a <@qu.key>Chang Yun</> e mantienili in buono stato.",
+                "newText": "Consegna gli oggetti a <@qu.key>Primo Linde</> e mantienili in buono stato."
+              },
+              "JP": {
+                "oldText": "荷物をできるだけ損傷させずに<@qu.key>チャン・ユン</>に届ける",
+                "newText": "荷物をできるだけ損傷させずに<@qu.key>プリモ・リンデ</>に届ける"
+              },
+              "KR": {
+                "oldText": "화물을 최대한 온전한 상태로 <@qu.key>상운</>에게 전달하기",
+                "newText": "화물을 최대한 온전한 상태로 <@qu.key>프리모 린데</>에게 전달하기"
+              },
+              "MX": {
+                "oldText": "Entrégale las mercancías a <@qu.key>Chang Yun</> y evita que se dañen",
+                "newText": "Entrega las mercancías a <@qu.key>Primo Linde</> y manténlas en buen estado"
+              },
+              "RU": {
+                "oldText": "Доставьте товары <@qu.key>Чан Юнь</> в хорошем состоянии",
+                "newText": "Доставьте <@qu.key>Примо Линде</> товары в хорошем состоянии"
+              },
+              "TC": {
+                "oldText": "盡可能完整地把貨物交給<@qu.key>常澐</>",
+                "newText": "盡可能完整地把貨物交給<@qu.key>普里莫·林德</>"
+              },
+              "TH": {
+                "oldText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​ชาง​ ห​ยุ​น​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม",
+                "newText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​ปรี​โม​ ลิน​ด์​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม"
+              },
+              "VN": {
+                "oldText": "Giao hàng cho <@qu.key>Chang Yun</> và đảm bảo chúng còn nguyên vẹn",
+                "newText": "Giao hàng cho <@qu.key>Primo Linde</> và đảm bảo hàng còn nguyên vẹn"
+              }
+            }
+          },
+          "targetId": {
+            "type": "value",
+            "oldValue": "changgeng_map02_default",
+            "newValue": "depot_pulimo_map02_v1d3d0_002"
+          }
+        }
+      },
+      "deliver_target_map02_lv002_01": {
+        "oldValue": {
+          "deliverTargetId": "deliver_target_map02_lv002_01",
+          "domainId": "domain_2",
+          "entityType": 1,
+          "level": "map02_lv002",
+          "missionObjDesc": {
+            "id": "-1137935125865301192",
+            "text": ""
+          },
+          "targetId": "yanning_map02_default"
+        },
+        "newValue": {
+          "deliverTargetId": "deliver_target_map02_lv002_01",
+          "domainId": "domain_2",
+          "entityType": 1,
+          "level": "map02_lv002",
+          "missionObjDesc": {
+            "id": "-438941804407626079",
+            "text": ""
+          },
+          "targetId": "depot_subaiyi_map02_v1d3d0_002"
+        },
+        "changed": {
+          "missionObjDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Entregue as mercadorias a <@qu.key>Yan Ning</> e mantenha-as em boas condições",
+                "newText": "Entregue as mercadorias a <@qu.key>Su Baiyi</> e mantenha-as em boas condições"
+              },
+              "CN": {
+                "oldText": "把货物尽可能完整地交给<@qu.key>彦宁</>",
+                "newText": "把货物尽可能完整地交给<@qu.key>苏白易</>"
+              },
+              "DE": {
+                "oldText": "Bringe die Güter in gutem Zustand zu <@qu.key>Yan Ning</>.",
+                "newText": "Bringe die Güter in gutem Zustand zu <@qu.key>Su Baiyi</>."
+              },
+              "EN": {
+                "oldText": "Deliver the goods to <@qu.key>Yan Ning</> and keep them in good shape",
+                "newText": "Deliver the goods to <@qu.key>Su Baiyi</> and keep them in good shape"
+              },
+              "FR": {
+                "oldText": "Livrez la marchandise à <@qu.key>Yan Ning</> en bon état.",
+                "newText": "Livrez la marchandise à <@qu.key>Su Baiyi</> en bon état."
+              },
+              "ID": {
+                "oldText": "Antarkan barang kepada <@qu.key>Yan Ning</> dan pastikan kondisi barangnya bagus",
+                "newText": "Antarkan barang kepada <@qu.key>Su Baiyi</> dan pastikan kondisi barangnya bagus"
+              },
+              "IT": {
+                "oldText": "Consegna gli oggetti a <@qu.key>Yan Ning</> e mantienili in buono stato.",
+                "newText": "Consegna gli oggetti a <@qu.key>Su Baiyi</> e mantienili in buono stato."
+              },
+              "JP": {
+                "oldText": "荷物をできるだけ損傷させずに<@qu.key>イェン・ニン</>に届ける",
+                "newText": "荷物をできるだけ損傷させずに<@qu.key>スー・バイイー</>に届ける"
+              },
+              "KR": {
+                "oldText": "화물을 최대한 온전한 상태로 <@qu.key>언녕</>에게 전달하기",
+                "newText": "화물을 최대한 온전한 상태로 <@qu.key>소백이</>에게 전달하기"
+              },
+              "MX": {
+                "oldText": "Entrégale las mercancías a <@qu.key>Yan Ning</> y evita que se dañen",
+                "newText": "Entrega las mercancías a <@qu.key>Su Baiyi</> y manténlas en buen estado"
+              },
+              "RU": {
+                "oldText": "Доставьте товары <@qu.key>Янь Нин</> в хорошем состоянии",
+                "newText": "Доставьте <@qu.key>Су Байи</> товары в хорошем состоянии"
+              },
+              "TC": {
+                "oldText": "盡可能完整地把貨物交給<@qu.key>彥寧</>",
+                "newText": "盡可能完整地把貨物交給<@qu.key>蘇白易</>"
+              },
+              "TH": {
+                "oldText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​หยา​น​หนิง​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม",
+                "newText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​ซู​ ไป๋​อี​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม"
+              },
+              "VN": {
+                "oldText": "Giao hàng cho <@qu.key>Yan Ning</> và đảm bảo chúng còn nguyên vẹn",
+                "newText": "Giao hàng cho <@qu.key>Su Baiyi</> và đảm bảo hàng còn nguyên vẹn"
+              }
+            }
+          },
+          "targetId": {
+            "type": "value",
+            "oldValue": "yanning_map02_default",
+            "newValue": "depot_subaiyi_map02_v1d3d0_002"
+          }
+        }
+      },
+      "deliver_target_map02_lv002_03": {
+        "oldValue": {
+          "deliverTargetId": "deliver_target_map02_lv002_03",
+          "domainId": "domain_2",
+          "entityType": 1,
+          "level": "map02_lv002",
+          "missionObjDesc": {
+            "id": "421745230884747632",
+            "text": ""
+          },
+          "targetId": "qiguan_map02_default"
+        },
+        "newValue": {
+          "deliverTargetId": "deliver_target_map02_lv002_03",
+          "domainId": "domain_2",
+          "entityType": 1,
+          "level": "map02_lv002",
+          "missionObjDesc": {
+            "id": "8155643572963993922",
+            "text": ""
+          },
+          "targetId": "depot_yushi_map02_v1d3d0_002"
+        },
+        "changed": {
+          "missionObjDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Entregue as mercadorias a <@qu.key>Qi Lun</> e mantenha-as em boas condições",
+                "newText": "Entregue as mercadorias a <@qu.key>Yu Shi</> e mantenha-as em boas condições"
+              },
+              "CN": {
+                "oldText": "把货物尽可能完整地交给<@qu.key>齐纶</>",
+                "newText": "把货物尽可能完整地交给<@qu.key>于施</>"
+              },
+              "DE": {
+                "oldText": "Bringe die Güter in gutem Zustand zu <@qu.key>Qi Lun</>.",
+                "newText": "Bringe die Güter in gutem Zustand zu <@qu.key>Yu Shi</>."
+              },
+              "EN": {
+                "oldText": "Deliver the goods to <@qu.key>Qi Lun</> and keep them in good shape",
+                "newText": "Deliver the goods to <@qu.key>Yu Shi</> and keep them in good shape"
+              },
+              "FR": {
+                "oldText": "Livrez la marchandise à <@qu.key>Qi Lun</> en bon état.",
+                "newText": "Livrez la marchandise à <@qu.key>Yu Shi</> en bon état."
+              },
+              "ID": {
+                "oldText": "Antarkan barang kepada <@qu.key>Qi Lun</> dan pastikan kondisi barangnya bagus",
+                "newText": "Antarkan barang kepada <@qu.key>Yu Shi</> dan pastikan kondisi barangnya bagus"
+              },
+              "IT": {
+                "oldText": "Consegna gli oggetti a <@qu.key>Qi Lun</> e mantienili in buono stato.",
+                "newText": "Consegna gli oggetti a <@qu.key>Yu Shi</> e mantienili in buono stato."
+              },
+              "JP": {
+                "oldText": "荷物をできるだけ損傷させずに<@qu.key>チー・ルン</>に届ける",
+                "newText": "荷物をできるだけ損傷させずに<@qu.key>ユウ・シー</>に届ける"
+              },
+              "KR": {
+                "oldText": "화물을 최대한 온전한 상태로 <@qu.key>제륜</>에게 전달하기",
+                "newText": "화물을 최대한 온전한 상태로 <@qu.key>우시</>에게 전달하기"
+              },
+              "MX": {
+                "oldText": "Entrégale las mercancías a <@qu.key>Qi Lun</> y evita que se dañen",
+                "newText": "Entrega las mercancías a <@qu.key>Yu Shi</> y manténlas en buen estado"
+              },
+              "RU": {
+                "oldText": "Доставьте товары <@qu.key>Ци Лунь</> в хорошем состоянии",
+                "newText": "Доставьте <@qu.key>Юй Ши</> товары в хорошем состоянии"
+              },
+              "TC": {
+                "oldText": "盡可能完整地把貨物交給<@qu.key>齊綸</>",
+                "newText": "盡可能完整地把貨物交給<@qu.key>于施</>"
+              },
+              "TH": {
+                "oldText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​ชี่​ หลุน​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม",
+                "newText": "ส่งสินค้า​ถึง​มือ​<@qu.key>​อ​วี่​ซือ​</> โดย​ดูแลรักษา​สินค้า​ให้​อยู่​ใน​สภาพ​ดีเยี่ยม"
+              },
+              "VN": {
+                "oldText": "Giao hàng cho <@qu.key>Qi Lun</> và đảm bảo chúng còn nguyên vẹn",
+                "newText": "Giao hàng cho <@qu.key>Yu Shi</> và đảm bảo hàng còn nguyên vẹn"
+              }
+            }
+          },
+          "targetId": {
+            "type": "value",
+            "oldValue": "qiguan_map02_default",
+            "newValue": "depot_yushi_map02_v1d3d0_002"
+          }
+        }
+      }
+    }
+  }
+}

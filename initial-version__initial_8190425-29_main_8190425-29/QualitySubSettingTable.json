@@ -1,0 +1,690 @@
+{
+  "tableName": "QualitySubSettingTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 16
+  },
+  "entries": {
+    "added": {
+      "video_quality_volumetriccloud": {
+        "settingGroupTitle": {
+          "id": 0,
+          "text": ""
+        },
+        "settingId": "video_quality_volumetriccloud",
+        "settingSortOrder": 7,
+        "settingText": {
+          "id": "-826626507549122093",
+          "text": ""
+        },
+        "validPlatform": [
+          "OSXPlayer",
+          "WindowsPlayer",
+          "IPhonePlayer",
+          "Android"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "video_quality_framegen_mobile": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_framegen_mobile",
+          "settingSortOrder": 19,
+          "settingText": {
+            "id": "6830979222770037105",
+            "text": ""
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_framegen_mobile",
+          "settingSortOrder": 20,
+          "settingText": {
+            "id": "6830979222770037105",
+            "text": ""
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 19,
+            "newValue": 20
+          }
+        }
+      },
+      "video_quality_anisoLevel": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_anisoLevel",
+          "settingSortOrder": 7,
+          "settingText": {
+            "id": "2607689814826942764",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_anisoLevel",
+          "settingSortOrder": 8,
+          "settingText": {
+            "id": "2607689814826942764",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 7,
+            "newValue": 8
+          }
+        }
+      },
+      "video_quality_ao": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_ao",
+          "settingSortOrder": 8,
+          "settingText": {
+            "id": "6497397442180262036",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_ao",
+          "settingSortOrder": 9,
+          "settingText": {
+            "id": "6497397442180262036",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 8,
+            "newValue": 9
+          }
+        }
+      },
+      "video_quality_chromatic_aberration": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_chromatic_aberration",
+          "settingSortOrder": 12,
+          "settingText": {
+            "id": "-5893054657086214463",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_chromatic_aberration",
+          "settingSortOrder": 13,
+          "settingText": {
+            "id": "-5893054657086214463",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 13
+          }
+        }
+      },
+      "video_quality_contactshadow": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_contactshadow",
+          "settingSortOrder": 22,
+          "settingText": {
+            "id": "1632427775157828261",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_contactshadow",
+          "settingSortOrder": 23,
+          "settingText": {
+            "id": "1632427775157828261",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 22,
+            "newValue": 23
+          }
+        }
+      },
+      "video_quality_dlss_mode": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_dlss_mode",
+          "settingSortOrder": 16,
+          "settingText": {
+            "id": "5047767565620145107",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_dlss_mode",
+          "settingSortOrder": 17,
+          "settingText": {
+            "id": "5047767565620145107",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 16,
+            "newValue": 17
+          }
+        }
+      },
+      "video_quality_dlssg_mode": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_dlssg_mode",
+          "settingSortOrder": 20,
+          "settingText": {
+            "id": "1775237376113440637",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_dlssg_mode",
+          "settingSortOrder": 21,
+          "settingText": {
+            "id": "1775237376113440637",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 20,
+            "newValue": 21
+          }
+        }
+      },
+      "video_quality_environment_renderfeature": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_environment_renderfeature",
+          "settingSortOrder": 10,
+          "settingText": {
+            "id": "4488968169919581537",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_environment_renderfeature",
+          "settingSortOrder": 11,
+          "settingText": {
+            "id": "4488968169919581537",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 11
+          }
+        }
+      },
+      "video_quality_scene_detail": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_scene_detail",
+          "settingSortOrder": 9,
+          "settingText": {
+            "id": "8256588393862924989",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_scene_detail",
+          "settingSortOrder": 10,
+          "settingText": {
+            "id": "8256588393862924989",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 9,
+            "newValue": 10
+          }
+        }
+      },
+      "video_quality_fsr3_mode": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_fsr3_mode",
+          "settingSortOrder": 17,
+          "settingText": {
+            "id": "7502649257896623830",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_fsr3_mode",
+          "settingSortOrder": 18,
+          "settingText": {
+            "id": "7502649257896623830",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 18
+          }
+        }
+      },
+      "video_quality_grass_sparsity": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_grass_sparsity",
+          "settingSortOrder": 11,
+          "settingText": {
+            "id": "8606616819802115817",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_grass_sparsity",
+          "settingSortOrder": 12,
+          "settingText": {
+            "id": "8606616819802115817",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 12
+          }
+        }
+      },
+      "video_quality_ray_tracing": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_ray_tracing",
+          "settingSortOrder": 14,
+          "settingText": {
+            "id": "-1391547716967997189",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_ray_tracing",
+          "settingSortOrder": 15,
+          "settingText": {
+            "id": "-1391547716967997189",
+            "text": ""
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 14,
+            "newValue": 15
+          }
+        }
+      },
+      "video_quality_reflex": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_reflex",
+          "settingSortOrder": 21,
+          "settingText": {
+            "id": "7272982652606006678",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_reflex",
+          "settingSortOrder": 22,
+          "settingText": {
+            "id": "7272982652606006678",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 21,
+            "newValue": 22
+          }
+        }
+      },
+      "video_quality_screenspacereflection": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_screenspacereflection",
+          "settingSortOrder": 13,
+          "settingText": {
+            "id": "-6219321932050611134",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_screenspacereflection",
+          "settingSortOrder": 14,
+          "settingText": {
+            "id": "-6219321932050611134",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 13,
+            "newValue": 14
+          }
+        }
+      },
+      "video_quality_sharpness": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_sharpness",
+          "settingSortOrder": 18,
+          "settingText": {
+            "id": "3916648142720956409",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_sharpness",
+          "settingSortOrder": 19,
+          "settingText": {
+            "id": "3916648142720956409",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 18,
+            "newValue": 19
+          }
+        }
+      },
+      "video_quality_upscaler": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_upscaler",
+          "settingSortOrder": 15,
+          "settingText": {
+            "id": "3282551139016912506",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "video_quality_upscaler",
+          "settingSortOrder": 16,
+          "settingText": {
+            "id": "3282551139016912506",
+            "text": ""
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 15,
+            "newValue": 16
+          }
+        }
+      }
+    }
+  }
+}

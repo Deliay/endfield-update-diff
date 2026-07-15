@@ -1,0 +1,70 @@
+{
+  "tableName": "CashShopGroupTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "shop_pay_gift_pack": {
+        "oldValue": {
+          "cashShopIds": [
+            "Seasonal_Rec_pack",
+            "Newbie_pack",
+            "Permanent_pack",
+            "SP_weapon_supply",
+            "MCard",
+            "BP"
+          ],
+          "icon": "icon_type_shop_package",
+          "shopGroupId": "shop_pay_gift_pack",
+          "shopGroupName": {
+            "id": "-4904153334750790321",
+            "text": ""
+          },
+          "shopGroupType": 5
+        },
+        "newValue": {
+          "cashShopIds": [
+            "Seasonal_Rec_pack",
+            "Newbie_pack",
+            "Permanent_pack",
+            "SP_weapon_supply",
+            "Fest_pack",
+            "MCard",
+            "BP"
+          ],
+          "icon": "icon_type_shop_package",
+          "shopGroupId": "shop_pay_gift_pack",
+          "shopGroupName": {
+            "id": "-4904153334750790321",
+            "text": ""
+          },
+          "shopGroupType": 5
+        },
+        "changed": {
+          "cashShopIds[4]": {
+            "type": "value",
+            "oldValue": "MCard",
+            "newValue": "Fest_pack"
+          },
+          "cashShopIds[5]": {
+            "type": "value",
+            "oldValue": "BP",
+            "newValue": "MCard"
+          },
+          "cashShopIds[6]": {
+            "type": "value",
+            "newValue": "BP"
+          }
+        }
+      }
+    }
+  }
+}

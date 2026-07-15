@@ -1,0 +1,135 @@
+{
+  "tableName": "FactoryDomainItemTransmissionTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "domain_2": {
+        "oldValue": {
+          "domainId": "domain_2",
+          "levelToCapacity": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "999": 800
+          },
+          "levelToIsFinalMaxCapacity": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false,
+            "13": false,
+            "14": false,
+            "15": false,
+            "999": false
+          },
+          "routeNum": 1,
+          "unlockLevel": 999,
+          "unlockLosslessLevel": 999
+        },
+        "newValue": {
+          "domainId": "domain_2",
+          "levelToCapacity": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "999": 800
+          },
+          "levelToIsFinalMaxCapacity": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false,
+            "13": false,
+            "14": false,
+            "15": false,
+            "16": false,
+            "17": false,
+            "18": false,
+            "999": false
+          },
+          "routeNum": 1,
+          "unlockLevel": 999,
+          "unlockLosslessLevel": 999
+        },
+        "changed": {
+          "levelToCapacity.16": {
+            "type": "value",
+            "newValue": 0
+          },
+          "levelToCapacity.17": {
+            "type": "value",
+            "newValue": 0
+          },
+          "levelToCapacity.18": {
+            "type": "value",
+            "newValue": 0
+          },
+          "levelToIsFinalMaxCapacity.16": {
+            "type": "value",
+            "newValue": false
+          },
+          "levelToIsFinalMaxCapacity.17": {
+            "type": "value",
+            "newValue": false
+          },
+          "levelToIsFinalMaxCapacity.18": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      }
+    }
+  }
+}

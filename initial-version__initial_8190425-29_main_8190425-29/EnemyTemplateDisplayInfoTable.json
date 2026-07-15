@@ -1,0 +1,593 @@
+{
+  "tableName": "EnemyTemplateDisplayInfoTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 8
+  },
+  "entries": {
+    "added": {
+      "eny_0113_jzogre": {
+        "abilityDescIds": [
+          "eny_0113_jzogre_ability_1",
+          "eny_0113_jzogre_ability_2",
+          "eny_0113_jzogre_ability_3"
+        ],
+        "description": {
+          "id": "75531198160714944",
+          "text": ""
+        },
+        "displayType": 1,
+        "distributionIds": [
+          "distribution_map02_lv006",
+          "distribution_world_energy_point09"
+        ],
+        "name": {
+          "id": "295449142567345260",
+          "text": ""
+        },
+        "nickname": {
+          "id": "3711255973056296786",
+          "text": ""
+        },
+        "tags": [],
+        "templateId": "eny_0113_jzogre"
+      },
+      "eny_0112_jzmonk": {
+        "abilityDescIds": [
+          "eny_0112_jzmonk_ability_1"
+        ],
+        "description": {
+          "id": "-8028310211062910127",
+          "text": ""
+        },
+        "displayType": 0,
+        "distributionIds": [
+          "distribution_map02_lv006",
+          "distribution_world_energy_point09"
+        ],
+        "name": {
+          "id": "-8347000063039496887",
+          "text": ""
+        },
+        "nickname": {
+          "id": "-3235828017824127998",
+          "text": ""
+        },
+        "tags": [],
+        "templateId": "eny_0112_jzmonk"
+      },
+      "eny_0114_jzmking": {
+        "abilityDescIds": [
+          "eny_0114_jzmking_ability_1",
+          "eny_0114_jzmking_ability_2",
+          "eny_0114_jzmking_ability_3"
+        ],
+        "description": {
+          "id": "-3914154235760552555",
+          "text": ""
+        },
+        "displayType": 4,
+        "distributionIds": [
+          "distribution_map02_lv006"
+        ],
+        "name": {
+          "id": "6083470905099728923",
+          "text": ""
+        },
+        "nickname": {
+          "id": "7009167366294293483",
+          "text": ""
+        },
+        "tags": [],
+        "templateId": "eny_0114_jzmking"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "eny_0053_hsmob": {
+        "oldValue": {
+          "abilityDescIds": [
+            "common_ability"
+          ],
+          "description": {
+            "id": "-1801465324836874571",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv002",
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "1938233717056426111",
+            "text": ""
+          },
+          "nickname": {
+            "id": "1803747511157418834",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0053_hsmob"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "common_ability"
+          ],
+          "description": {
+            "id": "-1801465324836874571",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv002",
+            "distribution_map02_lv003",
+            "distribution_map02_lv006",
+            "distribution_world_energy_point06",
+            "distribution_world_energy_point09"
+          ],
+          "name": {
+            "id": "1938233717056426111",
+            "text": ""
+          },
+          "nickname": {
+            "id": "1803747511157418834",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0053_hsmob"
+        },
+        "changed": {
+          "distributionIds[2]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point06",
+            "newValue": "distribution_map02_lv006"
+          },
+          "distributionIds[3]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point06"
+          },
+          "distributionIds[4]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point09"
+          }
+        }
+      },
+      "eny_0054_hsmino": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0054_hsmino_ability_1",
+            "eny_0054_hsmino_ability_2"
+          ],
+          "description": {
+            "id": "-8813113789780665694",
+            "text": ""
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "-3791384460171709626",
+            "text": ""
+          },
+          "nickname": {
+            "id": "1071938780723053670",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0054_hsmino"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0054_hsmino_ability_1",
+            "eny_0054_hsmino_ability_2"
+          ],
+          "description": {
+            "id": "-8813113789780665694",
+            "text": ""
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_map02_lv006",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "-3791384460171709626",
+            "text": ""
+          },
+          "nickname": {
+            "id": "1071938780723053670",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0054_hsmino"
+        },
+        "changed": {
+          "distributionIds[1]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point06",
+            "newValue": "distribution_map02_lv006"
+          },
+          "distributionIds[2]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point06"
+          }
+        }
+      },
+      "eny_0055_hscrane": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0055_hscrane_ability_1",
+            "eny_0055_hscrane_ability_2",
+            "eny_0055_hscrane_ability_3"
+          ],
+          "description": {
+            "id": "7027512943750743102",
+            "text": ""
+          },
+          "displayType": 3,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "-6031223014429131378",
+            "text": ""
+          },
+          "nickname": {
+            "id": "-7099425648732583738",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0055_hscrane"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0055_hscrane_ability_1",
+            "eny_0055_hscrane_ability_2",
+            "eny_0055_hscrane_ability_3"
+          ],
+          "description": {
+            "id": "7027512943750743102",
+            "text": ""
+          },
+          "displayType": 3,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06",
+            "distribution_world_energy_point09"
+          ],
+          "name": {
+            "id": "-6031223014429131378",
+            "text": ""
+          },
+          "nickname": {
+            "id": "-7099425648732583738",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0055_hscrane"
+        },
+        "changed": {
+          "distributionIds[2]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point09"
+          }
+        }
+      },
+      "eny_0067_hound2": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0067_hound2_ability_1"
+          ],
+          "description": {
+            "id": "-6915170238545594685",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv005",
+            "distribution_map01_lv007",
+            "distribution_world_energy_point02"
+          ],
+          "name": {
+            "id": "-3144313163575584752",
+            "text": ""
+          },
+          "nickname": {
+            "id": "6289799813280234468",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0067_hound2"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0067_hound2_ability_1"
+          ],
+          "description": {
+            "id": "-6915170238545594685",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv005",
+            "distribution_map01_lv007",
+            "distribution_map02_lv006",
+            "distribution_world_energy_point02"
+          ],
+          "name": {
+            "id": "-3144313163575584752",
+            "text": ""
+          },
+          "nickname": {
+            "id": "6289799813280234468",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0067_hound2"
+        },
+        "changed": {
+          "distributionIds[3]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point02",
+            "newValue": "distribution_map02_lv006"
+          },
+          "distributionIds[4]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point02"
+          }
+        }
+      },
+      "eny_0084_hshunt": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0084_hshunt_ability_1"
+          ],
+          "description": {
+            "id": "-7752755685855442573",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv002",
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "-7779822213847230355",
+            "text": ""
+          },
+          "nickname": {
+            "id": "118921649022292104",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0084_hshunt"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0084_hshunt_ability_1"
+          ],
+          "description": {
+            "id": "-7752755685855442573",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv002",
+            "distribution_map02_lv003",
+            "distribution_map02_lv006",
+            "distribution_world_energy_point06",
+            "distribution_world_energy_point09"
+          ],
+          "name": {
+            "id": "-7779822213847230355",
+            "text": ""
+          },
+          "nickname": {
+            "id": "118921649022292104",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0084_hshunt"
+        },
+        "changed": {
+          "distributionIds[2]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point06",
+            "newValue": "distribution_map02_lv006"
+          },
+          "distributionIds[3]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point06"
+          },
+          "distributionIds[4]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point09"
+          }
+        }
+      },
+      "eny_0085_hsrogue": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0085_hsrogue_ability_1"
+          ],
+          "description": {
+            "id": "-8581812470502446724",
+            "text": ""
+          },
+          "displayType": 3,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "-3524967956669841227",
+            "text": ""
+          },
+          "nickname": {
+            "id": "2315371562442577536",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0085_hsrogue"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0085_hsrogue_ability_1"
+          ],
+          "description": {
+            "id": "-8581812470502446724",
+            "text": ""
+          },
+          "displayType": 3,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06",
+            "distribution_world_energy_point09"
+          ],
+          "name": {
+            "id": "-3524967956669841227",
+            "text": ""
+          },
+          "nickname": {
+            "id": "2315371562442577536",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0085_hsrogue"
+        },
+        "changed": {
+          "distributionIds[2]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point09"
+          }
+        }
+      },
+      "eny_0097_hsmino2": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0054_hsmino_ability_1",
+            "eny_0054_hsmino_ability_2"
+          ],
+          "description": {
+            "id": "279901383596601772",
+            "text": ""
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv003"
+          ],
+          "name": {
+            "id": "4372060807768386595",
+            "text": ""
+          },
+          "nickname": {
+            "id": "-8734981425349654483",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0097_hsmino2"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0054_hsmino_ability_1",
+            "eny_0054_hsmino_ability_2"
+          ],
+          "description": {
+            "id": "279901383596601772",
+            "text": ""
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv006"
+          ],
+          "name": {
+            "id": "4372060807768386595",
+            "text": ""
+          },
+          "nickname": {
+            "id": "-8734981425349654483",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0097_hsmino2"
+        },
+        "changed": {
+          "distributionIds[0]": {
+            "type": "value",
+            "oldValue": "distribution_map02_lv003",
+            "newValue": "distribution_map02_lv006"
+          }
+        }
+      },
+      "eny_0103_hshunt2": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0084_hshunt_ability_1"
+          ],
+          "description": {
+            "id": "6806376305713827979",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "-3749144735019506377",
+            "text": ""
+          },
+          "nickname": {
+            "id": "-6756049402462126099",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0103_hshunt2"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0084_hshunt_ability_1"
+          ],
+          "description": {
+            "id": "6806376305713827979",
+            "text": ""
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv006",
+            "distribution_world_energy_point06"
+          ],
+          "name": {
+            "id": "-3749144735019506377",
+            "text": ""
+          },
+          "nickname": {
+            "id": "-6756049402462126099",
+            "text": ""
+          },
+          "tags": [],
+          "templateId": "eny_0103_hshunt2"
+        },
+        "changed": {
+          "distributionIds[0]": {
+            "type": "value",
+            "oldValue": "distribution_map02_lv003",
+            "newValue": "distribution_map02_lv006"
+          }
+        }
+      }
+    }
+  }
+}

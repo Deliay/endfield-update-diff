@@ -1,0 +1,662 @@
+{
+  "tableName": "AdventureTaskTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 4
+  },
+  "entries": {
+    "added": {
+      "daily_012": {
+        "adventureBookStage": 0,
+        "adventureTaskId": "daily_012",
+        "conditionDataList": [
+          {
+            "conditionId": "cond_daily_012",
+            "conditionType": 6507,
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  520
+                ],
+                "valueIntList": [
+                  520
+                ],
+                "valueStringList": [
+                  "520"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1
+          }
+        ],
+        "jumpSystemId": "jump_domain_tundra",
+        "rewardId": "reward_daily_20",
+        "sortId": 90,
+        "taskDesc": {
+          "id": "-725335628114156317",
+          "text": ""
+        },
+        "taskType": 1
+      },
+      "daily_013": {
+        "adventureBookStage": 0,
+        "adventureTaskId": "daily_013",
+        "conditionDataList": [
+          {
+            "conditionId": "cond_daily_013_1",
+            "conditionType": 6507,
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  521
+                ],
+                "valueIntList": [
+                  521
+                ],
+                "valueStringList": [
+                  "521"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1
+          },
+          {
+            "conditionId": "cond_daily_013_2",
+            "conditionType": 6507,
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  522
+                ],
+                "valueIntList": [
+                  522
+                ],
+                "valueStringList": [
+                  "522"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1
+          }
+        ],
+        "jumpSystemId": "jump_map_spaceship",
+        "rewardId": "reward_daily_20",
+        "sortId": 89,
+        "taskDesc": {
+          "id": "6361220993853580968",
+          "text": ""
+        },
+        "taskType": 1
+      }
+    },
+    "removed": {},
+    "changed": {
+      "daily_011": {
+        "oldValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_011",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_011",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    502
+                  ],
+                  "valueIntList": [
+                    502
+                  ],
+                  "valueStringList": [
+                    "502"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1
+            }
+          ],
+          "jumpSystemId": "jump_mission_quest",
+          "rewardId": "reward_daily_80",
+          "sortId": 90,
+          "taskDesc": {
+            "id": "-8219555261504354379",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "newValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_011",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_011",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    502
+                  ],
+                  "valueIntList": [
+                    502
+                  ],
+                  "valueStringList": [
+                    "502"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1
+            }
+          ],
+          "jumpSystemId": "jump_mission_quest",
+          "rewardId": "reward_daily_80",
+          "sortId": 1,
+          "taskDesc": {
+            "id": "-8219555261504354379",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 90,
+            "newValue": 1
+          }
+        }
+      },
+      "daily_002": {
+        "oldValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_002",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_002",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    503
+                  ],
+                  "valueIntList": [
+                    503
+                  ],
+                  "valueStringList": [
+                    "503"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 60
+            }
+          ],
+          "jumpSystemId": "",
+          "rewardId": "reward_daily_10",
+          "sortId": 99,
+          "taskDesc": {
+            "id": "1855059673957296095",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "newValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_002",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_002",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    503
+                  ],
+                  "valueIntList": [
+                    503
+                  ],
+                  "valueStringList": [
+                    "503"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 60
+            }
+          ],
+          "jumpSystemId": "",
+          "rewardId": "reward_daily_20",
+          "sortId": 99,
+          "taskDesc": {
+            "id": "1855059673957296095",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "changed": {
+          "rewardId": {
+            "type": "value",
+            "oldValue": "reward_daily_10",
+            "newValue": "reward_daily_20"
+          }
+        }
+      },
+      "daily_003": {
+        "oldValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_003",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_003",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    503
+                  ],
+                  "valueIntList": [
+                    503
+                  ],
+                  "valueStringList": [
+                    "503"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 120
+            }
+          ],
+          "jumpSystemId": "",
+          "rewardId": "reward_daily_10",
+          "sortId": 98,
+          "taskDesc": {
+            "id": "-1814875247607907836",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "newValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_003",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_003",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    503
+                  ],
+                  "valueIntList": [
+                    503
+                  ],
+                  "valueStringList": [
+                    "503"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 120
+            }
+          ],
+          "jumpSystemId": "",
+          "rewardId": "reward_daily_20",
+          "sortId": 98,
+          "taskDesc": {
+            "id": "-1814875247607907836",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "changed": {
+          "rewardId": {
+            "type": "value",
+            "oldValue": "reward_daily_10",
+            "newValue": "reward_daily_20"
+          }
+        }
+      },
+      "daily_004": {
+        "oldValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_004",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_004",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    516
+                  ],
+                  "valueIntList": [
+                    516
+                  ],
+                  "valueStringList": [
+                    "516"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 20
+            }
+          ],
+          "jumpSystemId": "",
+          "rewardId": "reward_daily_20",
+          "sortId": 97,
+          "taskDesc": {
+            "id": "5749188056214569979",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "newValue": {
+          "adventureBookStage": 0,
+          "adventureTaskId": "daily_004",
+          "conditionDataList": [
+            {
+              "conditionId": "cond_daily_004",
+              "conditionType": 6507,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    516
+                  ],
+                  "valueIntList": [
+                    516
+                  ],
+                  "valueStringList": [
+                    "516"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 10
+            }
+          ],
+          "jumpSystemId": "",
+          "rewardId": "reward_daily_20",
+          "sortId": 97,
+          "taskDesc": {
+            "id": "2116270545778529840",
+            "text": ""
+          },
+          "taskType": 1
+        },
+        "changed": {
+          "conditionDataList[0].progressToCompare": {
+            "type": "value",
+            "oldValue": 20,
+            "newValue": 10
+          },
+          "taskDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Derrote 20 inimigos",
+                "newText": "Derrote 10 inimigos"
+              },
+              "CN": {
+                "oldText": "累计击败20个敌人",
+                "newText": "累计击败10个敌人"
+              },
+              "DE": {
+                "oldText": "Besiege 20 Gegner.",
+                "newText": "Besiege 10 Gegner."
+              },
+              "EN": {
+                "oldText": "Defeat 20 enemies",
+                "newText": "Defeat 10 enemies"
+              },
+              "FR": {
+                "oldText": "Vaincre 20 ennemis",
+                "newText": "Vaincre 10 ennemis"
+              },
+              "ID": {
+                "oldText": "Kalahkan 20 musuh",
+                "newText": "Kalahkan 10 musuh"
+              },
+              "IT": {
+                "oldText": "Sconfiggi 20 nemici.",
+                "newText": "Sconfiggi 10 nemici."
+              },
+              "JP": {
+                "oldText": "敵を計20体倒す",
+                "newText": "敵を計10体倒す"
+              },
+              "KR": {
+                "oldText": "적을 누적 20명 처치",
+                "newText": "적을 누적 10명 처치"
+              },
+              "MX": {
+                "oldText": "Derrota 20 enemigos",
+                "newText": "Derrota 10 enemigos"
+              },
+              "RU": {
+                "oldText": "Победите 20 врагов",
+                "newText": "Победите 10 врагов"
+              },
+              "TC": {
+                "oldText": "累計擊敗20個敵人",
+                "newText": "累計擊敗10個敵人"
+              },
+              "TH": {
+                "oldText": "กำจัด​ศัตรู​ 20 ตัว",
+                "newText": "กำจัด​ศัตรู​ 10 ตัว"
+              },
+              "VN": {
+                "oldText": "Đánh bại 20 kẻ thù",
+                "newText": "Đánh bại 10 kẻ địch"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "tableName": "AudioRadioContinueTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "camille": {
+        "otherContinue": [],
+        "selfContinue": [
+          "radio_continue_self_camille_01",
+          "radio_continue_self_camille_02"
+        ],
+        "speaker": "camille"
+      },
+      "mifu": {
+        "otherContinue": [],
+        "selfContinue": [
+          "radio_continue_self_mifu_01",
+          "radio_continue_self_mifu_02"
+        ],
+        "speaker": "mifu"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

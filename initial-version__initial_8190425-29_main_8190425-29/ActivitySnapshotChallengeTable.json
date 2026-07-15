@@ -1,0 +1,851 @@
+{
+  "tableName": "ActivitySnapshotChallengeTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 7,
+    "removed": 0,
+    "changed": 10
+  },
+  "entries": {
+    "added": {
+      "activity_phototaking_carly_2_stage_6": {
+        "completeImg": "snapshot_challenge_a2c6_completed",
+        "completeStoryDesc": {
+          "id": "2605808081632206844",
+          "text": ""
+        },
+        "missionId": "e7m2",
+        "normalImg": "snapshot_challenge_a2c6_normal",
+        "normalStoryDesc": {
+          "id": "6867829660005876372",
+          "text": ""
+        },
+        "stageId": "activity_phototaking_carly_2_stage_6"
+      },
+      "activity_phototaking_carly_2_stage_2": {
+        "completeImg": "snapshot_challenge_a2c2_completed",
+        "completeStoryDesc": {
+          "id": "-1949888752675822153",
+          "text": ""
+        },
+        "missionId": "e6m5",
+        "normalImg": "snapshot_challenge_a2c2_normal",
+        "normalStoryDesc": {
+          "id": "3541427361174275342",
+          "text": ""
+        },
+        "stageId": "activity_phototaking_carly_2_stage_2"
+      },
+      "activity_phototaking_carly_2_stage_5": {
+        "completeImg": "snapshot_challenge_a2c5_completed",
+        "completeStoryDesc": {
+          "id": "-7330300433574472404",
+          "text": ""
+        },
+        "missionId": "e6m5",
+        "normalImg": "snapshot_challenge_a2c5_normal",
+        "normalStoryDesc": {
+          "id": "601722447484805098",
+          "text": ""
+        },
+        "stageId": "activity_phototaking_carly_2_stage_5"
+      },
+      "activity_phototaking_carly_2_stage_1": {
+        "completeImg": "snapshot_challenge_a2c1_completed",
+        "completeStoryDesc": {
+          "id": "-4403492683102217864",
+          "text": ""
+        },
+        "missionId": "e6m5",
+        "normalImg": "snapshot_challenge_a2c1_normal",
+        "normalStoryDesc": {
+          "id": "-3744499640447945378",
+          "text": ""
+        },
+        "stageId": "activity_phototaking_carly_2_stage_1"
+      },
+      "activity_phototaking_carly_2_stage_3": {
+        "completeImg": "snapshot_challenge_a2c3_completed",
+        "completeStoryDesc": {
+          "id": "-3356474075364321482",
+          "text": ""
+        },
+        "missionId": "e6m5",
+        "normalImg": "snapshot_challenge_a2c3_normal",
+        "normalStoryDesc": {
+          "id": "-1031501127067333126",
+          "text": ""
+        },
+        "stageId": "activity_phototaking_carly_2_stage_3"
+      },
+      "activity_phototaking_carly_2_stage_4": {
+        "completeImg": "snapshot_challenge_a2c4_completed",
+        "completeStoryDesc": {
+          "id": "5597254606789255636",
+          "text": ""
+        },
+        "missionId": "e6m5",
+        "normalImg": "snapshot_challenge_a2c4_normal",
+        "normalStoryDesc": {
+          "id": "-4027326428835707329",
+          "text": ""
+        },
+        "stageId": "activity_phototaking_carly_2_stage_4"
+      },
+      "activity_phototaking_carly_2_stage_7": {
+        "completeImg": "snapshot_challenge_a2c7_completed",
+        "completeStoryDesc": {
+          "id": "5313295948209563854",
+          "text": ""
+        },
+        "missionId": "e7m4",
+        "normalImg": "snapshot_challenge_a2c7_normal",
+        "normalStoryDesc": {
+          "id": "-4874645741661016002",
+          "text": ""
+        },
+        "stageId": "activity_phototaking_carly_2_stage_7"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "activity_conditional_multistage_1_stage_1": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_a1c1_completed",
+          "completeStoryDesc": {
+            "id": "4214983048822963599",
+            "text": ""
+          },
+          "missionId": "e1m9",
+          "normalImg": "snapshot_challenge_a1c1_normal",
+          "normalStoryDesc": {
+            "id": "3033012624199509449",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_1"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_a1c1_completed",
+          "completeStoryDesc": {
+            "id": "-5416137332142938724",
+            "text": ""
+          },
+          "missionId": "e1m9",
+          "normalImg": "snapshot_challenge_a1c1_normal",
+          "normalStoryDesc": {
+            "id": "-9204272384359242572",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_1"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Foi na selva de concreto que a Princesa em fuga encontrou os Cavaleiros do Castelo no Céu. \"Uma Conjuradora Maligna de uma terra estrangeira chegou com seus lacaios. Eles estão destruindo nosso vale!\", assim disseram os Cavaleiros do Céu, \"Os Guerreiros do Vale precisam da nossa ajuda!\" \nA empolgada Princesa juntou-se aos Cavaleiros do Céu e derrotou o bando da Conjuradora Maligna. E foi assim que suas aventuras começaram!",
+                "newText": "Foi na selva de concreto que a Princesa em fuga encontrou os Cavaleiros do Castelo no Céu. \"Uma Conjuradora Maligna de uma terra estrangeira chegou com seus lacaios. Eles estão destruindo nosso vale!\", assim disseram os Cavaleiros dos Céus, \"Os Guerreiros do Vale precisam da nossa ajuda!\" \nA empolgada Princesa juntou-se aos Cavaleiros dos Céus e derrotou o bando da Conjuradora Maligna. E foi assim que suas aventuras começaram!"
+              },
+              "DE": {
+                "oldText": "Mitten im Großstadtdschungel traf die flüchtende Prinzessin auf die Ritter des Himmelschlosses. „Eine böse Zauberin aus einem fremden Land ist mit ihren Schergen eingetroffen. Sie verwüsten unser Tal!“, so die Ritter des Himmels. „Die Krieger des Tals brauchen unsere Hilfe!“ \nDie aufgeregte Prinzessin schloss sich daraufhin den Rittern des Himmels an und besiegte das Team der bösen Zauberin. Und so begannen ihre Abenteuer!",
+                "newText": "Mitten im Großstadtdschungel traf die flüchtende Prinzessin auf die Ritter des Schlosses im Himmel. „Eine böse Zauberin aus einem fremden Land ist mit ihren Schergen eingetroffen. Sie verwüsten unser Tal!“, so die Ritter des Himmels. „Die Krieger des Tals brauchen unsere Hilfe!“ \nDie aufgeregte Prinzessin schloss sich daraufhin den Rittern des Himmels an und besiegte das Team der bösen Zauberin. Und so begannen ihre Abenteuer!"
+              },
+              "KR": {
+                "oldText": "시멘트 숲, 이곳으로 도망쳐 온 공주님이 하늘 성의 기사와 만났습니다. \"밖에 나쁜 캐스터가 나타났어요. 그 캐스터와 부하들이 우리 골짜기를 파괴하고 있어요!\" 하늘 기사가 이렇게 말했습니다. \"골짜기의 용사들에게 도움이 필요해요!\"\n신이 난 공주는 하늘 기사와 함께 나쁜 캐스터를 물리치기 위한 대열에 합류했고, 모험은 그렇게 시작되었습니다!",
+                "newText": "시멘트 숲, 이곳으로 도망쳐 온 공주님이 하늘 성의 기사와 만났답니다. \"밖에 나쁜 캐스터가 나타났어요. 그 캐스터와 부하들이 우리 골짜기를 파괴하고 있어요!\" 하늘 기사가 이렇게 말했습니다. \"골짜기의 용사들에게 도움이 필요해요!\"\n신이 난 공주는 하늘 기사와 함께 나쁜 캐스터를 물리칠 여정에 합류했고, 모험은 그렇게 시작되었습니다!"
+              },
+              "MX": {
+                "oldText": "Fue en la jungla de concreto donde la Princesa en fuga se topó con los Caballeros del Castillo en el Cielo. “Una Hechicera malvada de una tierra extranjera ha llegado con sus esbirros. ¡Están destruyendo nuestro valle!”, dijeron los Caballeros del cielo. “¡Los Guerreros del Valle necesitan nuestra ayuda!” \nLa emocionada Princesa se unió entonces a los Caballeros del cielo y derrotó al equipo de la Hechicera malvada. ¡Así comenzaron sus aventuras!",
+                "newText": "Fue en la jungla de concreto donde la Princesa en fuga se encontró con los Caballeros del castillo en el cielo. “Una hechicera malvada de tierras lejanas ha llegado con sus esbirros. ¡Están destruyendo nuestro valle!”, dijeron los Caballeros del cielo. “¡Los Guerreros del Valle necesitan nuestra ayuda!” \nLa emocionada Princesa se unió entonces a los Caballeros del cielo y derrotó al equipo de la Hechicera malvada. ¡Así comenzaron sus aventuras!"
+              },
+              "TH": {
+                "oldText": "ณ​ ป่า​คอนกรีต​ ที่​ซึ่ง​เจ้าหญิง​ผู้​หลบหนี​ได้​พบ​กับ​อัศวิน​จาก​ปราสาท​บน​ฟากฟ้า​ \"จอม​เวท​ผู้​ชั่วร้าย​จาก​ต่างแดน​เดินทาง​มา​พร้อมกับ​สมุน​ของ​เธอ​ พวก​มัน​กำลัง​ทำลาย​หุบเขา​ของ​เรา​!\" อัศวิน​แห่ง​ท้องฟ้า​กล่าว​ไว้​ \"นักรบ​แห่ง​หุบเขา​ต้องการ​ความช่วยเหลือ​จาก​พวกเรา​!\"\nเจ้าหญิง​ผู้​ตื่นเต้น​จึง​เข้าร่วม​กับ​อัศวิน​แห่ง​ท้องฟ้า​และ​เอาชนะ​ทีม​จอม​เวท​ร้าย​ได้​สำเร็จ​ และ​นั่น​คือ​จุดเริ่มต้น​ของ​การผจญภัย​ของ​พวกเขา​!",
+                "newText": "ณ​ ป่า​คอนกรีต​ ที่​ซึ่ง​เจ้าหญิง​ผู้​หลบหนี​ได้​พบ​กับ​อัศวิน​จาก​ปราสาท​บน​ฟากฟ้า​ \"จอม​เวท​ร้าย​จาก​ต่างแดน​เดินทาง​มา​พร้อมกับ​สมุน​ของ​เธอ​ พวก​มัน​กำลัง​ทำลาย​หุบเขา​ของ​เรา​!\" ดังที่​เหล่า​อัศวิน​แห่ง​ท้องฟ้า​ได้​กล่าว​ไว้​ \"นักรบ​แห่ง​หุบเขา​ต้องการ​ความช่วยเหลือ​จาก​พวกเรา​!\" \nเจ้าหญิง​ผู้​ตื่นเต้น​จึง​เข้าร่วม​กับ​อัศวิน​แห่ง​ท้องฟ้า​และ​เอาชนะ​ทีม​จอม​เวท​ร้าย​ได้​สำเร็จ​ และ​นั่น​คือ​จุดเริ่มต้น​ของ​การผจญภัย​ของ​พวกเขา​!"
+              },
+              "VN": {
+                "oldText": "Giữa khu rừng bê tông, nàng Công Chúa đang chạy trốn đã chạm trán các Hiệp Sĩ Bầu Trời đến từ Lâu Đài Trên Không. \"Một Pháp Sư Tà Ác từ vùng đất xa xôi đã đến cùng tay sai của ả. Chúng đang tàn phá thung lũng của chúng ta!\" – các Hiệp Sĩ Bầu Trời hô lớn, \"Những Chiến Binh của Thung Lũng cần sự giúp đỡ của chúng ta!\" \nNàng Công Chúa hào hứng gia nhập đội ngũ Hiệp Sĩ Bầu Trời và cùng họ đánh bại đội của Pháp Sư Tà Ác. Và thế là chuyến phiêu lưu của họ bắt đầu!",
+                "newText": "Giữa khu rừng bê tông, nàng Công Chúa chạy trốn đã chạm trán các Hiệp Sĩ đến từ Lâu Đài Trên Không. \"Một Pháp Sư Tà Ác từ vùng đất xa lạ đã đến cùng bè lũ tay sai. Chúng đang tàn phá thung lũng của chúng ta!\" – các Hiệp Sĩ Bầu Trời, \"Những Chiến Binh của Thung Lũng cần sự giúp đỡ của chúng ta!\" \nNàng Công Chúa hào hứng gia nhập đội ngũ Hiệp Sĩ Bầu Trời và cùng họ đánh bại đội của Pháp Sư Tà Ác. Và thế là chuyến phiêu lưu bắt đầu!"
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Foi na selva de concreto que a Princesa em fuga encontrou os Cavaleiros do Castelo no Céu. \"Uma Conjuradora Maligna de uma terra estrangeira chegou com seus lacaios. Eles estão destruindo nosso vale!\", assim disseram os Cavaleiros do Céu, \"Os Guerreiros do Vale precisam da nossa ajuda!\"",
+                "newText": "Foi na selva de concreto que a Princesa em fuga encontrou os Cavaleiros do Castelo no Céu. \"Uma Conjuradora Maligna de uma terra estrangeira chegou com seus lacaios. Eles estão destruindo nosso vale!\", assim disseram os Cavaleiros dos Céus, \"Os Guerreiros do Vale precisam da nossa ajuda!\""
+              },
+              "DE": {
+                "oldText": "Mitten im Großstadtdschungel traf die flüchtende Prinzessin auf die Ritter des Himmelschlosses. „Eine böse Zauberin aus einem fremden Land ist mit ihren Schergen eingetroffen. Sie verwüsten unser Tal!“, so die Ritter des Himmels. „Die Krieger des Tals brauchen unsere Hilfe!“",
+                "newText": "Mitten im Großstadtdschungel traf die flüchtende Prinzessin auf die Ritter des Schlosses im Himmel. „Eine böse Zauberin aus einem fremden Land ist mit ihren Schergen eingetroffen. Sie verwüsten unser Tal!“, so die Ritter des Himmels. „Die Krieger des Tals brauchen unsere Hilfe!“"
+              },
+              "KR": {
+                "oldText": "시멘트 숲, 이곳으로 도망쳐 온 공주님이 하늘 성의 기사와 만났습니다. \"밖에 나쁜 캐스터가 나타났어요. 그 캐스터와 부하들이 우리 골짜기를 파괴하고 있어요!\" 하늘 기사가 이렇게 말했습니다. \"골짜기의 용사들에게 도움이 필요해요!\"",
+                "newText": "시멘트 숲, 이곳으로 도망쳐 온 공주님이 하늘 성의 기사와 만났답니다. \"밖에 나쁜 캐스터가 나타났어요. 그 캐스터와 부하들이 우리 골짜기를 파괴하고 있어요!\" 하늘 기사가 이렇게 말했습니다. \"골짜기의 용사들에게 도움이 필요해요!\""
+              },
+              "MX": {
+                "oldText": "Fue en la jungla de concreto donde la Princesa en fuga se topó con los Caballeros del Castillo en el Cielo. “Una Hechicera malvada de una tierra extranjera ha llegado con sus esbirros. ¡Están destruyendo nuestro valle!”, dijeron los Caballeros del cielo. “¡Los Guerreros del Valle necesitan nuestra ayuda!”",
+                "newText": "Fue en la jungla de concreto donde la Princesa en fuga se encontró con los Caballeros del castillo en el cielo. “Una hechicera malvada de tierras lejanas ha llegado con sus esbirros. ¡Están destruyendo nuestro valle!”, dijeron los Caballeros del cielo. “¡Los Guerreros del Valle necesitan nuestra ayuda!”"
+              },
+              "TH": {
+                "oldText": "ณ​ ป่า​คอนกรีต​ ที่​ซึ่ง​เจ้าหญิง​ผู้​หลบหนี​ได้​พบ​กับ​อัศวิน​จาก​ปราสาท​บน​ฟากฟ้า​ \"จอม​เวท​ผู้​ชั่วร้าย​จาก​ต่างแดน​เดินทาง​มา​พร้อมกับ​สมุน​ของ​นาง​ พวก​มัน​กำลัง​ทำลาย​หุบเขา​ของ​เรา​!\" ดังที่​เหล่า​อัศวิน​แห่ง​ท้องฟ้า​ได้​กล่าว​ไว้​ \"นักรบ​แห่ง​หุบเขา​ต้องการ​ความช่วยเหลือ​จาก​พวกเรา​!\"",
+                "newText": "ณ​ ป่า​คอนกรีต​ ที่​ซึ่ง​เจ้าหญิง​ผู้​หลบหนี​ได้​พบ​กับ​อัศวิน​จาก​ปราสาท​บน​ฟากฟ้า​ \"จอม​เวท​ร้าย​จาก​ต่างแดน​เดินทาง​มา​พร้อมกับ​สมุน​ของ​เธอ​ พวก​มัน​กำลัง​ทำลาย​หุบเขา​ของ​เรา​!\" ดังที่​เหล่า​อัศวิน​แห่ง​ท้องฟ้า​ได้​กล่าว​ไว้​ \"นักรบ​แห่ง​หุบเขา​ต้องการ​ความช่วยเหลือ​จาก​พวกเรา​!\""
+              },
+              "VN": {
+                "oldText": "Giữa khu rừng bê tông, nàng Công Chúa đang chạy trốn đã chạm trán các Hiệp Sĩ Bầu Trời đến từ Lâu Đài Trên Không. \"Một Pháp Sư Tà Ác từ vùng đất xa lạ đã đến cùng bè lũ tay sai của ả. Chúng đang tàn phá thung lũng của chúng ta!\" – các Hiệp Sĩ Bầu Trời nói vậy, \"Những Chiến Binh của Thung Lũng cần sự giúp đỡ của chúng ta!\"",
+                "newText": "Giữa khu rừng bê tông, nàng Công Chúa chạy trốn đã chạm trán các Hiệp Sĩ đến từ Lâu Đài Trên Không. \"Một Pháp Sư Tà Ác từ vùng đất xa lạ đã đến cùng bè lũ tay sai. Chúng đang tàn phá thung lũng của chúng ta!\" – các Hiệp Sĩ Bầu Trời, \"Những Chiến Binh của Thung Lũng cần sự giúp đỡ của chúng ta!\""
+              }
+            }
+          }
+        }
+      },
+      "activity_phototaking_universe_stage_1": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_universe_1_completed",
+          "completeStoryDesc": {
+            "id": "5608281381956624033",
+            "text": ""
+          },
+          "missionId": "e1m10",
+          "normalImg": "snapshot_challenge_universe_1_normal",
+          "normalStoryDesc": {
+            "id": "-7729140577027123293",
+            "text": ""
+          },
+          "stageId": "activity_phototaking_universe_stage_1"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_universe_1_completed",
+          "completeStoryDesc": {
+            "id": "-5143777179885387513",
+            "text": ""
+          },
+          "missionId": "e1m10",
+          "normalImg": "snapshot_challenge_universe_1_normal",
+          "normalStoryDesc": {
+            "id": "-9063513345601602144",
+            "text": ""
+          },
+          "stageId": "activity_phototaking_universe_stage_1"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "JP": {
+                "oldText": "啓明宇宙ステーションはユニット化と拡張性を備えた設計コンセプトを採用している。複数回のロケット打ち上げを経て、コアモジュールと実験モジュールを軌道上に送り込んでドッキングさせ、軌道上での組み立て・建造を行った。閉鎖循環式生命維持システムを搭載しており、船内の水や空気を回収・処理することで、資源の循環再利用を実現している。\nそれは軌道上に静かに浮かび、広げた双翼に期待を寄せている……帝江号から伸びた視線を支え、遥か彼方へと届けているのだ。",
+                "newText": "啓明宇宙ステーションはユニット化と拡張性を備えた設計コンセプトを採用している。複数回のロケット打ち上げを経て、コアモジュールと実験モジュールを軌道上に送り込んでドッキングさせ、軌道上での組み立てを行った。閉鎖循環式生命維持システムを搭載しており、船内の水や空気を回収・処理することで、資源の循環再利用を実現している。\nそれは軌道上に静かに浮かび、広げた双翼に期待を寄せている……帝江号から伸びた視線を支え、遥か彼方へと届けているのだ。"
+              },
+              "KR": {
+                "oldText": "샛별 대기 플랫폼은 모듈화와 확장성을 바탕으로 설계되었습니다. 여러 차례의 로켓 발사를 통해 핵심 선실과 실험 선실을 궤도에 올린 뒤, 랑데부와 도킹을 거쳐 궤도에서 조립·건조되었습니다. 또한 폐쇄형 재생식 생명 유지 시스템을 탑재해 선실 내의 물과 공기를 회수하고 처리함으로써, 자원의 순환 재이용을 실현합니다.\n그것은 궤도 위에 고요히 떠 있으며, 활짝 펼친 두 날개에 자신의 기대를 실은 채... 제강호가 멀리까지 뻗어 낸 시선을 떠받들어, 더 먼 곳으로 내보냅니다.",
+                "newText": "샛별 대기 플랫폼은 모듈화와 확장성을 바탕으로 설계되었습니다. 여러 차례의 로켓 발사를 통해 핵심 선실과 실험 선실을 궤도에 올린 뒤, 랑데부와 도킹을 거쳐 궤도에서 조립·건조되었습니다. 또한 폐쇄형 재생식 생명 유지 시스템을 탑재해 선실 내의 물과 공기를 회수하고 처리함으로써, 자원의 순환 재이용을 실현합니다.\n그것은 궤도 위에 고요히 떠 있으며, 활짝 펼친 두 날개에 자신의 기대를 실은 채... 제강호의 시선을 이어받아, 더 먼 곳으로 향하게 합니다."
+              },
+              "MX": {
+                "oldText": "La Estación Qiming está diseñada con un enfoque en el ensamblaje modular y la capacidad de expansión. Su módulo central y su módulo científico fueron enviados mediante múltiples lanzamientos de cohetes, y posteriormente ensamblados en órbita mediante tecnología de acoplamiento modular. La Estación Qiming cuenta con un sistema de regeneración de circuito cerrado capaz de reciclar y reutilizar el agua y el aire dentro de los módulos.\nEn silencio, recorre su órbita, con alas extendidas que acunan esperanzas y deseos... Porta la mirada de la Dijiang y la proyecta a través de vastas distancias.",
+                "newText": "La Estación Qiming está diseñada con un enfoque en el ensamblaje modular y la capacidad de expansión. Su módulo central y su módulo científico fueron enviados mediante múltiples lanzamientos de cohetes, y posteriormente ensamblados en órbita mediante tecnología de acoplamiento modular. La Estación Qiming cuenta con un sistema de regeneración de circuito cerrado capaz de reciclar y reutilizar el agua y el aire dentro de los módulos.\nEn silencio, recorre su órbita, con alas extendidas que cobijan las esperanzas y deseos... Porta la mirada de la Dijiang y la proyecta a través de vastas distancias."
+              },
+              "VN": {
+                "oldText": "Trạm Khải Minh được thiết kế theo hướng lắp ráp dạng mô-đun và có khả năng mở rộng. Mô-đun lõi và mô-đun khoa học của trạm được đưa lên bằng nhiều lần phóng tên lửa, sau đó lắp ráp trên quỹ đạo bằng công nghệ ghép nối mô-đun. Trạm Khải Minh được trang bị hệ thống tái sinh vòng kín, cho phép tái chế và tái sử dụng nước cùng không khí bên trong các mô-đun.\nKhải Minh lặng lẽ lướt đi trên quỹ đạo của mình, đôi cánh vươn dài ôm lấy bao hy vọng và ước nguyện… Nó mang theo đôi mắt của Dijiang, phóng chiếu tầm nhìn ấy qua muôn trùng khoảng cách.",
+                "newText": "Trạm Khải Minh được thiết kế theo hướng lắp ráp dạng mô-đun và có khả năng mở rộng. Mô-đun lõi và mô-đun khoa học của trạm được đưa lên bằng nhiều lần phóng tên lửa, sau đó lắp ráp trên quỹ đạo bằng công nghệ ghép nối mô-đun. Trạm Khải Minh được trang bị hệ thống tái sinh vòng kín, cho phép tái chế và tái sử dụng nước cùng không khí bên trong các mô-đun.\nKhải Minh lặng lẽ lướt đi trên quỹ đạo của mình, đôi cánh vươn dài ôm lấy bao hy vọng và ước nguyện… Mang theo đôi mắt của Dijiang, phóng chiếu tầm nhìn ấy qua muôn trùng khoảng cách."
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_2": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_a1c2_completed",
+          "completeStoryDesc": {
+            "id": "-8593561973040293013",
+            "text": ""
+          },
+          "missionId": "e1m9",
+          "normalImg": "snapshot_challenge_a1c2_normal",
+          "normalStoryDesc": {
+            "id": "-8169936533458414031",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_2"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_a1c2_completed",
+          "completeStoryDesc": {
+            "id": "-6522181395362473380",
+            "text": ""
+          },
+          "missionId": "e1m9",
+          "normalImg": "snapshot_challenge_a1c2_normal",
+          "normalStoryDesc": {
+            "id": "7126595333510441499",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_2"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "\"La principessa è scomparsa! La strega malvagia è forse tornata per vendicarsi?\". Artisti e guerrieri dall'animo buono giunsero alla torre più alta che c'era. \"Questa è la torre più alta della valle. Ci mostrerà dov'è la strega malvagia!\", dissero i guerrieri. E così, andarono a cercare la principessa Carly. \nLa torre è tanto alta che potrebbe persino attirare le stelle!",
+                "newText": "\"La principessa è scomparsa! La strega malvagia è forse tornata per vendicarsi?\" Artisti e guerrieri dall'animo buono giunsero alla torre più alta che c'era. \"Questa è la torre più alta della valle. Ci mostrerà dov'è la strega malvagia!\", dissero i guerrieri. E così, andarono a cercare la principessa Carly. \nLa torre è tanto alta che potrebbe persino attirare le stelle!"
+              },
+              "JP": {
+                "oldText": "「お姫さまはいなくなってしまった。まさか……悪い術師が復讐に来たのか？」良い術師は何人かの勇者たちを連れて、谷で1番高い塔の下までやってきた。「ここならきっと、悪い術師の居場所が見つかるはず！」そう言って、勇者たちはカーリー姫を探し始めた！\n塔は本当に高く、お星さままでその上に迎えられた。",
+                "newText": "「お姫さまはいなくなってしまった。まさか……悪い術師が復讐に来たのか？」良い術師は何人かの勇者たちを連れて、谷でいちばん高い塔の下までやってきた。「ここならきっと、悪い術師の居場所が見つかるはず！」そう言って、勇者たちはカーリー姫を探し始めた！\n塔は本当に高く、お星さままでその上に迎えられた。"
+              },
+              "MX": {
+                "oldText": "“¡La Princesa ha desaparecido! ¿La Hechicera malvada volvió por venganza?” Dicho esto, el Hechicero bueno y sus camaradas llegaron a la torre más alta. “Esta es la torre más alta del valle. ¡Nos mostrará dónde está la Hechicera malvada!” Y así los guerreros iniciaron la búsqueda de la Princesa Carly. \n¡La torre es tan alta que hasta podría atraer a las estrellas!",
+                "newText": "“¡La Princesa desapareció! ¿La Hechicera malvada volvió para vengarse?” Con eso, la Hechicera buena y sus compañeros guerreros llegaron a la torre más alta. “Esta es la torre más alta del valle. ¡Nos mostrará dónde está la Hechicera malvada!” ¡Y así los guerreros comenzaron su búsqueda de la Princesa Carly! \n¡La torre es tan alta que hasta podría atraer a las estrellas!"
+              },
+              "TH": {
+                "oldText": "\"เจ้าหญิง​หายตัว​ไป​! จอม​เวท​ผู้​ชั่วร้าย​กลับมา​ทวง​แค้น​งั้น​เหรอ​?\" ในที่สุด​ จอม​เวท​ฝ่าย​ดี​และ​เพื่อน​นักรบ​ก็​มาถึง​หอคอย​ที่สูง​ที่สุด​ \"นี่​คือ​หอคอย​ที่สูง​ที่สุด​ของ​หุบเขา​ เรา​จะ​ได้​รู้​ว่า​จอม​เวท​ผู้​ชั่วร้าย​ไป​หลบ​อยู่​ตรงไหน​!\" จากนั้น​นักรบ​ทั้งหลาย​จึง​เริ่มต้น​ค้นหา​เจ้าหญิง​คาร์​ลี​!\n\"หอคอย​นี้​สูง​ขนาดที่​อาจ​สัมผัส​ดวงดาว​ได้​เลย​!\"",
+                "newText": "\"เจ้าหญิง​หายตัว​ไป​แล้ว​! หรือว่า​จอม​เวท​ร้าย​จะ​กลับมา​แก้แค้น​กัน​แน่​?\" เมื่อ​ได้ยิน​เช่นนั้น​ จอม​เวท​ฝ่าย​ดี​และ​เหล่า​นักรบ​จึง​มุ่งหน้า​ไป​ยัง​หอคอย​ที่สูง​ที่สุด​ \"นี่​คือ​หอคอย​ที่สูง​ที่สุด​ของ​หุบเขา​ มัน​จะ​บอก​เรา​ได้​ว่า​จอม​เวท​ร้าย​อยู่​ที่ไหน​!\" และ​แล้ว​ เหล่า​นักรบ​ก็​เริ่ม​ออก​ตามหา​เจ้าหญิง​คาร์​ลี​! \nหอคอย​นี้​สูง​ขนาดที่​อาจ​สัมผัส​ดวงดาว​ได้​เลย​!"
+              },
+              "VN": {
+                "oldText": "\"Công Chúa mất tích rồi! Có phải Pháp Sư Tà Ác quay lại để báo thù không?\" Ngay lập tức, Pháp Sư Chính Nghĩa cùng các chiến binh tiến đến tòa tháp cao nhất. \"Đây là tòa tháp cao nhất trong thung lũng. Nó sẽ chỉ cho chúng ta nơi Pháp Sư Tà Ác đang ẩn náu!\" Và thế là các chiến binh bắt đầu hành trình tìm kiếm Công Chúa Carly! \nTòa tháp cao đến mức có thể chạm đến những vì sao!",
+                "newText": "\"Công Chúa mất tích rồi! Có phải Pháp Sư Tà Ác quay lại để báo thù không?\" Ngay lập tức, Pháp Sư Chính Nghĩa cùng các chiến binh tiến đến tòa tháp cao nhất. \"Đây là tòa tháp cao nhất trong thung lũng. Ta có thể thấy nơi Pháp Sư Tà Ác đang ẩn náu!\" Và thế là các chiến binh bắt đầu hành trình tìm kiếm Công Chúa Carly! \nTòa tháp cao đến mức có thể chạm đến các vì sao!"
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "\"La principessa è scomparsa! La strega malvagia è forse tornata per vendicarsi?\". Artisti e guerrieri dall'animo buono giunsero alla torre più alta che c'era. \"Questa è la torre più alta della valle. Ci mostrerà dov'è la strega malvagia!\", dissero i guerrieri. E così, andarono a cercare la principessa Carly.",
+                "newText": "\"La principessa è scomparsa! La strega malvagia è forse tornata per vendicarsi?\" Artisti e guerrieri dall'animo buono giunsero alla torre più alta che c'era. \"Questa è la torre più alta della valle. Ci mostrerà dov'è la strega malvagia!\", dissero i guerrieri. E così, andarono a cercare la principessa Carly."
+              },
+              "JP": {
+                "oldText": "「お姫さまはいなくなってしまった。まさか……悪い術師が復讐に来たのか？」良い術師は何人かの勇者たちを連れて、谷で1番高い塔の下までやってきた。「ここならきっと、悪い術師の居場所が見つかるはず！」そう言って、勇者たちはカーリー姫を探し始めた！",
+                "newText": "「お姫さまはいなくなってしまった。まさか……悪い術師が復讐に来たのか？」良い術師は何人かの勇者たちを連れて、谷でいちばん高い塔の下までやってきた。「ここならきっと、悪い術師の居場所が見つかるはず！」そう言って、勇者たちはカーリー姫を探し始めた！"
+              },
+              "MX": {
+                "oldText": "“¡La Princesa ha desaparecido! ¿La Hechicera malvada ha vuelto por venganza?” Con ello, la Hechicera buena y sus compañeros guerreros llegaron a la torre más alta. “Esta es la torre más alta del valle. ¡Nos mostrará dónde está la Hechicera malvada!” ¡Y así los guerreros iniciaron la búsqueda de la Princesa Carly!",
+                "newText": "“¡La Princesa desapareció! ¿La Hechicera malvada volvió para vengarse?” Con eso, la Hechicera buena y sus compañeros guerreros llegaron a la torre más alta. “Esta es la torre más alta del valle. ¡Nos mostrará dónde está la Hechicera malvada!” ¡Y así los guerreros comenzaron su búsqueda de la Princesa Carly!"
+              },
+              "TH": {
+                "oldText": "\"เจ้าหญิง​หายตัว​ไป​! จอม​เวท​ผู้​ชั่วร้าย​กลับมา​ทวง​แค้น​งั้น​เหรอ​?\" ในที่สุด​ จอม​เวท​ฝ่าย​ดี​และ​เพื่อน​นักรบ​ก็​มาถึง​หอคอย​ที่สูง​ที่สุด​ \"นี่​คือ​หอคอย​ที่สูง​ที่สุด​ของ​หุบเขา​ เรา​จะ​ได้​รู้​ว่า​จอม​เวท​ผู้​ชั่วร้าย​ไป​หลบ​อยู่​ตรงไหน​!\" จากนั้น​นักรบ​ทั้งหลาย​จึง​เริ่มต้น​ค้นหา​เจ้าหญิง​คาร์​ลี​!",
+                "newText": "\"เจ้าหญิง​หายตัว​ไป​แล้ว​! หรือว่า​จอม​เวท​ร้าย​จะ​กลับมา​แก้แค้น​กัน​แน่​?\" เมื่อ​ได้ยิน​เช่นนั้น​ จอม​เวท​ฝ่าย​ดี​และ​เหล่า​นักรบ​จึง​มุ่งหน้า​ไป​ยัง​หอคอย​ที่สูง​ที่สุด​ \"นี่​คือ​หอคอย​ที่สูง​ที่สุด​ของ​หุบเขา​ มัน​จะ​บอก​เรา​ได้​ว่า​จอม​เวท​ร้าย​อยู่​ที่ไหน​!\" และ​แล้ว​ เหล่า​นักรบ​ก็​เริ่ม​ออก​ตามหา​เจ้าหญิง​คาร์​ลี​!"
+              },
+              "VN": {
+                "oldText": "\"Công Chúa mất tích rồi! Có phải Pháp Sư Tà Ác quay lại để báo thù không?\" Ngay lập tức, Pháp Sư Chính Nghĩa cùng các chiến binh tiến đến tòa tháp cao nhất. \"Đây là tòa tháp cao nhất trong thung lũng. Nó sẽ chỉ cho chúng ta nơi Pháp Sư Tà Ác đang ẩn náu!\" Và thế là các chiến binh bắt đầu hành trình tìm kiếm Công Chúa Carly!",
+                "newText": "\"Công Chúa mất tích rồi! Có phải Pháp Sư Tà Ác quay lại để báo thù không?\" Ngay lập tức, Pháp Sư Chính Nghĩa cùng các chiến binh tiến đến tòa tháp cao nhất. \"Đây là tòa tháp cao nhất trong thung lũng. Ta có thể thấy nơi Pháp Sư Tà Ác đang ẩn náu!\" Và thế là các chiến binh bắt đầu hành trình tìm kiếm Công Chúa Carly!"
+              }
+            }
+          }
+        }
+      },
+      "activity_phototaking_universe_stage_2": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_universe_2_completed",
+          "completeStoryDesc": {
+            "id": "1933838617199651078",
+            "text": ""
+          },
+          "missionId": "e1m10",
+          "normalImg": "snapshot_challenge_universe_2_normal",
+          "normalStoryDesc": {
+            "id": "-7752129340402298305",
+            "text": ""
+          },
+          "stageId": "activity_phototaking_universe_stage_2"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_universe_2_completed",
+          "completeStoryDesc": {
+            "id": "1649962223274464328",
+            "text": ""
+          },
+          "missionId": "e1m10",
+          "normalImg": "snapshot_challenge_universe_2_normal",
+          "normalStoryDesc": {
+            "id": "8493099942911229443",
+            "text": ""
+          },
+          "stageId": "activity_phototaking_universe_stage_2"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "O Explorador Shuofeng é equipado com navegação autônoma e recursos para explorar outros planetas. Suas funções incluem vigilância da superfície planetária e análise geológica. Os trajes espaciais usados pelos cientistas oferecem suporte à vida, proteção contra radiação e aprimoramento de movimentos. As articulações também apresentam design biônico que permite aos cientistas flexibilidade de movimento durante as operações espaciais.\nEmbora postos sobre a mesa, os dois pequenos exploradores não estão dispostos a interromper sua jornada.",
+                "newText": "O Explorador Shuofeng é equipado com navegação autônoma e recursos para explorar outros planetas. Suas funções incluem vigilância da superfície planetária e análise geológica. Os trajes espaciais usados pelos cientistas oferecem apoio à vida, proteção contra radiação e aprimoramento de movimentos. As articulações também apresentam design biônico que proporciona aos cientistas flexibilidade de movimento durante as operações espaciais.\nEmbora colocados sobre a mesa, os dois pequenos exploradores não estão dispostos a interromper sua jornada."
+              },
+              "JP": {
+                "oldText": "探査車「朔風号」は自律ナビゲーションと星の探査機能を備え、星表面の巡回調査や地質分析などの任務を担っている。宇宙服は宇宙空間実験要員の命を守り、放射線防護と活動支援の役割を果たしている。その関節部分はバイオミメティクス関節構造設計になっており、実験要員は宇宙空間での作業中も自由な姿勢を保つことができる。\nたとえ机の上であっても、2人の小さな探索者はその旅の歩みを止めようとはしない。",
+                "newText": "探査車「朔風号」は自律ナビゲートと星の探査機能を備え、星表面の巡回調査や地質分析などの任務を担っている。宇宙服は宇宙空間実験要員の命を守り、放射線防護と活動支援の役割を果たしている。その関節部分はバイオミメティクス関節構造設計になっており、実験要員は宇宙空間での作業中も自由な姿勢を保つことができる。\nたとえ机の上であっても、2人の小さな探索者はその旅の歩みを止めようとはしない。"
+              },
+              "VN": {
+                "oldText": "Xe Dò Sóc Phong được trang bị khả năng điều hướng tự động cùng các tính năng phục vụ việc thám hiểm hành tinh khác. Nhiệm vụ của xe bao gồm giám sát bề mặt hành tinh và phân tích địa chất. Bộ đồ không gian do các nhà khoa học sử dụng cung cấp hệ thống duy trì sự sống, bảo vệ trước bức xạ và hỗ trợ vận động. Các khớp nối cũng được thiết kế theo hướng bionic, giúp nhà khoa học linh hoạt hơn trong quá trình làm việc ngoài không gian.\nDù được đặt trên bàn, hai nhà thám hiểm tí hon vẫn không muốn dừng lại hành trình của mình.",
+                "newText": "Xe Dò Sóc Phong được trang bị khả năng điều hướng tự động cùng các tính năng phục vụ việc thám hiểm hành tinh khác. Nhiệm vụ của xe bao gồm giám sát bề mặt hành tinh và phân tích địa chất. Bộ đồ không gian do các nhà khoa học sử dụng cung cấp hệ thống duy trì sự sống, bảo vệ trước bức xạ và hỗ trợ vận động. Các khớp nối cũng được thiết kế theo hướng bionic, giúp nhà khoa học linh hoạt hơn khi làm việc ngoài không gian.\nDù được đặt trên bàn, hai nhà thám hiểm tí hon vẫn không muốn dừng lại hành trình của mình."
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "O Explorador Shuofeng é equipado com navegação autônoma e recursos para explorar outros planetas. Suas funções incluem vigilância da superfície planetária e análise geológica. Os trajes espaciais usados pelos cientistas oferecem suporte à vida, proteção contra radiação e aprimoramento de movimentos. As articulações também apresentam design biônico que permite aos cientistas flexibilidade de movimento durante as operações espaciais.",
+                "newText": "O Explorador Shuofeng é equipado com navegação autônoma e recursos para explorar outros planetas. Suas funções incluem vigilância da superfície planetária e análise geológica. Os trajes espaciais usados pelos cientistas oferecem apoio à vida, proteção contra radiação e aprimoramento de movimentos. As articulações também apresentam design biônico que proporciona aos cientistas flexibilidade de movimento durante as operações espaciais."
+              },
+              "VN": {
+                "oldText": "Xe Dò Sóc Phong được trang bị khả năng điều hướng tự động cùng các tính năng phục vụ việc thám hiểm hành tinh khác. Nhiệm vụ của xe bao gồm giám sát bề mặt hành tinh và phân tích địa chất. Bộ đồ không gian do các nhà khoa học sử dụng cung cấp hệ thống duy trì sự sống, bảo vệ trước bức xạ và hỗ trợ vận động. Các khớp nối cũng được thiết kế theo hướng bionic, giúp nhà khoa học linh hoạt hơn trong quá trình làm việc ngoài không gian.",
+                "newText": "Xe Dò Sóc Phong được trang bị khả năng điều hướng tự động cùng các tính năng phục vụ việc thám hiểm hành tinh khác. Nhiệm vụ của xe bao gồm giám sát bề mặt hành tinh và phân tích địa chất. Bộ đồ không gian do các nhà khoa học sử dụng cung cấp hệ thống duy trì sự sống, bảo vệ trước bức xạ và hỗ trợ vận động. Các khớp nối cũng được thiết kế theo hướng bionic, giúp nhà khoa học linh hoạt hơn khi làm việc ngoài không gian."
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_3": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_a1c3_completed",
+          "completeStoryDesc": {
+            "id": "-3882271095129977032",
+            "text": ""
+          },
+          "missionId": "e1m9",
+          "normalImg": "snapshot_challenge_a1c3_normal",
+          "normalStoryDesc": {
+            "id": "-3653206661286581282",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_3"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_a1c3_completed",
+          "completeStoryDesc": {
+            "id": "1743785656101353371",
+            "text": ""
+          },
+          "missionId": "e1m9",
+          "normalImg": "snapshot_challenge_a1c3_normal",
+          "normalStoryDesc": {
+            "id": "2625770250761662588",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_3"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "A Conjuradora Maligna e seus lacaios uma vez atacaram este castelo, mas seu lacaio mais poderoso uma vez foi derrotado neste mesmo local pelos Cavaleiros do Céu! A Conjuradora Maligna ficou tão brava e zangada que bloqueou a ponte e fugiu furiosa! Agora, o guerreiro Lupo está atacando os monstros com cabeças em chamas! \nEla também quebrou a xícara de chá favorita da Princesa! Que vilã malvada e perversa!",
+                "newText": "A Conjuradora Maligna e seus lacaios uma vez atacaram este castelo, mas seu lacaio mais poderoso uma vez foi derrotado neste mesmo local pelos Cavaleiros dos Céus! A Conjuradora Maligna ficou tão brava e zangada que bloqueou a ponte e fugiu furiosa! Agora, o guerreiro Lupo está atacando os monstros com cabeças em chamas! \nEla também quebrou a xícara de chá favorita da Princesa! Que vilã malvada e perversa!"
+              },
+              "JP": {
+                "oldText": "昔、悪い術師とその部下はこのお城を襲った。そのとき、空の騎士が立ちはだかり、悪い術師の1番強い部下を倒した！怒り狂った悪い術師は橋を塞ぐしかできず、尻尾を巻いて逃げていった！今、ループスの勇者たちは、頭から火をふく化けものに向かってまっすぐつっこんでいった！\nお姫さまの1番大切なティーカップが割れてしまった。なんて悪い術師なんだ！",
+                "newText": "昔、悪い術師とその部下はこのお城を襲った。そのとき、空の騎士が立ちはだかり、悪い術師のいちばん強い部下を倒した！怒り狂った悪い術師は橋を塞ぐしかできず、尻尾を巻いて逃げていった！今、ループスの勇者たちは、頭から火をふく化けものに向かってまっすぐつっこんでいった！\nお姫さまのいちばん大切なティーカップが割れてしまった。なんて悪い術師なんだ！"
+              },
+              "KR": {
+                "oldText": "나쁜 캐스터와 부하들이 이 성을 공격한 적이 있습니다. 하지만 그녀의 가장 강력한 부하도 이곳에서 하늘 기사에게 패배했죠! 분노한 나쁜 캐스터는 다리를 막아선 채 꽁무니를 빼며 도망쳤습니다! 지금, 용사 루포가 머리 위에 불이 붙은 괴물들을 향해 돌진하고 있습니다!\n공주님이 가장 아끼는 찻잔을 깨뜨리다니, 정말 나빠요!",
+                "newText": "나쁜 캐스터와 부하들이 이 성을 공격한 적이 있습니다. 하지만 그녀의 가장 강력한 부하도 이곳에서 하늘 기사에게 패배했죠! 분노한 나쁜 캐스터는 다리를 막아선 채 꽁무니를 빼며 도망쳤습니다! 지금, 루포 용사가 머리 위에 불이 붙은 괴물들을 향해 돌진하고 있습니다!\n공주님이 가장 아끼는 찻잔을 깨뜨리다니, 정말 나빠요!"
+              },
+              "MX": {
+                "oldText": "La Hechicera malvada y sus secuaces atacaron este castillo una vez, pero su esbirro más poderoso fue derrotado aquí mismo por los Caballeros del cielo. ¡La Hechicera se enfureció tanto que bloqueó el puente y huyó colérica! ¡Ahora, el guerrero Lupo se abalanza sobre los monstruos con cabezas ardientes! \n¡También hizo añicos la taza de té favorita de la Princesa! ¡Qué maldad, qué villana tan ruin!",
+                "newText": "La Hechicera malvada y sus esbirros atacaron este castillo una vez, ¡pero su secuaz más poderoso fue derrotado aquí mismo por los Caballeros del cielo! ¡La Hechicera malvada se enfureció tanto que bloqueó el puente y huyó colérica! ¡Ahora, el guerrero Lupo se abalanza sobre los monstruos con cabezas ardientes! \n¡También rompió la taza de té favorita de la Princesa! ¡Qué mala, desagradable y malvadísima!"
+              },
+              "VN": {
+                "oldText": "Pháp Sư Tà Ác và đám tay sai từng tấn công lâu đài này, nhưng tên tay sai mạnh nhất của ả đã bị các Hiệp Sĩ Bầu Trời đánh bại ngay tại nơi đây! Mụ Pháp Sư nổi trận lôi đình liền chặn cây cầu lại và hậm hực bỏ chạy! Ngay lúc này, chiến binh Lupo đang lao thẳng vào bầy quái vật rực lửa trên đầu! \nẢ còn đập vỡ cả tách trà yêu thích của Công Chúa! Đúng là kẻ tà ác, đáng ghét, xấu xa!",
+                "newText": "Pháp Sư Tà Ác và đám tay sai từng tấn công lâu đài này, nhưng tên tay sai mạnh nhất đã bị các Hiệp Sĩ Bầu Trời đánh bại ngay tại nơi đây! Mụ ta nổi trận lôi đình, liền chặn cây cầu lại và hậm hực bỏ chạy! Ngay lúc này, chiến binh Lupo đang lao thẳng vào bầy quái vật rực lửa trên đầu! \nMụ còn đập vỡ cả tách trà yêu thích của Công Chúa! Đúng là kẻ tà ác, đáng ghét, xấu xa!"
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "A Conjuradora Maligna e seus lacaios uma vez atacaram este castelo, mas seu lacaio mais poderoso uma vez foi derrotado neste mesmo local pelos Cavaleiros do Céu! A Conjuradora Maligna ficou tão brava e zangada que bloqueou a ponte e fugiu furiosa! Agora, o guerreiro Lupo está atacando os monstros com cabeças em chamas!",
+                "newText": "A Conjuradora Maligna e seus lacaios uma vez atacaram este castelo, mas seu lacaio mais poderoso uma vez foi derrotado neste mesmo local pelos Cavaleiros dos Céus! A Conjuradora Maligna ficou tão brava e zangada que bloqueou a ponte e fugiu furiosa! Agora, o guerreiro Lupo está atacando os monstros com cabeças em chamas!"
+              },
+              "JP": {
+                "oldText": "昔、悪い術師とその部下はこのお城を襲った。そのとき、空の騎士が立ちはだかり、悪い術師の1番強い部下を倒した！怒り狂った悪い術師は橋を塞ぐしかできず、尻尾を巻いて逃げていった！今、ループスの勇者たちは、頭から火をふく化けものに向かってまっすぐつっこんでいった！",
+                "newText": "昔、悪い術師とその部下はこのお城を襲った。そのとき、空の騎士が立ちはだかり、悪い術師のいちばん強い部下を倒した！怒り狂った悪い術師は橋を塞ぐしかできず、尻尾を巻いて逃げていった！今、ループスの勇者たちは、頭から火をふく化けものに向かってまっすぐつっこんでいった！"
+              },
+              "KR": {
+                "oldText": "나쁜 캐스터와 부하들이 이 성을 공격한 적이 있습니다. 하지만 그녀의 가장 강력한 부하도 이곳에서 하늘 기사에게 패배했죠! 분노한 나쁜 캐스터는 다리를 막아선 채 꽁무니를 빼며 도망쳤습니다! 지금, 용사 루포가 머리 위에 불이 붙은 괴물들을 향해 돌진하고 있습니다!",
+                "newText": "나쁜 캐스터와 부하들이 이 성을 공격한 적이 있습니다. 하지만 그녀의 가장 강력한 부하도 이곳에서 하늘 기사에게 패배했죠! 분노한 나쁜 캐스터는 다리를 막아선 채 꽁무니를 빼며 도망쳤습니다! 지금, 루포 용사가 머리 위에 불이 붙은 괴물들을 향해 돌진하고 있습니다!"
+              },
+              "MX": {
+                "oldText": "La Hechicera malvada y sus secuaces atacaron este castillo una vez, pero su esbirro más poderoso fue derrotado aquí mismo por los Caballeros del cielo. ¡La Hechicera se enfureció tanto que bloqueó el puente y huyó colérica! ¡Ahora, el guerrero Lupo se abalanza sobre esos monstruos con cabezas ardientes!",
+                "newText": "La Hechicera malvada y sus esbirros atacaron este castillo una vez, ¡pero su secuaz más poderoso fue derrotado aquí mismo por los Caballeros del cielo! ¡La Hechicera malvada se enfureció tanto que bloqueó el puente y huyó colérica! ¡Ahora, el guerrero Lupo se abalanza sobre los monstruos con cabezas ardientes!"
+              },
+              "VN": {
+                "oldText": "Pháp Sư Tà Ác và đám tay sai từng tấn công lâu đài này, nhưng tên tay sai mạnh nhất của ả đã bị các Hiệp Sĩ Bầu Trời đánh bại ngay tại nơi đây! Mụ Pháp Sư nổi trận lôi đình liền chặn cây cầu lại và hậm hực bỏ chạy! Ngay lúc này, chiến binh Lupo đang lao thẳng vào bầy quái vật rực lửa trên đầu!",
+                "newText": "Pháp Sư Tà Ác và đám tay sai từng tấn công lâu đài này, nhưng tên tay sai mạnh nhất đã bị các Hiệp Sĩ Bầu Trời đánh bại ngay tại nơi đây! Mụ ta nổi trận lôi đình, liền chặn cây cầu lại và hậm hực bỏ chạy! Ngay lúc này, chiến binh Lupo đang lao thẳng vào bầy quái vật rực lửa trên đầu!"
+              }
+            }
+          }
+        }
+      },
+      "activity_phototaking_universe_stage_3": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_universe_3_completed",
+          "completeStoryDesc": {
+            "id": "3270368008202668625",
+            "text": ""
+          },
+          "missionId": "e1m10",
+          "normalImg": "snapshot_challenge_universe_3_normal",
+          "normalStoryDesc": {
+            "id": "3548919116675228837",
+            "text": ""
+          },
+          "stageId": "activity_phototaking_universe_stage_3"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_universe_3_completed",
+          "completeStoryDesc": {
+            "id": "-3556795800937544885",
+            "text": ""
+          },
+          "missionId": "e1m10",
+          "normalImg": "snapshot_challenge_universe_3_normal",
+          "normalStoryDesc": {
+            "id": "6706359208244266075",
+            "text": ""
+          },
+          "stageId": "activity_phototaking_universe_stage_3"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "KR": {
+                "oldText": "로켓의 비행 궤적은 깊은 우주를 향한 꿈을 좇는 아름다운 여정입니다. 행성의 중력을 극복하고 예정된 궤도에 정확히 진입하기 위해서는 강력한 추진력뿐 아니라, 궤도역학과 정밀 항법의 완벽한 협업이 필수적입니다. 모든 발사는 심우주 탐사의 토대를 더욱 단단히 다져 줍니다.\n별들이 우리를 부르고 있습니다. 이제 여기서 출발합시다! 하늘 위로, 끝없는 우주 속으로, 목적지는 아직 모습을 드러내지 않았습니다.",
+                "newText": "로켓의 비행 궤적은 심우주를 향한 꿈을 좇는 아름다운 여정입니다. 행성의 중력을 극복하고 예정된 궤도에 정확히 진입하기 위해서는 강력한 추진력뿐 아니라, 궤도역학과 정밀 항법의 완벽한 협업이 필수적입니다. 모든 발사는 심우주 탐사의 토대를 더욱 단단히 다져 줍니다.\n별들이 우리를 부르고 있습니다. 이제 여기서 출발합시다! 하늘 위로, 끝없는 우주 속으로, 목적지는 아직 모습을 드러내지 않았습니다."
+              },
+              "TH": {
+                "oldText": "วิถี​การบิน​ของ​จรวด​คือ​การ​ไล่ตาม​ความฝัน​สู่​ห้วง​อวกาศ​อัน​ไกลโพ้น​อย่าง​สง่างาม​ การ​เอาชนะ​แรงดึงดูด​ของ​ดาวเคราะห์​และ​เข้าสู่​วงโคจร​ที่​คำนวณ​ไว้​ล่วงหน้า​ต้อง​อาศัย​ไม่​เพียง​แรงขับ​มหาศาล​ แต่​ยัง​รวมถึง​การประสานงาน​อย่าง​สมบูรณ์​กับ​กลศาสตร์​วงโคจร​และ​การนำทาง​ที่​แม่นยำ​ รากฐาน​ของ​ความพยายาม​ใน​การสำรวจ​ห้วง​อวกาศ​ลึก​จะ​แข็งแกร่ง​ขึ้น​ใน​ทุก​การ​ปล่อย​จรวด​\nดวงดาว​กำลัง​เรียกหา​เรา​ ออกเดินทาง​กัน​เถอะ​! จุดหมาย​ที่อยู่​ใน​ห้วง​จักรวาล​อัน​กว้างใหญ่​ยังคง​ไกล​กว่า​จะ​มองเห็น",
+                "newText": "วิถี​การบิน​ของ​จรวด​คือ​การ​ไล่ตาม​ความฝัน​สู่​ห้วง​อวกาศ​อัน​ไกลโพ้น​อย่าง​สง่างาม​ การ​เอาชนะ​แรงโน้มถ่วง​ของ​ดาวเคราะห์​และ​เข้าสู่​วงโคจร​ที่​คำนวณ​ไว้​ล่วงหน้า​ต้อง​อาศัย​ไม่​เพียง​แรงขับ​มหาศาล​ แต่​ยัง​รวมถึง​การประสานงาน​อย่าง​สมบูรณ์​กับ​กลศาสตร์​วงโคจร​และ​การนำทาง​ที่​แม่นยำ​ รากฐาน​ของ​ความพยายาม​ใน​การสำรวจ​ห้วง​อวกาศ​ลึก​จะ​แข็งแกร่ง​ขึ้น​ใน​ทุก​การ​ปล่อย​จรวด​\nดวงดาว​กำลัง​เรียกหา​เรา​ ออกเดินทาง​กัน​เถอะ​! จุดหมาย​ที่อยู่​ใน​ห้วง​จักรวาล​อัน​กว้างใหญ่​ยังคง​ไกล​กว่า​จะ​มองเห็น"
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "KR": {
+                "oldText": "로켓의 비행 궤적은 깊은 우주를 향한 꿈을 좇는 아름다운 여정입니다. 행성의 중력을 극복하고 예정된 궤도에 정확히 진입하기 위해서는 강력한 추진력뿐 아니라, 궤도역학과 정밀 항법의 완벽한 협업이 필수적입니다. 모든 발사는 심우주 탐사의 토대를 더욱 단단히 다져 줍니다.",
+                "newText": "로켓의 비행 궤적은 심우주를 향한 꿈을 좇는 아름다운 여정입니다. 행성의 중력을 극복하고 예정된 궤도에 정확히 진입하기 위해서는 강력한 추진력뿐 아니라, 궤도역학과 정밀 항법의 완벽한 협업이 필수적입니다. 모든 발사는 심우주 탐사의 토대를 더욱 단단히 다져 줍니다."
+              },
+              "TH": {
+                "oldText": "วิถี​การบิน​ของ​จรวด​คือ​การ​ไล่ตาม​ความฝัน​สู่​ห้วง​อวกาศ​อัน​ไกลโพ้น​อย่าง​สง่างาม​ การ​เอาชนะ​แรงดึงดูด​ของ​ดาวเคราะห์​และ​เข้าสู่​วงโคจร​ที่​คำนวณ​ไว้​ล่วงหน้า​ต้อง​อาศัย​ไม่​เพียง​แรงขับ​มหาศาล​ แต่​ยัง​รวมถึง​การประสานงาน​อย่าง​สมบูรณ์​กับ​กลศาสตร์​วงโคจร​และ​การนำทาง​ที่​แม่นยำ​ รากฐาน​ของ​ความพยายาม​ใน​การสำรวจ​ห้วง​อวกาศ​ลึก​จะ​แข็งแกร่ง​ขึ้น​ใน​ทุก​การ​ปล่อย​จรวด",
+                "newText": "วิถี​การบิน​ของ​จรวด​คือ​การ​ไล่ตาม​ความฝัน​สู่​ห้วง​อวกาศ​อัน​ไกลโพ้น​อย่าง​สง่างาม​ การ​เอาชนะ​แรงโน้มถ่วง​ของ​ดาวเคราะห์​และ​เข้าสู่​วงโคจร​ที่​คำนวณ​ไว้​ล่วงหน้า​ต้อง​อาศัย​ไม่​เพียง​แรงขับ​มหาศาล​ แต่​ยัง​รวมถึง​การประสานงาน​อย่าง​สมบูรณ์​กับ​กลศาสตร์​วงโคจร​และ​การนำทาง​ที่​แม่นยำ​ รากฐาน​ของ​ความพยายาม​ใน​การสำรวจ​ห้วง​อวกาศ​ลึก​จะ​แข็งแกร่ง​ขึ้น​ใน​ทุก​การ​ปล่อย​จรวด"
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_4": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_a1c4_completed",
+          "completeStoryDesc": {
+            "id": "-9100619929712628711",
+            "text": ""
+          },
+          "missionId": "sm1l3m1",
+          "normalImg": "snapshot_challenge_a1c4_normal",
+          "normalStoryDesc": {
+            "id": "-2993152649422254660",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_4"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_a1c4_completed",
+          "completeStoryDesc": {
+            "id": "-2983844193933141715",
+            "text": ""
+          },
+          "missionId": "sm1l3m1",
+          "normalImg": "snapshot_challenge_a1c4_normal",
+          "normalStoryDesc": {
+            "id": "4434927195183048611",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_4"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "JP": {
+                "oldText": "岩の上に、巨大な長い腕のロボットが座っていた。みんなもお姫さまもその足元で遊ぶのが大好きだ！ロボットは長い剣を掲げる勇者を見つめて、ゆっくり口を開いた。「私は別の場所へ引っ越す。もう、あなたたちに協力はできない。勇者たちよ、さらばだ。」\nお姫さまもここに来たことがある！",
+                "newText": "岩の上に、大きな長い腕のロボットが座っていた。みんなもお姫さまもその足元で遊ぶのが大好きだ！ロボットは長い剣を掲げる勇者を見つめて、ゆっくり口を開いた。「私は別の場所へ引っ越す。もう、あなたたちに協力はできない。勇者たちよ、さらばだ。」\nお姫さまもここに来たことがある！"
+              },
+              "KR": {
+                "oldText": "거대한 긴팔 로봇이 바위 위에 앉아 있습니다. 모두가 그 발치에서 노는 걸 좋아하고, 공주님도 마찬가지였습니다! 로봇은 장검을 든 용사를 바라보며 말했습니다. \"난 다른 곳으로 떠나야 해. 너희를 도울 수 없어. 잘 있어, 용사들.\"\n공주님도 여기 온 적이 있었네요!",
+                "newText": "거대한 긴팔 로봇이 바위 위에 앉아 있습니다. 모두가 그 발치에서 노는 걸 좋아하고, 공주님도 마찬가지랍니다! 로봇은 장검을 든 용사를 바라보며 말했습니다. \"난 다른 곳으로 떠나야 해. 너희를 도울 수 없어. 잘 있어, 용사들.\"\n공주님도 여기 온 적이 있었네요!"
+              },
+              "MX": {
+                "oldText": "El robot gigante de brazos largos se sentó sobre una roca. ¡A todos, incluida la Princesa, les encanta jugar cerca de sus pies! El robot miró al guerrero con la espada y retumbó: “Debo partir a otro lugar y ya no podré ayudarlos. Adiós, mis valientes guerreros.” \n¡La Princesa también estuvo aquí!",
+                "newText": "El robot gigante de brazos largos se sentó sobre una roca. ¡A todos, incluida la Princesa, les encanta jugar cerca de sus pies! El robot miró al guerrero con la espada y sentenció: “Debo partir a otro lugar y ya no podré ayudarlos. Adiós, mis valientes guerreros.” \n¡La Princesa también estuvo aquí!"
+              },
+              "TH": {
+                "oldText": "หุ่นยนต์​แขน​ยาว​ตัว​ใหญ่​นั่ง​อยู่​บน​ก้อนหิน​ ทุกคน​รวมทั้ง​เจ้าหญิง​ ชอบ​ไป​เล่น​ใกล้​กับ​เท้า​ของ​หุ่นยนต์​! หุ่นยนต์​มอง​ไป​ที่​นักรบ​ผู้​ถือ​ดาบ​และ​กล่าว​ด้วย​เสียงดัง​ก้อง​ว่า​: \"ข้า​กำลังจะ​ไป​ที่อื่น​ และ​ไม่​อาจ​ช่วย​พวก​เจ้า​ได้​อีกต่อไป​ ลาก่อน​ นักรบ​ผู้​กล้า​ของ​ข้า​\"\nเจ้าหญิง​เอง​ก็​อยู่​ที่นี่​ด้วย​!",
+                "newText": "หุ่นยนต์​แขน​ยาว​ตัว​ใหญ่​นั่ง​อยู่​บน​ก้อนหิน​ ทุกคน​รวมทั้ง​เจ้าหญิง​ ชอบ​ไป​เล่น​ใกล้​กับ​เท้า​ของ​หุ่นยนต์​! หุ่นยนต์​มอง​ไป​ที่​นักรบ​ผู้​ถือ​ดาบ​และ​กล่าว​ด้วย​เสียงดัง​ก้อง​ว่า​: \"ข้า​กำลังจะ​ไป​ที่อื่น​ และ​ไม่​อาจ​ช่วย​พวก​เจ้า​ได้​อีกต่อไป​ ลาก่อน​ นักรบ​ผู้​กล้า​ของ​ข้า​\" \nเจ้าหญิง​เอง​ก็​อยู่​ที่นี่​ด้วย​!"
+              },
+              "VN": {
+                "oldText": "Con robot khổng lồ tay dài ngồi trên một tảng đá. Mọi người, kể cả Công Chúa, đều thích chơi đùa quanh chân của nó! Robot nhìn vào chiến binh cầm kiếm và cất tiếng vang dội: \"Ta sắp đến một nơi khác và sẽ không thể giúp các ngươi nữa. Tạm biệt, những chiến binh dũng cảm của ta.\" \nCông Chúa cũng ở đây!",
+                "newText": "Robot khổng lồ tay dài ngồi trên một tảng đá. Mọi người, kể cả Công Chúa, đều thích chơi đùa quanh chân robot! Robot nhìn vào chiến binh cầm kiếm và cất tiếng vang dội: \"Ta sắp đến một nơi khác và sẽ không thể giúp nữa. Tạm biệt các chiến binh dũng cảm.\" \nCông Chúa cũng ở đây!"
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "JP": {
+                "oldText": "岩の上に、巨大な長い腕のロボットが座っていた。みんなもお姫さまもその足元で遊ぶのが大好きだ！ロボットは長い剣を掲げる勇者を見つめて、ゆっくり口を開いた。「私は別の場所へ引っ越す。もう、あなたたちに協力はできない。勇者たちよ、さらばだ。」",
+                "newText": "岩の上に、大きな長い腕のロボットが座っていた。みんなもお姫さまもその足元で遊ぶのが大好きだ！ロボットは長い剣を掲げる勇者を見つめて、ゆっくり口を開いた。「私は別の場所へ引っ越す。もう、あなたたちに協力はできない。勇者たちよ、さらばだ。」"
+              },
+              "KR": {
+                "oldText": "거대한 긴팔 로봇이 바위 위에 앉아 있습니다. 모두가 그 발치에서 노는 걸 좋아하고, 공주님도 마찬가지였습니다! 로봇은 장검을 든 용사를 바라보며 말했습니다. \"난 다른 곳으로 떠나야 해. 너희를 도울 수 없어. 잘 있어, 용사들.\"",
+                "newText": "거대한 긴팔 로봇이 바위 위에 앉아 있습니다. 모두가 그 발치에서 노는 걸 좋아하고, 공주님도 마찬가지랍니다! 로봇은 장검을 든 용사를 바라보며 말했습니다. \"난 다른 곳으로 떠나야 해. 너희를 도울 수 없어. 잘 있어, 용사들.\""
+              },
+              "MX": {
+                "oldText": "El robot gigante de brazos largos se sentó sobre una roca. ¡A todos, incluida la Princesa, les encanta jugar cerca de sus pies! El robot miró al guerrero con la espada y retumbó: “Debo partir a otro lugar y ya no podré ayudarlos. Adiós, mis valientes guerreros.”",
+                "newText": "El robot gigante de brazos largos se sentó sobre una roca. ¡A todos, incluida la Princesa, les encanta jugar cerca de sus pies! El robot miró al guerrero con la espada y sentenció: “Debo partir a otro lugar y ya no podré ayudarlos. Adiós, mis valientes guerreros.”"
+              },
+              "TH": {
+                "oldText": "หุ่นยนต์​แขน​ยาว​ตัว​ใหญ่​นั่ง​อยู่​บน​ก้อนหิน​ ทุกคน​รวมทั้ง​เจ้าหญิง​ ชอบ​ไป​เล่น​ใกล้​กับ​เท้า​ของ​หุ่นยนต์​! หุ่นยนต์​มอง​ไป​ที่​นักรบ​ผู้​ถือ​ดาบ​และ​กล่าว​ด้วย​เสียงดัง​ก้อง​ว่า​: \"ข้า​กำลังจะ​ไป​ยัง​สถานที่​อื่น​ และ​ไม่​อาจ​ช่วย​พวก​เจ้า​ได้​อีกต่อไป​ ลาก่อน​ นักรบ​ผู้​กล้า​ของ​ข้า​\"",
+                "newText": "หุ่นยนต์​แขน​ยาว​ตัว​ใหญ่​นั่ง​อยู่​บน​ก้อนหิน​ ทุกคน​รวมทั้ง​เจ้าหญิง​ ชอบ​ไป​เล่น​ใกล้​กับ​เท้า​ของ​หุ่นยนต์​! หุ่นยนต์​มอง​ไป​ที่​นักรบ​ผู้​ถือ​ดาบ​และ​กล่าว​ด้วย​เสียงดัง​ก้อง​ว่า​: \"ข้า​กำลังจะ​ไป​ที่อื่น​ และ​ไม่​อาจ​ช่วย​พวก​เจ้า​ได้​อีกต่อไป​ ลาก่อน​ นักรบ​ผู้​กล้า​ของ​ข้า​\""
+              },
+              "VN": {
+                "oldText": "Con robot khổng lồ tay dài ngồi trên một tảng đá. Mọi người, kể cả Công Chúa, đều thích chơi đùa quanh chân của nó! Robot nhìn vào chiến binh cầm kiếm và cất tiếng vang dội: \"Ta sắp đến một nơi khác và sẽ không thể giúp các ngươi nữa. Tạm biệt, những chiến binh dũng cảm của ta.\"",
+                "newText": "Robot khổng lồ tay dài ngồi trên một tảng đá. Mọi người, kể cả Công Chúa, đều thích chơi đùa quanh chân robot! Robot nhìn vào chiến binh cầm kiếm và cất tiếng vang dội: \"Ta sắp đến một nơi khác và sẽ không thể giúp nữa. Tạm biệt các chiến binh dũng cảm.\""
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_5": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_a1c5_completed",
+          "completeStoryDesc": {
+            "id": "-2260887008869809541",
+            "text": ""
+          },
+          "missionId": "e2m5",
+          "normalImg": "snapshot_challenge_a1c5_normal",
+          "normalStoryDesc": {
+            "id": "-8539859709258563638",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_5"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_a1c5_completed",
+          "completeStoryDesc": {
+            "id": "639299300321311078",
+            "text": ""
+          },
+          "missionId": "e2m5",
+          "normalImg": "snapshot_challenge_a1c5_normal",
+          "normalStoryDesc": {
+            "id": "7632273693586434865",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_5"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "DE": {
+                "oldText": "Die Krieger schritten durch die blauen Leinentücher, die vor den Höhlen hingen, und stießen auf einen sehr seltenen Lung! „HEY! HALT! Ich bin nicht die böse Zauberin! Ich bin hier, um euch bei der Rettung der Prinzessin zu helfen!“ \nDanach schloss sich der Lung freudig dem Team an.",
+                "newText": "Die Krieger schritten durch die blauen Leinentücher, die vor den Höhlen hingen, und stießen auf einen sehr seltenen Lung! „HEY! BLEIB STEHEN! Ich bin nicht die böse Zauberin! Ich bin hier, um euch bei der Rettung der Prinzessin zu helfen!“ \nDanach schloss sich der Lung freudig dem Team an."
+              },
+              "MX": {
+                "oldText": "Los guerreros pasaron entre los paños azules colgados fuera de las cuevas y se toparon con un Lung muy raro. “¡EH! ¡ALTO! ¡No soy la Hechicera malvada! ¡Estoy aquí para ayudarles a rescatar a la Princesa!” \nDicho esto, el Lung se unió feliz al equipo.",
+                "newText": "¡Los guerreros pasaron por las telas azules colgadas fuera de las cuevas y se encontraron con un Lung muy raro! “¡OYE! ¡ALTO! ¡Yo no soy la Hechicera malvada! ¡Estoy aquí para ayudarlos a rescatar a la Princesa!” \nDicho esto, el Lung se unió feliz al equipo."
+              },
+              "TH": {
+                "oldText": "เหล่า​นักรบ​เดินผ่าน​ผ้า​ลิ​นิน​สีฟ้า​ที่​แขวน​อยู่​ด้านนอก​ถ้ำ​ และ​พบ​กับ​หลง​ที่​หายาก​มาก​! \"เฮ้​! หยุด​! ฉัน​ไม่ใช่​จอม​เวท​ผู้​ชั่วร้าย​! ฉัน​มา​ช่วย​เจ้าหญิง​!\"\nด้วยเหตุนี้​ หลง​ก็​เข้าร่วม​ทีม​ด้วยความยินดี",
+                "newText": "เหล่า​นักรบ​เดินผ่าน​ผ้า​ลิ​นิน​สีฟ้า​ที่​แขวน​อยู่​ด้านนอก​ถ้ำ​ และ​พบ​กับ​หลง​ที่​หายาก​มาก​! \"เฮ้​! หยุด​! ฉัน​ไม่ใช่​จอม​เวท​ร้าย​! ฉัน​มา​ช่วย​เจ้าหญิง​!\" \nด้วยเหตุนี้​ หลง​ก็​เข้าร่วม​ทีม​ด้วยความยินดี"
+              },
+              "VN": {
+                "oldText": "Các chiến binh băng qua những tấm vải xanh treo trước hang động và bất ngờ chạm trán một con Long cực kỳ hiếm! \"NÀY! DỪNG LẠI! Ta không phải Pháp Sư Tà Ác đâu! Ta đến để giúp các ngươi giải cứu Công Chúa!\" \nVà rồi, Long vui vẻ gia nhập đội.",
+                "newText": "Các chiến binh băng qua những tấm vải xanh treo trước hang động và bất ngờ chạm trán một con Long cực kỳ hiếm! \"NÀY! DỪNG LẠI! Ta không phải Pháp Sư Tà Ác đâu! Ta đến để giúp giải cứu Công Chúa!\" \nVà rồi, Long vui vẻ gia nhập đội."
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "DE": {
+                "oldText": "Die Krieger schritten durch die blauen Leinentücher, die vor den Höhlen hingen, und stießen auf einen sehr seltenen Lung! „HEY! HALT! Ich bin nicht die böse Zauberin! Ich bin hier, um euch bei der Rettung der Prinzessin zu helfen!“",
+                "newText": "Die Krieger schritten durch die blauen Leinentücher, die vor den Höhlen hingen, und stießen auf einen sehr seltenen Lung! „HEY! BLEIB STEHEN! Ich bin nicht die böse Zauberin! Ich bin hier, um euch bei der Rettung der Prinzessin zu helfen!“"
+              },
+              "MX": {
+                "oldText": "¡Los guerreros atravesaron las telas azules colgadas a la entrada de las cuevas y se toparon con un Lung muy raro! “¡HEY! ¡BASTA! ¡No soy la Hechicera malvada! ¡Estoy aquí para ayudarlos a rescatar a la Princesa!”",
+                "newText": "¡Los guerreros pasaron por las telas azules colgadas fuera de las cuevas y se encontraron con un Lung muy raro! “¡OYE! ¡ALTO! ¡Yo no soy la Hechicera malvada! ¡Estoy aquí para ayudarlos a rescatar a la Princesa!”"
+              },
+              "TH": {
+                "oldText": "เหล่า​นักรบ​เดินผ่าน​ผ้า​ลิ​นิน​สีฟ้า​ที่​แขวน​อยู่​ด้านนอก​ถ้ำ​ และ​พบ​กับ​หลง​ที่​หา​ตัว​ยาก​มาก​! \"เฮ้​! หยุด​! ฉัน​ไม่ใช่​จอม​เวท​ผู้​ชั่วร้าย​! ฉัน​มา​ช่วย​เจ้าหญิง​!\"",
+                "newText": "เหล่า​นักรบ​เดินผ่าน​ผ้า​ลิ​นิน​สีฟ้า​ที่​แขวน​อยู่​ด้านนอก​ถ้ำ​ และ​พบ​กับ​หลง​ที่​หายาก​มาก​! \"เฮ้​! หยุด​! ฉัน​ไม่ใช่​จอม​เวท​ร้าย​! ฉัน​มา​ช่วย​เจ้าหญิง​!\""
+              },
+              "VN": {
+                "oldText": "Các chiến binh băng qua những tấm vải xanh treo trước hang động và bất ngờ chạm trán một con Long cực kỳ hiếm! \"NÀY! DỪNG LẠI! Ta không phải Pháp Sư Tà Ác đâu! Ta đến để giúp các ngươi giải cứu Công Chúa!\"",
+                "newText": "Các chiến binh băng qua những tấm vải xanh treo trước hang động và bất ngờ chạm trán một con Long cực kỳ hiếm! \"NÀY! DỪNG LẠI! Ta không phải Pháp Sư Tà Ác đâu! Ta đến để giúp giải cứu Công Chúa!\""
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_6": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_a1c6_completed",
+          "completeStoryDesc": {
+            "id": "1497761515547976503",
+            "text": ""
+          },
+          "missionId": "e2m8",
+          "normalImg": "snapshot_challenge_a1c6_normal",
+          "normalStoryDesc": {
+            "id": "741531906544407803",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_6"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_a1c6_completed",
+          "completeStoryDesc": {
+            "id": "8200184911791327676",
+            "text": ""
+          },
+          "missionId": "e2m8",
+          "normalImg": "snapshot_challenge_a1c6_normal",
+          "normalStoryDesc": {
+            "id": "5274540929170150417",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_6"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "\"Muda pedregosa!\", falou com entusiasmo o guerreiro empunhando dois canhões de mão: \"Os Cavaleiros do Céu uma vez lutaram contra um grande monstro aqui. Eles derrotaram o monstro e salvaram a pequena Muda do Grande, Grande Carvalho de Pedra!\"\nAcontece que o monstro aprisionou a pequena muda do Grande, Grande Carvalho de Pedra!",
+                "newText": "\"Muda pedregosa!\", falou com entusiasmo o guerreiro empunhando dois canhões de mão: \"Os Cavaleiros dos Céus uma vez lutaram contra um grande monstro aqui. Eles derrotaram o monstro e salvaram a pequena Muda do Grande, Grande Carvalho de Pedra!\"\nAcontece que o monstro aprisionou a pequena muda do Grande, Grande Carvalho de Pedra!"
+              },
+              "MX": {
+                "oldText": "“¡Retoño pétreo!”, dijo emocionado el guerrero que empuñaba dos cañones de mano. “Los Caballeros del cielo pelearon aquí contra un gran monstruo. Derrotaron al monstruo y salvaron al retoño bebé del Gran, Gran Roble de piedra”.\n¡Resulta que el monstruo había aprisionado al retoño bebé del Gran, Gran Roble de piedra!",
+                "newText": "“¡Retoño pétreo!”, dijo emocionado el guerrero que empuñaba dos cañones de mano. “Los Caballeros del cielo pelearon aquí contra un gran monstruo. ¡Derrotaron al monstruo y salvaron al retoño del Gran, Gran Roble de piedra!”\n¡Resulta que el monstruo había aprisionado al pequeño retoño del Gran, Gran Roble de Piedra!"
+              },
+              "TH": {
+                "oldText": "\"ต้นอ่อน​หิน​!\" นักรบ​ผู้​ถือ​ปืน​หาม​แล่น​สอง​กระบอก​กล่าว​ด้วย​ความตื่นเต้น​ \"ครั้งหนึ่ง​อัศวิน​แห่ง​ท้องฟ้า​ได้​ต่อสู้​กับ​สัตว์ประหลาด​ตัว​ใหญ่​ที่นี่​ พวกเขา​เอาชนะ​สัตว์ประหลาด​และ​ช่วยชีวิต​ต้นกล้า​ของ​ต้น​โอ๊ก​ศิลา​สุด​ยิ่งใหญ่​ได้​สำเร็จ​!\"\nปรากฏ​ว่า​สัตว์ประหลาด​ได้​กักขัง​ต้นอ่อน​ของ​ต้น​โอ๊ก​ศิลา​สุด​ยิ่งใหญ่​ไว้​นั่นเอง​!",
+                "newText": "\"ต้นอ่อน​หิน​!\" นักรบ​ผู้​ถือ​ปืน​หาม​แล่น​สอง​กระบอก​กล่าว​ด้วย​ความตื่นเต้น​ \"ครั้งหนึ่ง​อัศวิน​แห่ง​ท้องฟ้า​ได้​ต่อสู้​กับ​สัตว์ประหลาด​ตัว​ใหญ่​ที่นี่​ พวกเขา​เอาชนะ​สัตว์ประหลาด​และ​ช่วยชีวิต​ต้นอ่อน​ของ​ต้น​โอ๊ก​ศิลา​สุด​ยิ่งใหญ่​ได้​สำเร็จ​!\"\nปรากฏ​ว่า​สัตว์ประหลาด​ได้​กักขัง​ต้นอ่อน​ของ​ต้น​โอ๊ก​ศิลา​สุด​ยิ่งใหญ่​ไว้​นั่นเอง​!"
+              },
+              "VN": {
+                "oldText": "\"Cây non bằng đá!\" – chiến binh cầm hai khẩu súng lục reo lên phấn khích, \"Các Hiệp Sĩ Bầu Trời từng chiến đấu với một quái vật khổng lồ ngay tại đây. Họ đã đánh bại nó và cứu lấy mầm cây non của Cây Sồi Đá Vĩ Đại!\"\nThì ra con quái vật ấy đã giam giữ chồi non của Cây Sồi Đá Vĩ Đại!",
+                "newText": "\"Cây non đá!\" – chiến binh cầm hai khẩu súng lục reo lên phấn khích, \"Các Hiệp Sĩ Bầu Trời từng chiến đấu với một quái vật khổng lồ ngay tại đây. Họ đã đánh bại nó và cứu lấy chồi non của Cây Sồi Đá Vĩ Đại!\"\nThì ra con quái vật ấy đã giam giữ chồi non của Cây Sồi Đá Vĩ Đại!"
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "\"Muda pedregosa!\", falou com entusiasmo o guerreiro empunhando dois canhões de mão: \"Os Cavaleiros do Céu uma vez lutaram contra um grande monstro aqui. Eles derrotaram o monstro e salvaram a pequena Muda do Grande, Grande Carvalho de Pedra!\"",
+                "newText": "\"Muda pedregosa!\", falou com entusiasmo o guerreiro empunhando dois canhões de mão: \"Os Cavaleiros dos Céus uma vez lutaram contra um grande monstro aqui. Eles derrotaram o monstro e salvaram a pequena Muda do Grande, Grande Carvalho de Pedra!\""
+              },
+              "MX": {
+                "oldText": "“¡Retoño de piedra!”, dijo emocionado el guerrero que empuñaba dos cañones de mano, “Los Caballeros del Cielo pelearon aquí contra un gran monstruo. ¡Derrotaron al monstruo y salvaron al pequeño retoño del Gran, Gran Roble de Piedra!”",
+                "newText": "“¡Retoño pétreo!”, dijo emocionado el guerrero que empuñaba dos cañones de mano. “Los Caballeros del cielo pelearon aquí contra un gran monstruo. ¡Derrotaron al monstruo y salvaron al retoño del Gran, Gran Roble de piedra!”"
+              },
+              "TH": {
+                "oldText": "\"ต้นอ่อน​หิน​!\" นักรบ​ผู้​ถือ​ปืน​หาม​แล่น​สอง​กระบอก​กล่าว​ด้วย​ความตื่นเต้น​ \"ครั้งหนึ่ง​อัศวิน​แห่ง​ท้องฟ้า​ได้​ต่อสู้​กับ​สัตว์ประหลาด​ตัว​ใหญ่​ที่นี่​\" พวกเขา​เอาชนะ​มอน​สเตอ​ร์​และ​ช่วยชีวิต​ต้นกล้า​ของ​ต้น​โอ๊ก​ศิลา​สุด​ยิ่งใหญ่​ได้​สำเร็จ​!",
+                "newText": "\"ต้นอ่อน​หิน​!\" นักรบ​ผู้​ถือ​ปืน​หาม​แล่น​สอง​กระบอก​กล่าว​ด้วย​ความตื่นเต้น​ \"ครั้งหนึ่ง​อัศวิน​แห่ง​ท้องฟ้า​ได้​ต่อสู้​กับ​สัตว์ประหลาด​ตัว​ใหญ่​ที่นี่​ พวกเขา​เอาชนะ​สัตว์ประหลาด​และ​ช่วยชีวิต​ต้นอ่อน​ของ​ต้น​โอ๊ก​ศิลา​สุด​ยิ่งใหญ่​ได้​สำเร็จ​!\""
+              },
+              "VN": {
+                "oldText": "\"Cây non bằng đá!\" – chiến binh cầm hai khẩu súng lục reo lên phấn khích, \"Các Hiệp Sĩ Bầu Trời từng chiến đấu với một quái vật khổng lồ ngay tại đây. Họ đã đánh bại nó và cứu lấy chồi non của Cây Sồi Đá Vĩ Đại!\"",
+                "newText": "\"Cây non đá!\" – chiến binh cầm hai khẩu súng lục reo lên phấn khích, \"Các Hiệp Sĩ Bầu Trời từng chiến đấu với một quái vật khổng lồ ngay tại đây. Họ đã đánh bại nó và cứu lấy chồi non của Cây Sồi Đá Vĩ Đại!\""
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_7": {
+        "oldValue": {
+          "completeImg": "snapshot_challenge_a1c7_completed",
+          "completeStoryDesc": {
+            "id": "-1221381253191075706",
+            "text": ""
+          },
+          "missionId": "e3m5",
+          "normalImg": "snapshot_challenge_a1c7_normal",
+          "normalStoryDesc": {
+            "id": "943779804889508963",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_7"
+        },
+        "newValue": {
+          "completeImg": "snapshot_challenge_a1c7_completed",
+          "completeStoryDesc": {
+            "id": "7379234430026477294",
+            "text": ""
+          },
+          "missionId": "e3m5",
+          "normalImg": "snapshot_challenge_a1c7_normal",
+          "normalStoryDesc": {
+            "id": "566875722204450113",
+            "text": ""
+          },
+          "stageId": "activity_conditional_multistage_1_stage_7"
+        },
+        "changed": {
+          "completeStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "\"Vejam! Foi aí que os Cavaleiros do Céu derrotaram a Conjuradora Maligna!\", disse enquanto apontava para os portões do castelo em chamas o guerreiro cujas mãos emitem faíscas elétricas. Não havia nuvens escuras iminentes, nem a Conjuradora Maligna e seus lacaios. Mas os guerreiros acreditam que a Princesa estava lá dentro!\n\"Estou indo embora.\" \"Você vai voltar?\" \"Os Cavaleiros do Céu voltarão quando as pessoas precisarem de nós outra vez.\"",
+                "newText": "\"Vejam! Foi ali que os Cavaleiros dos Céus derrotaram a Conjuradora Maligna!\", exclamou o guerreiro de mãos faiscantes, apontando para os portões incendiados do castelo. O céu estava limpo, sem nuvens sombrias, e não havia sinal da Conjuradora Maligna nem de seus lacaios. Mesmo assim, os guerreiros acreditavam que a Princesa estava lá dentro!\n\"Estou indo embora.\" \"Você vai voltar?\" \"Os Cavaleiros dos Céus voltarão quando as pessoas precisarem de nós outra vez.\""
+              },
+              "IT": {
+                "oldText": "\"Guardate! È lì che i guerrieri celesti hanno sconfitto la strega malvagia!\", disse un membro del gruppo con le mani elettriche indicando il cancello del castello fiammeggiante. Non c'era traccia di nubi nere e minacciose o della strega malvagia e i suoi servitori. Ma secondo i guerrieri, la principessa era lì dentro!\n\"Me ne vado.\" \"Tornerai?\" \"I cavalieri celesti faranno ritorno quando la gente avrà ancora bisogno di noi.\"",
+                "newText": "\"Guardate! È lì che i cavalieri celesti hanno sconfitto la strega malvagia!\", disse un membro del gruppo con le mani elettriche indicando il cancello del castello fiammeggiante. Non c'era traccia di nubi nere e minacciose o della strega malvagia e i suoi servitori. Ma secondo i guerrieri, la principessa era lì dentro!\n\"Me ne vado.\" \"Tornerai?\" \"I cavalieri celesti faranno ritorno quando la gente avrà ancora bisogno di noi.\""
+              },
+              "TH": {
+                "oldText": "ดู​สิ​! \"นั่น​คือ​ที่​ที่​อัศวิน​แห่ง​ท้องฟ้า​ปราบ​จอม​เวท​ผู้​ชั่วร้าย​!\" นักรบ​ผู้​มี​ประกายไฟฟ้า​จาก​มือ​กล่าว​พลาง​ชี้​ไป​ยัง​ประตู​ปราสาท​ที่​ลุกเป็นไฟ​ ไม่มี​เมฆ​ดำ​ครึ้ม​ และ​ไม่มี​จอม​เวท​ผู้​ชั่วร้าย​หรือ​สมุน​ของ​เธอ​อีก​ แต่​นักรบ​ผู้​กล้า​เชื่อ​ว่า​เจ้าหญิง​อยู่​ข้างใน​!\n\"ฉัน​ต้อง​ไป​แล้ว​\" คุณ​จะ​กลับมา​อีก​ไหม​?\" ฉัน​จะ​กลับมา​เมื่อ​ผู้คน​ต้องการ​ฉัน​อีก​\" \"อัศวิน​แห่ง​ผืน​ฟ้า​จะ​กลับมา​ เมื่อ​ผู้คน​ต้องการ​พวกเรา​อีกครั้ง​\"",
+                "newText": "\"ดู​สิ​! นั่น​คือ​ที่​ที่​อัศวิน​แห่ง​ท้องฟ้า​ปราบ​จอม​เวท​ร้าย​!\" นักรบ​ผู้​มี​ประกายไฟฟ้า​จาก​มือ​กล่าว​พลาง​ชี้​ไป​ยัง​ประตู​ปราสาท​ที่​ลุกเป็นไฟ​ ไม่มี​เมฆ​ดำ​ครึ้ม​ และ​ไม่มี​จอม​เวท​ร้าย​หรือ​สมุน​ของ​เธอ​อีก​ แต่​นักรบ​ผู้​กล้า​เชื่อ​ว่า​เจ้าหญิง​อยู่​ข้างใน​!\n\"ฉัน​ต้อง​ไป​แล้ว​\" \"คุณ​จะ​กลับมา​อีก​ไหม​?\" \"อัศวิน​แห่ง​ท้องฟ้า​จะ​กลับมา​ เมื่อ​ผู้คน​ต้องการ​พวกเรา​อีกครั้ง​\""
+              },
+              "VN": {
+                "oldText": "\"Nhìn kìa! Đó là nơi các Hiệp Sĩ Bầu Trời đã đánh bại Pháp Sư Tà Ác!\" – chiến binh với đôi tay phát ra tia điện nói, chỉ tay về cánh cổng lâu đài đang rực lửa. Không còn những đám mây đen u ám, cũng chẳng thấy bóng Pháp Sư Tà Ác hay tay sai của ả. Nhưng các chiến binh tin rằng Công Chúa đang ở ngay bên trong!\n\"Ta sẽ rời đi.\" \"Ngươi sẽ quay lại chứ?\" \"Hiệp Sĩ Bầu Trời sẽ trở về khi mọi người lại cần đến chúng ta.\"",
+                "newText": "\"Nhìn kìa! Đó là nơi các Hiệp Sĩ Bầu Trời đã đánh bại Pháp Sư Tà Ác!\" – chiến binh với đôi tay phát ra tia điện nói, chỉ tay về cánh cổng lâu đài đang rực lửa. Không còn những đám mây đen u ám, cũng chẳng thấy bóng Pháp Sư Tà Ác hay đám tay sai. Nhưng các chiến binh tin rằng Công Chúa đang ở bên trong!\n\"Ta đi đây.\" \"Ngươi sẽ quay lại chứ?\" \"Hiệp Sĩ Bầu Trời sẽ trở về khi mọi người cần đến chúng ta.\""
+              }
+            }
+          },
+          "normalStoryDesc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "\"Vejam! Foi ali que os Cavaleiros do Céu derrotaram a Conjuradora Maligna!\", exclamou o guerreiro de mãos faiscantes, apontando para os portões incendiados do castelo. O céu estava limpo, sem nuvens sombrias, e não havia sinal da Conjuradora Maligna nem de seus lacaios. Mesmo assim, os guerreiros acreditavam que a Princesa estava lá dentro!",
+                "newText": "\"Vejam! Foi ali que os Cavaleiros dos Céus derrotaram a Conjuradora Maligna!\", exclamou o guerreiro de mãos faiscantes, apontando para os portões incendiados do castelo. O céu estava limpo, sem nuvens sombrias, e não havia sinal da Conjuradora Maligna nem de seus lacaios. Mesmo assim, os guerreiros acreditavam que a Princesa estava lá dentro!"
+              },
+              "IT": {
+                "oldText": "\"Guardate! È lì che i guerrieri celesti hanno sconfitto la strega malvagia!\", disse un membro del gruppo con le mani elettriche indicando il cancello del castello fiammeggiante. Non c'era traccia di nubi nere e minacciose o della strega malvagia e i suoi servitori. Ma secondo i guerrieri, la principessa era lì dentro!",
+                "newText": "\"Guardate! È lì che i cavalieri celesti hanno sconfitto la strega malvagia!\", disse un membro del gruppo con le mani elettriche indicando il cancello del castello fiammeggiante. Non c'era traccia di nubi nere e minacciose o della strega malvagia e i suoi servitori. Ma secondo i guerrieri, la principessa era lì dentro!"
+              },
+              "MX": {
+                "oldText": "“¡Mirad! ¡Ahí derrotaron los Caballeros del Cielo a la Hechicera malvada!”, dijo el guerrero cuyas manos desprenden chispas eléctricas, señalando las puertas en llamas del castillo. No había nubes oscuras amenazantes, ni la Hechicera malvada ni sus esbirros. ¡Pero los guerreros creen que la Princesa estaba justo dentro!",
+                "newText": "“¡Miren! ¡Ahí fue donde los Caballeros del cielo derrotaron a la Hechicera malvada!”, dijo el guerrero cuyas manos desprenden chispas eléctricas, mientras señalaba las puertas del castillo en llamas. No había nubes oscuras amenazantes ni rastro de la Hechicera malvada o sus esbirros. ¡Pero los guerreros creen que la Princesa estaba justo dentro!"
+              },
+              "TH": {
+                "oldText": "\"ดู​สิ​! นั่น​คือ​ที่​ที่​อัศวิน​แห่ง​ท้องฟ้า​ปราบ​จอม​เวท​ผู้​ชั่วร้าย​!\" นักรบ​ผู้​มี​ประกายไฟฟ้า​จาก​มือ​กล่าว​พลาง​ชี้​ไป​ยัง​ประตู​ปราสาท​ที่​ลุกเป็นไฟ​ ไม่มี​เมฆ​ดำ​ครึ้ม​ และ​ไม่มี​จอม​เวท​ผู้​ชั่วร้าย​หรือ​สมุน​ของ​นาง​อีก​ แต่​นักรบ​ผู้​กล้า​เชื่อ​ว่า​เจ้าหญิง​อยู่​ข้างใน​!",
+                "newText": "\"ดู​สิ​! นั่น​คือ​ที่​ที่​อัศวิน​แห่ง​ท้องฟ้า​ปราบ​จอม​เวท​ร้าย​!\" นักรบ​ผู้​มี​ประกายไฟฟ้า​จาก​มือ​กล่าว​พลาง​ชี้​ไป​ยัง​ประตู​ปราสาท​ที่​ลุกเป็นไฟ​ ไม่มี​เมฆ​ดำ​ครึ้ม​ และ​ไม่มี​จอม​เวท​ร้าย​หรือ​สมุน​ของ​เธอ​อีก​ แต่​นักรบ​ผู้​กล้า​เชื่อ​ว่า​เจ้าหญิง​อยู่​ข้างใน​!"
+              },
+              "VN": {
+                "oldText": "\"Nhìn kìa! Đó là nơi các Hiệp Sĩ Bầu Trời đã đánh bại Pháp Sư Tà Ác!\" – chiến binh với đôi tay phát ra tia điện nói, chỉ tay về cánh cổng lâu đài đang rực lửa. Không còn những đám mây đen u ám, cũng chẳng thấy bóng Pháp Sư Tà Ác hay tay sai của ả. Nhưng các chiến binh tin rằng Công Chúa đang ở ngay bên trong!",
+                "newText": "\"Nhìn kìa! Đó là nơi các Hiệp Sĩ Bầu Trời đã đánh bại Pháp Sư Tà Ác!\" – chiến binh với đôi tay phát ra tia điện nói, chỉ tay về cánh cổng lâu đài đang rực lửa. Không còn những đám mây đen u ám, cũng chẳng thấy bóng Pháp Sư Tà Ác hay đám tay sai. Nhưng các chiến binh tin rằng Công Chúa đang ở bên trong!"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

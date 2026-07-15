@@ -1,0 +1,367 @@
+{
+  "tableName": "EnemyTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 19,
+    "removed": 1,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "eny_0054_hsmino_chrdg": {
+        "aiTemplateId": "aiconf_eny_0054_hsmino_chrdg",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0054_hsmino",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0054_hsmino_chrdg",
+        "isDangerous": false,
+        "modelId": "eny_0054_hsmino_chrdg_postmodel",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": false,
+        "templateId": "eny_0054_hsmino"
+      },
+      "eny_0114_jzmking": {
+        "aiTemplateId": "",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0114_jzmking",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0114_jzmking",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": true,
+        "templateId": "eny_0114_jzmking"
+      },
+      "eny_0088_wgthorns_hdg019": {
+        "aiTemplateId": "aiconf_eny_0088_wgthorns_hdg019",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0088_wgthorns_hdg019",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0088_wgthorns_hdg019",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0088_wgthorns"
+      },
+      "eny_0082_hsbear_settlement": {
+        "aiTemplateId": "",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0082_hsbear",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_settlement_addtag"
+        ],
+        "enemyId": "eny_0082_hsbear_settlement",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": true,
+        "templateId": "eny_0082_hsbear"
+      },
+      "eny_0055_hscrane_clone": {
+        "aiTemplateId": "aiconf_eny_0055_hscrane_clone",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0055_hscrane",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_eny_0055_hscrane_hard_clonecheckhp"
+        ],
+        "enemyId": "eny_0055_hscrane_clone",
+        "isDangerous": false,
+        "modelId": "eny_0055_hscrane3_postmodel",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": false,
+        "templateId": "eny_0055_hscrane"
+      },
+      "eny_0046_lbshamman_hdg016_phantom": {
+        "aiTemplateId": "aiconf_eny_0046_lbshamman_hdg016_phantom",
+        "attrModifiers": [
+          {
+            "attrType": 20,
+            "attrValue": -80,
+            "modifierType": 0,
+            "modifyAttributeType": 0
+          },
+          {
+            "attrType": 1,
+            "attrValue": 2,
+            "modifierType": 4,
+            "modifyAttributeType": 0
+          }
+        ],
+        "attrTemplateId": "eny_0046_lbshamman_hdg016",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_common_norootmotion",
+          "buff_common_superarmor_infinity"
+        ],
+        "enemyId": "eny_0046_lbshamman_hdg016_phantom",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": false,
+        "templateId": "eny_0046_lbshamman"
+      },
+      "eny_0033_lbhunt_onlyshoot": {
+        "aiTemplateId": "aiconf_eny_0033_lbhunt_onlyshoot",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0033_lbhunt",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0033_lbhunt_onlyshoot",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0033_lbhunt"
+      },
+      "eny_0063_agmelee2_cardefend": {
+        "aiTemplateId": "",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0063_agmelee2",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_common_lower_superarmor_when_interrupted"
+        ],
+        "enemyId": "eny_0063_agmelee2_cardefend",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0063_agmelee2"
+      },
+      "eny_0046_lbshamman_hdg016": {
+        "aiTemplateId": "aiconf_eny_0046_lbshamman_hdg016",
+        "attrModifiers": [
+          {
+            "attrType": 1,
+            "attrValue": 2.5,
+            "modifierType": 4,
+            "modifyAttributeType": 0
+          }
+        ],
+        "attrTemplateId": "eny_0046_lbshamman_hdg016",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_common_norootmotion"
+        ],
+        "enemyId": "eny_0046_lbshamman_hdg016",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": true,
+        "templateId": "eny_0046_lbshamman"
+      },
+      "eny_0084_hshunt_mifu": {
+        "aiTemplateId": "aiconf_eny_0084_hshunt_mifu",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0084_hshunt",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0084_hshunt_mifu",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0084_hshunt"
+      },
+      "eny_0107_wgshoal2_hdg020": {
+        "aiTemplateId": "aiconf_eny_0107_wgshoal2_hdg020",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0107_wgshoal2_hdg020",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_common_superarmor_behit_wgshoal2"
+        ],
+        "enemyId": "eny_0107_wgshoal2_hdg020",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": false,
+        "templateId": "eny_0107_wgshoal2"
+      },
+      "eny_0053_hsmob_chrdg": {
+        "aiTemplateId": "aiconf_eny_0053_hsmob_mifu",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0053_hsmob",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_eny_0053_hsmob_chrdgbuff"
+        ],
+        "enemyId": "eny_0053_hsmob_chrdg",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0053_hsmob"
+      },
+      "eny_0053_hsmob_mifu": {
+        "aiTemplateId": "aiconf_eny_0053_hsmob_mifu",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0053_hsmob",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0053_hsmob_mifu",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0053_hsmob"
+      },
+      "eny_0082_hsbear_hdg018": {
+        "aiTemplateId": "aiconf_eny_0082_hsbear_hdg018",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0082_hsbear_hdg018",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0082_hsbear_hdg018",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": true,
+        "templateId": "eny_0082_hsbear"
+      },
+      "eny_0113_jzogre": {
+        "aiTemplateId": "",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0113_jzogre",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_common_superarmor_behit_sandb"
+        ],
+        "enemyId": "eny_0113_jzogre",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": false,
+        "templateId": "eny_0113_jzogre"
+      },
+      "eny_0089_wgreflec_hdg019": {
+        "aiTemplateId": "",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0089_wgreflec_hdg019",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0089_wgreflec_hdg019",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0089_wgreflec"
+      },
+      "eny_0112_jzmonk": {
+        "aiTemplateId": "",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0112_jzmonk",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0112_jzmonk",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0112_jzmonk"
+      },
+      "eny_0095_ethillu_hdg017": {
+        "aiTemplateId": "aiconf_eny_0095_ethillu_hdg017",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0095_ethillu",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_eny_0095_ethillu_dead",
+          "buff_eny_0095_ethillu_undeadable"
+        ],
+        "enemyId": "eny_0095_ethillu_hdg017",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0095_ethillu"
+      },
+      "eny_0102_hstiger2_hdg021": {
+        "aiTemplateId": "aiconf_eny_0102_hstiger2_hdg021",
+        "attrModifiers": [],
+        "attrTemplateId": "eny_0102_hstiger2_hdg021",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [
+          "buff_common_superarmor_behit_hstiger2"
+        ],
+        "enemyId": "eny_0102_hstiger2_hdg021",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": true,
+        "showBigHeadbar": true,
+        "templateId": "eny_0102_hstiger2"
+      }
+    },
+    "removed": {
+      "eny_0087_wgslime_hdg008": {
+        "aiTemplateId": "aiconf_eny_0087_wgslime_hdg008",
+        "attrModifiers": [
+          {
+            "attrType": 20,
+            "attrValue": 0,
+            "modifierType": 4,
+            "modifyAttributeType": 0
+          }
+        ],
+        "attrTemplateId": "eny_0087_wgslime_hdg008",
+        "autoLockCancelTime": -1,
+        "autoLockCancelType": 0,
+        "bornBuffs": [],
+        "enemyId": "eny_0087_wgslime_hdg008",
+        "isDangerous": false,
+        "modelId": "",
+        "serverDeathCheck": false,
+        "showBigEffect": false,
+        "showBigHeadbar": false,
+        "templateId": "eny_0087_wgslime"
+      }
+    },
+    "changed": {}
+  }
+}

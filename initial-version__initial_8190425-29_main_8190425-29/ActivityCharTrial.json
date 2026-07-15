@@ -1,0 +1,43 @@
+{
+  "tableName": "ActivityCharTrial",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "dung_camille_chartrial": {
+        "activityId": "activity_char_trial_v1d3_2",
+        "bgRolePath": "activity_icon_character_trial_camille",
+        "desc": {
+          "id": "5769950245005932170",
+          "text": ""
+        },
+        "dungeonBgPath": "",
+        "dungeonId": "dung_camille_chartrial",
+        "jumpId": "jump_gacha_lt_1_3_2",
+        "rewardId": "reward_activity_dung_camille_chartrial",
+        "sortId": 1
+      },
+      "dung_mifu_chartrial": {
+        "activityId": "activity_char_trial_v1d3_1",
+        "bgRolePath": "activity_icon_character_trial_mifu",
+        "desc": {
+          "id": "1800454782689021683",
+          "text": ""
+        },
+        "dungeonBgPath": "",
+        "dungeonId": "dung_mifu_chartrial",
+        "jumpId": "jump_gacha_lt_1_3_1",
+        "rewardId": "reward_activity_dung_mifu_chartrial",
+        "sortId": 1
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

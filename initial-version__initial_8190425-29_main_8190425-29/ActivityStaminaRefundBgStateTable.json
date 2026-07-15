@@ -1,0 +1,25 @@
+{
+  "tableName": "ActivityStaminaRefundBgStateTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_stamina_refund_1d3d2": {
+        "audioOnOpen": "Au_UI_Menu_ActivityInReasonDungeon_Open",
+        "bgStateName": "UniversalBg"
+      },
+      "activity_stamina_refund_special": {
+        "audioOnOpen": "Au_UI_Menu_ActivityInReasonCCR_Open",
+        "bgStateName": "SpecialBg"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

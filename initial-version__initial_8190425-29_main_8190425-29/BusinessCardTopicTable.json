@@ -1,0 +1,367 @@
+{
+  "tableName": "BusinessCardTopicTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 11
+  },
+  "entries": {
+    "added": {
+      "business_card_topic_bp_1_3": {
+        "color": "53e394",
+        "expand": false,
+        "icon": "icon_topic_pic_bp",
+        "id": "business_card_topic_bp_1_3",
+        "itemId": "business_card_topic_bp_1_3",
+        "panelPrefab": "FriendBusinessBp13Panel",
+        "sort": 8,
+        "watchPrefab": "PlayInfoBp13Cell"
+      },
+      "business_card_topic_chr_0031_mifu": {
+        "color": "ee6973",
+        "expand": false,
+        "icon": "icon_topic_chr_potential",
+        "id": "business_card_topic_chr_0031_mifu",
+        "itemId": "business_card_topic_chr_0031_mifu",
+        "panelPrefab": "FriendBusinessCardMifuPanel",
+        "sort": 10,
+        "watchPrefab": "PlayInfoMifuCell"
+      },
+      "business_card_topic_chr_0033_camille": {
+        "color": "ff0025",
+        "expand": false,
+        "icon": "icon_topic_chr_potential",
+        "id": "business_card_topic_chr_0033_camille",
+        "itemId": "business_card_topic_chr_0033_camille",
+        "panelPrefab": "FriendBusinessCardCamillePanel",
+        "sort": 9,
+        "watchPrefab": "PlayInfoCamilleCell"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "business_card_topic_chr_0027_tangtang": {
+        "oldValue": {
+          "color": "ffcc5e",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0027_tangtang",
+          "itemId": "business_card_topic_chr_0027_tangtang",
+          "panelPrefab": "FriendBusinessCardTangtangPanel",
+          "sort": 11,
+          "watchPrefab": "PlayInfoTangtangCell"
+        },
+        "newValue": {
+          "color": "ffcc5e",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0027_tangtang",
+          "itemId": "business_card_topic_chr_0027_tangtang",
+          "panelPrefab": "FriendBusinessCardTangtangPanel",
+          "sort": 13,
+          "watchPrefab": "PlayInfoTangtangCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 13
+          }
+        }
+      },
+      "business_card_topic_chr_0015_lifeng": {
+        "oldValue": {
+          "color": "F1FFA1",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0015_lifeng",
+          "itemId": "business_card_topic_chr_0015_lifeng",
+          "panelPrefab": "FriendBusinessCardlLifengPanel",
+          "sort": 16,
+          "watchPrefab": "PlayInfoLifengCell"
+        },
+        "newValue": {
+          "color": "F1FFA1",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0015_lifeng",
+          "itemId": "business_card_topic_chr_0015_lifeng",
+          "panelPrefab": "FriendBusinessCardlLifengPanel",
+          "sort": 18,
+          "watchPrefab": "PlayInfoLifengCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 16,
+            "newValue": 18
+          }
+        }
+      },
+      "business_card_topic_chr_0017_yvonne": {
+        "oldValue": {
+          "color": "F777A3",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0017_yvonne",
+          "itemId": "business_card_topic_chr_0017_yvonne",
+          "panelPrefab": "FriendBusinessCardyvonnePanel",
+          "sort": 12,
+          "watchPrefab": "PlayInfoYvonneCell"
+        },
+        "newValue": {
+          "color": "F777A3",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0017_yvonne",
+          "itemId": "business_card_topic_chr_0017_yvonne",
+          "panelPrefab": "FriendBusinessCardyvonnePanel",
+          "sort": 14,
+          "watchPrefab": "PlayInfoYvonneCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 14
+          }
+        }
+      },
+      "business_card_topic_chr_0009_azrila": {
+        "oldValue": {
+          "color": "B1A7FF",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0009_azrila",
+          "itemId": "business_card_topic_chr_0009_azrila",
+          "panelPrefab": "FriendBusinessCardAzrilaPanel",
+          "sort": 15,
+          "watchPrefab": "PlayInfolAzrilaCell"
+        },
+        "newValue": {
+          "color": "B1A7FF",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0009_azrila",
+          "itemId": "business_card_topic_chr_0009_azrila",
+          "panelPrefab": "FriendBusinessCardAzrilaPanel",
+          "sort": 17,
+          "watchPrefab": "PlayInfolAzrilaCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 15,
+            "newValue": 17
+          }
+        }
+      },
+      "business_card_topic_chr_0013_aglina": {
+        "oldValue": {
+          "color": "FF3F25",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0013_aglina",
+          "itemId": "business_card_topic_chr_0013_aglina",
+          "panelPrefab": "FriendBusinessCardAglinaPanel",
+          "sort": 13,
+          "watchPrefab": "PlayInfolAglinaCell"
+        },
+        "newValue": {
+          "color": "FF3F25",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0013_aglina",
+          "itemId": "business_card_topic_chr_0013_aglina",
+          "panelPrefab": "FriendBusinessCardAglinaPanel",
+          "sort": 15,
+          "watchPrefab": "PlayInfolAglinaCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 13,
+            "newValue": 15
+          }
+        }
+      },
+      "business_card_topic_chr_0016_laevat": {
+        "oldValue": {
+          "color": "FF4F3D",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0016_laevat",
+          "itemId": "business_card_topic_chr_0016_laevat",
+          "panelPrefab": "FriendBusinessCardLaevatPanel",
+          "sort": 14,
+          "watchPrefab": "PlayInfoLaevatCell"
+        },
+        "newValue": {
+          "color": "FF4F3D",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0016_laevat",
+          "itemId": "business_card_topic_chr_0016_laevat",
+          "panelPrefab": "FriendBusinessCardLaevatPanel",
+          "sort": 16,
+          "watchPrefab": "PlayInfoLaevatCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 14,
+            "newValue": 16
+          }
+        }
+      },
+      "business_card_topic_chr_0025_ardelia": {
+        "oldValue": {
+          "color": "FFA5A3",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0025_ardelia",
+          "itemId": "business_card_topic_chr_0025_ardelia",
+          "panelPrefab": "FriendBusinessCardArdeliaPanel",
+          "sort": 17,
+          "watchPrefab": "PlayInfoArdeliaCell"
+        },
+        "newValue": {
+          "color": "FFA5A3",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0025_ardelia",
+          "itemId": "business_card_topic_chr_0025_ardelia",
+          "panelPrefab": "FriendBusinessCardArdeliaPanel",
+          "sort": 19,
+          "watchPrefab": "PlayInfoArdeliaCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 19
+          }
+        }
+      },
+      "business_card_topic_chr_0028_wulfa": {
+        "oldValue": {
+          "color": "ff2420",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0028_wulfa",
+          "itemId": "business_card_topic_chr_0028_wulfa",
+          "panelPrefab": "FriendBusinessCardWulfaPanel",
+          "sort": 10,
+          "watchPrefab": "PlayInfoWulfaCell"
+        },
+        "newValue": {
+          "color": "ff2420",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0028_wulfa",
+          "itemId": "business_card_topic_chr_0028_wulfa",
+          "panelPrefab": "FriendBusinessCardWulfaPanel",
+          "sort": 12,
+          "watchPrefab": "PlayInfoWulfaCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 12
+          }
+        }
+      },
+      "business_card_topic_chr_0026_lastrite": {
+        "oldValue": {
+          "color": "7DDAED",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0026_lastrite",
+          "itemId": "business_card_topic_chr_0026_lastrite",
+          "panelPrefab": "FriendBusinessCardLastritePanel",
+          "sort": 18,
+          "watchPrefab": "PlayInfoLastriteCell"
+        },
+        "newValue": {
+          "color": "7DDAED",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0026_lastrite",
+          "itemId": "business_card_topic_chr_0026_lastrite",
+          "panelPrefab": "FriendBusinessCardLastritePanel",
+          "sort": 20,
+          "watchPrefab": "PlayInfoLastriteCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 18,
+            "newValue": 20
+          }
+        }
+      },
+      "business_card_topic_chr_0029_pograni": {
+        "oldValue": {
+          "color": "FF2323",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0029_pograni",
+          "itemId": "business_card_topic_chr_0029_pograni",
+          "panelPrefab": "FriendBusinessCardPograniPanel",
+          "sort": 19,
+          "watchPrefab": "PlayInfoPograniCell"
+        },
+        "newValue": {
+          "color": "FF2323",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0029_pograni",
+          "itemId": "business_card_topic_chr_0029_pograni",
+          "panelPrefab": "FriendBusinessCardPograniPanel",
+          "sort": 21,
+          "watchPrefab": "PlayInfoPograniCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 19,
+            "newValue": 21
+          }
+        }
+      },
+      "business_card_topic_chr_0030_zhuangfy": {
+        "oldValue": {
+          "color": "64eec9",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0030_zhuangfy",
+          "itemId": "business_card_topic_chr_0030_zhuangfy",
+          "panelPrefab": "FriendBusinessCardZhuangfyPanel",
+          "sort": 9,
+          "watchPrefab": "PlayInfoZhuangfyCell"
+        },
+        "newValue": {
+          "color": "64eec9",
+          "expand": false,
+          "icon": "icon_topic_chr_potential",
+          "id": "business_card_topic_chr_0030_zhuangfy",
+          "itemId": "business_card_topic_chr_0030_zhuangfy",
+          "panelPrefab": "FriendBusinessCardZhuangfyPanel",
+          "sort": 11,
+          "watchPrefab": "PlayInfoZhuangfyCell"
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "oldValue": 9,
+            "newValue": 11
+          }
+        }
+      }
+    }
+  }
+}

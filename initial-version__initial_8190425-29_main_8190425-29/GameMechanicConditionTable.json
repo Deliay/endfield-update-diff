@@ -1,0 +1,704 @@
+{
+  "tableName": "GameMechanicConditionTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 26,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "world_energy_point09_cond_3": {
+        "compareOperator": 3,
+        "conditionId": "world_energy_point09_cond_3",
+        "conditionType": 19,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "world_energy_point09_3",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s5_04s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_04s",
+        "conditionType": 5031,
+        "desc": {
+          "id": "6715501343738061937",
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard019_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard019"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s5_06s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_06s",
+        "conditionType": 5031,
+        "desc": {
+          "id": "3298991351596926836",
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard021_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard021"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s5_01": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_01",
+        "conditionType": 5023,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard016",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s5_01s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_01s",
+        "conditionType": 5031,
+        "desc": {
+          "id": "5571402674035318657",
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard016_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard016"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s5_02": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_02",
+        "conditionType": 5023,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard017",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s5_02s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_02s",
+        "conditionType": 5031,
+        "desc": {
+          "id": "-2499787190555413286",
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard017_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard017"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s5_03": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_03",
+        "conditionType": 5023,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard018",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s5_03s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_03s",
+        "conditionType": 5031,
+        "desc": {
+          "id": "627822664095719404",
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard018_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard018"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s5_04": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_04",
+        "conditionType": 5023,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard019",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s5_05": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_05",
+        "conditionType": 5023,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard020",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s5_05s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_05s",
+        "conditionType": 5031,
+        "desc": {
+          "id": "4487876629086412837",
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard020_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard020"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s5_06": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s5_06",
+        "conditionType": 5023,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "indie_hard021",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "stm_hongs_1_4_normal_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_1_4_normal_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "stm_hongs_1_4_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_1_3_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_1_4_normal_cond2": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_1_4_normal_cond2",
+        "conditionType": 4509,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "stm_hongs_1_4_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              4
+            ],
+            "valueIntList": [
+              4
+            ],
+            "valueStringList": [
+              "4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "map02_lv001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "world_energy_point09_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "world_energy_point09_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "world_energy_point09_1",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_mifu_chartrain01_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_mifu_chartrain01_condition_1",
+        "conditionType": 5265,
+        "desc": {
+          "id": "-6063246178891320524",
+          "text": ""
+        },
+        "gameMechanicsId": "dung_mifu_chartrain01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "chr_0031_mifu"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "world_energy_point09_cond_2": {
+        "compareOperator": 3,
+        "conditionId": "world_energy_point09_cond_2",
+        "conditionType": 19,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "world_energy_point09_2",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_minibossrush01_01_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_minibossrush01_01_cond_1",
+        "conditionType": 18,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "dung02_minibossrush01_01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1_q#24"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_minibossrush01_02_cond_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_minibossrush01_02_cond_2",
+        "conditionType": 5031,
+        "desc": {
+          "id": "-8332455842331187640",
+          "text": ""
+        },
+        "gameMechanicsId": "dung02_minibossrush01_02",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_minibossrush01_01"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_camille_chartrain01_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_camille_chartrain01_condition_1",
+        "conditionType": 5265,
+        "desc": {
+          "id": "4687004878389264462",
+          "text": ""
+        },
+        "gameMechanicsId": "dung_camille_chartrain01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "chr_0033_camille"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "world_energy_point09_cond_7": {
+        "compareOperator": 3,
+        "conditionId": "world_energy_point09_cond_7",
+        "conditionType": 19,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "world_energy_point09_7",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "world_energy_point09_cond_4": {
+        "compareOperator": 3,
+        "conditionId": "world_energy_point09_cond_4",
+        "conditionType": 19,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "world_energy_point09_4",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_1_4_auto_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_1_4_auto_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "stm_hongs_1_4_auto",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_1_4_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "world_energy_point09_cond_6": {
+        "compareOperator": 3,
+        "conditionId": "world_energy_point09_cond_6",
+        "conditionType": 19,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "world_energy_point09_6",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "world_energy_point09_cond_5": {
+        "compareOperator": 3,
+        "conditionId": "world_energy_point09_cond_5",
+        "conditionType": 19,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "gameMechanicsId": "world_energy_point09_5",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l6m1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

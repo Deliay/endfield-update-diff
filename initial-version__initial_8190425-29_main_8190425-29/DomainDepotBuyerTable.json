@@ -1,0 +1,812 @@
+{
+  "tableName": "DomainDepotBuyerTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 5
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "buyer_map01_lv005_03": {
+        "oldValue": {
+          "buyerId": "buyer_map01_lv005_03",
+          "buyerName": {
+            "id": "-6620675039515051871",
+            "text": ""
+          },
+          "desc": {
+            "id": "3428585342532636529",
+            "text": ""
+          },
+          "domainId": "domain_1",
+          "headIcon": "icon_npc_1005_fabian",
+          "level": "map01_lv005"
+        },
+        "newValue": {
+          "buyerId": "buyer_map01_lv005_03",
+          "buyerName": {
+            "id": "774795177390582919",
+            "text": ""
+          },
+          "desc": {
+            "id": "-361884534850208104",
+            "text": ""
+          },
+          "domainId": "domain_1",
+          "headIcon": "icon_buyer_1005_jiana",
+          "level": "map01_lv005"
+        },
+        "changed": {
+          "buyerName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              },
+              "CN": {
+                "oldText": "法比安·柯林斯",
+                "newText": "嘉娜"
+              },
+              "DE": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              },
+              "EN": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              },
+              "FR": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              },
+              "ID": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              },
+              "IT": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              },
+              "JP": {
+                "oldText": "ファビアン・コリンズ",
+                "newText": "ヤナ"
+              },
+              "KR": {
+                "oldText": "파비안 콜린스",
+                "newText": "야나"
+              },
+              "MX": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              },
+              "RU": {
+                "oldText": "Фабиан Коллинз",
+                "newText": "Джана"
+              },
+              "TC": {
+                "oldText": "法比安·柯林斯",
+                "newText": "嘉娜"
+              },
+              "TH": {
+                "oldText": "ฟา​เบียน​ คอล​ลิน​ส์",
+                "newText": "จา​นา"
+              },
+              "VN": {
+                "oldText": "Fabian Collins",
+                "newText": "Jana"
+              }
+            }
+          },
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Agente do Departamento de Segurança do STUT em Vale IV.",
+                "newText": "As entregas devem atender às regulamentações de gerenciamento de suprimentos do STUT. Obrigada."
+              },
+              "CN": {
+                "oldText": "联盟工团四号谷地安全局特工。",
+                "newText": "请按联盟工团物资管理规范配送货物。谢谢。"
+              },
+              "DE": {
+                "oldText": "Agent des GBT-Sicherheitsbüros in Tal IV.",
+                "newText": "Lieferungen sollten den Vorschriften der Vorratsverwaltung des GBT entsprechen. Danke."
+              },
+              "EN": {
+                "oldText": "UWST Security Bureau Agent at Valley IV.",
+                "newText": "Deliveries should comply with UWST supplies management regulations. Thank you."
+              },
+              "FR": {
+                "oldText": "Membre de l'agence de sécurité du STUT dans la Vallée-IV.",
+                "newText": "Toute livraison doit respecter la réglementation en vigueur sur la gestion des marchandises du STUT. Merci."
+              },
+              "ID": {
+                "oldText": "Agen Biro Sekuriti UWST di Lembah IV.",
+                "newText": "Pengiriman harus mematuhi peraturan manajemen pasokan UWST. Terima kasih."
+              },
+              "IT": {
+                "oldText": "Agente del Dipartimento di sicurezza dell'USLT presso Valle IV.",
+                "newText": "Le consegne devono essere conformi ai regolamenti dell'USLT sulla gestione dei rifornimenti. Grazie."
+              },
+              "JP": {
+                "oldText": "工業団連盟四号谷地の保安局エージェント。",
+                "newText": "工業団連盟の物資管理規範通りに配達してください。ありがとうございます。"
+              },
+              "KR": {
+                "oldText": "연맹 공단 4번 협곡 안전국 요원.",
+                "newText": "연맹 공단 물자 관리 규정에 맞춰서 운송해 주시기 바랍니다. 좋은 하루 보내세요."
+              },
+              "MX": {
+                "oldText": "Agente de la agencia de Seguridad del S.T.U.T. en Valle IV.",
+                "newText": "Las entregas deben cumplir con las normas de gestión de suministros de los S.T.U.T. Gracias."
+              },
+              "RU": {
+                "oldText": "Агент бюро безопасности СОРТ в Долине IV.",
+                "newText": "Поставки должны соответствовать правилам распоряжения припасами СОРТ. Спасибо."
+              },
+              "TC": {
+                "oldText": "聯盟工團四號谷地安全局特務。",
+                "newText": "請按聯盟工團物資管理規範配送貨物。謝謝。"
+              },
+              "TH": {
+                "oldText": "เจ้าหน้าที่​สำนักงาน​รักษา​ความปลอดภัย​ของ​ UWST ประจำ​หุบเขา​ IV",
+                "newText": "การจัดส่ง​ควร​เป็นไปตาม​ระเบียบการ​จัดการ​พัสดุ​ของ​ UWST ขอบคุณ"
+              },
+              "VN": {
+                "oldText": "Đặc vụ Cục An Ninh Công Đoàn tại Thung Lũng IV.",
+                "newText": "Hàng hóa chuyển giao phải tuân thủ quy định quản lý vật tư của Đại Công Đoàn Talos II. Xin cảm ơn."
+              }
+            }
+          },
+          "headIcon": {
+            "type": "value",
+            "oldValue": "icon_npc_1005_fabian",
+            "newValue": "icon_buyer_1005_jiana"
+          }
+        }
+      },
+      "buyer_map02_lv002_01": {
+        "oldValue": {
+          "buyerId": "buyer_map02_lv002_01",
+          "buyerName": {
+            "id": "4703147485204300531",
+            "text": ""
+          },
+          "desc": {
+            "id": "-467898449787967011",
+            "text": ""
+          },
+          "domainId": "domain_2",
+          "headIcon": "icon_buyer_2002_yanning",
+          "level": "map02_lv002"
+        },
+        "newValue": {
+          "buyerId": "buyer_map02_lv002_01",
+          "buyerName": {
+            "id": "6664498415694472271",
+            "text": ""
+          },
+          "desc": {
+            "id": "2500762584130715483",
+            "text": ""
+          },
+          "domainId": "domain_2",
+          "headIcon": "icon_buyer_2002_subaiyi",
+          "level": "map02_lv002"
+        },
+        "changed": {
+          "buyerName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              },
+              "CN": {
+                "oldText": "彦宁",
+                "newText": "苏白易"
+              },
+              "DE": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              },
+              "EN": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              },
+              "FR": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              },
+              "ID": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              },
+              "IT": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              },
+              "JP": {
+                "oldText": "イェン・ニン",
+                "newText": "スー・バイイー"
+              },
+              "KR": {
+                "oldText": "언녕",
+                "newText": "소백이"
+              },
+              "MX": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              },
+              "RU": {
+                "oldText": "Янь Нин",
+                "newText": "Су Байи"
+              },
+              "TC": {
+                "oldText": "彥寧",
+                "newText": "蘇白易"
+              },
+              "TH": {
+                "oldText": "หยา​น​หนิง",
+                "newText": "ซู​ ไป๋​อี"
+              },
+              "VN": {
+                "oldText": "Yan Ning",
+                "newText": "Su Baiyi"
+              }
+            }
+          },
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Diretora, Unidade de Produção de Aplicações e Tecnologia de Xiranita de Wuling.",
+                "newText": "Se você tiver tempo, tome um chá antes de sair."
+              },
+              "CN": {
+                "oldText": "武陵息壤应用与技术生产单位的负责人。",
+                "newText": "要是方便的话，喝杯茶再走吧。"
+              },
+              "DE": {
+                "oldText": "Direktorin der Wuling-Einheit für Xiranit-Anwendungen und Tech-Produktion.",
+                "newText": "Wenn du Zeit hast, trink doch etwas Tee, bevor du gehst."
+              },
+              "EN": {
+                "oldText": "Director, Wuling Xiranite Application and Tech Production Unit.",
+                "newText": "If you got the time, have some tea before you leave."
+              },
+              "FR": {
+                "oldText": "Directrice de l'unité de production technologique et d'application de la xiranite de Wuling",
+                "newText": "Si vous avez le temps, prenez donc un thé avant de partir."
+              },
+              "ID": {
+                "oldText": "Direktur, Unit Produksi dan Penerapan Teknologi Xiranite Wuling.",
+                "newText": "Kalau sempat, minumlah teh dulu sebelum pergi."
+              },
+              "IT": {
+                "oldText": "Direttrice dell'unità Applicazioni e Produzione tecnologica della xiranite di Wuling.",
+                "newText": "Se hai tempo, prendi una tazza di tè prima di andare via."
+              },
+              "JP": {
+                "oldText": "武陵息壌応用技術生産機関責任者。",
+                "newText": "よければ、お茶でもどうですか。"
+              },
+              "KR": {
+                "oldText": "무릉 식양 응용 및 기술 생산 기구 책임자.",
+                "newText": "괜찮으시면 차 한잔하고 가실래요?"
+              },
+              "MX": {
+                "oldText": "Directora, Asolada Unidad de Producción de Tecnología y Aplicación de Xiranita Wuling.",
+                "newText": "Si tienes tiempo, toma un poco de té antes de irte."
+              },
+              "RU": {
+                "oldText": "Директор, отдел применения ксиранита и технического производства Улина.",
+                "newText": "Если есть время, выпей чаю перед уходом."
+              },
+              "TC": {
+                "oldText": "武陵息壤應用與技術生產部的負責人。",
+                "newText": "要是方便的話，喝杯茶再走吧。"
+              },
+              "TH": {
+                "oldText": "ผู้อำนวยการ​ แผนก​เทคโนโลยี​การผลิต​และ​การ​ประยุกต์ใช้​งาน​ซี​เรน​ไนต์​แห่ง​อู่​หลิง",
+                "newText": "ถ้า​มี​เวลา​ ก็​ดื่ม​ชา​สักหน่อย​ก่อน​กลับ​สิ"
+              },
+              "VN": {
+                "oldText": "Giám Đốc, Đơn Vị Ứng Dụng Và Sản Xuất Công Nghệ Xiranite Võ Lăng.",
+                "newText": "Nếu có thời gian, hãy uống chút trà trước khi rời đi."
+              }
+            }
+          },
+          "headIcon": {
+            "type": "value",
+            "oldValue": "icon_buyer_2002_yanning",
+            "newValue": "icon_buyer_2002_subaiyi"
+          }
+        }
+      },
+      "buyer_map01_lv006_01": {
+        "oldValue": {
+          "buyerId": "buyer_map01_lv006_01",
+          "buyerName": {
+            "id": "-2508576076370840871",
+            "text": ""
+          },
+          "desc": {
+            "id": "-4592170323934060712",
+            "text": ""
+          },
+          "domainId": "domain_1",
+          "headIcon": "icon_buyer_1006_yueyisheng",
+          "level": "map01_lv006"
+        },
+        "newValue": {
+          "buyerId": "buyer_map01_lv006_01",
+          "buyerName": {
+            "id": "-7581589934594025859",
+            "text": ""
+          },
+          "desc": {
+            "id": "-775782043458888884",
+            "text": ""
+          },
+          "domainId": "domain_1",
+          "headIcon": "icon_buyer_1006_mataiao",
+          "level": "map01_lv006"
+        },
+        "changed": {
+          "buyerName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Oficial Médico Yue",
+                "newText": "Matteo"
+              },
+              "CN": {
+                "oldText": "越医生",
+                "newText": "马泰奥"
+              },
+              "DE": {
+                "oldText": "Stabsarzt Yue",
+                "newText": "Matteo"
+              },
+              "EN": {
+                "oldText": "Medical Officer Yue",
+                "newText": "Matteo"
+              },
+              "FR": {
+                "oldText": "Officier médical Yue",
+                "newText": "Matteo"
+              },
+              "ID": {
+                "oldText": "Petugas Medis Yue",
+                "newText": "Matteo"
+              },
+              "IT": {
+                "oldText": "Ufficiale medico Yue",
+                "newText": "Matteo"
+              },
+              "JP": {
+                "oldText": "ユエ先生",
+                "newText": "マッテオ"
+              },
+              "KR": {
+                "oldText": "닥터 월",
+                "newText": "마테오"
+              },
+              "MX": {
+                "oldText": "Oficial médico Yue",
+                "newText": "Matteo"
+              },
+              "RU": {
+                "oldText": "Медик Юэ",
+                "newText": "Маттео"
+              },
+              "TC": {
+                "oldText": "越醫生",
+                "newText": "馬泰奧"
+              },
+              "TH": {
+                "oldText": "เจ้าหน้าที่​แพทย์​เย​ว่",
+                "newText": "มัต​เต​โอ"
+              },
+              "VN": {
+                "oldText": "Bác Sĩ Yue",
+                "newText": "Matteo"
+              }
+            }
+          },
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Cirurgião na Clínica da Área de Mineração. Casos graves recebem tratamento prioritário.",
+                "newText": "Termine seus outros pedidos primeiro. Eu posso esperar, mas não demore muito."
+              },
+              "CN": {
+                "oldText": "矿区医疗站医生。重伤应优先处理。",
+                "newText": "您可以先送其他订单，我等您，只要稍微快点就好。"
+              },
+              "DE": {
+                "oldText": "Chirurg in der Bergbauklinik. Schwere Fälle haben Vorrang.",
+                "newText": "Schließe zuerst deine anderen Aufträge ab. Ich kann warten, aber lass dir nicht zu viel Zeit."
+              },
+              "EN": {
+                "oldText": "Surgeon at the Mining Area Clinic. Serious cases get priority treatment.",
+                "newText": "Finish your other orders first. I can wait, but don't take too long."
+              },
+              "FR": {
+                "oldText": "Chirurgien à la clinique de la zone d'extraction. Les cas les plus graves sont traités en priorité.",
+                "newText": "Finissez d'abord vos commandes. Je peux attendre, mais ne traînez pas."
+              },
+              "ID": {
+                "oldText": "Ahli bedah di Klinik Area Tambang. Cedera yang serius akan diprioritaskan.",
+                "newText": "Selesaikan dulu pesananmu yang lain. Aku bisa menunggu, tapi jangan terlalu lama."
+              },
+              "IT": {
+                "oldText": "Chirurgo presso l'Ambulatorio della miniera. I casi più gravi hanno sempre la precedenza.",
+                "newText": "Dai priorità agli altri ordini, io posso aspettare. Non metterci troppo, però."
+              },
+              "JP": {
+                "oldText": "鉱区診療所の医師。重傷を優先的に処置すべし。",
+                "newText": "他の配達を先にどうぞ。無理のない範囲で早めに送っていただければいいので、待っています。"
+              },
+              "KR": {
+                "oldText": "광산 지역 의료소 의사입니다. 언제나... 중상자를 최우선으로!",
+                "newText": "안 급하니까, 한집 운송 안 하셔도 돼요. 기다리고 있을 테니까요. 그래도 너무 돌아오진 마세요."
+              },
+              "MX": {
+                "oldText": "Cirujano en la Clínica de la zona minera. Los casos graves tienen tratamiento prioritario.",
+                "newText": "Termina primero tus otros pedidos. Puedo esperar, pero no tardes mucho."
+              },
+              "RU": {
+                "oldText": "Хирург в шахтерском медпункте. Сначала займусь тяжелоранеными.",
+                "newText": "Сначала выполни другие заказы. Я могу подождать, но не затягивай."
+              },
+              "TC": {
+                "oldText": "礦區醫療站醫生。重傷應優先處理。",
+                "newText": "您可以先送其他訂單，我等您，只要稍微快點就好。"
+              },
+              "TH": {
+                "oldText": "ศัลยแพทย์​ที่​คลินิก​พื้นที่​ขุด​เหมือง​ เคส​รุนแรง​จะ​ได้รับ​การรักษา​แบบ​เร่งด่วน​ก่อน",
+                "newText": "ไป​ทำ​ออ​เดอร์​อื่น​ของ​คุณ​ให้​เสร็จ​ก่อน​เถอะ​ ฉัน​รอ​ได้​ แต่​อย่า​นาน​เกินไป​ล่ะ"
+              },
+              "VN": {
+                "oldText": "Bác sĩ phẫu thuật tại Phòng Y Tế Khu Mỏ. Các ca nghiêm trọng sẽ được ưu tiên điều trị.",
+                "newText": "Trước tiên, hãy hoàn thành đơn hàng khác của bạn. Tôi đợi được, nhưng đừng lâu quá."
+              }
+            }
+          },
+          "headIcon": {
+            "type": "value",
+            "oldValue": "icon_buyer_1006_yueyisheng",
+            "newValue": "icon_buyer_1006_mataiao"
+          }
+        }
+      },
+      "buyer_map02_lv002_03": {
+        "oldValue": {
+          "buyerId": "buyer_map02_lv002_03",
+          "buyerName": {
+            "id": "-6038140326316064704",
+            "text": ""
+          },
+          "desc": {
+            "id": "8093213488130899931",
+            "text": ""
+          },
+          "domainId": "domain_2",
+          "headIcon": "icon_buyer_2002_qiguan",
+          "level": "map02_lv002"
+        },
+        "newValue": {
+          "buyerId": "buyer_map02_lv002_03",
+          "buyerName": {
+            "id": "-7789447580137022008",
+            "text": ""
+          },
+          "desc": {
+            "id": "4735666012950020434",
+            "text": ""
+          },
+          "domainId": "domain_2",
+          "headIcon": "icon_buyer_2002_yushi",
+          "level": "map02_lv002"
+        },
+        "changed": {
+          "buyerName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              },
+              "CN": {
+                "oldText": "齐纶",
+                "newText": "于施"
+              },
+              "DE": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              },
+              "EN": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              },
+              "FR": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              },
+              "ID": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              },
+              "IT": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              },
+              "JP": {
+                "oldText": "チー・ルン",
+                "newText": "ユウ・シー"
+              },
+              "KR": {
+                "oldText": "제륜",
+                "newText": "우시"
+              },
+              "MX": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              },
+              "RU": {
+                "oldText": "Ци Лунь",
+                "newText": "Юй Ши"
+              },
+              "TC": {
+                "oldText": "齊綸",
+                "newText": "于施"
+              },
+              "TH": {
+                "oldText": "ชี่​ หลุน",
+                "newText": "อ​วี่​ซือ"
+              },
+              "VN": {
+                "oldText": "Qi Lun",
+                "newText": "Yu Shi"
+              }
+            }
+          },
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Diretora do Centro de Monitoramento e Tianshi de Monitoramento Ambiental e Aviso Precoce.",
+                "newText": "Sim."
+              },
+              "CN": {
+                "oldText": "观测站负责人、环控预警天师。",
+                "newText": "嗯。"
+              },
+              "DE": {
+                "oldText": "Direktor des Überwachungszentrums und Tianshi für Umwelt-Überwachung und Frühwarnsysteme.",
+                "newText": "Ja."
+              },
+              "EN": {
+                "oldText": "Director of the Monitoring Center and Tianshi of Environment Monitoring and Early Warning.",
+                "newText": "Yeah."
+              },
+              "FR": {
+                "oldText": "Directeur du centre de surveillance et Tianshi de la surveillance de l'environnement et d'alerte précoce.",
+                "newText": "Oui."
+              },
+              "ID": {
+                "oldText": "Direktur Pusat Pantau dan Tianshi Pemantauan Lingkungan dan Peringatan Dini.",
+                "newText": "Ya."
+              },
+              "IT": {
+                "oldText": "Direttore del centro di monitoraggio e Tianshi del monitoraggio ambientale e allarme preventivo.",
+                "newText": "Sì."
+              },
+              "JP": {
+                "oldText": "観測所技術責任者、環境観測警告天師。",
+                "newText": "うん。"
+              },
+              "KR": {
+                "oldText": "관측소 책임자, 환경 조절 경보 천사.",
+                "newText": "좋은 하루 보내세요."
+              },
+              "MX": {
+                "oldText": "Director del Centro de monitoreo y Tianshi del Monitoreo ambiental y alerta temprana.",
+                "newText": "Sí."
+              },
+              "RU": {
+                "oldText": "Директор центра наблюдений, Тяньши мониторинга окружающей среды и раннего оповещения.",
+                "newText": "Да."
+              },
+              "TC": {
+                "oldText": "觀測站負責人、環控預警天師。",
+                "newText": "嗯。"
+              },
+              "TH": {
+                "oldText": "ผู้อำนวยการ​ศูนย์​เฝ้า​ระวัง​และ​เทียน​ซือ​แห่ง​การ​ตรวจสอบ​สิ่งแวดล้อม​และ​การ​เตือนภัย​ล่วงหน้า",
+                "newText": "ใช่"
+              },
+              "VN": {
+                "oldText": "Giám Đốc Trung Tâm Giám Sát kiêm Thiên Sư của Quan Trắc Môi Trường và Cảnh Báo Sớm.",
+                "newText": "Ừ."
+              }
+            }
+          },
+          "headIcon": {
+            "type": "value",
+            "oldValue": "icon_buyer_2002_qiguan",
+            "newValue": "icon_buyer_2002_yushi"
+          }
+        }
+      },
+      "buyer_map02_lv002_02": {
+        "oldValue": {
+          "buyerId": "buyer_map02_lv002_02",
+          "buyerName": {
+            "id": "1678859675607624974",
+            "text": ""
+          },
+          "desc": {
+            "id": "8352466261602972832",
+            "text": ""
+          },
+          "domainId": "domain_2",
+          "headIcon": "icon_buyer_2002_changyun",
+          "level": "map02_lv002"
+        },
+        "newValue": {
+          "buyerId": "buyer_map02_lv002_02",
+          "buyerName": {
+            "id": "8109248996906883714",
+            "text": ""
+          },
+          "desc": {
+            "id": "7292670852040823465",
+            "text": ""
+          },
+          "domainId": "domain_2",
+          "headIcon": "icon_buyer_2002_linde",
+          "level": "map02_lv002"
+        },
+        "changed": {
+          "buyerName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              },
+              "CN": {
+                "oldText": "常沄",
+                "newText": "普里莫·林德"
+              },
+              "DE": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              },
+              "EN": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              },
+              "FR": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              },
+              "ID": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              },
+              "IT": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              },
+              "JP": {
+                "oldText": "チャン・ユン",
+                "newText": "プリモ・リンデ"
+              },
+              "KR": {
+                "oldText": "상운",
+                "newText": "프리모 린데"
+              },
+              "MX": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              },
+              "RU": {
+                "oldText": "Чан Юнь",
+                "newText": "Примо Линде"
+              },
+              "TC": {
+                "oldText": "常澐",
+                "newText": "普里莫·林德"
+              },
+              "TH": {
+                "oldText": "ชาง​ ห​ยุ​น",
+                "newText": "ปรี​โม​ ลิน​ด์"
+              },
+              "VN": {
+                "oldText": "Chang Yun",
+                "newText": "Primo Linde"
+              }
+            }
+          },
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Tianshi, Instituto de Ciência de Materiais",
+                "newText": "Estou muito perto de chegar aos resultados. Eu só preciso entender o tema da minha pesquisa."
+              },
+              "CN": {
+                "oldText": "材料研究所天师。",
+                "newText": "离出成果就差思考出要研究什么了。"
+              },
+              "DE": {
+                "oldText": "Tianshi am Institut der Materialwissenschaften.",
+                "newText": "Ich stehe so kurz vor den Ergebnissen. Ich muss nur ein Forschungsthema finden."
+              },
+              "EN": {
+                "oldText": "Tianshi, Institute of Materials Science",
+                "newText": "I'm that close to the results. I just need to figure out my research topic."
+              },
+              "FR": {
+                "oldText": "Tianshi, Institut des sciences des matériaux",
+                "newText": "Je suis à deux doigts d'obtenir des résultats. Je dois juste définir mon sujet de recherche."
+              },
+              "ID": {
+                "oldText": "Tianshi, Institut Ilmu Material",
+                "newText": "Aku sudah hampir dapat hasilnya. Aku hanya perlu menentukan topik penelitianku."
+              },
+              "IT": {
+                "oldText": "Tianshi dell'Istituto di scienze dei materiali.",
+                "newText": "Sono a un passo dai risultati. Devo solo capire quale sarà l'argomento della mia ricerca!"
+              },
+              "JP": {
+                "oldText": "材料研究所天師。",
+                "newText": "成果が出るまであと一歩。あとは何を研究するかを決めるだけです。"
+              },
+              "KR": {
+                "oldText": "재료 연구소 천사.",
+                "newText": "진짜 뭘 연구할지만 정하면 되는데..."
+              },
+              "MX": {
+                "oldText": "Tianshi, Instituto de ciencia de los materiales",
+                "newText": "Ya casi tengo los resultados. Solo me falta decidir el tema de mi investigación."
+              },
+              "RU": {
+                "oldText": "Тяньши, институт материаловедения",
+                "newText": "Я уже так близок к результатам. Осталось выбрать тему для изучения."
+              },
+              "TC": {
+                "oldText": "材料研究所天師。",
+                "newText": "現在萬事具備，只差沒想到要研究什麼了。"
+              },
+              "TH": {
+                "oldText": "เทียน​ซือ​ สถาบัน​วัสดุ​ศาสตร์",
+                "newText": "ฉัน​ใกล้​จะ​ได้ผล​ลัพธ์​แล้ว​ เหลือ​แค่​ต้องหา​หัวข้อ​วิจัย​ของ​ตัวเอง​ให้​เจอ​เท่านั้น"
+              },
+              "VN": {
+                "oldText": "Thiên Sư, Viện Khoa Học Vật Liệu",
+                "newText": "Mình gần đạt được kết quả rồi. Chỉ cần tìm ra được chủ đề nghiên cứu nữa thôi."
+              }
+            }
+          },
+          "headIcon": {
+            "type": "value",
+            "oldValue": "icon_buyer_2002_changyun",
+            "newValue": "icon_buyer_2002_linde"
+          }
+        }
+      }
+    }
+  }
+}

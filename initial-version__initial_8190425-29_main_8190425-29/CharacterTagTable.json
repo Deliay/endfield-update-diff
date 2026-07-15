@@ -1,0 +1,69 @@
+{
+  "tableName": "CharacterTagTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0031_mifu": {
+        "behaviourHateTagIds": [
+          "tag_hobby_fashion"
+        ],
+        "behaviourUnavailableTagIds": [],
+        "blocId": "",
+        "blocTagId": "tag_power_hongacademy",
+        "charId": "chr_0031_mifu",
+        "dispositionTagIds": [
+          "tag_activity_universe",
+          "tag_activity_shanshantu"
+        ],
+        "expertTagIds": [
+          "tag_expert_strong",
+          "tag_expert_combat"
+        ],
+        "giftPreferTagId": [
+          "tag_giftperfer_wuling_4"
+        ],
+        "hobbyTagIds": [
+          "tag_hobby_exercise",
+          "tag_hobby_life"
+        ],
+        "raceTagId": "tag_race_deavil"
+      },
+      "chr_0033_camille": {
+        "behaviourHateTagIds": [
+          "tag_hobby_nature"
+        ],
+        "behaviourUnavailableTagIds": [
+          "tag_disposition_extrovert"
+        ],
+        "blocId": "",
+        "blocTagId": "tag_power_sesqa",
+        "charId": "chr_0033_camille",
+        "dispositionTagIds": [
+          "tag_activity_universe",
+          "tag_activity_shanshantu"
+        ],
+        "expertTagIds": [
+          "tag_expert_sense",
+          "tag_expert_agile"
+        ],
+        "giftPreferTagId": [
+          "tag_giftperfer_wuling_4"
+        ],
+        "hobbyTagIds": [
+          "tag_hobby_creativity",
+          "tag_hobby_tech"
+        ],
+        "raceTagId": "tag_race_deavil"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,4276 @@
+{
+  "tableName": "ActivityConditionalMultiStageConditionTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 8,
+    "removed": 0,
+    "changed": 23
+  },
+  "entries": {
+    "added": {
+      "activity_submit_food_2_stage_hidden42": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_submit_food_2_stage_hidden42_unlock_condtion_1",
+            "conditionType": 19,
+            "desc": {
+              "id": 0,
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "a1m9"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_submit_food_2_stage_hidden42"
+          }
+        ]
+      },
+      "activity_phototaking_carly_2_stage_2": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_2_unlock_condtion_1",
+            "conditionType": 5902,
+            "desc": {
+              "id": "-8910790279462434936",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "activity_phototaking_carly_2_stage_1"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  2
+                ],
+                "valueIntList": [
+                  2
+                ],
+                "valueStringList": [
+                  "2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_2"
+          }
+        ]
+      },
+      "activity_phototaking_carly_2_stage_3": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_3_unlock_condtion_1",
+            "conditionType": 5902,
+            "desc": {
+              "id": "1362379341278858385",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "activity_phototaking_carly_2_stage_2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  2
+                ],
+                "valueIntList": [
+                  2
+                ],
+                "valueStringList": [
+                  "2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_3"
+          }
+        ]
+      },
+      "activity_phototaking_carly_2_stage_4": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_4_unlock_condtion_1",
+            "conditionType": 5902,
+            "desc": {
+              "id": "-1713219299930365351",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "activity_phototaking_carly_2_stage_3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  2
+                ],
+                "valueIntList": [
+                  2
+                ],
+                "valueStringList": [
+                  "2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_4"
+          }
+        ]
+      },
+      "activity_phototaking_carly_2_stage_5": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_5_unlock_condtion_1",
+            "conditionType": 5902,
+            "desc": {
+              "id": "6802226426011291563",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "activity_phototaking_carly_2_stage_4"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  2
+                ],
+                "valueIntList": [
+                  2
+                ],
+                "valueStringList": [
+                  "2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_5"
+          }
+        ]
+      },
+      "activity_phototaking_carly_2_stage_6": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_6_unlock_condtion_1",
+            "conditionType": 5902,
+            "desc": {
+              "id": "-540139309903685374",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "activity_phototaking_carly_2_stage_5"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  2
+                ],
+                "valueIntList": [
+                  2
+                ],
+                "valueStringList": [
+                  "2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_6"
+          },
+          {
+            "blockShow": false,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_6_unlock_condtion_2",
+            "conditionType": 19,
+            "desc": {
+              "id": "4453215068471346783",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "e7m2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_6"
+          }
+        ]
+      },
+      "activity_phototaking_carly_2_stage_7": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_7_unlock_condtion_1",
+            "conditionType": 5902,
+            "desc": {
+              "id": "-2447076708299418009",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "activity_phototaking_carly_2_stage_6"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  2
+                ],
+                "valueIntList": [
+                  2
+                ],
+                "valueStringList": [
+                  "2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_7"
+          },
+          {
+            "blockShow": false,
+            "compareOperator": 3,
+            "conditionId": "activity_phototaking_carly_2_stage_7_unlock_condtion_2",
+            "conditionType": 19,
+            "desc": {
+              "id": "4171877167469990324",
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "e7m4"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_phototaking_carly_2_stage_7"
+          }
+        ]
+      },
+      "activity_submit_food_2_stage_7": {
+        "conditionList": [
+          {
+            "blockShow": true,
+            "compareOperator": 3,
+            "conditionId": "activity_submit_food_2_stage_7_unlock_condtion_1",
+            "conditionType": 18,
+            "desc": {
+              "id": 0,
+              "text": ""
+            },
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "a1m9_q#7"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "stageId": "activity_submit_food_2_stage_7"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "activity_conditional_multistage_1_stage_2": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_2_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-1668701891430063112",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_2"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_2_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-496174301575006128",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_2"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la prima missione fotografica nell'evento \"La fiaba della Valle di Carly\"",
+                "newText": "Completa la prima missione fotografica nell'evento \"La fiaba della Valle di Carly\"."
+              },
+              "VN": {
+                "oldText": "Trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly], hoàn thành nhiệm vụ chụp ảnh ngày 1",
+                "newText": "Hoàn thành nhiệm vụ chụp ảnh thứ 1 trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly]"
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_3": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_3_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-4740697813121059733",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_3"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_3_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-4252405817310867289",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_3"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la seconda missione fotografica nell'evento \"La fiaba della Valle di Carly\"",
+                "newText": "Completa la seconda missione fotografica nell'evento \"La fiaba della Valle di Carly\"."
+              },
+              "VN": {
+                "oldText": "Trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly], hoàn thành nhiệm vụ chụp ảnh ngày 2",
+                "newText": "Hoàn thành nhiệm vụ chụp ảnh thứ 2 trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly]"
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_4": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_4_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "7401754750050359260",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_4"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_4_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "-1954186253476922199",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "sm1l3m1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_4"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_4_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-8448250290200205315",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_4"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_4_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "3169841820563927086",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "sm1l3m1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_4"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la terza missione fotografica nell'evento \"La fiaba della Valle di Carly\"",
+                "newText": "Completa la terza missione fotografica nell'evento \"La fiaba della Valle di Carly\"."
+              },
+              "VN": {
+                "oldText": "Trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly], hoàn thành nhiệm vụ chụp ảnh ngày 3",
+                "newText": "Hoàn thành nhiệm vụ chụp ảnh thứ 3 trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly]"
+              }
+            }
+          },
+          "conditionList[1].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "EN": {
+                "oldText": "Complete side mission [Quarry Rescue] to unlock",
+                "newText": "Complete the side mission [Quarry Rescue] to unlock"
+              },
+              "IT": {
+                "oldText": "Completa la missione secondaria \"Salvataggio alla cava\" per sbloccare",
+                "newText": "Completa la missione secondaria \"Salvataggio alla cava\" per sbloccare."
+              },
+              "MX": {
+                "oldText": "Completa la misión secundaria [Rescate en Cantera] para desbloquear",
+                "newText": "Completa la misión secundaria [Rescate en cantera] para desbloquear"
+              }
+            }
+          }
+        }
+      },
+      "cleaning_test_5": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_5_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "1669099005059363762",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_5"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_5_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "6230203144016649002",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_5"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la missione \"Salva i cicciodraghi\" in Pulizia profonda.",
+                "newText": "Completa la missione \"Salva il cicciodrago\" in Pulizia profonda."
+              },
+              "VN": {
+                "oldText": "Trong [Tẩy Rửa và Tráng Sạch], hoàn thành nhiệm vụ [Giải Cứu Chubby Lung]",
+                "newText": "Hoàn thành nhiệm vụ [Giải Cứu Chubby Lung] trong [Tẩy Rửa và Tráng Sạch]"
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_5": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_5_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-2830249752614838677",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_5"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_5_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "2335126098044437295",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_5"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_5_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-3201475616590153685",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_5"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_5_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "-6848367276446461615",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_5"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la quarta missione fotografica nell'evento \"La fiaba della Valle di Carly\"",
+                "newText": "Completa la quarta missione fotografica nell'evento \"La fiaba della Valle di Carly\"."
+              },
+              "VN": {
+                "oldText": "Trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly], hoàn thành nhiệm vụ chụp ảnh ngày 4",
+                "newText": "Hoàn thành nhiệm vụ chụp ảnh thứ 4 trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly]"
+              }
+            }
+          },
+          "conditionList[1].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la missione principale \"Capitolo I - Elaborazione III: Un mistero da risolvere\" per sbloccare",
+                "newText": "Completa la missione principale \"Capitolo I - Elaborazione III: Un mistero da risolvere\" per sbloccare."
+              },
+              "JP": {
+                "oldText": "メイン任務「第一章-プロセスIII-奇楼捜索」完了で解放",
+                "newText": "メイン任務：第一章-プロセスⅢ「奇楼捜索」完了で解放"
+              }
+            }
+          }
+        }
+      },
+      "dungeon_fighting_5": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_5_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-3085445271820311747",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_5"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_5_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-2525630150819794203",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_5"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Hoàn thành màn trước [Phá Dỡ Hiệp Đồng] để mở khóa",
+                "newText": "Hoàn thành màn [Phá Dỡ Hiệp Đồng] trước đó để mở khóa"
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_6": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_6_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-7199019629532214778",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_6"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_6_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "4431513984364679126",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_6"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_6_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-8685634095751429893",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_6"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_6_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "5793497180950614208",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_6"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la quinta missione fotografica nell'evento \"La fiaba della Valle di Carly\"",
+                "newText": "Completa la quinta missione fotografica nell'evento \"La fiaba della Valle di Carly\"."
+              },
+              "VN": {
+                "oldText": "Trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly], hoàn thành nhiệm vụ chụp ảnh ngày 5",
+                "newText": "Hoàn thành nhiệm vụ chụp ảnh thứ 5 trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly]"
+              }
+            }
+          },
+          "conditionList[1].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la missione principale \"Capitolo I - Elaborazione III: Culla dei secoli\" per sbloccare",
+                "newText": "Completa la missione principale \"Capitolo I - Elaborazione III: Culla dei secoli\" per sbloccare."
+              },
+              "JP": {
+                "oldText": "メイン任務「第一章-プロセスIII-時代揺籠」完了で解放",
+                "newText": "メイン任務：第一章-プロセスⅢ「時代揺籠」完了で解放"
+              }
+            }
+          }
+        }
+      },
+      "activity_conditional_multistage_1_stage_7": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_7_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-2503336428898976631",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_7"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_7_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "-8430151739842931370",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e3m5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_7"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_7_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-815279925383741852",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_conditional_multistage_1_stage_6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_7"
+            },
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_conditional_multistage_1_stage_7_unlock_condtion_2",
+              "conditionType": 19,
+              "desc": {
+                "id": "2634242520021594146",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e3m5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_conditional_multistage_1_stage_7"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "IT": {
+                "oldText": "Completa la sesta missione fotografica nell'evento \"La fiaba della Valle di Carly\"",
+                "newText": "Completa la sesta missione fotografica nell'evento \"La fiaba della Valle di Carly\"."
+              },
+              "VN": {
+                "oldText": "Trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly], hoàn thành nhiệm vụ chụp ảnh ngày 6",
+                "newText": "Hoàn thành nhiệm vụ chụp ảnh thứ 6 trong sự kiện [Câu Chuyện Cổ Tích Vùng Thung Lũng của Carly]"
+              }
+            }
+          },
+          "conditionList[1].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua a missão principal [Capítulo I Processo IV: Cinzas Imortais]",
+                "newText": "Conclua a missão principal [Capítulo I Processo IV: Cinzas Imortais] para desbloquear"
+              },
+              "IT": {
+                "oldText": "Completa la missione principale \"Capitolo I - Elaborazione IV: Ceneri senza tempo\" per sbloccare",
+                "newText": "Completa la missione principale \"Capitolo I - Elaborazione IV: Ceneri senza tempo\" per sbloccare."
+              },
+              "JP": {
+                "oldText": "メイン任務「第一章-プロセスIV-消えぬ火種」完了で解放",
+                "newText": "メイン任務：第一章-プロセスⅣ「消えぬ火種」完了で解放"
+              }
+            }
+          }
+        }
+      },
+      "activity_limited_formula_1_stage_1": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_limited_formula_1_stage_1_unlock_condition_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-7483618213869170252",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_limited_formula_1_stage_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_limited_formula_1_stage_1"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_limited_formula_1_stage_1_unlock_condition_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "3550792153631790083",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_limited_formula_1_stage_4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_limited_formula_1_stage_1"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "KR": {
+                "oldText": "endstage 미해제일 때만 1단계 잠금 해제 가능",
+                "newText": "최종 스테이지 미해제 상태에서만 1단계 잠금 해제"
+              }
+            }
+          }
+        }
+      },
+      "dungeon_fighting_4": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_4_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "5530073852884226934",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_4"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_4_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-7595059385904432272",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_4"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Hoàn thành màn trước [Cầm Cự Bầy Trùng] để mở khóa",
+                "newText": "Hoàn thành màn [Cầm Cự Bầy Trùng] trước đó để mở khóa"
+              }
+            }
+          }
+        }
+      },
+      "activity_limited_formula_1_stage_3": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_limited_formula_1_stage_3_unlock_condition_1",
+              "conditionType": 18,
+              "desc": {
+                "id": "4176548834213784529",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "a1m8d3_q#8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_limited_formula_1_stage_3"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_limited_formula_1_stage_3_unlock_condition_1",
+              "conditionType": 18,
+              "desc": {
+                "id": "4327188128621802227",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "a1m8d3_q#8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_limited_formula_1_stage_3"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "KR": {
+                "oldText": "임무 3의 첫 번째 항목이 완료 후 3단계 잠금 해제",
+                "newText": "임무 3의 첫 번째 항목 완료 후 3단계 잠금 해제"
+              }
+            }
+          }
+        }
+      },
+      "dungeon_fighting_6": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_6_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-8369071543979891419",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_6"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_6_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-6777542232488877159",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_6"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Hoàn thành màn trước [Hàng Xóm Tệ Hại] để mở khóa",
+                "newText": "Hoàn thành màn [Hàng Xóm Tệ Hại] trước đó để mở khóa"
+              }
+            }
+          }
+        }
+      },
+      "activity_phototaking_universe_stage_2": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_phototaking_universe_stage_2_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-3690956076124747636",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_phototaking_universe_stage_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_phototaking_universe_stage_2"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_phototaking_universe_stage_2_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-7891664215883967070",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_phototaking_universe_stage_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_phototaking_universe_stage_2"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Trong [Ảnh Chụp Nhanh: Khắc Ghi Giấc Mơ Vũ Trụ], hoàn thành nhiệm vụ camera thứ nhất",
+                "newText": "Hoàn thành nhiệm vụ camera thứ 1 trong [Ảnh Chụp Nhanh: Khắc Ghi Giấc Mơ Vũ Trụ]"
+              }
+            }
+          }
+        }
+      },
+      "cleaning_test_7": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_7_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "36408208175611674",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_7"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_7_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "6290286667895500938",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_7"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Trong [Tẩy Rửa và Tráng Sạch], hoàn thành nhiệm vụ [Diễn Tập Làm Sạch Bệ]",
+                "newText": "Hoàn thành nhiệm vụ [Diễn Tập Làm Sạch Bệ] trong [Tẩy Rửa và Tráng Sạch]"
+              }
+            }
+          }
+        }
+      },
+      "activity_phototaking_universe_stage_3": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_phototaking_universe_stage_3_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "9166362933958184446",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_phototaking_universe_stage_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_phototaking_universe_stage_3"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "activity_phototaking_universe_stage_3_unlock_condtion_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "6828971708819299086",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "activity_phototaking_universe_stage_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "activity_phototaking_universe_stage_3"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Trong [Ảnh Chụp Nhanh: Khắc Ghi Giấc Mơ Vũ Trụ], hoàn thành nhiệm vụ camera thứ hai",
+                "newText": "Hoàn thành nhiệm vụ camera thứ 2 trong [Ảnh Chụp Nhanh: Khắc Ghi Giấc Mơ Vũ Trụ]"
+              }
+            }
+          }
+        }
+      },
+      "cleaning_test_4": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_4_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "1878902501267170179",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_4"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_4_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "3753783047108470049",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_4"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Trong [Tẩy Rửa và Tráng Sạch], hoàn thành nhiệm vụ [Bùn Đen Phủ Lối]",
+                "newText": "Hoàn thành nhiệm vụ [Bùn Đen Phủ Lối] trong [Tẩy Rửa và Tráng Sạch]"
+              }
+            }
+          }
+        }
+      },
+      "cleaning_test_2": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_2_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "9196076775872447091",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_2"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_2_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-6355580526104273045",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_2"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Trong [Tẩy Rửa và Tráng Sạch], hoàn thành nhiệm vụ [Dấu Chân Sinh Vật]",
+                "newText": "Hoàn thành nhiệm vụ [Dấu Chân Sinh Vật] trong [Tẩy Rửa và Tráng Sạch]"
+              }
+            }
+          }
+        }
+      },
+      "cleaning_test_3": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_3_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-3301348253317881969",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_3"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_3_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "4840069449338212911",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_3"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "CTrong [Tẩy Rửa và Tráng Sạch], hoàn thành nhiệm vụ [Tắm Nước Lạnh]",
+                "newText": "Hoàn thành nhiệm vụ [Tắm Nước Lạnh] trong [Tẩy Rửa và Tráng Sạch]"
+              }
+            }
+          }
+        }
+      },
+      "dungeon_fighting_8": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_8_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "474597862096113694",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_7"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_8"
+            },
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_8_unlock_2",
+              "conditionType": 18,
+              "desc": {
+                "id": "6038274369984278560",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "a1m2_q#5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_8"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_8_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "5022927616405394939",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_7"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_8"
+            },
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_8_unlock_2",
+              "conditionType": 18,
+              "desc": {
+                "id": "-6060787519041871408",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "a1m2_q#5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_8"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua o estágio anterior [Galha Selvagem] para desbloquear",
+                "newText": "Conclua o estágio anterior [Investida Selvagem] para desbloquear"
+              },
+              "VN": {
+                "oldText": "Hoàn thành màn trước [Mật Hoang Thú] để mở khóa",
+                "newText": "Hoàn thành màn [Mật Hoang Thú] trước đó để mở khóa"
+              }
+            }
+          },
+          "conditionList[1].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua a missão [Treinamento de Recuperação] para desbloquear",
+                "newText": "Conclua a missão [Treinamento de Descoberta] para desbloquear"
+              },
+              "IT": {
+                "oldText": "Completa la missione \"Addestramento di recupero\" per sbloccare.",
+                "newText": "Completa la missione \"Addestramento di recupero\" per sbloccare"
+              },
+              "MX": {
+                "oldText": "Completa la misión anterior [Entrenamiento de recuperación] para desbloquear",
+                "newText": "Completa la misión [Entrenamiento de recuperación] para desbloquear"
+              },
+              "VN": {
+                "oldText": "Hoàn thành nhiệm vụ [Huấn Luyện Bắt Kịp] để mở khoá",
+                "newText": "Hoàn thành màn [Huấn Luyện Bắt Kịp] trước đó để mở khóa"
+              }
+            }
+          }
+        }
+      },
+      "cleaning_test_6": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_6_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "4727509086625813101",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_6"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": false,
+              "compareOperator": 3,
+              "conditionId": "activity_cleaning_stage_6_unlock_condtion",
+              "conditionType": 5902,
+              "desc": {
+                "id": "4708461052504004140",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "cleaning_test_5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "cleaning_test_6"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Trong [Tẩy Rửa và Tráng Sạch], hoàn thành nhiệm vụ [Mối Nguy Tiềm Ẩn]",
+                "newText": "Hoàn thành nhiệm vụ [Mối Nguy Tiềm Ẩn] trong [Tẩy Rửa và Tráng Sạch]"
+              }
+            }
+          }
+        }
+      },
+      "dungeon_fighting_2": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_2_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "4752330452857346009",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_2"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_2_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "7537816673593662623",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_1"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_2"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Hoàn thành màn trước [Đồng Khí Tương Cầu] để mở khóa",
+                "newText": "Hoàn thành màn [Đồng Khí Tương Cầu] trước đó để mở khóa"
+              }
+            }
+          }
+        }
+      },
+      "dungeon_fighting_3": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_3_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-702729774940667957",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_3"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_3_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "830199357266668974",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_3"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Hoàn thành màn trước [Diễn Tập Nổ] để mở khóa",
+                "newText": "Hoàn thành màn [Diễn Tập Nổ] trước đó để mở khóa"
+              }
+            }
+          }
+        }
+      },
+      "dungeon_fighting_7": {
+        "oldValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_7_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "7045663510814061967",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_7"
+            }
+          ]
+        },
+        "newValue": {
+          "conditionList": [
+            {
+              "blockShow": true,
+              "compareOperator": 3,
+              "conditionId": "dungeon_fighting_7_unlock_1",
+              "conditionType": 5902,
+              "desc": {
+                "id": "-1365972706772339725",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dungeon_fighting_6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    2
+                  ],
+                  "valueIntList": [
+                    2
+                  ],
+                  "valueStringList": [
+                    "2"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "stageId": "dungeon_fighting_7"
+            }
+          ]
+        },
+        "changed": {
+          "conditionList[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "VN": {
+                "oldText": "Hoàn thành màn trước [Học Thuyết Pháo Đài] để mở khóa",
+                "newText": "Hoàn thành màn [Học Thuyết Pháo Đài] trước đó để mở khóa"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "tableName": "EquipSuitTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {
+      "suit_crush_fracture": {
+        "equipList": [
+          "item_equip_t4_suit_crush_fracture_body_01",
+          "item_equip_t4_suit_crush_fracture_body_02",
+          "item_equip_t4_suit_crush_fracture_hand_01",
+          "item_equip_t4_suit_crush_fracture_hand_02",
+          "item_equip_t4_suit_crush_fracture_edc_01",
+          "item_equip_t4_suit_crush_fracture_edc_02"
+        ],
+        "list": [
+          {
+            "equipCnt": 3,
+            "skillID": "passive_equipsuit_crush_fracture",
+            "skillLv": 1,
+            "suitID": "suit_crush_fracture",
+            "suitLogoName": "icon_pack_wuling_suit_usp02",
+            "suitName": {
+              "id": "3789200506194814524",
+              "text": ""
+            }
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "suit_combo_cd01": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_suit_combo_cd01_body_01",
+            "item_equip_t4_suit_combo_cd01_body_02",
+            "item_equip_t4_suit_combo_cd01_hand_01",
+            "item_equip_t4_suit_combo_cd01_hand_02",
+            "item_equip_t4_suit_combo_cd01_edc_01",
+            "item_equip_t4_suit_combo_cd01_edc_02",
+            "item_equip_t4_suit_combo_cd01_edc_03"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_combo_cd01",
+              "skillLv": 1,
+              "suitID": "suit_combo_cd01",
+              "suitLogoName": "icon_pack_wuling_suit_attri01",
+              "suitName": {
+                "id": "-4308353162611329431",
+                "text": ""
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_suit_combo_cd01_body_01",
+            "item_equip_t4_suit_combo_cd01_body_02",
+            "item_equip_t4_suit_combo_cd01_hand_01",
+            "item_equip_t4_suit_combo_cd01_hand_02",
+            "item_equip_t4_suit_combo_cd01_edc_01",
+            "item_equip_t4_suit_combo_cd01_edc_02",
+            "item_equip_t4_suit_combo_cd01_edc_03",
+            "item_equip_t4_suit_combo_cd01_edc_04"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_combo_cd01",
+              "skillLv": 1,
+              "suitID": "suit_combo_cd01",
+              "suitLogoName": "icon_pack_wuling_suit_attri01",
+              "suitName": {
+                "id": "-4308353162611329431",
+                "text": ""
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[7]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_combo_cd01_edc_04"
+          }
+        }
+      },
+      "suit_phy01": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_suit_phy01_body_01",
+            "item_equip_t4_suit_phy01_body_02",
+            "item_equip_t4_suit_phy01_hand_01",
+            "item_equip_t4_suit_phy01_hand_02",
+            "item_equip_t4_suit_phy01_edc_01",
+            "item_equip_t4_suit_phy01_edc_02",
+            "item_equip_t4_suit_phy01_edc_03",
+            "item_equip_t4_suit_phy01_body_03",
+            "item_equip_t4_suit_phy01_hand_03",
+            "item_equip_t4_suit_phy01_edc_04"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_physuit_01",
+              "skillLv": 1,
+              "suitID": "suit_phy01",
+              "suitLogoName": "icon_pack_wuling_suit_phy01",
+              "suitName": {
+                "id": "2969356566561953360",
+                "text": ""
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_suit_phy01_body_01",
+            "item_equip_t4_suit_phy01_body_02",
+            "item_equip_t4_suit_phy01_hand_01",
+            "item_equip_t4_suit_phy01_hand_02",
+            "item_equip_t4_suit_phy01_edc_01",
+            "item_equip_t4_suit_phy01_edc_02",
+            "item_equip_t4_suit_phy01_edc_03",
+            "item_equip_t4_suit_phy01_body_03",
+            "item_equip_t4_suit_phy01_hand_03",
+            "item_equip_t4_suit_phy01_edc_04",
+            "item_equip_t4_suit_phy01_body_04"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_physuit_01",
+              "skillLv": 1,
+              "suitID": "suit_phy01",
+              "suitLogoName": "icon_pack_wuling_suit_phy01",
+              "suitName": {
+                "id": "2969356566561953360",
+                "text": ""
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[10]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_phy01_body_04"
+          }
+        }
+      }
+    }
+  }
+}

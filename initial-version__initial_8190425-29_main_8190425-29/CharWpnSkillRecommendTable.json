@@ -1,0 +1,39 @@
+{
+  "tableName": "CharWpnSkillRecommendTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0033_camille": {
+        "charId": "chr_0033_camille",
+        "weaponSkillIds": [
+          "wpn_attr_agi_low",
+          "wpn_attr_agi_high",
+          "wpn_attr_agi_mid",
+          "wpn_attr_wisd_low",
+          "wpn_attr_wisd_mid",
+          "wpn_attr_wisd_high"
+        ]
+      },
+      "chr_0031_mifu": {
+        "charId": "chr_0031_mifu",
+        "weaponSkillIds": [
+          "wpn_attr_str_low",
+          "wpn_attr_str_high",
+          "wpn_attr_str_mid",
+          "wpn_attr_will_low",
+          "wpn_attr_will_mid",
+          "wpn_attr_will_high"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

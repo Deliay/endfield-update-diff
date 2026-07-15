@@ -1,0 +1,2347 @@
+{
+  "tableName": "FactoryManualCraftTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 33
+  },
+  "entries": {
+    "added": {
+      "hdwk_jzmonk_1_hsmob_1_1": {
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "hdwk_jzmonk_1_hsmob_1_1",
+        "ingredients": [
+          {
+            "count": 1,
+            "id": "item_drop_jzmonk_1"
+          },
+          {
+            "count": 2,
+            "id": "item_drop_hsmob_1"
+          }
+        ],
+        "itemId": "item_formula_jzmonk_1_hsmob_1_1",
+        "name": {
+          "id": "-5799172710088511695",
+          "text": ""
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_jzmonk_1_hsmob_1_1"
+          }
+        ],
+        "rarity": 4,
+        "showingType": 19,
+        "sortId": 33
+      },
+      "hdwk_corp4_spc": {
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "hdwk_corp4_spc",
+        "ingredients": [
+          {
+            "count": 1,
+            "id": "item_drop_wgslime_1"
+          },
+          {
+            "count": 2,
+            "id": "item_plant_sp_4"
+          },
+          {
+            "count": 1,
+            "id": "item_drop_dog_1"
+          }
+        ],
+        "itemId": "item_formula_corp4_spc",
+        "name": {
+          "id": "-1123545633251496307",
+          "text": ""
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_corp4_spc"
+          }
+        ],
+        "rarity": 5,
+        "showingType": 19,
+        "sortId": 9
+      }
+    },
+    "removed": {},
+    "changed": {
+      "handwork_plant_moss_spc_powder_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_spc_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_spc_1"
+            }
+          ],
+          "itemId": "item_formula_plant_moss_spc_powder_1",
+          "name": {
+            "id": "8664638356358534681",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_spc_powder_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 43
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_spc_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_spc_1"
+            }
+          ],
+          "itemId": "item_formula_plant_moss_spc_powder_1",
+          "name": {
+            "id": "8664638356358534681",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_spc_powder_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 44
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 43,
+            "newValue": 44
+          }
+        }
+      },
+      "handwork_bottled_food_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_food_1",
+          "ingredients": [
+            {
+              "count": 5,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 5,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_food_1",
+          "name": {
+            "id": "3630655637052776410",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_food_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 41
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_food_1",
+          "ingredients": [
+            {
+              "count": 5,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 5,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_food_1",
+          "name": {
+            "id": "3630655637052776410",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_food_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 42
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 41,
+            "newValue": 42
+          }
+        }
+      },
+      "handwork_bottled_food_2": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_food_2",
+          "ingredients": [
+            {
+              "count": 10,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 10,
+              "id": "item_iron_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_food_2",
+          "name": {
+            "id": "-8781787310732094191",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_food_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 42
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_food_2",
+          "ingredients": [
+            {
+              "count": 10,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 10,
+              "id": "item_iron_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_food_2",
+          "name": {
+            "id": "-8781787310732094191",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_food_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 43
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 42,
+            "newValue": 43
+          }
+        }
+      },
+      "handwork_plant_moss_spc_powder_2": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_spc_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_spc_2"
+            }
+          ],
+          "itemId": "item_formula_plant_moss_spc_powder_2",
+          "name": {
+            "id": "-7946955118448129580",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_spc_powder_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 45
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_spc_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_spc_2"
+            }
+          ],
+          "itemId": "item_formula_plant_moss_spc_powder_2",
+          "name": {
+            "id": "-7946955118448129580",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_spc_powder_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 46
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 45,
+            "newValue": 46
+          }
+        }
+      },
+      "hdwk_lbmob_1_moss_2_bottled_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbmob_1_moss_2_bottled_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_lbmob_1_moss_2_bottled_1_1",
+          "name": {
+            "id": "3630265693205645511",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbmob_1_moss_2_bottled_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 54
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbmob_1_moss_2_bottled_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_lbmob_1_moss_2_bottled_1_1",
+          "name": {
+            "id": "3630265693205645511",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbmob_1_moss_2_bottled_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 55
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 54,
+            "newValue": 55
+          }
+        }
+      },
+      "hdwk_agmelee_1_moss_1_lbmob_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agmelee_1_moss_1_lbmob_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            }
+          ],
+          "itemId": "item_formula_agmelee_1_moss_1_lbmob_1_1",
+          "name": {
+            "id": "-236961363312514350",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agmelee_1_moss_1_lbmob_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 60
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agmelee_1_moss_1_lbmob_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            }
+          ],
+          "itemId": "item_formula_agmelee_1_moss_1_lbmob_1_1",
+          "name": {
+            "id": "-236961363312514350",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agmelee_1_moss_1_lbmob_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 61
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 60,
+            "newValue": 61
+          }
+        }
+      },
+      "handwork_bottled_insec1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_insec1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_tundra_insect_1"
+            }
+          ],
+          "itemId": "item_formula_bottled_insec1_1",
+          "name": {
+            "id": "3541675354506485435",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_insec1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 47
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_insec1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_tundra_insect_1"
+            }
+          ],
+          "itemId": "item_formula_bottled_insec1_1",
+          "name": {
+            "id": "3541675354506485435",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_insec1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 48
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 47,
+            "newValue": 48
+          }
+        }
+      },
+      "handwork_bottled_insec2_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_insec2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_tundra_insect_2"
+            }
+          ],
+          "itemId": "item_formula_bottled_insec2_1",
+          "name": {
+            "id": "6609239851613344232",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_insec2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 49
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_insec2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_tundra_insect_2"
+            }
+          ],
+          "itemId": "item_formula_bottled_insec2_1",
+          "name": {
+            "id": "6609239851613344232",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_insec2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 50
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 49,
+            "newValue": 50
+          }
+        }
+      },
+      "handwork_bottled_rec_hp_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_rec_hp_1",
+          "ingredients": [
+            {
+              "count": 5,
+              "id": "item_plant_moss_powder_1"
+            },
+            {
+              "count": 5,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_rec_hp_1",
+          "name": {
+            "id": "-8173291844752618703",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_rec_hp_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 39
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_rec_hp_1",
+          "ingredients": [
+            {
+              "count": 5,
+              "id": "item_plant_moss_powder_1"
+            },
+            {
+              "count": 5,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_rec_hp_1",
+          "name": {
+            "id": "-8173291844752618703",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_rec_hp_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 40
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 39,
+            "newValue": 40
+          }
+        }
+      },
+      "handwork_bottled_rec_hp_2": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_rec_hp_2",
+          "ingredients": [
+            {
+              "count": 10,
+              "id": "item_plant_moss_powder_1"
+            },
+            {
+              "count": 10,
+              "id": "item_iron_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_rec_hp_2",
+          "name": {
+            "id": "-7104418080187138052",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_rec_hp_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 40
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_bottled_rec_hp_2",
+          "ingredients": [
+            {
+              "count": 10,
+              "id": "item_plant_moss_powder_1"
+            },
+            {
+              "count": 10,
+              "id": "item_iron_bottle"
+            }
+          ],
+          "itemId": "item_formula_bottled_rec_hp_2",
+          "name": {
+            "id": "-7104418080187138052",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_bottled_rec_hp_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 41
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 40,
+            "newValue": 41
+          }
+        }
+      },
+      "hdwk_erhound_1_agmelee_1_moss_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_erhound_1_agmelee_1_moss_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_erhound_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_1"
+            }
+          ],
+          "itemId": "item_formula_erhound_1_agmelee_1_moss_1_1",
+          "name": {
+            "id": "-3161855673065342978",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_erhound_1_agmelee_1_moss_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 50
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_erhound_1_agmelee_1_moss_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_erhound_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_1"
+            }
+          ],
+          "itemId": "item_formula_erhound_1_agmelee_1_moss_1_1",
+          "name": {
+            "id": "-3161855673065342978",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_erhound_1_agmelee_1_moss_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 51
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 50,
+            "newValue": 51
+          }
+        }
+      },
+      "hdwk_wgshoal_1_grass_1_grass_2_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_wgshoal_1_grass_1_grass_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_wgshoal_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_grass_powder_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_grass_powder_2"
+            }
+          ],
+          "itemId": "item_formula_wgshoal_1_grass_1_grass_2_1",
+          "name": {
+            "id": "-4060023664436466650",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_wgshoal_1_grass_1_grass_2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 34
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_wgshoal_1_grass_1_grass_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_wgshoal_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_grass_powder_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_grass_powder_2"
+            }
+          ],
+          "itemId": "item_formula_wgshoal_1_grass_1_grass_2_1",
+          "name": {
+            "id": "-4060023664436466650",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_wgshoal_1_grass_1_grass_2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 35
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 34,
+            "newValue": 35
+          }
+        }
+      },
+      "hdwk_agmelee_1_sp_2_slimeml_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agmelee_1_sp_2_slimeml_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_sp_2"
+            }
+          ],
+          "itemId": "item_formula_agmelee_1_sp_2_slimeml_1_1",
+          "name": {
+            "id": "-8619475439413442376",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agmelee_1_sp_2_slimeml_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 53
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agmelee_1_sp_2_slimeml_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_sp_2"
+            }
+          ],
+          "itemId": "item_formula_agmelee_1_sp_2_slimeml_1_1",
+          "name": {
+            "id": "-8619475439413442376",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agmelee_1_sp_2_slimeml_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 54
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 53,
+            "newValue": 54
+          }
+        }
+      },
+      "handwork_plant_grass_powder_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_1"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_powder_1",
+          "name": {
+            "id": "-4532727986536548958",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_powder_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 58
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_1"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_powder_1",
+          "name": {
+            "id": "-4532727986536548958",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_powder_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 59
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 58,
+            "newValue": 59
+          }
+        }
+      },
+      "handwork_plant_grass_powder_2": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_2"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_powder_2",
+          "name": {
+            "id": "-4698069523674752957",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_powder_2"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 59
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_2"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_powder_2",
+          "name": {
+            "id": "-4698069523674752957",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_powder_2"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 60
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 59,
+            "newValue": 60
+          }
+        }
+      },
+      "handwork_plant_grass_spc_powder_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_spc_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_spc_1"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_spc_powder_1",
+          "name": {
+            "id": "-8461195914447850505",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_spc_powder_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 38
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_spc_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_spc_1"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_spc_powder_1",
+          "name": {
+            "id": "-8461195914447850505",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_spc_powder_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 39
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 38,
+            "newValue": 39
+          }
+        }
+      },
+      "handwork_plant_grass_spc_powder_2": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_spc_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_spc_2"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_spc_powder_2",
+          "name": {
+            "id": "-812202299184339125",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_spc_powder_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 37
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "handwork_plant_grass_spc_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_grass_spc_2"
+            }
+          ],
+          "itemId": "item_formula_plant_grass_spc_powder_2",
+          "name": {
+            "id": "-812202299184339125",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_grass_spc_powder_2"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 17,
+          "sortId": 38
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 37,
+            "newValue": 38
+          }
+        }
+      },
+      "handwork_plant_moss_powder_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_1"
+            }
+          ],
+          "itemId": "item_plant_moss_1",
+          "name": {
+            "id": "-7136290577544472422",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_powder_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 56
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_powder_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_1"
+            }
+          ],
+          "itemId": "item_plant_moss_1",
+          "name": {
+            "id": "-7136290577544472422",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_powder_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 57
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 56,
+            "newValue": 57
+          }
+        }
+      },
+      "hdwk_lbmob_1_lbshamman_1_sp_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbmob_1_lbshamman_1_sp_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbshamman_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_sp_1"
+            }
+          ],
+          "itemId": "item_formula_lbmob_1_lbshamman_1_sp_1_1",
+          "name": {
+            "id": "-2554307974607251758",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbmob_1_lbshamman_1_sp_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 46
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbmob_1_lbshamman_1_sp_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbshamman_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_sp_1"
+            }
+          ],
+          "itemId": "item_formula_lbmob_1_lbshamman_1_sp_1_1",
+          "name": {
+            "id": "-2554307974607251758",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbmob_1_lbshamman_1_sp_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 47
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 46,
+            "newValue": 47
+          }
+        }
+      },
+      "handwork_plant_moss_powder_2": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_2"
+            }
+          ],
+          "itemId": "item_formula_plant_moss_powder_2",
+          "name": {
+            "id": "-2310180258234216558",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 57
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "handwork_plant_moss_powder_2",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_plant_moss_2"
+            }
+          ],
+          "itemId": "item_formula_plant_moss_powder_2",
+          "name": {
+            "id": "-2310180258234216558",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 2,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 17,
+          "sortId": 58
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 57,
+            "newValue": 58
+          }
+        }
+      },
+      "hdwk_ethillu_1_wgslime_1_wgthorns_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_ethillu_1_wgslime_1_wgthorns_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_ethillu_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_wgslime_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_wgthorns_1"
+            }
+          ],
+          "itemId": "item_formula_ethillu_1_wgslime_1_wgthorns_1_1",
+          "name": {
+            "id": "-7396396029600579152",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_ethillu_1_wgslime_1_wgthorns_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 33
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_ethillu_1_wgslime_1_wgthorns_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_ethillu_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_wgslime_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_wgthorns_1"
+            }
+          ],
+          "itemId": "item_formula_ethillu_1_wgslime_1_wgthorns_1_1",
+          "name": {
+            "id": "-7396396029600579152",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_ethillu_1_wgslime_1_wgthorns_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 34
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 33,
+            "newValue": 34
+          }
+        }
+      },
+      "hdwk_agfly_1_agmelee_1_moss_2_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agfly_1_agmelee_1_moss_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agfly_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "itemId": "item_formula_agfly_1_agmelee_1_moss_2_1",
+          "name": {
+            "id": "-1968325286595903372",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agfly_1_agmelee_1_moss_2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 52
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agfly_1_agmelee_1_moss_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agfly_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "itemId": "item_formula_agfly_1_agmelee_1_moss_2_1",
+          "name": {
+            "id": "-1968325286595903372",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agfly_1_agmelee_1_moss_2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 53
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 52,
+            "newValue": 53
+          }
+        }
+      },
+      "hdwk_agrange_1_lbshamman_bottled_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agrange_1_lbshamman_bottled_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbshamman_1"
+            },
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_agrange_1_lbshamman_bottled_1_1",
+          "name": {
+            "id": "2974617674060153143",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agrange_1_lbshamman_bottled_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 55
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agrange_1_lbshamman_bottled_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbshamman_1"
+            },
+            {
+              "count": 1,
+              "id": "item_glass_bottle"
+            }
+          ],
+          "itemId": "item_formula_agrange_1_lbshamman_bottled_1_1",
+          "name": {
+            "id": "2974617674060153143",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agrange_1_lbshamman_bottled_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 56
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 55,
+            "newValue": 56
+          }
+        }
+      },
+      "hdwk_agrange_1_moss_2_lbmob_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agrange_1_moss_2_lbmob_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            }
+          ],
+          "itemId": "item_formula_agrange_1_moss_2_lbmob_1_1",
+          "name": {
+            "id": "-6575122600061882509",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agrange_1_moss_2_lbmob_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 61
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_agrange_1_moss_2_lbmob_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            }
+          ],
+          "itemId": "item_formula_agrange_1_moss_2_lbmob_1_1",
+          "name": {
+            "id": "-6575122600061882509",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_agrange_1_moss_2_lbmob_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 62
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 61,
+            "newValue": 62
+          }
+        }
+      },
+      "hdwk_dog_1_slimeml_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_dog_1_slimeml_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            }
+          ],
+          "itemId": "item_formula_dog_1_slimeml_1_1",
+          "name": {
+            "id": "-8726281087425897097",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_dog_1_slimeml_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 64
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_dog_1_slimeml_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            }
+          ],
+          "itemId": "item_formula_dog_1_slimeml_1_1",
+          "name": {
+            "id": "-8726281087425897097",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_dog_1_slimeml_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 65
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 64,
+            "newValue": 65
+          }
+        }
+      },
+      "hdwk_firebat_1_agrange_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_firebat_1_agrange_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_firebat_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            }
+          ],
+          "itemId": "item_formula_firebat_1_agrange_1_1",
+          "name": {
+            "id": "-6579840908180410560",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_firebat_1_agrange_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 48
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_firebat_1_agrange_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_firebat_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            }
+          ],
+          "itemId": "item_formula_firebat_1_agrange_1_1",
+          "name": {
+            "id": "-6579840908180410560",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_firebat_1_agrange_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 49
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 48,
+            "newValue": 49
+          }
+        }
+      },
+      "hdwk_hsmob_1_dog_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_hsmob_1_dog_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_hsmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_sp_3"
+            }
+          ],
+          "itemId": "item_formula_hsmob_1_dog_1_1",
+          "name": {
+            "id": "8899029280517756274",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_hsmob_1_dog_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 36
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_hsmob_1_dog_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_hsmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_sp_3"
+            }
+          ],
+          "itemId": "item_formula_hsmob_1_dog_1_1",
+          "name": {
+            "id": "8899029280517756274",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_hsmob_1_dog_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 37
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 36,
+            "newValue": 37
+          }
+        }
+      },
+      "hdwk_lbmob_1_dog_1_moss_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbmob_1_dog_1_moss_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_1"
+            }
+          ],
+          "itemId": "item_formula_lbmob_1_dog_1_moss_1_1",
+          "name": {
+            "id": "7437390662710324595",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbmob_1_dog_1_moss_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 62
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbmob_1_dog_1_moss_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbmob_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_1"
+            }
+          ],
+          "itemId": "item_formula_lbmob_1_dog_1_moss_1_1",
+          "name": {
+            "id": "7437390662710324595",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbmob_1_dog_1_moss_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 63
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 62,
+            "newValue": 63
+          }
+        }
+      },
+      "hdwk_lbshamman_1_agmelee_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbshamman_1_agmelee_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbshamman_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            }
+          ],
+          "itemId": "item_formula_lbshamman_1_agmelee_1_1",
+          "name": {
+            "id": "-758571546851278909",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbshamman_1_agmelee_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 63
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbshamman_1_agmelee_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbshamman_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agmelee_1"
+            }
+          ],
+          "itemId": "item_formula_lbshamman_1_agmelee_1_1",
+          "name": {
+            "id": "-758571546851278909",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbshamman_1_agmelee_1_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 64
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 63,
+            "newValue": 64
+          }
+        }
+      },
+      "hdwk_lbshield_1_slimeml_1_dog_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbshield_1_slimeml_1_dog_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbshield_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            }
+          ],
+          "itemId": "item_formula_lbshield_1_slimeml_1_dog_1_1",
+          "name": {
+            "id": "4479613140276962913",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbshield_1_slimeml_1_dog_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 51
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_lbshield_1_slimeml_1_dog_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_lbshield_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_dog_1"
+            }
+          ],
+          "itemId": "item_formula_lbshield_1_slimeml_1_dog_1_1",
+          "name": {
+            "id": "4479613140276962913",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_lbshield_1_slimeml_1_dog_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 52
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 51,
+            "newValue": 52
+          }
+        }
+      },
+      "hdwk_mimicw_1_moss_1_moss_2_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_mimicw_1_moss_1_moss_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_mimicw_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "itemId": "item_formula_mimicw_1_moss_1_moss_2_1",
+          "name": {
+            "id": "-455838899015692304",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_mimicw_1_moss_1_moss_2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 44
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_mimicw_1_moss_1_moss_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_mimicw_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "itemId": "item_formula_mimicw_1_moss_1_moss_2_1",
+          "name": {
+            "id": "-455838899015692304",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_mimicw_1_moss_1_moss_2_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 45
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 44,
+            "newValue": 45
+          }
+        }
+      },
+      "hdwk_slimeml_1_agrange_1_moss_2_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_slimeml_1_agrange_1_moss_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "itemId": "item_formula_slimeml_1_agrange_1_moss_2_1",
+          "name": {
+            "id": "3314236345251259264",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_slimeml_1_agrange_1_moss_2_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 65
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_1",
+          "id": "hdwk_slimeml_1_agrange_1_moss_2_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_slimeml_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_agrange_1"
+            },
+            {
+              "count": 1,
+              "id": "item_plant_moss_powder_2"
+            }
+          ],
+          "itemId": "item_formula_slimeml_1_agrange_1_moss_2_1",
+          "name": {
+            "id": "3314236345251259264",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_slimeml_1_agrange_1_moss_2_1"
+            }
+          ],
+          "rarity": 2,
+          "showingType": 19,
+          "sortId": 66
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 65,
+            "newValue": 66
+          }
+        }
+      },
+      "hdwk_wgslime_1_wgthorns_1_1": {
+        "oldValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_wgslime_1_wgthorns_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_wgslime_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_wgthorns_1"
+            }
+          ],
+          "itemId": "item_formula_wgslime_1_wgthorns_1_1",
+          "name": {
+            "id": "5056686781211323911",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_wgslime_1_wgthorns_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 35
+        },
+        "newValue": {
+          "defaultUnlock": false,
+          "domainId": "domain_2",
+          "id": "hdwk_wgslime_1_wgthorns_1_1",
+          "ingredients": [
+            {
+              "count": 1,
+              "id": "item_drop_wgslime_1"
+            },
+            {
+              "count": 1,
+              "id": "item_drop_wgthorns_1"
+            }
+          ],
+          "itemId": "item_formula_wgslime_1_wgthorns_1_1",
+          "name": {
+            "id": "5056686781211323911",
+            "text": ""
+          },
+          "outcomes": [
+            {
+              "count": 1,
+              "id": "item_wgslime_1_wgthorns_1_1"
+            }
+          ],
+          "rarity": 3,
+          "showingType": 19,
+          "sortId": 36
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 35,
+            "newValue": 36
+          }
+        }
+      }
+    }
+  }
+}

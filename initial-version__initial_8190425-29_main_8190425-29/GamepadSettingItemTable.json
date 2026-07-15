@@ -1,0 +1,221 @@
+{
+  "tableName": "GamepadSettingItemTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "gamepad_interact": {
+        "oldValue": {
+          "actionFactoryKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionScope": "Advanced",
+          "actions": [
+            {
+              "actionIds": [
+                "common_interact",
+                "common_interact_pickup_all_start",
+                "common_interact_pickup_all_end"
+              ],
+              "actionKeyIsModifyKey": false
+            }
+          ],
+          "options": [
+            {
+              "optionActionKeys": [
+                "B"
+              ],
+              "optionIndex": 1
+            },
+            {
+              "optionActionKeys": [
+                "A"
+              ],
+              "optionIndex": 2
+            },
+            {
+              "optionActionKeys": [
+                "Y"
+              ],
+              "optionIndex": 3
+            },
+            {
+              "optionActionKeys": [
+                "X"
+              ],
+              "optionIndex": 4
+            },
+            {
+              "optionActionKeys": [
+                "LB",
+                "RB",
+                "LT"
+              ],
+              "optionIndex": 5
+            }
+          ],
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "gamepad_interact",
+          "settingItemType": 0,
+          "settingRedDot": "",
+          "settingSortOrder": 5,
+          "settingText": {
+            "id": "4830989426054967768",
+            "text": ""
+          }
+        },
+        "newValue": {
+          "actionFactoryKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionScope": "Advanced",
+          "actions": [
+            {
+              "actionIds": [
+                "common_interact",
+                "common_interact_pickup_all_start",
+                "common_interact_pickup_all_end",
+                "fac_build_mode_delete"
+              ],
+              "actionKeyIsModifyKey": false
+            }
+          ],
+          "options": [
+            {
+              "optionActionKeys": [
+                "B"
+              ],
+              "optionIndex": 1
+            },
+            {
+              "optionActionKeys": [
+                "A"
+              ],
+              "optionIndex": 2
+            },
+            {
+              "optionActionKeys": [
+                "Y"
+              ],
+              "optionIndex": 3
+            },
+            {
+              "optionActionKeys": [
+                "X"
+              ],
+              "optionIndex": 4
+            },
+            {
+              "optionActionKeys": [
+                "LB",
+                "RB",
+                "LT"
+              ],
+              "optionIndex": 5
+            }
+          ],
+          "settingGroupTitle": {
+            "id": 0,
+            "text": ""
+          },
+          "settingId": "gamepad_interact",
+          "settingItemType": 0,
+          "settingRedDot": "",
+          "settingSortOrder": 5,
+          "settingText": {
+            "id": "-8775335282696946720",
+            "text": ""
+          }
+        },
+        "changed": {
+          "actions[0].actionIds[3]": {
+            "type": "value",
+            "newValue": "fac_build_mode_delete"
+          },
+          "settingText": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Interagir",
+                "newText": "Interagir/Armazenar Instalação na Reserva"
+              },
+              "CN": {
+                "oldText": "交互",
+                "newText": "交互/收纳设备"
+              },
+              "DE": {
+                "oldText": "Interagieren",
+                "newText": "Interagieren / Anlage lagern"
+              },
+              "EN": {
+                "oldText": "Interact",
+                "newText": "Interact / Stash Facility"
+              },
+              "FR": {
+                "oldText": "Interaction",
+                "newText": "Interaction/Mettre de côté l'installation"
+              },
+              "ID": {
+                "oldText": "Berinteraksi",
+                "newText": "Berinteraksi/Simpan Fasilitas"
+              },
+              "IT": {
+                "oldText": "Interagisci",
+                "newText": "Interagisci/Metti struttura nella scorta"
+              },
+              "JP": {
+                "oldText": "調べる",
+                "newText": "調べる／設備を収納する"
+              },
+              "KR": {
+                "oldText": "상호작용",
+                "newText": "상호작용/설비 수납"
+              },
+              "MX": {
+                "oldText": "Interactuar",
+                "newText": "Interactuar / Instalación de Reserva"
+              },
+              "RU": {
+                "oldText": "Взаимодействовать",
+                "newText": "Взаимодействовать / Отправить в запасник"
+              },
+              "TC": {
+                "oldText": "互動",
+                "newText": "互動/收回設備"
+              },
+              "TH": {
+                "oldText": "โต้ตอบ",
+                "newText": "โต้ตอบ​ / เก็บ​สิ่งปลูกสร้าง"
+              },
+              "VN": {
+                "oldText": "Tương tác",
+                "newText": "Tương tác / Lưu Trữ Công Trình"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

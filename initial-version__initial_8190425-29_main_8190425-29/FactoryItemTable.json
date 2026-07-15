@@ -1,0 +1,307 @@
+{
+  "tableName": "FactoryItemTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 7,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {
+      "item_corp4_spc": {
+        "buildingBufferStackLimit": -1,
+        "deliverItemTypeList": [
+          3,
+          2
+        ],
+        "dischargeType": false,
+        "id": "item_corp4_spc",
+        "itemState": false,
+        "losslessDomainIds": [],
+        "showInHubDomainIds": [],
+        "showInUnloader": false,
+        "subType": 4,
+        "transferDomainIds": [
+          "domain_1",
+          "domain_2"
+        ],
+        "value": 800
+      },
+      "item_drop_jzmonk_1": {
+        "buildingBufferStackLimit": -1,
+        "deliverItemTypeList": [
+          3,
+          1
+        ],
+        "dischargeType": false,
+        "id": "item_drop_jzmonk_1",
+        "itemState": false,
+        "losslessDomainIds": [],
+        "showInHubDomainIds": [],
+        "showInUnloader": false,
+        "subType": 4,
+        "transferDomainIds": [],
+        "value": 50
+      },
+      "item_drop_jzogre_1": {
+        "buildingBufferStackLimit": -1,
+        "deliverItemTypeList": [
+          3,
+          1
+        ],
+        "dischargeType": false,
+        "id": "item_drop_jzogre_1",
+        "itemState": false,
+        "losslessDomainIds": [],
+        "showInHubDomainIds": [],
+        "showInUnloader": false,
+        "subType": 4,
+        "transferDomainIds": [],
+        "value": 500
+      },
+      "item_jzmonk_1_hsmob_1_1": {
+        "buildingBufferStackLimit": -1,
+        "deliverItemTypeList": [
+          3,
+          2
+        ],
+        "dischargeType": false,
+        "id": "item_jzmonk_1_hsmob_1_1",
+        "itemState": false,
+        "losslessDomainIds": [],
+        "showInHubDomainIds": [],
+        "showInUnloader": false,
+        "subType": 4,
+        "transferDomainIds": [
+          "domain_1",
+          "domain_2"
+        ],
+        "value": 800
+      },
+      "item_port_photo_frame_1": {
+        "buildingBufferStackLimit": -1,
+        "deliverItemTypeList": [],
+        "dischargeType": false,
+        "id": "item_port_photo_frame_1",
+        "itemState": false,
+        "losslessDomainIds": [],
+        "showInHubDomainIds": [],
+        "showInUnloader": false,
+        "subType": 4,
+        "transferDomainIds": [],
+        "value": 1
+      },
+      "item_port_chubby_lung_balloon_1": {
+        "buildingBufferStackLimit": -1,
+        "deliverItemTypeList": [],
+        "dischargeType": false,
+        "id": "item_port_chubby_lung_balloon_1",
+        "itemState": false,
+        "losslessDomainIds": [],
+        "showInHubDomainIds": [],
+        "showInUnloader": false,
+        "subType": 4,
+        "transferDomainIds": [],
+        "value": 1
+      },
+      "item_port_jail_1": {
+        "buildingBufferStackLimit": -1,
+        "deliverItemTypeList": [],
+        "dischargeType": false,
+        "id": "item_port_jail_1",
+        "itemState": false,
+        "losslessDomainIds": [],
+        "showInHubDomainIds": [],
+        "showInUnloader": false,
+        "subType": 4,
+        "transferDomainIds": [],
+        "value": 1
+      }
+    },
+    "removed": {},
+    "changed": {
+      "item_copper_cmpt": {
+        "oldValue": {
+          "buildingBufferStackLimit": 50,
+          "deliverItemTypeList": [
+            3,
+            2
+          ],
+          "dischargeType": false,
+          "id": "item_copper_cmpt",
+          "itemState": false,
+          "losslessDomainIds": [
+            "domain_2"
+          ],
+          "showInHubDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "showInUnloader": true,
+          "subType": 4,
+          "transferDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "value": 2
+        },
+        "newValue": {
+          "buildingBufferStackLimit": 50,
+          "deliverItemTypeList": [
+            3,
+            2
+          ],
+          "dischargeType": false,
+          "id": "item_copper_cmpt",
+          "itemState": false,
+          "losslessDomainIds": [
+            "domain_2"
+          ],
+          "showInHubDomainIds": [
+            "domain_2"
+          ],
+          "showInUnloader": true,
+          "subType": 4,
+          "transferDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "value": 2
+        },
+        "changed": {
+          "showInHubDomainIds[0]": {
+            "type": "value",
+            "oldValue": "domain_1",
+            "newValue": "domain_2"
+          },
+          "showInHubDomainIds[1]": {
+            "type": "value",
+            "oldValue": "domain_2"
+          }
+        }
+      },
+      "item_copper_nugget": {
+        "oldValue": {
+          "buildingBufferStackLimit": 50,
+          "deliverItemTypeList": [
+            3,
+            2
+          ],
+          "dischargeType": false,
+          "id": "item_copper_nugget",
+          "itemState": false,
+          "losslessDomainIds": [
+            "domain_2"
+          ],
+          "showInHubDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "showInUnloader": true,
+          "subType": 4,
+          "transferDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "value": 2
+        },
+        "newValue": {
+          "buildingBufferStackLimit": 50,
+          "deliverItemTypeList": [
+            3,
+            2
+          ],
+          "dischargeType": false,
+          "id": "item_copper_nugget",
+          "itemState": false,
+          "losslessDomainIds": [
+            "domain_2"
+          ],
+          "showInHubDomainIds": [
+            "domain_2"
+          ],
+          "showInUnloader": true,
+          "subType": 4,
+          "transferDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "value": 2
+        },
+        "changed": {
+          "showInHubDomainIds[0]": {
+            "type": "value",
+            "oldValue": "domain_1",
+            "newValue": "domain_2"
+          },
+          "showInHubDomainIds[1]": {
+            "type": "value",
+            "oldValue": "domain_2"
+          }
+        }
+      },
+      "item_copper_powder": {
+        "oldValue": {
+          "buildingBufferStackLimit": 50,
+          "deliverItemTypeList": [
+            3,
+            2
+          ],
+          "dischargeType": false,
+          "id": "item_copper_powder",
+          "itemState": false,
+          "losslessDomainIds": [
+            "domain_2"
+          ],
+          "showInHubDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "showInUnloader": true,
+          "subType": 4,
+          "transferDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "value": 2
+        },
+        "newValue": {
+          "buildingBufferStackLimit": 50,
+          "deliverItemTypeList": [
+            3,
+            2
+          ],
+          "dischargeType": false,
+          "id": "item_copper_powder",
+          "itemState": false,
+          "losslessDomainIds": [
+            "domain_2"
+          ],
+          "showInHubDomainIds": [
+            "domain_2"
+          ],
+          "showInUnloader": true,
+          "subType": 4,
+          "transferDomainIds": [
+            "domain_1",
+            "domain_2"
+          ],
+          "value": 2
+        },
+        "changed": {
+          "showInHubDomainIds[0]": {
+            "type": "value",
+            "oldValue": "domain_1",
+            "newValue": "domain_2"
+          },
+          "showInHubDomainIds[1]": {
+            "type": "value",
+            "oldValue": "domain_2"
+          }
+        }
+      }
+    }
+  }
+}

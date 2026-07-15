@@ -1,0 +1,1173 @@
+{
+  "tableName": "SystemJumpTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 69,
+    "removed": 0,
+    "changed": 11
+  },
+  "entries": {
+    "added": {
+      "item_obtain_activity_contingency_contract_0": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": "-2544840869114634689",
+          "text": ""
+        },
+        "iconId": "icon_tips_activity",
+        "id": "item_obtain_activity_contingency_contract_0",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_contingency_contract_0\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "item_obtain_activity_phototaking_carly_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": "3102077298467045870",
+          "text": ""
+        },
+        "iconId": "icon_tips_activity",
+        "id": "item_obtain_activity_phototaking_carly_2",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "item_obtain_activity_submit_food_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": "8977535182146306719",
+          "text": ""
+        },
+        "iconId": "icon_tips_activity",
+        "id": "item_obtain_activity_submit_food_2",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_submit_food_2\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "jump_gacha_lt_1_3_2": {
+        "bindSystem": 51,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_gacha_lt_1_3_2",
+        "phaseArgs": "{\r\n  \"poolId\": \"special_1_3_2\"\r\n}",
+        "phaseId": "GachaPool"
+      },
+      "jump_snap_shot_carly_a2c5": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2c5",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_activity_snapshot_new22800990009\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_ss04_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "114933189166216311",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_ss04_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss22800020012\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_0001_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "-6223987024747570091",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_0001_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource200001663\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_0002_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "-6953300977480520559",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_0002_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320002\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_0003_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "5711329832635679720",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_0003_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320003\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_snap_shot_carly_a2c2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2c2",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_activity_snapshot_new22800990002\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_0004_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "-4362114207177679657",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_0004_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320000\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_0005_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "-63095406087272153",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_0005_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource200001631\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_0006_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "2274386652358295134",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_0006_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320001\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_ss03_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "3150501843358249717",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_ss03_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss10100033017\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_activity_arknights_birth": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_activity_arknights_birth",
+        "phaseArgs": "{\r\n  \"activityId\": \"web_activity_arknights_birth\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "item_obtain_dungeon_ss01_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "-7729555953893209841",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_ss01_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss2800004023\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_ss02_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "5054269686199222415",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_ss02_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss3500031334\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_dungeon_ss05_untouched": {
+        "bindSystem": 52,
+        "desc": {
+          "id": "-422124837201706177",
+          "text": ""
+        },
+        "iconId": "icon_tips_dungeon",
+        "id": "item_obtain_dungeon_ss05_untouched",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss22800020013\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_activity_phototaking_carly_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_activity_phototaking_carly_2",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_snap_shot_carly_a2_stage2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2_stage2",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"stageId\": \"activity_phototaking_carly_2_stage_2\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_snap_shot_carly_a2_stage4": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2_stage4",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"stageId\": \"activity_phototaking_carly_2_stage_4\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_map02_lv006": {
+        "bindSystem": 0,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_map02_lv006",
+        "phaseArgs": "{\r\n  \"levelId\": \"map02_lv006\"\r\n}",
+        "phaseId": "Map"
+      },
+      "item_obtain_eny_0112_jzmonk": {
+        "bindSystem": 55,
+        "desc": {
+          "id": "7763454706200753012",
+          "text": ""
+        },
+        "iconId": "icon_tips_monster",
+        "id": "item_obtain_eny_0112_jzmonk",
+        "phaseArgs": "{\r\n  \"monsterId\": \"eny_0112_jzmonk\"\r\n}",
+        "phaseId": "Wiki"
+      },
+      "item_obtain_eny_0113_jzogre": {
+        "bindSystem": 55,
+        "desc": {
+          "id": "6087661081283836611",
+          "text": ""
+        },
+        "iconId": "icon_tips_monster",
+        "id": "item_obtain_eny_0113_jzogre",
+        "phaseArgs": "{\r\n  \"monsterId\": \"eny_0113_jzogre\"\r\n}",
+        "phaseId": "Wiki"
+      },
+      "jump_contingency_contract_task_1_4": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task_1_4",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\",\r\n  \"tagIds\": [\r\n    100003,\r\n    900101,\r\n    102302,\r\n    101501,\r\n    101101,\r\n    102201\r\n  ]\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_contingency_contract_task_1_1": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task_1_1",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\",\r\n  \"tagIds\": [\r\n    100201,\r\n    900101,\r\n    101301\r\n  ]\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_center_activity_contingency_contract_0": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_center_activity_contingency_contract_0",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_contingency_contract_0\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "jump_contingency_contract_shop": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_shop",
+        "phaseArgs": "{\r\n  \"shopGroupId\": \"shop_activity_contingency_contract_0\",\r\n  \"shopId\": \"shop_activity_contingency_contract_0_1\",\r\n  \"activityMoneyId\": \"item_activity_contract_gold_0\"\r\n}",
+        "phaseId": "Shop"
+      },
+      "jump_snap_shot_carly_a2_stage3": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2_stage3",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"stageId\": \"activity_phototaking_carly_2_stage_3\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_weapon_gacha_lt_1_3_2": {
+        "bindSystem": 51,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_weapon_gacha_lt_1_3_2",
+        "phaseArgs": "{\r\n  \"shopGroupId\": \"shop_pay_weapon\",\r\n  \"goodsId\": \"shop_weponbox_1_3_2\"\r\n}",
+        "phaseId": "CashShop"
+      },
+      "item_obtain_hdwk_item_drop_jzmonk_1": {
+        "bindSystem": 10000000,
+        "desc": {
+          "id": "-1917783189284452721",
+          "text": ""
+        },
+        "iconId": "icon_tips_doodad",
+        "id": "item_obtain_hdwk_item_drop_jzmonk_1",
+        "phaseArgs": "{\r\n  \"jumpItem\": \"item_drop_jzmonk_1\"\r\n}",
+        "phaseId": "ManualCraftPopups"
+      },
+      "jump_activity_guide_zhujiangu_01": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_activity_guide_zhujiangu_01",
+        "phaseArgs": "{\r\n  \"levelId\": \"map02_lv006\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_contingency_contract_task_1_6": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task_1_6",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\",\r\n  \"tagIds\": [\r\n    100003,\r\n    100901,\r\n    103102,\r\n    100301,\r\n    100401\r\n  ]\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_weapon_gacha_lt_1_3_1": {
+        "bindSystem": 51,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_weapon_gacha_lt_1_3_1",
+        "phaseArgs": "{\r\n  \"shopGroupId\": \"shop_pay_weapon\",\r\n  \"goodsId\": \"shop_weponbox_1_3_1\"\r\n}",
+        "phaseId": "CashShop"
+      },
+      "jump_gacha_lt_1_2_2": {
+        "bindSystem": 51,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_gacha_lt_1_2_2",
+        "phaseArgs": "{\r\n  \"poolId\": \"joint_1_2_2\"\r\n}",
+        "phaseId": "GachaPool"
+      },
+      "jump_world_simulation_training": {
+        "bindSystem": 73,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_world_simulation_training",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_p_domain_simulationTrainingSIMULATION_TRAINING_INST_ID\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_snap_shot_carly_a2_stage6": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2_stage6",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"stageId\": \"activity_phototaking_carly_2_stage_6\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_mission_activity_submit_food_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_mission_activity_submit_food_2",
+        "phaseArgs": "{\r\n  \"autoSelect\": \"a1m9\"\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_center_activity_char_trial_1_3_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_center_activity_char_trial_1_3_2",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_char_trial_v1d3_2\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "item_obtain_web_activity_arknights_birth": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": "706750470513495650",
+          "text": ""
+        },
+        "iconId": "icon_tips_activity",
+        "id": "item_obtain_web_activity_arknights_birth",
+        "phaseArgs": "{\r\n  \"activityId\": \"web_activity_arknights_birth\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "jump_activity_guide_zhujiangu_02": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_activity_guide_zhujiangu_02",
+        "phaseArgs": "{\r\n  \"autoSelectList\": [\r\n    \"sm2l6m1\"\r\n  ]\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_center_activity_char_trial_1_3_1": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_center_activity_char_trial_1_3_1",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_char_trial_v1d3_1\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "jump_center_activity_high_difficulty_v1d3": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_center_activity_high_difficulty_v1d3",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_high_difficulty_v1d3\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "jump_center_activity_phototaking_carly_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_center_activity_phototaking_carly_2",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"gotoCenter\": true\r\n}",
+        "phaseId": "ActivityCenter"
+      },
+      "jump_contingency_contract_task_1_5": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task_1_5",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\",\r\n  \"tagIds\": [\r\n    103203,\r\n    100202,\r\n    100602,\r\n    102002,\r\n    101402\r\n  ]\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_manul_craft_corp4_spc": {
+        "bindSystem": 201,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_manul_craft_corp4_spc",
+        "phaseArgs": "{\r\n  \"jumpId\": \"hdwk_corp4_spc\"\r\n}",
+        "phaseId": "ManualCraft"
+      },
+      "jump_contingency_contract_tag_select": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_tag_select",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\"\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_contingency_contract_task": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_contingency_contract_0\"\r\n}",
+        "phaseId": "ContingencyContractTask"
+      },
+      "jump_contingency_contract_task_1_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task_1_2",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\",\r\n  \"tagIds\": [\r\n    100003,\r\n    100302,\r\n    100402,\r\n    101603\r\n  ]\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_contingency_contract_task_1_3": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task_1_3",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\",\r\n  \"tagIds\": [\r\n    103203,\r\n    102302,\r\n    103302,\r\n    101402\r\n  ]\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_contingency_contract_task_1_7": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_contingency_contract_task_1_7",
+        "phaseArgs": "{\r\n  \"gameId\": \"indie_contract001\",\r\n  \"tagIds\": [\r\n    103203,\r\n    101303,\r\n    101201\r\n  ]\r\n}",
+        "phaseId": "ContingencySelectTag"
+      },
+      "jump_snap_shot_carly_a2c7": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2c7",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_activity_snapshot_new23300230004\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_gacha_lt_1_3_1": {
+        "bindSystem": 51,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_gacha_lt_1_3_1",
+        "phaseArgs": "{\r\n  \"poolId\": \"special_1_3_1\"\r\n}",
+        "phaseId": "GachaPool"
+      },
+      "jump_mission_activity_CharacterGuide_camille": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_mission_activity_CharacterGuide_camille",
+        "phaseArgs": "{\r\n  \"autoSelectList\": [\r\n    \"c33m1\",\r\n    \"c33m1d5\",\r\n    \"c33m2\",\r\n    \"c33m3\"\r\n  ]\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_mission_activity_CharacterGuide_mifu": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_mission_activity_CharacterGuide_mifu",
+        "phaseArgs": "{\r\n  \"autoSelectList\": [\r\n    \"c31m1\",\r\n    \"c31m1d5\",\r\n    \"c31m2\",\r\n    \"c31m2d3\",\r\n    \"c31m2d6\",\r\n    \"c31m3\",\r\n    \"c31m3d5\"\r\n  ]\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_mission_activity_phototaking_carly_2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_mission_activity_phototaking_carly_2",
+        "phaseArgs": "{\r\n  \"autoSelect\": \"a1m7\"\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_mission_bp_sm2l6m1": {
+        "bindSystem": 10000000,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_mission_bp_sm2l6m1",
+        "phaseArgs": "{\r\n  \"autoSelect\": \"sm2l6m1\"\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_mission_contingency_contract_0": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_mission_contingency_contract_0",
+        "phaseArgs": "{\r\n  \"autoSelect\": \"a1m14\"\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_mission_f1m10d1": {
+        "bindSystem": 10000000,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_mission_f1m10d1",
+        "phaseArgs": "{\r\n  \"autoSelect\": \"f1m10d1\"\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_snap_shot_carly_a2_stage7": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2_stage7",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"stageId\": \"activity_phototaking_carly_2_stage_7\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_simulation_training_mission": {
+        "bindSystem": 10000000,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_simulation_training_mission",
+        "phaseArgs": "{\r\n  \"autoSelect\": \"gm02m16\"\r\n}",
+        "phaseId": "Mission"
+      },
+      "jump_snap_shot_carly_a2_stage1": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2_stage1",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"stageId\": \"activity_phototaking_carly_2_stage_1\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_snap_shot_carly_a2_stage5": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2_stage5",
+        "phaseArgs": "{\r\n  \"activityId\": \"activity_phototaking_carly_2\",\r\n  \"stageId\": \"activity_phototaking_carly_2_stage_5\"\r\n}",
+        "phaseId": "SnapshotChallenge"
+      },
+      "jump_snap_shot_carly_a2c1": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2c1",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_activity_snapshot_new10100580001\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_snap_shot_carly_a2c3": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2c3",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_activity_snapshot_new22800990005\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_snap_shot_carly_a2c4": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2c4",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_activity_snapshot_new22800990007\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_snap_shot_carly_a2c6": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_snap_shot_carly_a2c6",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_activity_snapshot_new23300230002\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_submit_map_mark_a2": {
+        "bindSystem": 1100,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_submit_map_mark_a2",
+        "phaseArgs": "{\r\n  \"templateId\": \"mark_activity_submit_2\",\r\n  \"mapId\": \"map02\"\r\n}",
+        "phaseId": "Map"
+      },
+      "jump_world_energy_point09": {
+        "bindSystem": 70,
+        "desc": {
+          "id": 0,
+          "text": ""
+        },
+        "iconId": "",
+        "id": "jump_world_energy_point09",
+        "phaseArgs": "{\r\n  \"instId\": \"mark_p_enemyspawnerworld_energy_point_group09\"\r\n}",
+        "phaseId": "Map"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "item_obtain_dungeon_0003": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-795434411128887263",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0003",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320003\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-795434411128887263",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0003",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung01_group_wpbreak01\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_resource2100320003\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung01_group_wpbreak01\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_0001": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "577935024931940560",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0001",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource200001663\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "577935024931940560",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0001",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung01_group_exp01\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_resource200001663\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung01_group_exp01\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_0002": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-8333512389804352789",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0002",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320002\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-8333512389804352789",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0002",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung01_group_wpexp01\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_resource2100320002\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung01_group_wpexp01\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_0004": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "8643142351016195205",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0004",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320000\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "8643142351016195205",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0004",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung01_group_charbreak01\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_resource2100320000\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung01_group_charbreak01\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_0005": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-9166130192403073217",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0005",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource200001631\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-9166130192403073217",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0005",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung01_group_gold01\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_resource200001631\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung01_group_gold01\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_0006": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-8033011172530148455",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0006",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_resource2100320001\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-8033011172530148455",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_0006",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung01_group_skill01\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_resource2100320001\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung01_group_skill01\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_ss01": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-7370260065309670812",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss01",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss2800004023\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-7370260065309670812",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss01",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss01\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_ss2800004023\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss01\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_ss02": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "4062295642634272505",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss02",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss3500031334\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "4062295642634272505",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss02",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss02\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_ss3500031334\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss02\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_ss03": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "5882973757492222160",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss03",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss10100033017\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "5882973757492222160",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss03",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss03\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_ss10100033017\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss03\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_ss04": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-5525916941806572769",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss04",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss22800020012\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "-5525916941806572769",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss04",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss04\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_ss22800020012\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss04\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      },
+      "item_obtain_dungeon_ss05": {
+        "oldValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "106637211233311224",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss05",
+          "phaseArgs": "{\r\n  \"instId\": \"mark_dg_ss22800020013\"\r\n}",
+          "phaseId": "Map"
+        },
+        "newValue": {
+          "bindSystem": 52,
+          "desc": {
+            "id": "106637211233311224",
+            "text": ""
+          },
+          "iconId": "icon_tips_dungeon",
+          "id": "item_obtain_dungeon_ss05",
+          "phaseArgs": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss05\"\r\n}",
+          "phaseId": "DungeonEntry"
+        },
+        "changed": {
+          "phaseArgs": {
+            "type": "value",
+            "oldValue": "{\r\n  \"instId\": \"mark_dg_ss22800020013\"\r\n}",
+            "newValue": "{\r\n  \"dungeonSeriesId\": \"dung_group_ss05\"\r\n}"
+          },
+          "phaseId": {
+            "type": "value",
+            "oldValue": "Map",
+            "newValue": "DungeonEntry"
+          }
+        }
+      }
+    }
+  }
+}

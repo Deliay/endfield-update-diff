@@ -1,0 +1,80 @@
+{
+  "tableName": "CashShopTable",
+  "versionOld": "initial-version",
+  "versionNew": "initial_8190425-29_main_8190425-29",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "Fest_pack": {
+        "cashGoodsIds": [
+          "seasonal_giftpack_lt_1_2_2",
+          "weapon_giftpack_1_2_2_1",
+          "weapon_giftpack_1_2_2_2",
+          "weapon_giftpack_1_2_2_3",
+          "weapon_giftpack_1_2_2_4"
+        ],
+        "cashShopId": "Fest_pack",
+        "shopName": {
+          "id": "-1500710977405096985",
+          "text": ""
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "Seasonal_Rec_pack": {
+        "oldValue": {
+          "cashGoodsIds": [
+            "seasonal_giftpack_combine",
+            "seasonal_giftpack_lt_01",
+            "seasonal_giftpack_lt_02",
+            "seasonal_giftpack_lt_03",
+            "seasonal_giftpack_lt_1_1_1",
+            "seasonal_giftpack_lt_1_1_2",
+            "seasonal_giftpack_lt_1_2_1",
+            "seasonal_crossover_lt_1_2_1"
+          ],
+          "cashShopId": "Seasonal_Rec_pack",
+          "shopName": {
+            "id": "-8611879518686269216",
+            "text": ""
+          }
+        },
+        "newValue": {
+          "cashGoodsIds": [
+            "seasonal_giftpack_combine",
+            "seasonal_giftpack_lt_01",
+            "seasonal_giftpack_lt_02",
+            "seasonal_giftpack_lt_03",
+            "seasonal_giftpack_lt_1_1_1",
+            "seasonal_giftpack_lt_1_1_2",
+            "seasonal_giftpack_lt_1_2_1",
+            "seasonal_crossover_lt_1_2_1",
+            "seasonal_giftpack_lt_1_3_1",
+            "seasonal_giftpack_lt_1_3_2"
+          ],
+          "cashShopId": "Seasonal_Rec_pack",
+          "shopName": {
+            "id": "-8611879518686269216",
+            "text": ""
+          }
+        },
+        "changed": {
+          "cashGoodsIds[8]": {
+            "type": "value",
+            "newValue": "seasonal_giftpack_lt_1_3_1"
+          },
+          "cashGoodsIds[9]": {
+            "type": "value",
+            "newValue": "seasonal_giftpack_lt_1_3_2"
+          }
+        }
+      }
+    }
+  }
+}
