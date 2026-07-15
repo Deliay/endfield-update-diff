@@ -13,177 +13,561 @@
       "eny_0102_hstiger2_hdg021_ability_2": {
         "abilityId": "eny_0102_hstiger2_hdg021_ability_2",
         "description": {
-          "id": "3340382445775738440",
-          "text": ""
+          "BR": "Estado Enfurecido: quando enfurecido, o inimigo recebe um benefício de ATQ, e seu ATQ também aumenta à medida que PV diminui.",
+          "CN": "愤怒状态：愤怒状态下攻击力提升，攻击力随生命值降低而提升。",
+          "DE": "Zustand „Raserei“: Befindet sich der Gegner in diesem Zustand, erhält er einen ANG-Buff. Sein ANG erhöht sich außerdem mit sinkenden LP.",
+          "EN": "Enraged State: When enraged, the enemy gains an ATK buff, and its ATK also increases as its HP falls.",
+          "FR": "État enragé : une fois enragé, l'ennemi obtient un bonus d'ATQ. Plus il perd de PV, plus son ATQ augmente.",
+          "ID": "Kondisi Mengamuk: Saat mengamuk, musuh akan mendapatkan buff ATK, dan ATK-nya juga akan meningkat seiring turunnya HP.",
+          "IT": "Stato di Furia: quando è Infuriato, questo nemico ottiene un potenziamento dell'attacco. Il suo attacco aumenta anche quando perde PS.",
+          "JP": "怒り状態：この状態では攻撃力がアップする。さらに、HPが低くなるにつれて攻撃力がアップする。",
+          "KR": "분노 상태: 분노 상태에서는 공격력이 증가하고, 생명력이 낮을수록 공격력이 더 많이 증가합니다.",
+          "MX": "Estado iracundo: Cuando esté Iracundo, el enemigo obtiene un incremento de ATQ, y su ATQ también aumenta a medida que sus PV disminuyen.",
+          "RU": "Состояние ярости: находясь в ярости, враг получает усиление АТК. Также его АТК повышается по мере снижения ОЗ.",
+          "TC": "憤怒狀態：憤怒狀態下攻擊力提升，攻擊力隨生命值降低而提升。",
+          "TH": "สถานะ​โกรธ​เกรี้ยว​: ตอน​โกรธ​เกรี้ยว​ ศัตรู​จะ​ได้รับ​บัฟ​โจมตี​ และ​ค่า​ ATK ยัง​จะ​เพิ่มขึ้น​ตาม​ HP ที่​ลดลง​ด้วย",
+          "VN": "Chỉ Số Điên Cuồng: Khi trở nên điên cuồng, kẻ địch nhận buff Tấn Công và Tấn Công cũng sẽ tăng khi thấp HP."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0046_lbshamman_hdg016_ability_1": {
         "abilityId": "eny_0046_lbshamman_hdg016_ability_1",
         "description": {
-          "id": "1595566859896069465",
-          "text": ""
+          "BR": "Em intervalos regulares, o Piromante Quebra-Ossos invoca seus <@ba.key>duplicados</> e canaliza sua habilidade suprema. Derrote todos os <@ba.key>duplicados</> para interromper a canalização do Piromante.",
+          "CN": "每隔一段时间，碾骨焰术师召唤<@ba.key>分身</>并施放终极技能，击败所有<@ba.key>分身</>会打断碾骨焰术师的持续施法。",
+          "DE": "– Der Knochenbrecher-Pyromant beschwört in regelmäßigen Abständen seine <@ba.key>Doppelgänger</> und kanalisiert seine ultimative Fertigkeit. Besiege alle <@ba.key>Doppelgänger</>, um die Kanalisierung des Pyromanten zu unterbrechen.",
+          "EN": "At regular intervals, the Bonekrusher Pyromancer summons his <@ba.key>doubles</> and channels his ultimate skill. Defeat all the <@ba.key>doubles</> to interrupt the Pyromancer's channeling.",
+          "FR": "À intervalle régulier, le pyromancien Broyeur d'os invoque ses <@ba.key>doubles</> et canalise sa compétence ultime. Éliminez tous les <@ba.key>doubles</> pour interrompre la canalisation du pyromancien.",
+          "ID": "Secara berkala, Bonekrusher Pyromancer akan memanggil <@ba.key>duplikat</> dirinya dan menyalurkan ultimate skill-nya. Kalahkan semua <@ba.key>duplikat</> itu untuk menyela penyaluran Pyromancer tersebut.",
+          "IT": "A intervalli regolari, il piromante Spacca-Ossa evoca le sue <@ba.key>copie</> e canalizza la sua abilità suprema. Sconfiggi tutte le <@ba.key>copie</> per interrompere la canalizzazione del piromante.",
+          "JP": "一定時間ごとに、ボーンクラッシャーの炎術師は<@ba.key>分身</>を召喚し、必殺技を発動する。すべての<@ba.key>分身</>を倒すと、ボーンクラッシャーの炎術師のチャージを中断できる。",
+          "KR": "일정 시간마다 본 크러셔 염술사는 <@ba.key>분신</>을 소환하고 궁극기 스킬을 사용합니다. 모든 <@ba.key>분신</>을 처치하면 본 크러셔 염술사의 시전을 중단시킬 수 있습니다.",
+          "MX": "En intervalos regulares, el Piromante Rompehuesos invoca sus <@ba.key>dobles</> y canaliza su habilidad máxima. Derrota a todos los <@ba.key>dobles</> para interrumpir la canalización del Piromante.",
+          "RU": "Через равные промежутки времени пиромант Костоломов призывает <@ba.key>двойников</> и начинает подготовку своего супернавыка. Победите всех <@ba.key>двойников</>, чтобы прервать подготовку пироманта.",
+          "TC": "每隔一段時間，碾骨焰術師召喚<@ba.key>分身</>並施放終極技能，擊敗所有<@ba.key>分身</>會打斷碾骨焰術師的持續施法。",
+          "TH": "นัก​เล่น​ไฟ​แห่ง​โบน​ค​รัช​เชอร์​จะ​เสก​<@ba.key>​ร่าง​ปลอม​</>​ออกมา​เป็น​ช่​ว​งๆ​ แล้ว​ร่าย​ทักษะ​ขั้น​สุด​ กำจัด​<@ba.key>​ร่าง​ปลอม​</>​ทั้งหมด​เพื่อ​ทำให้​การ​ร่าย​ส​กิล​ของ​นัก​เล่น​ไฟ​หยุดชะงัก",
+          "VN": "Theo chu kỳ, Hỏa Thuật Sư Bonekrusher sẽ triệu hồi các <@ba.key>phân thân</> và vận sức thi triển kỹ năng tuyệt kỹ. Đánh bại toàn bộ <@ba.key>phân thân</> để gián đoạn vận sức của Hỏa Thuật Sư."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0046_lbshamman_hdg016_ability_2": {
         "abilityId": "eny_0046_lbshamman_hdg016_ability_2",
         "description": {
-          "id": "452779086862895538",
-          "text": ""
+          "BR": "A habilidade suprema causa DNO com base no percentual de PV Máximo do operador, além de aplicar <@ba.fire>Combustão</>.",
+          "CN": "终极技能会对所有干员造成基于最大生命值百分比的伤害，并施加<@ba.fire>燃烧</>。",
+          "DE": "Die ultimative Fertigkeit verursacht SDN basierend auf dem Prozentsatz der max. LP des Operators und verursacht <@ba.fire>Verbrannt</>.",
+          "EN": "The ultimate deals DMG based on percentage of the operator's Max HP, and also applies <@ba.fire>Combustion</>.",
+          "FR": "L'ultime inflige des DÉG proportionnels aux PV max de l'opérateur, et applique également <@ba.fire>Combustion</>.",
+          "ID": "Ultimate ini akan menimbulkan DMG berdasarkan persentase HP Maks operator dan mengakibatkan <@ba.fire>Combustion</>.",
+          "IT": "L'abilità suprema infligge danni in base alla percentuale di PS massimi dell'operatore e applica anche <@ba.fire>Combustione</>.",
+          "JP": "必殺技はすべてのオペレーターに最大HPの割合に応じたダメージを与え、<@ba.fire>燃焼</>状態にする。",
+          "KR": "궁극기 스킬은 모든 오퍼레이터에게 최대 생명력 백분율의 피해를 주고, <@ba.fire>연소</>를 부여합니다.",
+          "MX": "La máxima inflige DAÑ según un porcentaje de los PV Máx. del operador y también aplica <@ba.fire>Combustión</>.",
+          "RU": "Супернавык наносит УРН в размере определенного процента от макс. ОЗ оперативника, а также накладывает <@ba.fire>возгорание</>.",
+          "TC": "終極技能會對所有幹員造成基於最大生命值百分比的傷害，並施加<@ba.fire>燃燒</>。",
+          "TH": "อัล​ติ​เมท​จะ​ทำ​ DMG ตาม​เปอร์เซนต์​ HP สูงสุด​ของ​โอเปอเรเตอร์​ และ​ยัง​ทำให้เกิด​<@ba.fire>​การ​เผาไหม้​</>​อีกด้วย",
+          "VN": "Tuyệt kỹ gây ST dựa trên phần trăm HP Tối Đa của cán viên, và đồng thời áp dụng <@ba.fire>Thiêu Đốt</>."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0112_jzmonk_ability_1": {
         "abilityId": "eny_0112_jzmonk_ability_1",
         "description": {
-          "id": "1311264534844873130",
-          "text": ""
+          "BR": "Esses inimigos costumam vagar em matilhas. Qualquer operador ou uivante montanhês que pisar em cascas de banana jogadas fora irá escorregar e cair.",
+          "CN": "习惯成群结队出没，干员和山犼兽踩到扔出的香蕉皮都会滑倒。",
+          "DE": "Dieser Gegnertyp streift für gewöhnlich in Rudeln umher. Jeder Operator und Felsenheuler, der auf weggeworfene Bananenschalen tritt, rutscht aus und stürzt.",
+          "EN": "This enemy typically roams around in packs. Any operator or Rockhowler that steps on discarded banana peels will slip and fall.",
+          "FR": "Cet ennemi se déplace généralement en meute. Un opérateur ou hurleroc qui marche sur les peaux de banane éparpillées au sol glisse et tombe.",
+          "ID": "Musuh ini biasanya berkeliaran dalam kawanan. Setiap operator atau Rockhowler yang menginjak kulit pisang yang dibuang akan terpeleset dan jatuh.",
+          "IT": "Solitamente questo nemico si sposta in branco. Gli operatori e gli ulularocce che mettono piede su una buccia di banana scivolano e cadono.",
+          "JP": "群れで出没することが多い。オペレーターも山吼獣も投げられたバナナの皮を踏むと滑って転倒する。",
+          "KR": "무리를 지어 출몰하는 습성이 있으며, 오퍼레이터와 록하울러가 던져진 바나나 껍질을 밟으면 모두 미끄러져 넘어집니다.",
+          "MX": "Este enemigo suele moverse en grupos. Cualquier operador o aullador de roca que pise cáscaras de plátano tiradas resbalará y caerá.",
+          "RU": "Эти враги обычно бродят стаями. Любой оперативник или каменный ревун, наступивший на брошенную банановую кожуру, поскользнется и упадет.",
+          "TC": "習慣成群結隊出沒，幹員和山犼獸踩到丟出去的香蕉皮都會滑倒。",
+          "TH": "ศัตรู​ชนิด​นี้​มักจะ​เคลื่อนที่​เป็น​ฝูง​ โอเปอเรเตอร์​หรือ​ร็อค​ฮา​ว​เลอร์​ที่​เหยียบ​เปลือก​กล้วย​ที่​ถูก​ทิ้ง​ไว้​จะ​ลื่นล้ม",
+          "VN": "Loài địch này thường đi thành bầy. Bất kỳ cán viên hoặc Rockhowler nào giẫm phải vỏ chuối chúng bỏ lại đều sẽ trượt ngã."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0047_firebat_settlement_ability_1": {
         "abilityId": "eny_0047_firebat_settlement_ability_1",
         "description": {
-          "id": "3712574566561206706",
-          "text": ""
+          "BR": "De vez em quando, o Incendiário Quebra-Ossos pode atacar alvos à sua frente e se teletransportar rapidamente para frente.",
+          "CN": "每隔一段时间，碾骨清道夫会攻击面前的敌人，使其快速向前位移。",
+          "DE": "Hin und wieder kann der Knochenbrecher-Brandstifter Ziele vor sich angreifen und sich schnell nach vorn teleportieren.",
+          "EN": "Every now and then, the Bonekrusher Arsonist can attack targets before him and teleport forward quickly.",
+          "FR": "De temps à autre, les incendiaires Broyeurs d'os peuvent attaquer les cibles se trouvant devant eux et se téléporter rapidement vers l'avant.",
+          "ID": "Sesekali, Bonekrusher Arsonist bisa menyerang target di depannya dan berteleportasi ke depan dengan cepat.",
+          "IT": "Di tanto in tanto, il piromane Spacca-Ossa può attaccare bersagli davanti a sé e teletrasportarsi rapidamente in avanti.",
+          "JP": "一定時間ごとにボーンクラッシャーの始末屋は前方にいる他の敵を攻撃し、前方へ素早く移動させる。",
+          "KR": "일정 시간마다 본 크러셔 집행자가 전방의 목표를 공격해, 빠르게 전방으로 이동시킵니다.",
+          "MX": "De vez en cuando, el Rompehuesos Pirómano puede atacar a los objetivos frente a él y teletransportarse rápidamente hacia adelante.",
+          "RU": "Время от времени поджигатель Костоломов может атаковать цели перед собой и быстро телепортироваться вперед.",
+          "TC": "每隔一段時間，碾骨清道夫會攻擊面前的敵人，使其快速向前位移。",
+          "TH": "ใน​บางครั้ง​ นัก​วางเพลิง​แห่ง​โบน​ค​รัช​เชอร์​สามารถ​โจมตี​เป้าหมาย​ตรงหน้า​แล้ว​เท​เล​พอร์ต​ไป​ข้างหน้า​ได้​อย่างรวดเร็ว",
+          "VN": "Theo chu kỳ, Quái Phóng Hỏa Bonekrusher có thể tấn công các mục tiêu trước mặt rồi lập tức dịch chuyển nhanh về phía trước."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0054_hsmino_settlement_ability_1": {
         "abilityId": "eny_0054_hsmino_settlement_ability_1",
         "description": {
-          "id": "-4110660763461982192",
-          "text": ""
+          "BR": "O Esmagador de Colinas consegue saltar sobre obstáculos ou alcançar posições elevadas.",
+          "CN": "摧山将拥有跨越地形的能力，可以直接跃向高处。",
+          "DE": "Hügelzerstörer kann über Hindernisse oder in erhöhte Positionen springen.",
+          "EN": "Hill Smasher can leap over obstacles or to elevated positions.",
+          "FR": "Les écrase-colline peuvent sauter par-dessus les obstacles pour atteindre des points surélevés.",
+          "ID": "Hill Smasher bisa melompati rintangan atau ke posisi yang lebih tinggi.",
+          "IT": "Lo spacca-colline può saltare per superare ostacoli o raggiungere posizioni elevate.",
+          "JP": "砕山将は地形を越えて、高い場所にジャップして移動することができる。",
+          "KR": "최산장은 지형을 넘나드는 능력을 지니고 있으며 즉시 높은 곳으로 뛰어오를 수 있습니다.",
+          "MX": "El Demoledor de colinas puede saltar obstáculos o alcanzar posiciones elevadas.",
+          "RU": "Скалолом может перепрыгивать через препятствия или запрыгивать на возвышенности.",
+          "TC": "摧山將擁有跨越地形的能力，可以直接躍向高處。",
+          "TH": "ฮิลล์​ สแมช​เชอร์​สามารถ​กระโดด​ข้าม​สิ่งกีดขวาง​หรือ​พื้นที่​ต่าง​ระดับ​ได้",
+          "VN": "Quái Phá Đồi có thể nhảy vượt chướng ngại vật hoặc lao lên các vị trí trên cao."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0082_hsbear_hdg018_ability_2": {
         "abilityId": "eny_0082_hsbear_hdg018_ability_2",
         "description": {
-          "id": "-4625888008104036484",
-          "text": ""
+          "BR": "Modo Agonia: quando estiver calmo, o retumbador celeste criará um <@ba.key>Vórtice</> sempre que causar DNO ao operador controlado. Quando enfurecido, o Retumbador Celeste absorverá todos os <@ba.key>Vórtices</> no campo de batalha para criar escudos protetores. Cada <@ba.key>Vórtice</> absorvido aumenta o número de acúmulos de escudo em 1.",
+          "CN": "苦难难度下，天鼓平静状态下对主控干员造成伤害时会留下<@ba.key>气旋</>。愤怒时会吸收场地中所有的<@ba.key>气旋</>，每个<@ba.key>气旋</>都会使得护盾层数增加1层。",
+          "DE": "Tortur-Modus: Ist der Himmelstrommler ruhig, erzeugt er jedes Mal einen <@ba.key>Wirbel</>, wenn er dem gesteuerten Operator SDN zufügt. Befindet sich der Himmelstrommler im Zustand „Raserei“, absorbiert er alle <@ba.key>Wirbel</> auf dem Schlachtfeld, um Schutzschilde zu erzeugen. Jeder absorbierte <@ba.key>Wirbel</> erhöht die Anzahl der Schildkumulierungen um 1.",
+          "EN": "Agony Mode: When calm, the Skydrummer will create a <@ba.key>Vortex</> every time it deals DMG to the controlled operator. When enraged, the Skydrummer absorbs all <@ba.key>Vortices</> on the battlefield to create protective shields. Each <@ba.key>Vortex</> absorbed increases the number of shield stacks by 1.",
+          "FR": "Mode Agonie : lorsqu'il est calme, le frappeciel crée un <@ba.key>Vortex</> dès qu'il inflige des DÉG à l'opérateur contrôlé. Lorsqu'il est enragé, le frappeciel absorbe tous les <@ba.key>Vortex</> sur le champ de bataille pour créer des boucliers protecteurs. Chaque <@ba.key>Vortex</> absorbé augmente le cumul de bouclier de 1.",
+          "ID": "Mode agoni: Saat tenang, Skydrummer akan memunculkan <@ba.key>Vorteks</> setiap kali menimbulkan DMG kepada operator terkontrol. Saat mengamuk, Skydrummer akan menyerap semua <@ba.key>Vorteks</> di medan pertarungan untuk membuat perisai lindung. Setiap <@ba.key>Vorteks</> yang diserap akan meningkatkan jumlah tumpukan perisai sebanyak 1.",
+          "IT": "Modalità Agonia: quando è calmo, il batticielo crea un <@ba.key>vortice</> ogni volta che infligge danni all'operatore controllato. Quando è Infuriato, il batticielo assorbe tutti i <@ba.key>vortici</> sul campo di battaglia per creare scudi protettivi. Ogni <@ba.key>vortice</> assorbito aumenta di 1 il numero di accumuli di scudo.",
+          "JP": "ハードモードでは、天鼓は怒り状態でないとき、操作中のオペレーターにダメージを与えると、<@ba.key>気流</>を生成する。怒り状態になると、すべての<@ba.key>気流</>を吸収し、吸収した<@ba.key>気流</>1つにつき、シールド段階が1増加する。",
+          "KR": "고난도에서 평온한 상태의 천고는 메인 컨트롤 오퍼레이터에게 피해를 줄 때, <@ba.key>회오리바람</>을 남기며, 분노할 때 모든 <@ba.key>회오리바람</>을 흡수합니다. <@ba.key>회오리바람</>마다 보호 스택 수치가 1스택 증가합니다.",
+          "MX": "Modo Agonía: Cuando esté calmado, el Tamborilero celestial creará un <@ba.key>Vórtice</> cada vez que inflija DAÑ al operador controlado. Cuando esté iracundo, el Tamborilero celestial absorbe todos los <@ba.key>Vórtices</> del campo de batalla para crear escudos protectores. Cada <@ba.key>Vórtice</> absorbido aumenta la cantidad de acumulaciones de escudo en 1.",
+          "RU": "Режим «Агония»: в спокойном состоянии небесный барабанщик создает <@ba.key>вихрь</> каждый раз, когда наносит УРН управляемому оперативнику. В ярости небесный барабанщик впитывает все <@ba.key>вихри</> на поле боя, создавая щиты. Каждый впитанный <@ba.key>вихрь</> повышает количество зарядов щита на 1.",
+          "TC": "苦難難度中，天鼓平靜狀態下對主控幹員造成傷害時會留下<@ba.key>氣旋</>。憤怒時會吸收場地中所有的<@ba.key>氣旋</>，每個<@ba.key>氣旋</>都會使得護盾層數增加1層。",
+          "TH": "โหม​ด​ทรมาน​: ตอนที่​สงบ​ ทุกครั้งที่​มือ​กลอง​นภา​ทำ​ DMG ใส่​โอเปอเรเตอร์​ที่​ควบคุม​ มัน​จะ​สร้าง​<@ba.key>​กระแส​วน​</> ตอน​โกรธ​เกรี้ยว​ มือ​กลอง​นภา​จะ​ดูดซับ​<@ba.key>​กระแส​วน​</>​ทั้งหมด​บน​สนามรบ​เพื่อ​สร้าง​โล่​ป้องกัน​ <@ba.key>​กระแส​วน​</>​แต่ละ​ลูก​ที่​ดูดซับ​ได้​จะ​เพิ่มจำนวน​ขั้น​ของ​โล่​ 1 ขั้น",
+          "VN": "Chế Độ Đoạn Nộ: Khi ở trạng thái bình ổn, mỗi lần Người Gõ Trống Trời gây ST lên cán viên đang điều khiển, nó tạo ra 1 <@ba.key>Vòng Xoáy</>. Khi điên cuồng, Người Gõ Trống Trời hấp thụ toàn bộ <@ba.key>Luồng Xoáy</> trên chiến trường để tạo khiên bảo hộ. Mỗi <@ba.key>Vòng Xoáy</> được hấp thụ tăng số cộng dồn lá chắn thêm 1."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0082_hsbear_hdg018_ability_1": {
         "abilityId": "eny_0082_hsbear_hdg018_ability_1",
         "description": {
-          "id": "-7931885052794898171",
-          "text": ""
+          "BR": "- Quando enfurecido, o Retumbador Celeste criará escudos protetores que concedem a ele Redução DNO elevada e benefícios de ATQ. Cada <@ba.key>Reação de Artes</> ou <@ba.phy>Status Físico</> causado pelos operadores remove 1 acúmulo de escudo.",
+          "CN": "天鼓愤怒时会形成护盾，提供高额减伤与攻击力，干员每次造成<@ba.key>法术异常</>或<@ba.phy>物理异常</>会消除1层护盾层数。",
+          "DE": "Befindet sich der Himmelstrommler im Zustand „Raserei“, erzeugt er Schutzschilde, die ihm hohe SDN-Reduzierung und ANG-Buffs verleihen. <@ba.key>Technikreaktionen</> oder <@ba.phy>Physische Zustände</>, die von Operatoren verursacht werden, entfernen 1 Schildkumulierung.",
+          "EN": "When enraged, the Skydrummer will create protective shields that grant it high DMG Reduction and ATK buffs. Each <@ba.key>Arts Reaction</> or <@ba.phy>Physical Status</> dealt by operators removes 1 shield stack.",
+          "FR": "Une fois enragé, le frappeciel crée des boucliers protecteurs qui augmentent sa réduction des dégâts et ses bonus d'ATQ. Chaque <@ba.key>réaction aux Arts</> ou <@ba.phy>statut physique</> infligé par les opérateurs retire 1 cumul de bouclier.",
+          "ID": "Saat mengamuk, Skydrummer akan membuat perisai lindung yang memberinya Pengurangan DMG tinggi dan buff ATK. Setiap <@ba.key>Arts Reaction</> atau <@ba.phy>Status Fisik</> yang ditimbulkan oleh operator akan menghapus 1 tumpuk perisai.",
+          "IT": "Quando è Infuriato, il batticielo crea scudi protettivi che gli conferiscono un'elevata riduzione dei danni e potenziano il suo attacco. Ogni <@ba.key>Reazione delle Arti</> o <@ba.phy>stato fisico</> inflitto dagli operatori rimuove 1 accumulo di scudo.",
+          "JP": "天鼓は怒り状態になるとシールドを展開し、ダメージ軽減を獲得して攻撃力がアップする。オペレーターが<@ba.key>アーツ異常</>効果または<@ba.phy>物理異常</>効果を与えるたびに、シールドが1段階除去される。",
+          "KR": "천고는 분노 상태일 때 보호를 획득하고, 높은 피해 감소 효과와 공격력 증가 효과를 획득합니다. 오퍼레이터가 <@ba.key>아츠 이상</> 또는 <@ba.phy>물리 이상</> 효과를 부여할 때마다 보호 스택 수치 1스택이 제거됩니다.",
+          "MX": "Cuando esté iracundo, el Tamborilero celestial creará escudos protectores que le otorgan alta Reducción de DAÑ e incrementos de ATQ. Cada <@ba.key>Reacción a Artes</> o <@ba.phy>Estado físico</> infligido por los operadores elimina 1 acumulación de escudo.",
+          "RU": "В ярости небесный барабанщик создает щиты, которые дают ему высокое снижение УРН и усиление АТК. Каждая <@ba.key>реакция искусств</> или <@ba.phy>физическое состояние</>, наложенные оперативниками, снимают 1 заряд щита.",
+          "TC": "天鼓憤怒時會形成護盾，提供高額傷害減免與攻擊力，幹員每次造成<@ba.key>法術異常</>或<@ba.phy>物理異常</>會消除1層護盾層數。",
+          "TH": "ตอน​โกรธ​เกรี้ยว​ มือ​กลอง​นภา​จะ​สร้าง​โล่​ป้องกัน​ที่​มอบ​บัฟ​ใน​การ​ลด​ DMG และ​บัฟ​เพิ่ม​ ATK อย่างมาก​ แต่ละ​ <@ba.key>​ปฏิกิริยา​เวท​</> หรือ​ <@ba.phy>​สถานะ​กายภาพ​</> ที่​โอเปอเรเตอร์​ทำ​จะ​ลดขั้น​ของ​โล่​ 1 ขั้น",
+          "VN": "Khi điên cuồng, Người Gõ Trống Trời sẽ tạo khiên bảo hộ, nhận lượng lớn Giảm ST và tăng Tấn Công. Mỗi <@ba.key>Phản Ứng Thuật Pháp</> hoặc <@ba.phy>Trạng Thái Vật Lý</> do cán viên gây ra sẽ xóa 1 cộng dồn khiên."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0082_hsbear_hdg018_ability_3": {
         "abilityId": "eny_0082_hsbear_hdg018_ability_3",
         "description": {
-          "id": "2227659975259159186",
-          "text": ""
+          "BR": "Quando enfurecido, o Retumbador Celeste continuará bombardeando todos os operadores dentro de seu alcance.",
+          "CN": "天鼓愤怒状态下会持续轰击它周围一定范围内的干员。",
+          "DE": "Befindet sich der Himmelstrommler im Zustand „Raserei“, bombardiert er alle Operator, die sich in einem bestimmten Umkreis um ihn herum aufhalten.",
+          "EN": "When enraged, the Skydrummer will keep bombarding all operators within a range of itself.",
+          "FR": "Une fois enragé, le frappeciel continue à bombarder les opérateurs situés à une certaine distance.",
+          "ID": "Saat mengamuk, Skydrummer akan terus membombardir semua operator di dalam jangkauannya.",
+          "IT": "Quando è Infuriato, il batticielo bombarda costantemente tutti gli operatori nel suo raggio d'azione.",
+          "JP": "天鼓は怒り状態になると周囲の一定範囲内のオペレーターを継続的に攻撃する。",
+          "KR": "천고는 분노 상태일 때 주변 일정 범위 내의 오퍼레이터를 지속적으로 폭격합니다.",
+          "MX": "Cuando esté iracundo, el Tamborilero celestial seguirá bombardeando a todos los operadores dentro de su rango de alcance.",
+          "RU": "В ярости небесный барабанщик непрерывно обстреливает всех оперативников, находящихся в пределах дальности его атаки.",
+          "TC": "天鼓憤怒狀態下會持續轟擊牠周圍一定範圍內的幹員。",
+          "TH": "ตอน​โกรธ​เกรี้ยว​ มือ​กลอง​นภา​จะ​ถล่ม​ใส่​โอเปอเรเตอร์​ทั้งหมด​ใน​ระยะ​ตัวเอง",
+          "VN": "Khi điên cuồng, Người Gõ Trống Trời liên tục oanh tạc tất cả các cán viên trong phạm vi xung quanh."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0102_hstiger2_hdg021_ability_1": {
         "abilityId": "eny_0102_hstiger2_hdg021_ability_1",
         "description": {
-          "id": "2342966715681764798",
-          "text": ""
+          "BR": "Em comparação com os rastejantes comuns, este inimigo entrará em furtividade temporária e carregará suas habilidades quando estiver com pouco PV. Interrompa-o rapidamente para acabar com a furtividade e causar Desorientação significativa.",
+          "CN": "相比普通彪兽，在生命值较低时会短暂隐匿并蓄力，及时打断可以使它脱离隐匿，并对其累积大量失衡值。",
+          "DE": "Im Gegensatz zur gewöhnlichen Wüstlingsbestie tarnt sich dieser Gegner bei niedrigen LP vorübergehend und lädt seine Fertigkeiten auf. Unterbrich ihn schnell, um seine Tarnung zu beenden und ihn ordentlich zum Taumeln zu bringen.",
+          "EN": "When compared to common rakerbeasts, this enemy will enter temporary stealth and charge up its skills at low HP. Interrupt it quickly to end its stealth and deal massive Stagger to it.",
+          "FR": "Comparé aux ratisseurs ordinaires, cet ennemi peut devenir temporairement furtif et charger ses compétences lorsque ses PV sont faibles. Interrompez-le vite pour qu'il réapparaisse et tentez de le déséquilibrer.",
+          "ID": "Dibandingkan rakerbeast biasa, musuh ini bisa memasuki kondisi siluman sementara dan mengisi kekuatan skill saat HP-nya rendah. Sela dengan cepat agar kondisi silumannya berakhir dan kamu bisa mengakibatkan Stagger sangat besar kepadanya.",
+          "IT": "Rispetto alle rastrobestie normali, quando ha pochi PS, questo nemico entra temporaneamente in modalità furtiva e inizia a caricare le sue abilità. Interrompilo in fretta per farlo uscire dalla modalità furtiva e infliggere quantità ingenti di Vacillamento.",
+          "JP": "普通の彪獣と異なり、HPが低下するとステルス状態になりチャージを行う。攻撃して中断させると、ステルス状態を解除して高いブレイク値を与えられる。",
+          "KR": "일반 레이커비스트와 달리, 생명력이 낮아지면 잠시 은신하며 차지합니다. 제때 차지를 끊으면 은신이 해제되며 대량의 불균형치를 쌓을 수 있습니다.",
+          "MX": "Comparado con las bestias rastreras comunes, este enemigo entrará en sigilo temporal y cargará sus habilidades cuando tenga pocos PV. Interrúmpelo rápido para terminar su sigilo e infligirle Tambaleo masivo.",
+          "RU": "В отличие от обычных хитрых зверей, при низком уровне ОЗ временно входит в режим скрытности и заряжает навыки. Быстро прервите его атаку, чтобы прервать скрытность и наложить сильное ошеломление.",
+          "TC": "相比普通彪獸，在生命值較低時會短暫隱匿並蓄力，及時打斷可以使牠解除隱匿，並對其累積大量失衡值。",
+          "TH": "เมื่อ​เปรียบเทียบ​กับ​เร​เกอร์​บี​ส​ต์​ทั่วไป​ ศัตรู​นี้​จะ​เข้าสู่​สถานะ​ลอบ​เร้น​ชั่วคราว​และ​ชาร์จ​ทักษะ​ของ​มัน​เมื่อ​ HP ต่ำ​ หยุดชะงัก​มัน​ให้​เร็ว​เพื่อ​ยุติ​สภาวะ​ลอบ​เร้น​และ​สร้าง​สถานะ​เซ​ไป​เซ​มา​อย่างรุนแรง​ใส่​มัน​ทันที",
+          "VN": "So với các Quái Cào thường, kẻ địch này sẽ tạm thời ẩn thân và tích năng lượng kỹ năng khi HP thấp. Ngắt nó nhanh để phá ẩn thân và gây lượng lớn Suy Sụp."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0113_jzogre_ability_1": {
         "abilityId": "eny_0113_jzogre_ability_1",
         "description": {
-          "id": "5616756340840831252",
-          "text": ""
+          "BR": "O uivante montanhês montado nas costas da besta mutiladora encouraçada pode jogar cascas de banana. Se a Besta Mutiladora Encouraçada pisar nas cascas de banana durante um ataque de investida, ela escorregará e cairá.",
+          "CN": "背上的山犼兽可投掷香蕉皮，披甲裂兽若贸然发起冲锋攻击，不慎踩到香蕉皮便会打滑摔倒。",
+          "DE": "Der Felsenheuler, der auf der Gepanzerten Fetzbestie reitet, kann Bananenschalen werfen. Wenn die Gepanzerte Fetzbestie während eines Ansturms auf Bananenschalen tritt, rutscht sie aus und stürzt.",
+          "EN": "The Rockhowler riding on the Armored Manglerbeast's back can throw banana peels. If the Armored Manglerbeast steps on banana peels while performing a charging attack, it will slip and fall.",
+          "FR": "Le hurleroc qui chevauche l'ours à dents de sabre cuirassé peut lancer des peaux de banane. Si sa monture marche dessus en chargeant, elle glissera et s'étalera par terre.",
+          "ID": "Rockhowler yang menunggang di punggung Manglerbeast Berarmor bisa melemparkan kulit pisang. Jika Manglerbeast Berarmor menginjak kulit pisang ini saat menerjang untuk menyerang, dia akan terpeleset dan jatuh.",
+          "IT": "L'ulularocce in sella all'orso dai denti a sciabola corazzato può lanciare bucce di banana. Se l'orso dai denti a sciabola corazzato calpesta le bucce di banana mentre sferra un attacco caricato, scivola e cade.",
+          "JP": "背中に乗っている山吼獣はバナナの皮を投げる。鎧裂獣はむやみに突進すると、バナナの皮を踏んで転倒する。",
+          "KR": "등에 탄 록하울러는 바나나 껍질을 투척할 수 있습니다. 무장 맹글러가 섣불리 돌진 공격을 시도하다 바나나 껍질을 밟으면 미끄러져 넘어집니다.",
+          "MX": "El Aullador de roca montado en el lomo de la Bestia mutiladora acorazada puede lanzar cáscaras de plátano. Si la bestia mutiladora acorazada pisa cáscaras de plátano mientras realiza un ataque de carga, se resbalará y caerá.",
+          "RU": "Каменный ревун верхом на бронированном саблезубом звере бросает банановую кожуру. Если бронированный саблезубый зверь наступит на нее во время зарядки атаки, он поскользнется и упадет.",
+          "TC": "背上的山犼獸可投擲香蕉皮，披甲裂獸若貿然發起衝鋒攻擊，不慎踩到香蕉皮便會打滑摔倒。",
+          "TH": "ร็อค​ฮา​ว​เลอร์​ที่​ขี่​อยู่​บน​หลัง​แมง​เกลอ​ร์​บี​ส​ต์​หุ้ม​เกราะ​สามารถ​ขว้าง​เปลือก​กล้วย​ได้​ หาก​แมง​เกลอ​ร์​บี​ส​ต์​หุ้ม​เกราะ​เหยียบ​เปลือก​กล้วย​ขณะ​กำลัง​พุ่ง​โจมตี​ มัน​จะ​ลื่นล้ม",
+          "VN": "Rockhowler cưỡi trên lưng Gấu Nanh Dài Thiết Giáp có thể vứt vỏ chuối. Nếu Gấu Nanh Dài Thiết Giáp giẫm phải vỏ chuối khi đang thực hiện tụ lực thì nó sẽ bị trượt ngã."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0113_jzogre_ability_2": {
         "abilityId": "eny_0113_jzogre_ability_2",
         "description": {
-          "id": "-3543188462910993165",
-          "text": ""
+          "BR": "Quando encolhida em posição defensiva, o ponto fraco seriam as mãos. Quebre as mãos para encerrar a postura defensiva e derrube a fera.",
+          "CN": "蜷身防御时手部是它唯一的弱点，打破手臂会让它退出蜷缩防御并倒地。",
+          "DE": "In ihrer eingerollten Verteidigungshaltung sind die Hände ihre Schwachstelle. Durchbrich die Handposition, um die Verteidigungshaltung zu beenden, und belege die Bestie mit Niederschlag.",
+          "EN": "When curled into its defensive pose, only its hands remain exposed as weak spots. Break the hands to end the defensive pose and apply knock down to the beast.",
+          "FR": "Lorsqu'il se place en position de défense, son point faible se situe au niveau des mains. Visez ses mains pour interrompre la posture défensive et renverser la bête.",
+          "ID": "Saat meringkuk dalam pose bertahan, titik lemahnya adalah tangannya. Serang tangannya untuk mengakhiri pose bertahan dan mengakibatkan knocked down kepada binatang tersebut.",
+          "IT": "Quando si raggomitola in posizione difensiva, il suo punto debole sono le mani. Colpiscile per porre fine alla posizione difensiva e applicare Abbattimento alla bestia.",
+          "JP": "身を丸めて防御している間は腕が唯一の弱点で、腕を破壊すると防御が解除されて転倒する。",
+          "KR": "몸을 웅크리고 방어할 때는 손이 유일한 약점이며, 팔을 파괴하면 방어 상태가 해제되고 넘어집니다.",
+          "MX": "Cuando se encoge en su postura defensiva, su punto débil son las manos. Destruye sus manos para acabar con la postura defensiva y aplicar Derribar a la bestia.",
+          "RU": "Когда он принимает защитную позу, его уязвимым местом становятся руки. Сломайте их, чтобы вывести зверя из защитной позы и опрокинуть его.",
+          "TC": "蜷身防禦時手部是牠唯一的弱點，打破手臂會讓牠退出蜷縮防禦並倒地。",
+          "TH": "ขณะ​ขดตัว​ใน​ท่า​ป้องกัน​ จุดอ่อน​ของ​มัน​จะ​อยู่​ที่​มือ​ ทำลาย​มือ​เพื่อ​คลาย​ท่า​ป้องกัน​แล้ว​ผลัก​ให้​อสูร​ล้ม​ลง",
+          "VN": "Khi cuộn mình vào tư thế phòng thủ, điểm yếu của nó là hai tay. Phá hủy hai tay để phá bỏ tư thế phòng thủ và khiến con quái thú bị quật ngã."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0113_jzogre_ability_3": {
         "abilityId": "eny_0113_jzogre_ability_3",
         "description": {
-          "id": "-4517102949670165353",
-          "text": ""
+          "BR": "Ao ser derrubada, os uivantes montanheses caem de seu dorso. Ataque-os para causar ainda mais DNO.",
+          "CN": "倒地时山犼兽会掉落，攻击山犼兽会造成更高的伤害。",
+          "DE": "Lässt Felsenheuler fallen, wenn sie niedergeschlagen wird. Greife die Felsenheuler an, um noch mehr SDN zu verursachen.",
+          "EN": "Drops Rockhowlers when knocked down. Attack the Rockhowlers to deal even more DMG.",
+          "FR": "Lance des hurlerocs quand il est renversé. Attaquez les hurlerocs pour infliger plus de DÉG.",
+          "ID": "Menjatuhkan Rockhowler saat terkena knocked down. Serang Rockhowler untuk menimbulkan lebih banyak DMG.",
+          "IT": "Libera ulularocce quando viene abbattuto. Attacca gli ulularocce per infliggere ancora più danni.",
+          "JP": "転倒した場合、山吼獣は背中から落ちる。山吼獣を攻撃するとより高いダメージを与えられる。",
+          "KR": "넘어졌을 때 록하울러는 추락하며, 록하울러를 공격하면 더 큰 피해를 줄 수 있습니다.",
+          "MX": "Suelta Aulladores de roca cuando es derribada. Ataca a los Aulladores de roca para infligir aún más DAÑ.",
+          "RU": "При опрокидывании сбрасывает каменных ревунов. Атакуйте каменных ревунов, чтобы нанести еще больше УРН.",
+          "TC": "倒地時山犼獸會掉落，攻擊山犼獸會造成更高的傷害。",
+          "TH": "ทิ้ง​ร็อค​ฮา​ว​เลอร์​ให้​ร่วง​เมื่อ​ถูก​ผลัก​ให้​ล้ม​ โจมตี​ร็อค​ฮา​ว​เลอร์​เพื่อ​ทำ​ DMG แรง​กว่า​เดิม",
+          "VN": "Rơi ra Rockhowler khi gục ngã. Tấn công Rockhowler để gây thêm ST."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0114_jzmking_ability_1": {
         "abilityId": "eny_0114_jzmking_ability_1",
         "description": {
-          "id": "7062891073296196851",
-          "text": ""
+          "BR": "Quando enfurecido, o Uivante dos Penhascos começará a destruir as ruínas. Rochas soltas cairão no campo de batalha e causarão DNO aos operadores atingidos por elas.",
+          "CN": "巨山犼兽进入狂怒后，会震落遗迹残垣，在场内随机落下石块造成伤害。",
+          "DE": "Im Zustand „Raserei“ fängt der Klippenheuler an, die Ruinen zu zerstören. Gelockerte Felsen stürzen aufs Schlachtfeld hinab und fügen getroffenen Operatoren SDN zu.",
+          "EN": "When enraged, the Craghowler will start breaking the ruins. Loosened rocks will fall into the battlefield and deal DMG to operators hit by them.",
+          "FR": "Une fois enragé, le hurlepic s'en prend aux ruines. Les pierres qui se détachent tombent sur le champ de bataille et infligent des DÉG aux opérateurs qui les reçoivent.",
+          "ID": "Saat mengamuk, Craghowler akan mulai menghancurkan reruntuhan. Batu yang longgar akan jatuh ke medan pertarungan dan menimbulkan DMG kepada operator yang terhantam.",
+          "IT": "Quando è Infuriato, l'ulularupi inizia a distruggere le rovine. Sul campo di battaglia cadono rocce che infliggono danni agli operatori che colpiscono.",
+          "JP": "大山吼獣は狂暴状態に入ると、遺跡の残壁を崩し、ランダムに岩を落下させてダメージを与える。",
+          "KR": "거대한 록하울러가 분노 상태에 돌입한 후, 무작위로 유적의 낙석을 떨어뜨려 피해를 줍니다.",
+          "MX": "Cuando esté iracundo, el aullador del peñasco comenzará a destruir las ruinas. Las rocas aflojadas caerán al campo de batalla e infligirán DAÑ a los operadores que sean golpeados por ellas.",
+          "RU": "В ярости скальный ревун начинает разрушать руины. Отколовшиеся камни падают на поле боя и наносят УРН попавшим под них оперативникам.",
+          "TC": "巨山犼獸進入狂怒後會震落遺跡殘垣，在場內隨機落下石塊造成傷害。",
+          "TH": "ตอน​โกรธ​เกรี้ยว​ เคร​ก​ฮา​ว​เลอร์​จะ​เริ่ม​ทำลาย​ซากปรักหักพัง​ หิน​ที่​ใกล้​ถล่ม​จะ​ร่วง​ลงมา​ใน​สนามรบ​ ทำ​ DMG ใส่​โอเปอเรเตอร์​ที่​โดน",
+          "VN": "Khi điên cuồng, Craghowler sẽ bắt đầu phá hủy các tàn tích. Những tảng đá bong rơi sẽ lao xuống chiến trường, gây ST lên các cán viên trúng phải."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0114_jzmking_ability_2": {
         "abilityId": "eny_0114_jzmking_ability_2",
         "description": {
-          "id": "-3251634938388038962",
-          "text": ""
+          "BR": "O Uivante dos Penhascos pode usar os pilares dentro das ruínas com grande eficácia, o que confere a ele um enorme alcance de ataque.",
+          "CN": "巨山犼兽能够灵活的使用遗迹残柱，攻击范围极大。",
+          "DE": "Der Klippenheuler kann die Säulen innerhalb der Ruinen effektiv nutzen und sich dadurch eine enorme Angriffsreichweite verschaffen.",
+          "EN": "The Craghowler can use the pillars within the ruins to great effect and give itself a huge attack range.",
+          "FR": "Le hurlepic peut utiliser les colonnes des ruines à son avantage et élargir sa portée d'attaque.",
+          "ID": "Craghowler bisa menggunakan pilar di dalam reruntuhan untuk menciptakan efek luar biasa dan memberi dirinya jangkauan serang yang sangat luas.",
+          "IT": "L'ulularupi può usare le colonne nelle rovine in modo molto efficace per sferrare attacchi con un'enorme gittata.",
+          "JP": "大山吼獣は遺跡の残柱を自在に使いこなす。攻撃範囲が非常に広い。",
+          "KR": "거대한 록하울러는 유적의 남은 기둥을 능숙하게 활용하며, 공격 범위가 매우 넓습니다.",
+          "MX": "El aullador del peñasco puede aprovechar muy bien los pilares dentro de las ruinas y obtener un enorme alcance de ataque.",
+          "RU": "Скальный ревун может использовать столбы в руинах, чтобы увеличивать свой радиус атаки.",
+          "TC": "巨山犼獸能夠靈活地使用遺跡殘柱，攻擊範圍極大。",
+          "TH": "เคร​ก​ฮา​ว​เลอร์​ใช้​เสา​ใน​ซากปรักหักพัง​ให้​เป็นประโยชน์​ได้​ ช่วย​เพิ่ม​ระยะ​การ​โจมตี​อย่างมาก",
+          "VN": "Craghowler có thể sử dụng các cột trụ trong tàn tích để cường hóa hiệu ứng và cho bản thân thêm tầm đánh."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       },
       "eny_0114_jzmking_ability_3": {
         "abilityId": "eny_0114_jzmking_ability_3",
         "description": {
-          "id": "5026055417273849757",
-          "text": ""
+          "BR": "O Uivante dos Penhascos fingirá que está fugindo e, de repente, lançará pedras enormes para atacar inimigos desavisados.",
+          "CN": "巨山犼兽会佯装后退，趁敌人不备丢出巨石攻击。",
+          "DE": "Der Klippenheuler wird einen Rückzug vortäuschen und plötzlich gewaltige Felsen schleudern, um ahnungslose Gegner anzugreifen.",
+          "EN": "The Craghowler will feign a retreat, and suddenly throw huge rocks to attack unsuspecting enemies.",
+          "FR": "Le hurlepic fait semblant de battre en retraite, puis lance d'énormes rochers en direction des ennemis qui ne se doutent de rien.",
+          "ID": "Craghowler akan berpura-pura mundur dan tiba-tiba melempar batu besar untuk menyerang musuh yang lengah.",
+          "IT": "L'ulularupi finge di ritirarsi, per poi lanciare all'improvviso enormi massi contro i nemici ignari.",
+          "JP": "大山吼獣は後退を装い、敵の不意を突いて岩を投げつけて攻撃する。",
+          "KR": "거대한 록하울러는 후퇴하는 척하다가, 적이 방심한 틈을 타 바위를 던져 공격합니다.",
+          "MX": "El aullador del peñasco fingirá retirarse y, de pronto, lanzará enormes rocas para atacar a enemigos desprevenidos.",
+          "RU": "Скальный ревун имитирует отступление, после чего внезапно бросает огромные камни в ничего не подозревающих врагов.",
+          "TC": "巨山犼獸會佯裝後退，趁敵人不備丟出巨石攻擊。",
+          "TH": "เคร​ก​ฮา​ว​เลอร์​จะ​แกล้งทำ​เป็น​หนี​ แล้ว​ขว้าง​หิน​ก้อน​ใหญ่​มา​โจมตี​ศัตรู​ที่​ไม่ทัน​ระวัง",
+          "VN": "Craghowler sẽ giả vờ rút lui, sau đó bất ngờ ném đá tảng để tấn công những kẻ địch không phòng bị."
         },
         "name": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         }
       }
     },

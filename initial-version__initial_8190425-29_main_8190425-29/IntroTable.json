@@ -14,54 +14,150 @@
         "dataArray": [
           {
             "desc": {
-              "id": "2744375597538839055",
-              "text": ""
+              "BR": "Os Critérios de Teste do Contrato de Contingência são uma série de efeitos que tornam os desafios mais difíceis. Os Critérios de Teste são divididos em 3 níveis de dificuldade. Selecione qualquer combinação de Critérios de Teste para ajustar a dificuldade antes de iniciar o desafio de combate.",
+              "CN": "在危机合约中，“指标”是一系列会提升挑战难度的效果，分为3档难度等级。\n管理员可以自由选择指标组合，调节不同难度，进行战斗挑战。",
+              "DE": "Die Testkriterien des Krisenschutzvertrags sind eine Reihe von Effekten zur Erschwerung der Herausforderungen. Testkriterien werden in 3 Schwierigkeitsgrade unterteilt. Wähle vor Beginn der Kampfherausforderung eine beliebige Kombination aus Testkriterien, um die Schwierigkeit anzupassen.",
+              "EN": "The Contingency Contract Test Criteria are a series of effects that make challenges more difficult. Test Criteria are divided into 3 difficulty tiers. Select any combination of Test Criteria to tweak the difficulty before starting the combat challenge.",
+              "FR": "Les critères de test d'un Contrat de crise sont les différents effets qui compliquent les défis. Ils sont divisés en 3 niveaux de difficulté. Sélectionnez n'importe quelle combinaison de critères de test pour ajuster la difficulté avant de lancer votre défi de combat.",
+              "ID": "Kriteria Tes Kontrak Kontingensi adalah serangkaian efek yang membuat tantangan menjadi lebih sulit. Kriteria Tes dibagi ke dalam 3 tingkat kesulitan. Pilih kombinasi Kriteria Tes apa saja untuk memodifikasi tingkat kesulitan sebelum memulai tantangan pertarungan.",
+              "IT": "I Criteri di test di Contratto di emergenza sono una serie di effetti che aumentano la difficoltà delle sfide. I Criteri di test sono suddivisi in 3 livelli di difficoltà. Seleziona una qualsiasi combinazione di Criteri di test per calibrare la difficoltà prima di dare inizio alla prova di combattimento.",
+              "JP": "危機契約における「指標」とは、挑戦の難易度を上げる効果のことで、難易度に応じて3段階のランクに分かれています。\n指標を自由に組み合わせることで難易度を調整し、戦闘に挑戦できます。",
+              "KR": "위기 협약에서 '지표'는 도전 난도를 증가하는 일련의 효과로, 3단계 난도로 나뉩니다.\n관리자님은 지표 조합을 자유롭게 선택해 난도를 조정하고 전투 도전을 진행할 수 있습니다.",
+              "MX": "Los Criterios de prueba de Contrato de contingencia son una serie de efectos que aumentan la dificultad de los desafíos. Los Criterios de prueba se dividen en 3 niveles de dificultad. Selecciona cualquier combinación de Criterios de prueba para ajustar la dificultad antes de iniciar el desafío de combate.",
+              "RU": "Условия испытания «Чрезвычайного контракта» — это ряд эффектов, повышающих сложность испытаний. Условия испытания делятся на 3 класса сложности. Выберите любую комбинацию условий испытания, чтобы настроить сложность перед началом боевого испытания.",
+              "TC": "在危機合約中，「指標」是一系列會提升挑戰難度的效果，分為3個難度等級。\n管理員可以自由選擇指標組合，調節不同難度，進行戰鬥挑戰。",
+              "TH": "เกณฑ์​การทด​สอบ​สัญญา​ฉุกเฉิน​คือ​ชุด​เอฟเฟกต์​ที่​ทำให้​การ​ท้าทาย​ยาก​ขึ้น​ เกณฑ์​การทด​สอบ​แบ่ง​ออก​เป็นความ​ยาก​ 3 ระดับ​ เลือก​ชุด​เกณฑ์​การทด​สอบ​ได้​ตาม​ต้องการ​ เพื่อ​ปรับระดับ​ความ​ยาก​ก่อน​เริ่ม​การ​ท้าทาย​การต่อสู้",
+              "VN": "Tiêu Chí Thử Nghiệm của Hợp Đồng Điều Kiện là chuỗi các hiệu ứng tạo độ khó cho các thử thách. Tiêu Chí Thử Nghiệm được chia thành 3 cấp. Chọn bất kỳ tổ hợp Tiêu Chí Thử Nghiệm nào để điều chỉnh độ khó trước khi tham gia thử thách chiến đấu."
             },
             "id": "contingency_contract",
             "imagePath": "Guide/guide_pic_CC0_1",
             "pageIndex": 1,
             "title": {
-              "id": "-2905304020791442608",
-              "text": ""
+              "BR": "Contrato de Contingência: Critério de Teste",
+              "CN": "危机合约 - 指标",
+              "DE": "Krisenschutzvertrag: Testkriterium",
+              "EN": "Contingency Contract: Test Criterion",
+              "FR": "Contrat de crise : critères de test",
+              "ID": "Kontrak Kontingensi: Kriteria Tes",
+              "IT": "Contratto di emergenza: Criteri di test",
+              "JP": "危機契約 - 指標",
+              "KR": "위기 협약 - 지표",
+              "MX": "Contrato de contingencia: Criterio de prueba",
+              "RU": "Чрезвычайный контракт: условие испытания",
+              "TC": "危機合約 - 指標",
+              "TH": "สัญญา​ฉุกเฉิน​: เกณฑ์​การทด​สอบ",
+              "VN": "Hợp Đồng Điều Kiện: Tiêu Chí Thử Nghiệm"
             }
           },
           {
             "desc": {
-              "id": "-3692033132155945107",
-              "text": ""
+              "BR": "Pode haver limites de seleção para determinados Critérios de Teste. Alguns Critérios de Teste entram em conflito com outros, obrigando você a escolher entre um deles. Alguns só estão disponíveis quando o Nível dos Critérios de Teste é alto o suficiente ou após uma data específica.",
+              "CN": "指标会存在一些选择上的限制。部分指标之间存在冲突关系，最多只能选择其中一个。\n同时还有部分指标，需要在达成特定指标等级后，或在特定时间后，才会开放。",
+              "DE": "Für gewisse Testkriterien kann es Auswahllimits geben. Manche Testkriterien können in Konflikt zueinander stehen. Dann musst du dich für eins davon entscheiden. Manche werden erst verfügbar, wenn das Testkriterien-Level hoch genug ist oder ein bestimmtes Datum erreicht wurde.",
+              "EN": "There may be selection limits for certain Test Criteria. Some Test Criteria conflict with another, forcing you to choose between one of them. Some are only available when Test Criteria Level is high enough, or after a specified date.",
+              "FR": "Certains critères de test sont soumis à des limites : ils peuvent entrer en conflit les uns avec les autres, ce qui vous oblige à faire un choix. En outre, certains sont disponibles uniquement lorsque le niveau des critères de test est suffisamment élevé, ou après une date donnée.",
+              "ID": "Mungkin ada batas pemilihan untuk Kriteria Tes tertentu. Beberapa Kriteria Tes mungkin saling bertentangan sehingga kamu harus memilih salah satu di antaranya. Beberapa lainnya hanya tersedia saat Level Kriteria Tes sudah cukup tinggi atau setelah tanggal tertentu.",
+              "IT": "Potrebbero essere previsti dei limiti di selezione per i Criteri di test. Alcuni Criteri di test possono andare in conflitto tra loro, costringendoti a sceglierne uno solo; altri si sbloccano solamente al raggiungimento di un determinato livello di Criteri di test o dopo una data specifica.",
+              "JP": "指標の選択には制限がある場合があります。一部の指標同士は競合しており、その中から1つしか選択できません。\nまた、一部の指標は特定ランクの指標をクリアする、あるいは一定期間経過後に解放されます。",
+              "KR": "지표에는 선택 제한이 존재합니다. 일부 지표는 서로 충돌 관계에 있어, 그중 하나만 선택할 수 있습니다.\n또한 일부 지표는 특정 지표 레벨을 달성하거나 특정 시간이 지난 뒤에 개방됩니다.",
+              "MX": "Algunos Criterios de prueba pueden tener límites de selección. Algunos Criterios de prueba entran en conflicto con otros, por lo que tendrás que elegir uno de ellos. Algunos solo están disponibles cuando el nivel de Criterios de prueba es lo suficientemente alto, o después de una fecha específica.",
+              "RU": "Для определенных условий испытания может действовать ограничение выбора. Некоторые условия конфликтуют друг с другом, поэтому из них можно выбрать только одно. Некоторые условия доступны только при достаточном уровне условий испытания или после определенной даты.",
+              "TC": "指標會存在一些選擇上的限制。部分指標之間存在衝突關係，最多只能選擇其中一個。\n同時還有部分指標，需要在達成特定指標等級後，或在特定時間後，才會開放。",
+              "TH": "บาง​เกณฑ์​การทด​สอบ​อาจ​มี​ข้อจำกัด​ใน​การ​เลือก​ เกณฑ์​การทด​สอบ​บางราย​การ​ขัดแย้ง​กัน​ ทำให้​ต้อง​เลือก​เพียง​รายการ​เดียว​ บางราย​การ​พร้อม​ใช้งาน​ได้​เฉพาะ​เมื่อ​ระดับ​เกณฑ์​การทด​สอบ​สูง​พอ​ หรือ​หลังจาก​วันที่​กำหนด​เท่านั้น",
+              "VN": "Một vài Tiêu Chí Thử Nghiệm có thể bị hạn chế. Vài Tiêu Chí Thử Nghiệm bị xung đột với nhau, phải lựa chọn một trong hai. Vài tiêu chí chỉ có sẵn khi đạt đến Cấp Độ Tiêu Chí Thử Nghiệm nhất định, hoặc sau một ngày cụ thể."
             },
             "id": "contingency_contract",
             "imagePath": "Guide/guide_pic_CC0_2",
             "pageIndex": 2,
             "title": {
-              "id": "1956491225287250987",
-              "text": ""
+              "BR": "Contrato de Contingência: Limite de Seleção de um Critério de Teste",
+              "CN": "危机合约 - 选择指标的限制",
+              "DE": "Krisenschutzvertrag: Begrenzte Auswahl von Testkriterien",
+              "EN": "Contingency Contract: Test Criterion Selection Limit",
+              "FR": "Contrat de crise : limites des critères de test",
+              "ID": "Kontrak Kontingensi: Batas Pemilihan Kriteria Tes",
+              "IT": "Contratto di emergenza: limite di selezione dei Criteri di test",
+              "JP": "危機契約 - 指標選択の制限",
+              "KR": "위기 협약 - 지표 선택 제한",
+              "MX": "Contrato de contingencia: Límite de selección de Criterios de prueba",
+              "RU": "Чрезвычайный контракт: ограничение выбора условий испытания",
+              "TC": "危機合約 - 選擇指標的限制",
+              "TH": "สัญญา​ฉุกเฉิน​: ขีดจำกัด​การ​เลือก​เกณฑ์​การทด​สอบ",
+              "VN": "Hợp Đồng Điều Kiện: Giới Hạn Lựa Chọn Tiêu Chí Thử Nghiệm"
             }
           },
           {
             "desc": {
-              "id": "-1107526350511396748",
-              "text": ""
+              "BR": "Alguns Critérios de Teste são [Critérios Bloqueados] que não podem ser selecionados por padrão. Selecione os [Critérios-Chave] especificados para desbloqueá-los.",
+              "CN": "部分指标是特殊的「锁闭指标」，初始情况不可选择，必须先选择「密钥指标」才能解锁。",
+              "DE": "Manche Testkriterien sind [Gesperrte Kriterien], die standardmäßig nicht ausgewählt werden können. Wähle die angegebenen [Schlüsselkriterien] aus, um sie freizuschalten.",
+              "EN": "Some Test Criteria are [Locked Criteria] that cannot be selected by default. Select the specified [Key Criteria] to unlock them.",
+              "FR": "Certains critères de test sont des [critères verrouillés], qui ne peuvent être sélectionnés par défaut. Sélectionnez les [critères secrets] requis pour les déverrouiller.",
+              "ID": "Beberapa Kriteria Tes adalah [Kriteria Terkunci] yang secara default tidak bisa dipilih. Untuk membukanya, pilih [Kriteria Utama] yang sudah ditentukan.",
+              "IT": "Alcuni Criteri di test sono \"Criteri bloccati\" che all'inizio non puoi scegliere. Per sbloccarli, seleziona i \"Criteri chiave\" specificati.",
+              "JP": "一部の指標は「閉鎖指標」と呼ばれる特殊な指標で、初期状態では選択できませんが、「認証指標」を選択することで解放されます。",
+              "KR": "일부 지표는 특수한 [잠금 지표]로, 초기 상태에서는 선택할 수 없으며 먼저 [비밀 지표]를 선택해야 잠금 해제됩니다.",
+              "MX": "Algunos Criterios de prueba son [Criterios bloqueados] y no se pueden seleccionar de forma predeterminada. Selecciona los [Criterios clave] especificados para desbloquearlos.",
+              "RU": "Некоторые условия испытания являются закрытыми — их нельзя выбрать по умолчанию. Чтобы их открыть, выберите заданные тайные условия.",
+              "TC": "部分指標是特殊的「鎖閉指標」，初始情況不可選擇，必須先選擇「密鑰指標」才能解鎖。",
+              "TH": "เกณฑ์​การทด​สอบ​บางส่วน​เป็น​ [เกณฑ์​ที่​ถูก​ล็อก​] ที่​เลือก​เป็น​ค่า​เริ่มต้น​ไม่ได้​ เลือก​ [เกณฑ์​หลัก​] ที่​กำหนด​เพื่อ​ปลดล็อก",
+              "VN": "Vài Tiêu Chí Thử Nghiệm là [Tiêu Chí Đã Khóa] và không thể chọn theo mặc định. Chọn [Tiêu Chí Ngầm] được chỉ định để mở khóa."
             },
             "id": "contingency_contract",
             "imagePath": "Guide/guide_pic_CC0_3",
             "pageIndex": 3,
             "title": {
-              "id": "-6862330121386354424",
-              "text": ""
+              "BR": "Contrato de Contingência: Critérios Bloqueados e Critérios-Chave",
+              "CN": "危机合约 - 锁闭指标与密钥指标",
+              "DE": "Krisenschutzvertrag: Gesperrte Kriterien und Schlüsselkriterien",
+              "EN": "Contingency Contract: Locked & Key Criteria",
+              "FR": "Contrat de crise : critères verrouillés et critères secrets",
+              "ID": "Kontrak Kontingensi: Kriteria Terkunci & Kriteria Utama",
+              "IT": "Contratto di emergenza: Criteri bloccati e Criteri chiave",
+              "JP": "危機契約 - 閉鎖指標と認証指標",
+              "KR": "위기 협약 - 잠금 지표와 비밀 지표",
+              "MX": "Contrato de contingencia: Criterios bloqueados y Criterios clave",
+              "RU": "Чрезвычайный контракт: закрытые и тайные условия",
+              "TC": "危機合約 - 鎖閉指標與密鑰指標",
+              "TH": "สัญญา​ฉุกเฉิน​: เกณฑ์​ที่​ถูก​ล็อก​และ​เกณฑ์​หลัก",
+              "VN": "Hợp Đồng Điều Kiện: Tiêu Chí Ngầm & Đã Khóa"
             }
           },
           {
             "desc": {
-              "id": "6751522460546596587",
-              "text": ""
+              "BR": "Concluir com êxito um desafio com um Critério de Teste pela primeira vez concede uma recompensa de Moedas vitrificadas. É possível obter mais Moedas Vitrificadas ao concluir Missões de Contrato. As Moedas Vitrificadas podem ser trocadas por recompensas de eventos no Santuário Secreto.",
+              "CN": "成功完成每项指标的首次挑战，可获得相应的晶化硬币奖励；更多晶化硬币奖励可通过完成合约任务获得。晶化硬币可用于在机密圣所兑换活动奖励。",
+              "DE": "Für das erfolgreiche erstmalige Abschließen einer Herausforderung mit einem Testkriterium gibt es eine Belohnung aus Kristallisierten Münzen. Weitere Kristallisierte Münzen kannst du dir durch das Abschließen von Vertragsmissionen verdienen. Kristallisierte Münzen lassen sich im Geheimen Heiligtum gegen Eventbelohnungen eintauschen.",
+              "EN": "Successfully completing a challenge with a Test Criterion for the first time provides a reward of Vitrified Coins. More Vitrified Coins can be earned by completing Contract Missions. Vitrified Coins are exchangeable for event rewards at the Secret Sanctuary.",
+              "FR": "Terminez un défi avec certains critères de test pour la première fois pour obtenir des pièces vitrifiées en récompense. Vous pouvez en obtenir d'autres en terminant des contrats de mission. Les pièces vitrifiées peuvent être échangées contre des récompenses d'événement au sanctuaire secret.",
+              "ID": "Saat berhasil menyelesaikan tantangan dengan Kriteria Tes untuk pertama kalinya, kamu akan mendapatkan imbalan berupa Koin Vitrifikasi. Koin Vitrifikasi lainnya bisa didapatkan dengan menyelesaikan Misi Kontrak. Koin Vitrifikasi bisa ditukarkan dengan imbalan event di Suaka Rahasia.",
+              "IT": "Quando completi per la prima volta una sfida con un dato Criterio di test, riceverai una ricompensa in Monete vetrificate. Puoi guadagnare altre Monete vetrificate completando le missioni del Contratto. Potrai poi scambiare le Monete vetrificate presso il Santuario segreto per ottenere varie ricompense dell'evento.",
+              "JP": "各指標を初回クリアすると、対応する結晶コインを報酬として獲得できます。さらに多くの結晶コインを入手するには、契約クエストをクリアしましょう。結晶コインは機密聖堂でイベント報酬と交換できます。",
+              "KR": "각 지표의 첫 도전에 성공하면 해당하는 결정화 화폐 보상을 획득할 수 있습니다. 더 많은 결정화 화폐 보상은 협약 임무를 완료하여 획득할 수 있습니다. 결정화 화폐는 시크릿 생추어리에서 이벤트 보상으로 교환할 수 있습니다.",
+              "MX": "Completar con éxito un desafío con un Criterio de prueba por primera vez otorga Monedas vitrificadas como recompensa. Puedes obtener más Monedas vitrificadas completando misiones de contrato. Las Monedas vitrificadas se pueden canjear por recompensas del evento en el Santuario secreto.",
+              "RU": "За первое успешное прохождение испытания с выбранным условием в награду выдаются кристаллизованные монеты. Дополнительные кристаллизованные монеты можно получить за выполнение миссий контракта. В тайном святилище кристаллизованные монеты можно обменять на награды события.",
+              "TC": "成功完成每項指標的首次挑戰，可獲得相應的晶化硬幣獎勵；更多晶化硬幣獎勵可透過完成合約任務獲得。晶化硬幣可用於在機密聖所兌換活動獎勵。",
+              "TH": "การผ่า​น​เกณฑ์​การทด​สอบ​สำเร็จ​ครั้งแรก​จะ​ได้รับ​รางวัล​กิจกรรม​เป็น​เหรียญ​ผลึก​แก้ว​ เหรียญ​ผลึก​แก้ว​เพิ่มเติม​สามารถ​รับได้​จาก​การผ่า​นภา​รกิ​จ​สัญญา​ เหรียญ​ผลึก​แก้ว​นำ​ไป​แลก​รางวัล​กิจกรรม​ได้ที่​วิหาร​ลับ",
+              "VN": "Hoàn thành thử thách với một Tiêu Chí Thử Nghiệm trong lần đầu sẽ được nhận thưởng Xu Thủy Tinh Hóa. Nhận nhiều Xu Thủy Tinh Hóa hơn bằng cách hoàn thành các Nhiệm Vụ Hợp Đồng. Có thể dùng Xu Thủy Tinh Hóa để đổi thưởng sự kiện tại Thánh Địa Bí Mật."
             },
             "id": "contingency_contract",
             "imagePath": "Guide/guide_pic_CC0_4",
             "pageIndex": 4,
             "title": {
-              "id": "-5352874033909344367",
-              "text": ""
+              "BR": "Contrato de Contingência: Recompensas do Desafio",
+              "CN": "危机合约 - 挑战奖励",
+              "DE": "Krisenschutzvertrag: Herausforderungsbelohnungen",
+              "EN": "Contingency Contract: Challenge Rewards",
+              "FR": "Contrat de crise : récompenses de défi",
+              "ID": "Kontrak Kontingensi: Imbalan Tantangan",
+              "IT": "Contratto di emergenza: ricompense delle sfide",
+              "JP": "危機契約 - 挑戦報酬",
+              "KR": "위기 협약 - 도전 보상",
+              "MX": "Contrato de contingencia: Recompensas del desafío",
+              "RU": "Чрезвычайный контракт: награда за испытание",
+              "TC": "危機合約 - 挑戰獎勵",
+              "TH": "สัญญา​ฉุกเฉิน​: รางวัล​ท้าทาย",
+              "VN": "Hợp Đồng Điều Kiện: Phần Thưởng Thử Thách"
             }
           }
         ]
@@ -70,93 +166,261 @@
         "dataArray": [
           {
             "desc": {
-              "id": "-5278285916970893688",
-              "text": ""
+              "BR": "Cada Placa de Dados contém informações diferentes sobre os inimigos, incluindo tipo, quantidade e níveis, bem como os Pontos de Batalha correspondentes. Os Pontos de Batalha representam a dificuldade da Placa de Dados no Desafio.",
+              "CN": "每张数据铭牌记录了不同的敌人信息，包括敌人类型、数量、等级。且记录了该铭牌对应的战力点。\n战力点代表该数据铭牌的演算难度。",
+              "DE": "Jede Datenplatte enthält verschiedene Informationen über Gegner, wie z. B. Typ, Menge, Stufe und die entsprechenden Kampfpunkte. Kampfpunkte geben die Schwierigkeit der Datenplatte in der Prüfung an.",
+              "EN": "Each Dataplate contains different data on enemies, including enemy type, quantity, and levels, as well as the corresponding Battle Point(s). Battle Points represent the difficulty of the Dataplate in the Trial.",
+              "FR": "Chaque plaque de données contient différentes données sur les ennemis, comme le type d'ennemi, la quantité, le niveau ainsi que le(s) point(s) de combat correspondant(s). Les points de combat représentent la difficulté de la plaque de données dans l'épreuve.",
+              "ID": "Setiap Pelat Data berisi data yang berbeda tentang musuh, termasuk tipe, jumlah, dan level musuh, juga Poin Tarung terkaitnya. Poin Tarung menunjukkan tingkat kesulitan Pelat Data dalam Uji Coba.",
+              "IT": "Ogni scheda dati contiene varie informazioni sui nemici, tra cui il tipo, la quantità e i livelli, nonché i corrispondenti punti battaglia, che rappresentano la difficoltà della scheda dati nella prova.",
+              "JP": "カードには敵の種類、数量、レベルなどのさまざまな情報や、そのカードの対応する戦力ポイントが記録されています。\n戦力ポイントはそのカードの演算難易度を表しています。",
+              "KR": "각 데이터 플레이트에는 서로 다른 적의 정보가 기록되어 있으며, 적 유형, 수량, 레벨이 포함됩니다. 또한 각 플레이트에 대응하는 전투력 포인트도 함께 기록됩니다.\n전투력 포인트는 해당 데이터 플레이트의 연산 난도를 나타냅니다.",
+              "MX": "Cada Placa de datos contiene información distinta sobre los enemigos, incluido el tipo de enemigo, la cantidad y los niveles, así como los Punto(s) de batalla correspondiente(s). Los Puntos de batalla representan la dificultad de la Placa de datos en la prueba.",
+              "RU": "Каждая инфопластина содержит различные данные о врагах, включая их тип, количество и уровни, а также соответствующие боевые очки, которые отражают сложность инфопластины в испытании.",
+              "TC": "每張資料銘牌記錄了不同的敵人資訊，包括敵人類型、數量、等級。且記錄了該銘牌對應的戰力點。\n戰力點代表該資料銘牌的演算難度。",
+              "TH": "แผ่น​ข้อมูล​แต่ละ​แผ่น​จะ​มี​ข้อมูล​ศัตรู​ต่างกัน​ รวมถึง​ประเภท​ จำนวน​ และ​เล​เวล​ของ​ศัตรู​ ตลอดจน​คะแนน​การต่อสู้​ด้วย​ คะแนน​การต่อสู้​จะ​แสดงถึง​ความ​ยาก​ของ​แผ่น​ข้อมูล​ใน​การทด​สอบ",
+              "VN": "Mỗi Phiến Dữ Liệu chứa những thông tin khác nhau về kẻ địch, bao gồm loại địch, số lượng, cấp độ, cũng như Điểm Chiến Đấu tương ứng. Điểm Chiến Đấu thể hiện độ khó của Phiến Dữ Liệu đó trong Khảo Nghiệm."
             },
             "id": "simulation_training",
             "imagePath": "Guide/guide_pic_simulation_training_enhance_6",
             "pageIndex": 1,
             "title": {
-              "id": "-420304502401551740",
-              "text": ""
+              "BR": "Desafio de Espadomancia: Placa de Dados e Ponto de Batalha",
+              "CN": "选剑演武 - 数据铭牌与战力点",
+              "DE": "Prüfung der Schwertkunst: Datenplatte und Kampfpunkt",
+              "EN": "Trial of Swordmancy: Dataplate and Battle Point",
+              "FR": "Épreuve de spadamancie : plaque de données et point de combat",
+              "ID": "Ujian Ilmu Pedang: Pelat Data dan Poin Tarung",
+              "IT": "Prova di Spadamanzia: scheda dati e punti battaglia",
+              "JP": "選剣演武 - データカードと戦力ポイント",
+              "KR": "선검 연무 - 데이터 플레이트와 전투력 포인트",
+              "MX": "Prueba del Arte de la espada: Placa de datos y Punto de batalla",
+              "RU": "Испытание меча: инфопластина и боевые очки",
+              "TC": "選劍演武 - 資料銘牌與戰力點",
+              "TH": "บท​ทดสอบ​แห่ง​วิชาดา​บ​: แผ่น​ข้อมูล​และ​คะแนน​การต่อสู้",
+              "VN": "Khảo Nghiệm Kiếm Thuật: Phiến Dữ Liệu và Điểm Chiến Đấu"
             }
           },
           {
             "desc": {
-              "id": "-6550066051422892703",
-              "text": ""
+              "BR": "Antes de começar o desafio, você pode retirar várias Placas de Dados. A soma dos Pontos de Batalha das Placas de Dados que você retirou determina a quantidade de recompensas obtidas pela conclusão bem-sucedida do Desafio.",
+              "CN": "挑战开始前，可抽取多张数据铭牌。\n已抽取铭牌的战力点之和，决定了当局演算成功后可获得的演算奖励。",
+              "DE": "Bevor du die Herausforderung startest, kannst du mehrere Datenplatten ziehen. Die Summe der Kampfpunkte der von dir gezogenen Datenplatten bestimmt die Anzahl der Belohnungen, die du nach einem erfolgreichen Abschluss der Prüfung erhältst.",
+              "EN": "Before starting the challenge, you can draw multiple Dataplates. The sum of Battle Points of the Dataplates you draw determines the amount of rewards earned by successfully completing the Trial.",
+              "FR": "Avant de commencer le défi, vous pouvez tirer plusieurs plaques de données. La somme des points de combat de ces plaques détermine la quantité de récompenses que vous obtiendrez en menant le défi à bien.",
+              "ID": "Sebelum memulai tantangan, kamu bisa mengambil beberapa Pelat Data. Jumlah Poin Tarung dari Pelat Data yang diambil akan menentukan jumlah imbalan yang diperoleh setelah berhasil menyelesaikan Uji Coba.",
+              "IT": "Prima di iniziare la sfida, puoi pescare varie schede dati. La somma dei punti battaglia delle schede dati pescate determina il numero di ricompense che ottieni se superi la prova.",
+              "JP": "演算開始前に複数のデータカードを引けます。\nカードの戦力ポイント合計に応じて、成功時の演算報酬が決定されます。",
+              "KR": "도전 시작 전, 여러 장의 데이터 플레이트를 뽑을 수 있습니다.\n뽑은 플레이트의 전투력 포인트 합계에 따라 해당 연산을 성공했을 때 획득할 수 있는 연산 보상이 결정됩니다.",
+              "MX": "Antes de comenzar el desafío, puedes extraer varias Placas de datos. La suma de los Puntos de batalla de las Placas de datos que extraigas determina la cantidad de recompensas obtenidas al completar con éxito la prueba.",
+              "RU": "Перед тем как начать испытание, вы можете вытянуть несколько инфопластин. Сумма боевых очков вытянутых инфопластин определяет размер наград, которые вы получите за успешное прохождение испытания.",
+              "TC": "挑戰開始前，可抽取多張資料銘牌。\n已抽取銘牌的戰力點之和，決定了當局演算成功後可獲得的演算獎勵。",
+              "TH": "ก่อน​เริ่ม​การ​ท้าทาย​ คุณ​สามารถ​เปิด​แผ่น​ข้อมูล​ได้​หลาย​แผ่น​ ผลรวม​คะแนน​การต่อสู้​ของ​แผ่น​ข้อมูล​ที่​คุณ​เปิด​จะ​เป็นตัว​กำหนด​จำนวน​ของรางวัล​ที่​ได้รับ​เมื่อ​ผ่าน​การทดลอง​ให้​สำเร็จ",
+              "VN": "Trước khi bắt đầu thử thách, bạn có thể rút nhiều Phiến Dữ Liệu. Tổng Điểm Chiến Đấu của các Phiến Dữ Liệu đã rút sẽ quyết định lượng phần thưởng nhận được khi vượt qua Khảo Nghiệm."
             },
             "id": "simulation_training",
             "imagePath": "Guide/guide_pic_simulation_training_enhance_1",
             "pageIndex": 2,
             "title": {
-              "id": "-3079676163223011670",
-              "text": ""
+              "BR": "Desafio de Espadomancia: Recompensas",
+              "CN": "选剑演武 - 演算奖励",
+              "DE": "Prüfung der Schwertkunst: Belohnungen",
+              "EN": "Trial of Swordmancy: Rewards",
+              "FR": "Épreuve de spadamancie : récompenses",
+              "ID": "Ujian Ilmu Pedang: Imbalan",
+              "IT": "Prova di Spadamanzia: ricompense",
+              "JP": "選剣演武 - 演算報酬",
+              "KR": "선검 연무 - 연산 보상",
+              "MX": "Prueba del Arte de la espada: Recompensas",
+              "RU": "Испытание меча: награды",
+              "TC": "選劍演武 - 演算獎勵",
+              "TH": "บท​ทดสอบ​แห่ง​วิชาดา​บ​: รางวัล",
+              "VN": "Khảo Nghiệm Kiếm Thuật: Phần Thưởng"
             }
           },
           {
             "desc": {
-              "id": "-1425999172583082116",
-              "text": ""
+              "BR": "O estouro de dados ocorre quando o total de Pontos de Batalha ultrapassa 10. Isso reduz a quantidade de recompensas do Desafio e o torna mais difícil. Faça suas retiradas com cuidado para evitar estouros de dados.",
+              "CN": "当战力点之和超过10点时，会导致数据溢出。\n演算奖励回滚，挑战难度增加。\n请谨慎抽取铭牌，避免数据溢出。",
+              "DE": "Der Daten-Überfluss tritt ein, wenn die gesamten Kampfpunkte 10 überschreiten. Dadurch werden die Anzahl der Prüfungsbelohnungen verringert und die Prüfung erschwert. Gehe überlegt beim Ziehen vor, um einen Daten-Überfluss zu vermeiden.",
+              "EN": "Data Overflow happens when the total Battle Points go over 10. This lowers the amount of Trial rewards and makes the Trial more difficult. Make your draws carefully to avoid Data Overflow.",
+              "FR": "L'excès de données survient lorsque le total de points de combat dépasse 10. Cela réduit la quantité de récompenses d'épreuve et en augmente le niveau de difficulté. Procédez à vos tirages avec précaution pour éviter les excès de données.",
+              "ID": "Luapan Data terjadi saat total Poin Tarung lebih dari 10. Hal ini akan mengurangi jumlah imbalan Uji Coba dan membuat Uji Coba menjadi lebih sulit. Lakukan pengambilan dengan hati-hati untuk mencegah Luapan Data.",
+              "IT": "Si parla di eccesso di dati quando i punti battaglia totali sono più di 10. In questo caso il numero di ricompense della prova diminuisce e la difficoltà aumenta. Quando peschi, cerca di evitare l'eccesso di dati.",
+              "JP": "戦力ポイントの合計が10を超えるとオーバーフローが発生します。\nその場合、演算報酬がロールバックされ、挑戦の難易度が増加します。\nオーバーフローにならないよう、カードを引く際にご注意ください。",
+              "KR": "전투력 포인트 합계가 10포인트를 초과하면 데이터 오버플로가 발생합니다.\n연산 보상은 초기화되며, 도전 난도가 상승합니다.\n플레이트를 뽑을 때는 신중하게 선택하여 데이터 오버플로를 피해야 합니다.",
+              "MX": "El Desbordamiento de datos ocurre cuando el total de Puntos de batalla supera 10. Esto reduce la cantidad de recompensas de la prueba y hace que la prueba sea más difícil. Haz tus tiradas con cuidado para evitar el Desbordamiento de datos.",
+              "RU": "Переполнение данных происходит, когда общая сумма боевых очков превышает 10. При этом размер наград за испытание уменьшается, а его сложность повышается. Будьте внимательны при вытягивании пластин, чтобы избежать переполнения данных.",
+              "TC": "當戰力點之和超過10點時，會導致資料過載。\n演算獎勵回退，挑戰難度增加。\n請謹慎抽取銘牌，避免資料過載。",
+              "TH": "ข้อมูล​ล้น​ระบบ​จะ​เกิดขึ้น​เมื่อ​คะแนน​การต่อสู้​รวม​แล้ว​เกิน​ 10 คะแนน​ ซึ่ง​จะ​ลด​จำนวน​รางวัล​การทดลอง​และ​ทำให้​ทดลอง​ยาก​ขึ้น​ เลือก​เปิด​ให้​ดี​เพื่อ​หลีกเลี่ยง​ข้อมูล​ล้น​ระบบ",
+              "VN": "Tràn Dữ Liệu sẽ xảy ra khi tổng Điểm Chiến Đấu vượt quá 10. Điều này sẽ làm giảm phần thưởng Khảo Nghiệm, đồng thời gia tăng độ khó của Khảo Nghiệm. Hãy cân nhắc kỹ khi rút để tránh gây ra Tràn Dữ Liệu."
             },
             "id": "simulation_training",
             "imagePath": "Guide/guide_pic_simulation_training_enhance_2",
             "pageIndex": 3,
             "title": {
-              "id": "6999113821698805110",
-              "text": ""
+              "BR": "Desafio de Espadomancia: Estouro de Dados",
+              "CN": "选剑演武 - 数据溢出",
+              "DE": "Prüfung der Schwertkunst: Daten-Überfluss",
+              "EN": "Trial of Swordmancy: Data Overflow",
+              "FR": "Épreuve de spadamancie : excès de données",
+              "ID": "Ujian Ilmu Pedang: Luapan Data",
+              "IT": "Prova di Spadamanzia: eccesso di dati",
+              "JP": "選剣演武 - データのオーバーフロー",
+              "KR": "선검 연무 - 데이터 오버플로",
+              "MX": "Prueba del Arte de la espada: Desbordamiento de datos",
+              "RU": "Испытание меча: переполнение данных",
+              "TC": "選劍演武 - 資料過載",
+              "TH": "บท​ทดสอบ​แห่ง​วิชาดา​บ​: ข้อมูล​ล้น​ระบบ",
+              "VN": "Khảo Nghiệm Kiếm Thuật: Tràn Dữ Liệu"
             }
           },
           {
             "desc": {
-              "id": "4259131301062188532",
-              "text": ""
+              "BR": "Você pode ativar a opção de <@gd.key>Recompensas Dobradas</> antes de fazer a terceira retirada de Placa de dados. Ativar essa funcionalidade e concluir o Desafio com sucesso dobrará as recompensas do Desafio que foram ganhas. \nVocê tem direito a <@gd.key>3</> tentativas de Abandonar por dia para desistir da(s) retirada(s) atual(is). Escolher Abandonar após esgotar as tentativas de abandono diárias <@gd.key>deduzirá uma tentativa de Desafio com Recompensas em seu lugar.</>",
+              "CN": "在抽取第三张数据铭牌前，可以开启<@gd.key>奖励翻倍</>。开启后若挑战成功，本局演算会获得双倍奖励。\n每日仅有<@gd.key>3次</>机会可以放弃当前抽取结果。若放弃次数耗尽后仍继续放弃，将<@gd.key>会扣除本日奖励演算次数</>。",
+              "DE": "Du kannst die <@gd.key>Belohnungsverdoppelung</> aktivieren, bevor du die dritte Datenplatte ziehst. Nach dem Aktivieren dieser Funktion und dem erfolgreichen Abschließen der Prüfung werden die verdienten Prüfungsbelohnungen verdoppelt. \nDu hast <@gd.key>3</> Ausstiegsversuche pro Tag, um aus deiner/deinen aktuellen Ziehung(en) auszusteigen. Wählst du „Ausstieg“, nachdem alle täglichen Ausstiegsversuche verbraucht wurden, <@gd.key>wird stattdessen ein Belohnungsprüfungsversuch abgezogen.</>",
+              "EN": "You can activate <@gd.key>Rewards Doubling</> before drawing the third Dataplate. Activating this feature and successfully completing the Trial will double the Trial rewards earned. \nYou have <@gd.key>3</> Abandon attempts per day to abandon your current draw(s). Choosing to Abandon after using up the daily Abandon attempts will <@gd.key>deduct a Rewarded Trial attempt instead</>.",
+              "FR": "Vous pouvez activer le <@gd.key>doublement des récompenses</> avant de tirer la troisième plaque de données. En activant cette fonction et en terminant l'épreuve, vous obtiendrez le double de récompenses d'épreuve. \nVous disposez de <@gd.key>3</> tentatives d'abandon quotidiennes pour abandonner votre tirage en cours. Si vous tentez d'abandonner une nouvelle fois après avoir utilisé toutes vos tentatives d'abandon quotidiennes, cela <@gd.key>consommera à la place une tentative d'épreuve récompensée</>.",
+              "ID": "Kamu bisa mengaktifkan <@gd.key>Penggandaan Imbalan</> sebelum mengambil Pelat Data yang ketiga. Jika fitur ini aktif dan Ujian berhasil diselesaikan, imbalan Ujian yang didapatkan akan digandakan. \nKamu punya <@gd.key>3</> upaya Tinggalkan per hari untuk meninggalkan pengambilan saat ini. Jika Tinggalkan dilakukan setelah upaya Tinggalkan harian habis, <@gd.key>upaya Ujian Berimbalan akan berkurang satu</>.",
+              "IT": "Puoi attivare il <@gd.key>raddoppio delle ricompense</> prima di pescare la terza scheda dati. Se superi la prova con quest'opzione attiva, otterrai il doppio di ricompense. \nHai <@gd.key>3</> tentativi di abbandono giornalieri per abbandonare una o più pesche in corso. Se sceglierai di abbandonare dopo aver esaurito i tentativi di abbandono giornalieri, <@gd.key>al loro posto verrà consumato un tentativo di prova con ricompensa</>.",
+              "JP": "3枚目のデータカードを引く前に、<@gd.key>報酬2倍</>を有効にすることができます。有効化後、挑戦に成功すると、演算で獲得できる報酬が2倍になります。\n1日に<@gd.key>3回</>まで手持ちのカードを破棄できます。破棄可能回数がなくなったあとも破棄をする場合、<@gd.key>本日の報酬演算回数が減少します</>。",
+              "KR": "세 번째 데이터 플레이트를 뽑기 전에는 <@gd.key>보상 2배</>를 활성화할 수 있습니다. 활성화한 뒤 도전에 성공하면, 해당 연산에서 2배의 보상을 획득합니다.\n매일 현재 뽑기 결과를 포기할 수 있는 기회는 <@gd.key>3회</>로 제한됩니다. 포기 횟수를 모두 소진한 후에도 포기할 경우, <@gd.key>당일 보상 연산 횟수가 차감됩니다</>.",
+              "MX": "Puedes activar las <@gd.key>Recompensas dobles</> antes de extraer la tercera Placa de datos. Activar esta función y completar con éxito la prueba duplicará las recompensas de la prueba obtenidas. \nTienes <@gd.key>3</> intentos de Abandono por día para abandonar tu(s) tirada(s) actual(es). Elegir Abandonar después de agotar los intentos de Abandono diarios <@gd.key>deducirá un intento de Prueba con recompensas en su lugar.</>",
+              "RU": "Вы можете активировать <@gd.key>удвоение наград</> до вытягивания третьей инфопластины. Тогда в случае успешного прохождения испытания вы получите удвоенные награды.\nЕжедневно у вас есть <@gd.key>3</> попытки отказа. После этого каждый отказ будет <@gd.key>стоить вам одной попытки испытания с наградой</>.",
+              "TC": "在抽取第三張資料銘牌前，可以開啟<@gd.key>獎勵翻倍</>。開啟後若挑戰成功，本局演算會獲得雙倍獎勵。\n每日僅有<@gd.key>3次</>機會可以放棄當下抽取結果。若放棄次數耗盡後仍繼續放棄，將<@gd.key>會扣除本日獎勵演算次數</>。",
+              "TH": "คุณ​สามารถ​เปิด​ใช้งาน​ <@gd.key>​การ​เพิ่ม​รางวัล​สองเท่า​</> ก่อน​การ​เปิด​แผ่น​ข้อมูล​ครั้ง​ที่สาม​ได้​ เปิด​ใช้งาน​ฟีเจอร์​นี้​แล้ว​ทำการ​ทดสอบ​สำเร็จ​จะ​ได้รับ​รางวัล​การทด​สอบ​สองเท่า​ \nคุณมี​จำนวน​ครั้ง​การละทิ้ง​ <@gd.key>3</> ครั้ง​ต่อ​วัน​ เพื่อ​ละทิ้ง​การ​สุ่ม​ปัจจุบัน​ของ​คุณ​ การ​เลือก​ละทิ้ง​หลังจาก​จำนวน​ครั้ง​การละทิ้ง​ต่อ​วัน​หมด​แล้ว​ <@gd.key>​จะ​ไป​ลด​จำนวน​ครั้ง​ การทด​สอบ​ที่​ได้รับ​ แทน​</>",
+              "VN": "Bạn có thể kích hoạt <@gd.key>Lượt Nhân Đôi Phần Thưởng</> trước khi rút Phiến Dữ Liệu thứ ba. Kích hoạt tính năng này và hoàn thành Khảo Nghiệm thành công sẽ nhân đôi phần thưởng Khảo Nghiệm nhận được. \nMỗi ngày bạn có <@gd.key>3</> lượt Bỏ để hủy lượt rút hiện tại. Nếu chọn Bỏ sau khi đã dùng hết lượt Bỏ hằng ngày, hệ thống sẽ <@gd.key>trừ một lượt Khảo Nghiệm Thưởng</>."
             },
             "id": "simulation_training",
             "imagePath": "Guide/guide_pic_simulation_training_enhance_3",
             "pageIndex": 4,
             "title": {
-              "id": "-1388237111343444978",
-              "text": ""
+              "BR": "Desafio de Espadomancia: Recompensas Dobradas e Abandono",
+              "CN": "选剑演武 -奖励翻倍与放弃",
+              "DE": "Prüfung der Schwertkunst: Belohnungsverdoppelung und Ausstieg",
+              "EN": "Trial of Swordmancy: Rewards Doubling & Abandon",
+              "FR": "Épreuve de spadamancie : doublement des récompenses et abandon",
+              "ID": "Ujian Ilmu Pedang: Penggandaan Imbalan & Pengabaian",
+              "IT": "Prova di Spadamanzia: ricompense raddoppiate e abbandono",
+              "JP": "選剣演武 - 報酬2倍とカードの破棄",
+              "KR": "선검 연무 - 보상 2배 및 포기",
+              "MX": "Prueba del Arte de la espada: Recompensas dobles y Abandonar",
+              "RU": "Испытание меча: удвоение наград и отказ",
+              "TC": "選劍演武 - 獎勵翻倍與放棄",
+              "TH": "บท​ทดสอบ​แห่ง​วิชาดา​บ​: การ​เพิ่ม​รางวัล​สองเท่า​และ​การละทิ้ง",
+              "VN": "Khảo Nghiệm Kiếm Thuật: Lượt Nhân Đôi Phần Thưởng & Từ Bỏ"
             }
           },
           {
             "desc": {
-              "id": "-4905245075050480791",
-              "text": ""
+              "BR": "O baralho de Placas de Dados inclui Placas de Dados com 1 a 5 Pontos de Batalha. O lado direito da tela mostra o número de Placas de Dados no baralho para ajudar você a acompanhar o número de Placas de Dados restantes no baralho enquanto faz suas retiradas.",
+              "CN": "铭牌库由1~5战力点的数据铭牌构成，可在界面右侧查看铭牌数量。\n在抽取过程中可随时查看牌库剩余，得知牌库剩余铭牌情况。",
+              "DE": "Der Datenplatten-Stapel enthält Datenplatten mit 1 bis 5 Kampfpunkten. Auf der rechten Seite des Bildschirms siehst du die Anzahl der Datenplatten in dem Stapel, damit du beim Ziehen einen Überblick darüber hast, wie viele Datenplatten darin noch übrig sind.",
+              "EN": "The Dataplate deck includes Dataplates with 1 to 5 Battle Points. The right side of the screen shows the number of Dataplates in the deck to keep track of Dataplates left in the deck while drawing.",
+              "FR": "Le jeu de plaques de données comprend des plaques de données dotées de 1 à 5 points de combat. À droite de l'écran, vous retrouverez la quantité de plaques de données dans le jeu, ce qui vous permettra de suivre la quantité de plaques restantes lors du tirage.",
+              "ID": "Dek Pelat Data berisi Pelat Data dengan 1 hingga 5 Poin Tarung. Sisi kanan layar menunjukkan jumlah Pelat Data di dek untuk memantau sisa Pelat Data dalam dek saat melakukan pengambilan.",
+              "IT": "Il mazzo contiene schede dati che hanno da 1 a 5 punti battaglia. Il lato destro della schermata mostra il numero di schede dati nel mazzo, così da tenere traccia di quante schede dati sono rimaste mentre peschi.",
+              "JP": "山札は1～5戦力ポイントのデータカードで構成されており、右側からカードの数量を確認できます。\n画面上では、山札の残り枚数と内訳をいつでも確認できます。",
+              "KR": "플레이트 덱은 전투력 포인트 1~5의 데이터 플레이트로 구성되며, 화면 오른쪽에서 플레이트 수량을 확인할 수 있습니다.\n뽑기 진행 중에도 언제든지 남은 플레이트 덱을 확인하여, 플레이트 덱에 남아 있는 플레이트 상황을 파악할 수 있습니다.",
+              "MX": "El mazo de Placas de datos incluye Placas de datos con 1 a 5 Puntos de batalla. El lado derecho de la pantalla muestra la cantidad de Placas de datos en el mazo para llevar el registro de las Placas de datos restantes mientras se realiza la tirada.",
+              "RU": "Колода инфопластин включает пластины стоимостью от 1 до 5 боевых очков. В правой части экрана указано количество инфопластин в колоде, что позволяет отслеживать число оставшихся пластин при их вытягивании.",
+              "TC": "銘牌庫由1~5戰力點的資料銘牌構成，可在介面右側查看銘牌數量。\n在抽取過程中可隨時查看牌庫，瞭解牌庫剩餘銘牌的情況。",
+              "TH": "สำรับ​แผ่น​ข้อมูล​จะ​มี​แผ่น​ข้อมูล​ที่​มี​คะแนน​การต่อสู้​ 1 ถึง​ 5 คะแนน​ ทางขวา​ของ​หน้าจอ​จะ​แสดง​จำนวน​แผ่น​ข้อมูล​ใน​สำรับ​เพื่อ​ติดตาม​ดู​จำนวน​แผ่น​ข้อมูล​ที่​เหลือ​ใน​สำรับ​ระหว่าง​เปิด",
+              "VN": "Bộ Phiến Dữ Liệu bao gồm các Phiến Dữ Liệu có từ 1 đến 5 Điểm Chiến Đấu. Phía bên phải màn hình hiển thị số lượng Phiến Dữ Liệu hiện có trong bộ, giúp bạn theo dõi số Phiến Dữ Liệu còn lại trong quá trình rút."
             },
             "id": "simulation_training",
             "imagePath": "Guide/guide_pic_simulation_training_enhance_4",
             "pageIndex": 5,
             "title": {
-              "id": "8603693089158422394",
-              "text": ""
+              "BR": "Desafio de Espadomancia: Baralho de Placas de Dados",
+              "CN": "选剑演武 -铭牌库",
+              "DE": "Prüfung der Schwertkunst: Datenplatten-Stapel",
+              "EN": "Trial of Swordmancy: Dataplate Deck",
+              "FR": "Épreuve de spadamancie : jeu de plaques de données",
+              "ID": "Ujian Ilmu Pedang: Dek Pelat Data",
+              "IT": "Prova di Spadamanzia: mazzo delle schede dati",
+              "JP": "選剣演武 - 山札",
+              "KR": "선검 연무 - 플레이트 덱",
+              "MX": "Prueba del Arte de la espada: Mazo de Placas de datos",
+              "RU": "Испытание меча: колода инфопластин",
+              "TC": "選劍演武 - 銘牌庫",
+              "TH": "บท​ทดสอบ​แห่ง​วิชาดา​บ​: สำรับ​แผ่น​ข้อมูล",
+              "VN": "Khảo Nghiệm Kiếm Thuật: Bộ Phiến Dữ Liệu"
             }
           },
           {
             "desc": {
-              "id": "-5796481421802601547",
-              "text": ""
+              "BR": "O baralho de Placas de Dados é reiniciado a cada 3 dias. A reinicialização altera o tamanho do baralho de Placas de Dados e os tipos de inimigos nas placas.",
+              "CN": "铭牌库将每隔三天轮换一次。\n轮换后，数据铭牌的数量以及敌人类型会发生变化。",
+              "DE": "Der Datenplatten-Stapel wird alle drei Tage zurückgesetzt. Durch das Zurücksetzen ändern sich die Größe des Datenplatten-Stapels und die Gegnertypen auf den Datenplatten.",
+              "EN": "The Dataplate deck resets once every 3 days. Resetting changes the size of the Dataplate deck and the enemy types on the Dataplates.",
+              "FR": "Le jeu de plaques de données est réinitialisé tous les 3 jours. La réinitialisation affecte la taille du jeu ainsi que le type d'ennemis des plaques de données.",
+              "ID": "Dek Pelat Data akan direset satu kali setiap 3 hari. Reset akan mengubah ukuran dek Pelat Data dan tipe musuh pada Pelat Data.",
+              "IT": "Il mazzo delle schede dati si aggiorna ogni 3 giorni: cambiano la quantità di schede dati e il tipo di nemici presenti.",
+              "JP": "山札は3日ごとに1回ローテーションします。\n更新後は、カードの数量および敵の種類が変化します。",
+              "KR": "플레이트 덱은 3일마다 한 번씩 교체됩니다.\n교체 후에는 데이터 플레이트의 수량과 적 유형이 변경됩니다.",
+              "MX": "El mazo de Placas de datos se reinicia una vez cada 3 días. Al reiniciarse, cambian el tamaño del mazo de Placas de datos y los tipos de enemigos en las Placas de datos.",
+              "RU": "Колода инфопластин сбрасывается каждые 3 дня. При этом меняется размер колоды и типы врагов на пластинах.",
+              "TC": "銘牌庫將每隔三天輪換一次。\n輪換後，資料銘牌的數量以及敵人類型會發生變化。",
+              "TH": "สำรับ​แผ่น​ข้อมูล​จะ​รีเซ็ต​ทุก​ 3 วัน​ การ​รีเซ็ต​จะ​เปลี่ยน​ขนาด​สำรับ​และ​ประเภท​ศัตรู​บน​แผ่น​ข้อมูล",
+              "VN": "Bộ Phiến Dữ Liệu sẽ được làm mới sau mỗi 3 ngày. Việc làm mới sẽ thay đổi quy mô của Bộ Phiến Dữ Liệu, đồng thời thay đổi cả các loại kẻ địch xuất hiện trên những Phiến Dữ Liệu đó."
             },
             "id": "simulation_training",
             "imagePath": "Guide/guide_pic_simulation_training_enhance_4",
             "pageIndex": 6,
             "title": {
-              "id": "5169215832127400141",
-              "text": ""
+              "BR": "Desafio de Espadomancia: Reinicialização do Baralho",
+              "CN": "选剑演武 - 铭牌库轮换",
+              "DE": "Prüfung der Schwertkunst: Stapel zurücksetzen",
+              "EN": "Trial of Swordmancy: Deck Reset",
+              "FR": "Épreuve de spadamancie : réinitialisation du jeu",
+              "ID": "Ujian Ilmu Pedang: Reset Dek",
+              "IT": "Prova di Spadamanzia: aggiornamento del mazzo",
+              "JP": "選剣演武 - 山札の更新",
+              "KR": "선검 연무 - 플레이트 덱 교체",
+              "MX": "Prueba del Arte de la espada: Reinicio del mazo",
+              "RU": "Испытание меча: сброс колоды",
+              "TC": "選劍演武 - 銘牌庫輪換",
+              "TH": "บท​ทดสอบ​แห่ง​วิชาดา​บ​: รีเซ็ต​สำรับ",
+              "VN": "Khảo Nghiệm Kiếm Thuật: Làm Mới Bộ Phiến Dữ Liệu"
             }
           },
           {
             "desc": {
-              "id": "2755853402841995367",
-              "text": ""
+              "BR": "O Modo de Desafio Livre não impõe limite ao número de tentativas, mas você não ganhará recompensas por concluir nenhum desafio. Após a conclusão de um certo número de Desafios Livres em um dia, os espólios de inimigos no Desafio de Espadomancia serão consideravelmente reduzidos. Esse efeito é reiniciado no dia seguinte.",
+              "CN": "在自由演算模式下，演算次数将不受限制，但演算成功后不会获得任何奖励。\n每日自由演算超过一定次数后，选剑演武挑战中敌人掉落的奖励将大幅减少。该效果将会在次日重置。",
+              "DE": "Im Uneingeschränkten Testmodus gibt es kein Limit für die Anzahl der von dir versuchten Prüfungen, doch nach deren Abschluss erhältst du keine Belohnungen. Nachdem du eine bestimmte Anzahl an Uneingeschränkten Prüfungen an einem Tag abgeschlossen hast, sinkt die Beute von den Gegnern in der Prüfung der Schwertkunst enorm. Dieser Effekt wird am nächsten Tag zurückgesetzt.",
+              "EN": "Free Trial Mode imposes no limit on the number of Trials you attempt, but completing the trial does not give you any rewards. After completing a certain number of Free Trials in a day, enemy drops in the Trial of Swordmancy will be greatly reduced. This effect is reset on the following day.",
+              "FR": "Le mode épreuve illimité vous permet de tenter autant de défis que vous le souhaitez, mais ne vous accorde aucune récompense d'épreuve. Une fois que vous avez réalisé un certain nombre d'épreuves en mode illimité en une journée, le butin des ennemis de l'Épreuve de spadamancie est grandement réduit. Cet effet se réinitialise le lendemain.",
+              "ID": "Mode Uji Coba Bebas tidak akan membatasi jumlah Uji Coba yang kamu coba, tapi kamu tidak akan mendapatkan imbalan apa pun setelah menyelesaikan uji coba tersebut. Setelah menyelesaikan sejumlah Uji Coba Bebas dalam satu hari, drop musuh di Ujian Ilmu Pedang akan berkurang drastis. Efek ini akan direset pada hari berikutnya.",
+              "IT": "La modalità prova libera non pone limiti al numero di tentativi, ma non offre alcuna ricompensa. Dopo aver completato un dato numero di prove libere nello stesso giorno, gli oggetti lasciati dai nemici nella Prova di Spadamanzia diminuiscono notevolmente. Questa penalità termina il giorno successivo.",
+              "JP": "自由演算モードでは演算回数の制限がなく、演算に成功しても報酬がありません。\n毎日一定回数以上自由演算を行うと、選剣演武の敵を倒して入手する報酬が大幅に減少します。この効果は翌日にリセットされます。",
+              "KR": "자유 연산 모드에서는 연산 횟수에 제한이 없지만, 연산에 성공해도 어떠한 보상도 획득할 수 없습니다.\n매일 자유 연산을 일정 횟수 이상 진행하면, 선검 연무 도전에서 적 처치 시 획득하는 보상이 크게 감소합니다. 해당 효과는 다음 날 초기화됩니다.",
+              "MX": "El Modo de prueba libre no impone ningún límite a la cantidad de pruebas que puedes intentar, pero completar la prueba no te otorga ninguna recompensa. Después de completar cierta cantidad de Pruebas libres en un día, las recompensas de enemigos en la Prueba del Arte de la espada se reducirán considerablemente. Este efecto se reinicia al día siguiente.",
+              "RU": "В свободном режиме испытаний количество попыток прохождения не ограничено, но в случае успеха вы не получите награду. После завершения определенного числа свободных испытаний за день добыча с врагов в «Испытании меча» будет значительно уменьшена. Этот эффект сбрасывается на следующий день.",
+              "TC": "在自由演算模式下，演算次數將不受限制，但演算成功後不會獲得任何獎勵。\n每日自由演算超過一定次數後，選劍演武挑戰中敵人掉落的獎勵將大幅減少。該效果將會在次日重置。",
+              "TH": "โหม​ด​ทดลอง​อิสระ​จะ​ไม่จำกัด​จำนวน​ครั้ง​การทด​สอบ​ แต่​การผ่า​น​การทด​สอบ​จะ​ไม่ได้​รับ​ของรางวัล​ใ​ดๆ​ เมื่อ​ผ่าน​การทดลอง​อิสระ​ครบ​ตาม​จำนวน​ที่​กำหนด​ใน​หนึ่ง​วัน​ ไอ​เทม​ดร​อป​จาก​ศัตรู​ใน​บท​ทดสอบ​แห่ง​วิชาดา​บ​จะ​ลดลง​อย่างมาก​ เอฟเฟกต์​นี้​จะ​รี​เซต​ใน​วัน​ต่อไป",
+              "VN": "Chế Độ Khảo Nghiệm Miễn Phí không giới hạn số lần thử, nhưng việc hoàn thành Khảo Nghiệm sẽ không mang lại bất kỳ phần thưởng nào. Sau khi hoàn thành một số lần Khảo Nghiệm Miễn Phí nhất định trong ngày, vật phẩm rơi ra từ kẻ địch trong Khảo Nghiệm Kiếm Thuật sẽ giảm mạnh. Hiệu ứng này sẽ được đặt lại vào ngày hôm sau."
             },
             "id": "simulation_training",
             "imagePath": "Guide/guide_pic_simulation_training_enhance_5",
             "pageIndex": 7,
             "title": {
-              "id": "-8059388218591563643",
-              "text": ""
+              "BR": "Desafio de Espadomancia: Modo de Desafio Livre",
+              "CN": "选剑演武 -自由演算模式",
+              "DE": "Prüfung der Schwertkunst: Uneingeschränkter Testmodus",
+              "EN": "Trial of Swordmancy: Free Trial Mode",
+              "FR": "Épreuve de spadamancie : mode épreuve illimité",
+              "ID": "Ujian Ilmu Pedang: Mode Uji Coba Bebas",
+              "IT": "Prova di Spadamanzia: modalità prova libera",
+              "JP": "選剣演武 - 自由演算モード",
+              "KR": "선검 연무 · 자유 연산 모드",
+              "MX": "Prueba del Arte de la espada: Modo de prueba libre",
+              "RU": "Испытание меча: свободный режим испытаний",
+              "TC": "選劍演武 - 自由演算模式",
+              "TH": "บท​ทดสอบ​แห่ง​วิชาดา​บ​: โหม​ด​ทดลอง​อิสระ",
+              "VN": "Khảo Nghiệm Kiếm Thuật: Chế Độ Khảo Nghiệm Miễn Phí"
             }
           }
         ]

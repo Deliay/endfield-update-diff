@@ -16,8 +16,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_bat_skill",
@@ -26,15 +38,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "4637867739133316699",
-              "text": ""
+              "BR": "Você enfrentou uma tempestade de golpes pesados, cada um capaz de despedaçar a carne mortal, e saiu ileso com grande agilidade.",
+              "CN": "您于沉重的风暴中灵巧移动，与每一道足以撕裂血肉的嘶吼擦身而过。",
+              "DE": "Du hast einem Sturm schwerer Hiebe getrotzt, von dem jeder einzelne es vermag, Fleisch von Sterblichen zu zerfetzen. Dank deiner hervorragenden Beweglichkeit bist du unversehrt geblieben.",
+              "EN": "You faced a storm of heavy blows, each capable of rending mortal flesh to pieces, and you came out unscathed with great agility.",
+              "FR": "Vous avez affronté une pluie de coups violents, chacun capable de mettre un mortel en pièces, et en avez réchappé sans une seule égratignure, avec une grande agilité.",
+              "ID": "Kamu menghadapi rentetan hantaman berat, yang masing-masing mampu menghancurkan tubuh makhluk hidup, tapi kamu berhasil menang tanpa luka sedikit pun berkat kegesitanmu.",
+              "IT": "Hai fronteggiato una tempesta di colpi violenti, capaci di dilaniare la carne di un mortale, ma la tua straordinaria agilità ti ha permesso di uscirne indenne.",
+              "JP": "貴殿は、迫り来る嵐の中を軽やかに駆け、血肉を引き裂く咆哮をかすめて通り過ぎました。",
+              "KR": "당신은 강렬한 폭풍 속에서도 민첩하게 움직이며, 단 하나의 살점을 찢는 비명도 허락하지 않고 모두 비켜 나갔습니다.",
+              "MX": "Te enfrentaste a una tormenta de golpes brutales, cada uno capaz de desgarrar la carne mortal en pedazos, y saliste ileso gracias a tu gran agilidad.",
+              "RU": "На вас обрушился град страшных ударов, каждый из которых мог бы стать смертельным, но благодаря невероятной ловкости вы вышли из боя без единой царапины.",
+              "TC": "您於沉重的風暴中靈巧移動，與每一道足以撕裂血肉的嘶吼擦身而過。",
+              "TH": "คุณ​เผชิญ​กับ​พายุ​แห่ง​การ​โจมตี​หนักหน่วง​ แต่ละครั้ง​สามารถ​ฉีก​ร่างกาย​ได้​เป็น​ชิ้​นๆ​ แต่​คุณ​กลับ​รอด​ออกมา​โดย​ไม่มี​รอยขีดข่วน​ ด้วย​ความคล่องแคล่ว​อัน​เหนือ​ชั้น",
+              "VN": "Bạn đã đương đầu với cơn mưa đòn nặng nề, mỗi đòn đều đủ sức xé nát phàm thân, mà không mảy may một vết xước nhờ sự nhanh nhẹn."
             },
             "conditions": [
               {
                 "conditionId": "achv_bat_defeat_dodge_jzogre_2_cond_1",
                 "desc": {
-                  "id": "-4140323259537539575",
-                  "text": ""
+                  "BR": "O operador controlado sofre zero DNO e executa pelo menos 5 desvios perfeitos contra o ataque giratório da Besta Mutiladora Encouraçada",
+                  "CN": "在披甲裂兽的九连旋转攻击中，主控干员极限闪避5次以上攻击，且在此攻击全程中未受到伤害",
+                  "DE": "Der gesteuerte Operator erleidet keinen SDN und weicht dem Wirbelangriff der Gepanzerten Fetzbestie mindestens 5-mal perfekt aus.",
+                  "EN": "The controlled operator suffers zero DMG and performs at least 5 perfect dodges against the spinning attack of the Armored Manglerbeast",
+                  "FR": "L'opérateur contrôlé ne subit aucun dégât et réalise au moins 5 esquives parfaites lors de l'attaque tournoyante de l'ours à dents de sabre cuirassé",
+                  "ID": "Operator terkontrol tidak akan terkena DMG, dan melancarkan sedikitnya 5 hindaran sempurna melawan serangan berputar dari Manglerbeast Berarmor",
+                  "IT": "L'operatore controllato non subisce danni ed esegue almeno 5 schivate perfette contro l'attacco rotante dell'orso dai denti a sciabola corazzato.",
+                  "JP": "鎧裂獣の九連旋回攻撃中、操作中のオペレーターがその攻撃に対してジャスト回避を5回以上成功させ、かつその間ダメージを受けない",
+                  "KR": "무장 맹글러가 9연속 회전 공격을 할 때, 메인 컨트롤 오퍼레이터가 5회 이상 극한 회피하고 전체 공격 과정에서 피해 입지 않기",
+                  "MX": "El operador controlado recibe cero DAÑ y realiza al menos 5 esquivas perfectas contra el ataque giratorio de la Bestia mutiladora acorazada",
+                  "RU": "Управляемый оперативник избегает урона и выполняет не менее 5 идеальных уклонений от круговой атаки бронированного саблезубого зверя",
+                  "TC": "在披甲裂獸的九連旋轉攻擊中，主控幹員極限閃避5次以上攻擊，且在此攻擊全程中未受到傷害",
+                  "TH": "โอเปอเรเตอร์​ที่​ควบคุม​รับ​ DMG เป็น​ศูนย์​และ​หลบหลีก​ไร้​ที่​ติ​อย่างน้อย​ 5 ครั้ง​จาก​การ​โจมตี​หมุน​ของ​แมง​เกลอ​ร์​บี​ส​ต์​หุ้ม​เกราะ",
+                  "VN": "Cán viên đang điều khiển không bị dính ST và thực hiện ít nhất 5 lần né chuẩn xác trước đòn tấn công xoay vòng của Gấu Nanh Dài Thiết Giáp"
                 },
                 "progressToCompare": 1
               }
@@ -42,8 +78,20 @@
           }
         },
         "name": {
-          "id": "7028979545395808858",
-          "text": ""
+          "BR": "\"Tecelão de Tempestades\"",
+          "CN": "“穿风以行”",
+          "DE": "„Sturmweber“",
+          "EN": "\"Gale Weaver\"",
+          "FR": "« Tisse-tempête »",
+          "ID": "“Perajut Angin”",
+          "IT": "\"Burrasca domata\"",
+          "JP": "「風を裂いて進む者」",
+          "KR": "'바람을 가르며'",
+          "MX": "“Tejedor de vendavales”",
+          "RU": "Ткач урагана",
+          "TC": "「穿風以行」",
+          "TH": "\"ผู้​ถัก​ทอ​พายุ​\"",
+          "VN": "\"Chúa Tể Cuồng Phong\""
         },
         "order": 19,
         "plateConditions": [],
@@ -55,8 +103,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_adv_wuling",
@@ -65,15 +125,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "-8302761252684947089",
-              "text": ""
+              "BR": "Você abriu a maioria dos caixotes de armazenamento em Wuling.",
+              "CN": "您已开启了武陵的大部分储藏箱。",
+              "DE": "Du hast die meisten Vorratskisten in Wuling geöffnet.",
+              "EN": "You have opened most storage crates in Wuling.",
+              "FR": "Vous avez ouvert la plupart des caisses de stockage de la ville de Wuling.",
+              "ID": "Kamu berhasil membuka sebagian besar kerat penyimpanan di Wuling.",
+              "IT": "Hai aperto molte casse di contenimento a Wuling.",
+              "JP": "武陵の多くの資源箱を開けました。",
+              "KR": "무릉 대부분의 보물 상자를 열었습니다.",
+              "MX": "Has abierto la mayoría de las cajas de almacenamiento en Wuling.",
+              "RU": "Вы открыли почти все ящики ресурсов в Улине.",
+              "TC": "您已開啟了武陵的大部分儲藏箱。",
+              "TH": "คุณ​ได้​เปิด​ลัง​เก็บของ​ส่วนใหญ่​ใน​อู่​หลิง​แล้ว",
+              "VN": "Bạn đã mở hầu hết thùng lưu trữ ở Võ Lăng."
             },
             "conditions": [
               {
                 "conditionId": "achv_adv_wuling_box_2_2_cond_1",
                 "desc": {
-                  "id": "-7910826341729096350",
-                  "text": ""
+                  "BR": "Em Paliçada de Qingbo, Pedra de Marcação, Interiores da Pedra de Marcação e Área de Testes, abra 121 caixotes de armazenamento",
+                  "CN": "于清波寨、首墩、首墩内部和试验园区开启121个储藏箱",
+                  "DE": "Öffne in den folgenden Bereichen 121 Vorratskisten: Qingbo-Palisade, Grenzstein, Inneres des Grenzsteins und Testzone.",
+                  "EN": "In Qingbo Stockade, Marker Stone, Marker Stone Interiors, and Test Area, open 121 storage crates",
+                  "FR": "Ouvrir 121 caisses de stockage à la palanque de Qingbo, la Pierre de marquage, l'intérieur de la Pierre de marquage et la zone de test",
+                  "ID": "Di Kampung Benteng Qingbo, Batu Penanda, Bagian Dalam Batu Penanda, dan Area Uji Coba, buka 121 kerat penyimpanan",
+                  "IT": "Apri 121 casse di contenimento nella Palizzata di Qingbo, alla pietra di demarcazione, all'interno della pietra di demarcazione e nell'Area dei test.",
+                  "JP": "清波砦、首礎、首礎内部と実験区域で資源箱を121個開ける",
+                  "KR": "청파채, 수돈, 수돈 내부와 실험 구역에서 보물 상자 121개 개방",
+                  "MX": "En la Empalizada de Qingbo, la Piedra Marcadora, Piedra Marcadora: interior y el Área de pruebas, abre 121 cajas de almacenamiento",
+                  "RU": "Откройте 121 ящик ресурсов в следующих областях: лагерь Циньбо, Межевой камень, внутренняя часть Межевого камня, область испытаний",
+                  "TC": "於清波寨、首墩、首墩內部和實驗園區開啟121個儲藏箱",
+                  "TH": "ใน​ค่าย​ชิง​ป๋อ​, หิน​นำทาง​, ด้านใน​หิน​นำทาง​ และ​เขต​ทดสอบ​ เปิด​ลัง​เก็บของ​ 121 ลัง",
+                  "VN": "Tại Trại Thanh Ba, Đá Ranh Giới, Nội Khu Đá Ranh Giới và Khu Thử Nghiệm, mở 121 thùng lưu trữ"
                 },
                 "progressToCompare": 121
               }
@@ -81,8 +165,20 @@
           }
         },
         "name": {
-          "id": "-3467417054633293879",
-          "text": ""
+          "BR": "Mestre dos Caixotes de Wuling II",
+          "CN": "武陵储藏家奖章·Ⅱ\n",
+          "DE": "Wuling-Kisten-Koryphäe II",
+          "EN": "Wuling Crate Master Ⅱ",
+          "FR": "Virtuose des caisses de Wuling II",
+          "ID": "Pembuka Kerat Wuling ⅠI",
+          "IT": "Rompicasse di Wuling Ⅱ",
+          "JP": "武陵資源勲章Ⅱ",
+          "KR": "무릉 수집가 훈장 II",
+          "MX": "Cajas abiertas en Wuling II",
+          "RU": "Спец по ящикам Улина II",
+          "TC": "武陵儲藏家獎章·II",
+          "TH": "เจ้า​แห่ง​ลัง​อู่​หลิง​ II",
+          "VN": "Chuyên Gia Thùng Hàng Võ Lăng II"
         },
         "order": 10,
         "plateConditions": [],
@@ -94,8 +190,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_adv_wuling",
@@ -104,15 +212,39 @@
           "1": {
             "achieveLevel": 1,
             "completeDesc": {
-              "id": "4806789797119428067",
-              "text": ""
+              "BR": "Você despertou ainda mais a Rede de Protocolos de Wuling.",
+              "CN": "您已进一步唤醒了武陵的协议网络。",
+              "DE": "Du hast das Protokoll-Netzwerk von Wuling weiter zum Leben erweckt.",
+              "EN": "You have further awakened the Protocol Network of Wuling.",
+              "FR": "Vous avez éveillé davantage le réseau du Protocole à Wuling.",
+              "ID": "Kamu berhasil membangkitkan kembali Jaringan Protokol di Wuling.",
+              "IT": "Hai risvegliato ulteriormente la rete protocollare di Wuling.",
+              "JP": "武陵の協約ネットワークをさらに構築しました。",
+              "KR": "무릉의 프로토콜 네트워크를 한층 더 발전시켰습니다.",
+              "MX": "Has despertado aún más la Red de protocolo de Wuling.",
+              "RU": "Вы продолжаете прогресс пробуждения протокольной сети в Улине.",
+              "TC": "您已進一步喚醒了武陵的協議網路。",
+              "TH": "คุณ​ได้​ปลุก​การทำงาน​ของ​เครือข่าย​โปร​โต​คอล​แห่ง​อู่​หลิง​ขึ้น​อีก​ขั้น",
+              "VN": "Bạn đã kích hoạt thêm Mạng Lưới Giao Thức của Võ Lăng."
             },
             "conditions": [
               {
                 "conditionId": "achv_adv_wuling_campfire_2_1_cond_1",
                 "desc": {
-                  "id": "-7670054139039915249",
-                  "text": ""
+                  "BR": "Em Paliçada de Qingbo, Pedra de Marcação, Interiores da Pedra de Marcação e Área de Testes, desbloqueie 19 Pontos de TP",
+                  "CN": "于清波寨、首墩、首墩内部和试验园区解锁19个协议传送点",
+                  "DE": "Schalte in Qingbo-Palisade, Grenzstein, Innenbereiche und Testzone 19 TP-Punkte frei.",
+                  "EN": "In Qingbo Stockade, Marker Stone, Marker Stone Interiors, and Test Area, unlock 19 TP Points",
+                  "FR": "Débloquer 19 points TP à la palanque de Qingbo, la Pierre de marquage, l'intérieur de la Pierre de marquage et la zone de test",
+                  "ID": "Di Kampung Benteng Qingbo, Batu Penanda, Bagian Dalam Batu Penanda, dan Area Uji Coba, buka 19 Titik TP",
+                  "IT": "Sblocca 19 punti TP nella Palizzata di Qingbo, alla pietra di demarcazione, all'interno della pietra di demarcazione e nell'Area dei test.",
+                  "JP": "清波砦、首礎、首礎内部と実験区域で協約転送ポイントを19個解放する",
+                  "KR": "청파채, 수돈, 수돈 내부와 실험 구역에서 프로토콜 전송 지점 19개 잠금 해제",
+                  "MX": "En la Empalizada de Qingbo, la Piedra Marcadora, Piedra Marcadora: interior y el Área de pruebas, desbloquea 19 Puntos de TP",
+                  "RU": "Откройте 19 точек ТП в следующих областях: лагерь Циньбо, Межевой камень, внутренняя часть Межевого камня, область испытаний",
+                  "TC": "於清波寨、首墩、首墩內部和實驗園區解鎖19個協議傳送點",
+                  "TH": "ปลดล็อก​ 19 จุด​ TP ใน​ค่าย​ชิง​ป๋อ​, หิน​นำทาง​, ด้านใน​หิน​นำทาง​ และ​เขต​ทดสอบ",
+                  "VN": "Tại Trại Thanh Ba, Đá Ranh Giới, Nội Khu Đá Ranh Giới và Khu Thử Nghiệm, mở khóa 19 Điểm Dịch Chuyển"
                 },
                 "progressToCompare": 19
               }
@@ -120,8 +252,20 @@
           }
         },
         "name": {
-          "id": "2974370943979241701",
-          "text": ""
+          "BR": "Ancorado em Wuling II",
+          "CN": "锚定武陵奖章·Ⅱ",
+          "DE": "In Wuling verankert II",
+          "EN": "Anchored to Wuling Ⅱ",
+          "FR": "Ancre de Wuling II",
+          "ID": "Berpegang pada Wuling ⅠI",
+          "IT": "Radici a Wuling Ⅱ",
+          "JP": "武陵定着勲章Ⅱ",
+          "KR": "무릉 정착자 훈장 II",
+          "MX": "Wuling interminable II",
+          "RU": "Закрепление в Улине II",
+          "TC": "錨定武陵獎章·II",
+          "TH": "ตัว​ตึง​อู่​หลิง​ II",
+          "VN": "Neo Vào Võ Lăng II"
         },
         "order": 8,
         "plateConditions": [],
@@ -133,8 +277,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_adv_wuling",
@@ -143,15 +299,39 @@
           "1": {
             "achieveLevel": 1,
             "completeDesc": {
-              "id": "-1971561294581443403",
-              "text": ""
+              "BR": "Você eliminou com êxito inúmeras massas de Praga Superativa.",
+              "CN": "您已成功消除了许多过活跃侵蚀。",
+              "DE": "Du hast zahlreiche Superaktive Verderbnismassen erfolgreich eliminiert.",
+              "EN": "You have successfully eliminated numerous masses of Superactive Blight.",
+              "FR": "Vous avez réussi à éliminer de nombreuses masses de Gangrène superactive.",
+              "ID": "Kamu berhasil menyingkirkan banyak massa Hawar Superaktif.",
+              "IT": "Hai eliminato numerose masse di Contaminazione superattiva.",
+              "JP": "多くの過剰活性化侵蝕を取り除きました。",
+              "KR": "수많은 과활성 침식을 제거했습니다.",
+              "MX": "Has eliminado con éxito numerosas masas de Plaga hiperactiva.",
+              "RU": "Вы успешно уничтожили множество скоплений сверхактивного мора.",
+              "TC": "您已成功消除了許多超活躍侵蝕。",
+              "TH": "คุณ​กำจัด​กอง​ไบ​ล​ท์​ซู​เปอร์​แอค​ทีฟ​ได้​สำเร็จ​เป็น​จำนวนมาก",
+              "VN": "Bạn đã tiêu diệt thành công rất nhiều mảng Nhiễm Khuẩn Quá Mức."
             },
             "conditions": [
               {
                 "conditionId": "achv_adv_wuling_hyper_clean_1_cond_1",
                 "desc": {
-                  "id": "-3316628483947190645",
-                  "text": ""
+                  "BR": "Elimine todas as massas de Praga Superativa no Vale do Cofre de Espadas",
+                  "CN": "消除藏剑谷所有的过活跃侵蚀",
+                  "DE": "Eliminiere jede Superaktive Verderbnismasse im Tal des Schwertverlieses.",
+                  "EN": "Eliminate every Superactive Blight mass in Sword Vault Dale",
+                  "FR": "Éliminer toutes les masses de Gangrène superactive dans le Val du caveau des lames",
+                  "ID": "Singkirkan massa Hawar Superaktif di Lembah Benteng Pedang",
+                  "IT": "Elimina ogni massa di Contaminazione superattiva nella Valletta di Voltaspada.",
+                  "JP": "蔵剣谷の過剰活性化侵蝕をすべて取り除く",
+                  "KR": "장검 골짜기의 모든 과활성 침식 제거",
+                  "MX": "Elimina todas las masas de Plaga hiperactiva en el Valle Ocultaespadas",
+                  "RU": "Уничтожьте все скопления сверхактивного мора в долине Залежи Клинков",
+                  "TC": "消除藏劍谷所有的超活躍侵蝕",
+                  "TH": "กำจัด​กอง​ไบ​ล​ท์​ซู​เปอร์​แอค​ทีฟ​ทุก​กอง​ใน​เดล​คลัง​ดาบ",
+                  "VN": "Tiêu diệt toàn bộ mảng Nhiễm Khuẩn Quá Mức tại Cốc Tàng Kiếm"
                 },
                 "progressToCompare": 6
               }
@@ -159,8 +339,20 @@
           }
         },
         "name": {
-          "id": "-4957361215661374559",
-          "text": ""
+          "BR": "Eliminador de Praga Superativa",
+          "CN": "过活跃消除奖章",
+          "DE": "Auslöscher der Superaktiven Verderbnis",
+          "EN": "Superactive Blight Eliminator",
+          "FR": "Élimination de Gangrène superactive",
+          "ID": "Penyingkir Hawar Superaktif",
+          "IT": "Flagello della Contaminazione superattiva",
+          "JP": "過剰活性化除去勲章",
+          "KR": "과활성 침식 제거 훈장",
+          "MX": "Eliminador de Plaga hiperactiva",
+          "RU": "Устранение сверхактивного мора",
+          "TC": "超活躍消除獎章",
+          "TH": "ตัว​กำจัด​ไบ​ล​ท์​ซู​เปอร์​แอค​ทีฟ",
+          "VN": "Huy Chương Chiến Binh Thanh Trừ Nhiễm Khuẩn Quá Mức"
         },
         "order": 14,
         "plateConditions": [],
@@ -172,8 +364,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_fac_factory",
@@ -182,15 +386,39 @@
           "3": {
             "achieveLevel": 3,
             "completeDesc": {
-              "id": "5714973063634415053",
-              "text": ""
+              "BR": "Você adquiriu muitas Letras de Câmbio de Wuling. \nMais letras de câmbio significam maior compreensão. O fluxo de mercadorias em Wuling não passa despercebido aos olhos.",
+              "CN": "您已获得了许多武陵调度券。\n更多的调度券，更清晰的了解，武陵山水间的物资流转逃不过您的双眼。",
+              "DE": "Du hast viele Wuling-Aktiennoten erhalten. \nMehr Aktiennoten bedeuten größere Einsicht. Der Warenfluss in Wuling entgeht nicht deinem Blick.",
+              "EN": "You have acquired many Wuling Stock Bills. \nMore stock bills mean greater understanding. The flow of goods in Wuling does not escape your eyes.",
+              "FR": "Vous avez amassé un grand nombre de billets de réserves de Wuling. \nPlus vous avez de billets, plus votre compréhension s'améliore. La circulation des marchandises à Wuling n'a aucun secret pour vous.",
+              "ID": "Kamu sudah mendapatkan banyak Surat Saham Wuling. \nMakin banyak surat saham, makin besar pula kesepahaman. Aliran barang di Wuling tak akan lolos dari matamu.",
+              "IT": "Hai ottenuto numerosi buoni acquisto di Wuling.\nPiù buoni acquisto equivalgono a una maggiore comprensione. Il flusso di merci a Wuling non sfugge al tuo occhio attento.",
+              "JP": "膨大な量の武陵取引券を獲得しました。\n取引券が増えるほど、視野はさらに冴え渡る――武陵の山水を行き交う品々は、もはやあなたの目から逃れられません。",
+              "KR": "이미 많은 무릉 관리권을 획득했습니다.\n더 많은 관리권, 더 선명한 이해. 무릉의 산과 물을 오가는 물자의 흐름은 당신의 눈을 피할 수 없습니다.",
+              "MX": "Has obtenido muchos Vales de crédito de Wuling. \nMás vales de crédito significan un mayor conocimiento. El flujo de mercancías en Wuling no escapa a tu mirada.",
+              "RU": "Вы получили множество облигаций Улина.\nЧем их больше, тем глубже ваше понимание. Ни одна деталь в потоке товаров Улина не ускользает от вашего внимания.",
+              "TC": "您已獲得了許多武陵調度券。\n更多的調度券，更清晰的瞭解，武陵山水間的物資流轉逃不過您的雙眼。",
+              "TH": "คุณ​ได้รับ​ธนบัตร​คลัง​อู่​หลิง​เป็น​จำนวนมาก​ \nยิ่ง​มี​ธนบัตร​คลัง​มาก​เท่าไหร่​ ยิ่ง​เข้าใจ​มากขึ้น​เท่านั้น​ การ​ไหลเวียน​ของ​สินค้า​ใน​อู่​หลิง​ไม่​อาจ​หลุดพ้น​สายตา​คุณ​ไป​ได้",
+              "VN": "Bạn đã thu thập được rất nhiều Phiếu Hàng Võ Lăng. \nCàng có nhiều phiếu, bạn càng hiểu rõ cách vận hành. Mọi dòng luân chuyển hàng hóa ở Võ Lăng đều nằm trong tầm mắt bạn."
             },
             "conditions": [
               {
                 "conditionId": "achv_fac_coupon_wuling_4_3_cond_1",
                 "desc": {
-                  "id": "7810959848370867969",
-                  "text": ""
+                  "BR": "Ganhe 80.000.000 de Letras de Câmbio de Wuling",
+                  "CN": "累计获得80,000,000张武陵调度券",
+                  "DE": "Verdiene 80.000.000 Wuling-Aktiennoten.",
+                  "EN": "Earn 80,000,000 Wuling Stock Bills",
+                  "FR": "Gagner 80 000 000 de billets de réserves de Wuling",
+                  "ID": "Dapatkan 80.000.000 Surat Saham Wuling",
+                  "IT": "Ottieni 80.000.000 buoni acquisto di Wuling.",
+                  "JP": "武陵取引券を80,000,000枚獲得する",
+                  "KR": "무릉 관리권 80,000,000장 누적 획득",
+                  "MX": "Obtén 80 000 000 de Vales de crédito de Wuling",
+                  "RU": "Заработайте 80 000 000 облигаций Улина",
+                  "TC": "累計獲得80,000,000張武陵調度券",
+                  "TH": "รับ​ธนบัตร​คลัง​อู่​หลิง​ 80,000,000 ใบ",
+                  "VN": "Nhận 80.000.000 Phiếu Hàng Võ Lăng"
                 },
                 "progressToCompare": 80000000
               }
@@ -198,8 +426,20 @@
           }
         },
         "name": {
-          "id": "-3760907314583556551",
-          "text": ""
+          "BR": "Redistribuidor de Estoque de Wuling IV",
+          "CN": "武陵调度专家奖章·Ⅳ",
+          "DE": "Wuling-Vorratneuverteilung IV",
+          "EN": "Wuling Stock Redistributor Ⅳ",
+          "FR": "Redistribution de Wuling IV",
+          "ID": "Redistributor Stok Wuling IV",
+          "IT": "Ridistribuzione scorte di Wuling IV",
+          "JP": "武陵取引専門家勲章Ⅳ",
+          "KR": "무릉 관리 전문가 훈장 IV",
+          "MX": "“Redistribuidor de existencias de Wuling IV”",
+          "RU": "Перераспределитель резервов Улина IV",
+          "TC": "武陵調度專家獎章·IV",
+          "TH": "ผู้​กระจาย​สินค้า​ใน​สต็อก​อู่​หลิง​ IV",
+          "VN": "Chuyên Gia Điều Phối Võ Lăng Ⅳ"
         },
         "order": 16,
         "plateConditions": [],
@@ -211,8 +451,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_adv_wuling",
@@ -221,15 +473,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "-1158400258660929233",
-              "text": ""
+              "BR": "Mais fragmentos do artefato primal estão novamente reunidos em suas mãos.",
+              "CN": "初始之物的更多遗失片段正于您手中重聚。",
+              "DE": "Weitere Fragmente des Urzeit-Artefakts sind in deinen Händen wieder aufgetaucht.",
+              "EN": "More fragments of the primal artifact have once again gathered in your hands.",
+              "FR": "Vous avez à nouveau réuni des fragments de l'artéfact originel.",
+              "ID": "Makin banyak fragmen artefak purba kembali terkumpul di tanganmu.",
+              "IT": "Altri frammenti del primo manufatto sono nuovamente nelle tue mani.",
+              "JP": "始まりの失われし欠片が、あなたの手でさらに集いました。",
+              "KR": "최초의 물건의 유실된 조각들이 다시 모였습니다.",
+              "MX": "Más fragmentos del artefacto fundamental se han reunido de nuevo en tus manos.",
+              "RU": "К вам вернулось больше утерянных фрагментов древнего артефакта.",
+              "TC": "初始之物的更多遺失片段正於您手中重聚。",
+              "TH": "ชิ้นส่วน​เพิ่มเติม​ของ​สิ่งประดิษฐ์​ไพร​มอล​ได้​ถูก​รวบรวม​มา​อยู่​ใน​มือ​ของ​คุณ​แล้ว​อีกครั้ง",
+              "VN": "Thêm nhiều mảnh vỡ thất lạc của cổ vật nguyên thủy đã tụ hội lại trong tay bạn một lần nữa."
             },
             "conditions": [
               {
                 "conditionId": "achv_adv_wuling_ether_2_2_cond_1",
                 "desc": {
-                  "id": "1300117192666669553",
-                  "text": ""
+                  "BR": "Em Paliçada de Qingbo, Pedra de Marcação, Interiores da Pedra de Marcação e Área de Testes, colete 59 Aurilenos",
+                  "CN": "于清波寨、首墩、首墩内部和试验园区收集59个醚质",
+                  "DE": "Sammle in Qingbo-Palisade, Grenzstein, Inneres des Grenzsteins und Testzone 59 Aurylene.",
+                  "EN": "In Qingbo Stockade, Marker Stone, Marker Stone Interiors, and Test Area, gather 59 Aurylenes",
+                  "FR": "Récolter 59 échantillons d'aurylène à la palanque de Qingbo, la Pierre de marquage, l'intérieur de la Pierre de marquage et la zone de test",
+                  "ID": "Di Kampung Benteng Qingbo, Batu Penanda, Bagian Dalam Batu Penanda, dan Area Uji Coba, kumpulkan 59 Aurylene",
+                  "IT": "Raccogli 59 Aurylene nella Palizzata di Qingbo, alla pietra di demarcazione, all'interno della pietra di demarcazione e nell'Area dei test.",
+                  "JP": "清波砦、首礎、首礎内部と実験区域でオーリレンを59個集める",
+                  "KR": "청파채, 수돈, 수돈 내부와 실험 구역에서 오리렌 59개 수집",
+                  "MX": "En la Empalizada de Qingbo, la Piedra Marcadora, Piedra Marcadora: interior y el Área de pruebas, reúne 59 Aurilenos",
+                  "RU": "Соберите 59 образцов аурилена в следующих областях: лагерь Циньбо, Межевой камень, внутренняя часть Межевого камня, область испытаний",
+                  "TC": "於清波寨、首墩、首墩內部和實驗園區收集59個醚質",
+                  "TH": "ใน​ค่าย​ชิง​ป๋อ​, หิน​นำทาง​, ด้านใน​หิน​นำทาง​ และ​เขต​ทดสอบ​ รวบรวม​ออ​ริ​ลีน​ 59 ชิ้น",
+                  "VN": "Tại Trại Thanh Ba, Đá Ranh Giới, Nội Khu Đá Ranh Giới và Khu Thử Nghiệm, thu thập 59 Aurylene"
                 },
                 "progressToCompare": 59
               }
@@ -237,8 +513,20 @@
           }
         },
         "name": {
-          "id": "2637556937638506765",
-          "text": ""
+          "BR": "\"Fragmentos Recongregados\" II",
+          "CN": "“碎片的重聚”·Ⅱ",
+          "DE": "„Wiederversammelte Fragmente“ II",
+          "EN": "\"Re-Congregated Fragments\" Ⅱ",
+          "FR": "« Fragments rassemblés II »",
+          "ID": "“Fragmen Bersatu Kembali” ⅠI",
+          "IT": "\"Frammenti riassemblati\" Ⅱ",
+          "JP": "「欠片の再集結」Ⅱ",
+          "KR": "'조각의 재집결' II",
+          "MX": "“Fragmentos reagrupados” II",
+          "RU": "Объединение фрагментов II",
+          "TC": "「碎片的重聚」·II",
+          "TH": "\"เศษ​เสี้ยว​ที่รวม​ตัว​กัน​ใหม่​\" II",
+          "VN": "\"Mảnh Tái Hợp\" II"
         },
         "order": 9,
         "plateConditions": [],
@@ -250,8 +538,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_adv_wuling",
@@ -260,15 +560,39 @@
           "1": {
             "achieveLevel": 1,
             "completeDesc": {
-              "id": "8358089539613025895",
-              "text": ""
+              "BR": "Mais uma vez, você saltou elegantemente de uma placa de pressão para outra e restaurou o equilíbrio perfeito.\n\"Uma exibição maravilhosa da postura Aceno Triplo da Ave-fera!\"",
+              "CN": "您再一次以精妙的身法在压力板间跃动，成功使其恢复了完美的平衡。\n“好一手羽兽三点头！”",
+              "DE": "Du bist erneut elegant von einer Druckplatte zur nächsten gesprungen und hast das perfekte Gleichgewicht wiederhergestellt.\n„Eine wundersame Demonstration der Dreifachnicken-Haltung der Vogelbestie!“",
+              "EN": "Once again you elegantly leaped from one pressure plate to another and restored the perfect balance.\n\"A wondrous display of the Fowlbeast Triple-Nod stance!\"",
+              "FR": "Une fois de plus, vous avez bondi d'une plaque de pression à l'autre avec élégance et restauré un parfait équilibre.\n« Une magnifique démonstration de la posture Triple hochement de tête des aviliaires ! »",
+              "ID": "Sekali lagi, kamu melompat lincah dari satu pelat tekanan ke pelat lain dan memulihkan keseimbangan sempurna.\n“Penampilan gaya Fowlbeast Angguk Tiga Kali yang luar biasa!”",
+              "IT": "Hai nuovamente saltato con grazia da una piastra a pressione all'altra, ripristinando un perfetto equilibrio.\n\"Un meraviglioso esempio del triplo inchino del crestalone!\"",
+              "JP": "巧みな身のこなしで感圧板の間をさらに飛び回り、見事に完璧なバランスを取り戻した。\n「お見事、自在羽獣のようだ！」",
+              "KR": "다시 한번 절묘한 몸놀림으로 압력판 사이를 뛰어넘으며 그것들을 완벽한 균형 상태로 되돌렸습니다.\n\"재빠르게 세 번 뛰어넘는 파울비스트 같은 몸놀림이군요!\"",
+              "MX": "Una vez más saltaste con elegancia de una placa a otra y restauraste el equilibrio perfecto.\n“¡Una muestra maravillosa de la postura del Triple Asentimiento de la Bestia voladora!”",
+              "RU": "Изящно прыгая с одной плитки на другую, вы в очередной раз восстановили идеальный баланс.\n«Превосходный образец стойки \"Тройной наклон крылатого зверя\"!»",
+              "TC": "您再一次以精妙的身法在壓力板間躍動，成功使其恢復了完美的平衡。\n「好一手羽獸三點頭！」",
+              "TH": "อีกครั้ง​หนึ่ง​ คุณ​ได้​กระโดด​จาก​แผ่น​กด​หนึ่ง​ไป​ยัง​อีก​แผ่น​กด​หนึ่ง​อย่าง​สง่างาม​และ​ฟื้นฟู​ความ​สมดุล​ที่​สมบูรณ์แบบ​ได้​ \n\"การแสดง​อย่าง​น่าพิศวง​ของ​ท่า​วิหค​คำนับ​สาม​ครั้ง​!\"",
+              "VN": "Một lần nữa, bạn uyển chuyển nhảy từ bàn đạp áp suất này sang bàn đạp áp suất khác, khôi phục lại thế cân bằng hoàn hảo.\n\"Một màn biểu diễn tuyệt diệu của thế võ Thú Lông Vũ Ba Đầu!\""
             },
             "conditions": [
               {
                 "conditionId": "achv_adv_wuling_floor_2_1_cond_1",
                 "desc": {
-                  "id": "-3035467753445863693",
-                  "text": ""
+                  "BR": "Em Paliçada de Qingbo, Pedra de Marcação, Interiores da Pedra de Marcação e Área de Testes, ative 6 conjuntos de placas de pressão",
+                  "CN": "激活清波寨、首墩、首墩内部和试验园区的6组压力板",
+                  "DE": "Aktiviere in Qingbo-Palisade, Grenzstein, Inneres des Grenzsteins und Testzone 6 Druckplatten-Gruppen.",
+                  "EN": "In Qingbo Stockade, Marker Stone, Marker Stone Interiors, and Test Area, activate 6 sets of pressure plates",
+                  "FR": "Activer 6 ensembles de plaques de pression à la palanque de Qingbo, la Pierre de marquage, l'intérieur de la Pierre de marquage et la zone de test",
+                  "ID": "Di Kampung Benteng Qingbo, Batu Penanda, Bagian Dalam Batu Penanda, dan Area Uji Coba, aktifkan 6 set pelat tekanan",
+                  "IT": "Attiva 6 set di piastre a pressione nella Palizzata di Qingbo, alla pietra di demarcazione, all'interno della pietra di demarcazione e nell'Area dei test.",
+                  "JP": "清波砦、首礎、首礎内部と実験区域で感圧板を6カ所有効にする",
+                  "KR": "청파채, 수돈, 수돈 내부와 실험 구역의 압력판 6세트 활성화",
+                  "MX": "En la Empalizada de Qingbo, la Piedra Marcadora, Piedra Marcadora: interior y el Área de pruebas, activa 6 conjuntos de placas de presión",
+                  "RU": "Активируйте 6 групп плиток в следующих областях: лагерь Циньбо, Межевой камень, внутренняя часть Межевого камня, область испытаний",
+                  "TC": "啟動清波寨、首墩、首墩內部和實驗園區的6組壓力板",
+                  "TH": "ใน​ค่าย​ชิง​ป๋อ​, หิน​นำทาง​, ด้านใน​หิน​นำทาง​และ​เขต​ทดสอบ​ เปิด​ใช้งาน​แผ่น​แรงดัน​ให้​ครบ​ 6 ชุด",
+                  "VN": "Tại Trại Thanh Ba, Đá Ranh Giới, Nội Khu Đá Ranh Giới và Khu Thử Nghiệm, kích hoạt 6 bộ bàn đạp áp suất"
                 },
                 "progressToCompare": 6
               }
@@ -276,8 +600,20 @@
           }
         },
         "name": {
-          "id": "2453716788163679592",
-          "text": ""
+          "BR": "\"Prancha d'Água da Ave-fera II\"",
+          "CN": "“羽兽三抄水·其之二”",
+          "DE": "„Im Wasser tanzende Vogelbestie II“",
+          "EN": "\"Fowlbeast Water Prancer Ⅱ\"",
+          "FR": "« L'Eau altière des aviliaires II »",
+          "ID": "“Fowlbeast Penari Air II”",
+          "IT": "\"Danza del crestalone acquatico Ⅱ\"",
+          "JP": "「パタパタ羽獣・その2」",
+          "KR": "'재빠르게 세 번 뛰어넘는 파울비스트(2)'",
+          "MX": "“Saltos acuáticos con bestias voladoras II”",
+          "RU": "Водный танец крылатого зверя II",
+          "TC": "「羽獸三抄水·其之二」",
+          "TH": "\"วิหค​พเนจร​แห่ง​สายน้ำ​ II\"",
+          "VN": "\"Thú Lông Vũ Nhảy Nước II\""
         },
         "order": 11,
         "plateConditions": [],
@@ -289,8 +625,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_hide_default",
@@ -299,15 +647,39 @@
           "1": {
             "achieveLevel": 1,
             "completeDesc": {
-              "id": "-1270922807068790196",
-              "text": ""
+              "BR": "A regra diz \"não é possível usar itens táticos nem outros itens\". Mas a vida selvagem ignorou e jogou as cascas de banana assim mesmo.",
+              "CN": "显然，抛下香蕉皮的野生动物无法明确“禁止使用道具”的规则。",
+              "DE": "Die Regel besagt: „Es dürfen keine taktischen Mittel oder Gegenstände verwendet werden“. Doch der Tierwelt war das egal. Sie hat die Bananenschalen trotzdem geworfen.",
+              "EN": "The rule says \"tacticals and items cannot be used\". But the wildlife ignored it and tossed the banana peels anyway.",
+              "FR": "Le règlement interdit l'utilisation d'objets et d'objets tactiques, mais les animaux l'ont ignoré et ont tout de même jeté des peaux de banane.",
+              "ID": "Menurut aturan, “barang dan item taktis tidak bisa digunakan”. Tapi, alam liar mengabaikan aturan ini dan tetap saja melemparkan kulit pisang ini.",
+              "IT": "La regola recita: \"Non è consentito l'uso di gadget e oggetti\". Ma la fauna selvatica non se n'è curata e ha gettato a terra delle bucce di banana.",
+              "JP": "バナナの皮を捨てた動物は、明らかに「アイテム使用不可」のルールから逸脱しているようです。",
+              "KR": "아무래도 바나나 껍질을 버린 야생 동물에게 '아이템 사용 금지'라는 규칙을 이해시키기엔 무리인 것 같습니다.",
+              "MX": "La regla dice: “No se pueden usar items tácticos ni objetos”. Pero la fauna lo ignoró y de todos modos arrojó cáscaras de plátano.",
+              "RU": "Правило гласит: «Нельзя использовать провиант и предметы». Но природе все равно: она подбрасывает банановую кожуру.",
+              "TC": "顯然，拋下香蕉皮的野生動物無法理解「禁止使用道具」的規則。",
+              "TH": "กฎ​บอกว่า​ \"ห้าม​ใช้​ยุทธวิธี​และ​ไอ​เทม​\" แต่​สัตว์ป่า​ไม่แยแส​และ​โยน​เปลือก​กล้วย​ลง​ไป​อยู่ดี",
+              "VN": "Quy tắc ghi rõ: \"Không thể sử dụng vật phẩm và vật phẩm chiến thuật\". Nhưng đám sinh vật hoang dã chẳng buồn để tâm, vẫn cứ thản nhiên ném vỏ chuối ra."
             },
             "conditions": [
               {
                 "conditionId": "achv_hide_banana_1_cond_1",
                 "desc": {
-                  "id": "781332620532247456",
-                  "text": ""
+                  "BR": "Deixe o operador controlado escorregar em cascas de banana 1 vez",
+                  "CN": "主控干员被香蕉皮绊倒1次",
+                  "DE": "Lass den gesteuerten Operator einmal auf einer Bananenschale ausrutschen.",
+                  "EN": "Let the controlled operator slip on banana peels 1 time",
+                  "FR": "Laisser l'opérateur contrôlé glisser une fois sur des peaux de banane",
+                  "ID": "Biarkan operator terkontrol terpeleset kulit pisang sebanyak 1 kali",
+                  "IT": "Fai in modo che l'operatore controllato scivoli su bucce di banana una volta.",
+                  "JP": "操作中のオペレーターはバナナの皮で転ぶ",
+                  "KR": "메인 컨트롤 오퍼레이터가 바나나 껍질에 1회 미끄러지기",
+                  "MX": "Haz que el operador controlado se resbale con cáscaras de plátano 1 vez",
+                  "RU": "Дайте управляемому оперативнику поскользнуться на банановой кожуре 1 раз",
+                  "TC": "主控幹員被香蕉皮絆倒1次",
+                  "TH": "ให้​โอเปอเรเตอร์​ที่​ควบคุม​ลื่น​บน​เปลือก​กล้วย​ 1 ครั้ง",
+                  "VN": "Khiến cán viên đang điều khiển trượt vỏ chuối 1 lần"
                 },
                 "progressToCompare": 1
               }
@@ -315,8 +687,20 @@
           }
         },
         "name": {
-          "id": "1895214612637022099",
-          "text": ""
+          "BR": "\"Corrida de Braços?\"",
+          "CN": "“道具赛？”",
+          "DE": "„Wettrüsten“?",
+          "EN": "\"Arms Race?\"",
+          "FR": "« Course aux armements ? »",
+          "ID": "“Lomba Senjata?”",
+          "IT": "\"Corsa agli armamenti?\"",
+          "JP": "アイテムバトル？",
+          "KR": "'아이템전?'",
+          "MX": "“¿Carrera armamentística?”",
+          "RU": "Гонка вооружений?",
+          "TC": "「道具賽？」",
+          "TH": "การแข่งขัน​สะสม​อาวุธ​?",
+          "VN": "\"Cuộc Chạy Đua Vũ Trang?\""
         },
         "order": 11,
         "plateConditions": [],
@@ -328,8 +712,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_adv_wuling",
@@ -338,15 +734,39 @@
           "1": {
             "achieveLevel": 1,
             "completeDesc": {
-              "id": "2643368341349162620",
-              "text": ""
+              "BR": "Mais uma vez, você se divertiu com os feranfíbios! Analisamos seus coaxos de agradecimento e eles parecem interessados em te ver de novo. \n\"Croac. Croac. Crrrrrroac-croac-croac.\"",
+              "CN": "您又陪同长股兽玩耍了一番。经分析，这似乎是长股兽们向您道谢，邀您再来的鸣声。\n“呱呱呱呱呱呱，呱呱呱呱呱。”",
+              "DE": "Du hattest wieder einmal deinen Spaß mit den Schlacksbestien. Wir haben ihr dankbares Quaken analysiert. Sie scheinen dich wiedersehen zu wollen. \n„Quak, quak. Quaaak-quak-quak.“",
+              "EN": "Once again you had some fun with the lankybeasts. We analyzed their grateful croaks and they seem interested in seeing you again. \n\"Ribbit, ribbit. Rrrrribbit-ribbit-ribbit.\"",
+              "FR": "Une fois de plus, vous avez passé un bon moment avec les grêlins. Nous avons analysé leurs coassements et ils semblent vouloir vous revoir. \n« Coa, coa. Coooooa-coa-coa. »",
+              "ID": "Sekali lagi kamu bersenang-senang dengan lankybeast. Kami menganalisis suara lankybeast itu dan sepertinya mereka ingin bertemu denganmu lagi. \n“Kwak, kwak. Kwwakkk-kwak-kwak.”",
+              "IT": "Hai giocato di nuovo con le gracchiabestie. Abbiamo analizzato il loro verso di gratitudine; sembra che vogliano rivederti. \n\"Cra-cra. Cra. Cra-cra.\"",
+              "JP": "また存分に長脚獣と遊んでいたね。分析の結果、これは長脚獣たちがあなたに感謝し、再び訪れてほしいと誘っている鳴き声のようだ。\n「ゲロゲロゲロゲロ、ゲロゲロゲロゲロ。」",
+              "KR": "또 한 번 랭키비스트와 즐겁게 지냈네요. 분석 결과, 이건 랭키비스트들이 당신에게 감사를 전하고 다시 만나길 바라는 인사로 보입니다.\n\"꽉꽉꽉, 꽉꽉꽉꽉꽉\"",
+              "MX": "Una vez más, te divertiste con las bestias larguiruchas. Analizamos los croares de las bestias larguiruchas y parecen interesadas en volver a verte. \n“Croac, croac. Crrrrroac-croac-croac”.",
+              "RU": "Вам явно понравилось играть с длиннозверями. Мы проанализировали крики длиннозверя: похоже, он ждет вас снова. \n«Ква-ква. Ква-а-а, ква-ква».",
+              "TC": "您又陪同長股獸玩耍了一番。經分析，這似乎是長股獸們向您道謝，邀您再來的鳴聲。\n「呱呱呱呱呱呱呱，呱呱呱呱呱。」",
+              "TH": "อีกครั้ง​ที่​คุณ​ได้​สนุก​กับ​พวก​แลง​กี้​บี​ส​ต์​ เรา​ได้​วิเคราะห์​เสียงร้อง​แสดง​ความ​ขอบคุณ​ของ​พวก​มัน​แล้ว​ และ​ดูเหมือนว่า​พวก​มัน​อยาก​พบ​คุณ​อีกครั้ง​ \n\"อ๊​บ​ อ๊​บ​ อ๊​บบ​บบ​บ​-​อ๊​บ​-​อ๊​บ​\"",
+              "VN": "Một lần nữa bạn lại có những giây phút vui vẻ với ếch đuôi dài. Chúng tôi đã phân tích tiếng kêu biết ơn của chúng và có vẻ chúng rất háo hức được gặp lại bạn. \n\"Ộp ộp… ộp ộp ộp.\""
             },
             "conditions": [
               {
                 "conditionId": "achv_adv_wuling_frog_2_1_cond_1",
                 "desc": {
-                  "id": "3506502613560233592",
-                  "text": ""
+                  "BR": "Em Paliçada de Qingbo, Pedra de Marcação, Interiores da Pedra de Marcação e Área de Testes, conclua 3 quebra-cabeças de revezamento de vaga-lumes",
+                  "CN": "完成清波寨、首墩、首墩内部和试验园区的3次萤火虫传递",
+                  "DE": "Schließe in Qingbo-Palisade, Grenzstein, Inneres des Grenzsteins und Testzone 3 Leuchtkäfer-Übergaberätsel ab.",
+                  "EN": "In Qingbo Stockade, Marker Stone, Marker Stone Interiors, and Test Area, complete 3 glowbug passing puzzles",
+                  "FR": "Terminer 3 défis de passage de lumiptères à la palanque de Qingbo, la Pierre de marquage, l'intérieur de la pierre de marquage et la zone de test",
+                  "ID": "Di Kampung Benteng Qingbo, Batu Penanda, Bagian Dalam Batu Penanda, dan Area Uji Coba, selesaikan 3 puzzle mengoper glowbug",
+                  "IT": "Completa 3 rompicapi dei luminsetti nella Palizzata di Qingbo, alla pietra di demarcazione, all'interno della pietra di demarcazione e nell'Area dei test.",
+                  "JP": "清波砦、首礎、首礎内部と実験区域で長脚獣配達を3回クリアする",
+                  "KR": "청파채, 수돈, 수돈 내부와 실험 구역의 반딧불 전달 3번 완료",
+                  "MX": "En la Empalizada de Qingbo, la Piedra Marcadora, Piedra Marcadora: interior y el Área de pruebas, completa 3 rompecabezas de pasar la luciérnaga",
+                  "RU": "Завершите 3 головоломки со светожуками в следующих областях: лагерь Циньбо, Межевой камень, внутренняя часть Межевого камня, область испытаний",
+                  "TC": "完成清波寨、首墩、首墩內部和實驗園區的3次螢火蟲傳遞",
+                  "TH": "ใน​ค่าย​ชิง​ป๋อ​, หิน​นำทาง​, ด้านใน​หิน​นำทาง​และ​เขต​ทดสอบ​ ไข​ปริศนา​ส่งต่อ​แมลง​เรืองแสง​ให้​ครบ​ 3 ครั้ง",
+                  "VN": "Tại Trại Thanh Ba, Đá Ranh Giới, Nội Khu Đá Ranh Giới và Khu Thử Nghiệm, hoàn thành 3 câu đố truyền đom đóm"
                 },
                 "progressToCompare": 3
               }
@@ -354,8 +774,20 @@
           }
         },
         "name": {
-          "id": "-5489801803106595859",
-          "text": ""
+          "BR": "\"Golpeie o Fíbio e Passe o Inseto II\"",
+          "CN": "“击股传虫·其之二”",
+          "DE": "„Schlag die Schlacksbestie und gib den Käfer weiter II“",
+          "EN": "\"Swat the Lanky and Pass the Bug Ⅱ\"",
+          "FR": "« Écraser les grêlins et faire passer l'insecte II »",
+          "ID": "“Tepuk Lanky, Oper Serangganya II”",
+          "IT": "\"Tocca la bestia, passa l'insetto Ⅱ\"",
+          "JP": "「長脚獣配達・その2」",
+          "KR": "'재빠르고 날렵한 랭키비스트(2)'",
+          "MX": "“Golpea a la bestia y pasa el insecto II”",
+          "RU": "Передайте жука II",
+          "TC": "「擊股傳蟲·其之二」",
+          "TH": "\"ฟาด​เจ้า​แลง​กี้​และ​ส่ง​แมลง​ II\"",
+          "VN": "\"Đập Ếch Đuôi Dài, Diệt Trừ Bọ II\""
         },
         "order": 12,
         "plateConditions": [],
@@ -367,8 +799,20 @@
         "canBePlated": true,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "time_high_difficulty_v1d3",
         "groupId": "achv_group_bat_dung",
@@ -377,55 +821,139 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "1600316232351162619",
-              "text": ""
+              "BR": "Você testemunhou a discórdia em meio ao toque trovejante e às manifestações do silêncio mortal e, mais uma vez, entalhou seu nome no grande monumento.",
+              "CN": "您于雷鸣之声、死寂之相中见证了纷争，您再一次于丰碑上刻下了自己的名字。",
+              "DE": "Du wurdest Zeuge von Zwietracht im Donnergrollen und in den Manifestationen tödlicher Stille und hast deinen Namen einmal mehr im großen Monument verewigt.",
+              "EN": "You witnessed strife within the thunderous peal and the manifestations of deathly silence, and once again you etched your name upon the great monument.",
+              "FR": "Vous avez été témoin des conflits entre les fracas du tonnerre et les manifestations du silence mortel, et avez à nouveau gravé votre nom sur ce monument.",
+              "ID": "Kamu menyaksikan pertikaian di tengah gemuruh petir dan perwujudan keheningan yang mematikan, dan sekali lagi kamu mengukirkan namamu pada monumen agung itu.",
+              "IT": "Hai assistito al conflitto tra il fragore del tuono e le manifestazioni del silenzio tombale, incidendo ancora una volta il tuo nome sul grande monumento.",
+              "JP": "貴殿は、雷鳴の声や死の面影を越えて紛争に直面し、再び記念碑に己の名を刻みました。",
+              "KR": "천둥의 포효와 적막한 죽음 사이에서 분쟁의 현장을 목격한 당신은 또 한 번 잿빛 세계의 이정표에 자신의 이름을 깊이 새겼습니다.",
+              "MX": "Presenciaste la contienda entre el Estruendo estrepitoso y las manifestaciones del silencio mortal, y una vez más grabaste tu nombre en el gran monumento.",
+              "RU": "Вы стали свидетелем битвы среди оглушительных громовых раскатов и смертельного безмолвия. Вы снова высекли свое имя на великом монументе.",
+              "TC": "您於雷鳴之聲、死寂之相中見證了紛爭，您再一次於豐碑上刻下了自己的名字。",
+              "TH": "คุณ​ได้​เป็น​สักขีพยาน​ของ​การ​ห้ำหั่น​ท่ามกลาง​เสียงดัง​สนั่น​ก้อง​ และ​ปรากฏการณ์​แห่ง​ความ​เงียบ​มรณะ​ และ​อีกครั้ง​หนึ่ง​ คุณ​ได้​จารึก​นาม​ของ​ตน​ไว้​บน​อนุสรณ์​อัน​ยิ่งใหญ่",
+              "VN": "Bạn đã chứng kiến cuộc phân tranh giữa sấm rền và những dị thể từ sự im lặng chết chóc, rồi một lần nữa lưu danh trên tấm bia vĩ đại."
             },
             "conditions": [
               {
                 "conditionId": "achv_bat_hard_5_2_cond_1",
                 "desc": {
-                  "id": "8061473975702173661",
-                  "text": ""
+                  "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Normal",
+                  "CN": "在「影拓丰碑」中，通关普通模式“死寂争鸣”的所有关卡",
+                  "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Normal-Modus ab.",
+                  "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Normal mode",
+                  "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Normal",
+                  "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Normal",
+                  "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Normale.",
+                  "JP": "「映像の記念碑」で「死の争鳴」の全ステージをノーマルモードでクリアする",
+                  "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 일반 모드로 완료",
+                  "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Normal",
+                  "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в обычном режиме",
+                  "TC": "在「影拓豐碑」中，通關普通模式「死寂爭鳴」的所有關卡",
+                  "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทั่วไป",
+                  "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Bình Thường trong [Đài Bóng Tối]"
                 },
                 "progressToCompare": 1
               },
               {
                 "conditionId": "achv_bat_hard_5_2_cond_2",
                 "desc": {
-                  "id": "-1939288406543452657",
-                  "text": ""
+                  "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Normal",
+                  "CN": "在「影拓丰碑」中，通关普通模式“死寂争鸣”的所有关卡",
+                  "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Normal-Modus ab.",
+                  "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Normal mode",
+                  "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Normal",
+                  "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Normal",
+                  "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Normale.",
+                  "JP": "「映像の記念碑」で「死の争鳴」の全ステージをノーマルモードでクリアする",
+                  "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 일반 모드로 완료",
+                  "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Normal",
+                  "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в обычном режиме",
+                  "TC": "在「影拓豐碑」中，通關普通模式「死寂爭鳴」的所有關卡",
+                  "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทั่วไป",
+                  "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Bình Thường trong [Đài Bóng Tối]"
                 },
                 "progressToCompare": 1
               },
               {
                 "conditionId": "achv_bat_hard_5_2_cond_3",
                 "desc": {
-                  "id": "5681817665422010619",
-                  "text": ""
+                  "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Normal",
+                  "CN": "在「影拓丰碑」中，通关普通模式“死寂争鸣”的所有关卡",
+                  "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Normal-Modus ab.",
+                  "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Normal mode",
+                  "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Normal",
+                  "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Normal",
+                  "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Normale.",
+                  "JP": "「映像の記念碑」で「死の争鳴」の全ステージをノーマルモードでクリアする",
+                  "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 일반 모드로 완료",
+                  "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Normal",
+                  "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в обычном режиме",
+                  "TC": "在「影拓豐碑」中，通關普通模式「死寂爭鳴」的所有關卡",
+                  "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทั่วไป",
+                  "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Bình Thường trong [Đài Bóng Tối]"
                 },
                 "progressToCompare": 1
               },
               {
                 "conditionId": "achv_bat_hard_5_2_cond_4",
                 "desc": {
-                  "id": "-1924674083640343275",
-                  "text": ""
+                  "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Normal",
+                  "CN": "在「影拓丰碑」中，通关普通模式“死寂争鸣”的所有关卡",
+                  "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Normal-Modus ab.",
+                  "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Normal mode",
+                  "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Normal",
+                  "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Normal",
+                  "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Normale.",
+                  "JP": "「映像の記念碑」で「死の争鳴」の全ステージをノーマルモードでクリアする",
+                  "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 일반 모드로 완료",
+                  "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Normal",
+                  "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в обычном режиме",
+                  "TC": "在「影拓豐碑」中，通關普通模式「死寂爭鳴」的所有關卡",
+                  "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทั่วไป",
+                  "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Bình Thường trong [Đài Bóng Tối]"
                 },
                 "progressToCompare": 1
               },
               {
                 "conditionId": "achv_bat_hard_5_2_cond_5",
                 "desc": {
-                  "id": "4926128654961695563",
-                  "text": ""
+                  "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Normal",
+                  "CN": "在「影拓丰碑」中，通关普通模式“死寂争鸣”的所有关卡",
+                  "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Normal-Modus ab.",
+                  "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Normal mode",
+                  "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Normal",
+                  "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Normal",
+                  "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Normale.",
+                  "JP": "「映像の記念碑」で「死の争鳴」の全ステージをノーマルモードでクリアする",
+                  "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 일반 모드로 완료",
+                  "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Normal",
+                  "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в обычном режиме",
+                  "TC": "在「影拓豐碑」中，通關普通模式「死寂爭鳴」的所有關卡",
+                  "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทั่วไป",
+                  "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Bình Thường trong [Đài Bóng Tối]"
                 },
                 "progressToCompare": 1
               },
               {
                 "conditionId": "achv_bat_hard_5_2_cond_6",
                 "desc": {
-                  "id": "-8093230717337030238",
-                  "text": ""
+                  "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Normal",
+                  "CN": "在「影拓丰碑」中，通关普通模式“死寂争鸣”的所有关卡",
+                  "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Normal-Modus ab.",
+                  "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Normal mode",
+                  "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Normal",
+                  "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Normal",
+                  "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Normale.",
+                  "JP": "「映像の記念碑」で「死の争鳴」の全ステージをノーマルモードでクリアする",
+                  "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 일반 모드로 완료",
+                  "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Normal",
+                  "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в обычном режиме",
+                  "TC": "在「影拓豐碑」中，通關普通模式「死寂爭鳴」的所有關卡",
+                  "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทั่วไป",
+                  "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Bình Thường trong [Đài Bóng Tối]"
                 },
                 "progressToCompare": 1
               }
@@ -433,56 +961,140 @@
           }
         },
         "name": {
-          "id": "-2571726498481378323",
-          "text": ""
+          "BR": "\"Disputa dos Silêncios Mortais\"",
+          "CN": "“死寂争鸣”",
+          "DE": "„Streitgespräche in tödlicher Stille“",
+          "EN": "\"Contention of Deathly Silences\"",
+          "FR": "« Discorde des silences mortels »",
+          "ID": "“Pertikaian Hening Mematikan”",
+          "IT": "\"Contesa dei silenzi tombali\"",
+          "JP": "「死の争鳴」",
+          "KR": "'적막 속의 외침'",
+          "MX": "“Contienda de silencios mortales”",
+          "RU": "Отпор смертельному безмолвию",
+          "TC": "「死寂爭鳴」",
+          "TH": "\"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\"",
+          "VN": "\"Sóng Ngầm Nơi Biển Lặng Tăm Tối\""
         },
         "order": 9,
         "plateConditions": [
           {
             "conditionId": "achv_bat_hard_5_plating_cond_1",
             "desc": {
-              "id": "-9020619164105977274",
-              "text": ""
+              "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Agonia",
+              "CN": "在「影拓丰碑」中，通关苦难模式“死寂争鸣”的所有关卡",
+              "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Tortur-Modus ab.",
+              "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Agony mode",
+              "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Agonie",
+              "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Agoni",
+              "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Agonia.",
+              "JP": "「映像の記念碑」で「死の争鳴」の全ステージをハードモードでクリアする",
+              "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 고난 모드로 완료",
+              "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Agonía",
+              "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в режиме «Агония»",
+              "TC": "在「影拓豐碑」中，通關苦難模式「死寂爭鳴」的所有關卡",
+              "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทรมาน",
+              "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Đoạn Nộ trong [Đài Bóng Tối]"
             },
             "progressToCompare": 1
           },
           {
             "conditionId": "achv_bat_hard_5_plating_cond_2",
             "desc": {
-              "id": "-3879460760300904398",
-              "text": ""
+              "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Agonia",
+              "CN": "在「影拓丰碑」中，通关苦难模式“死寂争鸣”的所有关卡",
+              "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Tortur-Modus ab.",
+              "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Agony mode",
+              "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Agonie",
+              "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Agoni",
+              "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Agonia.",
+              "JP": "「映像の記念碑」で「死の争鳴」の全ステージをハードモードでクリアする",
+              "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 고난 모드로 완료",
+              "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Agonía",
+              "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в режиме «Агония»",
+              "TC": "在「影拓豐碑」中，通關苦難模式「死寂爭鳴」的所有關卡",
+              "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทรมาน",
+              "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Đoạn Nộ trong [Đài Bóng Tối] "
             },
             "progressToCompare": 1
           },
           {
             "conditionId": "achv_bat_hard_5_plating_cond_3",
             "desc": {
-              "id": "-6114591174741125624",
-              "text": ""
+              "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Agonia",
+              "CN": "在「影拓丰碑」中，通关苦难模式“死寂争鸣”的所有关卡",
+              "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Tortur-Modus ab.",
+              "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Agony mode",
+              "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Agonie",
+              "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Agoni",
+              "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Agonia.",
+              "JP": "「映像の記念碑」で「死の争鳴」の全ステージをハードモードでクリアする",
+              "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 고난 모드로 완료",
+              "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Agonía",
+              "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в режиме «Агония»",
+              "TC": "在「影拓豐碑」中，通關苦難模式「死寂爭鳴」的所有關卡",
+              "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทรมาน",
+              "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Đoạn Nộ trong [Đài Bóng Tối] "
             },
             "progressToCompare": 1
           },
           {
             "conditionId": "achv_bat_hard_5_plating_cond_4",
             "desc": {
-              "id": "-6100429401987385857",
-              "text": ""
+              "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Agonia",
+              "CN": "在「影拓丰碑」中，通关苦难模式“死寂争鸣”的所有关卡",
+              "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Tortur-Modus ab.",
+              "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Agony mode",
+              "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Agonie",
+              "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Agoni",
+              "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Agonia.",
+              "JP": "「映像の記念碑」で「死の争鳴」の全ステージをハードモードでクリアする",
+              "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 고난 모드로 완료",
+              "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Agonía",
+              "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в режиме «Агония»",
+              "TC": "在「影拓豐碑」中，通關苦難模式「死寂爭鳴」的所有關卡",
+              "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทรมาน",
+              "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Đoạn Nộ trong [Đài Bóng Tối] "
             },
             "progressToCompare": 1
           },
           {
             "conditionId": "achv_bat_hard_5_plating_cond_5",
             "desc": {
-              "id": "-4720210370694618414",
-              "text": ""
+              "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Agonia",
+              "CN": "在「影拓丰碑」中，通关苦难模式“死寂争鸣”的所有关卡",
+              "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Tortur-Modus ab.",
+              "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Agony mode",
+              "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Agonie",
+              "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Agoni",
+              "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Agonia.",
+              "JP": "「映像の記念碑」で「死の争鳴」の全ステージをハードモードでクリアする",
+              "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 고난 모드로 완료",
+              "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Agonía",
+              "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в режиме «Агония»",
+              "TC": "在「影拓豐碑」中，通關苦難模式「死寂爭鳴」的所有關卡",
+              "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทรมาน",
+              "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Đoạn Nộ trong [Đài Bóng Tối] "
             },
             "progressToCompare": 1
           },
           {
             "conditionId": "achv_bat_hard_5_plating_cond_6",
             "desc": {
-              "id": "-2101267140781479030",
-              "text": ""
+              "BR": "Em [Monumento Umbral], conclua todas as fases de \"Disputa dos Silêncios Mortais\" no modo Agonia",
+              "CN": "在「影拓丰碑」中，通关苦难模式“死寂争鸣”的所有关卡",
+              "DE": "Schließe alle „Streitgespräche in tödlicher Stille“-Phasen in [Schattenmonument] im Tortur-Modus ab.",
+              "EN": "In [Umbral Monument], complete all \"Contention of Deathly Silences\" stages at Agony mode",
+              "FR": "Dans [Monument de l'ombre], terminer tous les niveaux de « Discorde des silences mortels » en mode Agonie",
+              "ID": "Di [Monumen Umbra], selesaikan semua stage “Pertikaian Hening Mematikan” dalam mode Agoni",
+              "IT": "Completa tutti i livelli di Monumento d'ombra - \"Contesa dei silenzi tombali\" in modalità Agonia.",
+              "JP": "「映像の記念碑」で「死の争鳴」の全ステージをハードモードでクリアする",
+              "KR": "[그림자 이정표]에서 '적막 속의 외침'의 모든 스테이지를 고난 모드로 완료",
+              "MX": "En [Monumento del Umbral], completa todas las etapas de “Contienda de silencios mortales” en modo Agonía",
+              "RU": "Пройдите все стадии «Сумрачный монумент: Отпор смертельному безмолвию» в режиме «Агония»",
+              "TC": "在「影拓豐碑」中，通關苦難模式「死寂爭鳴」的所有關卡",
+              "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ทุก​ด่าน​ \"การ​ห้ำหั่น​แห่ง​ความ​เงียบ​มรณะ​\" ใน​โหม​ด​ทรมาน",
+              "VN": "Hoàn thành tất cả các màn \"Sóng Ngầm Nơi Biển Lặng Tăm Tối\" ở chế độ Đoạn Nộ trong [Đài Bóng Tối] "
             },
             "progressToCompare": 1
           }
@@ -495,8 +1107,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_bat_skill",
@@ -505,15 +1129,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "-8493769559406219028",
-              "text": ""
+              "BR": "Você subjugou o senhor das feras. Talvez você possa ser seu novo senhor?",
+              "CN": "您降服了兽群的首领，或许您可以成为它们的新王？",
+              "DE": "Du hast den Lord der Bestien bezwungen. Vielleicht könntest du ihr neuer Lord sein.",
+              "EN": "You subdued the lord of the beasts. Perhaps you can be their new lord?",
+              "FR": "Vous avez vaincu le seigneur des bêtes. Vous pourriez peut-être prendre sa place ?",
+              "ID": "Kamu berhasil menundukkan penguasa hewan buas itu. Mungkin kamu bisa jadi penguasa baru mereka?",
+              "IT": "Hai sconfitto il signore delle bestie. Vuoi prendere il suo posto?",
+              "JP": "貴殿は、群れの長を制圧しました。いっそ――新たな王に就いてみてはいかがでしょう？",
+              "KR": "비스트 무리의 우두머리를 굴복시켰으니 이제 당신이 그들의 새로운 왕이 될지도 모릅니다.",
+              "MX": "Sometiste al señor de las bestias. ¿Quizá puedas ser su nuevo señor?",
+              "RU": "Вы укротили повелителя зверей. Возможно, теперь эта роль перейдет вам?",
+              "TC": "您降服了獸群的首領，或許您可以成為牠們的新王？",
+              "TH": "คุณ​ปราบ​ราชัน​แห่ง​อสูร​ร้าย​ได้​สำเร็จ​ บางที​คุณอา​จก​ลาย​เป็น​ราชัน​องค์​ใหม่​ของ​พวก​มัน​ก็​เป็นได้​?",
+              "VN": "Bạn đã khuất phục chúa tể của đám quái. Biết đâu bạn sẽ trở thành chúa tể mới của chúng?"
             },
             "conditions": [
               {
                 "conditionId": "achv_bat_defeat_jzmking_2_cond_1",
                 "desc": {
-                  "id": "-8711097425054699187",
-                  "text": ""
+                  "BR": "Derrote o Uivante dos Penhascos",
+                  "CN": "击败巨山犼兽",
+                  "DE": "Besiege den Klippenheuler.",
+                  "EN": "Defeat the Craghowler",
+                  "FR": "Éliminer le hurlepic",
+                  "ID": "Kalahkan Craghowler",
+                  "IT": "Sconfiggi l'ulularupi.",
+                  "JP": "大山吼獣を倒す",
+                  "KR": "거대한 록하울러를 처치하기",
+                  "MX": "Derrota al aullador del peñasco",
+                  "RU": "Победите скального ревуна",
+                  "TC": "擊敗巨山犼獸",
+                  "TH": "กำจัด​เคร​ก​ฮา​ว​เลอร์",
+                  "VN": "Đánh bại Craghowler"
                 },
                 "progressToCompare": 1
               }
@@ -521,8 +1169,20 @@
           }
         },
         "name": {
-          "id": "-3297065060542669616",
-          "text": ""
+          "BR": "\"Megafera Subjugada\"",
+          "CN": "“兽王降伏”",
+          "DE": "„Mega-Bestie bezwungen“",
+          "EN": "\"Mega-Beast Subdued\"",
+          "FR": "« Méga-bête vaincue »",
+          "ID": "“Megamonster Ditaklukkan”",
+          "IT": "\"Mega bestia sconfitta\"",
+          "JP": "「獣王の降伏」",
+          "KR": "'비스트의 왕 제압'",
+          "MX": "“Megabestia sometida”",
+          "RU": "Укрощение мегазверя",
+          "TC": "「獸王降伏」",
+          "TH": "\"ปราบ​อสูร​ยักษ์​สำเร็จ​\"",
+          "VN": "\"Khuất Phục Cự Thú\""
         },
         "order": 18,
         "plateConditions": [],
@@ -534,8 +1194,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_hide_default",
@@ -544,15 +1216,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "-3842368236194108879",
-              "text": ""
+              "BR": "Camaradagem? Confiança? Essa coisinha linda está tratando você como se fosse sua amiga.",
+              "CN": "友情？信任？在这位可爱的小动物眼中，您已经是它的朋友了。",
+              "DE": "Kameradschaft? Vertrauen? Dieses niedliche kleine Ding behandelt dich als seinen Freund.",
+              "EN": "Camaraderie? Trust? This cute little thing is treating you as a friend.",
+              "FR": "Camaraderie ? Confiance ? Cette adorable petite créature s'est prise d'amitié pour vous.",
+              "ID": "Kesetiakawanan? Keper? Benda kecil imut ini menganggapmu temannya.",
+              "IT": "Che si tratti di spirito di squadra? Di fiducia? Questa piccola creatura ti sta trattando con un occhio di riguardo.",
+              "JP": "友情？信頼？この愛らしい小動物の瞳に映るあなたは、もうとっくに「友だち」なのです。",
+              "KR": "우정? 혹은 믿음? 그건 중요하지 않습니다. 이 귀여운 동물의 눈에 당신은 이미 소중한 친구니까요.",
+              "MX": "¿Compañerismo? ¿Confianza? Esta cosita tierna te está tratando como a un amigo.",
+              "RU": "Дух товарищества? Доверие? Это милое создание считает вас другом.",
+              "TC": "友情？信任？在這位可愛的小動物眼中，您已經是牠的朋友了。",
+              "TH": "มิตรภาพ​ร่วม​รบ​งั้น​เหรอ​? ไว้ใจ​งั้น​เหรอ​? สิ่ง​น่ารัก​ตัว​น้อย​นี้​มอง​คุณ​เป็นเพื่อน",
+              "VN": "Bằng hữu? Tin tưởng? Có vẻ sinh vật nhỏ bé đáng yêu này đã xem bạn là bạn rồi."
             },
             "conditions": [
               {
                 "conditionId": "achv_hide_open_treasure_2_cond_1",
                 "desc": {
-                  "id": "8934011117133300313",
-                  "text": ""
+                  "BR": "Encontre o \"tributo\" de Espertinho",
+                  "CN": "找到小机灵的“赠礼”",
+                  "DE": "Finde Smarties „Tribut“.",
+                  "EN": "Find Smartie's \"tribute\"",
+                  "FR": "Trouver le « don » de Smartie",
+                  "ID": "Cari “persembahan” si Pintar",
+                  "IT": "Trova il \"tributo\" di Smartie.",
+                  "JP": "スマーティの「プレゼント」を見つける",
+                  "KR": "똘똘이의 '선물'을 찾기",
+                  "MX": "Encuentra el “tributo” de Smartie",
+                  "RU": "Найдите подношение Умнички",
+                  "TC": "找到小機靈的「贈禮」",
+                  "TH": "ค้นหา​ \"เครื่องบรรณาการ​\" ของ​สมาร์ท​ตี้",
+                  "VN": "Tìm \"quà tặng\" của Smartie"
                 },
                 "progressToCompare": 1
               }
@@ -560,8 +1256,20 @@
           }
         },
         "name": {
-          "id": "8547979780306842682",
-          "text": ""
+          "BR": "\"Tributo Bestial\"",
+          "CN": "“小兽的赠礼”",
+          "DE": "„Tribut des Fellknäuels“",
+          "EN": "\"Beastie's Tribute\"",
+          "FR": "« Don de bestiole »",
+          "ID": "“Persembahan si Buas”",
+          "IT": "\"Tributo dell'animaletto\"",
+          "JP": "「獣の贈り物」",
+          "KR": "'작은 야수의 선물'",
+          "MX": "“Tributo de la pequeña bestia”",
+          "RU": "Подношение зверька",
+          "TC": "「小獸的贈禮」",
+          "TH": "\"เครื่องบรรณาการ​แห่ง​อสูร​\"",
+          "VN": "\"Cống Phẩm Từ Thú Cưng\""
         },
         "order": 10,
         "plateConditions": [],
@@ -573,8 +1281,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "time_achv_contingency_contract_0",
         "groupId": "achv_group_event_default",
@@ -583,15 +1303,39 @@
           "3": {
             "achieveLevel": 3,
             "completeDesc": {
-              "id": "2209946329917141981",
-              "text": ""
+              "BR": "Um pacto do passado está sendo restaurado. Você reacendeu um antigo contrato.",
+              "CN": "过去的合作正在恢复，您已让古老的合约重新燃起。",
+              "DE": "Ein Pakt der Vergangenheit wird erneuert. Du hast einen uralten Vertrag neu entzündet.",
+              "EN": "A pact from the past is being restored. You have re-ignited an ancient contract.",
+              "FR": "Un pacte du passé refait surface. Vous avez réactivé un ancien contrat.",
+              "ID": "Perjanjian dari masa lalu sedang dipulihkan. Kamu telah menyalakan kembali suatu kontrak kuno.",
+              "IT": "Un patto del passato sta per essere rinnovato. Hai riattivato un antico contratto.",
+              "JP": "過去の協力関係は取り戻され、古き契約に再び火が灯った。",
+              "KR": "과거의 협력이 되살아나고 있습니다. 당신의 손끝에서 오래된 협약의 불꽃이 다시 피어오릅니다.",
+              "MX": "Se está restaurando un pacto del pasado. Reencendiste un Contrato antiguo.",
+              "RU": "Восстанавливается былой союз. Вы заново разожгли искру древнего контракта.",
+              "TC": "過去的合作正在恢復，您已讓古老的合約重新燃起。",
+              "TH": "พันธะ​จาก​อดีต​กำลัง​ถูก​สานต่อ​ขึ้น​มา​อีกครั้ง​ คุณ​ได้​จุดประกาย​พันธสัญญา​โบราณ​ขึ้น​มา​อีกครั้ง",
+              "VN": "Một giao ước xa xưa đang được khôi phục. Bạn đã một lần nữa khơi dậy khế ước cổ xưa."
             },
             "conditions": [
               {
                 "conditionId": "achv_event_contingency_contract_0_3_cond_1",
                 "desc": {
-                  "id": "-5226979415416137344",
-                  "text": ""
+                  "BR": "Em [Contrato de Contingência: Operação Experimental de Reignição], conclua com sucesso um desafio com pelo menos 20 Critérios de Teste <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30>",
+                  "CN": "在危机合约重燃测试作战中，成功达成指标总计20<image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30>及以上的挑战",
+                  "DE": "Schließe erfolgreich eine Herausforderung mit mindestens 20 <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> Testkriterien in [Krisenschutzvertrag: Versuchseinsatz: Rückzündung] ab.",
+                  "EN": "In [Contingency Contract: Re-Ignition Experimental Operation], successfully complete a challenge with at least 20 <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> Test Criteria",
+                  "FR": "Dans [Contrat de crise : Opération expérimentale de Remise à feu], terminer un défi avec au moins 20 critères de test <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30>",
+                  "ID": "Di [Kontrak Kontingensi: Operasi Eksperimen Pengapian Ulang], selesaikan tantangan hingga tuntas dengan sedikitnya 20 <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> Kriteria Tes",
+                  "IT": "Completa una sfida con almeno 20 <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> Criteri di test in \"Contratto di emergenza: Operazione sperimentale di Riaccensione\".",
+                  "JP": "危機契約再燃試験作戦で評価値20<image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30>以上の挑戦をクリアする",
+                  "KR": "위기 협약 재점화 실험 작전에서 지표 총합 20<image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> 또는 그 이상으로 도전 완료",
+                  "MX": "En [Contrato de contingencia: Operación experimental de reignición], completa con éxito un desafío con al menos 20 <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> Criterios de prueba",
+                  "RU": "В событии «Чрезвычайный контракт: экспериментальная операция \"Повторное воспламенение\"» пройдите испытание, выбрав не менее 20 <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> условий.",
+                  "TC": "在危機合約重燃測試作戰中，成功達成指標總計20<image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30>及以上的挑戰",
+                  "TH": "ใน​ [สัญญา​ฉุกเฉิน​ : การปฏิบัติ​การทดลอง​อุบัติ​ซ้ำ​] ผ่าน​การ​ท้าทาย​ด้วย​เกณฑ์​การทด​สอบ​อย่างน้อย​ 20<image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> เกณฑ์",
+                  "VN": "Hoàn thành một thử thách với ít nhất 20 <image=\"Common/icon_contingency_contract_entry_black\" width=30 height=30> Tiêu Chí Thử Nghiệm trong [Hợp Đồng Điều Kiện: Chiến Dịch Thử Nghiệm Tái Kích Hoạt]"
                 },
                 "progressToCompare": 20
               }
@@ -599,8 +1343,20 @@
           }
         },
         "name": {
-          "id": "-109628762557852569",
-          "text": ""
+          "BR": "\"Reignição\"",
+          "CN": "“再度燃烧”",
+          "DE": "„Rückzündung“",
+          "EN": "\"Re-Ignition\"",
+          "FR": "« Remise à feu »",
+          "ID": "“Pengapian Ulang”",
+          "IT": "\"Riaccensione\"",
+          "JP": "「再度燃焼」",
+          "KR": "'재연소'",
+          "MX": "“Reignición”",
+          "RU": "Повторное воспламенение",
+          "TC": "「再度燃燒」",
+          "TH": "\"การ​ปะทุ​ซ้ำ​\"",
+          "VN": "\"Tái Kích Hoạt\""
         },
         "order": 6,
         "plateConditions": [],
@@ -612,8 +1368,20 @@
         "canBePlated": true,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_fac_factory",
@@ -622,15 +1390,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "890543667613214228",
-              "text": ""
+              "BR": "Com tato impecável, você alcançou o ápice no Desafio de Espadomancia.",
+              "CN": "您以极巧妙的策略，登临了选剑演武的顶峰。",
+              "DE": "Mit makellosem Geschick hast du den Höhepunkt der Prüfung der Schwertkunst erreicht.",
+              "EN": "With impeccable tact, you ascended the zenith in the Trial of Swordmancy.",
+              "FR": "Vous avez atteint le plus haut niveau de l'Épreuve de spadamancie avec une grâce parfaite.",
+              "ID": "Dengan taktik sempurna, kamu mencapai puncak Ujian Ilmu Pedang.",
+              "IT": "Dimostrando un impeccabile tatto, hai raggiunto l'apice nella Prova di Spadamanzia.",
+              "JP": "あなたは巧妙な戦略を駆使し、選剣演武の頂点に到達しました。",
+              "KR": "매우 교묘한 전략으로 선검 연무의 정점에 올랐습니다.",
+              "MX": "Con una técnica impecable, alcanzaste el Cénit en la Prueba del Arte de la espada.",
+              "RU": "Благодаря безупречному мастерству вы достигли вершины в «Испытании меча».",
+              "TC": "您以極巧妙的策略，登臨了選劍演武的頂峰。",
+              "TH": "ด้วย​ไหวพริบ​อัน​ไร้​ที่​ติ​ คุณ​ได้​พิชิต​จุดสูงสุด​ใน​บท​ทดสอบ​แห่ง​วิชาดา​บ",
+              "VN": "Với tài ứng biến khôn lường, bạn đã chạm đến đỉnh cao trong Khảo Nghiệm Kiếm Thuật."
             },
             "conditions": [
               {
                 "conditionId": "achv_fac_simulation_training_2_cond_1",
                 "desc": {
-                  "id": "4756948483210978155",
-                  "text": ""
+                  "BR": "Conclua 1 Desafio com um total de 10 Pontos de Batalha",
+                  "CN": "完成1次战力点之和为10的演算",
+                  "DE": "Schließe 1 Prüfung mit insgesamt 10 Kampfpunkten ab.",
+                  "EN": "Complete 1 Trial with a total of 10 Battle Points",
+                  "FR": "Terminer une épreuve totalisant 10 points de combat",
+                  "ID": "Selesaikan 1 Uji Coba dengan total 10 Poin Tarung",
+                  "IT": "Completa una prova con un totale di 10 punti battaglia.",
+                  "JP": "戦力ポイントが10の演算を1回クリアする",
+                  "KR": "전투력 포인트 합계가 10인 연산 1회 완료",
+                  "MX": "Completa 1 Prueba con un total de 10 Puntos de batalla",
+                  "RU": "Пройдите 1 испытание, набрав в сумме 10 боевых очков.",
+                  "TC": "完成1次戰力點之和為10的演算",
+                  "TH": "ผ่าน​ 1 บท​ทดสอบ​โดย​มี​คะแนน​การต่อสู้​รวม​ 10 คะแนน",
+                  "VN": "Hoàn thành 1 lần khảo nghiệm với tổng cộng 10 Điểm Chiến Đấu"
                 },
                 "progressToCompare": 1
               }
@@ -638,16 +1430,40 @@
           }
         },
         "name": {
-          "id": "3792697440393622814",
-          "text": ""
+          "BR": "\"Zênite dos Desafios\"",
+          "CN": "“演武巅峰”",
+          "DE": "„Höhepunkt der Prüfungen“",
+          "EN": "\"Zenith of the Trials\"",
+          "FR": "« Épreuve ultime »",
+          "ID": "“Puncak Ujian”",
+          "IT": "\"Apice delle prove\"",
+          "JP": "「演武頂点」",
+          "KR": "'연무의 정점'",
+          "MX": "“Cenit de las pruebas”",
+          "RU": "Вершина испытаний",
+          "TC": "「演武巔峰」",
+          "TH": "\"จุดสูงสุด​แห่ง​บท​ทดสอบ​\"",
+          "VN": "\"Đỉnh Cao Khảo Nghiệm\""
         },
         "order": 15,
         "plateConditions": [
           {
             "conditionId": "achv_fac_simulation_training_plating_cond_1",
             "desc": {
-              "id": "7085700936884776882",
-              "text": ""
+              "BR": "Após 1 instância de Estouro de Dados, conclua 1 Desafio com um total de 10 Pontos de Batalha",
+              "CN": "在数据溢出1次后，完成1次战力点之和为10的演算",
+              "DE": "Schließe nach einer Daten-Überfluss-Instanz 1 Prüfung mit insgesamt 10 Kampfpunkten ab.",
+              "EN": "After 1 instance of Data Overflow, complete 1 Trial with a total of 10 Battle Points",
+              "FR": "Après un excès de données, terminer une épreuve totalisant 10 points de combat",
+              "ID": "Setelah terjadi 1 kali Luapan Data, selesaikan 1 Uji Coba dengan total 10 Poin Tarung",
+              "IT": "Dopo un eccesso di dati, completa una prova con un totale di 10 punti battaglia.",
+              "JP": "オーバーフローを1回発生させた後、戦力ポイントが10の演算を1回クリアする",
+              "KR": "데이터 오버플로가 1회 발생 후, 전투력 포인트 합계가 10인 연산 1회 완료",
+              "MX": "Después de 1 instancia de Desbordamiento de datos, completa 1 Prueba con un total de 10 Puntos de batalla",
+              "RU": "После 1 переполнения данных пройдите 1 испытание, набрав в сумме 10 боевых очков",
+              "TC": "在資料過載1次後，完成1次戰力點之和為10的演算",
+              "TH": "หลังจาก​เกิด​ข้อมูล​ล้น​ระบบ​ 1 ครั้ง​ ให้​ผ่าน​ 1 บท​ทดสอบ​โดย​มี​คะแนน​การต่อสู้​รวม​ 10 คะแนน",
+              "VN": "Hoàn thành 1 lần khảo nghiệm với tổng cộng 10 Điểm Chiến Đấu sau khi xảy ra Tràn Dữ Liệu 1 lần"
             },
             "progressToCompare": 2
           }
@@ -660,8 +1476,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_quest_side",
@@ -670,15 +1498,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "-282662741538321047",
-              "text": ""
+              "BR": "A perseguição, o cheiro fresco de sangue e uma velha ferida que ainda lateja de dor... Camille jurou que seu sangue estará para sempre com Endministrator.",
+              "CN": "追逐，鲜血，仍会阵痛的旧伤痕……卡缪许下承诺，他的血必与管理员同在。",
+              "DE": "Die Jagd, der frische Geruch von Blut und eine alte Wunde, die noch immer schmerzhaft pulsiert … Camille hat geschworen, dass sein Blut für immer an der Seite des Endministrators sein wird.",
+              "EN": "The chase, the fresh scent of blood, and an old wound that still throbs with pain... Camille has sworn that his blood will forever be with the Endministrator.",
+              "FR": "La traque, l'odeur du sang frais et une vieille blessure qui refuse de se refermer... Camille a juré par son sang une fidélité éternelle à l'Endministrator.",
+              "ID": "Pengejaran ini, bau darah segar, dan luka lama yang sakitnya masih terasa menyayat .... Camille telah bersumpah bahwa darahnya akan selalu bersama Endministrator.",
+              "IT": "L'inseguimento, l'odore del sangue fresco e una vecchia ferita ancora dolorante... Camille ha giurato che il suo sangue sarà per sempre legato all'Endministrator.",
+              "JP": "追跡、鮮血、未だに疼く古傷……それらを胸に抱きながら、カミーユは誓った――その血は必ず管理人と共に在るのだと。",
+              "KR": "쫓고 쫓기는 추격과 붉은 피, 그리고 여전히 고통 서린 옛 상처들... 카뮤는 자신의 피를 바쳐 관리자의 곁을 지킬 것이라고 맹세했다.",
+              "MX": "La persecución, el fresco olor de la sangre y una vieja herida que aún palpita de dolor... Camille ha jurado que su sangre estará por siempre con Endministrator.",
+              "RU": "Погоня, свежий запах крови и старая рана, все еще пульсирующая от боли... Камиль поклялся, что его жизнь навсегда принадлежит Эндминистратору.",
+              "TC": "追逐，鮮血，仍會陣痛的舊傷痕……卡繆許下承諾，他的血必與管理員同在。",
+              "TH": "การ​ไล่​ล่า​ กลิ่น​เลือด​ส​ดๆ​ และ​บาดแผล​เก่า​ที่​ยังคง​เต้น​ระบม​อยู่​... คา​มิลล์​ได้​สาบาน​ว่า​เลือด​ของ​เขา​จะ​อยู่​เคียงข้าง​ Endministrator ตลอดไป",
+              "VN": "Cuộc truy đuổi, mùi máu tanh nồng, vết thương cũ vẫn nhói đau... Camille đã thề rằng xương máu của mình sẽ mãi đồng hành cùng Endministrator."
             },
             "conditions": [
               {
                 "conditionId": "achv_quest_camille_2_cond_1",
                 "desc": {
-                  "id": "5954728674835169066",
-                  "text": ""
+                  "BR": "Conclua a missão secundária [Dança Macabra]",
+                  "CN": "完成支线任务「亡者之舞」",
+                  "DE": "Schließe die Nebenmission [Totentanz] ab.",
+                  "EN": "Complete the side mission [Danse Macabre]",
+                  "FR": "Terminer la mission annexe [Danse macabre]",
+                  "ID": "Selesaikan misi sampingan [Danse Macabre]",
+                  "IT": "Completa la missione secondaria \"Ballata macabra\".",
+                  "JP": "サブ任務「死の舞踏」を完了する",
+                  "KR": "서브 임무 [망자의 춤] 완료",
+                  "MX": "Completa la misión secundaria [Danza macabra]",
+                  "RU": "Завершите побочную миссию «Пляска смерти»",
+                  "TC": "完成支線任務「亡者之舞」",
+                  "TH": "ทำ​ภารกิจ​เสริม​ [ระบำ​มรณะ​] ให้​สำเร็จ",
+                  "VN": "Hoàn thành nhiệm vụ phụ [Vũ Điệu Tử Thần]"
                 },
                 "progressToCompare": 1
               }
@@ -686,8 +1538,20 @@
           }
         },
         "name": {
-          "id": "-5826406042357803011",
-          "text": ""
+          "BR": "\"Dança Macabra\"",
+          "CN": "“亡者之舞”",
+          "DE": "„Totentanz“",
+          "EN": "\"Danse Macabre\"",
+          "FR": "« Danse macabre »",
+          "ID": "“Danse Macabre”",
+          "IT": "\"Ballata macabra\"",
+          "JP": "「死の舞踏」",
+          "KR": "'망자의 춤'",
+          "MX": "“Danza macabra”",
+          "RU": "Пляска смерти",
+          "TC": "「亡者之舞」",
+          "TH": "\"ระบำ​มรณะ​\"",
+          "VN": "\"Vũ Điệu Tử Thần\""
         },
         "order": 8,
         "plateConditions": [],
@@ -699,8 +1563,20 @@
         "canBePlated": false,
         "canBeUpgraded": false,
         "desc": {
-          "id": 0,
-          "text": ""
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
         },
         "displayTimeId": "",
         "groupId": "achv_group_quest_side",
@@ -709,15 +1585,39 @@
           "2": {
             "achieveLevel": 2,
             "completeDesc": {
-              "id": "-5038422536453351684",
-              "text": ""
+              "BR": "Seus punhos questionam minha determinação, mas meu Qi atravessa as terras e desafia o próprio trovão.",
+              "CN": "再以双拳问我心，一气贯山水，执武向雷霆。",
+              "DE": "Ihre Fäuste stellen meine Entschlossenheit in Frage, doch mein Qi erschüttert das Land und fordert den Donner höchstpersönlich heraus.",
+              "EN": "Their fists question my resolve, but my Qi punches through the lands and challenges the very thunder itself.",
+              "FR": "Leurs poings éprouvent ma volonté, mais mon chi détruit chaque obstacle sur mon chemin et défie le tonnerre lui-même.",
+              "ID": "Tinju mereka meragukan tekadku, tapi Qi-ku menghantam tanah dan menantang guntur itu sendiri.",
+              "IT": "I loro pugni mettono alla prova la mia determinazione, ma il mio Qi squarcia la terra e sfida il potere stesso del tuono.",
+              "JP": "拳は心を映す――気もて山水を貫き、武もて雷霆に向かわん。",
+              "KR": "두 주먹으로 다시금 내 마음을 물으니, 한 줄기 기운으로 산천을 꿰뚫고 무예를 떨쳐 뇌정에 맞서리라.",
+              "MX": "Sus puños ponen en duda mi determinación, pero mi Chi atraviesa la tierra y desafía al mismo trueno.",
+              "RU": "Чужие кулаки ставят мою решимость под сомнение, но моя энергия ци накрывает земли и бросает вызов самому грому.",
+              "TC": "再以雙拳問我心，一氣貫山水，執武向雷霆。",
+              "TH": "กำปั้น​ของ​พวกเขา​ท้าทาย​ความมุ่งมั่น​ของ​ฉัน​ แต่​พลัง​ชี่​ของ​ฉันทะ​ลุ​ทะลวง​ทั่ว​แผ่นดิน​และ​ท้าทาย​แม้แต่​สายฟ้า",
+              "VN": "Nắm đấm của họ chất vấn ý chí ta, nhưng khí của ta xuyên phá đất trời, đối đầu với cả sấm sét."
             },
             "conditions": [
               {
                 "conditionId": "achv_quest_mifu_2_cond_1",
                 "desc": {
-                  "id": "-6395722861489436692",
-                  "text": ""
+                  "BR": "Conclua a missão secundária [Um Punhado de Reflexões]",
+                  "CN": "完成支线任务「以拳问心」",
+                  "DE": "Schließe die Nebenmission [Für eine Handvoll Reflexionen] ab.",
+                  "EN": "Complete the side mission [A Fistful of Reflections]",
+                  "FR": "Terminer la mission annexe [Une poignée de reflets]",
+                  "ID": "Selesaikan misi sampingan [Segenggam Refleksi]",
+                  "IT": "Completa la missione secondaria \"Una serie di riflessioni\".",
+                  "JP": "サブ任務「心映す一拳」を完了する",
+                  "KR": "서브 임무 [주먹, 부딪히는 마음] 완료",
+                  "MX": "Completa la misión secundaria [Un puñado de reflexiones]",
+                  "RU": "Завершите побочную миссию «Кулак отражений»",
+                  "TC": "完成支線任務「以拳問心」",
+                  "TH": "ทำ​ภารกิจ​เสริม​ [ภาพสะท้อน​ใน​กำมือ​] ให้​สำเร็จ",
+                  "VN": "Hoàn thành nhiệm vụ phụ [Một Thoáng Suy Ngẫm]"
                 },
                 "progressToCompare": 1
               }
@@ -725,8 +1625,20 @@
           }
         },
         "name": {
-          "id": "-6521162814267092898",
-          "text": ""
+          "BR": "\"Um Punhado de Reflexões\"",
+          "CN": "“以拳问心”",
+          "DE": "„Für eine Handvoll Reflexionen“",
+          "EN": "\"A Fistful of Reflections\"",
+          "FR": "« Une poignée de reflets »",
+          "ID": "“Segenggam Refleksi”",
+          "IT": "\"Una serie di riflessioni\"",
+          "JP": "「心映す一拳」",
+          "KR": "'주먹, 부딪히는 마음'",
+          "MX": "“Un puñado de reflexiones”",
+          "RU": "Кулак отражений",
+          "TC": "「以拳問心」",
+          "TH": "\"ภาพสะท้อน​ใน​กำมือ​\"",
+          "VN": "\"Một Thoáng Suy Ngẫm\""
         },
         "order": 7,
         "plateConditions": [],

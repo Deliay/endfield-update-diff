@@ -76,8 +76,20 @@
           }
         ],
         "desc": {
-          "id": "1872040321625271677",
-          "text": ""
+          "BR": "Movimento da habilidade de batalha <@ba.key>Separador do Mundo</> melhorado: ao atingir um alvo com <#ba.physicalvul>Suscetibilidade Física</> ou <@ba.poise>Desorientado</>, o Multiplicador DNO é aumentado para <@ba.vup>{crushmultiadd_talent+1}</> vezes o original.",
+          "CN": "战技<@ba.key>开天</>命中时，若目标处于<#ba.physicalvul>物理脆弱</>或<@ba.poise>失衡</>状态，伤害倍率提升至原本的<@ba.vup>{crushmultiadd_talent+1}</>倍。",
+          "DE": "Kampffertigkeit-Move <@ba.key>Weltenspalter</> verbessert: Wenn das getroffene Ziel mit <#ba.physicalvul>Physisch-Empfänglichkeit</> oder <@ba.poise>Taumelnd</> belegt ist, wird der SDN-Multiplikator auf das <@ba.vup>{crushmultiadd_talent+1}</>-Fache des Originalwerts erhöht.",
+          "EN": "Battle skill move <@ba.key>World Splitter</> improved: When hitting a target with <#ba.physicalvul>Physical Susceptibility</> or <@ba.poise>Staggered</>, DMG Multiplier is increased to <@ba.vup>{crushmultiadd_talent+1}</> times the original.",
+          "FR": "Renforce la compétence de combat <@ba.key>Fissure planétaire</> : quand l'attaque touche une cible dotée d'une <#ba.physicalvul>sensibilité physique</> ou <@ba.poise>déséquilibrée</>, le multiplicateur de DÉG passe à <@ba.vup>{crushmultiadd_talent+1}</> fois sa valeur d'origine.",
+          "ID": "Gerakan skill tarung <@ba.key>World Splitter</> meningkat: Saat menghantam target yang terkena <#ba.physicalvul>Physical Susceptibility</> atau <@ba.poise>Staggered</>, Pengganda DMG akan meningkat menjadi <@ba.vup>{crushmultiadd_talent+1}</> kali nilai aslinya.",
+          "IT": "Mossa dell'abilità di combattimento <@ba.key>Fendimondo</> migliorata: quando colpisci un bersaglio con <#ba.physicalvul>Suscettibilità fisica</> o <@ba.poise>Vacillamento</>, il moltiplicatore danni aumenta a <@ba.vup>{crushmultiadd_talent+1}</> volte rispetto all'originale.",
+          "JP": "戦技<@ba.key>「開天」</>が命中するとき、目標が<#ba.physicalvul>物理脆弱</>または<@ba.poise>ブレイク</>状態の場合、ダメージ倍率が<@ba.vup>{crushmultiadd_talent+1}</>倍までアップする",
+          "KR": "배틀 스킬 <@ba.key>개천</>이 명중했을 때, 만약 목표가 <#ba.physicalvul>물리 취약</> 또는 <@ba.poise>불균형</> 상태에 빠질 경우, 피해 배율이 기존의 <@ba.vup>{crushmultiadd_talent+1}</>배로 증가합니다.",
+          "MX": "Movimiento de habilidad de batalla <@ba.key>Divisora de mundos</> mejorada: Al golpear a un objetivo con <#ba.physicalvul>Susceptibilidad física</> o <@ba.poise>Tambaleado</>, el Multiplicador de DAÑ aumenta <@ba.vup>{crushmultiadd_talent+1}</> veces el original.",
+          "RU": "Улучшает прием боевого навыка <@ba.key>Мировой раскол</>: при попадании по цели с <#ba.physicalvul>физической восприимчивостью</> или <@ba.poise>ошеломлением</> множитель УРН повышается до <@ba.vup>{crushmultiadd_talent+1}</> р. от первоначального.",
+          "TC": "戰技<@ba.key>開天</>命中時，若目標處於<#ba.physicalvul>物理脆弱</>或<@ba.poise>失衡</>狀態，傷害倍率提升至原本的<@ba.vup>{crushmultiadd_talent+1}</>倍。",
+          "TH": "ท่า​ทักษะ​การต่อสู้​ <@ba.key>​ผ่า​โลก​</> เลื่อนขั้น​: เมื่อ​โจมตี​โดน​เป้าหมาย​ที่​ติด​<#ba.physicalvul>​ความ​อ่อนไหว​ต่อ​การ​โจมตี​ทางกายภาพ​</>​หรือ​<@ba.poise>​เซ​ไป​เซ​มา​</> ตัวคูณ​ DMG เพิ่มขึ้น​เป็น​ <@ba.vup>{crushmultiadd_talent+1}</> เท่า​จาก​ของ​เดิม",
+          "VN": "Chiêu KN Chiến Đấu <@ba.key>Phân Định Thế Thái</> được cường hóa: Khi đánh trúng mục tiêu đang chịu <#ba.physicalvul>Yếu Hóa Vật Lý</> hoặc <@ba.poise>Suy Sụp</>, hệ số ST được tăng lên gấp <@ba.vup>{crushmultiadd_talent+1}</> lần ban đầu."
         },
         "id": "chr_0031_mifu_talent_1_1"
       },
@@ -178,8 +190,20 @@
           }
         ],
         "desc": {
-          "id": "-476716207830101100",
-          "text": ""
+          "BR": "Habilidade de batalha <@ba.key>Exorcismo Flamejante</> aprimorada: a habilidade aplica <#ba.weak>Fraqueza</> <@ba.vup>+ {0-weak_scale:0%}</> e <#ba.firevul>Suscetibilidade Térmica</> <@ba.vup>+ {vulnerable_scale:0%}</>. Duração da <@ba.key>pairagem</> das <@ba.key>Vesperferas Presas de Fogo</> <@ba.vup>+ {bat_duration:0}</> s.",
+          "CN": "战技<@ba.key>驱火焚影</>施加的<#ba.weak>虚弱</>效果<@ba.vup>+{0-weak_scale:0%}</>，<#ba.firevul>灼热脆弱</>效果<@ba.vup>+{vulnerable_scale:0%}</>，<@ba.key>衔火血翼</><@ba.key>盘桓</>的持续时间<@ba.vup>+{bat_duration:0}</>秒。",
+          "DE": "Kampffertigkeit <@ba.key>Flammender Exorzismus</> verbessert: Die Fertigkeit belegt Gegner mit <#ba.weak>Schwächen</> <@ba.vup>+{0-weak_scale:0%}</> und <#ba.firevul>Hitze-Empfänglichkeit</> <@ba.vup>+{vulnerable_scale:0%}</>. <@ba.key>Schwebe</>dauer der <@ba.key>Feuerzahn-Vesperflügel</> <@ba.vup>+{bat_duration:0}</> Sek.",
+          "EN": "Battle skill <@ba.key>Blazing Exorcism</> improved: The skill applies <#ba.weak>Weakness</> <@ba.vup>+{0-weak_scale:0%}</> and <#ba.firevul>Heat Susceptibility</> <@ba.vup>+{vulnerable_scale:0%}</>. <@ba.key>Firefang Vesperwings</> <@ba.key>hover</> duration <@ba.vup>+{bat_duration:0}</>s.",
+          "FR": "Renforce la compétence de combat <@ba.key>Exorcisme ardent</> : la compétence applique <#ba.weak>Faiblesse</> <@ba.vup>+{0-weak_scale:0%}</> et <#ba.firevul>sensibilité thermique</> <@ba.vup>+{vulnerable_scale:0%}</>. Les <@ba.key>Ailes vespérales de feu</> <@ba.key>surplombent</> l'ennemi pendant <@ba.vup>{bat_duration:0}</> s supplémentaires.",
+          "ID": "Skill Tarung <@ba.key>Blazing Exorcism</> meningkat: Skill ini akan mengakibatkan <#ba.weak>Weakness</> <@ba.vup>+{0-weak_scale:0%}</> dan <#ba.firevul>Heat Susceptibility</> <@ba.vup>+{vulnerable_scale:0%}</>. <@ba.key>Firefang Vesperwing</> punya durasi <@ba.key>terbang</> <@ba.vup>{bat_duration:0}</> dtk lebih lama.",
+          "IT": "Abilità di combattimento <@ba.key>Esorcismo ardente</> migliorata: l'abilità applica <@ba.vup>+{0-weak_scale:0%}</> di <#ba.weak>Indebolimento</> e <@ba.vup>+{vulnerable_scale:0%}</> di <#ba.firevul>Suscettibilità al fuoco</>. +<@ba.vup>{bat_duration:0}</> s di durata dei <@ba.key>vesprivoli zannafuoco</> <@ba.key>orbitanti</>.",
+          "JP": "戦技<@ba.key>「影祓う」</>で付与する<#ba.weak>弱体化</>効果<@ba.vup>+{0-weak_scale:0%}</>、<#ba.firevul>灼熱脆弱</>効果<@ba.vup>+{vulnerable_scale:0%}</>、<@ba.key>燃える血の翼</>の<@ba.key>包囲</>持続時間<@ba.vup>+{bat_duration:0}</>秒",
+          "KR": "전투 스킬 <@ba.key>사르는 불꽃</>이 부여하는 <#ba.weak>허약</> 효과 <@ba.vup>+{0-weak_scale:0%}</>, <#ba.firevul>열기 취약</> 효과 <@ba.vup>+{vulnerable_scale:0%}</>, <@ba.key>타오르는 핏빛 날개</>의 <@ba.key>배회</> 지속 시간 <@ba.vup>+{bat_duration:0}</>초",
+          "MX": "Habilidad de batalla <@ba.key>Exorcismo ardiente</> mejorada: La habilidad aplica <#ba.weak>Debilidad</> <@ba.vup>+{0-weak_scale:0%}</> y <#ba.firevul>Susceptibilidad al calor</> <@ba.vup>+{vulnerable_scale:0%}</>. Duración de <@ba.key>flotar</> de las <@ba.key>Vesperalas de colmillo ígneo</>: <@ba.vup>+{bat_duration:0}</> s.",
+          "RU": "Улучшает боевой навык <@ba.key>Пламя экзорцизма</>: навык накладывает <@ba.vup>+{0-weak_scale:0%}</> <#ba.weak>слабости</> и <@ba.vup>+{vulnerable_scale:0%}</> <#ba.firevul>восприимчивости к теплу</>. <@ba.key>Огнезубые крыланы</> <@ba.key>парят</> на <@ba.vup>{bat_duration:0}</> сек. дольше.",
+          "TC": "戰技<@ba.key>驅火焚影</>施加的<#ba.weak>虛弱</>效果<@ba.vup>+{0-weak_scale:0%}</>，<#ba.firevul>灼熱脆弱</>效果<@ba.vup>+{vulnerable_scale:0%}</>，<@ba.key>銜火血翼</><@ba.key>盤桓</>的持續時間<@ba.vup>+{bat_duration:0}</>秒。",
+          "TH": "ทักษะ​การต่อสู้​ <@ba.key>​เพลิง​ขจัด​ปีศาจ​</> เลื่อนขั้น​: ส​กิล​นี้​จะ​ทำให้​ติด​สถานะ​<#ba.weak>​จุดอ่อน​</> <@ba.vup>+{0-weak_scale:0%}</> และ​<#ba.firevul>​อ่อนไหว​ต่อ​การ​โจมตี​ความร้อน​</><@ba.vup>+{vulnerable_scale:0%}</> ระยะเวลา​ที่​<@ba.key>​ไฟร์​แฟง​เวส​เปอร์​วิง​ก์​</> <@ba.key>​ลอยตัว​</> <@ba.vup>+{bat_duration:0}</> วินาที",
+          "VN": "KN chiến đấu <@ba.key>Lửa Dữ Tận Diệt</> được cường hóa: Kỹ năng áp dụng <#ba.weak>Suy Yếu</> <@ba.vup>+{0-weak_scale:0%}</> và <#ba.firevul>Yếu Hóa Nhiệt</> <@ba.vup>+{vulnerable_scale:0%}</>. Hiệu lực <@ba.key>Dơi Quái Lửa</> <@ba.key>bay lơ lửng</> được <@ba.vup>+{bat_duration:0}</> giây."
         },
         "id": "chr_0033_camille_potential_1"
       },
@@ -249,8 +273,20 @@
           }
         ],
         "desc": {
-          "id": "7738574615870416649",
-          "text": ""
+          "BR": "Agilidade <@ba.vup>+ {Agi:0}</>, Inteligência <@ba.vup>+ {Wisd:0}</>.",
+          "CN": "敏捷<@ba.vup>+{Agi:0}</>，智识<@ba.vup>+{Wisd:0}</>。",
+          "DE": "Beweglichkeit <@ba.vup>+{Agi:0}</>, Intellekt <@ba.vup>+{Wisd:0}</>.",
+          "EN": "Agility <@ba.vup>+{Agi:0}</>, Intellect <@ba.vup>+{Wisd:0}</>.",
+          "FR": "Agilité <@ba.vup>+{Agi:0}</> points, Intelligence <@ba.vup>+{Wisd:0}</> points.",
+          "ID": "Agility <@ba.vup>+{Agi:0}</>, Intellect <@ba.vup>+{Wisd:0}</>.",
+          "IT": "Agilità <@ba.vup>+{Agi:0}</>, Intelletto <@ba.vup>+{Wisd:0}</>.",
+          "JP": "敏捷<@ba.vup>+{Agi:0}</>、知性<@ba.vup>+{Wisd:0}</>",
+          "KR": "민첩 <@ba.vup>+{Agi:0}</>, 지능 <@ba.vup>+{Wisd:0}</>",
+          "MX": "Agilidad <@ba.vup>+{Agi:0}</>, Intelecto <@ba.vup>+{Wisd:0}</>.",
+          "RU": "Ловкость <@ba.vup>+{Agi:0}</>, интеллект <@ba.vup>+{Wisd:0}</>.",
+          "TC": "敏捷<@ba.vup>+{Agi:0}</>，智識<@ba.vup>+{Wisd:0}</>。",
+          "TH": "ความคล่องแคล่ว​ <@ba.vup>+{Agi:0}</>, สติปัญญา​ <@ba.vup>+{Wisd:0}</>",
+          "VN": "Nhanh Nhẹn <@ba.vup>+{Agi:0}</>, Trí Tuệ <@ba.vup>+{Wisd:0}</>."
         },
         "id": "chr_0033_camille_potential_2"
       },
@@ -382,8 +418,20 @@
           }
         ],
         "desc": {
-          "id": "3520228932169906305",
-          "text": ""
+          "BR": "Combo de habilidades <@ba.key>Punhos Sem Remorsos</> melhorado: duração do tempo de recarga <@ba.vup>{cooldown}</> s. O efeito de <#ba.physicalvul>suscetibilidade física</> aplicado pela habilidade é aumentado em <@ba.vup>+ {extra_effect:0%}</> e a duração é aumentada em <@ba.vup>+ {extra_time:0}</> s.",
+          "CN": "连携技<@ba.key>拳出无悔</>的冷却时间<@ba.vup>{cooldown}</>秒，施加的<#ba.physicalvul>物理脆弱</>效果额外<@ba.vup>+{extra_effect:0%}</>，持续时间<@ba.vup>+{extra_time:0}</>秒。",
+          "DE": "Kombofertigkeit <@ba.key>Fäuste ohne Reue</> verbessert: Die Länge der Abklingzeit beträgt <@ba.vup>{cooldown}</> Sek. Der von der Fertigkeit zugefügte Effekt <#ba.physicalvul>Physisch-Empfänglichkeit</> wird weiter um <@ba.vup>+{extra_effect:0%}</> erhöht und hat eine um <@ba.vup>+{extra_time:0}</> Sek. verlängerte Dauer.",
+          "EN": "Combo skill <@ba.key>Fists of No Regrets</> improved: Length of cooldown <@ba.vup>{cooldown}</>s. <#ba.physicalvul>Physical Susceptibility</> effect applied by the skill is further increased by <@ba.vup>+{extra_effect:0%}</> and has <@ba.vup>+{extra_time:0}</>s duration.",
+          "FR": "Renforce la compétence de combo <@ba.key>Poings sans regrets</> : le temps de recharge est désormais de <@ba.vup>{cooldown}</> s. L'effet de <#ba.physicalvul>sensibilité physique</> appliqué par la compétence augmente encore de <@ba.vup>{extra_effect:0%}</> pendant <@ba.vup>+{extra_time:0}</> s.",
+          "ID": "Skill kombo <@ba.key>Fists of No Regrets</> meningkat: Durasi cooldown kini menjadi <@ba.vup>{cooldown}</> dtk. Efek <#ba.physicalvul>Physical Susceptibility</> yang diakibatkan oleh skill ini akan meningkat lagi sebesar <@ba.vup>+{extra_effect:0%}</> dan durasinya bertambah <@ba.vup>+{extra_time:0}</> dtk.",
+          "IT": "Abilità combo <@ba.key>Pugni senza rimorsi</> migliorata: tempo di recupero di <@ba.vup>{cooldown}</> s. L'effetto <#ba.physicalvul>Suscettibilità fisica</> applicato dall'abilità è aumentato di un ulteriore <@ba.vup>{extra_effect:0%}</> e ha una durata di <@ba.vup>+{extra_time:0}</> s.",
+          "JP": "連携技<@ba.key>「拳に悔い無し」</>のCD時間<@ba.vup>{cooldown}</>秒、付与する<#ba.physicalvul>物理脆弱</>の効果がさらに<@ba.vup>+{extra_effect:0%}</>、持続時間<@ba.vup>+{extra_time:0}</>秒",
+          "KR": "연계 스킬 <@ba.key>후회 없는 주먹</>의 쿨타임 <@ba.vup>{cooldown}</>초, 부여하는 <#ba.physicalvul>물리 취약</> 효과 추가로 <@ba.vup>+{extra_effect:0%}</>, 지속 시간 <@ba.vup>+{extra_time:0}</>초",
+          "MX": "Habilidad de combo <@ba.key>Puños sin arrepentimientos</> mejorada: Duración del tiempo de reutilización <@ba.vup>{cooldown}</> s. El efecto de <#ba.physicalvul>Susceptibilidad física</> aplicado por la habilidad aumenta en <@ba.vup>+{extra_effect:0%}</> y tiene una duración de <@ba.vup>+{extra_time:0}</> s.",
+          "RU": "Улучшает комбонавык <@ba.key>Бой без сожалений</>: скорость перезарядки составляет <@ba.vup>{cooldown}</> сек. <#ba.physicalvul>Физическая восприимчивость</>, накладываемая навыком, дополнительно повышается на <@ba.vup>{extra_effect:0%}</>, а ее длительность увеличивается на <@ba.vup>{extra_time:0}</> сек.",
+          "TC": "連攜技<@ba.key>拳出無悔</>的冷卻時間<@ba.vup>{cooldown}</>秒，施加的<#ba.physicalvul>物理脆弱</>效果額外<@ba.vup>+{extra_effect:0%}</>，持續時間<@ba.vup>+{extra_time:0}</>秒。",
+          "TH": "ทักษะ​คอม​โบ​ <@ba.key>​กำปั้น​ไม่​หวนคืน​</> เลื่อนขั้น​: ระยะเวลา​คูล​ดาวน์​จะ​ปรับ​เป็น​ <@ba.vup>{cooldown}</> วินาที​ เอฟเฟกต์​<#ba.physicalvul>​อ่อนไหว​ต่อ​โจมตี​กายภาพ​</>​ที่เกิด​จาก​ส​กิล​นี้​จะ​เพิ่มขึ้น​อีก​ <@ba.vup>+{extra_effect:0%}</> และ​มี​ระยะเวลา​ <@ba.vup>+{extra_time:0}</> วินาที",
+          "VN": "KN liên hoàn <@ba.key>Cú Đấm Bất Hận</> được cường hóa: Thời gian hồi chiêu giờ sẽ là <@ba.vup>{cooldown}</> giây. Hiệu ứng <#ba.physicalvul>Yếu Hóa Vật Lý</> được áp dụng bởi kỹ năng sẽ tăng lên thêm <@ba.vup>+{extra_effect:0%}</> và có <@ba.vup>+{extra_time:0}</> giây hiệu lực."
         },
         "id": "chr_0031_mifu_potential_1"
       },
@@ -422,8 +470,20 @@
           }
         ],
         "desc": {
-          "id": "8686801991832045020",
-          "text": ""
+          "BR": "Talento <@ba.key>Reviver da Fonte de Sangue</> aprimorado: potencialização de <@ba.fire>DNO Térmico</> por acúmulo <@ba.vup>+ {atk_up:0%}</>.",
+          "CN": "天赋<@ba.key>血涌苏生</>效果加强：每层<@ba.fire>灼热伤害</>提升效果<@ba.vup>+{atk_up:0%}</>。",
+          "DE": "Talent <@ba.key>Wiederbelebung des Blutquells</> verbessert: <@ba.fire>Hitze-SDN</>-Boost pro Kumulierung <@ba.vup>+{atk_up:0%}</>.",
+          "EN": "Talent <@ba.key>Bloodfount Revival</> improved: <@ba.fire>Heat DMG</> boost per stack <@ba.vup>+{atk_up:0%}</>.",
+          "FR": "Renforce le talent <@ba.key>Régénération sanguine</> : le bonus de <@ba.fire>DÉG thermiques</> par cumul augmente de <@ba.vup>{atk_up:0%}</>.",
+          "ID": "Talent <@ba.key>Bloodfount Revival</> meningkat: Peningkatan <@ba.fire>Heat DMG</> per Tumpuk <@ba.vup>+{atk_up:0%}</>.",
+          "IT": "Talento <@ba.key>Risveglio della fonte sanguigna</> migliorato: <@ba.vup>+{atk_up:0%}</> al potenziamento dei <@ba.fire>danni da fuoco</> per accumulo.",
+          "JP": "素質<@ba.key>「血の蘇生」</>強化：1段階ごとの<@ba.fire>灼熱ダメージ</>UP効果<@ba.vup>+{atk_up:0%}</>",
+          "KR": "재능 <@ba.key>혈류 소생</> 효과 강화: 1스택마다 <@ba.fire>열기 피해</> 증가 효과 <@ba.vup>+{atk_up:0%}</>",
+          "MX": "Talento <@ba.key>Resurgimiento de la fuente de sangre</> mejorado: Aumento de <@ba.fire>DAÑ por calor</> por acumulación <@ba.vup>+{atk_up:0%}</>.",
+          "RU": "Улучшает талант <@ba.key>Возрождение кровавого источника</>: усиление <@ba.fire>теплового УРН</> за заряд повышается на <@ba.vup>{atk_up:0%}</>.",
+          "TC": "天賦<@ba.key>血湧甦生</>效果加強：每層<@ba.fire>灼熱傷害</>提升效果<@ba.vup>+{atk_up:0%}</>。",
+          "TH": "พรสวรรค์​ <@ba.key>​การฟื้น​คืน​แห่ง​บ่อ​โลหิต​</> เลื่อนขั้น​: บู​ส​ต์​<@ba.fire>DMG ความร้อน​</>​ต่อ​ขั้น​<@ba.vup>+{atk_up:0%}</>",
+          "VN": "Thiên Phú <@ba.key>Huyết Tuyền Tái Sinh</> được cường hóa: Mức tăng <@ba.fire>ST Nhiệt</> mỗi cộng dồn được <@ba.vup>+{atk_up:0%}</>."
         },
         "id": "chr_0033_camille_potential_5"
       },
@@ -493,8 +553,20 @@
           }
         ],
         "desc": {
-          "id": "-5302547491079218811",
-          "text": ""
+          "BR": "Força <@ba.vup>+{Str:0}</>, Intensidade das Artes <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "CN": "力量<@ba.vup>+{Str:0}</>，源石技艺强度<@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>。",
+          "DE": "Stärke <@ba.vup>+{Str:0}</>, Technik-Intensität <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "EN": "Strength <@ba.vup>+{Str:0}</>, Arts Intensity <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "FR": "Octroie <@ba.vup>+{Str:0}</> points de Force et <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</> points d'intensité des Arts.",
+          "ID": "Strength <@ba.vup>+{Str:0}</>, Intensitas Arts <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "IT": "Forza <@ba.vup>+{Str:0}</>, Intensità delle Arti <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "JP": "筋力<@ba.vup>+{Str:0}</>、アーツ強度<@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>",
+          "KR": "힘 <@ba.vup>+{Str:0}</>, 오리지늄 아츠 강도 <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>",
+          "MX": "Fuerza <@ba.vup>+{Str:0}</>, Intensidad de artes <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "RU": "Сила <@ba.vup>+{Str:0}</>, сила искусств <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "TC": "力量<@ba.vup>+{Str:0}</>，源石技藝強度<@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>。",
+          "TH": "ความแข็ง​แกร่ง​ <@ba.vup>+{Str:0}</>, ความ​เข้มข้น​ของ​เวท​ <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>",
+          "VN": "Sức Mạnh <@ba.vup>+{Str:0}</>, Công Phép <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>."
         },
         "id": "chr_0031_mifu_potential_2"
       },
@@ -626,8 +698,20 @@
           }
         ],
         "desc": {
-          "id": "4619377830307483222",
-          "text": ""
+          "BR": "Combo de habilidades aprimorado: conjurar o combo cria um <#ba.shield>escudo</> com PV Máximo de <@ba.vup>{talent_shield_hppercent:0%}</> e duração de {talent_shield_duration} s. Enquanto o escudo está ativo, torna-se mais difícil interromper Mi Fu.\nEsse efeito só pode ser acionado uma vez a cada {talent_shield_cd} s.",
+          "CN": "施放连携技后获得<@ba.vup>{talent_shield_hppercent:0%}</>最大生命值的<#ba.shield>护盾</>，持续期间更难被打断，持续{talent_shield_duration}秒。\n该效果每{talent_shield_cd}秒最多触发一次。",
+          "DE": "Kombofertigkeit verbessert: Das Wirken der Kombo erzeugt einen <#ba.shield>Schild</> mit <@ba.vup>{talent_shield_hppercent:0%}</> max. LP und einer Dauer von {talent_shield_duration} Sek. Mi Fu ist schwieriger zu unterbrechen, solange der Schild aktiv ist.\nDieser Effekt kann nur einmal alle {talent_shield_cd} Sek. ausgelöst werden.",
+          "EN": "Combo skill improved: Casting the combo creates a <#ba.shield>shield</> with <@ba.vup>{talent_shield_hppercent:0%}</> Max HP and a duration of {talent_shield_duration}s. While the shield is active, Mi Fu becomes harder to interrupt.\nThis effect can only trigger once every {talent_shield_cd}s.",
+          "FR": "Renforce la compétence de combo : lancer le combo crée un <#ba.shield>bouclier</> doté de <@ba.vup>{talent_shield_hppercent:0%}</> de PV max. pour une durée de {talent_shield_duration} s. Tant que le bouclier est actif, il devient plus difficile d'interrompre Mi Fu.\nCet effet ne se déclenche qu'une fois toutes les {talent_shield_cd} s.",
+          "ID": "Skill kombo meningkat: Penggunaan kombo akan menghasilkan <#ba.shield>perisai</> dengan <@ba.vup>{talent_shield_hppercent:0%}</> HP maks dan durasi {talent_shield_duration} dtk. Selagi perisai masih aktif, Mi Fu menjadi lebih sulit disela.\nEfek ini hanya bisa diaktifkan satu kali setiap {talent_shield_cd} dtk.",
+          "IT": "Abilità combo migliorata: usare l'abilità combo crea uno <#ba.shield>scudo</> con un <@ba.vup>{talent_shield_hppercent:0%}</> dei PS massimi e una durata di {talent_shield_duration} s. Mentre lo scudo è attivo, interrompere Mi Fu è più difficile.\nQuesto effetto si attiva una volta ogni {talent_shield_cd} s.",
+          "JP": "連携技を発動すると、{talent_shield_duration}秒間最大HP<@ba.vup>{talent_shield_hppercent:0%}</>分の<#ba.shield>シールド</>を獲得し、持続期間中より中断されにくくなる\nこの効果は{talent_shield_cd}秒に1回まで発動可能",
+          "KR": "연계 스킬 사용 후, 최대 생명력 <@ba.vup>{talent_shield_hppercent:0%}</>만큼의 <#ba.shield>보호</>를 획득합니다. 해당 효과가 지속되는 동안 행동이 더 쉽게 끊이지 않으며, {talent_shield_duration}초 동안 지속됩니다.\n해당 효과는 {talent_shield_cd}초마다 최대 1회 발동합니다.",
+          "MX": "Habilidad de combo mejorada: Al lanzar el combo, se crea un <#ba.shield>escudo</> con <@ba.vup>{talent_shield_hppercent:0%}</> de PV Máx. y una duración de {talent_shield_duration} s. Mientras el escudo esté activo, será más difícil interrumpir a Mi Fu.\nEste efecto solo puede activarse una vez cada {talent_shield_cd} s.",
+          "RU": "Улучшает комбонавык: применение комбонавыка создает <#ba.shield>щит</> прочностью <@ba.vup>{talent_shield_hppercent:0%}</> от макс. ОЗ на {talent_shield_duration} сек. Пока щит активен, действия Ми Фу сложнее прервать.\nЭффект срабатывает 1 раз в {talent_shield_cd} сек.",
+          "TC": "施放連攜技後獲得<@ba.vup>{talent_shield_hppercent:0%}</>最大生命值的<#ba.shield>護盾</>，持續期間更難被打斷，持續{talent_shield_duration}秒。\n該效果每{talent_shield_cd}秒最多觸發一次。",
+          "TH": "ทักษะ​คอม​โบ​เลื่อนขั้น​: การ​ใช้​คอม​โบ​จะ​สร้าง​<#ba.shield>​โล่​</>​ปริมาณ​ <@ba.vup>{talent_shield_hppercent:0%}</> ของ​ HP สูงสุด​โดย​มี​ระยะเวลา​ {talent_shield_duration} วินาที​ ขณะที่​โล่​ยัง​มีผล​อยู่​ หมี่​ฟู่​จะ​ถูก​ขัดจังหวะ​ให้​หยุดชะงัก​ได้​ยาก​ขึ้น​\nเอฟเฟกต์​นี้​จะ​ทำงาน​ทุก​ {talent_shield_cd} วินาที​เท่านั้น",
+          "VN": "KN liên hoàn được cường hóa: Khi thi triển liên hoàn, tạo một <#ba.shield>khiên</> có giá trị bằng <@ba.vup>{talent_shield_hppercent:0%}</> HP Tối Đa, có hiệu lực trong {talent_shield_duration} giây. Khi khiên còn hiệu lực, Mi Fu khó bị gián đoạn hơn.\nHiệu ứng này chỉ có thể kích hoạt mỗi {talent_shield_cd} giây một lần."
         },
         "id": "chr_0031_mifu_talent_2_2"
       },
@@ -682,8 +766,20 @@
           }
         ],
         "desc": {
-          "id": "-9122993094724645460",
-          "text": ""
+          "BR": "Sempre que Camille restaurar PV com uma habilidade, ele ganhará <@ba.fire>DNO Térmico Causado</> <@ba.vup>+ {atk_up:0%}</> (máx. acúmulos: 5) por {duration:0} s enquanto outros operadores na equipe ganharão <@ba.vup>{teammate_rate:0%}</> desse efeito. Esse efeito pode atingir 5 acúmulos. \n<@ba.info>Se Camille já estiver com PV Máximo, cada acionador produzirá 2 acúmulos do efeito.</>",
+          "CN": "每当通过技能回复自身生命值时，获得<@ba.fire>灼热伤害</><@ba.vup>+{atk_up:0%}</>（最多5层），持续{duration:0}秒，小队内其他干员获得该效果的<@ba.vup>{teammate_rate:0%}</>。该效果最多叠加5层。\n<@ba.info>如果自身生命值已满，每次触发可获得2层效果。</>",
+          "DE": "Wenn Camille mit einer Fertigkeit LP wiederherstellt, erhält er <@ba.fire>Verursachten Hitze-SDN</> <@ba.vup>+{atk_up:0%}</> (max. Kumulierungen: 5) für {duration:0} Sek., während andere Operatoren im Team <@ba.vup>{teammate_rate:0%}</> dieses Effekts erlangen. Dieser Effekt kann 5-mal kumuliert werden. \n<@ba.info>Fehlen Camille keine LP, verleiht jedes Auslösen 2 Kumulierungen des Effekts.</>",
+          "EN": "Whenever Camille restores HP via a skill, he gains <@ba.fire>Heat DMG Dealt</> <@ba.vup>+{atk_up:0%}</> (max stacks: 5) for {duration:0}s while other operators in the team gain <@ba.vup>{teammate_rate:0%}</> of this effect. This effect can reach 5 stacks. \n<@ba.info>If Camille is already at Max HP, each trigger gives 2 stacks of the effect.</>",
+          "FR": "Quand Camille récupère des PV grâce à une compétence, les <@ba.fire>DÉG thermiques qu'il inflige</> augmentent de <@ba.vup>{atk_up:0%}</> (cumuls max. : 5) pendant {duration:0} s, tandis que les autres opérateurs de l'équipe obtiennent <@ba.vup>{teammate_rate:0%}</> de cet effet. L'effet est cumulable 5 fois. \n<@ba.info>Si les PV de Camille sont déjà au max., chaque déclenchement lui octroie 2 cumuls de l'effet.</>",
+          "ID": "Setiap kali Camille mendapatkan pemulihan HP melalui penggunaan skill, dia akan mendapatkan <@ba.fire>Heat DMG Dealt</> <@ba.vup>+{atk_up:0%}</> (tumpukan maks: 5) selama {duration:0} dtk, sedangkan operator lain dalam tim akan mendapatkan <@ba.vup>{teammate_rate:0%}</> dari efek ini. Efek ini bisa mencapai 5 tumpuk. \n<@ba.info>Jika Camille sudah mencapai HP maks, setiap aktivasi akan memberikan 2 tumpuk efek ini.</>",
+          "IT": "Quando Camille recupera PS tramite un'abilità, ottiene un <@ba.vup>{atk_up:0%}</> in più di <@ba.fire>danni da fuoco inflitti</> (accumuli massimi: 5) per {duration:0} s, mentre gli altri operatori nella squadra ottengono un <@ba.vup>{teammate_rate:0%}</> di questo effetto. Questo effetto può raggiungere un massimo di 5 accumuli.\n<@ba.info>Se Camille ha già il massimo di PS, ottiene 2 accumuli di questo effetto.</>",
+          "JP": "スキルで自身のHPを回復するたびに、{duration:0}秒間<@ba.fire>灼熱ダメージ</><@ba.vup>+{atk_up:0%}</>（最大5段階）\nチーム内の他のオペレーターはこの効果の<@ba.vup>{teammate_rate:0%}</>を獲得する（最大5段階）\n<@ba.info>自身のHPが満タンの場合、発動するたびに2段階の効果を得ることができる</>",
+          "KR": "스킬을 사용해 자신의 생명력을 회복할 때마다 <@ba.fire>열기 피해</> <@ba.vup>+{atk_up:0%}</>(최대 5스택), {duration:0}초간 지속, 팀 내 다른 오퍼레이터는 해당 효과의 <@ba.vup>{teammate_rate:0%}</>. 해당 효과는 최대 5스택까지 중첩됩니다.\n<@ba.info>자신의 생명력이 가득 찬 상태라면, 발동할 때마다 2스택을 중첩할 수 있습니다.</>",
+          "MX": "Cada vez que Camille restaura PV con una habilidad, obtiene <@ba.fire>DAÑ por calor infligido</> <@ba.vup>+{atk_up:0%}</> (Máx. acumulaciones: 5) durante {duration:0} s, mientras que los demás operadores del equipo obtienen <@ba.vup>{teammate_rate:0%}</> de este efecto. Este efecto puede alcanzar 5 acumulaciones. \n<@ba.info>Si Camille ya tiene sus PV Máx., cada activación otorga 2 acumulaciones del efecto.</>",
+          "RU": "Каждый раз, когда Камиль восстанавливает ОЗ с помощью навыка, он получает <@ba.vup>+{atk_up:0%}</> к <@ba.fire>наносимому тепловому УРН</> (максимум зарядов: 5) на {duration:0} сек., а другие оперативники в команде получают <@ba.vup>{teammate_rate:0%}</> от этого эффекта. Этот эффект может накапливать до 5 зарядов.\n<@ba.info>Если у Камиля уже макс. ОЗ, каждое срабатывание дает 2 заряда эффекта.</>",
+          "TC": "每當透過技能回復自身生命值時，獲得<@ba.fire>灼熱傷害</><@ba.vup>+{atk_up:0%}</>（最多5層），持續{duration:0}秒，小隊內其他幹員獲得該效果的<@ba.vup>{teammate_rate:0%}</>。該效果最多疊加5層。\n<@ba.info>如果自身生命值已滿，每次觸發可獲得2層效果。</>",
+          "TH": "เมื่อ​คา​มิลล์​ฟื้นฟู​ HP ผ่าน​ทักษะ​ เขา​จะ​ได้รับ​บัฟ​<@ba.fire>​ทำ​ DMG ความร้อน​</> <@ba.vup>+{atk_up:0%}</> (สะสม​ได้​สูงสุด​: 5 ขั้น​) เป็นเวลา​ {duration:0} วินาที​ ส่วน​โอเปอเรเตอร์​ตัว​อื่น​ใน​ทีม​จะ​ได้รับ​ผล​จาก​เอฟเฟกต์​นี้​ <@ba.vup>{teammate_rate:0%}</> เอฟเฟกต์​นี้​สะสม​ได้​ถึง​ 5 ขั้น​ \n<@ba.info>​หาก​คา​มิลล์​ HP เต็ม​ถึง​ขีด​สูงสุด​อยู่​แล้ว​ การ​เกิดผล​แต่ละครั้ง​จะ​ได้รับ​เอฟเฟกต์​ 2 ขั้น​</>",
+          "VN": "Mỗi khi Camille hồi HP qua một kỹ năng, bản thân cậu sẽ nhận <@ba.fire>ST Nhiệt Gây Ra</> <@ba.vup>+{atk_up:0%}</> trong {duration:0} giây (cộng dồn tối đa 5 tầng), đồng thời các cán viên khác trong đội sẽ nhận <@ba.vup>{teammate_rate:0%}</> của hiệu ứng này. Hiệu ứng này có thể cộng dồn tối đa 5 tầng. \n<@ba.info>Nếu Camille đã ở trạng thái HP tối đa, mỗi lần hiệu ứng được kích hoạt sẽ nhận 2 cộng dồn hiệu ứng.</>"
         },
         "id": "chr_0033_camille_talent_2_2"
       },
@@ -846,8 +942,20 @@
           }
         ],
         "desc": {
-          "id": "7574460544567885242",
-          "text": ""
+          "BR": "Talento <@ba.key>Fúria da Vigilante</> aprimorado: duração do <#ba.shield>Escudo</> <@ba.vup>+ {talent_shield_duration}</> s. Tempo de recarga do acionador do <#ba.shield>Escudo</>: <@ba.vup>{talent_shield_cd}</> s. Toda vez que o escudo for acionado, Mi Fu ganhará ATQ <@ba.vup>+ {potential_addattack_effect:0%}</> por {potential_addattack_duration}s.",
+          "CN": "天赋<@ba.key>怒意留心</>效果加强：<#ba.shield>护盾</>持续时间<@ba.vup>+{talent_shield_duration}</>秒，<#ba.shield>护盾</>触发间隔<@ba.vup>{talent_shield_cd}</>秒，每次触发时额外获得攻击力<@ba.vup>+{potential_addattack_effect:0%}</>，持续{potential_addattack_duration}秒。",
+          "DE": "Talent <@ba.key>Wachsamer Zorn</> verbessert: <#ba.shield>Schilddauer</> <@ba.vup>+{talent_shield_duration}</> Sek. <#ba.shield>Schild</>-Auslösungs-Abklingzeit <@ba.vup>{talent_shield_cd}</> Sek. Immer wenn der Schild ausgelöst wird, erhält Mi Fu ANG <@ba.vup>+{potential_addattack_effect:0%}</> für {potential_addattack_duration} Sek.",
+          "EN": "Talent <@ba.key>Vigilant Fury</> improved: <#ba.shield>Shield</> duration <@ba.vup>+{talent_shield_duration}</>s. <#ba.shield>Shield</> trigger cooldown <@ba.vup>{talent_shield_cd}</>s. Each time the shield is triggered, Mi Fu gains ATK <@ba.vup>+{potential_addattack_effect:0%}</> for {potential_addattack_duration}s.",
+          "FR": "Renforce le talent <@ba.key>Fureur vigilante</> : durée du <#ba.shield>bouclier</> <@ba.vup>+{talent_shield_duration}</> s et temps de recharge de son déclenchement de <@ba.vup>{talent_shield_cd}</> s. Chaque fois que le bouclier se déclenche, Mi Fu obtient <@ba.vup>+{potential_addattack_effect:0%}</> d'ATQ pendant {potential_addattack_duration} s.",
+          "ID": "Talent <@ba.key>Vigilant Fury</> meningkat: Durasi <#ba.shield>perisai</> <@ba.vup>+{talent_shield_duration}</> dtk. Cooldown aktivasi <#ba.shield>perisai</> menjadi <@ba.vup>{talent_shield_cd}</> dtk. Setiap kali perisai aktif, Mi Fu akan mendapatkan ATK <@ba.vup>+{potential_addattack_effect:0%}</> selama {potential_addattack_duration} dtk.",
+          "IT": "Talento <@ba.key>Furia vigile</> migliorato: <@ba.vup>+{talent_shield_duration}</> s di durata dello <#ba.shield>scudo</>. Il tempo di recupero per l'attivazione dello <#ba.shield>scudo</> è di <@ba.vup>{talent_shield_cd}</> s. Ogni volta che lo scudo viene attivato, Mi Fu ottiene <@ba.vup>+{potential_addattack_effect:0%}</> di attacco per {potential_addattack_duration} s.",
+          "JP": "素質<@ba.key>「怒りを封ず」</>強化：<#ba.shield>シールド</>の持続時間<@ba.vup>+{talent_shield_duration}</>秒、<#ba.shield>シールド</>の発動間隔<@ba.vup>{talent_shield_cd}</>秒、毎回発動するとき{potential_addattack_duration}秒間追加で攻撃力<@ba.vup>+{potential_addattack_effect:0%}</>",
+          "KR": "재능 <@ba.key>분노</> 효과 강화: <#ba.shield>보호</> 지속 시간 <@ba.vup>+{talent_shield_duration}</>초, <#ba.shield>보호</> 발동 간격 <@ba.vup>{talent_shield_cd}</>초, 매번 발동할 때마다 추가로 공격력 <@ba.vup>+{potential_addattack_effect:0%}</>, 지속 시간 {potential_addattack_duration}초",
+          "MX": "Talento <@ba.key>Furia vigilante</> mejorado: duración de <#ba.shield>Escudo</> <@ba.vup>+{talent_shield_duration}</> s. Tiempo de reutilización de activación de <#ba.shield>Escudo</> <@ba.vup>{talent_shield_cd}</> s. Cada vez que se activa el escudo, Mi Fu obtiene ATQ <@ba.vup>+{potential_addattack_effect:0%}</> durante {potential_addattack_duration} s.",
+          "RU": "Улучшает талант <@ba.key>Неусыпная ярость</>: длительность <#ba.shield>щита</> увеличивается на <@ba.vup>{talent_shield_duration}</> сек., а перезарядка срабатывания составляет <@ba.vup>{talent_shield_cd}</> сек. При каждой активации щита Ми Фу получает <@ba.vup>+{potential_addattack_effect:0%}</> к АТК на {potential_addattack_duration} сек.",
+          "TC": "天賦<@ba.key>怒意留心</>效果加強：<#ba.shield>護盾</>持續時間<@ba.vup>+{talent_shield_duration}</>秒，<#ba.shield>護盾</>觸發間隔<@ba.vup>{talent_shield_cd}</>秒，每次觸發時額外獲得攻擊力<@ba.vup>+{potential_addattack_effect:0%}</>，持續{potential_addattack_duration}秒。",
+          "TH": "พรสวรรค์​ <@ba.key>​โทสะ​ผู้​เฝ้า​ระวัง​</> เลื่อนขั้น​: ระยะเวลา​<#ba.shield>​โล่​</> <@ba.vup>+{talent_shield_duration}</> วินาที​ ระยะเวลา​คูล​ดาวน์​ของ​<#ba.shield>​โล่​</> <@ba.vup>{talent_shield_cd}</> วินาที​ แต่ละครั้ง​ที่​เรียก​ใช้​โล่​ หมี่​ฟู่​จะ​ได้รับ​บัฟ​ ATK <@ba.vup>+{potential_addattack_effect:0%}</> เป็นเวลา​ {potential_addattack_duration} วินาที",
+          "VN": "Thiên Phú <@ba.key>Thịnh Nộ Không Ngơi</> được cường hóa: Thời gian hiệu lực <#ba.shield>Khiên</> <@ba.vup>+{talent_shield_duration}</> giây. Thời gian hồi chiêu kích hoạt <#ba.shield>Khiên</> là <@ba.vup>{talent_shield_cd}</> giây. Mỗi lần khiên được kích hoạt, Mi Fu nhận Tấn Công <@ba.vup>+{potential_addattack_effect:0%}</> trong {potential_addattack_duration} giây."
         },
         "id": "chr_0031_mifu_potential_3"
       },
@@ -979,8 +1087,20 @@
           }
         ],
         "desc": {
-          "id": "-4552969883501920307",
-          "text": ""
+          "BR": "Combo de habilidades aprimorado: conjurar o combo cria um <#ba.shield>escudo</> com PV Máximo de <@ba.vup>{talent_shield_hppercent:0%}</> e duração de {talent_shield_duration} s. Enquanto o escudo está ativo, torna-se mais difícil interromper Mi Fu.\nEsse efeito só pode ser acionado uma vez a cada {talent_shield_cd} s.",
+          "CN": "施放连携技后获得<@ba.vup>{talent_shield_hppercent:0%}</>最大生命值的<#ba.shield>护盾</>，持续期间更难被打断，持续{talent_shield_duration}秒。\n该效果每{talent_shield_cd}秒最多触发一次。",
+          "DE": "Kombofertigkeit verbessert: Das Wirken der Kombo erzeugt einen <#ba.shield>Schild</> mit <@ba.vup>{talent_shield_hppercent:0%}</> max. LP und einer Dauer von {talent_shield_duration} Sek. Mi Fu ist schwieriger zu unterbrechen, solange der Schild aktiv ist.\nDieser Effekt kann nur einmal alle {talent_shield_cd} Sek. ausgelöst werden.",
+          "EN": "Combo skill improved: Casting the combo creates a <#ba.shield>shield</> with <@ba.vup>{talent_shield_hppercent:0%}</> Max HP and a duration of {talent_shield_duration}s. While the shield is active, Mi Fu becomes harder to interrupt.\nThis effect can only trigger once every {talent_shield_cd}s.",
+          "FR": "Renforce la compétence de combo : lancer le combo crée un <#ba.shield>bouclier</> doté de <@ba.vup>{talent_shield_hppercent:0%}</> de PV max. pour une durée de {talent_shield_duration} s. Tant que le bouclier est actif, il devient plus difficile d'interrompre Mi Fu.\nCet effet ne se déclenche qu'une fois toutes les {talent_shield_cd} s.",
+          "ID": "Skill kombo meningkat: Penggunaan kombo akan menghasilkan <#ba.shield>perisai</> dengan <@ba.vup>{talent_shield_hppercent:0%}</> HP maks dan durasi {talent_shield_duration} dtk. Selagi perisai masih aktif, Mi Fu menjadi lebih sulit disela.\nEfek ini hanya bisa diaktifkan satu kali setiap {talent_shield_cd} dtk.",
+          "IT": "Abilità combo migliorata: usare l'abilità combo crea uno <#ba.shield>scudo</> con un <@ba.vup>{talent_shield_hppercent:0%}</> dei PS massimi e una durata di {talent_shield_duration} s. Mentre lo scudo è attivo, interrompere Mi Fu è più difficile.\nQuesto effetto si attiva una volta ogni {talent_shield_cd} s.",
+          "JP": "連携技を発動すると、{talent_shield_duration}秒間最大HP<@ba.vup>{talent_shield_hppercent:0%}</>分の<#ba.shield>シールド</>を獲得し、持続期間中より中断されにくくなる\nこの効果は{talent_shield_cd}秒に1回まで発動可能",
+          "KR": "연계 스킬 사용 후, 최대 생명력 <@ba.vup>{talent_shield_hppercent:0%}</>만큼의 <#ba.shield>보호</>를 획득합니다. 해당 효과가 지속되는 동안 행동이 더 쉽게 끊이지 않으며, {talent_shield_duration}초 동안 지속됩니다.\n해당 효과는 {talent_shield_cd}초마다 최대 1회 발동합니다.",
+          "MX": "Habilidad de combo mejorada: Al lanzar el combo, se crea un <#ba.shield>escudo</> con <@ba.vup>{talent_shield_hppercent:0%}</> de PV Máx. y una duración de {talent_shield_duration} s. Mientras el escudo esté activo, será más difícil interrumpir a Mi Fu.\nEste efecto solo puede activarse una vez cada {talent_shield_cd} s.",
+          "RU": "Улучшает комбонавык: применение комбонавыка создает <#ba.shield>щит</> прочностью <@ba.vup>{talent_shield_hppercent:0%}</> от макс. ОЗ на {talent_shield_duration} сек. Пока щит активен, действия Ми Фу сложнее прервать.\nЭффект срабатывает 1 раз в {talent_shield_cd} сек.",
+          "TC": "施放連攜技後獲得<@ba.vup>{talent_shield_hppercent:0%}</>最大生命值的<#ba.shield>護盾</>，持續期間更難被打斷，持續{talent_shield_duration}秒。\n該效果每{talent_shield_cd}秒最多觸發一次。",
+          "TH": "ทักษะ​คอม​โบ​เลื่อนขั้น​: การ​ใช้​คอม​โบ​จะ​สร้าง​<#ba.shield>​โล่​</>​ปริมาณ​ <@ba.vup>{talent_shield_hppercent:0%}</> ของ​ HP สูงสุด​โดย​มี​ระยะเวลา​ {talent_shield_duration} วินาที​ ขณะที่​โล่​ยัง​มีผล​อยู่​ หมี่​ฟู่​จะ​ถูก​ขัดจังหวะ​ให้​หยุดชะงัก​ได้​ยาก​ขึ้น​\nเอฟเฟกต์​นี้​จะ​ทำงาน​ทุก​ {talent_shield_cd} วินาที​เท่านั้น",
+          "VN": "KN liên hoàn được cường hóa: Khi thi triển liên hoàn, tạo một <#ba.shield>khiên</> có giá trị bằng <@ba.vup>{talent_shield_hppercent:0%}</> HP Tối Đa, có hiệu lực trong {talent_shield_duration} giây. Khi khiên còn hiệu lực, Mi Fu khó bị gián đoạn hơn.\nHiệu ứng này chỉ có thể kích hoạt mỗi {talent_shield_cd} giây một lần."
         },
         "id": "chr_0031_mifu_talent_2_1"
       },
@@ -1050,8 +1170,20 @@
           }
         ],
         "desc": {
-          "id": "3314788190670376935",
-          "text": ""
+          "BR": "Movimento da habilidade de batalha <@ba.key>Separador do Mundo</> melhorado: ao atingir um alvo com <#ba.physicalvul>Suscetibilidade Física</> ou <@ba.poise>Desorientado</>, o Multiplicador DNO é aumentado para <@ba.vup>{crushmultiadd_talent+1}</> vezes o original.",
+          "CN": "战技<@ba.key>开天</>命中时，若目标处于<#ba.physicalvul>物理脆弱</>或<@ba.poise>失衡</>状态，伤害倍率提升至原本的<@ba.vup>{crushmultiadd_talent+1}</>倍。",
+          "DE": "Kampffertigkeit-Move <@ba.key>Weltenspalter</> verbessert: Wenn das getroffene Ziel mit <#ba.physicalvul>Physisch-Empfänglichkeit</> oder <@ba.poise>Taumelnd</> belegt ist, wird der SDN-Multiplikator auf das <@ba.vup>{crushmultiadd_talent+1}</>-Fache des Originalwerts erhöht.",
+          "EN": "Battle skill move <@ba.key>World Splitter</> improved: When hitting a target with <#ba.physicalvul>Physical Susceptibility</> or <@ba.poise>Staggered</>, DMG Multiplier is increased to <@ba.vup>{crushmultiadd_talent+1}</> times the original.",
+          "FR": "Renforce la compétence de combat <@ba.key>Fissure planétaire</> : quand l'attaque touche une cible dotée d'une <#ba.physicalvul>sensibilité physique</> ou <@ba.poise>déséquilibrée</>, le multiplicateur de DÉG passe à <@ba.vup>{crushmultiadd_talent+1}</> fois sa valeur d'origine.",
+          "ID": "Gerakan skill tarung <@ba.key>World Splitter</> meningkat: Saat menghantam target yang terkena <#ba.physicalvul>Physical Susceptibility</> atau <@ba.poise>Staggered</>, Pengganda DMG akan meningkat menjadi <@ba.vup>{crushmultiadd_talent+1}</> kali nilai aslinya.",
+          "IT": "Mossa dell'abilità di combattimento <@ba.key>Fendimondo</> migliorata: quando colpisci un bersaglio con <#ba.physicalvul>Suscettibilità fisica</> o <@ba.poise>Vacillamento</>, il moltiplicatore danni aumenta a <@ba.vup>{crushmultiadd_talent+1}</> volte rispetto all'originale.",
+          "JP": "戦技<@ba.key>「開天」</>が命中するとき、目標が<#ba.physicalvul>物理脆弱</>または<@ba.poise>ブレイク</>状態の場合、ダメージ倍率が<@ba.vup>{crushmultiadd_talent+1}</>倍までアップする",
+          "KR": "배틀 스킬 <@ba.key>개천</>이 명중했을 때, 만약 목표가 <#ba.physicalvul>물리 취약</> 또는 <@ba.poise>불균형</> 상태에 빠질 경우, 피해 배율이 기존의 <@ba.vup>{crushmultiadd_talent+1}</>배로 증가합니다.",
+          "MX": "Movimiento de habilidad de batalla <@ba.key>Divisora de mundos</> mejorada: Al golpear a un objetivo con <#ba.physicalvul>Susceptibilidad física</> o <@ba.poise>Tambaleado</>, el Multiplicador de DAÑ aumenta <@ba.vup>{crushmultiadd_talent+1}</> veces el original.",
+          "RU": "Улучшает прием боевого навыка <@ba.key>Мировой раскол</>: при попадании по цели с <#ba.physicalvul>физической восприимчивостью</> или <@ba.poise>ошеломлением</> множитель УРН повышается до <@ba.vup>{crushmultiadd_talent+1}</> р. от первоначального.",
+          "TC": "戰技<@ba.key>開天</>命中時，若目標處於<#ba.physicalvul>物理脆弱</>或<@ba.poise>失衡</>狀態，傷害倍率提升至原本的<@ba.vup>{crushmultiadd_talent+1}</>倍。",
+          "TH": "ท่า​ทักษะ​การต่อสู้​ <@ba.key>​ผ่า​โลก​</> เลื่อนขั้น​: เมื่อ​โจมตี​โดน​เป้าหมาย​ที่​ติด​<#ba.physicalvul>​ความ​อ่อนไหว​ต่อ​การ​โจมตี​ทางกายภาพ​</>​หรือ​<@ba.poise>​เซ​ไป​เซ​มา​</> ตัวคูณ​ DMG เพิ่มขึ้น​เป็น​ <@ba.vup>{crushmultiadd_talent+1}</> เท่า​จาก​ของ​เดิม",
+          "VN": "Chiêu KN Chiến Đấu <@ba.key>Phân Định Thế Thái</> được cường hóa: Khi đánh trúng mục tiêu đang chịu <#ba.physicalvul>Yếu Hóa Vật Lý</> hoặc <@ba.poise>Suy Sụp</>, hệ số ST được tăng lên gấp <@ba.vup>{crushmultiadd_talent+1}</> lần ban đầu."
         },
         "id": "chr_0031_mifu_talent_1_2"
       },
@@ -1090,8 +1222,20 @@
           }
         ],
         "desc": {
-          "id": "-6678631324645161753",
-          "text": ""
+          "BR": "<@ba.key>Derrame Sanguíneo</> supremo aprimorado: custo de Energia Suprema <@ba.vup>-{1-costvalue:0%}</>.",
+          "CN": "终结技<@ba.key>猩红坠雨</>所需的终结技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "DE": "Ultimative Fertigkeit <@ba.key>Blutregenguss</> verbessert: Ultimative Energiekosten <@ba.vup>-{1-costvalue:0%}</>.",
+          "EN": "Ultimate <@ba.key>Sanguine Downpour</> improved: Ultimate Energy cost <@ba.vup>-{1-costvalue:0%}</>.",
+          "FR": "Renforce l'ultime <@ba.key>Averse sanguine</> : coût en énergie d'ultime <@ba.vup>-{1-costvalue:0%}</>.",
+          "ID": "Ultimate <@ba.key>Sanguine Downpour</> meningkat: Biaya Energi Ultimate <@ba.vup>-{1-costvalue:0%}</>.",
+          "IT": "Abilità suprema <@ba.key>Diluvio di sangue</> migliorata: <@ba.vup>-{1-costvalue:0%}</> al costo di energia suprema.",
+          "JP": "必殺技<@ba.key>「降り注ぐ深紅」</>に必要な必殺チャージ<@ba.vup>-{1-costvalue:0%}</>",
+          "KR": "궁극기 <@ba.key>선혈의 비</>의 사용에 필요한 궁극기 에너지 <@ba.vup>-{1-costvalue:0%}</>",
+          "MX": "Máxima <@ba.key>Lluvia sanguínea</> mejorada: El costo de Energía máxima <@ba.vup>-{1-costvalue:0%}</>.",
+          "RU": "Улучшает супернавык <@ba.key>Кровавый ливень</>: расход суперэнергии <@ba.vup>-{1-costvalue:0%}</>.",
+          "TC": "終結技<@ba.key>猩紅墜雨</>所需的終結技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "TH": "อัล​ติ​เมท​<@ba.key>​แดง​โลหิต​สาด​กระหน่ำ​</>​เลื่อนขั้น​: พลังงาน​อัล​ติ​เมท​ที่​ใช้​ <@ba.vup>-{1-costvalue:0%}</>",
+          "VN": "Tuyệt kỹ <@ba.key>Tinh Hồng Huyết Vũ</> được cải thiện: Tiêu hao Năng Lượng Tuyệt Kỹ <@ba.vup>-{1-costvalue:0%}</>."
         },
         "id": "chr_0033_camille_potential_4"
       },
@@ -1130,8 +1274,20 @@
           }
         ],
         "desc": {
-          "id": "-1265456359049116779",
-          "text": ""
+          "BR": "<@ba.key>Postura Sem Piedade</> suprema aprimorada: Energia Suprema custa <@ba.vup>-{1-costvalue:0%}</>.",
+          "CN": "终结技<@ba.key>绝心</>所需的终结技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "DE": "Ultimative Fertigkeit <@ba.key>Wirbelbrecher</> verbessert: Ultimative Energiekosten <@ba.vup>-{1-costvalue:0%}</>.",
+          "EN": "Ultimate <@ba.key>Pile of No Mercy</> improved: Ultimate Energy cost <@ba.vup>-{1-costvalue:0%}</>.",
+          "FR": "Renforce l'ultime <@ba.key>Pas la moindre pitié</> : coût en énergie d'ultime <@ba.vup>-{1-costvalue:0%}</>.",
+          "ID": "Ultimate <@ba.key>Pile of No Mercy</> meningkat: Biaya Energi Ultimate <@ba.vup>-{1-costvalue:0%}</>.",
+          "IT": "Abilità suprema <@ba.key>Schianto spietato</> migliorata: <@ba.vup>-{1-costvalue:0%}</> al costo di energia suprema.",
+          "JP": "必殺技<@ba.key>「心絶やす」</>に必要な必殺チャージ<@ba.vup>-{1-costvalue:0%}</>",
+          "KR": "궁극기 <@ba.key>절심</>의 사용에 필요한 궁극기 에너지 <@ba.vup>-{1-costvalue:0%}</>",
+          "MX": "Máxima <@ba.key>Pila del desalmado</> mejorada: El costo de Energía máxima <@ba.vup>-{1-costvalue:0%}</>.",
+          "RU": "Улучшает супернавык <@ba.key>Безжалостный бросок</>: расход суперэнергии <@ba.vup>-{1-costvalue:0%}</>.",
+          "TC": "終結技<@ba.key>絕心</>所需的終結技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "TH": "อัล​ติ​เมท​ <@ba.key>​ทุ่ม​ตอก​ไร้​ปรานี​</> เลื่อนขั้น​: พลังงาน​อัล​ติ​เมท​ที่​ใช้​ <@ba.vup>-{1-costvalue:0%}</>",
+          "VN": "Tuyệt kỹ <@ba.key>Tuyệt Tâm</> được cải thiện: Tiêu hao Năng Lượng Tuyệt Kỹ <@ba.vup>-{1-costvalue:0%}</>."
         },
         "id": "chr_0031_mifu_potential_4"
       },
@@ -1294,8 +1450,20 @@
           }
         ],
         "desc": {
-          "id": "-2088213047662867981",
-          "text": ""
+          "BR": "Habilidade de batalha melhorada: os multiplicadores DNO dos movimentos <@ba.key>Armadilha das Nuvens</>, <@ba.key>Rastrear e Mutilar</> e <@ba.key>Separador do Mundo</> são aumentados para <@ba.vup>{atk_scale}</> vezes os originais. Habilidade suprema <@ba.key>Postura Sem Piedade</> melhorada: Desorientar Causado <@ba.vup>+ {poise2}</>.\n<@ba.info>O benefício Multiplicador DNO da Habilidade de Batalha pode se acumular com o talento Repressão Severa.</>",
+          "CN": "战技<@ba.key>断云</>、<@ba.key>追形</>、<@ba.key>开天</>的伤害倍率提升至原本的<@ba.vup>{atk_scale}</>倍，终结技<@ba.key>绝心</>造成的失衡值<@ba.vup>+{poise2}</>点。\n<@ba.info>战技倍率提升效果可与天赋冷面无情叠加。</>",
+          "DE": "Kampffertigkeit verbessert: SDN-Multiplikatoren der Moves <@ba.key>Wolkenfänger</>, <@ba.key>Pfad des Fetzens</> und <@ba.key>Weltenspalter</> sind auf das <@ba.vup>{atk_scale}</>-fache des Originalwerts erhöht. Ultimative Fertigkeit <@ba.key>Wirbelbrecher</> verbessert: verursachtes Taumeln <@ba.vup>+{poise2}</>.\n<@ba.info>Der Kampffertigkeit-SDN-Multiplikator-Buff ist mit dem Talent Hartes Durchgreifen kumulierbar.</>",
+          "EN": "Battle skill improved: DMG Multipliers of the moves <@ba.key>Cloudtrapper</>, <@ba.key>Trail and Mangle</>, and <@ba.key>World Splitter</> are increased to <@ba.vup>{atk_scale}</> times the original. Ultimate <@ba.key>Pile of No Mercy</> improved: Stagger Dealt <@ba.vup>+{poise2}</>.\n<@ba.info>The Battle Skill DMG Multiplier buff can stack with the talent Stern Crackdown.</>",
+          "FR": "Renforce la compétence de combat : les multiplicateurs de DÉG des attaques <@ba.key>Attrape-nuages</>, <@ba.key>Piste broyante</> et <@ba.key>Fissure planétaire</> passent à <@ba.vup>{atk_scale}</> fois leur valeur d'origine. Renforce l'ultime <@ba.key>Pas la moindre pitié</> : déséquilibre infligé <@ba.vup>+{poise2}</>.\n<@ba.info>Le bonus de multiplicateur de DÉG de la compétence de combat peut se cumuler avec le talent Répression sévère.</>",
+          "ID": "Skill tarung meningkat: Pengganda DMG dari gerakan <@ba.key>Cloudtrapper</>, <@ba.key>Trail and Mangle</>, dan <@ba.key>World Splitter</> meningkat menjadi <@ba.vup>{atk_scale}</> kali nilai aslinya. Ultimate <@ba.key>Pile of No Mercy</> meningkat: Stagger yang Ditimbulkan <@ba.vup>+{poise2}</>.\n<@ba.info>Buff Pengganda DMG Skill Tarung bisa ditumpuk dengan talent Stern Crackdown.</>",
+          "IT": "Abilità di combattimento migliorata: i moltiplicatori danni delle mosse <@ba.key>Catturanubi</>, <@ba.key>Inseguimento dilaniante</> e <@ba.key>Fendimondo</> aumentano a <@ba.vup>{atk_scale}</> volte rispetto all'originale. Abilità suprema <@ba.key>Schianto spietato</> migliorata: Vacillamento inflitto <@ba.vup>+{poise2}</>.\n<@ba.info>Il potenziamento del moltiplicatore danni dell'abilità di combattimento e il talento Giro di vite si accumulano.</>",
+          "JP": "戦技<@ba.key>「断雲」</>、<@ba.key>「追形」</>、<@ba.key>「開天」</>のダメージ倍率が<@ba.vup>{atk_scale}</>倍までアップし、必殺技<@ba.key>「心絶やす」</>で与えるブレイク値<@ba.vup>+{poise2}</>\n<@ba.info>戦技倍率UP効果と素質「冷酷無比」は重ね掛け可能</>",
+          "KR": "배틀 스킬 <@ba.key>단운</>, <@ba.key>추형</>, <@ba.key>개천</>의 피해 배율이 모두 기존의 <@ba.vup>{atk_scale}</>배로 증가, 궁극기 <@ba.key>절심</>이 주는 불균형치 <@ba.vup>+{poise2}</>포인트.\n<@ba.info>배틀 스킬 배율 증가 효과는 재능 냉정과 중첩됩니다.</>",
+          "MX": "Habilidad de batalla mejorada: Los multiplicadores de DAÑ de los movimientos <@ba.key>Atrapanubes</>, <@ba.key>Rastrear y destrozar</> y <@ba.key>Divisora de mundos</> aumentan <@ba.vup>{atk_scale}</> veces el original. Máxima <@ba.key>Pila del desalmado</> mejorada: Tambaleo infligido <@ba.vup>+{poise2}</>.\n<@ba.info>El incremento del Multiplicador de DAÑ de habilidad de batalla puede acumularse con el talento Castigo severo.</>",
+          "RU": "Улучшает боевой навык: множители УРН приемов <@ba.key>Ловец облаков</>, <@ba.key>Калечащая погоня</> и <@ba.key>Мировой раскол</> увеличены до <@ba.vup>{atk_scale}</> р. от первоначального. Улучшает супернавык <@ba.key>Безжалостный бросок</>: наносимое ошеломление <@ba.vup>+{poise2}</>.\n<@ba.info>Множитель УРН боевого навыка складывается с талантом «Жестокое подавление».</>",
+          "TC": "戰技<@ba.key>斷雲</>、<@ba.key>追形</>、<@ba.key>開天</>的傷害倍率提升至原本的<@ba.vup>{atk_scale}</>倍，終結技<@ba.key>絕心</>造成的失衡值<@ba.vup>+{poise2}</>點。\n<@ba.info>戰技倍率提升效果可與天賦冷面無情疊加。</>",
+          "TH": "เลื่อนขั้น​ทักษะ​การต่อสู้​: ตัวคูณ​ DMG ของ​ท่า​ <@ba.key>​กับดัก​เมฆา​</>, <@ba.key>​สะกดรอย​และ​ฉีก​ทึ้ง​</> และ​ <@ba.key>​ผ่า​โลก​</> เพิ่ม​เป็น​ <@ba.vup>{atk_scale}</> เท่า​ของ​ค่า​เดิม​ อัล​ติ​เมท​ <@ba.key>​ทุ่ม​ตอก​ไร้​ปรานี​</> เลื่อนขั้น​: ทำให้​เซ​ไป​เซ​มามาก​ขึ้น​ <@ba.vup>+{poise2}</>\n<@ba.info>​บัฟ​ตัวคูณ​ DMG จาก​ทักษะ​การต่อสู้​สามารถ​ซ้อนทับ​กับ​พรสวรรค์​การ​ปราบปราม​อย่างเด็ดขาด​ได้​</>",
+          "VN": "KN chiến đấu được cường hóa: Hệ Số ST của các chiêu <@ba.key>Kẻ Bắt Mây</>, <@ba.key>Truy Dấu Và Nghiền Nát</> & <@ba.key>Phân Định Thế Thái</> được tăng lên gấp <@ba.vup>{atk_scale}</> lần so với ban đầu. Tuyệt Kỹ <@ba.key>Tuyệt Tâm</> được cải thiện: Suy Sụp Gây Ra <@ba.vup>+{poise2}</>.\n<@ba.info>Buff Hệ Số ST KN Chiến Đấu được cộng dồn với thiên phú Trấn Áp Nghiêm Trừng.</>"
         },
         "id": "chr_0031_mifu_potential_5"
       },
@@ -1644,8 +1812,20 @@
           }
         ],
         "desc": {
-          "id": "8975406025796550803",
-          "text": ""
+          "BR": "Combo de habilidades <@ba.key>Espinho no Coração</> melhorado: a duração do Tempo de Recarga é <@ba.vup>{coolDown:0}</> s. <@ba.key>Espinho no Coração</> e <@ba.key>Perseguição do Caçador</> melhorados: os Multiplicadores DNO são aumentados para <@ba.vup>{atk_scale_1_1:0.0}</> vezes os originais. As recuperações de PH são aumentadas para <@ba.vup>{atb:0.##}</> vezes as originais.",
+          "CN": "连携技<@ba.key>锥心之棘</>冷却时间<@ba.vup>{coolDown:0}</>秒，<@ba.key>锥心之棘</>和<@ba.key>追猎</>伤害倍率提升至原本的<@ba.vup>{atk_scale_1_1:0.0}</>倍，技力恢复量提升至原本的<@ba.vup>{atb:0.##}</>倍。",
+          "DE": "Kombofertigkeit <@ba.key>Herzpfähler</> verbessert. Abklingzeit: <@ba.vup>{coolDown:0}</> Sek. <@ba.key>Herzpfähler</> und <@ba.key>Jägerverfolgung</> verbessert: Die SDN-Multiplikatoren werden auf das <@ba.vup>{atk_scale_1_1:0.0}</>-fache des Originalwerts erhöht. Die FP-Wiederherstellung wird auf das <@ba.vup>{atb:0.##}</>-fache des Originalwerts erhöht.",
+          "EN": "Combo skill <@ba.key>Heartstake Thorn</> improved: Length of cooldown <@ba.vup>{coolDown:0}</>s. <@ba.key>Heartstake Thorn</> and <@ba.key>Hunter Pursuit</> improved: DMG Multipliers are increased to <@ba.vup>{atk_scale_1_1:0.0}</> times the original; SP Recoveries are increased to <@ba.vup>{atb:0.##}</> times the original.",
+          "FR": "Renforce la compétence de combo <@ba.key>Épine en plein cœur</> : le temps de recharge est désormais de <@ba.vup>{coolDown:0}</> s, et les multiplicateurs de DÉG d'<@ba.key>Épine en plein cœur</> et <@ba.key>Poursuite du chasseur</> passent à <@ba.vup>{atk_scale_1_1:0.0}</> fois leur valeur d'origine. La récupération de PC passe à <@ba.vup>{atb:0.##}</> fois la valeur d'origine.",
+          "ID": "Skill kombo <@ba.key>Heartstake Thorn</> meningkat: Durasi cooldown menjadi <@ba.vup>{coolDown:0}</> dtk. <@ba.key>Heartstake Thorn</> dan <@ba.key>Hunter Pursuit</> meningkat: Pengganda DMG meningkat menjadi <@ba.vup>{atk_scale_1_1:0.0}</> kali nilai aslinya; Pemulihan SP meningkat menjadi <@ba.vup>{atb:0.##}</> kali nilai aslinya.",
+          "IT": "Abilità combo <@ba.key>Spina trafiggicuore</> migliorata: tempo di recupero di <@ba.vup>{coolDown:0}</> s. <@ba.key>Spina trafiggicuore</> e <@ba.key>Caccia spietata</> migliorate: i moltiplicatori danni aumentano a <@ba.vup>{atk_scale_1_1:0.0}</> volte rispetto all'originale e il recupero PA aumenta a <@ba.vup>{atb:0.##}</> volte rispetto all'originale.",
+          "JP": "連携技<@ba.key>「心抉る棘」</>のCD時間<@ba.vup>{coolDown:0}</>秒、<@ba.key>「心抉る棘」</>と<@ba.key>追及</>のダメージ倍率が<@ba.vup>{atk_scale_1_1:0.0}</>倍までアップし、SP回復量が<@ba.vup>{atb:0.##}</>倍までアップする",
+          "KR": "연계 스킬 <@ba.key>영혼의 가시</>의 쿨타임 <@ba.vup>{coolDown:0}</>초, <@ba.key>영혼의 가시</>와 <@ba.key>추적</> 피해 배율이 기존의 <@ba.vup>{atk_scale_1_1:0.0}</>배로 증가하고, 스킬 게이지 회복량이 기존의 <@ba.vup>{atb:0.##}</>배로 증가합니다.",
+          "MX": "Habilidad de combo <@ba.key>Espina clavacorazones</> mejorada: Duración de tiempo de reutilización <@ba.vup>{coolDown:0}</> s. <@ba.key>Espina clavacorazones</> y <@ba.key>Persecución del cazador</> mejoradas: Multiplicadores de DAÑ aumentan <@ba.vup>{atk_scale_1_1:0.0}</> veces el original; recuperaciones de PH aumentan <@ba.vup>{atb:0.##}</> veces el original.",
+          "RU": "Улучшает комбонавык <@ba.key>Пронзающий шип</>: время перезарядки составляет <@ba.vup>{coolDown:0}</> сек. Улучшает <@ba.key>Пронзающий шип</> и <@ba.key>Азарт охотника</>: множитель УРН увеличен до <@ba.vup>{atk_scale_1_1:0.0}</> р. от первоначального. Восстановление ОН увеличено до <@ba.vup>{atb:0.##}</> р. от первоначального.",
+          "TC": "連攜技<@ba.key>錐心之棘</>冷卻時間<@ba.vup>{coolDown:0}</>秒，<@ba.key>錐心之棘</>和<@ba.key>追獵</>傷害倍率提升至原本的<@ba.vup>{atk_scale_1_1:0.0}</>倍，技力回復量提升至原本的<@ba.vup>{atb:0.##}</>倍。",
+          "TH": "ทักษะ​คอม​โบ​<@ba.key>​หนาม​ตอก​หัวใจ​</> เลื่อนขั้น​: ระยะเวลา​คูล​ดาวน์​จะ​ปรับ​เป็น​ <@ba.vup>{coolDown:0}</> วินาที​ <@ba.key>​หนาม​ตอก​หัวใจ​</> และ​ <@ba.key>​การ​ไล่​ล่า​ของ​นัก​ล่า​</> เลื่อนขั้น​: ตัวคูณ​ DMG เพิ่มขึ้น​เป็น​ <@ba.vup>{atk_scale_1_1:0.0}</> เท่า​ของ​ค่า​เดิม​ การฟื้นฟู​ SP เพิ่มขึ้น​เป็น​ <@ba.vup>{atb:0.##}</> เท่า​ของ​ค่า​เดิม",
+          "VN": "KN liên hoàn <@ba.key>Truy Tâm Kích</> được cường hóa: Thời gian hồi chiêu hiện là <@ba.vup>{coolDown:0}</> giây. <@ba.key>Truy Tâm Kích</> và <@ba.key>Thợ Săn Truy Kích</> được cường hóa: Hệ Số ST tăng lên gấp <@ba.vup>{atk_scale_1_1:0.0}</> lần ban đầu; Hồi Điểm Kỹ Năng tăng lên gấp <@ba.vup>{atb:0.##}</> lần ban đầu."
         },
         "id": "chr_0033_camille_potential_3"
       },
@@ -1901,8 +2081,20 @@
           }
         ],
         "desc": {
-          "id": "-111120918068165417",
-          "text": ""
+          "BR": "Combo de habilidades <@ba.key>Espinho no Coração</> aprimorado: ao atingir um inimigo com <@ba.key>Vesperferas Presas de Fogo</> <@ba.key>pairando</> sobre ele, Camille restaura <@ba.heal>[{heal_base:0} + Inteligência × {heal_sub_multi:0.##}]</> de PV a si mesmo e concede um benefício de <#ba.combo>Conexão</> por {combo_duration} s. Quando a habilidade <@ba.key>Perseguição do Caçador</> é conjurada, esse efeito poderá ser acionado mesmo ao atingir um alvo sem Vesperferas <@ba.key>pairando</> sobre ele.",
+          "CN": "连携技<@ba.key>锥心之棘</>效果加强：当命中<@ba.key>衔火血翼</><@ba.key>盘桓</>的敌人时，回复自身<@ba.heal>[{heal_base:0}+智识×{heal_sub_multi:0.##}]</>点生命值并获得<#ba.combo>连击</>，持续{combo_duration}秒，施放<@ba.key>追猎</>时目标无需被<@ba.key>盘桓</>，即可触发上述效果。",
+          "DE": "Kombofertigkeit <@ba.key>Herzpfähler</> verbessert: Wenn Camille einen Gegner mit <@ba.key>schwebenden</><@ba.key> Feuerzahn-Vesperflügeln</> trifft, stellt er <@ba.heal>[{heal_base:0} + Intellekt × {heal_sub_multi:0.##}]</> LP bei sich wieder her und gewährt für {combo_duration} Sek. <#ba.combo>Verbunden</>-Buff. Beim Wirken von <@ba.key>Jägerverfolgung</> kann dieser Effekt auch dann ausgelöst werden, wenn ein Ziel mit nicht <@ba.key>schwebenden</> Vesperflügeln getroffen wird.",
+          "EN": "Combo skill <@ba.key>Heartstake Thorn</> improved: When hitting an enemy with <@ba.key>hovering</><@ba.key> Firefang Vesperwings</>, Camille restores <@ba.heal>[{heal_base:0} + Intellect × {heal_sub_multi:0.##}]</> HP to himself and grants a <#ba.combo>Link</> buff for {combo_duration}s. When casting <@ba.key>Hunter Pursuit</>, this effect can be triggered even when hitting a target with no <@ba.key>hovering</> Vesperwings.",
+          "FR": "Renforce la compétence de combo <@ba.key>Épine en plein cœur</> : quand elle touche un ennemi <@ba.key>surplombé</> par les <@ba.key>Ailes vespérales de feu</>, Camille restaure <@ba.heal>[{heal_base:0} + Intelligence × {heal_sub_multi:0.##}]</> PV à lui-même et octroie un bonus de <#ba.combo>Lien</> pendant {combo_duration} s. Lorsqu'il lance <@ba.key>Poursuite du chasseur</>, cet effet peut se déclencher même si la cible n'est <@ba.key>pas surplombée</> par des Ailes.",
+          "ID": "Skill kombo <@ba.key>Heartstake Thorn</> meningkat: Jika menghantam musuh selagi <@ba.key>Firefang Vesperwing</> <@ba.key>terbang mengitarinya</>, Camille akan mendapatkan pemulihan HP untuk dirinya sendiri sebesar <@ba.heal>[{heal_base:0} + Intellect × {heal_sub_multi:0.##}]</> dan mendapatkan buff <#ba.combo>Link</> selama {combo_duration} detik. Saat menggunakan <@ba.key>Hunter Pursuit</>, efek ini bisa aktif bahkan jika menghantam target saat Vesperwing <@ba.key>tidak sedang terbang mengitarinya</>.",
+          "IT": "Abilità combo <@ba.key>Spina trafiggicuore</> migliorata: quando colpisce un nemico con <@ba.key>vesprivoli zannafuoco</> <@ba.key>orbitanti</>, Camille recupera PS pari a <@ba.heal>({heal_base:0} + Intelletto × {heal_sub_multi:0.##})</> e conferisce un potenziamento <#ba.combo>Concatenamento</> per {combo_duration} s. Quando usa <@ba.key>Caccia spietata</>, questo effetto può essere attivato anche colpendo un bersaglio senza vesprivoli <@ba.key>orbitanti</>.",
+          "JP": "連携技<@ba.key>「心抉る棘」</>強化：<@ba.key>燃える血の翼</>で<@ba.key>包囲</>している敵に命中するとき、自身の<@ba.heal>[{heal_base:0}+知性×{heal_sub_multi:0.##}]</>のHPを回復し、さらに{combo_duration}秒間持続する<#ba.combo>リンク</>状態を獲得する\n<@ba.key>追及</>を発動するとき、目標が<@ba.key>包囲</>されていなくてもこの効果を発動できる",
+          "KR": "연계 스킬 <@ba.key>영혼의 가시</> 효과 강화: <@ba.key>타오르는 핏빛 날개</>가 <@ba.key>배회</>하는 상태의 적을 명중할 때, <@ba.heal>[{heal_base:0}+지능×{heal_sub_multi:0.##}]</>포인트만큼의 생명력을 회복하고 <#ba.combo>연타</>를 획득합니다. {combo_duration}초 동안 지속. <@ba.key>추적</> 사용 시에는 목표가 <@ba.key>배회</> 효과를 받는 상태가 아닐 때도 위의 효과가 발동합니다.",
+          "MX": "Habilidad de combo <@ba.key>Espina clavacorazones</> mejorada: Al golpear a un enemigo con <@ba.key>Vesperalas de colmillo ígneo</><@ba.key> flotantes</>, Camille restaura <@ba.heal>[{heal_base:0} + Intelecto × {heal_sub_multi:0.##}]</> PV para sí y otorga un incremento de <#ba.combo>Enlace</> durante {combo_duration} s. Al usar <@ba.key>Persecución del cazador</>, este efecto puede activarse incluso al golpear a un objetivo sin Vesperalas <@ba.key>flotantes</>.",
+          "RU": "Улучшает комбонавык <@ba.key>Пронзающий шип</>: при попадании по врагу с <@ba.key>парящими</> <@ba.key>огнезубыми крыланами</> Камиль восстанавливает себе <@ba.heal>({heal_base:0} + интеллект х {heal_sub_multi:0.##})</> ОЗ и получает усиление <#ba.combo>Связь</> на {combo_duration} сек. При применении <@ba.key>Азарта охотника</> этот эффект может сработать, даже если поразить цель без <@ba.key>парящих</> крыланов.",
+          "TC": "連攜技<@ba.key>錐心之棘</>效果加強：當命中<@ba.key>銜火血翼</><@ba.key>盤桓</>的敵人時，回復自身<@ba.heal>[{heal_base:0}+智識×{heal_sub_multi:0.##}]</>點生命值並獲得<#ba.combo>連擊</>，持續{combo_duration}秒，施放<@ba.key>追獵</>時目標無需被<@ba.key>盤桓</>，即可觸發上述效果。",
+          "TH": "ปรับปรุง​ทักษะ​คอม​โบ​ <@ba.key>​หนาม​ตอก​หัวใจ​</>: เมื่อ​โจมตี​ศัตรู​ด้วย​ <@ba.key>​ไฟร์​แฟง​เวส​เปอร์​วิง​ก์​</> <@ba.key>​ที่​กำลัง​ลอย​อยู่​</>​คา​มิลล์​จะ​ฟื้นฟู​ HP ให้​ตนเอง​ <@ba.heal>[{heal_base:0} + สติปัญญา​ × {heal_sub_multi:0.##}]</>​และ​ได้รับ​บัฟ​ <#ba.combo>​เชื่อมโยง​</> เป็นเวลา​ {combo_duration} วินาที​ เมื่อ​ใช้​ <@ba.key>​การ​ไล่​ล่า​ของ​นัก​ล่า​</> เอฟเฟกต์​นี้​จะ​สามารถ​ทำงาน​แม้​โจมตี​โดน​เป้าหมาย​ที่​ไม่มี​เวส​เปอร์​วิง​ก์​<@ba.key>​ที่​กำลัง​ลอย​อยู่​</>​ก็ตาม",
+          "VN": "KN liên hoàn <@ba.key>Truy Tâm Kích</> tăng cao hơn: Khi đánh trúng kẻ địch bằng <@ba.key>Dơi Quái Lửa</> <@ba.key>bay lơ lửng</>, Camille hồi lại <@ba.heal>[{heal_base:0} + Trí Tuệ × {heal_sub_multi:0.##}]</> HP cho bản thân và nhận <#ba.combo>Liên Kết</> buff trong {combo_duration} giây. Khi thi triển <@ba.key>Thợ Săn Truy Kích</>, hiệu ứng này vẫn có thể kích hoạt ngay cả khi đánh trúng mục tiêu không có Dơi Quái <@ba.key>bay lơ lửng</>."
         },
         "id": "chr_0033_camille_talent_1_1"
       },
@@ -2158,8 +2350,20 @@
           }
         ],
         "desc": {
-          "id": "1662500302726879505",
-          "text": ""
+          "BR": "Combo de habilidades <@ba.key>Espinho no Coração</> aprimorado: ao atingir um inimigo com <@ba.key>Vesperferas Presas de Fogo</> <@ba.key>pairando</> sobre ele, Camille restaura <@ba.heal>[{heal_base:0} + Inteligência × {heal_sub_multi:0.##}]</> de PV a si mesmo e concede um benefício de <#ba.combo>Conexão</> por {combo_duration} s. Quando a habilidade <@ba.key>Perseguição do Caçador</> é conjurada, esse efeito poderá ser acionado mesmo ao atingir um alvo sem Vesperferas <@ba.key>pairando</> sobre ele.",
+          "CN": "连携技<@ba.key>锥心之棘</>效果加强：当命中<@ba.key>衔火血翼</><@ba.key>盘桓</>的敌人时，回复自身<@ba.heal>[{heal_base:0}+智识×{heal_sub_multi:0.##}]</>点生命值并获得<#ba.combo>连击</>，持续{combo_duration}秒，施放<@ba.key>追猎</>时目标无需被<@ba.key>盘桓</>，即可触发上述效果。",
+          "DE": "Kombofertigkeit <@ba.key>Herzpfähler</> verbessert: Wenn Camille einen Gegner mit <@ba.key>schwebenden</><@ba.key> Feuerzahn-Vesperflügeln</> trifft, stellt er <@ba.heal>[{heal_base:0} + Intellekt × {heal_sub_multi:0.##}]</> LP bei sich wieder her und gewährt für {combo_duration} Sek. <#ba.combo>Verbunden</>-Buff. Beim Wirken von <@ba.key>Jägerverfolgung</> kann dieser Effekt auch dann ausgelöst werden, wenn ein Ziel mit nicht <@ba.key>schwebenden</> Vesperflügeln getroffen wird.",
+          "EN": "Combo skill <@ba.key>Heartstake Thorn</> improved: When hitting an enemy with <@ba.key>hovering</><@ba.key> Firefang Vesperwings</>, Camille restores <@ba.heal>[{heal_base:0} + Intellect × {heal_sub_multi:0.##}]</> HP to himself and grants a <#ba.combo>Link</> buff for {combo_duration}s. When casting <@ba.key>Hunter Pursuit</>, this effect can be triggered even when hitting a target with no <@ba.key>hovering</> Vesperwings.",
+          "FR": "Renforce la compétence de combo <@ba.key>Épine en plein cœur</> : quand elle touche un ennemi <@ba.key>surplombé</> par les <@ba.key>Ailes vespérales de feu</>, Camille restaure <@ba.heal>[{heal_base:0} + Intelligence × {heal_sub_multi:0.##}]</> PV à lui-même et octroie un bonus de <#ba.combo>Lien</> pendant {combo_duration} s. Lorsqu'il lance <@ba.key>Poursuite du chasseur</>, cet effet peut se déclencher même si la cible n'est <@ba.key>pas surplombée</> par des Ailes.",
+          "ID": "Skill kombo <@ba.key>Heartstake Thorn</> meningkat: Jika menghantam musuh selagi <@ba.key>Firefang Vesperwing</> <@ba.key>terbang mengitarinya</>, Camille akan mendapatkan pemulihan HP untuk dirinya sendiri sebesar <@ba.heal>[{heal_base:0} + Intellect × {heal_sub_multi:0.##}]</> dan mendapatkan buff <#ba.combo>Link</> selama {combo_duration} detik. Saat menggunakan <@ba.key>Hunter Pursuit</>, efek ini bisa aktif bahkan jika menghantam target saat Vesperwing <@ba.key>tidak sedang terbang mengitarinya</>.",
+          "IT": "Abilità combo <@ba.key>Spina trafiggicuore</> migliorata: quando colpisce un nemico con <@ba.key>vesprivoli zannafuoco</> <@ba.key>orbitanti</>, Camille recupera PS pari a <@ba.heal>({heal_base:0} + Intelletto × {heal_sub_multi:0.##})</> e conferisce un potenziamento <#ba.combo>Concatenamento</> per {combo_duration} s. Quando usa <@ba.key>Caccia spietata</>, questo effetto può essere attivato anche colpendo un bersaglio senza vesprivoli <@ba.key>orbitanti</>.",
+          "JP": "連携技<@ba.key>「心抉る棘」</>強化：<@ba.key>燃える血の翼</>で<@ba.key>包囲</>している敵に命中するとき、自身の<@ba.heal>[{heal_base:0}+知性×{heal_sub_multi:0.##}]</>のHPを回復し、さらに{combo_duration}秒間持続する<#ba.combo>リンク</>状態を獲得する\n<@ba.key>追及</>を発動するとき、目標が<@ba.key>包囲</>されていなくてもこの効果を発動できる",
+          "KR": "연계 스킬 <@ba.key>영혼의 가시</> 효과 강화: <@ba.key>타오르는 핏빛 날개</>가 <@ba.key>배회</>하는 상태의 적을 명중할 때, <@ba.heal>[{heal_base:0}+지능×{heal_sub_multi:0.##}]</>포인트만큼의 생명력을 회복하고 <#ba.combo>연타</>를 획득합니다. {combo_duration}초 동안 지속. <@ba.key>추적</> 사용 시에는 목표가 <@ba.key>배회</> 효과를 받는 상태가 아닐 때도 위의 효과가 발동합니다.",
+          "MX": "Habilidad de combo <@ba.key>Espina clavacorazones</> mejorada: Al golpear a un enemigo con <@ba.key>Vesperalas de colmillo ígneo</><@ba.key> flotantes</>, Camille restaura <@ba.heal>[{heal_base:0} + Intelecto × {heal_sub_multi:0.##}]</> PV para sí y otorga un incremento de <#ba.combo>Enlace</> durante {combo_duration} s. Al usar <@ba.key>Persecución del cazador</>, este efecto puede activarse incluso al golpear a un objetivo sin Vesperalas <@ba.key>flotantes</>.",
+          "RU": "Улучшает комбонавык <@ba.key>Пронзающий шип</>: при попадании по врагу с <@ba.key>парящими</> <@ba.key>огнезубыми крыланами</> Камиль восстанавливает себе <@ba.heal>({heal_base:0} + интеллект х {heal_sub_multi:0.##})</> ОЗ и получает усиление <#ba.combo>Связь</> на {combo_duration} сек. При применении <@ba.key>Азарта охотника</> этот эффект может сработать, даже если поразить цель без <@ba.key>парящих</> крыланов.",
+          "TC": "連攜技<@ba.key>錐心之棘</>效果加強：當命中<@ba.key>銜火血翼</><@ba.key>盤桓</>的敵人時，回復自身<@ba.heal>[{heal_base:0}+智識×{heal_sub_multi:0.##}]</>點生命值並獲得<#ba.combo>連擊</>，持續{combo_duration}秒，施放<@ba.key>追獵</>時目標無需被<@ba.key>盤桓</>，即可觸發上述效果。",
+          "TH": "ปรับปรุง​ทักษะ​คอม​โบ​ <@ba.key>​หนาม​ตอก​หัวใจ​</>: เมื่อ​โจมตี​ศัตรู​ด้วย​ <@ba.key>​ไฟร์​แฟง​เวส​เปอร์​วิง​ก์​</> <@ba.key>​ที่​กำลัง​ลอย​อยู่​</>​คา​มิลล์​จะ​ฟื้นฟู​ HP ให้​ตนเอง​ <@ba.heal>[{heal_base:0} + สติปัญญา​ × {heal_sub_multi:0.##}]</>​และ​ได้รับ​บัฟ​ <#ba.combo>​เชื่อมโยง​</> เป็นเวลา​ {combo_duration} วินาที​ เมื่อ​ใช้​ <@ba.key>​การ​ไล่​ล่า​ของ​นัก​ล่า​</> เอฟเฟกต์​นี้​จะ​สามารถ​ทำงาน​แม้​โจมตี​โดน​เป้าหมาย​ที่​ไม่มี​เวส​เปอร์​วิง​ก์​<@ba.key>​ที่​กำลัง​ลอย​อยู่​</>​ก็ตาม",
+          "VN": "KN liên hoàn <@ba.key>Truy Tâm Kích</> tăng cao hơn: Khi đánh trúng kẻ địch bằng <@ba.key>Dơi Quái Lửa</> <@ba.key>bay lơ lửng</>, Camille hồi lại <@ba.heal>[{heal_base:0} + Trí Tuệ × {heal_sub_multi:0.##}]</> HP cho bản thân và nhận <#ba.combo>Liên Kết</> buff trong {combo_duration} giây. Khi thi triển <@ba.key>Thợ Săn Truy Kích</>, hiệu ứng này vẫn có thể kích hoạt ngay cả khi đánh trúng mục tiêu không có Dơi Quái <@ba.key>bay lơ lửng</>."
         },
         "id": "chr_0033_camille_talent_1_2"
       },
@@ -2214,8 +2418,20 @@
           }
         ],
         "desc": {
-          "id": "-3913239951803631467",
-          "text": ""
+          "BR": "Sempre que Camille restaurar PV com uma habilidade, ele ganhará <@ba.fire>DNO Térmico Causado</> <@ba.vup>+ {atk_up:0%}</> (máx. acúmulos: 5) por {duration:0} s enquanto outros operadores na equipe ganharão <@ba.vup>{teammate_rate:0%}</> desse efeito. Esse efeito pode atingir 5 acúmulos. \n<@ba.info>Se Camille já estiver com PV Máximo, cada acionador produzirá 2 acúmulos do efeito.</>",
+          "CN": "每当通过技能回复自身生命值时，获得<@ba.fire>灼热伤害</><@ba.vup>+{atk_up:0%}</>（最多5层），持续{duration:0}秒，小队内其他干员获得该效果的<@ba.vup>{teammate_rate:0%}</>。该效果最多叠加5层。\n<@ba.info>如果自身生命值已满，每次触发可获得2层效果。</>",
+          "DE": "Wenn Camille mit einer Fertigkeit LP wiederherstellt, erhält er <@ba.fire>Verursachten Hitze-SDN</> <@ba.vup>+{atk_up:0%}</> (max. Kumulierungen: 5) für {duration:0} Sek., während andere Operatoren im Team <@ba.vup>{teammate_rate:0%}</> dieses Effekts erlangen. Dieser Effekt kann 5-mal kumuliert werden. \n<@ba.info>Fehlen Camille keine LP, verleiht jedes Auslösen 2 Kumulierungen des Effekts.</>",
+          "EN": "Whenever Camille restores HP via a skill, he gains <@ba.fire>Heat DMG Dealt</> <@ba.vup>+{atk_up:0%}</> (max stacks: 5) for {duration:0}s while other operators in the team gain <@ba.vup>{teammate_rate:0%}</> of this effect. This effect can reach 5 stacks. \n<@ba.info>If Camille is already at Max HP, each trigger gives 2 stacks of the effect.</>",
+          "FR": "Quand Camille récupère des PV grâce à une compétence, les <@ba.fire>DÉG thermiques qu'il inflige</> augmentent de <@ba.vup>{atk_up:0%}</> (cumuls max. : 5) pendant {duration:0} s, tandis que les autres opérateurs de l'équipe obtiennent <@ba.vup>{teammate_rate:0%}</> de cet effet. L'effet est cumulable 5 fois. \n<@ba.info>Si les PV de Camille sont déjà au max., chaque déclenchement lui octroie 2 cumuls de l'effet.</>",
+          "ID": "Setiap kali Camille mendapatkan pemulihan HP melalui penggunaan skill, dia akan mendapatkan <@ba.fire>Heat DMG Dealt</> <@ba.vup>+{atk_up:0%}</> (tumpukan maks: 5) selama {duration:0} dtk, sedangkan operator lain dalam tim akan mendapatkan <@ba.vup>{teammate_rate:0%}</> dari efek ini. Efek ini bisa mencapai 5 tumpuk. \n<@ba.info>Jika Camille sudah mencapai HP maks, setiap aktivasi akan memberikan 2 tumpuk efek ini.</>",
+          "IT": "Quando Camille recupera PS tramite un'abilità, ottiene un <@ba.vup>{atk_up:0%}</> in più di <@ba.fire>danni da fuoco inflitti</> (accumuli massimi: 5) per {duration:0} s, mentre gli altri operatori nella squadra ottengono un <@ba.vup>{teammate_rate:0%}</> di questo effetto. Questo effetto può raggiungere un massimo di 5 accumuli.\n<@ba.info>Se Camille ha già il massimo di PS, ottiene 2 accumuli di questo effetto.</>",
+          "JP": "スキルで自身のHPを回復するたびに、{duration:0}秒間<@ba.fire>灼熱ダメージ</><@ba.vup>+{atk_up:0%}</>（最大5段階）\nチーム内の他のオペレーターはこの効果の<@ba.vup>{teammate_rate:0%}</>を獲得する（最大5段階）\n<@ba.info>自身のHPが満タンの場合、発動するたびに2段階の効果を得ることができる</>",
+          "KR": "스킬을 사용해 자신의 생명력을 회복할 때마다 <@ba.fire>열기 피해</> <@ba.vup>+{atk_up:0%}</>(최대 5스택), {duration:0}초간 지속, 팀 내 다른 오퍼레이터는 해당 효과의 <@ba.vup>{teammate_rate:0%}</>. 해당 효과는 최대 5스택까지 중첩됩니다.\n<@ba.info>자신의 생명력이 가득 찬 상태라면, 발동할 때마다 2스택을 중첩할 수 있습니다.</>",
+          "MX": "Cada vez que Camille restaura PV con una habilidad, obtiene <@ba.fire>DAÑ por calor infligido</> <@ba.vup>+{atk_up:0%}</> (Máx. acumulaciones: 5) durante {duration:0} s, mientras que los demás operadores del equipo obtienen <@ba.vup>{teammate_rate:0%}</> de este efecto. Este efecto puede alcanzar 5 acumulaciones. \n<@ba.info>Si Camille ya tiene sus PV Máx., cada activación otorga 2 acumulaciones del efecto.</>",
+          "RU": "Каждый раз, когда Камиль восстанавливает ОЗ с помощью навыка, он получает <@ba.vup>+{atk_up:0%}</> к <@ba.fire>наносимому тепловому УРН</> (максимум зарядов: 5) на {duration:0} сек., а другие оперативники в команде получают <@ba.vup>{teammate_rate:0%}</> от этого эффекта. Этот эффект может накапливать до 5 зарядов.\n<@ba.info>Если у Камиля уже макс. ОЗ, каждое срабатывание дает 2 заряда эффекта.</>",
+          "TC": "每當透過技能回復自身生命值時，獲得<@ba.fire>灼熱傷害</><@ba.vup>+{atk_up:0%}</>（最多5層），持續{duration:0}秒，小隊內其他幹員獲得該效果的<@ba.vup>{teammate_rate:0%}</>。該效果最多疊加5層。\n<@ba.info>如果自身生命值已滿，每次觸發可獲得2層效果。</>",
+          "TH": "เมื่อ​คา​มิลล์​ฟื้นฟู​ HP ผ่าน​ทักษะ​ เขา​จะ​ได้รับ​บัฟ​<@ba.fire>​ทำ​ DMG ความร้อน​</> <@ba.vup>+{atk_up:0%}</> (สะสม​ได้​สูงสุด​: 5 ขั้น​) เป็นเวลา​ {duration:0} วินาที​ ส่วน​โอเปอเรเตอร์​ตัว​อื่น​ใน​ทีม​จะ​ได้รับ​ผล​จาก​เอฟเฟกต์​นี้​ <@ba.vup>{teammate_rate:0%}</> เอฟเฟกต์​นี้​สะสม​ได้​ถึง​ 5 ขั้น​ \n<@ba.info>​หาก​คา​มิลล์​ HP เต็ม​ถึง​ขีด​สูงสุด​อยู่​แล้ว​ การ​เกิดผล​แต่ละครั้ง​จะ​ได้รับ​เอฟเฟกต์​ 2 ขั้น​</>",
+          "VN": "Mỗi khi Camille hồi HP qua một kỹ năng, bản thân cậu sẽ nhận <@ba.fire>ST Nhiệt Gây Ra</> <@ba.vup>+{atk_up:0%}</> trong {duration:0} giây (cộng dồn tối đa 5 tầng), đồng thời các cán viên khác trong đội sẽ nhận <@ba.vup>{teammate_rate:0%}</> của hiệu ứng này. Hiệu ứng này có thể cộng dồn tối đa 5 tầng. \n<@ba.info>Nếu Camille đã ở trạng thái HP tối đa, mỗi lần hiệu ứng được kích hoạt sẽ nhận 2 cộng dồn hiệu ứng.</>"
         },
         "id": "chr_0033_camille_talent_2_1"
       }
