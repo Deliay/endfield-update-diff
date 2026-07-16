@@ -1,0 +1,44 @@
+{
+  "tableName": "FactoryGasMinerTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "gas_pump_1": {
+        "id": "gas_pump_1",
+        "minePosition": {
+          "x": 1,
+          "y": 0,
+          "z": 1
+        },
+        "mineable": [
+          {
+            "consumeItem": {
+              "count": 0,
+              "id": ""
+            },
+            "miningItemId": "item_gas_inert",
+            "produceRate": 1
+          },
+          {
+            "consumeItem": {
+              "count": 0,
+              "id": ""
+            },
+            "miningItemId": "item_gas_xiranite",
+            "produceRate": 1
+          }
+        ],
+        "msPerRound": 3000
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

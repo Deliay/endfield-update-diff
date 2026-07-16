@@ -1,0 +1,333 @@
+{
+  "tableName": "EquipSuitTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {
+      "suit_generaltype": {
+        "equipList": [
+          "item_equip_t4_parts_wuling00_body_01",
+          "item_equip_t4_parts_wuling00_body_02",
+          "item_equip_t4_parts_wuling00_body_03",
+          "item_equip_t4_parts_wuling00_hand_01",
+          "item_equip_t4_parts_wuling00_hand_02",
+          "item_equip_t4_parts_wuling00_hand_03",
+          "item_equip_t4_parts_wuling00_edc_01",
+          "item_equip_t4_parts_wuling00_edc_02",
+          "item_equip_t4_parts_wuling00_edc_03"
+        ],
+        "list": [
+          {
+            "equipCnt": 3,
+            "skillID": "passive_equipsuit_generaltype",
+            "skillLv": 1,
+            "suitID": "suit_generaltype",
+            "suitLogoName": "icon_pack_wuling_suit_fire_natr01",
+            "suitName": {
+              "BR": "CAI de Campo",
+              "CN": "集成实训",
+              "DE": "AIK-Einsatz",
+              "EN": "AIC Fieldwork",
+              "FR": "Terrain du GIA",
+              "ID": "Misi Lapangan AIC",
+              "IT": "Lavoro sul campo del SIA",
+              "JP": "集成訓練",
+              "KR": "통합 실전 훈련",
+              "MX": "Trabajo de campo del CAI",
+              "RU": "Полевые работы АПК",
+              "TC": "集成實訓",
+              "TH": "ภาค​สนาม​ AIC",
+              "VN": "Thực Địa Khu Phức Hợp"
+            }
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "suit_fire_natr01": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_suit_fire_natr01_body_01",
+            "item_equip_t4_suit_fire_natr01_body_02",
+            "item_equip_t4_suit_fire_natr01_hand_01",
+            "item_equip_t4_suit_fire_natr01_hand_02",
+            "item_equip_t4_suit_fire_natr01_hand_03",
+            "item_equip_t4_suit_fire_natr01_edc_01",
+            "item_equip_t4_suit_fire_natr01_edc_02",
+            "item_equip_t4_suit_fire_natr01_edc_03"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_fninflict_01",
+              "skillLv": 1,
+              "suitID": "suit_fire_natr01",
+              "suitLogoName": "icon_pack_wuling_suit_fire_natr01",
+              "suitName": {
+                "BR": "Hot Work",
+                "CN": "动火用",
+                "DE": "Hitze",
+                "EN": "Hot Work",
+                "FR": "Haute température",
+                "ID": "Kerja Panas",
+                "IT": "Anti-calore",
+                "JP": "火山用",
+                "KR": "열 작업용",
+                "MX": "Resistente al calor",
+                "RU": "Термоудар",
+                "TC": "動火用",
+                "TH": "งาน​ร้อน",
+                "VN": "Kháng Lửa"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_suit_fire_natr01_body_01",
+            "item_equip_t4_suit_fire_natr01_body_02",
+            "item_equip_t4_suit_fire_natr01_hand_01",
+            "item_equip_t4_suit_fire_natr01_hand_02",
+            "item_equip_t4_suit_fire_natr01_hand_03",
+            "item_equip_t4_suit_fire_natr01_edc_01",
+            "item_equip_t4_suit_fire_natr01_edc_02",
+            "item_equip_t4_suit_fire_natr01_edc_03",
+            "item_equip_t4_suit_fire_natr01_hand_04",
+            "item_equip_t4_suit_fire_natr01_edc_04"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_fninflict_01",
+              "skillLv": 1,
+              "suitID": "suit_fire_natr01",
+              "suitLogoName": "icon_pack_wuling_suit_fire_natr01",
+              "suitName": {
+                "BR": "Hot Work",
+                "CN": "动火用",
+                "DE": "Hitze",
+                "EN": "Hot Work",
+                "FR": "Haute température",
+                "ID": "Kerja Panas",
+                "IT": "Anti-calore",
+                "JP": "火山用",
+                "KR": "열 작업용",
+                "MX": "Resistente al calor",
+                "RU": "Термоудар",
+                "TC": "動火用",
+                "TH": "งาน​ร้อน",
+                "VN": "Kháng Lửa"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[8]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_fire_natr01_hand_04"
+          },
+          "equipList[9]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_fire_natr01_edc_04"
+          }
+        }
+      },
+      "suit_heal01": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_suit_heal01_body_01",
+            "item_equip_t4_suit_heal01_body_02",
+            "item_equip_t4_suit_heal01_hand_01",
+            "item_equip_t4_suit_heal01_hand_02",
+            "item_equip_t4_suit_heal01_edc_01",
+            "item_equip_t4_suit_heal01_edc_02",
+            "item_equip_t4_suit_heal01_edc_03",
+            "item_equip_t4_suit_heal01_edc_04",
+            "item_equip_t4_suit_heal01_edc_05"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_healup_01",
+              "skillLv": 1,
+              "suitID": "suit_heal01",
+              "suitLogoName": "icon_pack_wuling_suit_heal01",
+              "suitName": {
+                "BR": "LYNX",
+                "CN": "生物辅助",
+                "DE": "LUCHS",
+                "EN": "LYNX",
+                "FR": "LYNX",
+                "ID": "LYNX",
+                "IT": "LYNX",
+                "JP": "生物補助",
+                "KR": "생체 보조",
+                "MX": "LYNX",
+                "RU": "Рысь",
+                "TC": "生物輔助",
+                "TH": "LYNX",
+                "VN": "LYNX"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_suit_heal01_body_01",
+            "item_equip_t4_suit_heal01_body_02",
+            "item_equip_t4_suit_heal01_hand_01",
+            "item_equip_t4_suit_heal01_hand_02",
+            "item_equip_t4_suit_heal01_edc_01",
+            "item_equip_t4_suit_heal01_edc_02",
+            "item_equip_t4_suit_heal01_edc_03",
+            "item_equip_t4_suit_heal01_edc_04",
+            "item_equip_t4_suit_heal01_edc_05",
+            "item_equip_t4_suit_heal01_body_03",
+            "item_equip_t4_suit_heal01_hand_03"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_healup_01",
+              "skillLv": 1,
+              "suitID": "suit_heal01",
+              "suitLogoName": "icon_pack_wuling_suit_heal01",
+              "suitName": {
+                "BR": "LYNX",
+                "CN": "生物辅助",
+                "DE": "LUCHS",
+                "EN": "LYNX",
+                "FR": "LYNX",
+                "ID": "LYNX",
+                "IT": "LYNX",
+                "JP": "生物補助",
+                "KR": "생체 보조",
+                "MX": "LYNX",
+                "RU": "Рысь",
+                "TC": "生物輔助",
+                "TH": "LYNX",
+                "VN": "LYNX"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[9]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_heal01_body_03"
+          },
+          "equipList[10]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_heal01_hand_03"
+          }
+        }
+      },
+      "suit_usp02": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_suit_usp02_body_01",
+            "item_equip_t4_suit_usp02_hand_01",
+            "item_equip_t4_suit_usp02_hand_02",
+            "item_equip_t4_suit_usp02_edc_01",
+            "item_equip_t4_suit_usp02_edc_02",
+            "item_equip_t4_suit_usp02_edc_03"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_usp_02",
+              "skillLv": 1,
+              "suitID": "suit_usp02",
+              "suitLogoName": "icon_pack_wuling_suit_usp02",
+              "suitName": {
+                "BR": "Xiranita Eterna",
+                "CN": "长息",
+                "DE": "Ewiges Xiranit",
+                "EN": "Eternal Xiranite",
+                "FR": "Xiranite éternelle",
+                "ID": "Eternal Xiranite",
+                "IT": "Xiranite eterna",
+                "JP": "流転",
+                "KR": "식양의 숨결",
+                "MX": "Xiranita eterna",
+                "RU": "Вечный ксиранит",
+                "TC": "長息",
+                "TH": "ซี​เรน​ไนต์​นิรันดร์",
+                "VN": "Xiranite Vĩnh Cửu"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_suit_usp02_body_01",
+            "item_equip_t4_suit_usp02_hand_01",
+            "item_equip_t4_suit_usp02_hand_02",
+            "item_equip_t4_suit_usp02_edc_01",
+            "item_equip_t4_suit_usp02_edc_02",
+            "item_equip_t4_suit_usp02_edc_03",
+            "item_equip_t4_suit_usp02_body_03",
+            "item_equip_t4_suit_usp02_body_04",
+            "item_equip_t4_suit_usp02_hand_03",
+            "item_equip_t4_suit_usp02_hand_04",
+            "item_equip_t4_suit_usp02_edc_04"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_usp_02",
+              "skillLv": 1,
+              "suitID": "suit_usp02",
+              "suitLogoName": "icon_pack_wuling_suit_usp02",
+              "suitName": {
+                "BR": "Xiranita Eterna",
+                "CN": "长息",
+                "DE": "Ewiges Xiranit",
+                "EN": "Eternal Xiranite",
+                "FR": "Xiranite éternelle",
+                "ID": "Eternal Xiranite",
+                "IT": "Xiranite eterna",
+                "JP": "流転",
+                "KR": "식양의 숨결",
+                "MX": "Xiranita eterna",
+                "RU": "Вечный ксиранит",
+                "TC": "長息",
+                "TH": "ซี​เรน​ไนต์​นิรันดร์",
+                "VN": "Xiranite Vĩnh Cửu"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[6]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_usp02_body_03"
+          },
+          "equipList[7]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_usp02_body_04"
+          },
+          "equipList[8]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_usp02_hand_03"
+          },
+          "equipList[9]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_usp02_hand_04"
+          },
+          "equipList[10]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_usp02_edc_04"
+          }
+        }
+      }
+    }
+  }
+}

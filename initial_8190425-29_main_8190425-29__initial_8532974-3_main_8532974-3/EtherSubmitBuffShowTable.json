@@ -1,0 +1,71 @@
+{
+  "tableName": "EtherSubmitBuffShowTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "wulingbuff11": {
+        "effectContentText": {
+          "BR": "Ao descansar em um Ponto de TP, a equipe ganha ATQ + {attack:0%} por {duration:0} s. \nVálido somente em Wuling.",
+          "CN": "在协议传送点休整后，全队干员攻击力+{attack:0%}，持续{duration:0}秒。\n（仅限武陵地区生效）",
+          "DE": "Beim Ausruhen an einem TP-Punkt erhält das Team ANG +{attack:0%} für {duration:0} Sek. \nNur in Wuling wirksam.",
+          "EN": "When resting at a TP Point, the team gains ATK+{attack:0%} for {duration:0}s. \nOnly effective in Wuling.",
+          "FR": "Après s'être reposée à un point TP, l'équipe gagne +{attack:0%} d'ATQ pendant {duration:0} s. \nEffet limité à Wuling.",
+          "ID": "Saat beristirahat di Titik TP, tim akan mendapatkan ATK +{attack:0%} selama {duration:0} dtk. \nHanya berlaku di Wuling.",
+          "IT": "Quando riposa in un punto TP, la squadra ottiene +{attack:0%} di attacco per {duration:0} secondi. \nEfficace solo a Wuling.",
+          "JP": "協約転送ポイントで回復すると、{duration:0}秒間チーム全員の攻撃力+{attack:0%}\n（武陵でのみ有効）",
+          "KR": "프로토콜 전송 지점에서 휴식 시 모든 오퍼레이터의 공격력 +{attack:0%}, {duration:0}초 동안 지속.\n(무릉 지역에서만 적용 가능.)",
+          "MX": "Al descansar en un Punto de TP, el equipo obtiene ATQ+{attack:0%} durante {duration:0} s. \nSolo es efectivo en Wuling.",
+          "RU": "При отдыхе в точке ТП команда получает +{attack:0%} к АТК на {duration:0} сек. \nРаботает только в Улине.",
+          "TC": "在協議傳送點休整後，全隊幹員攻擊力+{attack:0%}，持續{duration:0}秒。\n（僅限武陵地區生效）",
+          "TH": "เมื่อ​พัก​ที่​จุด​ TP ทีม​จะ​ได้รับ​ ATK+{attack:0%} เป็นเวลา​ {duration:0} วินาที​ \nมีผล​เฉพาะ​ใน​อู่​หลิง​เท่านั้น",
+          "VN": "Khi nghỉ ngơi tại Điểm Dịch Chuyển, đội được +{attack:0%} Tấn Công trong {duration:0} giây. \nChỉ có hiệu lực ở Võ Lăng."
+        },
+        "effectFlagLevel": 3,
+        "effectFlagType": "type1",
+        "effectIcon": "item_regionbuff_wuling_1_3",
+        "effectLevelText": {
+          "BR": "Nv.3",
+          "CN": "Lv.3",
+          "DE": "Lvl. 3",
+          "EN": "Lv.3",
+          "FR": "Niv. 3",
+          "ID": "Lv.3",
+          "IT": "Liv. 3",
+          "JP": "Lv.3",
+          "KR": "Lv.3",
+          "MX": "Nvl. 3",
+          "RU": "Ур. 3",
+          "TC": "Lv.3",
+          "TH": "เล​เวล​ 3",
+          "VN": "Cấp 3"
+        },
+        "effectSubIcon": "item_regionbuff_wuling_1",
+        "effectTitle": {
+          "BR": "Ofensiva Descansada",
+          "CN": "休养攻势",
+          "DE": "Gut geruht ist halb gewonnen",
+          "EN": "Rested Offensive",
+          "FR": "Repos offensif",
+          "ID": "Rested Offensive",
+          "IT": "Offensiva a riposo",
+          "JP": "休攻兼備",
+          "KR": "회복 공격 태세",
+          "MX": "Ofensiva por descanso",
+          "RU": "Наступление с новыми силами",
+          "TC": "休養攻勢",
+          "TH": "การ​โจมตี​หลัง​พัก",
+          "VN": "Tấn Công Nghỉ Ngơi"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

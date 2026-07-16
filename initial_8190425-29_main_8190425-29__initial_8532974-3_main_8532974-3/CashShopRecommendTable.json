@@ -1,0 +1,1855 @@
+{
+  "tableName": "CashShopRecommendTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 26
+  },
+  "entries": {
+    "added": {
+      "recommend_decorate_01": {
+        "cashGoodsIdList": [
+          "giftpack_lt_decorate_1_4"
+        ],
+        "id": "recommend_decorate_01",
+        "name": {
+          "BR": "Pacote de Coleção de Curiosidades Volta Para Casa",
+          "CN": "向渊妙趣收藏包",
+          "DE": "Heimkehrpack der kuriosen Sammlung",
+          "EN": "Homecoming Curios Collection Pack",
+          "FR": "Pack de collection de curiosités - Retour",
+          "ID": "Paket Koleksi Barang Antik Kepulangan",
+          "IT": "Kit di curiosità da collezione Ritorno a casa",
+          "JP": "向淵の趣パック",
+          "KR": "기묘한 심연 소장 패키지",
+          "MX": "Paquete de colección de curiosidades de regreso a casa",
+          "RU": "Коллекционный набор диковин «Возвращение домой»",
+          "TC": "向淵妙趣收藏包",
+          "TH": "แพ็ก​รวม​ของ​สะสม​คืน​สู่​เหย้า",
+          "VN": "Gói Sưu Tập Kỳ Thú Về Nhà"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "GiftpackDecoratelt_1_4",
+        "priority": 4986,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "CustomGift"
+      },
+      "recommend_weaponbox__1_4_1": {
+        "cashGoodsIdList": [
+          "shop_weponbox_1_4_1"
+        ],
+        "id": "recommend_weaponbox__1_4_1",
+        "name": {
+          "BR": "Distribuição Grau Militar",
+          "CN": "军列申领",
+          "DE": "Militär-Standard-Ausgabe",
+          "EN": "Military Grade Issue",
+          "FR": "Tirage de type militaire",
+          "ID": "Edisi Standar Militer",
+          "IT": "Distribuzione grado militare",
+          "JP": "戦列・申請",
+          "KR": "제대 신청",
+          "MX": "Solicitud de Grado militar",
+          "RU": "Поставка «Военный стандарт»",
+          "TC": "軍列申領",
+          "TH": "ตั๋ว​ระดับ​ทหาร",
+          "VN": "Gói Rút Cấp Quân Dụng"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "",
+        "priority": 9980,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "Weapon"
+      },
+      "recommend_gacha_plus_01": {
+        "cashGoodsIdList": [
+          "giftpack_lt_gacha_plus_1_4"
+        ],
+        "id": "recommend_gacha_plus_01",
+        "name": {
+          "BR": "Pacote Celebração do Companheirismo",
+          "CN": "相伴庆典组合包",
+          "DE": "„Feier der Gefährten“-Paket",
+          "EN": "Companionship Celebration Bundle",
+          "FR": "Lot Célébration de la camaraderie",
+          "ID": "Bundel Perayaan Kebersamaan",
+          "IT": "Pacchetto Festa della compagnia",
+          "JP": "絆の祝典パック",
+          "KR": "인연의 축제 조합 패키지",
+          "MX": "Paquete de Celebración del Compañerismo",
+          "RU": "Набор «Собрание друзей»",
+          "TC": "相伴慶典組合包",
+          "TH": "ชุด​รวม​งานเฉลิมฉลอง​แห่ง​มิตรภาพ",
+          "VN": "Gói Mừng Đồng Hành"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "GiftpackGachaPluslt_1_4",
+        "priority": 4987,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "CustomGift"
+      },
+      "recommend_seasonal_10": {
+        "cashGoodsIdList": [
+          "seasonal_giftpack_lt_1_4_1"
+        ],
+        "id": "recommend_seasonal_10",
+        "name": {
+          "BR": "Pacote CT Vigia da Fenda",
+          "CN": "临渊寻访组合包",
+          "DE": "Paket: Riss-Wächterin-RK",
+          "EN": "Rift Vigile HH Bundle",
+          "FR": "Lot de REC Face à la faille",
+          "ID": "Bundel HH Penjagaan Celah",
+          "IT": "Pacchetto CT: Sorveglianza delle spaccature",
+          "JP": "臨淵スカウトパック",
+          "KR": "벼랑 헤드헌팅 조합 패키지",
+          "MX": "Paquete de C.R. de Vigía de la Grieta",
+          "RU": "Набор найма «Притяжение разлома»",
+          "TC": "臨淵尋訪組合包",
+          "TH": "ชุด​รวม​ HH รอยแยก​มิ​เลือน",
+          "VN": "Gói Chiêu Mộ Người Gác Khe Nứt"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "SeasonalGiftpacklt_1_4_1",
+        "priority": 4989,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "DynamicGift"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "recommend_bp": {
+        "oldValue": {
+          "cashGoodsIdList": [],
+          "id": "recommend_bp",
+          "name": {
+            "BR": "Passe do Protocolo",
+            "CN": "协议通行证",
+            "DE": "Protokollpass",
+            "EN": "Protocol Pass",
+            "FR": "Pass de Protocole",
+            "ID": "Tiket Akses Protokol",
+            "IT": "Pass protocollare",
+            "JP": "協約通行証",
+            "KR": "프로토콜 통행증",
+            "MX": "Pase de protocolo",
+            "RU": "Протопропуск",
+            "TC": "協議通行證",
+            "TH": "บัตร​ผ่าน​โปร​โต​คอล",
+            "VN": "Thẻ Giao Thức"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 3,
+          "type": "BattlePass"
+        },
+        "newValue": {
+          "cashGoodsIdList": [],
+          "id": "recommend_bp",
+          "name": {
+            "BR": "Passe do Protocolo",
+            "CN": "协议通行证",
+            "DE": "Protokollpass",
+            "EN": "Protocol Pass",
+            "FR": "Pass de Protocole",
+            "ID": "Tiket Akses Protokol",
+            "IT": "Pass protocollare",
+            "JP": "協約通行証",
+            "KR": "프로토콜 통행증",
+            "MX": "Pase de protocolo",
+            "RU": "Протопропуск",
+            "TC": "協議通行證",
+            "TH": "บัตร​ผ่าน​โปร​โต​คอล",
+            "VN": "Thẻ Giao Thức"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 3,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "BattlePass"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_05": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_1_2"
+          ],
+          "id": "recommend_seasonal_05",
+          "name": {
+            "BR": "Pacote CT Pérola do Lobo",
+            "CN": "狼珀寻访组合包",
+            "DE": "Paket: Wolfsperle-RK",
+            "EN": "Wolf Pearl HH Bundle",
+            "FR": "Lot de REC Joyau du loup",
+            "ID": "Bundel HH Mutiara Serigala",
+            "IT": "Pacchetto CT: Perla lupina",
+            "JP": "ウルフパールスカウトパック",
+            "KR": "울프펄 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. de Perla del lobo",
+            "RU": "Набор найма «Жемчужина Стаи»",
+            "TC": "狼珀尋訪組合包",
+            "TH": "ชุด​รวม​ HH ไข่มุก​หมาป่า",
+            "VN": "Gói Chiêu Mộ Ngọc Trai Sói"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt_1_1_2",
+          "priority": 4995,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_1_2"
+          ],
+          "id": "recommend_seasonal_05",
+          "name": {
+            "BR": "Pacote CT Pérola do Lobo",
+            "CN": "狼珀寻访组合包",
+            "DE": "Paket: Wolfsperle-RK",
+            "EN": "Wolf Pearl HH Bundle",
+            "FR": "Lot de REC Joyau du loup",
+            "ID": "Bundel HH Mutiara Serigala",
+            "IT": "Pacchetto CT: Perla lupina",
+            "JP": "ウルフパールスカウトパック",
+            "KR": "울프펄 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. de Perla del lobo",
+            "RU": "Набор найма «Жемчужина Стаи»",
+            "TC": "狼珀尋訪組合包",
+            "TH": "ชุด​รวม​ HH ไข่มุก​หมาป่า",
+            "VN": "Gói Chiêu Mộ Ngọc Trai Sói"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt_1_1_2",
+          "priority": 4995,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_0_2": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_0_2"
+          ],
+          "id": "recommend_weaponbox__1_0_2",
+          "name": {
+            "BR": "Distribuição Graffiti",
+            "CN": "绘涂申领",
+            "DE": "Graffiti-Ausgabe",
+            "EN": "Graffiti Issue",
+            "FR": "Tirage de graffiti",
+            "ID": "Edisi Grafiti",
+            "IT": "Distribuzione Graffiti",
+            "JP": "彩色・申請",
+            "KR": "화도 신청",
+            "MX": "Solicitud de Grafiti",
+            "RU": "Поставка «Граффити»",
+            "TC": "繪塗申領",
+            "TH": "ตั๋ว​กราฟ​ฟิ​ตี",
+            "VN": "Gói Rút Graffiti"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9988,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_0_2"
+          ],
+          "id": "recommend_weaponbox__1_0_2",
+          "name": {
+            "BR": "Distribuição Graffiti",
+            "CN": "绘涂申领",
+            "DE": "Graffiti-Ausgabe",
+            "EN": "Graffiti Issue",
+            "FR": "Tirage de graffiti",
+            "ID": "Edisi Grafiti",
+            "IT": "Distribuzione Graffiti",
+            "JP": "彩色・申請",
+            "KR": "화도 신청",
+            "MX": "Solicitud de Grafiti",
+            "RU": "Поставка «Граффити»",
+            "TC": "繪塗申領",
+            "TH": "ตั๋ว​กราฟ​ฟิ​ตี",
+            "VN": "Gói Rút Graffiti"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9988,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_crossover_01": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_crossover_lt_1_2_1"
+          ],
+          "id": "recommend_crossover_01",
+          "name": {
+            "BR": "Pacote Gravuras dos Nossos Sonhos Cósmicos",
+            "CN": "镌宇铭星组合包",
+            "DE": "Paket: Gravuren unserer Träume vom Weltall",
+            "EN": "Etchings of Our Cosmic Dreams Pack",
+            "FR": "Lot Gravures de nos rêves cosmiques",
+            "ID": "Paket Ukiran Impian Kosmis Kita",
+            "IT": "Pacchetto Incisione sogni cosmici",
+            "JP": "「名を刻もう」パック",
+            "KR": "우주에 새겨진 우리의 꿈 조합 패키지",
+            "MX": "Paquete de Grabados de nuestros sueños cósmicos",
+            "RU": "Набор «Впишем в историю наши космические мечты»",
+            "TC": "鐫宇銘星組合包",
+            "TH": "แพ็ค​การ​ฝัง​รอย​แห่ง​ความฝัน​ใน​จักรวาล​ของ​เรา",
+            "VN": "Gói Khắc Ghi Giấc Mơ Vũ Trụ"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalCrossoverlt_1_2_1",
+          "priority": 4992,
+          "type": "CustomGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_crossover_lt_1_2_1"
+          ],
+          "id": "recommend_crossover_01",
+          "name": {
+            "BR": "Pacote Gravuras dos Nossos Sonhos Cósmicos",
+            "CN": "镌宇铭星组合包",
+            "DE": "Paket: Gravuren unserer Träume vom Weltall",
+            "EN": "Etchings of Our Cosmic Dreams Pack",
+            "FR": "Lot Gravures de nos rêves cosmiques",
+            "ID": "Paket Ukiran Impian Kosmis Kita",
+            "IT": "Pacchetto Incisione sogni cosmici",
+            "JP": "「名を刻もう」パック",
+            "KR": "우주에 새겨진 우리의 꿈 조합 패키지",
+            "MX": "Paquete de Grabados de nuestros sueños cósmicos",
+            "RU": "Набор «Впишем в историю наши космические мечты»",
+            "TC": "鐫宇銘星組合包",
+            "TH": "แพ็ค​การ​ฝัง​รอย​แห่ง​ความฝัน​ใน​จักรวาล​ของ​เรา",
+            "VN": "Gói Khắc Ghi Giấc Mơ Vũ Trụ"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalCrossoverlt_1_2_1",
+          "priority": 4992,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "CustomGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_monthlycard": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "payshop_giftpack_monthlycard"
+          ],
+          "id": "recommend_monthlycard",
+          "name": {
+            "BR": "Passe Mensal",
+            "CN": "月卡",
+            "DE": "Monatspass",
+            "EN": "Monthly Pass",
+            "FR": "Pass mensuel",
+            "ID": "Tiket Akses Bulanan",
+            "IT": "Pass mensile",
+            "JP": "月パス",
+            "KR": "월정액",
+            "MX": "Pase mensual",
+            "RU": "Месячный пропуск",
+            "TC": "月卡",
+            "TH": "บัตร​ผ่าน​รายเดือน",
+            "VN": "Thẻ Tháng"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9998,
+          "type": "MonthlyPass"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "payshop_giftpack_monthlycard"
+          ],
+          "id": "recommend_monthlycard",
+          "name": {
+            "BR": "Passe Mensal",
+            "CN": "月卡",
+            "DE": "Monatspass",
+            "EN": "Monthly Pass",
+            "FR": "Pass mensuel",
+            "ID": "Tiket Akses Bulanan",
+            "IT": "Pass mensile",
+            "JP": "月パス",
+            "KR": "월정액",
+            "MX": "Pase mensual",
+            "RU": "Месячный пропуск",
+            "TC": "月卡",
+            "TH": "บัตร​ผ่าน​รายเดือน",
+            "VN": "Thẻ Tháng"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9998,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "MonthlyPass"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_newbie_01": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "newbie_giftpack_01",
+            "newbie_giftpack_02"
+          ],
+          "id": "recommend_newbie_01",
+          "name": {
+            "BR": "Pacote Horizontes Totais",
+            "CN": "全面启程组合包",
+            "DE": "Paket: Gesamte Horizonte",
+            "EN": "Total Horizons Bundle",
+            "FR": "Lot complet d'horizons",
+            "ID": "Bundel Cakrawala Lengkap",
+            "IT": "Pacchetto Orizzonti completi",
+            "JP": "旅立ちマルチパック",
+            "KR": "진정한 여정의 시작 조합 패키지",
+            "MX": "Paquete total de Horizontes",
+            "RU": "Полный набор «Горизонты»",
+            "TC": "全面啟程組合包",
+            "TH": "ชุด​รวม​ขอบฟ้า​กว้างใหญ่",
+            "VN": "Gói Chân Trời Vô Tận"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 2,
+          "type": "NewBieGiftGroup"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "newbie_giftpack_01",
+            "newbie_giftpack_02"
+          ],
+          "id": "recommend_newbie_01",
+          "name": {
+            "BR": "Pacote Horizontes Totais",
+            "CN": "全面启程组合包",
+            "DE": "Paket: Gesamte Horizonte",
+            "EN": "Total Horizons Bundle",
+            "FR": "Lot complet d'horizons",
+            "ID": "Bundel Cakrawala Lengkap",
+            "IT": "Pacchetto Orizzonti completi",
+            "JP": "旅立ちマルチパック",
+            "KR": "진정한 여정의 시작 조합 패키지",
+            "MX": "Paquete total de Horizontes",
+            "RU": "Полный набор «Горизонты»",
+            "TC": "全面啟程組合包",
+            "TH": "ชุด​รวม​ขอบฟ้า​กว้างใหญ่",
+            "VN": "Gói Chân Trời Vô Tận"
+          },
+          "newPriority": 2,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9991,
+          "setNewPriorityCashGoodsIdList": [
+            "newbie_giftpack_01"
+          ],
+          "type": "NewBieGiftGroup"
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 9991
+          },
+          "newPriority": {
+            "type": "value",
+            "newValue": 2
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": [
+              "newbie_giftpack_01"
+            ]
+          }
+        }
+      },
+      "recommend_newbie_special": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "newbie_giftpack_6_special"
+          ],
+          "id": "recommend_newbie_special",
+          "name": {
+            "BR": "Pacote Horizontes Totais",
+            "CN": "全面启程组合包",
+            "DE": "Paket: Gesamte Horizonte",
+            "EN": "Total Horizons Bundle",
+            "FR": "Lot complet d'horizons",
+            "ID": "Bundel Cakrawala Lengkap",
+            "IT": "Pacchetto Orizzonti completi",
+            "JP": "旅立ちマルチパック",
+            "KR": "진정한 여정의 시작 조합 패키지",
+            "MX": "Paquete total de Horizontes",
+            "RU": "Полный набор «Горизонты»",
+            "TC": "全面啟程組合包",
+            "TH": "ชุด​รวม​ขอบฟ้า​กว้างใหญ่",
+            "VN": "Gói Chân Trời Vô Tận"
+          },
+          "nextChooseId": "recommend_newbie_01",
+          "prefabName": "",
+          "priority": 1,
+          "type": "NewBieGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "newbie_giftpack_6_special"
+          ],
+          "id": "recommend_newbie_special",
+          "name": {
+            "BR": "Pacote Horizontes Totais",
+            "CN": "全面启程组合包",
+            "DE": "Paket: Gesamte Horizonte",
+            "EN": "Total Horizons Bundle",
+            "FR": "Lot complet d'horizons",
+            "ID": "Bundel Cakrawala Lengkap",
+            "IT": "Pacchetto Orizzonti completi",
+            "JP": "旅立ちマルチパック",
+            "KR": "진정한 여정의 시작 조합 패키지",
+            "MX": "Paquete total de Horizontes",
+            "RU": "Полный набор «Горизонты»",
+            "TC": "全面啟程組合包",
+            "TH": "ชุด​รวม​ขอบฟ้า​กว้างใหญ่",
+            "VN": "Gói Chân Trời Vô Tận"
+          },
+          "newPriority": 0,
+          "nextChooseId": "recommend_newbie_01",
+          "prefabName": "",
+          "priority": 1,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "NewBieGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_01": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_01"
+          ],
+          "id": "recommend_seasonal_01",
+          "name": {
+            "BR": "Pacote de CT do Andarilho de Fogo",
+            "CN": "行火寻访组合包",
+            "DE": "Paket: Feuerläuferpfad-RK",
+            "EN": "Firewalker's Trail HH Bundle",
+            "FR": "Lot de REC Piste des marchefeux",
+            "ID": "Bundel HH Jejak si Pengembara Api",
+            "IT": "Pacchetto CT: Scia incandescente",
+            "JP": "残火スカウトパック",
+            "KR": "불꽃 헤드헌팅 조합 패키지",
+            "MX": "Paq. de C.R. Send. Caminante fuego",
+            "RU": "Набор найма «Тропа огнестранника»",
+            "TC": "行火尋訪組合包",
+            "TH": "ชุด​รวม​ HH เส้นทาง​ผู้เดิน​บน​เปลวเพลิง",
+            "VN": "Gói Chiêu Mộ Dấu Chân Lửa"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt01",
+          "priority": 4999,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_01"
+          ],
+          "id": "recommend_seasonal_01",
+          "name": {
+            "BR": "Pacote de CT do Andarilho de Fogo",
+            "CN": "行火寻访组合包",
+            "DE": "Paket: Feuerläuferpfad-RK",
+            "EN": "Firewalker's Trail HH Bundle",
+            "FR": "Lot de REC Piste des marchefeux",
+            "ID": "Bundel HH Jejak si Pengembara Api",
+            "IT": "Pacchetto CT: Scia incandescente",
+            "JP": "残火スカウトパック",
+            "KR": "불꽃 헤드헌팅 조합 패키지",
+            "MX": "Paq. de C.R. Send. Caminante fuego",
+            "RU": "Набор найма «Тропа огнестранника»",
+            "TC": "行火尋訪組合包",
+            "TH": "ชุด​รวม​ HH เส้นทาง​ผู้เดิน​บน​เปลวเพลิง",
+            "VN": "Gói Chiêu Mộ Dấu Chân Lửa"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt01",
+          "priority": 4999,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_02": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_02"
+          ],
+          "id": "recommend_seasonal_02",
+          "name": {
+            "BR": "Pacote de CT Esplendor Espectral",
+            "CN": "异彩寻访组合包",
+            "DE": "Paket: „Geisterhafter Glanz“-RK",
+            "EN": "Spectral Splendor HH Bundle",
+            "FR": "Lot de REC Splendeur spectrale",
+            "ID": "Bundel HH Keindahan Spektrum",
+            "IT": "Pacchetto CT: Splendore spettrale",
+            "JP": "異彩スカウトパック",
+            "KR": "색채 헤드헌팅 조합 패키지",
+            "MX": "Paq. de C.R. de Esplendor espectral",
+            "RU": "Набор найма «Призрачное величие»",
+            "TC": "異彩尋訪組合包",
+            "TH": "ชุด​รวม​ HH ความงดงาม​ของ​ภูติผีปีศาจ",
+            "VN": "Gói Chiêu Mộ Huyền Quang"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt02",
+          "priority": 4998,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_02"
+          ],
+          "id": "recommend_seasonal_02",
+          "name": {
+            "BR": "Pacote de CT Esplendor Espectral",
+            "CN": "异彩寻访组合包",
+            "DE": "Paket: „Geisterhafter Glanz“-RK",
+            "EN": "Spectral Splendor HH Bundle",
+            "FR": "Lot de REC Splendeur spectrale",
+            "ID": "Bundel HH Keindahan Spektrum",
+            "IT": "Pacchetto CT: Splendore spettrale",
+            "JP": "異彩スカウトパック",
+            "KR": "색채 헤드헌팅 조합 패키지",
+            "MX": "Paq. de C.R. de Esplendor espectral",
+            "RU": "Набор найма «Призрачное величие»",
+            "TC": "異彩尋訪組合包",
+            "TH": "ชุด​รวม​ HH ความงดงาม​ของ​ภูติผีปีศาจ",
+            "VN": "Gói Chiêu Mộ Huyền Quang"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt02",
+          "priority": 4998,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_03": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_03"
+          ],
+          "id": "recommend_seasonal_03",
+          "name": {
+            "BR": "Pacote de CT Expresso Mensageiro",
+            "CN": "信使寻访组合包\n",
+            "DE": "Paket: Boten-Express-RK",
+            "EN": "Messenger Express HH Bundle",
+            "FR": "Lot de REC Messager rapide",
+            "ID": "Bundel HH Kurir Kilat",
+            "IT": "Pacchetto CT: Consegna espressa",
+            "JP": "爛漫スカウトパック",
+            "KR": "전달자 헤드헌팅 조합 패키지",
+            "MX": "Paq. de C.R. de Exprés de mensajera",
+            "RU": "Набор найма «Быстрый гонец»",
+            "TC": "信使尋訪組合包",
+            "TH": "ชุด​รวม​ HH ผู้ส่งสาร​ด่วน",
+            "VN": "Gói Chiêu Mộ Liên Lạc Viên Hỏa Tốc"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt03",
+          "priority": 4997,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_03"
+          ],
+          "id": "recommend_seasonal_03",
+          "name": {
+            "BR": "Pacote de CT Expresso Mensageiro",
+            "CN": "信使寻访组合包\n",
+            "DE": "Paket: Boten-Express-RK",
+            "EN": "Messenger Express HH Bundle",
+            "FR": "Lot de REC Messager rapide",
+            "ID": "Bundel HH Kurir Kilat",
+            "IT": "Pacchetto CT: Consegna espressa",
+            "JP": "爛漫スカウトパック",
+            "KR": "전달자 헤드헌팅 조합 패키지",
+            "MX": "Paq. de C.R. de Exprés de mensajera",
+            "RU": "Набор найма «Быстрый гонец»",
+            "TC": "信使尋訪組合包",
+            "TH": "ชุด​รวม​ HH ผู้ส่งสาร​ด่วน",
+            "VN": "Gói Chiêu Mộ Liên Lạc Viên Hỏa Tốc"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt03",
+          "priority": 4997,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_04": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_1_1"
+          ],
+          "id": "recommend_seasonal_04",
+          "name": {
+            "BR": "Pacote CT de Qingbo",
+            "CN": "清波寻访组合包",
+            "DE": "Paket: Qingbo-RK",
+            "EN": "Qingbo HH Bundle",
+            "FR": "Lot de REC Qingbo",
+            "ID": "Bundel HH Qingbo",
+            "IT": "Pacchetto CT: Qingbo",
+            "JP": "清波スカウトパック",
+            "KR": "청파 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. de Qingbo",
+            "RU": "Набор найма «Циньбо»",
+            "TC": "清波尋訪組合包",
+            "TH": "ชุด​รวม​ HH ชิง​ป๋อ",
+            "VN": "Gói Chiêu Mộ Thanh Ba"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt_1_1_1",
+          "priority": 4996,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_1_1"
+          ],
+          "id": "recommend_seasonal_04",
+          "name": {
+            "BR": "Pacote CT de Qingbo",
+            "CN": "清波寻访组合包",
+            "DE": "Paket: Qingbo-RK",
+            "EN": "Qingbo HH Bundle",
+            "FR": "Lot de REC Qingbo",
+            "ID": "Bundel HH Qingbo",
+            "IT": "Pacchetto CT: Qingbo",
+            "JP": "清波スカウトパック",
+            "KR": "청파 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. de Qingbo",
+            "RU": "Набор найма «Циньбо»",
+            "TC": "清波尋訪組合包",
+            "TH": "ชุด​รวม​ HH ชิง​ป๋อ",
+            "VN": "Gói Chiêu Mộ Thanh Ba"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackIt_1_1_1",
+          "priority": 4996,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_3_2": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_3_2"
+          ],
+          "id": "recommend_weaponbox__1_3_2",
+          "name": {
+            "BR": "Distribuição Tom Carmesim",
+            "CN": "染赤申领",
+            "DE": "„Blutrot“-Ausgabe",
+            "EN": "Crimson Hued Issue",
+            "FR": "Tirage de teinte écarlate",
+            "ID": "Edisi Rona Merah Darah",
+            "IT": "Distribuzione Tinta cremisi",
+            "JP": "染紅・申請",
+            "KR": "적색화 신청",
+            "MX": "Solicitud de tono carmesí",
+            "RU": "Поставка «В багровых тонах»",
+            "TC": "染赤申領",
+            "TH": "ตั๋ว​สีแดง​ชาด",
+            "VN": "Gói Rút Nhuộm Huyết Sắc"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9981,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_3_2"
+          ],
+          "id": "recommend_weaponbox__1_3_2",
+          "name": {
+            "BR": "Distribuição Tom Carmesim",
+            "CN": "染赤申领",
+            "DE": "„Blutrot“-Ausgabe",
+            "EN": "Crimson Hued Issue",
+            "FR": "Tirage de teinte écarlate",
+            "ID": "Edisi Rona Merah Darah",
+            "IT": "Distribuzione Tinta cremisi",
+            "JP": "染紅・申請",
+            "KR": "적색화 신청",
+            "MX": "Solicitud de tono carmesí",
+            "RU": "Поставка «В багровых тонах»",
+            "TC": "染赤申領",
+            "TH": "ตั๋ว​สีแดง​ชาด",
+            "VN": "Gói Rút Nhuộm Huyết Sắc"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9981,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_06": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_2_1"
+          ],
+          "id": "recommend_seasonal_06",
+          "name": {
+            "BR": "Pacote CT de Tempestade Verdejante",
+            "CN": "醒物寻访组合包",
+            "DE": "Paket: Aufblühen-RK",
+            "EN": "Verdance HH Bundle",
+            "FR": "Lot de REC verdoyant",
+            "ID": "Bundel HH Kemakmuran",
+            "IT": "Pacchetto CT: Verde",
+            "JP": "息吹スカウトパック",
+            "KR": "각성 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. de Verdor",
+            "RU": "Набор найма «Цветение»",
+            "TC": "醒物尋訪組合包",
+            "TH": "ชุด​รวม​ HH เขียวชะอุ่ม",
+            "VN": "Gói Chiêu Mộ Cây Cỏ"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_2_1",
+          "priority": 4994,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_2_1"
+          ],
+          "id": "recommend_seasonal_06",
+          "name": {
+            "BR": "Pacote CT de Tempestade Verdejante",
+            "CN": "醒物寻访组合包",
+            "DE": "Paket: Aufblühen-RK",
+            "EN": "Verdance HH Bundle",
+            "FR": "Lot de REC verdoyant",
+            "ID": "Bundel HH Kemakmuran",
+            "IT": "Pacchetto CT: Verde",
+            "JP": "息吹スカウトパック",
+            "KR": "각성 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. de Verdor",
+            "RU": "Набор найма «Цветение»",
+            "TC": "醒物尋訪組合包",
+            "TH": "ชุด​รวม​ HH เขียวชะอุ่ม",
+            "VN": "Gói Chiêu Mộ Cây Cỏ"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_2_1",
+          "priority": 4994,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_07": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_2_2"
+          ],
+          "id": "recommend_seasonal_07",
+          "name": {
+            "BR": "Pacote CT Festivo",
+            "CN": "庆典寻访组合包",
+            "DE": "Paket: Fest-RK",
+            "EN": "Festive HH Bundle",
+            "FR": "Lot de REC festif",
+            "ID": "Bundel HH Meriah",
+            "IT": "Pacchetto CT: Festivo",
+            "JP": "祝典スカウトパック",
+            "KR": "축제 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. Festivo",
+            "RU": "Набор найма «Сияние»",
+            "TC": "慶典尋訪組合包",
+            "TH": "ชุด​รวม​ HH เทศกาล",
+            "VN": "Gói Chiêu Mộ Lễ Hội"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_2_2",
+          "priority": 4993,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_2_2"
+          ],
+          "id": "recommend_seasonal_07",
+          "name": {
+            "BR": "Pacote CT Festivo",
+            "CN": "庆典寻访组合包",
+            "DE": "Paket: Fest-RK",
+            "EN": "Festive HH Bundle",
+            "FR": "Lot de REC festif",
+            "ID": "Bundel HH Meriah",
+            "IT": "Pacchetto CT: Festivo",
+            "JP": "祝典スカウトパック",
+            "KR": "축제 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. Festivo",
+            "RU": "Набор найма «Сияние»",
+            "TC": "慶典尋訪組合包",
+            "TH": "ชุด​รวม​ HH เทศกาล",
+            "VN": "Gói Chiêu Mộ Lễ Hội"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_2_2",
+          "priority": 4993,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_08": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_3_1"
+          ],
+          "id": "recommend_seasonal_08",
+          "name": {
+            "BR": "Pacote CT Pugilista",
+            "CN": "拳意寻访组合包",
+            "DE": "Faustkämpfer-RK-Paket",
+            "EN": "Pugilistic HH Bundle",
+            "FR": "Lot de REC Pugilat",
+            "ID": "Bundel HH Tinju",
+            "IT": "Pacchetto CT: Pugno di ferro",
+            "JP": "拳心スカウトパック",
+            "KR": "주먹의 의미 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. pugilístico",
+            "RU": "Набор найма «Борец»",
+            "TC": "拳意尋訪組合包",
+            "TH": "ชุด​รวม​ HH นัก​สู้",
+            "VN": "Gói Chiêu Mộ Quyền Thuật"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_3_1",
+          "priority": 4991,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_3_1"
+          ],
+          "id": "recommend_seasonal_08",
+          "name": {
+            "BR": "Pacote CT Pugilista",
+            "CN": "拳意寻访组合包",
+            "DE": "Faustkämpfer-RK-Paket",
+            "EN": "Pugilistic HH Bundle",
+            "FR": "Lot de REC Pugilat",
+            "ID": "Bundel HH Tinju",
+            "IT": "Pacchetto CT: Pugno di ferro",
+            "JP": "拳心スカウトパック",
+            "KR": "주먹의 의미 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. pugilístico",
+            "RU": "Набор найма «Борец»",
+            "TC": "拳意尋訪組合包",
+            "TH": "ชุด​รวม​ HH นัก​สู้",
+            "VN": "Gói Chiêu Mộ Quyền Thuật"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_3_1",
+          "priority": 4991,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_2_3": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_2_3"
+          ],
+          "id": "recommend_weaponbox__1_2_3",
+          "name": {
+            "BR": "Distribuição Caminhante Veloz",
+            "CN": "疾行申领",
+            "DE": "Schnellschreiter-Ausgabe",
+            "EN": "Swift Walker Issue",
+            "FR": "Tirage du marcheur alerte",
+            "ID": "Edisi Pengembara Gesit",
+            "IT": "Distribuzione Viandante celere",
+            "JP": "早駆・申請",
+            "KR": "질풍 신청",
+            "MX": "Solicitud del Caminante veloz",
+            "RU": "Поставка «Резвый путник»",
+            "TC": "疾行申領",
+            "TH": "ตั๋ว​นัก​เดินเท้า​ไว",
+            "VN": "Gói Rút Hành Tốc"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9983,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_2_3"
+          ],
+          "id": "recommend_weaponbox__1_2_3",
+          "name": {
+            "BR": "Distribuição Caminhante Veloz",
+            "CN": "疾行申领",
+            "DE": "Schnellschreiter-Ausgabe",
+            "EN": "Swift Walker Issue",
+            "FR": "Tirage du marcheur alerte",
+            "ID": "Edisi Pengembara Gesit",
+            "IT": "Distribuzione Viandante celere",
+            "JP": "早駆・申請",
+            "KR": "질풍 신청",
+            "MX": "Solicitud del Caminante veloz",
+            "RU": "Поставка «Резвый путник»",
+            "TC": "疾行申領",
+            "TH": "ตั๋ว​นัก​เดินเท้า​ไว",
+            "VN": "Gói Rút Hành Tốc"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9983,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_09": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_3_2"
+          ],
+          "id": "recommend_seasonal_09",
+          "name": {
+            "BR": "Pacote CT Expurgatório",
+            "CN": "逐罪寻访组合包",
+            "DE": "Reinigen-RK-Paket",
+            "EN": "Expurgatory HH Bundle",
+            "FR": "Lot de REC expurgatoire",
+            "ID": "Bundel HH Penyucian",
+            "IT": "Pacchetto CT: Espurgatorio",
+            "JP": "罪咎スカウトパック",
+            "KR": "죄를 쫓는 자 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. expurgatorio",
+            "RU": "Набор найма «Очищение греха»",
+            "TC": "逐罪尋訪組合包",
+            "TH": "ชุด​รวม​ HH ชำระล้าง",
+            "VN": "Gói Chiêu Mộ Thanh Tẩy"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_3_2",
+          "priority": 4990,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_lt_1_3_2"
+          ],
+          "id": "recommend_seasonal_09",
+          "name": {
+            "BR": "Pacote CT Expurgatório",
+            "CN": "逐罪寻访组合包",
+            "DE": "Reinigen-RK-Paket",
+            "EN": "Expurgatory HH Bundle",
+            "FR": "Lot de REC expurgatoire",
+            "ID": "Bundel HH Penyucian",
+            "IT": "Pacchetto CT: Espurgatorio",
+            "JP": "罪咎スカウトパック",
+            "KR": "죄를 쫓는 자 헤드헌팅 조합 패키지",
+            "MX": "Paquete de C.R. expurgatorio",
+            "RU": "Набор найма «Очищение греха»",
+            "TC": "逐罪尋訪組合包",
+            "TH": "ชุด​รวม​ HH ชำระล้าง",
+            "VN": "Gói Chiêu Mộ Thanh Tẩy"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpacklt_1_3_2",
+          "priority": 4990,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_seasonal_combine": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_combine"
+          ],
+          "id": "recommend_seasonal_combine",
+          "name": {
+            "BR": "Pacote Fluxo do Protocolo",
+            "CN": "协议源流组合包",
+            "DE": "Paket: Protokollfluss",
+            "EN": "Protocol Flow Bundle",
+            "FR": "Lot de flux du Protocole",
+            "ID": "Bundel Aliran Protokol",
+            "IT": "Pacchetto Flusso protocollare",
+            "JP": "協約起源パック",
+            "KR": "프로토콜 기원 조합 패키지",
+            "MX": "Paquete de flujo de protocolo",
+            "RU": "Набор «Протокол потока»",
+            "TC": "協議源流組合包",
+            "TH": "ชุด​รวม​โปร​โต​คอล​ไหล​ลื่น",
+            "VN": "Gói Dòng Giao Thức"
+          },
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackCombine",
+          "priority": 5000,
+          "type": "DynamicGift"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "seasonal_giftpack_combine"
+          ],
+          "id": "recommend_seasonal_combine",
+          "name": {
+            "BR": "Pacote Fluxo do Protocolo",
+            "CN": "协议源流组合包",
+            "DE": "Paket: Protokollfluss",
+            "EN": "Protocol Flow Bundle",
+            "FR": "Lot de flux du Protocole",
+            "ID": "Bundel Aliran Protokol",
+            "IT": "Pacchetto Flusso protocollare",
+            "JP": "協約起源パック",
+            "KR": "프로토콜 기원 조합 패키지",
+            "MX": "Paquete de flujo de protocolo",
+            "RU": "Набор «Протокол потока»",
+            "TC": "協議源流組合包",
+            "TH": "ชุด​รวม​โปร​โต​คอล​ไหล​ลื่น",
+            "VN": "Gói Dòng Giao Thức"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "SeasonalGiftpackCombine",
+          "priority": 5000,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "DynamicGift"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_2_2": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_2_2"
+          ],
+          "id": "recommend_weaponbox__1_2_2",
+          "name": {
+            "BR": "Distribuição Fogo Fundente",
+            "CN": "熔灼申领",
+            "DE": "Hüttenfeuer-Ausgabe",
+            "EN": "Smelting Fire Issue",
+            "FR": "Tirage du feu des forges",
+            "ID": "Edisi Api Pelebur",
+            "IT": "Distribuzione Fiamma della fonderia",
+            "JP": "溶融・申請",
+            "KR": "용작 신청",
+            "MX": "Solicitud del Fuego de fundición",
+            "RU": "Поставка «Плавильная печь»",
+            "TC": "熔灼申領",
+            "TH": "ตั๋ว​เพลิง​หลอมละลาย",
+            "VN": "Gói Rút Luyện Hỏa"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9984,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_2_2"
+          ],
+          "id": "recommend_weaponbox__1_2_2",
+          "name": {
+            "BR": "Distribuição Fogo Fundente",
+            "CN": "熔灼申领",
+            "DE": "Hüttenfeuer-Ausgabe",
+            "EN": "Smelting Fire Issue",
+            "FR": "Tirage du feu des forges",
+            "ID": "Edisi Api Pelebur",
+            "IT": "Distribuzione Fiamma della fonderia",
+            "JP": "溶融・申請",
+            "KR": "용작 신청",
+            "MX": "Solicitud del Fuego de fundición",
+            "RU": "Поставка «Плавильная печь»",
+            "TC": "熔灼申領",
+            "TH": "ตั๋ว​เพลิง​หลอมละลาย",
+            "VN": "Gói Rút Luyện Hỏa"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9984,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_standard": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "monthly_giftpack_01",
+            "weekly_giftpack_01"
+          ],
+          "id": "recommend_standard",
+          "name": {
+            "BR": "Pacote Padrão",
+            "CN": "标准组合包",
+            "DE": "Standard-Paket",
+            "EN": "Standard Bundle",
+            "FR": "Lot standard",
+            "ID": "Bundel Standar",
+            "IT": "Pacchetto standard",
+            "JP": "標準パック",
+            "KR": "일반 조합 패키지",
+            "MX": "Paquete base",
+            "RU": "Стандартный набор",
+            "TC": "標準組合包",
+            "TH": "ชุด​รวม​มาตรฐาน",
+            "VN": "Gói Tiêu Chuẩn"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9999,
+          "type": "GiftGroup"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "monthly_giftpack_01",
+            "weekly_giftpack_01"
+          ],
+          "id": "recommend_standard",
+          "name": {
+            "BR": "Pacote Padrão",
+            "CN": "标准组合包",
+            "DE": "Standard-Paket",
+            "EN": "Standard Bundle",
+            "FR": "Lot standard",
+            "ID": "Bundel Standar",
+            "IT": "Pacchetto standard",
+            "JP": "標準パック",
+            "KR": "일반 조합 패키지",
+            "MX": "Paquete base",
+            "RU": "Стандартный набор",
+            "TC": "標準組合包",
+            "TH": "ชุด​รวม​มาตรฐาน",
+            "VN": "Gói Tiêu Chuẩn"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9999,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "GiftGroup"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_0_1": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_0_1"
+          ],
+          "id": "recommend_weaponbox__1_0_1",
+          "name": {
+            "BR": "Distribuição Forja de Fundição",
+            "CN": "熔铸申领",
+            "DE": "Schmelzschmiede-Ausgabe",
+            "EN": "Smelting Forge Issue",
+            "FR": "Tirage de fonderie",
+            "ID": "Edisi Tempaan Lebur",
+            "IT": "Distribuzione Forgia della fonderia",
+            "JP": "溶鋳・申請",
+            "KR": "용조 신청",
+            "MX": "Solicitud de la Forja de fundición",
+            "RU": "Поставка «Плавильная закалка»",
+            "TC": "熔鑄申領",
+            "TH": "ตั๋ว​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Gói Rút Rèn Đúc"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9990,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_0_1"
+          ],
+          "id": "recommend_weaponbox__1_0_1",
+          "name": {
+            "BR": "Distribuição Forja de Fundição",
+            "CN": "熔铸申领",
+            "DE": "Schmelzschmiede-Ausgabe",
+            "EN": "Smelting Forge Issue",
+            "FR": "Tirage de fonderie",
+            "ID": "Edisi Tempaan Lebur",
+            "IT": "Distribuzione Forgia della fonderia",
+            "JP": "溶鋳・申請",
+            "KR": "용조 신청",
+            "MX": "Solicitud de la Forja de fundición",
+            "RU": "Поставка «Плавильная закалка»",
+            "TC": "熔鑄申領",
+            "TH": "ตั๋ว​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Gói Rút Rèn Đúc"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9990,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_0_3": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_0_3"
+          ],
+          "id": "recommend_weaponbox__1_0_3",
+          "name": {
+            "BR": "Distribuição Entrega Expressa",
+            "CN": "迅行申领",
+            "DE": "Expresslieferung-Ausgabe",
+            "EN": "Express Delivery Issue",
+            "FR": "Tirage de livraison express",
+            "ID": "Edisi Kiriman Kilat",
+            "IT": "Distribuzione Consegna espressa",
+            "JP": "疾駆・申請",
+            "KR": "순행 신청",
+            "MX": "Solicitud de la Entrega exprés",
+            "RU": "Поставка «Срочная доставка»",
+            "TC": "迅行申領",
+            "TH": "ตั๋ว​จัดส่ง​ด่วน",
+            "VN": "Gói Rút Giao Hàng Nhanh"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9989,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_0_3"
+          ],
+          "id": "recommend_weaponbox__1_0_3",
+          "name": {
+            "BR": "Distribuição Entrega Expressa",
+            "CN": "迅行申领",
+            "DE": "Expresslieferung-Ausgabe",
+            "EN": "Express Delivery Issue",
+            "FR": "Tirage de livraison express",
+            "ID": "Edisi Kiriman Kilat",
+            "IT": "Distribuzione Consegna espressa",
+            "JP": "疾駆・申請",
+            "KR": "순행 신청",
+            "MX": "Solicitud de la Entrega exprés",
+            "RU": "Поставка «Срочная доставка»",
+            "TC": "迅行申領",
+            "TH": "ตั๋ว​จัดส่ง​ด่วน",
+            "VN": "Gói Rút Giao Hàng Nhanh"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9989,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_1_1": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_1_1"
+          ],
+          "id": "recommend_weaponbox__1_1_1",
+          "name": {
+            "BR": "Distribuição Renascer",
+            "CN": "新芽申领",
+            "DE": "„Erneutes Aufblühen“-Ausgabe",
+            "EN": "Budding Anew Issue",
+            "FR": "Tirage de Bourgeonnement nouveau",
+            "ID": "Edisi Tunas Baru",
+            "IT": "Distribuzione Nuovo germoglio",
+            "JP": "新芽・申請",
+            "KR": "신아 신청",
+            "MX": "Solicitud de Brotar de nuevo",
+            "RU": "Поставка «Молодой побег»",
+            "TC": "新芽申領",
+            "TH": "ตั๋ว​ผลิบาน​ใหม่",
+            "VN": "Gói Rút Chồi Non Tái Sinh"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9987,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_1_1"
+          ],
+          "id": "recommend_weaponbox__1_1_1",
+          "name": {
+            "BR": "Distribuição Renascer",
+            "CN": "新芽申领",
+            "DE": "„Erneutes Aufblühen“-Ausgabe",
+            "EN": "Budding Anew Issue",
+            "FR": "Tirage de Bourgeonnement nouveau",
+            "ID": "Edisi Tunas Baru",
+            "IT": "Distribuzione Nuovo germoglio",
+            "JP": "新芽・申請",
+            "KR": "신아 신청",
+            "MX": "Solicitud de Brotar de nuevo",
+            "RU": "Поставка «Молодой побег»",
+            "TC": "新芽申領",
+            "TH": "ตั๋ว​ผลิบาน​ใหม่",
+            "VN": "Gói Rút Chồi Non Tái Sinh"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9987,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_1_2": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_1_2"
+          ],
+          "id": "recommend_weaponbox__1_1_2",
+          "name": {
+            "BR": "Distribuição Pérola Escarlate",
+            "CN": "绯珀申领",
+            "DE": "Scharlachperle-Ausgabe",
+            "EN": "Scarlet Pearl Issue",
+            "FR": "Tirage de Perle écarlate",
+            "ID": "Edisi Mutiara Merah",
+            "IT": "Distribuzione Perla scarlatta",
+            "JP": "緋珀・申請",
+            "KR": "적옥 신청",
+            "MX": "Solicitud de Perla escarlata",
+            "RU": "Поставка «Алая жемчужина»",
+            "TC": "緋珀申領",
+            "TH": "ตั๋ว​มุก​สกา​เล็ต",
+            "VN": "Gói Rút Ngọc Trai Đỏ"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9986,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_1_2"
+          ],
+          "id": "recommend_weaponbox__1_1_2",
+          "name": {
+            "BR": "Distribuição Pérola Escarlate",
+            "CN": "绯珀申领",
+            "DE": "Scharlachperle-Ausgabe",
+            "EN": "Scarlet Pearl Issue",
+            "FR": "Tirage de Perle écarlate",
+            "ID": "Edisi Mutiara Merah",
+            "IT": "Distribuzione Perla scarlatta",
+            "JP": "緋珀・申請",
+            "KR": "적옥 신청",
+            "MX": "Solicitud de Perla escarlata",
+            "RU": "Поставка «Алая жемчужина»",
+            "TC": "緋珀申領",
+            "TH": "ตั๋ว​มุก​สกา​เล็ต",
+            "VN": "Gói Rút Ngọc Trai Đỏ"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9986,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_2_1": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_2_1"
+          ],
+          "id": "recommend_weaponbox__1_2_1",
+          "name": {
+            "BR": "Distribuição Jangada à Deriva",
+            "CN": "行舟申领",
+            "DE": "„Treibendes Floß“-Ausgabe",
+            "EN": "Drifting Raft Issue",
+            "FR": "Tirage du radeau à la dérive",
+            "ID": "Edisi Rakit Mengapung",
+            "IT": "Distribuzione Zattera alla deriva",
+            "JP": "行舟・申請",
+            "KR": "항해 신청",
+            "MX": "Solicitud de Balsa a la deriva",
+            "RU": "Поставка «Дрейфующий плот»",
+            "TC": "行舟申領",
+            "TH": "ตั๋ว​แพลอย​น้ำ",
+            "VN": "Gói Rút Chiếc Bè Trôi Dạt"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9985,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_2_1"
+          ],
+          "id": "recommend_weaponbox__1_2_1",
+          "name": {
+            "BR": "Distribuição Jangada à Deriva",
+            "CN": "行舟申领",
+            "DE": "„Treibendes Floß“-Ausgabe",
+            "EN": "Drifting Raft Issue",
+            "FR": "Tirage du radeau à la dérive",
+            "ID": "Edisi Rakit Mengapung",
+            "IT": "Distribuzione Zattera alla deriva",
+            "JP": "行舟・申請",
+            "KR": "항해 신청",
+            "MX": "Solicitud de Balsa a la deriva",
+            "RU": "Поставка «Дрейфующий плот»",
+            "TC": "行舟申領",
+            "TH": "ตั๋ว​แพลอย​น้ำ",
+            "VN": "Gói Rút Chiếc Bè Trôi Dạt"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9985,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      },
+      "recommend_weaponbox__1_3_1": {
+        "oldValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_3_1"
+          ],
+          "id": "recommend_weaponbox__1_3_1",
+          "name": {
+            "BR": "Distribuição Nó Escarlate",
+            "CN": "绛结申领",
+            "DE": "Scharlachknoten-Ausgabe",
+            "EN": "Scarlet Knot Issue",
+            "FR": "Tirage de nœud écarlate",
+            "ID": "Edisi Simpul Merah",
+            "IT": "Distribuzione Nodo scarlatto",
+            "JP": "赫結・申請",
+            "KR": "붉은 결속 신청",
+            "MX": "Solicitud de Nudo escarlata",
+            "RU": "Поставка «Алый узел»",
+            "TC": "絳結申領",
+            "TH": "ตั๋ว​ปม​สกา​เล็ต",
+            "VN": "Gói Rút Nút Thắt Đỏ"
+          },
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9982,
+          "type": "Weapon"
+        },
+        "newValue": {
+          "cashGoodsIdList": [
+            "shop_weponbox_1_3_1"
+          ],
+          "id": "recommend_weaponbox__1_3_1",
+          "name": {
+            "BR": "Distribuição Nó Escarlate",
+            "CN": "绛结申领",
+            "DE": "Scharlachknoten-Ausgabe",
+            "EN": "Scarlet Knot Issue",
+            "FR": "Tirage de nœud écarlate",
+            "ID": "Edisi Simpul Merah",
+            "IT": "Distribuzione Nodo scarlatto",
+            "JP": "赫結・申請",
+            "KR": "붉은 결속 신청",
+            "MX": "Solicitud de Nudo escarlata",
+            "RU": "Поставка «Алый узел»",
+            "TC": "絳結申領",
+            "TH": "ตั๋ว​ปม​สกา​เล็ต",
+            "VN": "Gói Rút Nút Thắt Đỏ"
+          },
+          "newPriority": 0,
+          "nextChooseId": "",
+          "prefabName": "",
+          "priority": 9982,
+          "setNewPriorityCashGoodsIdList": [],
+          "type": "Weapon"
+        },
+        "changed": {
+          "newPriority": {
+            "type": "value",
+            "newValue": 0
+          },
+          "setNewPriorityCashGoodsIdList": {
+            "type": "value",
+            "newValue": []
+          }
+        }
+      }
+    }
+  }
+}

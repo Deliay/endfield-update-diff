@@ -1,0 +1,365 @@
+{
+  "tableName": "FactoryPanelStoreTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 6,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "map02_lv007_bus_4": {
+        "actionParamsList": [
+          {
+            "actionParams": [
+              "map02_lv007",
+              "log_hongs_bus_source",
+              "0",
+              "1"
+            ]
+          },
+          {
+            "actionParams": [
+              "map02_lv007",
+              "log_hongs_bus",
+              "0",
+              "4"
+            ]
+          }
+        ],
+        "actions": [
+          5122,
+          5122
+        ],
+        "busFreeShowCounts": [
+          1,
+          8
+        ],
+        "conditionParamsList": [
+          {
+            "conditionParams": [
+              "map02_lv007_bus_3"
+            ]
+          },
+          {
+            "conditionParams": [
+              "map02_lv007_region_3"
+            ]
+          },
+          {
+            "conditionParams": [
+              "tech_jinlong_1_log_hongs_bus_1"
+            ]
+          }
+        ],
+        "conditions": [
+          5046,
+          5046,
+          5003
+        ],
+        "cost": 1600000,
+        "currencyType": "item_domain_jinlong_coupon",
+        "goodType": 2,
+        "id": "map02_lv007_bus_4",
+        "name": {
+          "BR": "Adicionar Porta do Transportador do Depósito",
+          "CN": "仓库存取线源桩基段增加",
+          "DE": "Depot-Busport hinzufügen",
+          "EN": "Add Depot Bus Port",
+          "FR": "Ajouter un port de bande d'entrepôt",
+          "ID": "Tambahkan Porta Bus Depot",
+          "IT": "Aggiungi porta del bus deposito",
+          "JP": "倉庫連結ハブ基礎と部品追加",
+          "KR": "창고 입출력 라인 핵심 및 기초 장치 증가",
+          "MX": "Añadir Puerto de Unidades de transporte de Depósito",
+          "RU": "Добавить порт звена склада",
+          "TC": "倉庫存取線源樁基段增加",
+          "TH": "เพิ่ม​พอร์ต​บัส​คลัง",
+          "VN": "Thêm Cổng Tổng Tuyến Kho Hàng"
+        },
+        "regionId": "map02_lv007",
+        "regionIndex": 0,
+        "sortId": 4
+      },
+      "map02_lv007_bus_2": {
+        "actionParamsList": [
+          {
+            "actionParams": [
+              "map02_lv007",
+              "log_hongs_bus",
+              "0",
+              "2"
+            ]
+          }
+        ],
+        "actions": [
+          5122
+        ],
+        "busFreeShowCounts": [
+          4
+        ],
+        "conditionParamsList": [
+          {
+            "conditionParams": [
+              "map02_lv007_bus_1"
+            ]
+          },
+          {
+            "conditionParams": [
+              "map02_lv007_region_2"
+            ]
+          },
+          {
+            "conditionParams": [
+              "tech_jinlong_1_log_hongs_bus_1"
+            ]
+          }
+        ],
+        "conditions": [
+          5046,
+          5046,
+          5003
+        ],
+        "cost": 800000,
+        "currencyType": "item_domain_jinlong_coupon",
+        "goodType": 2,
+        "id": "map02_lv007_bus_2",
+        "name": {
+          "BR": "Adicionar Seção do Transportador do Depósito",
+          "CN": "仓库存取线基段增加",
+          "DE": "Depot-Busabschnitt hinzufügen",
+          "EN": "Add Depot Bus Section",
+          "FR": "Ajouter une section de bande d'entrepôt",
+          "ID": "Tambahkan Penampang Bus Depot",
+          "IT": "Aggiungi sezione di bus deposito",
+          "JP": "倉庫連結ハブ部品追加",
+          "KR": "창고 입출력 라인 기초 장치 증가",
+          "MX": "Añadir Sección de Unidades de transporte de Depósito",
+          "RU": "Добавить секцию звена склада",
+          "TC": "倉庫存取線基段增加",
+          "TH": "เพิ่ม​ส่วน​บัส​คลัง",
+          "VN": "Thêm Khu Tổng Tuyến Kho Hàng"
+        },
+        "regionId": "map02_lv007",
+        "regionIndex": 0,
+        "sortId": 2
+      },
+      "map02_lv007_bus_1": {
+        "actionParamsList": [
+          {
+            "actionParams": [
+              "map02_lv007",
+              "log_hongs_bus_source",
+              "0",
+              "1"
+            ]
+          },
+          {
+            "actionParams": [
+              "map02_lv007",
+              "log_hongs_bus",
+              "0",
+              "4"
+            ]
+          }
+        ],
+        "actions": [
+          5122,
+          5122
+        ],
+        "busFreeShowCounts": [
+          0,
+          0
+        ],
+        "conditionParamsList": [
+          {
+            "conditionParams": [
+              "tech_jinlong_1_log_hongs_bus_1"
+            ]
+          }
+        ],
+        "conditions": [
+          5003
+        ],
+        "cost": 300000,
+        "currencyType": "item_domain_jinlong_coupon",
+        "goodType": 2,
+        "id": "map02_lv007_bus_1",
+        "name": {
+          "BR": "Desbloquear Transportador do Depósito de Wuling",
+          "CN": "武陵仓库存取线解锁",
+          "DE": "Wuling-Depot-Bus freischalten",
+          "EN": "Unlock Wuling Depot Bus",
+          "FR": "Débloquer la bande d'entrepôt de Wuling",
+          "ID": "Buka Bus Depot Wuling",
+          "IT": "Sblocca il bus deposito di Wuling",
+          "JP": "武陵倉庫連結ハブ解放",
+          "KR": "무릉 창고 입출력 라인 해제",
+          "MX": "Desbloquear Unidad de transporte de Depósito de Wuling",
+          "RU": "Открыть звено склада Улина",
+          "TC": "武陵倉庫存取線解鎖",
+          "TH": "ปลดล็อก​บัส​คลัง​อู่​หลิง",
+          "VN": "Mở khóa Tổng Tuyến Kho Hàng Võ Lăng"
+        },
+        "regionId": "map02_lv007",
+        "regionIndex": 0,
+        "sortId": 1
+      },
+      "map02_lv007_bus_3": {
+        "actionParamsList": [
+          {
+            "actionParams": [
+              "map02_lv007",
+              "log_hongs_bus",
+              "0",
+              "2"
+            ]
+          }
+        ],
+        "actions": [
+          5122
+        ],
+        "busFreeShowCounts": [
+          6
+        ],
+        "conditionParamsList": [
+          {
+            "conditionParams": [
+              "map02_lv007_bus_2"
+            ]
+          },
+          {
+            "conditionParams": [
+              "map02_lv007_region_3"
+            ]
+          },
+          {
+            "conditionParams": [
+              "tech_jinlong_1_log_hongs_bus_1"
+            ]
+          }
+        ],
+        "conditions": [
+          5046,
+          5046,
+          5003
+        ],
+        "cost": 1200000,
+        "currencyType": "item_domain_jinlong_coupon",
+        "goodType": 2,
+        "id": "map02_lv007_bus_3",
+        "name": {
+          "BR": "Adicionar Seção do Transportador do Depósito",
+          "CN": "仓库存取线基段增加",
+          "DE": "Depot-Busabschnitt hinzufügen",
+          "EN": "Add Depot Bus Section",
+          "FR": "Ajouter une section de bande d'entrepôt",
+          "ID": "Tambahkan Penampang Bus Depot",
+          "IT": "Aggiungi sezione di bus deposito",
+          "JP": "倉庫連結ハブ部品追加",
+          "KR": "창고 입출력 라인 기초 장치 증가",
+          "MX": "Añadir Sección de Unidades de transporte de Depósito",
+          "RU": "Добавить секцию звена склада",
+          "TC": "倉庫存取線基段增加",
+          "TH": "เพิ่ม​ส่วน​บัส​คลัง",
+          "VN": "Thêm Khu Tổng Tuyến Kho Hàng"
+        },
+        "regionId": "map02_lv007",
+        "regionIndex": 0,
+        "sortId": 3
+      },
+      "map02_lv007_region_2": {
+        "actionParamsList": [
+          {
+            "actionParams": [
+              "map02_lv007",
+              "2",
+              "0"
+            ]
+          }
+        ],
+        "actions": [
+          3000
+        ],
+        "busFreeShowCounts": [],
+        "conditionParamsList": [],
+        "conditions": [],
+        "cost": 450000,
+        "currencyType": "item_domain_jinlong_coupon",
+        "goodType": 1,
+        "id": "map02_lv007_region_2",
+        "name": {
+          "BR": "Expansão da Área I",
+          "CN": "区域扩大·一",
+          "DE": "Gebietserweiterung I",
+          "EN": "Area Expansion I",
+          "FR": "Extension de zone I",
+          "ID": "Perluasan Area I",
+          "IT": "Espansione area I",
+          "JP": "エリア拡張1",
+          "KR": "구역 확장 · 1",
+          "MX": "Expansión de área I",
+          "RU": "Расширение области I",
+          "TC": "區域擴大·一",
+          "TH": "การ​ขยาย​พื้นที่​ I",
+          "VN": "Mở Rộng Khu Vực I"
+        },
+        "regionId": "map02_lv007",
+        "regionIndex": 0,
+        "sortId": 1
+      },
+      "map02_lv007_region_3": {
+        "actionParamsList": [
+          {
+            "actionParams": [
+              "map02_lv007",
+              "3",
+              "0"
+            ]
+          }
+        ],
+        "actions": [
+          3000
+        ],
+        "busFreeShowCounts": [],
+        "conditionParamsList": [
+          {
+            "conditionParams": [
+              "map02_lv007_region_2"
+            ]
+          }
+        ],
+        "conditions": [
+          5046
+        ],
+        "cost": 1200000,
+        "currencyType": "item_domain_jinlong_coupon",
+        "goodType": 1,
+        "id": "map02_lv007_region_3",
+        "name": {
+          "BR": "Expansão da Área II",
+          "CN": "区域扩大·二",
+          "DE": "Gebietserweiterung II",
+          "EN": "Area Expansion II",
+          "FR": "Extension de zone II",
+          "ID": "Perluasan Area II",
+          "IT": "Espansione area II",
+          "JP": "エリア拡張2",
+          "KR": "구역 확장 · 2",
+          "MX": "Expansión de área II",
+          "RU": "Расширение области II",
+          "TC": "區域擴大·二",
+          "TH": "การ​ขยาย​พื้นที่​ II",
+          "VN": "Mở Rộng Khu Vực II"
+        },
+        "regionId": "map02_lv007",
+        "regionIndex": 0,
+        "sortId": 2
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

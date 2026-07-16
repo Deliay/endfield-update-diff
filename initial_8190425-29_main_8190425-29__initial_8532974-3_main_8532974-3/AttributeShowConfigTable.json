@@ -1,0 +1,966 @@
+{
+  "tableName": "AttributeShowConfigTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 6,
+    "removed": 0,
+    "changed": 6
+  },
+  "entries": {
+    "added": {
+      "94": {
+        "list": [
+          {
+            "attributeHint": {
+              "BR": "Ao receber DNO Físico, cada ponto de Resistência Física fornece 1% de Redução DNO (Máx.: 90%).",
+              "CN": "受到物理伤害时，每点物理抗性提供1%的伤害减免（最多提供90%）。",
+              "DE": "Erleidest du Physischen SDN, verleiht dir jeder Punkt Physische Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+              "EN": "When taking Physical DMG, each point of Physical Resistance gives 1% DMG Reduction (Max: 90%).",
+              "FR": "Lorsque vous subissez des DÉG physiques, chaque point de résistance physique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+              "ID": "Setiap poin Resistansi Physical akan memberikan Pengurangan DMG sebesar 1% saat terkena Physical DMG (Maks: 90%).",
+              "IT": "Quando subisci danni fisici, ogni punto di resistenza fisica fornisce un 1% di riduzione dei danni (max: 90%).",
+              "JP": "物理ダメージを受けた場合、物理耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+              "KR": "물리 피해를 받을 때, 물리 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+              "MX": "Al recibir DAÑ físico, cada punto de Resistencia física otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+              "RU": "При получении физического УРН каждое очко физической СОПР снижает УРН на 1% (максимум на 90%).",
+              "TC": "受到物理傷害時，每點物理抗性提供1%的傷害減免（最多提供90%）。",
+              "TH": "เมื่อ​ได้รับ​ DMG กายภาพ​ ทุก​แต้ม​ของ​ความต้านทาน​ทางกายภาพ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+              "VN": "Khi chịu ST Vật Lý, mỗi điểm Kháng Vật Lý sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+            },
+            "attributeHintSubs": [],
+            "attributeModifier": 9,
+            "charFullAttrDisplayType": 2,
+            "defaultDisplayType": 0,
+            "equipFullAttrDisplayType": 1,
+            "index": 33,
+            "isReduce": false,
+            "name": {
+              "BR": "Resistência Física",
+              "CN": "物理抗性",
+              "DE": "Physische Resistenz",
+              "EN": "Physical Resistance",
+              "FR": "Résistance physique",
+              "ID": "Resistansi Physical",
+              "IT": "Resistenza fisica",
+              "JP": "物理耐性",
+              "KR": "물리 저항",
+              "MX": "Resistencia física",
+              "RU": "Физическая СОПР",
+              "TC": "物理抗性",
+              "TH": "ความต้านทาน​ทางกายภาพ",
+              "VN": "Kháng Vật Lý"
+            },
+            "showDiffFromDefault": false,
+            "showPercent": true,
+            "valueFormat": "{value:0}"
+          }
+        ]
+      },
+      "95": {
+        "list": [
+          {
+            "attributeHint": {
+              "BR": "Ao receber DNO Natureza, cada ponto de Resistência à Natureza fornece 1% de Redução DNO (Máx.: 90%).",
+              "CN": "受到自然伤害时，每点自然抗性提供1%的伤害减免（最多提供90%）。",
+              "DE": "Erleidest du Natur-SDN, verleiht dir jeder Punkt Naturresistenz 1 % SDN-Reduzierung (max. 90 %).",
+              "EN": "When taking Nature DMG, each point of Nature Resistance gives 1% DMG Reduction (Max: 90%).",
+              "FR": "Lorsque vous subissez des DÉG naturels, chaque point de résistance naturelle vous octroie 1 % de réduction des DÉG (max : 90 %).",
+              "ID": "Setiap poin Resistansi Nature akan memberikan Pengurangan DMG sebesar 1% saat terkena Nature DMG (Maks: 90%).",
+              "IT": "Quando subisci danni da natura, ogni punto di resistenza alla natura fornisce un 1% di riduzione dei danni (max: 90%).",
+              "JP": "自然ダメージを受けた場合、自然耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+              "KR": "자연 피해를 받을 때, 자연 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+              "MX": "Al recibir DAÑ por naturaleza, cada punto de Resistencia natural otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+              "RU": "При получении природного УРН каждое очко природной СОПР снижает УРН на 1% (максимум на 90%).",
+              "TC": "受到自然傷害時，每點自然抗性提供1%的傷害減免（最多提供90%）。",
+              "TH": "เมื่อ​ได้รับ​ DMG ธรรมชาติ​ ทุก​แต้ม​ของ​การต้าน​ทาน​ธรรมชาติ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+              "VN": "Khi chịu ST Tự Nhiên, mỗi điểm Kháng Tự Nhiên sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+            },
+            "attributeHintSubs": [],
+            "attributeModifier": 9,
+            "charFullAttrDisplayType": 2,
+            "defaultDisplayType": 0,
+            "equipFullAttrDisplayType": 1,
+            "index": 37,
+            "isReduce": false,
+            "name": {
+              "BR": "Resistência à Natureza",
+              "CN": "自然抗性",
+              "DE": "Naturresistenz",
+              "EN": "Nature Resistance",
+              "FR": "Résistance naturelle",
+              "ID": "Resistansi Nature",
+              "IT": "Resistenza alla natura",
+              "JP": "自然耐性",
+              "KR": "자연 저항",
+              "MX": "Resistencia a la naturaleza",
+              "RU": "Природная СОПР",
+              "TC": "自然抗性",
+              "TH": "การต้าน​ทาน​ธรรมชาติ",
+              "VN": "Kháng Tự Nhiên"
+            },
+            "showDiffFromDefault": false,
+            "showPercent": true,
+            "valueFormat": "{value:0}"
+          }
+        ]
+      },
+      "96": {
+        "list": [
+          {
+            "attributeHint": {
+              "BR": "Ao receber DNO Crio, cada ponto de Resistência Crio fornece 1% de Redução DNO (Máx.: 90%).",
+              "CN": "受到寒冷伤害时，每点寒冷抗性提供1%的伤害减免（最多提供90%）。",
+              "DE": "Erleidest du Kryo-SDN, verleiht dir jeder Punkt Kryo-Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+              "EN": "When taking Cryo DMG, each point of Cryo Resistance gives 1% DMG Reduction (Max: 90%).",
+              "FR": "Lorsque vous subissez des DÉG cryogéniques, chaque point de résistance cryogénique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+              "ID": "Setiap poin Resistansi Cryo akan memberikan Pengurangan DMG sebesar 1% saat terkena Cryo DMG (Maks: 90%).",
+              "IT": "Quando subisci danni da ghiaccio, ogni punto di resistenza al ghiaccio fornisce un 1% di riduzione dei danni (max: 90%).",
+              "JP": "寒冷ダメージを受けた場合、寒冷耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+              "KR": "냉기 피해를 받을 때, 냉기 저항 1포인트마다 1%의 피해 감소를 제공합니다. (최대 90%까지)",
+              "MX": "Al recibir DAÑ criogénico, cada punto de Resistencia criogénica otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+              "RU": "При получении криогенного УРН каждое очко криогенной СОПР снижает УРН на 1% (максимум на 90%).",
+              "TC": "受到寒冷傷害時，每點寒冷抗性提供1%的傷害減免（最多提供90%）。",
+              "TH": "เมื่อ​ได้รับ​ DMG ความ​เย็น​ ทุก​แต้ม​ของ​การต้าน​ทาน​ไค​ร​โอ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+              "VN": "Khi chịu ST Băng, mỗi điểm Kháng Băng sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+            },
+            "attributeHintSubs": [],
+            "attributeModifier": 9,
+            "charFullAttrDisplayType": 2,
+            "defaultDisplayType": 0,
+            "equipFullAttrDisplayType": 1,
+            "index": 36,
+            "isReduce": false,
+            "name": {
+              "BR": "Resistência Crio",
+              "CN": "寒冷抗性",
+              "DE": "Kryo-Resistenz",
+              "EN": "Cryo Resistance",
+              "FR": "Résistance cryogénique",
+              "ID": "Resistansi Cryo",
+              "IT": "Resistenza al ghiaccio",
+              "JP": "寒冷耐性",
+              "KR": "냉기 저항",
+              "MX": "Resistencia criogénica",
+              "RU": "Криогенная СОПР",
+              "TC": "寒冷抗性",
+              "TH": "การต้าน​ทาน​ไค​ร​โอ",
+              "VN": "Kháng Băng"
+            },
+            "showDiffFromDefault": false,
+            "showPercent": true,
+            "valueFormat": "{value:0}"
+          }
+        ]
+      },
+      "97": {
+        "list": [
+          {
+            "attributeHint": {
+              "BR": "Ao receber DNO Elétrico, cada ponto de Resistência Elétrica fornece 1% de Redução DNO (Máx.: 90%).",
+              "CN": "受到电磁伤害时，每点电磁抗性提供1%的伤害减免（最多提供90%）。",
+              "DE": "Erleidest du Elektrischen SDN, verleiht dir jeder Punkt Elektrische Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+              "EN": "When taking Electric DMG, each point of Electric Resistance gives 1% DMG Reduction (Max: 90%).",
+              "FR": "Lorsque vous subissez des DÉG électriques, chaque point de résistance électrique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+              "ID": "Setiap poin Resistansi Electric akan memberikan Pengurangan DMG sebesar 1% saat terkena Electric DMG (Maks: 90%).",
+              "IT": "Quando subisci danni da elettricità, ogni punto di resistenza all'elettricità fornisce un 1% di riduzione dei danni (max: 90%).",
+              "JP": "電磁ダメージを受けた場合、電磁耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+              "KR": "전기 피해를 받을 때, 전기 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+              "MX": "Al recibir DAÑ eléctrico, cada punto de Resistencia eléctrica otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+              "RU": "При получении электрического УРН каждое очко электрической СОПР снижает УРН на 1% (максимум на 90%).",
+              "TC": "受到電磁傷害時，每點電磁抗性提供1%的傷害減免（最多提供90%）。",
+              "TH": "เมื่อ​ได้รับ​ DMG ไฟฟ้า​ ทุก​แต้ม​ของ​ความต้านทาน​ไฟฟ้า​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+              "VN": "Khi chịu ST Điện, mỗi điểm Kháng Điện sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+            },
+            "attributeHintSubs": [],
+            "attributeModifier": 9,
+            "charFullAttrDisplayType": 2,
+            "defaultDisplayType": 0,
+            "equipFullAttrDisplayType": 1,
+            "index": 35,
+            "isReduce": false,
+            "name": {
+              "BR": "Resistência Elétrica",
+              "CN": "电磁抗性",
+              "DE": "Elektrische Resistenz",
+              "EN": "Electric Resistance",
+              "FR": "Résistance électrique",
+              "ID": "Resistansi Electric",
+              "IT": "Resistenza all'elettricità",
+              "JP": "電磁耐性",
+              "KR": "전기 저항",
+              "MX": "Resistencia eléctrica",
+              "RU": "Электрическая СОПР",
+              "TC": "電磁抗性",
+              "TH": "การต้าน​ทาน​ไฟฟ้า",
+              "VN": "Kháng Điện"
+            },
+            "showDiffFromDefault": false,
+            "showPercent": true,
+            "valueFormat": "{value:0}"
+          }
+        ]
+      },
+      "98": {
+        "list": [
+          {
+            "attributeHint": {
+              "BR": "Ao receber DNO Térmico, cada ponto de Resistência Térmica fornece 1% de Redução DNO (Máx.: 90%).",
+              "CN": "受到灼热伤害时，每点灼热抗性提供1%的伤害减免（最多提供90%）。",
+              "DE": "Erleidest du Hitze-SDN, verleiht dir jeder Punkt Hitzeresistenz 1 % SDN-Reduzierung (max. 90 %).",
+              "EN": "When taking Heat DMG, each point of Heat Resistance gives 1% DMG Reduction (Max: 90%).",
+              "FR": "Lorsque vous subissez des DÉG thermiques, chaque point de résistance thermique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+              "ID": "Setiap poin Resistansi Heat akan memberikan Pengurangan DMG sebesar 1% saat terkena Heat DMG (Maks: 90%).",
+              "IT": "Quando subisci danni da fuoco, ogni punto di resistenza al fuoco fornisce un 1% di riduzione dei danni (max: 90%).",
+              "JP": "灼熱ダメージを受けた場合、灼熱耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+              "KR": "열기 피해를 받을 때, 열기 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+              "MX": "Al recibir DAÑ por calor, cada punto de Resistencia al calor otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+              "RU": "При получении теплового УРН каждое очко тепловой СОПР снижает УРН на 1% (максимум на 90%).",
+              "TC": "受到灼熱傷害時，每點灼熱抗性提供1%的傷害減免（最多提供90%）。",
+              "TH": "เมื่อ​ได้รับ​ DMG ความร้อน​ ทุก​แต้ม​ของ​การต้าน​ทาน​ความร้อน​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+              "VN": "Khi chịu ST Nhiệt, mỗi điểm Kháng Nhiệt sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+            },
+            "attributeHintSubs": [],
+            "attributeModifier": 9,
+            "charFullAttrDisplayType": 2,
+            "defaultDisplayType": 0,
+            "equipFullAttrDisplayType": 1,
+            "index": 34,
+            "isReduce": false,
+            "name": {
+              "BR": "Resistência Térmica",
+              "CN": "灼热抗性",
+              "DE": "Hitzeresistenz",
+              "EN": "Heat Resistance",
+              "FR": "Résistance thermique",
+              "ID": "Resistansi Heat",
+              "IT": "Resistenza al fuoco",
+              "JP": "灼熱耐性",
+              "KR": "열기 저항",
+              "MX": "Resistencia al calor",
+              "RU": "Тепловая СОПР",
+              "TC": "灼熱抗性",
+              "TH": "การต้าน​ทาน​ความร้อน",
+              "VN": "Kháng Nhiệt"
+            },
+            "showDiffFromDefault": false,
+            "showPercent": true,
+            "valueFormat": "{value:0}"
+          }
+        ]
+      },
+      "99": {
+        "list": [
+          {
+            "attributeHint": {
+              "BR": "Ao receber DNO Æther, cada ponto de Resistência a Æther fornece 1% de Redução DNO (Máx.: 90%).",
+              "CN": "受到超域伤害时，每点超域抗性提供1%的伤害减免（最多提供90%）。",
+              "DE": "Erleidest du Æther-SDN, verleiht dir jeder Punkt Æther-Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+              "EN": "When taking Æther DMG, each point of Æther Resistance gives 1% DMG Reduction (Max: 90%).",
+              "FR": "Lorsque vous subissez des DÉG æthériques, chaque point de résistance æthérique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+              "ID": "Setiap poin Resistansi Æther akan memberikan Pengurangan DMG sebesar 1% saat terkena Æther DMG (Maks: 90%).",
+              "IT": "Quando subisci danni da Æther, ogni punto di resistenza all'Æther fornisce un 1% di riduzione dei danni (max: 90%).",
+              "JP": "超域ダメージを受けた場合、超域耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+              "KR": "초자연 피해를 받을 때, 초자연 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+              "MX": "Al recibir DAÑ por éter, cada punto de Resistencia al Éter otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+              "RU": "При получении эфирного УРН каждое очко эфирной СОПР снижает УРН на 1% (максимум на 90%).",
+              "TC": "受到超域傷害時，每點超域抗性提供1%的傷害減免（最多提供90%）。",
+              "TH": "เมื่อ​ได้รับ​ DMG เอ​เทอร์​ ทุก​แต้ม​ของ​การต้าน​ทาน​เอ​เทอร์​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+              "VN": "Khi chịu ST Æther, mỗi điểm Kháng Æther sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+            },
+            "attributeHintSubs": [],
+            "attributeModifier": 9,
+            "charFullAttrDisplayType": 2,
+            "defaultDisplayType": 0,
+            "equipFullAttrDisplayType": 1,
+            "index": 38,
+            "isReduce": false,
+            "name": {
+              "BR": "Resistência a Æther",
+              "CN": "超域抗性",
+              "DE": "Æther-Resistenz",
+              "EN": "Æther Resistance",
+              "FR": "Résistance æthérique",
+              "ID": "Resistansi Æther",
+              "IT": "Resistenza all'Æther",
+              "JP": "超域耐性",
+              "KR": "초자연 저항",
+              "MX": "Resistencia al Éter",
+              "RU": "Эфирная СОПР",
+              "TC": "超域抗性",
+              "TH": "การต้าน​ทาน​เอ​เทอร์",
+              "VN": "Kháng Æther"
+            },
+            "showDiffFromDefault": false,
+            "showPercent": true,
+            "valueFormat": "{value:0}"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "80": {
+        "oldValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Físico, cada ponto de Resistência Física fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到物理伤害时，每点物理抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Physischen SDN, verleiht dir jeder Punkt Physische Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Physical DMG, each point of Physical Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG physiques, chaque point de résistance physique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Physical akan memberikan Pengurangan DMG sebesar 1% saat terkena Physical DMG (Maks: 90%).",
+                "IT": "Quando subisci danni fisici, ogni punto di resistenza fisica fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "物理ダメージを受けた場合、物理耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "물리 피해를 받을 때, 물리 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ físico, cada punto de Resistencia física otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении физического УРН каждое очко физической СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到物理傷害時，每點物理抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG กายภาพ​ ทุก​แต้ม​ของ​ความต้านทาน​ทางกายภาพ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Vật Lý, mỗi điểm Kháng Vật Lý sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 2,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 1,
+              "index": 33,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Física",
+                "CN": "物理抗性",
+                "DE": "Physische Resistenz",
+                "EN": "Physical Resistance",
+                "FR": "Résistance physique",
+                "ID": "Resistansi Physical",
+                "IT": "Resistenza fisica",
+                "JP": "物理耐性",
+                "KR": "물리 저항",
+                "MX": "Resistencia física",
+                "RU": "Физическая СОПР",
+                "TC": "物理抗性",
+                "TH": "ความต้านทาน​ทางกายภาพ",
+                "VN": "Kháng Vật Lý"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Físico, cada ponto de Resistência Física fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到物理伤害时，每点物理抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Physischen SDN, verleiht dir jeder Punkt Physische Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Physical DMG, each point of Physical Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG physiques, chaque point de résistance physique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Physical akan memberikan Pengurangan DMG sebesar 1% saat terkena Physical DMG (Maks: 90%).",
+                "IT": "Quando subisci danni fisici, ogni punto di resistenza fisica fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "物理ダメージを受けた場合、物理耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "물리 피해를 받을 때, 물리 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ físico, cada punto de Resistencia física otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении физического УРН каждое очко физической СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到物理傷害時，每點物理抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG กายภาพ​ ทุก​แต้ม​ของ​ความต้านทาน​ทางกายภาพ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Vật Lý, mỗi điểm Kháng Vật Lý sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 0,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 0,
+              "index": 33,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Física",
+                "CN": "物理抗性",
+                "DE": "Physische Resistenz",
+                "EN": "Physical Resistance",
+                "FR": "Résistance physique",
+                "ID": "Resistansi Physical",
+                "IT": "Resistenza fisica",
+                "JP": "物理耐性",
+                "KR": "물리 저항",
+                "MX": "Resistencia física",
+                "RU": "Физическая СОПР",
+                "TC": "物理抗性",
+                "TH": "ความต้านทาน​ทางกายภาพ",
+                "VN": "Kháng Vật Lý"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "changed": {
+          "list[0].charFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 0
+          },
+          "list[0].equipFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      },
+      "81": {
+        "oldValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Natureza, cada ponto de Resistência à Natureza fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到自然伤害时，每点自然抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Natur-SDN, verleiht dir jeder Punkt Naturresistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Nature DMG, each point of Nature Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG naturels, chaque point de résistance naturelle vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Nature akan memberikan Pengurangan DMG sebesar 1% saat terkena Nature DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da natura, ogni punto di resistenza alla natura fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "自然ダメージを受けた場合、自然耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "자연 피해를 받을 때, 자연 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ por naturaleza, cada punto de Resistencia natural otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении природного УРН каждое очко природной СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到自然傷害時，每點自然抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ธรรมชาติ​ ทุก​แต้ม​ของ​การต้าน​ทาน​ธรรมชาติ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Tự Nhiên, mỗi điểm Kháng Tự Nhiên sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 2,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 1,
+              "index": 37,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência à Natureza",
+                "CN": "自然抗性",
+                "DE": "Naturresistenz",
+                "EN": "Nature Resistance",
+                "FR": "Résistance naturelle",
+                "ID": "Resistansi Nature",
+                "IT": "Resistenza alla natura",
+                "JP": "自然耐性",
+                "KR": "자연 저항",
+                "MX": "Resistencia natural",
+                "RU": "Природная СОПР",
+                "TC": "自然抗性",
+                "TH": "การต้าน​ทาน​ธรรมชาติ",
+                "VN": "Kháng Tự Nhiên"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Natureza, cada ponto de Resistência à Natureza fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到自然伤害时，每点自然抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Natur-SDN, verleiht dir jeder Punkt Naturresistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Nature DMG, each point of Nature Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG naturels, chaque point de résistance naturelle vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Nature akan memberikan Pengurangan DMG sebesar 1% saat terkena Nature DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da natura, ogni punto di resistenza alla natura fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "自然ダメージを受けた場合、自然耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "자연 피해를 받을 때, 자연 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ por naturaleza, cada punto de Resistencia natural otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении природного УРН каждое очко природной СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到自然傷害時，每點自然抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ธรรมชาติ​ ทุก​แต้ม​ของ​การต้าน​ทาน​ธรรมชาติ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Tự Nhiên, mỗi điểm Kháng Tự Nhiên sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 0,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 0,
+              "index": 37,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência à Natureza",
+                "CN": "自然抗性",
+                "DE": "Naturresistenz",
+                "EN": "Nature Resistance",
+                "FR": "Résistance naturelle",
+                "ID": "Resistansi Nature",
+                "IT": "Resistenza alla natura",
+                "JP": "自然耐性",
+                "KR": "자연 저항",
+                "MX": "Resistencia natural",
+                "RU": "Природная СОПР",
+                "TC": "自然抗性",
+                "TH": "การต้าน​ทาน​ธรรมชาติ",
+                "VN": "Kháng Tự Nhiên"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "changed": {
+          "list[0].charFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 0
+          },
+          "list[0].equipFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      },
+      "82": {
+        "oldValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Crio, cada ponto de Resistência Crio fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到寒冷伤害时，每点寒冷抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Kryo-SDN, verleiht dir jeder Punkt Kryo-Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Cryo DMG, each point of Cryo Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG cryogéniques, chaque point de résistance cryogénique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Cryo akan memberikan Pengurangan DMG sebesar 1% saat terkena Cryo DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da ghiaccio, ogni punto di resistenza al ghiaccio fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "寒冷ダメージを受けた場合、寒冷耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "냉기 피해를 받을 때, 냉기 저항 1포인트마다 1%의 피해 감소를 제공합니다. (최대 90%까지)",
+                "MX": "Al recibir DAÑ criogénico, cada punto de Resistencia criogénica otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении криогенного УРН каждое очко криогенной СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到寒冷傷害時，每點寒冷抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ความ​เย็น​ ทุก​แต้ม​ของ​การต้าน​ทาน​ไค​ร​โอ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Băng, mỗi điểm Kháng Băng sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 2,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 1,
+              "index": 36,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Crio",
+                "CN": "寒冷抗性",
+                "DE": "Kryo-Resistenz",
+                "EN": "Cryo Resistance",
+                "FR": "Résistance cryogénique",
+                "ID": "Resistansi Cryo",
+                "IT": "Resistenza al ghiaccio",
+                "JP": "寒冷耐性",
+                "KR": "냉기 저항",
+                "MX": "Resistencia criogénica",
+                "RU": "Криогенная СОПР",
+                "TC": "寒冷抗性",
+                "TH": "การต้าน​ทาน​ไค​ร​โอ",
+                "VN": "Kháng Băng"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Crio, cada ponto de Resistência Crio fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到寒冷伤害时，每点寒冷抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Kryo-SDN, verleiht dir jeder Punkt Kryo-Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Cryo DMG, each point of Cryo Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG cryogéniques, chaque point de résistance cryogénique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Cryo akan memberikan Pengurangan DMG sebesar 1% saat terkena Cryo DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da ghiaccio, ogni punto di resistenza al ghiaccio fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "寒冷ダメージを受けた場合、寒冷耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "냉기 피해를 받을 때, 냉기 저항 1포인트마다 1%의 피해 감소를 제공합니다. (최대 90%까지)",
+                "MX": "Al recibir DAÑ criogénico, cada punto de Resistencia criogénica otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении криогенного УРН каждое очко криогенной СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到寒冷傷害時，每點寒冷抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ความ​เย็น​ ทุก​แต้ม​ของ​การต้าน​ทาน​ไค​ร​โอ​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Băng, mỗi điểm Kháng Băng sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 0,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 0,
+              "index": 36,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Crio",
+                "CN": "寒冷抗性",
+                "DE": "Kryo-Resistenz",
+                "EN": "Cryo Resistance",
+                "FR": "Résistance cryogénique",
+                "ID": "Resistansi Cryo",
+                "IT": "Resistenza al ghiaccio",
+                "JP": "寒冷耐性",
+                "KR": "냉기 저항",
+                "MX": "Resistencia criogénica",
+                "RU": "Криогенная СОПР",
+                "TC": "寒冷抗性",
+                "TH": "การต้าน​ทาน​ไค​ร​โอ",
+                "VN": "Kháng Băng"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "changed": {
+          "list[0].charFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 0
+          },
+          "list[0].equipFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      },
+      "83": {
+        "oldValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Elétrico, cada ponto de Resistência Elétrica fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到电磁伤害时，每点电磁抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Elektrischen SDN, verleiht dir jeder Punkt Elektrische Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Electric DMG, each point of Electric Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG électriques, chaque point de résistance électrique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Electric akan memberikan Pengurangan DMG sebesar 1% saat terkena Electric DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da elettricità, ogni punto di resistenza all'elettricità fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "電磁ダメージを受けた場合、電磁耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "전기 피해를 받을 때, 전기 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ eléctrico, cada punto de Resistencia eléctrica otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении электрического УРН каждое очко электрической СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到電磁傷害時，每點電磁抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ไฟฟ้า​ ทุก​แต้ม​ของ​ความต้านทาน​ไฟฟ้า​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Điện, mỗi điểm Kháng Điện sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 2,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 1,
+              "index": 35,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Elétrica",
+                "CN": "电磁抗性",
+                "DE": "Elektrische Resistenz",
+                "EN": "Electric Resistance",
+                "FR": "Résistance électrique",
+                "ID": "Resistansi Electric",
+                "IT": "Resistenza all'elettricità",
+                "JP": "電磁耐性",
+                "KR": "전기 저항",
+                "MX": "Resistencia eléctrica",
+                "RU": "Электрическая СОПР",
+                "TC": "電磁抗性",
+                "TH": "ความต้านทาน​ไฟฟ้า",
+                "VN": "Kháng Điện"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Elétrico, cada ponto de Resistência Elétrica fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到电磁伤害时，每点电磁抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Elektrischen SDN, verleiht dir jeder Punkt Elektrische Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Electric DMG, each point of Electric Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG électriques, chaque point de résistance électrique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Electric akan memberikan Pengurangan DMG sebesar 1% saat terkena Electric DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da elettricità, ogni punto di resistenza all'elettricità fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "電磁ダメージを受けた場合、電磁耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "전기 피해를 받을 때, 전기 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ eléctrico, cada punto de Resistencia eléctrica otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении электрического УРН каждое очко электрической СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到電磁傷害時，每點電磁抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ไฟฟ้า​ ทุก​แต้ม​ของ​ความต้านทาน​ไฟฟ้า​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Điện, mỗi điểm Kháng Điện sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 0,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 0,
+              "index": 35,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Elétrica",
+                "CN": "电磁抗性",
+                "DE": "Elektrische Resistenz",
+                "EN": "Electric Resistance",
+                "FR": "Résistance électrique",
+                "ID": "Resistansi Electric",
+                "IT": "Resistenza all'elettricità",
+                "JP": "電磁耐性",
+                "KR": "전기 저항",
+                "MX": "Resistencia eléctrica",
+                "RU": "Электрическая СОПР",
+                "TC": "電磁抗性",
+                "TH": "ความต้านทาน​ไฟฟ้า",
+                "VN": "Kháng Điện"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "changed": {
+          "list[0].charFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 0
+          },
+          "list[0].equipFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      },
+      "84": {
+        "oldValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Térmico, cada ponto de Resistência Térmica fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到灼热伤害时，每点灼热抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Hitze-SDN, verleiht dir jeder Punkt Hitzeresistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Heat DMG, each point of Heat Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG thermiques, chaque point de résistance thermique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Heat akan memberikan Pengurangan DMG sebesar 1% saat terkena Heat DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da fuoco, ogni punto di resistenza al fuoco fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "灼熱ダメージを受けた場合、灼熱耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "열기 피해를 받을 때, 열기 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ por calor, cada punto de Resistencia al calor otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении теплового УРН каждое очко тепловой СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到灼熱傷害時，每點灼熱抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ความร้อน​ ทุก​แต้ม​ของ​การต้าน​ทาน​ความร้อน​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Nhiệt, mỗi điểm Kháng Nhiệt sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 2,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 1,
+              "index": 34,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Térmica",
+                "CN": "灼热抗性",
+                "DE": "Hitzeresistenz",
+                "EN": "Heat Resistance",
+                "FR": "Résistance thermique",
+                "ID": "Resistansi Heat",
+                "IT": "Resistenza al fuoco",
+                "JP": "灼熱耐性",
+                "KR": "열기 저항",
+                "MX": "Resistencia al calor",
+                "RU": "Тепловая СОПР",
+                "TC": "灼熱抗性",
+                "TH": "การต้าน​ทาน​ความร้อน",
+                "VN": "Kháng Nhiệt"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Térmico, cada ponto de Resistência Térmica fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到灼热伤害时，每点灼热抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Hitze-SDN, verleiht dir jeder Punkt Hitzeresistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Heat DMG, each point of Heat Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG thermiques, chaque point de résistance thermique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Heat akan memberikan Pengurangan DMG sebesar 1% saat terkena Heat DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da fuoco, ogni punto di resistenza al fuoco fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "灼熱ダメージを受けた場合、灼熱耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "열기 피해를 받을 때, 열기 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ por calor, cada punto de Resistencia al calor otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении теплового УРН каждое очко тепловой СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到灼熱傷害時，每點灼熱抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG ความร้อน​ ทุก​แต้ม​ของ​การต้าน​ทาน​ความร้อน​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Nhiệt, mỗi điểm Kháng Nhiệt sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 0,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 0,
+              "index": 34,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência Térmica",
+                "CN": "灼热抗性",
+                "DE": "Hitzeresistenz",
+                "EN": "Heat Resistance",
+                "FR": "Résistance thermique",
+                "ID": "Resistansi Heat",
+                "IT": "Resistenza al fuoco",
+                "JP": "灼熱耐性",
+                "KR": "열기 저항",
+                "MX": "Resistencia al calor",
+                "RU": "Тепловая СОПР",
+                "TC": "灼熱抗性",
+                "TH": "การต้าน​ทาน​ความร้อน",
+                "VN": "Kháng Nhiệt"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "changed": {
+          "list[0].charFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 0
+          },
+          "list[0].equipFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      },
+      "85": {
+        "oldValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Æther, cada ponto de Resistência a Æther fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到超域伤害时，每点超域抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Æther-SDN, verleiht dir jeder Punkt Æther-Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Æther DMG, each point of Æther Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG æthériques, chaque point de résistance æthérique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Æther akan memberikan Pengurangan DMG sebesar 1% saat terkena Æther DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da Æther, ogni punto di resistenza all'Æther fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "超域ダメージを受けた場合、超域耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "초자연 피해를 받을 때, 초자연 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ por éter, cada punto de Resistencia al éter otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении эфирного УРН каждое очко эфирной СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到超域傷害時，每點超域抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG เอ​เทอร์​ ทุก​แต้ม​ของ​การต้าน​ทาน​เอ​เทอร์​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Æther, mỗi điểm Kháng Æther sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 2,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 1,
+              "index": 38,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência a Æther",
+                "CN": "超域抗性",
+                "DE": "Æther-Resistenz",
+                "EN": "Æther Resistance",
+                "FR": "Résistance æthérique",
+                "ID": "Resistansi Æther",
+                "IT": "Resistenza all'Æther",
+                "JP": "超域耐性",
+                "KR": "초자연 저항",
+                "MX": "Resistencia al éter",
+                "RU": "Эфирная СОПР",
+                "TC": "超域抗性",
+                "TH": "การต้าน​ทาน​เอ​เทอร์",
+                "VN": "Kháng Æther"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "attributeHint": {
+                "BR": "Ao receber DNO Æther, cada ponto de Resistência a Æther fornece 1% de Redução DNO (Máx.: 90%).",
+                "CN": "受到超域伤害时，每点超域抗性提供1%的伤害减免（最多提供90%）。",
+                "DE": "Erleidest du Æther-SDN, verleiht dir jeder Punkt Æther-Resistenz 1 % SDN-Reduzierung (max. 90 %).",
+                "EN": "When taking Æther DMG, each point of Æther Resistance gives 1% DMG Reduction (Max: 90%).",
+                "FR": "Lorsque vous subissez des DÉG æthériques, chaque point de résistance æthérique vous octroie 1 % de réduction des DÉG (max : 90 %).",
+                "ID": "Setiap poin Resistansi Æther akan memberikan Pengurangan DMG sebesar 1% saat terkena Æther DMG (Maks: 90%).",
+                "IT": "Quando subisci danni da Æther, ogni punto di resistenza all'Æther fornisce un 1% di riduzione dei danni (max: 90%).",
+                "JP": "超域ダメージを受けた場合、超域耐性1ごとに1%のダメージ軽減を付加する（最大90%）",
+                "KR": "초자연 피해를 받을 때, 초자연 저항 1포인트마다 1%의 피해 감소를 제공합니다.(최대 90%까지)",
+                "MX": "Al recibir DAÑ por éter, cada punto de Resistencia al éter otorga 1 % de reducción de DAÑ (Máx.: 90 %).",
+                "RU": "При получении эфирного УРН каждое очко эфирной СОПР снижает УРН на 1% (максимум на 90%).",
+                "TC": "受到超域傷害時，每點超域抗性提供1%的傷害減免（最多提供90%）。",
+                "TH": "เมื่อ​ได้รับ​ DMG เอ​เทอร์​ ทุก​แต้ม​ของ​การต้าน​ทาน​เอ​เทอร์​จะ​ลด​ DMG 1% (สูงสุด​: 90%)",
+                "VN": "Khi chịu ST Æther, mỗi điểm Kháng Æther sẽ tăng 1% Giảm ST (Tối đa: 90%)."
+              },
+              "attributeHintSubs": [],
+              "attributeModifier": 9,
+              "charFullAttrDisplayType": 0,
+              "defaultDisplayType": 0,
+              "equipFullAttrDisplayType": 0,
+              "index": 38,
+              "isReduce": false,
+              "name": {
+                "BR": "Resistência a Æther",
+                "CN": "超域抗性",
+                "DE": "Æther-Resistenz",
+                "EN": "Æther Resistance",
+                "FR": "Résistance æthérique",
+                "ID": "Resistansi Æther",
+                "IT": "Resistenza all'Æther",
+                "JP": "超域耐性",
+                "KR": "초자연 저항",
+                "MX": "Resistencia al éter",
+                "RU": "Эфирная СОПР",
+                "TC": "超域抗性",
+                "TH": "การต้าน​ทาน​เอ​เทอร์",
+                "VN": "Kháng Æther"
+              },
+              "showDiffFromDefault": true,
+              "showPercent": true,
+              "valueFormat": "{100-100*value:0}"
+            }
+          ]
+        },
+        "changed": {
+          "list[0].charFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 0
+          },
+          "list[0].equipFullAttrDisplayType": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      }
+    }
+  }
+}

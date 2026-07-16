@@ -1,0 +1,1354 @@
+{
+  "tableName": "NpcInfoTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 147,
+    "removed": 2,
+    "changed": 21
+  },
+  "entries": {
+    "added": {
+      "a1m11daimeng": {
+        "npcId": "a1m11daimeng",
+        "templateId": "npc_gentleman_unionminer_a_28",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "a1m11laiwen": {
+        "npcId": "a1m11laiwen",
+        "templateId": "npc_gentleman_unionminer_a_18",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "alleikhreos": {
+        "npcId": "alleikhreos",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "alleikhreos"
+      },
+      "a1m13aerji": {
+        "npcId": "a1m13aerji",
+        "templateId": "npc_kids_rfgm_a_16",
+        "voActor": "boy_10_07",
+        "wwiseId": "a1m13aerji"
+      },
+      "lanshan": {
+        "npcId": "lanshan",
+        "templateId": "npc_boy_hspolice_a_02",
+        "voActor": "man_20_06",
+        "wwiseId": "lanshan"
+      },
+      "e11m4hsteacher1": {
+        "npcId": "e11m4hsteacher1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "liliangliang": {
+        "npcId": "liliangliang",
+        "templateId": "npc_lady_hspolice_a_04",
+        "voActor": "lady_25_05",
+        "wwiseId": "liliangliang"
+      },
+      "f1m29d2hsteacher4": {
+        "npcId": "f1m29d2hsteacher4",
+        "templateId": "npc_tpl_gentleman_hsteacher_a_08",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m3hsswat3": {
+        "npcId": "e11m3hsswat3",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m3hsswat3"
+      },
+      "domainshop5": {
+        "npcId": "domainshop5",
+        "templateId": "npc_spl_domainshop_01",
+        "voActor": "domainshop",
+        "wwiseId": "domainshop5"
+      },
+      "e11m3hsswat4": {
+        "npcId": "e11m3hsswat4",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m3hsswat4"
+      },
+      "kaideng": {
+        "npcId": "kaideng",
+        "templateId": "npc_gentleman_staff_a_03",
+        "voActor": "",
+        "wwiseId": "kaideng"
+      },
+      "e11m5hsshiying9": {
+        "npcId": "e11m5hsshiying9",
+        "templateId": "npc_gentleman_hsteacher_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying9"
+      },
+      "e11m5hsshiying7": {
+        "npcId": "e11m5hsshiying7",
+        "templateId": "npc_lady_hsengineer_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying7"
+      },
+      "f1m29d1liushuyun": {
+        "npcId": "f1m29d1liushuyun",
+        "templateId": "npc_lady_wuduanxue_b_03",
+        "voActor": "girl_20_02",
+        "wwiseId": "f1m29d1liushuyun"
+      },
+      "f1m29d3rfg5": {
+        "npcId": "f1m29d3rfg5",
+        "templateId": "npc_obj_broomchck_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "xiaolizhiyanshiying": {
+        "npcId": "xiaolizhiyanshiying",
+        "templateId": "npc_kids_rfgf_souleffect_a_01",
+        "voActor": "",
+        "wwiseId": "xiaolizhiyanshiying"
+      },
+      "sm2l8m1hsteacher1": {
+        "npcId": "sm2l8m1hsteacher1",
+        "templateId": "npc_gentleman_hsteacher_a_12",
+        "voActor": "man_40_07",
+        "wwiseId": "sm2l8m1hsteacher1"
+      },
+      "e11m1klbear": {
+        "npcId": "e11m1klbear",
+        "templateId": "npc_eny_0120_klbear",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "sm2l8m1hsfarmer1": {
+        "npcId": "sm2l8m1hsfarmer1",
+        "templateId": "npc_boy_hsfarmer_a_02",
+        "voActor": "man_16_01",
+        "wwiseId": "asheng"
+      },
+      "e11m5hsswat1": {
+        "npcId": "e11m5hsswat1",
+        "templateId": "npc_strongm_hsswat_souleffect_a_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d2hsteacher1": {
+        "npcId": "f1m29d2hsteacher1",
+        "templateId": "npc_girl_hsteacher_a_05",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m2unionminer1": {
+        "npcId": "c35m2unionminer1",
+        "templateId": "npc_gentleman_unionminer_a_51",
+        "voActor": "",
+        "wwiseId": "c35m2unionminer1"
+      },
+      "db01m10_xijinsi": {
+        "npcId": "db01m10_xijinsi",
+        "templateId": "npc_gentleman_efpolice_a_10",
+        "voActor": "man_25_07",
+        "wwiseId": ""
+      },
+      "yisake": {
+        "npcId": "yisake",
+        "templateId": "npc_kids_rfgm_a_15",
+        "voActor": "boy_10_06",
+        "wwiseId": "yisake"
+      },
+      "e11m5hsshiying14": {
+        "npcId": "e11m5hsshiying14",
+        "templateId": "npc_boy_hspolice_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying14"
+      },
+      "nefys02": {
+        "npcId": "nefys02",
+        "templateId": "npc_spl_nefyspast_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "cinematicchess01": {
+        "npcId": "cinematicchess01",
+        "templateId": "npc_eny_0027_agscorp",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "chenpast": {
+        "npcId": "chenpast",
+        "templateId": "npc_spl_chenpast_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m1efstaff1": {
+        "npcId": "c35m1efstaff1",
+        "templateId": "npc_gentleman_staff_a_01",
+        "voActor": "",
+        "wwiseId": "c35m1efstaff1"
+      },
+      "c35m1efstaff2": {
+        "npcId": "c35m1efstaff2",
+        "templateId": "npc_lady_efengineer_a_02",
+        "voActor": "",
+        "wwiseId": "c35m1efstaff2"
+      },
+      "c35m1tcguard1": {
+        "npcId": "c35m1tcguard1",
+        "templateId": "npc_gentleman_bodyguard_a_11",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m1tcguard2": {
+        "npcId": "c35m1tcguard2",
+        "templateId": "npc_gentleman_bodyguard_a_12",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m1tcguard3": {
+        "npcId": "c35m1tcguard3",
+        "templateId": "npc_gentleman_bodyguard_a_07",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m1tcstaff1": {
+        "npcId": "c35m1tcstaff1",
+        "templateId": "npc_gentleman_staff_a_05",
+        "voActor": "man_30_18",
+        "wwiseId": "c35m1tcstaff1"
+      },
+      "c35m1tcstaff2": {
+        "npcId": "c35m1tcstaff2",
+        "templateId": "npc_lady_staff_a_03",
+        "voActor": "lady_25_07",
+        "wwiseId": "c35m1tcstaff2"
+      },
+      "e11m2hsteacher1": {
+        "npcId": "e11m2hsteacher1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m2hsteacher1"
+      },
+      "c35m1tcstaff3": {
+        "npcId": "c35m1tcstaff3",
+        "templateId": "npc_gentleman_staff_a_06",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m1unionscholar1": {
+        "npcId": "c35m1unionscholar1",
+        "templateId": "npc_lady_staff_a_02",
+        "voActor": "",
+        "wwiseId": "c35m1unionscholar1"
+      },
+      "e11m2hsteacher2": {
+        "npcId": "e11m2hsteacher2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m2hsteacher2"
+      },
+      "c35m1tcstaff4": {
+        "npcId": "c35m1tcstaff4",
+        "templateId": "npc_gentleman_staff_a_07",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m1unionscholar2": {
+        "npcId": "c35m1unionscholar2",
+        "templateId": "npc_gentleman_staff_a_02",
+        "voActor": "",
+        "wwiseId": "c35m1unionscholar2"
+      },
+      "c35m2unionminer2": {
+        "npcId": "c35m2unionminer2",
+        "templateId": "npc_gentleman_unionminer_a_52",
+        "voActor": "",
+        "wwiseId": "c35m2unionminer2"
+      },
+      "e11m5hsshiying12": {
+        "npcId": "e11m5hsshiying12",
+        "templateId": "npc_kids_hsfarmerm_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying12"
+      },
+      "c35m3d5efscholar1": {
+        "npcId": "c35m3d5efscholar1",
+        "templateId": "npc_gentleman_unionminer_a_54",
+        "voActor": "",
+        "wwiseId": "c35m3d5efscholar1"
+      },
+      "c35m3d5fuhegongtuan": {
+        "npcId": "c35m3d5fuhegongtuan",
+        "templateId": "npc_lady_unionminer_a_19",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m3d5tcguard1": {
+        "npcId": "c35m3d5tcguard1",
+        "templateId": "npc_gentleman_bodyguard_a_01",
+        "voActor": "man_30_13",
+        "wwiseId": "c35m3d5tcguard1"
+      },
+      "c35m3d5tcguard10": {
+        "npcId": "c35m3d5tcguard10",
+        "templateId": "npc_gentleman_bodyguard_a_10",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m3d5tcguard2": {
+        "npcId": "c35m3d5tcguard2",
+        "templateId": "npc_gentleman_bodyguard_a_02",
+        "voActor": "man_25_04",
+        "wwiseId": "c35m3d5tcguard2"
+      },
+      "c35m3d5tcguard3": {
+        "npcId": "c35m3d5tcguard3",
+        "templateId": "npc_gentleman_bodyguard_a_03",
+        "voActor": "man_25_09",
+        "wwiseId": "c35m3d5tcguard3"
+      },
+      "c35m3d5tcguard4": {
+        "npcId": "c35m3d5tcguard4",
+        "templateId": "npc_gentleman_bodyguard_a_04",
+        "voActor": "man_25_03",
+        "wwiseId": "c35m3d5tcguard4"
+      },
+      "c35m3d5tcguard5": {
+        "npcId": "c35m3d5tcguard5",
+        "templateId": "npc_gentleman_bodyguard_a_05",
+        "voActor": "",
+        "wwiseId": "c35m3d5tcguard5"
+      },
+      "c35m3d5tcguard6": {
+        "npcId": "c35m3d5tcguard6",
+        "templateId": "npc_gentleman_bodyguard_a_06",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m3d5tcguard7": {
+        "npcId": "c35m3d5tcguard7",
+        "templateId": "npc_gentleman_bodyguard_a_07",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m3d5tcguard8": {
+        "npcId": "c35m3d5tcguard8",
+        "templateId": "npc_gentleman_bodyguard_a_08",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m3d5tcguard9": {
+        "npcId": "c35m3d5tcguard9",
+        "templateId": "npc_gentleman_bodyguard_a_09",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "c35m3d5unionminer1": {
+        "npcId": "c35m3d5unionminer1",
+        "templateId": "npc_gentleman_unionminer_a_53",
+        "voActor": "",
+        "wwiseId": "c35m3d5unionminer1"
+      },
+      "c35m3d5unionminer2": {
+        "npcId": "c35m3d5unionminer2",
+        "templateId": "npc_lady_staff_a_01",
+        "voActor": "",
+        "wwiseId": "c35m3d5unionminer2"
+      },
+      "c35m3d5unionscholar1": {
+        "npcId": "c35m3d5unionscholar1",
+        "templateId": "npc_lady_unionscholar_a_24",
+        "voActor": "",
+        "wwiseId": "c35m3d5unionscholar1"
+      },
+      "c35m3tcstaff1": {
+        "npcId": "c35m3tcstaff1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "c35m3tcstaff1"
+      },
+      "c35m3tcstaff2": {
+        "npcId": "c35m3tcstaff2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "c35m3tcstaff2"
+      },
+      "c35m3tcstaff3": {
+        "npcId": "c35m3tcstaff3",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "c35m3tcstaff3"
+      },
+      "c35m4eny1": {
+        "npcId": "c35m4eny1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "c35m4eny1"
+      },
+      "c35m4eny2": {
+        "npcId": "c35m4eny2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "c35m4eny2"
+      },
+      "c35m4tcstaff1": {
+        "npcId": "c35m4tcstaff1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "c35m4tcstaff1"
+      },
+      "chenpingan": {
+        "npcId": "chenpingan",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "cinematicdad01": {
+        "npcId": "cinematicdad01",
+        "templateId": "npc_strong_hsengineerm_shiying_b_02",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "shenjiaoe2": {
+        "npcId": "shenjiaoe2",
+        "templateId": "npc_gentleman_shenjiaoe_a_02",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "cinematicmom01": {
+        "npcId": "cinematicmom01",
+        "templateId": "npc_lady_hsteacher_shiying_c_02",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "cinematicshenjiaoea": {
+        "npcId": "cinematicshenjiaoea",
+        "templateId": "npc_gentleman_shenjiaoe_a_05",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "cinematicshenjiaoeb": {
+        "npcId": "cinematicshenjiaoeb",
+        "templateId": "npc_gentleman_shenjiaoe_b_03",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e2m6-npc1_m": {
+        "npcId": "e2m6-npc1_m",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e2m6-npc1_m"
+      },
+      "jidongdetianshi": {
+        "npcId": "jidongdetianshi",
+        "templateId": "npc_lady_hsteacher_a_32",
+        "voActor": "lady_20_05",
+        "wwiseId": "jidongdetianshi"
+      },
+      "e11m1monsterhsshiying2": {
+        "npcId": "e11m1monsterhsshiying2",
+        "templateId": "npc_eny_0109_klcap",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d1weixidong": {
+        "npcId": "f1m29d1weixidong",
+        "templateId": "npc_gentleman_hsteacher_a_17",
+        "voActor": "man_30_17",
+        "wwiseId": "f1m29d1weixidong"
+      },
+      "sm2l8m1hsfarmer2": {
+        "npcId": "sm2l8m1hsfarmer2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m1hsswat1": {
+        "npcId": "e11m1hsswat1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m1hsswat1"
+      },
+      "e11m1hsswat2": {
+        "npcId": "e11m1hsswat2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m1hsswat2"
+      },
+      "e11m1klhound": {
+        "npcId": "e11m1klhound",
+        "templateId": "npc_eny_0117_klhound",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m1monsterhsshiying1": {
+        "npcId": "e11m1monsterhsshiying1",
+        "templateId": "npc_eny_0110_klbud1",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m1monsterhsshiying3": {
+        "npcId": "e11m1monsterhsshiying3",
+        "templateId": "npc_eny_0112_kltdbud",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m1monsterhsshiying4": {
+        "npcId": "e11m1monsterhsshiying4",
+        "templateId": "npc_eny_0111_kltdcap",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m2hsteacher3": {
+        "npcId": "e11m2hsteacher3",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m2hsteacher3"
+      },
+      "e11m3hsshiying1": {
+        "npcId": "e11m3hsshiying1",
+        "templateId": "npc_strongm_hsswat_souleffect_a_01",
+        "voActor": "",
+        "wwiseId": "e11m3hsshiying1"
+      },
+      "e11m3hsswat1": {
+        "npcId": "e11m3hsswat1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m3hsswat1"
+      },
+      "e11m3hsswat2": {
+        "npcId": "e11m3hsswat2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m3hsswat2"
+      },
+      "e11m3hsswat5": {
+        "npcId": "e11m3hsswat5",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m3hsswat5"
+      },
+      "e11m3hsswat6": {
+        "npcId": "e11m3hsswat6",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m3hsswat6"
+      },
+      "e11m4hsshiying1": {
+        "npcId": "e11m4hsshiying1",
+        "templateId": "npc_kidm_rfg_a_02",
+        "voActor": "",
+        "wwiseId": "e11m4hsshiying1"
+      },
+      "e11m4hsswat1": {
+        "npcId": "e11m4hsswat1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m4hsswat2": {
+        "npcId": "e11m4hsswat2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m5hsengineer1": {
+        "npcId": "e11m5hsengineer1",
+        "templateId": "npc_strong_hsengineerm_a_02",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m5hsshiying1": {
+        "npcId": "e11m5hsshiying1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying1"
+      },
+      "e11m5hsshiying10": {
+        "npcId": "e11m5hsshiying10",
+        "templateId": "npc_lady_hsteacher_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying10"
+      },
+      "e11m5hsshiying11": {
+        "npcId": "e11m5hsshiying11",
+        "templateId": "npc_gentleman_hsengineer_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying11"
+      },
+      "e11m5hsshiying13": {
+        "npcId": "e11m5hsshiying13",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying13"
+      },
+      "e11m5hsshiying8": {
+        "npcId": "e11m5hsshiying8",
+        "templateId": "npc_gentleman_hspolice_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying8"
+      },
+      "e11m5hsshiying15": {
+        "npcId": "e11m5hsshiying15",
+        "templateId": "npc_grand_hsfarmerm_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying15"
+      },
+      "e11m5hsshiying16": {
+        "npcId": "e11m5hsshiying16",
+        "templateId": "npc_strongm_hsswat_shiying_a_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying16"
+      },
+      "e11m5hsshiying17": {
+        "npcId": "e11m5hsshiying17",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying17"
+      },
+      "eny_klbud": {
+        "npcId": "eny_klbud",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "eny_klbud"
+      },
+      "e11m5hsshiying2": {
+        "npcId": "e11m5hsshiying2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying2"
+      },
+      "sishenshaonv": {
+        "npcId": "sishenshaonv",
+        "templateId": "npc_spl_deathgirl_01",
+        "voActor": "",
+        "wwiseId": "sishenshaonv"
+      },
+      "e11m5hsshiying3": {
+        "npcId": "e11m5hsshiying3",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying3"
+      },
+      "e11m5hsshiying4": {
+        "npcId": "e11m5hsshiying4",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying4"
+      },
+      "e11m5hsshiying5": {
+        "npcId": "e11m5hsshiying5",
+        "templateId": "npc_strong_hsengineerm_shiying_b_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying5"
+      },
+      "e11m5hsshiying6": {
+        "npcId": "e11m5hsshiying6",
+        "templateId": "npc_lady_hsteacher_shiying_c_01",
+        "voActor": "",
+        "wwiseId": "e11m5hsshiying6"
+      },
+      "e11m5hsteacher1": {
+        "npcId": "e11m5hsteacher1",
+        "templateId": "npc_lady_hsteacher_a_28",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m5lizyfaceless": {
+        "npcId": "e11m5lizyfaceless",
+        "templateId": "npc_kidf_rfg_shiying_c_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "e11m5randomfemalekidshiying": {
+        "npcId": "e11m5randomfemalekidshiying",
+        "templateId": "npc_kids_hsfarmerf_shiying_b_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "renzhendetianshi": {
+        "npcId": "renzhendetianshi",
+        "templateId": "npc_gentleman_hsteacher_a_20",
+        "voActor": "man_25_04",
+        "wwiseId": "renzhendetianshi"
+      },
+      "e11m5xiaolizhiyanshiti": {
+        "npcId": "e11m5xiaolizhiyanshiti",
+        "templateId": "npc_kids_rfgf_a_16",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "tape_stem": {
+        "npcId": "tape_stem",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "tape_stem"
+      },
+      "e2m6-npc2_f": {
+        "npcId": "e2m6-npc2_f",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e2m6-npc2_f"
+      },
+      "shenhai": {
+        "npcId": "shenhai",
+        "templateId": "npc_strong_hsfarmerm_a_01",
+        "voActor": "strongman_30_02",
+        "wwiseId": "shenhai"
+      },
+      "f1m29d2hsswat4": {
+        "npcId": "f1m29d2hsswat4",
+        "templateId": "npc_gentleman_shenjiaoe_b_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d2hsswat3": {
+        "npcId": "f1m29d2hsswat3",
+        "templateId": "npc_lady_wuduanxue_a_02",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d2hsswat1": {
+        "npcId": "f1m29d2hsswat1",
+        "templateId": "npc_gentleman_hsswat_a_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d2hsteacher3": {
+        "npcId": "f1m29d2hsteacher3",
+        "templateId": "npc_tpl_gentleman_hsteacher_a_07",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d3rfg1": {
+        "npcId": "f1m29d3rfg1",
+        "templateId": "npc_obj_broomchck_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d3rfg2": {
+        "npcId": "f1m29d3rfg2",
+        "templateId": "npc_obj_broomchck_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d3rfg3": {
+        "npcId": "f1m29d3rfg3",
+        "templateId": "npc_obj_broomchck_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "f1m29d3rfg4": {
+        "npcId": "f1m29d3rfg4",
+        "templateId": "npc_obj_broomchck_01",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "geleisi": {
+        "npcId": "geleisi",
+        "templateId": "npc_girl_unionminer_a_21",
+        "voActor": "lady_20_01",
+        "wwiseId": "geleisi"
+      },
+      "gm02m20eny1": {
+        "npcId": "gm02m20eny1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "gm02m21hsswat1": {
+        "npcId": "gm02m21hsswat1",
+        "templateId": "npc_gentleman_shenjiaoe_b_02",
+        "voActor": "man_20_04",
+        "wwiseId": "gm02m21hsswat1"
+      },
+      "gm02m21hsswat2": {
+        "npcId": "gm02m21hsswat2",
+        "templateId": "npc_lady_wuduanxue_b_02",
+        "voActor": "lady_25_03",
+        "wwiseId": "gm02m21hsswat2"
+      },
+      "hechi": {
+        "npcId": "hechi",
+        "templateId": "npc_gentleman_hsteacher_a_05",
+        "voActor": "man_20_05",
+        "wwiseId": "hechi"
+      },
+      "luoan": {
+        "npcId": "luoan",
+        "templateId": "npc_tpl_gentleman_hsteacher_a_06",
+        "voActor": "man_20_08",
+        "wwiseId": "luoan"
+      },
+      "hezhiqi": {
+        "npcId": "hezhiqi",
+        "templateId": "npc_lady_hsteacher_a_31",
+        "voActor": "lady_25_03",
+        "wwiseId": "hezhiqi"
+      },
+      "liino": {
+        "npcId": "liino",
+        "templateId": "npc_chr_0035_liino",
+        "voActor": "liino",
+        "wwiseId": "liino"
+      },
+      "si": {
+        "npcId": "si",
+        "templateId": "npc_chr_0036_jsspsi",
+        "voActor": "jsspsi",
+        "wwiseId": "jsspsi"
+      },
+      "lizykid": {
+        "npcId": "lizykid",
+        "templateId": "npc_kids_rfgf_a_16",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "m1m73eny1": {
+        "npcId": "m1m73eny1",
+        "templateId": "xiaopanshou",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "sm2l8m1hsteacher4": {
+        "npcId": "sm2l8m1hsteacher4",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "map02_lv007hsswat1": {
+        "npcId": "map02_lv007hsswat1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "map02_lv007hsswat2": {
+        "npcId": "map02_lv007hsswat2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "qingzhu": {
+        "npcId": "qingzhu",
+        "templateId": "npc_girl_hsteacher_a_08",
+        "voActor": "lady_30_05",
+        "wwiseId": "qingzhu"
+      },
+      "rong": {
+        "npcId": "rong",
+        "templateId": "npc_strongm_shenjiaoe_a_03",
+        "voActor": "man_30_16",
+        "wwiseId": "rong"
+      },
+      "shenchibai": {
+        "npcId": "shenchibai",
+        "templateId": "shenchibai",
+        "voActor": "",
+        "wwiseId": ""
+      },
+      "sm2l8m1hsshiying1": {
+        "npcId": "sm2l8m1hsshiying1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "sm2l8m1hsshiying1"
+      },
+      "sm2l8m1hsswat1": {
+        "npcId": "sm2l8m1hsswat1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "sm2l8m1hsswat1"
+      },
+      "sm2l8m1hsteacher2": {
+        "npcId": "sm2l8m1hsteacher2",
+        "templateId": "npc_tpl_lady_hsteacher_a_05",
+        "voActor": "lady_30_02",
+        "wwiseId": "sm2l8m1hsteacher2"
+      },
+      "sm2l8m1hsteacher3": {
+        "npcId": "sm2l8m1hsteacher3",
+        "templateId": "npc_grand_hsteacherm_a_05",
+        "voActor": "man_20_01",
+        "wwiseId": "sm2l8m1hsteacher3"
+      },
+      "sm2l8m1hsteacher5": {
+        "npcId": "sm2l8m1hsteacher5",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "sm2l8m1hsteacher5"
+      },
+      "yilai": {
+        "npcId": "yilai",
+        "templateId": "npc_gentleman_staff_a_04",
+        "voActor": "",
+        "wwiseId": "yilai"
+      },
+      "yinglongduiyuanduizhang": {
+        "npcId": "yinglongduiyuanduizhang",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "eny_kltdcap"
+      }
+    },
+    "removed": {
+      "e2m6-npc2": {
+        "npcId": "e2m6-npc2",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e2m6-npc2"
+      },
+      "e2m6-npc1": {
+        "npcId": "e2m6-npc1",
+        "templateId": "",
+        "voActor": "",
+        "wwiseId": "e2m6-npc1"
+      }
+    },
+    "changed": {
+      "e9Guard2": {
+        "oldValue": {
+          "npcId": "e9Guard2",
+          "templateId": "npc_gentleman_hspolice_a_07",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "e9Guard2",
+          "templateId": "npc_gentleman_hspolice_a_07",
+          "voActor": "",
+          "wwiseId": "e9Guard2"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "e9Guard2"
+          }
+        }
+      },
+      "unknown": {
+        "oldValue": {
+          "npcId": "unknown",
+          "templateId": "npc_gentleman_unionminer_a_1",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "unknown",
+          "templateId": "npc_gentleman_unionminer_a_01",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "changed": {
+          "templateId": {
+            "type": "value",
+            "oldValue": "npc_gentleman_unionminer_a_1",
+            "newValue": "npc_gentleman_unionminer_a_01"
+          }
+        }
+      },
+      "lameierde": {
+        "oldValue": {
+          "npcId": "lameierde",
+          "templateId": "npc_strong_unionminerm_a_13",
+          "voActor": "None",
+          "wwiseId": "lameierde"
+        },
+        "newValue": {
+          "npcId": "lameierde",
+          "templateId": "npc_strongm_unionminer_a_09",
+          "voActor": "None",
+          "wwiseId": "lameierde"
+        },
+        "changed": {
+          "templateId": {
+            "type": "value",
+            "oldValue": "npc_strong_unionminerm_a_13",
+            "newValue": "npc_strongm_unionminer_a_09"
+          }
+        }
+      },
+      "chorus": {
+        "oldValue": {
+          "npcId": "chorus",
+          "templateId": "npc_gentleman_unionminer_a_1",
+          "voActor": "",
+          "wwiseId": "chorus"
+        },
+        "newValue": {
+          "npcId": "chorus",
+          "templateId": "npc_gentleman_unionminer_a_01",
+          "voActor": "",
+          "wwiseId": "chorus"
+        },
+        "changed": {
+          "templateId": {
+            "type": "value",
+            "oldValue": "npc_gentleman_unionminer_a_1",
+            "newValue": "npc_gentleman_unionminer_a_01"
+          }
+        }
+      },
+      "c6m1Firebat": {
+        "oldValue": {
+          "npcId": "c6m1Firebat",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "c6m1Firebat",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": "c6m1Firebat"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "c6m1Firebat"
+          }
+        }
+      },
+      "sm2l2m3NPC1": {
+        "oldValue": {
+          "npcId": "sm2l2m3NPC1",
+          "templateId": "npc_boy_hsstudent_a_01",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm2l2m3NPC1",
+          "templateId": "npc_boy_hsstudent_a_01",
+          "voActor": "",
+          "wwiseId": "sm2l2m3NPC1"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm2l2m3NPC1"
+          }
+        }
+      },
+      "sm2l2m3NPC3": {
+        "oldValue": {
+          "npcId": "sm2l2m3NPC3",
+          "templateId": "npc_gentleman_hsfarmer_a_05",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm2l2m3NPC3",
+          "templateId": "npc_gentleman_hsfarmer_a_05",
+          "voActor": "",
+          "wwiseId": "sm2l2m3NPC3"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm2l2m3NPC3"
+          }
+        }
+      },
+      "sm2l1m1Hsteacher1": {
+        "oldValue": {
+          "npcId": "sm2l1m1Hsteacher1",
+          "templateId": "npc_lady_hsteacher_a_01",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm2l1m1Hsteacher1",
+          "templateId": "npc_lady_hsteacher_a_01",
+          "voActor": "",
+          "wwiseId": "sm2l1m1Hsteacher1"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm2l1m1Hsteacher1"
+          }
+        }
+      },
+      "sm2l2m3NPC2": {
+        "oldValue": {
+          "npcId": "sm2l2m3NPC2",
+          "templateId": "npc_lady_hsteacher_a_07",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm2l2m3NPC2",
+          "templateId": "npc_lady_hsteacher_a_07",
+          "voActor": "",
+          "wwiseId": "sm2l2m3NPC2"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm2l2m3NPC2"
+          }
+        }
+      },
+      "sm1l1m7ef01": {
+        "oldValue": {
+          "npcId": "sm1l1m7ef01",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm1l1m7ef01",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": "sm1l1m7ef01"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm1l1m7ef01"
+          }
+        }
+      },
+      "c6m1Unionminer1": {
+        "oldValue": {
+          "npcId": "c6m1Unionminer1",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "c6m1Unionminer1",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": "c6m1Unionminer1"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "c6m1Unionminer1"
+          }
+        }
+      },
+      "confilictsm2l4m2&sm2l2m2": {
+        "oldValue": {
+          "npcId": "confilictsm2l4m2&sm2l2m2",
+          "templateId": "confilictsm2l4m2sm2l2m2",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "confilictsm2l4m2&sm2l2m2",
+          "templateId": "npc_gentleman_unionminer_a_01",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "changed": {
+          "templateId": {
+            "type": "value",
+            "oldValue": "confilictsm2l4m2sm2l2m2",
+            "newValue": "npc_gentleman_unionminer_a_01"
+          }
+        }
+      },
+      "sm2l2m2Xunjian": {
+        "oldValue": {
+          "npcId": "sm2l2m2Xunjian",
+          "templateId": "npc_gentleman_hspolice_a_04",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm2l2m2Xunjian",
+          "templateId": "npc_gentleman_hspolice_a_04",
+          "voActor": "",
+          "wwiseId": "sm2l2m2Xunjian"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm2l2m2Xunjian"
+          }
+        }
+      },
+      "e2m6Unionminer3": {
+        "oldValue": {
+          "npcId": "e2m6Unionminer3",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "e2m6Unionminer3",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": "e2m6Unionminer3"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "e2m6Unionminer3"
+          }
+        }
+      },
+      "e2m6Unionminer4": {
+        "oldValue": {
+          "npcId": "e2m6Unionminer4",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "e2m6Unionminer4",
+          "templateId": "",
+          "voActor": "",
+          "wwiseId": "e2m6Unionminer4"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "e2m6Unionminer4"
+          }
+        }
+      },
+      "e9Doctor1": {
+        "oldValue": {
+          "npcId": "e9Doctor1",
+          "templateId": "npc_lady_hsteacher_a_06",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "e9Doctor1",
+          "templateId": "npc_lady_hsteacher_a_06",
+          "voActor": "",
+          "wwiseId": "e9Doctor1"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "e9Doctor1"
+          }
+        }
+      },
+      "e9Guard1": {
+        "oldValue": {
+          "npcId": "e9Guard1",
+          "templateId": "npc_lady_hspolice_a_01",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "e9Guard1",
+          "templateId": "npc_lady_hspolice_a_01",
+          "voActor": "",
+          "wwiseId": "e9Guard1"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "e9Guard1"
+          }
+        }
+      },
+      "narration": {
+        "oldValue": {
+          "npcId": "narration",
+          "templateId": "npc_gentleman_unionminer_a_1",
+          "voActor": "",
+          "wwiseId": "narration"
+        },
+        "newValue": {
+          "npcId": "narration",
+          "templateId": "npc_gentleman_unionminer_a_01",
+          "voActor": "",
+          "wwiseId": "narration"
+        },
+        "changed": {
+          "templateId": {
+            "type": "value",
+            "oldValue": "npc_gentleman_unionminer_a_1",
+            "newValue": "npc_gentleman_unionminer_a_01"
+          }
+        }
+      },
+      "shangjin": {
+        "oldValue": {
+          "npcId": "shangjin",
+          "templateId": "npc_gentleman_hsengineer_a_01",
+          "voActor": "man_20_02",
+          "wwiseId": "shangjin"
+        },
+        "newValue": {
+          "npcId": "shangjin",
+          "templateId": "npc_gentleman_hsengineer_a_01",
+          "voActor": "man_30_13",
+          "wwiseId": "shangjin"
+        },
+        "changed": {
+          "voActor": {
+            "type": "value",
+            "oldValue": "man_20_02",
+            "newValue": "man_30_13"
+          }
+        }
+      },
+      "sm2l2m3NPC4": {
+        "oldValue": {
+          "npcId": "sm2l2m3NPC4",
+          "templateId": "npc_strongm_hsengineer_a_01",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm2l2m3NPC4",
+          "templateId": "npc_strongm_hsengineer_a_01",
+          "voActor": "",
+          "wwiseId": "sm2l2m3NPC4"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm2l2m3NPC4"
+          }
+        }
+      },
+      "sm2l4m1Tianshi": {
+        "oldValue": {
+          "npcId": "sm2l4m1Tianshi",
+          "templateId": "npc_gentleman_hsteacher_05",
+          "voActor": "",
+          "wwiseId": ""
+        },
+        "newValue": {
+          "npcId": "sm2l4m1Tianshi",
+          "templateId": "npc_gentleman_hsteacher_05",
+          "voActor": "",
+          "wwiseId": "sm2l4m1Tianshi"
+        },
+        "changed": {
+          "wwiseId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "sm2l4m1Tianshi"
+          }
+        }
+      }
+    }
+  }
+}

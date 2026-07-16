@@ -1,0 +1,212 @@
+{
+  "tableName": "ValuableDepot",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {
+      "11": {
+        "gridLimit": 2000,
+        "icon": "",
+        "isHidden": true,
+        "name": {
+          "BR": "Ornamentos",
+          "CN": "装饰类道具",
+          "DE": "Verzierungen",
+          "EN": "Ornamentals",
+          "FR": "Décorations",
+          "ID": "Ornamen",
+          "IT": "Ornamentali",
+          "JP": "装飾アイテム",
+          "KR": "장식 아이템",
+          "MX": "Decorativos",
+          "RU": "Декоративные предметы",
+          "TC": "裝飾類道具",
+          "TH": "ของ​ตกแต่ง",
+          "VN": "Đồ Trang Trí"
+        },
+        "sortId": 100,
+        "storageItemType": [
+          111
+        ],
+        "type": 11
+      }
+    },
+    "removed": {},
+    "changed": {
+      "7": {
+        "oldValue": {
+          "gridLimit": 1000,
+          "icon": "valuable_depot_quest_item_icon",
+          "isHidden": true,
+          "name": {
+            "BR": "Ocultar Item",
+            "CN": "不显示物品",
+            "DE": "Gegenstand ausblenden",
+            "EN": "Hide Item",
+            "FR": "Masquer l'objet",
+            "ID": "Sembunyikan Item",
+            "IT": "Nascondi oggetto",
+            "JP": "アイテムを非表示",
+            "KR": "아이템 숨기기",
+            "MX": "Esconder objeto",
+            "RU": "Скрыть предмет",
+            "TC": "不顯示物品",
+            "TH": "ซ่อน​ไอ​เทม",
+            "VN": "Ẩn Vật Phẩm"
+          },
+          "sortId": 100,
+          "storageItemType": [
+            32,
+            37,
+            51,
+            56,
+            75,
+            77
+          ],
+          "type": 7
+        },
+        "newValue": {
+          "gridLimit": 1000,
+          "icon": "valuable_depot_quest_item_icon",
+          "isHidden": true,
+          "name": {
+            "BR": "Ocultar Item",
+            "CN": "不显示物品",
+            "DE": "Gegenstand ausblenden",
+            "EN": "Hide Item",
+            "FR": "Masquer l'objet",
+            "ID": "Sembunyikan Item",
+            "IT": "Nascondi oggetto",
+            "JP": "アイテムを非表示",
+            "KR": "아이템 숨기기",
+            "MX": "Esconder objeto",
+            "RU": "Скрыть предмет",
+            "TC": "不顯示物品",
+            "TH": "ซ่อน​ไอ​เทม",
+            "VN": "Ẩn Vật Phẩm"
+          },
+          "sortId": 100,
+          "storageItemType": [
+            32,
+            37,
+            51,
+            56,
+            75,
+            77,
+            59
+          ],
+          "type": 7
+        },
+        "changed": {
+          "storageItemType[6]": {
+            "type": "value",
+            "newValue": 59
+          }
+        }
+      },
+      "10": {
+        "oldValue": {
+          "gridLimit": 1000,
+          "icon": "valuable_depot_commercial_item_icon",
+          "isHidden": false,
+          "name": {
+            "BR": "Itens de Valor",
+            "CN": "珍贵物品",
+            "DE": "Wertgegenstände",
+            "EN": "Valuables",
+            "FR": "Objets de valeur",
+            "ID": "Barang Berharga",
+            "IT": "Risorse chiave",
+            "JP": "レアアイテム",
+            "KR": "희귀 아이템",
+            "MX": "Objetos de valor",
+            "RU": "Ценности",
+            "TC": "珍貴物品",
+            "TH": "สิ่งของ​มีค่า",
+            "VN": "Vật Phẩm Giá Trị"
+          },
+          "sortId": 6,
+          "storageItemType": [
+            14,
+            82,
+            22,
+            63,
+            42,
+            49,
+            43,
+            33,
+            55,
+            69,
+            73,
+            60,
+            78,
+            83,
+            89,
+            94,
+            85,
+            97,
+            98
+          ],
+          "type": 10
+        },
+        "newValue": {
+          "gridLimit": 1000,
+          "icon": "valuable_depot_commercial_item_icon",
+          "isHidden": false,
+          "name": {
+            "BR": "Itens de Valor",
+            "CN": "珍贵物品",
+            "DE": "Wertgegenstände",
+            "EN": "Valuables",
+            "FR": "Objets de valeur",
+            "ID": "Barang Berharga",
+            "IT": "Risorse chiave",
+            "JP": "レアアイテム",
+            "KR": "희귀 아이템",
+            "MX": "Objetos de valor",
+            "RU": "Ценности",
+            "TC": "珍貴物品",
+            "TH": "สิ่งของ​มีค่า",
+            "VN": "Vật Phẩm Giá Trị"
+          },
+          "sortId": 6,
+          "storageItemType": [
+            14,
+            82,
+            22,
+            63,
+            42,
+            49,
+            43,
+            33,
+            55,
+            69,
+            73,
+            60,
+            78,
+            83,
+            89,
+            94,
+            85,
+            97,
+            98,
+            103
+          ],
+          "type": 10
+        },
+        "changed": {
+          "storageItemType[19]": {
+            "type": "value",
+            "newValue": 103
+          }
+        }
+      }
+    }
+  }
+}

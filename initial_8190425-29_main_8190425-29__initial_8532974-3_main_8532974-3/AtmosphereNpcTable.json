@@ -1,0 +1,147 @@
+{
+  "tableName": "AtmosphereNpcTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "none": {
+        "oldValue": {
+          "itemList": [
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "rfg"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "riverbandits"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_aggelos"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_landbreaker"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_riverbandits"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_wildlife"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "salesman"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "DLG_tempobj"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "rfg"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "riverbandits"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_aggelos"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_landbreaker"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_riverbandits"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "eny_wildlife"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "liinofans"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "liinostaff"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "bodyguard"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "citizen"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "salesman"
+            },
+            {
+              "npcCampTag": "none",
+              "npcCareerTag": "DLG_tempobj"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[6].npcCareerTag": {
+            "type": "value",
+            "oldValue": "salesman",
+            "newValue": "liinofans"
+          },
+          "itemList[7].npcCareerTag": {
+            "type": "value",
+            "oldValue": "DLG_tempobj",
+            "newValue": "liinostaff"
+          },
+          "itemList[8]": {
+            "type": "value",
+            "newValue": {
+              "npcCampTag": "none",
+              "npcCareerTag": "bodyguard"
+            }
+          },
+          "itemList[9]": {
+            "type": "value",
+            "newValue": {
+              "npcCampTag": "none",
+              "npcCareerTag": "citizen"
+            }
+          },
+          "itemList[10]": {
+            "type": "value",
+            "newValue": {
+              "npcCampTag": "none",
+              "npcCareerTag": "salesman"
+            }
+          },
+          "itemList[11]": {
+            "type": "value",
+            "newValue": {
+              "npcCampTag": "none",
+              "npcCareerTag": "DLG_tempobj"
+            }
+          }
+        }
+      }
+    }
+  }
+}

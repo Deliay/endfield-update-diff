@@ -1,0 +1,110 @@
+{
+  "tableName": "DungeonFactoryTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 8,
+    "removed": 5,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "dung_blackbox_xiraniteoven_3": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": [
+          "dung_blackbox_vaporizer_1"
+        ]
+      },
+      "dung_blackbox_gaspump_1": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": [
+          "dung_blackbox_udpipe_1"
+        ]
+      },
+      "dung_blackbox_speedlimit_1": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": [
+          "dung_blackbox_transmuter_1"
+        ]
+      },
+      "dung_blackbox_transmuter_1": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": [
+          "dung_blackbox_shaper_2"
+        ]
+      },
+      "dung_blackbox_gasreactor_1": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": [
+          "dung_blackbox_vaporizer_1"
+        ]
+      },
+      "dung_blackbox_vaporizer_1": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": [
+          "dung_blackbox_transmuter_2"
+        ]
+      },
+      "dung_blackbox_shaper_2": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": []
+      },
+      "dung_blackbox_transmuter_2": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": [
+          "dung_blackbox_transmuter_1"
+        ]
+      }
+    },
+    "removed": {
+      "dung_demo_blackbox02": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": []
+      },
+      "dung_test_blackbox_01": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_1",
+        "preDependencies": []
+      },
+      "dung_blackbox_filling_5": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_2",
+        "preDependencies": []
+      },
+      "dung_blackbox_power_1": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_1",
+        "preDependencies": []
+      },
+      "dung_test_factory": {
+        "afterDirectlyGetRewardGuideGroupId": "",
+        "canDirectlyGetRewardForBlackbox": true,
+        "domainId": "domain_1",
+        "preDependencies": []
+      }
+    },
+    "changed": {}
+  }
+}

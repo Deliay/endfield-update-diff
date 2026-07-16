@@ -1,0 +1,666 @@
+{
+  "tableName": "FacSTTGroupTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "tech_group_jinlong": {
+        "oldValue": {
+          "adventurebookRewardId": "reward_blackbox_common_2",
+          "blackboxIds": [
+            "dung_blackbox_pipe_1",
+            "dung_blackbox_miner_3",
+            "dung_blackbox_mix_1",
+            "dung_blackbox_pipe_2",
+            "dung_blackbox_udpipe_1",
+            "dung_blackbox_squirter_1",
+            "dung_blackbox_filling_4",
+            "dung_blackbox_planter_2",
+            "dung_blackbox_dismantler_1",
+            "dung_blackbox_liquidcleaner_1",
+            "dung_blackbox_mix_2",
+            "dung_blackbox_liquidpurifier_1",
+            "dung_blackbox_mix_3",
+            "dung_blackbox_xiraniteoven_1",
+            "dung_blackbox_xiraniteoven_2"
+          ],
+          "categoryIds": [
+            "fac_team_jinlong_mining",
+            "fac_team_jinlong_logistics",
+            "fac_team_jinlong_processing",
+            "fac_team_jinlong_explore",
+            "fac_team_jinlong_xiranite"
+          ],
+          "categoryPadding": 0.3,
+          "conditions": [
+            {
+              "conditionId": "cond_tech_group_jinlong_1",
+              "conditionType": 511,
+              "desc": {
+                "BR": "Alcance a produção de energia de 100",
+                "CN": "发电功率到达100",
+                "DE": "Erreiche eine Ausgangsleistung von 100.",
+                "EN": "Reach power output of 100",
+                "FR": "Atteignez une production d'énergie de 100.",
+                "ID": "Capai output daya 100",
+                "IT": "Raggiungi una potenza erogata di 100",
+                "JP": "発電量が100以上で解放",
+                "KR": "발전량 100 도달",
+                "MX": "Alcanza una energía de salida de 100",
+                "RU": "Достигните выработки энергии в 100 ед.",
+                "TC": "發電功率到達100",
+                "TH": "มี​กำลังไฟฟ้า​ถึง​ 100",
+                "VN": "Đạt sản lượng điện là 100"
+              },
+              "groupId": "tech_group_jinlong",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "map02_lv001"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    100
+                  ],
+                  "valueIntList": [
+                    100
+                  ],
+                  "valueStringList": [
+                    "100"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ]
+            }
+          ],
+          "costPointType": "item_factech_jinlong_point",
+          "desc": {
+            "BR": "Um Plano da Fábrica do CAI que inclui instalações de fluidos, tubos e unidades de logística de tubos.",
+            "CN": "包含液体设备、管道与相关物流的工业发展规划。",
+            "DE": "Ein AIK-Fabrikplan, der Flüssigkeitsanlagen, Rohre und Rohrlogistikeinheiten umfasst.",
+            "EN": "An AIC Factory Plan that includes fluid facilities, pipes, and pipe logistics units.",
+            "FR": "Plan industriel du GIA indiquant les installations de gestion des fluides, les conduites et les unités logistiques de tuyauterie.",
+            "ID": "Bagan Pabrik AIC yang mencakup fasilitas cairan, pipa, dan unit logistik pipa.",
+            "IT": "Un progetto del SIA che include strutture, tubi e unità logistiche dei tubi.",
+            "JP": "液体対応の設備、パイプなど物流関連の工業発展計画",
+            "KR": "액체 설비, 파이프 및 관련 물류 작업의 공업 발전 계획입니다.",
+            "MX": "Un Plano de la Fábrica del CAI que incluye las instalaciones de fluido, las tuberías y las unidades de logística de tubería.",
+            "RU": "Производственный план АПК, который включает сооружения для работы с жидкостями, трубы и модули логистики труб.",
+            "TC": "包含液體設備、管道與相關物流的工業發展規劃。",
+            "TH": "แบบแปลน​โรงงาน​ AIC ที่​มี​ทั้ง​สิ่งปลูกสร้าง​ของเหลว​ ท่อ​ส่ง​ และ​หน่วย​โลจิสติกส์​ท่อ​ส่ง",
+            "VN": "Sơ Đồ Nhà Máy Khu Phức Hợp bao gồm công trình lưu chất, đường ống và bộ vận chuyển đường ống."
+          },
+          "domainId": "domain_2",
+          "groupId": "tech_group_jinlong",
+          "groupName": {
+            "BR": "PLANO DO CAI DE WULING",
+            "CN": "武陵工业计划",
+            "DE": "WULING-AIK-PLAN",
+            "EN": "WULING AIC PLAN",
+            "FR": "PLAN DU GIA DE WULING",
+            "ID": "BAGAN AIC WULING",
+            "IT": "PROGETTO DEL SIA DI WULING",
+            "JP": "武陵工業計画",
+            "KR": "무릉 공업 계획",
+            "MX": "PLAN DEL CAI DE WULING",
+            "RU": "ПЛАН АПК УЛИНА",
+            "TC": "武陵工業計劃",
+            "TH": "แบบแปลน​ AIC อู่​หลิง",
+            "VN": "SƠ ĐỒ KPH VÕ LĂNG"
+          },
+          "icon": "icon_industrial_plan_hongs_1",
+          "internalSpacingX": 0.4,
+          "internalSpacingY": 0.4,
+          "layerIds": [
+            "tech_group_jinlong_liquid",
+            "tech_group_jinlong_copper",
+            "tech_group_jinlong_acid"
+          ],
+          "layerPadding": 0.4,
+          "techIds": [
+            "tech_jinlong_1_pump_1",
+            "tech_jinlong_2_miner_4",
+            "tech_jinlong_3_pump_2",
+            "tech_jinlong_1_pipe_1",
+            "tech_jinlong_1_liquid_storager_1",
+            "tech_jinlong_1_conditioner_1",
+            "tech_jinlong_1_splitter_connector_converger_1",
+            "tech_jinlong_2_udpipe_1",
+            "tech_jinlong_2_squirter_1",
+            "tech_jinlong_3_udpipe_2",
+            "tech_jinlong_1_mix_1",
+            "tech_jinlong_1_dumper_1",
+            "tech_jinlong_1_filling_mode_1",
+            "tech_jinlong_1_planter_mode_1",
+            "tech_jinlong_1_dismantler_1",
+            "tech_jinlong_2_liquid_cleaner_1",
+            "tech_jinlong_2_mix_1_unlock_1",
+            "tech_jinlong_2_furnance_mode_1",
+            "tech_jinlong_3_liquid_purifier_1",
+            "tech_jinlong_3_mix_2",
+            "tech_jinlong_1_battle_cannon_2",
+            "tech_jinlong_1_battle_fog_1",
+            "tech_jinlong_2_battle_jet_1",
+            "tech_jinlong_2_battle_trap_1",
+            "tech_jinlong_3_battle_rocket_1",
+            "tech_jinlong_3_battle_debuff_1",
+            "tech_jinlong_3_battle_laser_2",
+            "tech_jinlong_1_xiranite_oven_1",
+            "tech_jinlong_1_power_pole_3_diffuser_2",
+            "tech_jinlong_1_xiranite_oven_amount_1",
+            "tech_jinlong_1_log_hongs_bus_1",
+            "tech_jinlong_2_xiranite_oven_amount_2",
+            "tech_jinlong_3_xiranite_enr_formula",
+            "tech_jinlong_3_xiranite_oven_amount_3"
+          ],
+          "unlockSpCond": false
+        },
+        "newValue": {
+          "adventurebookRewardId": "reward_blackbox_common_2",
+          "blackboxIds": [
+            "dung_blackbox_pipe_1",
+            "dung_blackbox_miner_3",
+            "dung_blackbox_gaspump_1",
+            "dung_blackbox_mix_1",
+            "dung_blackbox_pipe_2",
+            "dung_blackbox_udpipe_1",
+            "dung_blackbox_squirter_1",
+            "dung_blackbox_speedlimit_1",
+            "dung_blackbox_filling_4",
+            "dung_blackbox_planter_2",
+            "dung_blackbox_dismantler_1",
+            "dung_blackbox_liquidcleaner_1",
+            "dung_blackbox_mix_2",
+            "dung_blackbox_liquidpurifier_1",
+            "dung_blackbox_mix_3",
+            "dung_blackbox_transmuter_1",
+            "dung_blackbox_transmuter_2",
+            "dung_blackbox_vaporizer_1",
+            "dung_blackbox_xiraniteoven_3",
+            "dung_blackbox_gasreactor_1",
+            "dung_blackbox_shaper_2",
+            "dung_blackbox_xiraniteoven_1",
+            "dung_blackbox_xiraniteoven_2"
+          ],
+          "categoryIds": [
+            "fac_team_jinlong_mining",
+            "fac_team_jinlong_logistics",
+            "fac_team_jinlong_processing",
+            "fac_team_jinlong_explore",
+            "fac_team_jinlong_xiranite"
+          ],
+          "categoryPadding": 0.3,
+          "conditions": [
+            {
+              "conditionId": "cond_tech_group_jinlong_1",
+              "conditionType": 511,
+              "desc": {
+                "BR": "Alcance a produção de energia de 100",
+                "CN": "发电功率到达100",
+                "DE": "Erreiche eine Ausgangsleistung von 100.",
+                "EN": "Reach power output of 100",
+                "FR": "Atteignez une production d'énergie de 100.",
+                "ID": "Capai output daya 100",
+                "IT": "Raggiungi una potenza erogata di 100",
+                "JP": "発電量が100以上で解放",
+                "KR": "발전량 100 도달",
+                "MX": "Alcanza una energía de salida de 100",
+                "RU": "Достигните выработки энергии в 100 ед.",
+                "TC": "發電功率到達100",
+                "TH": "มี​กำลังไฟฟ้า​ถึง​ 100",
+                "VN": "Đạt sản lượng điện là 100"
+              },
+              "groupId": "tech_group_jinlong",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "map02_lv001"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    100
+                  ],
+                  "valueIntList": [
+                    100
+                  ],
+                  "valueStringList": [
+                    "100"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ]
+            }
+          ],
+          "costPointType": "item_factech_jinlong_point",
+          "desc": {
+            "BR": "Um Plano da Fábrica do CAI que inclui instalações de fluidos, tubos e unidades de logística de tubos.",
+            "CN": "包含液体设备、管道与相关物流的工业发展规划。",
+            "DE": "Ein AIK-Fabrikplan, der Flüssigkeitsanlagen, Rohre und Rohrlogistikeinheiten umfasst.",
+            "EN": "An AIC Factory Plan that includes fluid facilities, pipes, and pipe logistics units.",
+            "FR": "Plan industriel du GIA indiquant les installations de gestion des fluides, les conduites et les unités logistiques de tuyauterie.",
+            "ID": "Bagan Pabrik AIC yang mencakup fasilitas cairan, pipa, dan unit logistik pipa.",
+            "IT": "Un progetto del SIA che include strutture, tubi e unità logistiche dei tubi.",
+            "JP": "液体対応の設備、パイプなど物流関連の工業発展計画",
+            "KR": "액체 설비, 파이프 및 관련 물류 작업의 공업 발전 계획입니다.",
+            "MX": "Un Plano de la Fábrica del CAI que incluye las instalaciones de fluido, las tuberías y las unidades de logística de tubería.",
+            "RU": "Производственный план АПК, который включает сооружения для работы с жидкостями, трубы и модули логистики труб.",
+            "TC": "包含液體設備、管道與相關物流的工業發展規劃。",
+            "TH": "แบบแปลน​โรงงาน​ AIC ที่​มี​ทั้ง​สิ่งปลูกสร้าง​ของเหลว​ ท่อ​ส่ง​ และ​หน่วย​โลจิสติกส์​ท่อ​ส่ง",
+            "VN": "Sơ Đồ Nhà Máy Khu Phức Hợp bao gồm công trình lưu chất, đường ống và bộ vận chuyển đường ống."
+          },
+          "domainId": "domain_2",
+          "groupId": "tech_group_jinlong",
+          "groupName": {
+            "BR": "PLANO DO CAI DE WULING",
+            "CN": "武陵工业计划",
+            "DE": "WULING-AIK-PLAN",
+            "EN": "WULING AIC PLAN",
+            "FR": "PLAN DU GIA DE WULING",
+            "ID": "BAGAN AIC WULING",
+            "IT": "PROGETTO DEL SIA DI WULING",
+            "JP": "武陵工業計画",
+            "KR": "무릉 공업 계획",
+            "MX": "PLAN DEL CAI DE WULING",
+            "RU": "ПЛАН АПК УЛИНА",
+            "TC": "武陵工業計劃",
+            "TH": "แบบแปลน​ AIC อู่​หลิง",
+            "VN": "SƠ ĐỒ KPH VÕ LĂNG"
+          },
+          "icon": "icon_industrial_plan_hongs_1",
+          "internalSpacingX": 0.4,
+          "internalSpacingY": 0.4,
+          "layerIds": [
+            "tech_group_jinlong_liquid",
+            "tech_group_jinlong_copper",
+            "tech_group_jinlong_acid"
+          ],
+          "layerPadding": 0.4,
+          "techIds": [
+            "tech_jinlong_1_pump_1",
+            "tech_jinlong_2_miner_4",
+            "tech_jinlong_3_pump_2",
+            "tech_jinlong_4_gas_pump_1",
+            "tech_jinlong_1_pipe_1",
+            "tech_jinlong_1_liquid_storager_1",
+            "tech_jinlong_1_conditioner_1",
+            "tech_jinlong_1_splitter_connector_converger_1",
+            "tech_jinlong_2_udpipe_1",
+            "tech_jinlong_2_squirter_1",
+            "tech_jinlong_3_udpipe_2",
+            "tech_jinlong_4_gas_storager_1",
+            "tech_jinlong_4_conditioner_maxflow",
+            "tech_jinlong_1_mix_1",
+            "tech_jinlong_1_dumper_1",
+            "tech_jinlong_1_filling_mode_1",
+            "tech_jinlong_1_planter_mode_1",
+            "tech_jinlong_1_dismantler_1",
+            "tech_jinlong_2_liquid_cleaner_1",
+            "tech_jinlong_2_mix_1_unlock_1",
+            "tech_jinlong_2_furnance_mode_1",
+            "tech_jinlong_3_liquid_purifier_1",
+            "tech_jinlong_3_mix_2",
+            "tech_jinlong_4_transmuter_1",
+            "tech_jinlong_4_transmuter_2",
+            "tech_jinlong_4_vaporizer_1",
+            "tech_jinlong_4_gas_reactor_1",
+            "tech_jinlong_4_shaper_mode_2",
+            "tech_jinlong_4_filling_and_dismantler_mode_2",
+            "tech_jinlong_4_liquid_purifier_mode_1",
+            "tech_jinlong_1_battle_cannon_2",
+            "tech_jinlong_1_battle_fog_1",
+            "tech_jinlong_2_battle_jet_1",
+            "tech_jinlong_2_battle_trap_1",
+            "tech_jinlong_3_battle_rocket_1",
+            "tech_jinlong_3_battle_debuff_1",
+            "tech_jinlong_3_battle_laser_2",
+            "tech_jinlong_4_battle_turret_3",
+            "tech_jinlong_4_battle_lightning_2",
+            "tech_jinlong_1_xiranite_oven_1",
+            "tech_jinlong_1_power_pole_3_diffuser_2",
+            "tech_jinlong_1_xiranite_oven_amount_1",
+            "tech_jinlong_1_log_hongs_bus_1",
+            "tech_jinlong_2_xiranite_oven_amount_2",
+            "tech_jinlong_3_xiranite_enr_formula",
+            "tech_jinlong_3_xiranite_oven_amount_3",
+            "tech_jinlong_4_dumper_mode_1"
+          ],
+          "unlockSpCond": false
+        },
+        "changed": {
+          "blackboxIds[2]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_mix_1",
+            "newValue": "dung_blackbox_gaspump_1"
+          },
+          "blackboxIds[3]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_pipe_2",
+            "newValue": "dung_blackbox_mix_1"
+          },
+          "blackboxIds[4]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_udpipe_1",
+            "newValue": "dung_blackbox_pipe_2"
+          },
+          "blackboxIds[5]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_squirter_1",
+            "newValue": "dung_blackbox_udpipe_1"
+          },
+          "blackboxIds[6]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_filling_4",
+            "newValue": "dung_blackbox_squirter_1"
+          },
+          "blackboxIds[7]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_planter_2",
+            "newValue": "dung_blackbox_speedlimit_1"
+          },
+          "blackboxIds[8]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_dismantler_1",
+            "newValue": "dung_blackbox_filling_4"
+          },
+          "blackboxIds[9]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_liquidcleaner_1",
+            "newValue": "dung_blackbox_planter_2"
+          },
+          "blackboxIds[10]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_mix_2",
+            "newValue": "dung_blackbox_dismantler_1"
+          },
+          "blackboxIds[11]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_liquidpurifier_1",
+            "newValue": "dung_blackbox_liquidcleaner_1"
+          },
+          "blackboxIds[12]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_mix_3",
+            "newValue": "dung_blackbox_mix_2"
+          },
+          "blackboxIds[13]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_xiraniteoven_1",
+            "newValue": "dung_blackbox_liquidpurifier_1"
+          },
+          "blackboxIds[14]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_xiraniteoven_2",
+            "newValue": "dung_blackbox_mix_3"
+          },
+          "blackboxIds[15]": {
+            "type": "value",
+            "newValue": "dung_blackbox_transmuter_1"
+          },
+          "blackboxIds[16]": {
+            "type": "value",
+            "newValue": "dung_blackbox_transmuter_2"
+          },
+          "blackboxIds[17]": {
+            "type": "value",
+            "newValue": "dung_blackbox_vaporizer_1"
+          },
+          "blackboxIds[18]": {
+            "type": "value",
+            "newValue": "dung_blackbox_xiraniteoven_3"
+          },
+          "blackboxIds[19]": {
+            "type": "value",
+            "newValue": "dung_blackbox_gasreactor_1"
+          },
+          "blackboxIds[20]": {
+            "type": "value",
+            "newValue": "dung_blackbox_shaper_2"
+          },
+          "blackboxIds[21]": {
+            "type": "value",
+            "newValue": "dung_blackbox_xiraniteoven_1"
+          },
+          "blackboxIds[22]": {
+            "type": "value",
+            "newValue": "dung_blackbox_xiraniteoven_2"
+          },
+          "techIds[3]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_pipe_1",
+            "newValue": "tech_jinlong_4_gas_pump_1"
+          },
+          "techIds[4]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_liquid_storager_1",
+            "newValue": "tech_jinlong_1_pipe_1"
+          },
+          "techIds[5]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_conditioner_1",
+            "newValue": "tech_jinlong_1_liquid_storager_1"
+          },
+          "techIds[6]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_splitter_connector_converger_1",
+            "newValue": "tech_jinlong_1_conditioner_1"
+          },
+          "techIds[7]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_udpipe_1",
+            "newValue": "tech_jinlong_1_splitter_connector_converger_1"
+          },
+          "techIds[8]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_squirter_1",
+            "newValue": "tech_jinlong_2_udpipe_1"
+          },
+          "techIds[9]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_udpipe_2",
+            "newValue": "tech_jinlong_2_squirter_1"
+          },
+          "techIds[10]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_mix_1",
+            "newValue": "tech_jinlong_3_udpipe_2"
+          },
+          "techIds[11]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_dumper_1",
+            "newValue": "tech_jinlong_4_gas_storager_1"
+          },
+          "techIds[12]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_filling_mode_1",
+            "newValue": "tech_jinlong_4_conditioner_maxflow"
+          },
+          "techIds[13]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_planter_mode_1",
+            "newValue": "tech_jinlong_1_mix_1"
+          },
+          "techIds[14]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_dismantler_1",
+            "newValue": "tech_jinlong_1_dumper_1"
+          },
+          "techIds[15]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_liquid_cleaner_1",
+            "newValue": "tech_jinlong_1_filling_mode_1"
+          },
+          "techIds[16]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_mix_1_unlock_1",
+            "newValue": "tech_jinlong_1_planter_mode_1"
+          },
+          "techIds[17]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_furnance_mode_1",
+            "newValue": "tech_jinlong_1_dismantler_1"
+          },
+          "techIds[18]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_liquid_purifier_1",
+            "newValue": "tech_jinlong_2_liquid_cleaner_1"
+          },
+          "techIds[19]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_mix_2",
+            "newValue": "tech_jinlong_2_mix_1_unlock_1"
+          },
+          "techIds[20]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_battle_cannon_2",
+            "newValue": "tech_jinlong_2_furnance_mode_1"
+          },
+          "techIds[21]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_battle_fog_1",
+            "newValue": "tech_jinlong_3_liquid_purifier_1"
+          },
+          "techIds[22]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_battle_jet_1",
+            "newValue": "tech_jinlong_3_mix_2"
+          },
+          "techIds[23]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_battle_trap_1",
+            "newValue": "tech_jinlong_4_transmuter_1"
+          },
+          "techIds[24]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_rocket_1",
+            "newValue": "tech_jinlong_4_transmuter_2"
+          },
+          "techIds[25]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_debuff_1",
+            "newValue": "tech_jinlong_4_vaporizer_1"
+          },
+          "techIds[26]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_laser_2",
+            "newValue": "tech_jinlong_4_gas_reactor_1"
+          },
+          "techIds[27]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_xiranite_oven_1",
+            "newValue": "tech_jinlong_4_shaper_mode_2"
+          },
+          "techIds[28]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_power_pole_3_diffuser_2",
+            "newValue": "tech_jinlong_4_filling_and_dismantler_mode_2"
+          },
+          "techIds[29]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_xiranite_oven_amount_1",
+            "newValue": "tech_jinlong_4_liquid_purifier_mode_1"
+          },
+          "techIds[30]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_log_hongs_bus_1",
+            "newValue": "tech_jinlong_1_battle_cannon_2"
+          },
+          "techIds[31]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_xiranite_oven_amount_2",
+            "newValue": "tech_jinlong_1_battle_fog_1"
+          },
+          "techIds[32]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_xiranite_enr_formula",
+            "newValue": "tech_jinlong_2_battle_jet_1"
+          },
+          "techIds[33]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_xiranite_oven_amount_3",
+            "newValue": "tech_jinlong_2_battle_trap_1"
+          },
+          "techIds[34]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_battle_rocket_1"
+          },
+          "techIds[35]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_battle_debuff_1"
+          },
+          "techIds[36]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_battle_laser_2"
+          },
+          "techIds[37]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_battle_turret_3"
+          },
+          "techIds[38]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_battle_lightning_2"
+          },
+          "techIds[39]": {
+            "type": "value",
+            "newValue": "tech_jinlong_1_xiranite_oven_1"
+          },
+          "techIds[40]": {
+            "type": "value",
+            "newValue": "tech_jinlong_1_power_pole_3_diffuser_2"
+          },
+          "techIds[41]": {
+            "type": "value",
+            "newValue": "tech_jinlong_1_xiranite_oven_amount_1"
+          },
+          "techIds[42]": {
+            "type": "value",
+            "newValue": "tech_jinlong_1_log_hongs_bus_1"
+          },
+          "techIds[43]": {
+            "type": "value",
+            "newValue": "tech_jinlong_2_xiranite_oven_amount_2"
+          },
+          "techIds[44]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_xiranite_enr_formula"
+          },
+          "techIds[45]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_xiranite_oven_amount_3"
+          },
+          "techIds[46]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_dumper_mode_1"
+          }
+        }
+      }
+    }
+  }
+}

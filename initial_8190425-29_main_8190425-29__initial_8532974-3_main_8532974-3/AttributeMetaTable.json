@@ -1,0 +1,146 @@
+{
+  "tableName": "AttributeMetaTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 7,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {
+      "94": {
+        "attributeType": 94,
+        "bigIconName": "",
+        "defaultValue": 0,
+        "hasMaxValue": false,
+        "hasMinValue": false,
+        "iconName": "icon_attribute_physicalDamageTakenScalar",
+        "maxValue": 0,
+        "minValue": 0
+      },
+      "95": {
+        "attributeType": 95,
+        "bigIconName": "",
+        "defaultValue": 0,
+        "hasMaxValue": false,
+        "hasMinValue": false,
+        "iconName": "icon_attribute_natural_damage_taken_scalar",
+        "maxValue": 0,
+        "minValue": 0
+      },
+      "96": {
+        "attributeType": 96,
+        "bigIconName": "",
+        "defaultValue": 0,
+        "hasMaxValue": false,
+        "hasMinValue": false,
+        "iconName": "icon_attribute_crystDamageTakenScalar",
+        "maxValue": 0,
+        "minValue": 0
+      },
+      "97": {
+        "attributeType": 97,
+        "bigIconName": "",
+        "defaultValue": 0,
+        "hasMaxValue": false,
+        "hasMinValue": false,
+        "iconName": "icon_attribute_pulseDamageTakenScalar",
+        "maxValue": 0,
+        "minValue": 0
+      },
+      "98": {
+        "attributeType": 98,
+        "bigIconName": "",
+        "defaultValue": 0,
+        "hasMaxValue": false,
+        "hasMinValue": false,
+        "iconName": "icon_attribute_fireDamageTakenScalar",
+        "maxValue": 0,
+        "minValue": 0
+      },
+      "99": {
+        "attributeType": 99,
+        "bigIconName": "",
+        "defaultValue": 0,
+        "hasMaxValue": false,
+        "hasMinValue": false,
+        "iconName": "icon_ether_damage_taken_scalar",
+        "maxValue": 0,
+        "minValue": 0
+      },
+      "100": {
+        "attributeType": 100,
+        "bigIconName": "",
+        "defaultValue": 0,
+        "hasMaxValue": true,
+        "hasMinValue": false,
+        "iconName": "icon_combo_skill_cooldown",
+        "maxValue": 1,
+        "minValue": 0
+      }
+    },
+    "removed": {},
+    "changed": {
+      "63": {
+        "oldValue": {
+          "attributeType": 63,
+          "bigIconName": "",
+          "defaultValue": 1,
+          "hasMaxValue": false,
+          "hasMinValue": false,
+          "iconName": "",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "newValue": {
+          "attributeType": 63,
+          "bigIconName": "",
+          "defaultValue": 0,
+          "hasMaxValue": false,
+          "hasMinValue": false,
+          "iconName": "",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "changed": {
+          "defaultValue": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      },
+      "86": {
+        "oldValue": {
+          "attributeType": 86,
+          "bigIconName": "",
+          "defaultValue": 1,
+          "hasMaxValue": false,
+          "hasMinValue": false,
+          "iconName": "",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "newValue": {
+          "attributeType": 86,
+          "bigIconName": "",
+          "defaultValue": 0,
+          "hasMaxValue": false,
+          "hasMinValue": false,
+          "iconName": "",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "changed": {
+          "defaultValue": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      }
+    }
+  }
+}

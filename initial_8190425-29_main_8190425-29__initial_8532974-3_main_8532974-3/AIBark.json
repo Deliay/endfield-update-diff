@@ -1,0 +1,115 @@
+{
+  "tableName": "AIBark",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "bark_mission_start": {
+        "array": [
+          {
+            "barkId": "bark_mission_start",
+            "barkOdd": [
+              1
+            ],
+            "delay": 0,
+            "isEnabled": true,
+            "isShuffle": true,
+            "speakerType": 2,
+            "triggerKey": [
+              "explocomm_ms_begin"
+            ],
+            "triggerOdd": 1,
+            "type": 2,
+            "voType": [
+              0
+            ]
+          }
+        ]
+      },
+      "bark_mission_end": {
+        "array": [
+          {
+            "barkId": "bark_mission_end",
+            "barkOdd": [
+              1
+            ],
+            "delay": 0,
+            "isEnabled": true,
+            "isShuffle": true,
+            "speakerType": 2,
+            "triggerKey": [
+              "explocomm_ms_end"
+            ],
+            "triggerOdd": 1,
+            "type": 2,
+            "voType": [
+              0
+            ]
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "bark_battle_start": {
+        "oldValue": {
+          "array": [
+            {
+              "barkId": "bark_battle_start",
+              "barkOdd": [
+                8
+              ],
+              "delay": 0,
+              "isEnabled": true,
+              "isShuffle": true,
+              "speakerType": 0,
+              "triggerKey": [
+                "combat_intobattle"
+              ],
+              "triggerOdd": 1,
+              "type": 1,
+              "voType": [
+                1
+              ]
+            }
+          ]
+        },
+        "newValue": {
+          "array": [
+            {
+              "barkId": "bark_battle_start",
+              "barkOdd": [
+                8
+              ],
+              "delay": 0,
+              "isEnabled": true,
+              "isShuffle": true,
+              "speakerType": 2,
+              "triggerKey": [
+                "combat_intobattle"
+              ],
+              "triggerOdd": 1,
+              "type": 1,
+              "voType": [
+                1
+              ]
+            }
+          ]
+        },
+        "changed": {
+          "array[0].speakerType": {
+            "type": "value",
+            "oldValue": 0,
+            "newValue": 2
+          }
+        }
+      }
+    }
+  }
+}

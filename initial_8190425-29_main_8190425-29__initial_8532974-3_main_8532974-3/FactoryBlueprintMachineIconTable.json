@@ -1,0 +1,51 @@
+{
+  "tableName": "FactoryBlueprintMachineIconTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "transmuter_1": {
+        "canModify": true,
+        "id": "transmuter_1"
+      },
+      "transmuter_2": {
+        "canModify": true,
+        "id": "transmuter_2"
+      },
+      "gas_reactor_1": {
+        "canModify": true,
+        "id": "gas_reactor_1"
+      },
+      "vaporizer_1": {
+        "canModify": true,
+        "id": "vaporizer_1"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "liquid_purifier_1": {
+        "oldValue": {
+          "canModify": false,
+          "id": "liquid_purifier_1"
+        },
+        "newValue": {
+          "canModify": true,
+          "id": "liquid_purifier_1"
+        },
+        "changed": {
+          "canModify": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          }
+        }
+      }
+    }
+  }
+}

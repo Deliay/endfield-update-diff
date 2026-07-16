@@ -1,0 +1,1729 @@
+{
+  "tableName": "LevelDescTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 26,
+    "removed": 49,
+    "changed": 2
+  },
+  "entries": {
+    "added": {
+      "base01_dg004": {
+        "id": "base01_dg004",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Cabine de Simulação",
+          "CN": "模拟训练场",
+          "DE": "Simulationskabine",
+          "EN": "Simulation Cabin",
+          "FR": "Cabine de simulation",
+          "ID": "Kabin Simulasi",
+          "IT": "Cabina di simulazione",
+          "JP": "模擬訓練場",
+          "KR": "시뮬레이션 훈련장",
+          "MX": "Cabina de simulación",
+          "RU": "Отсек симуляции",
+          "TC": "模擬訓練場",
+          "TH": "ห้อง​ซิ​มู​เล​ชัน",
+          "VN": "Khoang Mô Phỏng"
+        }
+      },
+      "blackbox_vaporizer_1": {
+        "id": "blackbox_vaporizer_1",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Unidade de Dispersão de Gás",
+          "CN": "气体散布机",
+          "DE": "Gasverteilungseinheit",
+          "EN": "Gas Dispersing Unit",
+          "FR": "Unité de dispersion du gaz",
+          "ID": "Unit Penyebar Gas",
+          "IT": "unità di dispersione gas",
+          "JP": "ガス散布機",
+          "KR": "기체 분산기",
+          "MX": "Unidad de dispersión de gas",
+          "RU": "Модуль рассеивания газа",
+          "TC": "氣體散布機",
+          "TH": "ยู​นิต​กระจาย​ก๊าซ",
+          "VN": "Máy Khuếch Tán Khí"
+        }
+      },
+      "blackbox_shaper_2": {
+        "id": "blackbox_shaper_2",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Unidade de Moldagem: Modo de Gás",
+          "CN": "塑形机气体模式",
+          "DE": "Formungseinheit: Gasmodus",
+          "EN": "Moulding Unit: Gas Mode",
+          "FR": "Unité de moulage : mode Gaz",
+          "ID": "Unit Cetakan: Mode Gas",
+          "IT": "Unità di stampaggio: modalità gas",
+          "JP": "成形機ガスモード",
+          "KR": "성형기 - 기체 모드",
+          "MX": "Unidad de moldeado: Modo gas",
+          "RU": "Модуль формовки: режим газа",
+          "TC": "塑形機氣體模式",
+          "TH": "ยู​นิต​ขึ้น​รูป​: โหม​ด​ก๊าซ",
+          "VN": "Máy Đúc: Chế Độ Khí"
+        }
+      },
+      "blackbox_gaspump_1": {
+        "id": "blackbox_gaspump_1",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Extrator de Gás",
+          "CN": "气体收集泵",
+          "DE": "Gasextraktor",
+          "EN": "Gas Extractor",
+          "FR": "Extracteur de gaz",
+          "ID": "Ekstraktor Gas",
+          "IT": "Estrattore di gas",
+          "JP": "ガス収集ポンプ",
+          "KR": "기체 수집기",
+          "MX": "Extractor de gas",
+          "RU": "Газовый экстрактор",
+          "TC": "氣體收集泵",
+          "TH": "เครื่อง​สกัด​ก๊าซ",
+          "VN": "Máy Tách Khí"
+        }
+      },
+      "blackbox_gaspurifier_1": {
+        "id": "blackbox_gaspurifier_1",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Unidade de Purificação: Modo de Gás",
+          "CN": "提纯机气体模式",
+          "DE": "Kläreinheit: Gasmodus",
+          "EN": "Purification Unit: Gas Mode",
+          "FR": "Unité de purification : mode Gaz",
+          "ID": "Unit Pemurni: Mode Gas",
+          "IT": "Unità di purificazione: modalità gas",
+          "JP": "精製機ガスモード",
+          "KR": "정제기 - 기체 모드",
+          "MX": "Unidad de purificación: Modo gas",
+          "RU": "Модуль рафинирования: режим газа",
+          "TC": "提純機氣體模式",
+          "TH": "ยู​นิต​กลั่น​บริสุทธิ์​: โหม​ด​ก๊าซ",
+          "VN": "Máy Tinh Chế: Chế Độ Khí"
+        }
+      },
+      "blackbox_gasreactor_1": {
+        "id": "blackbox_gasreactor_1",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Globo Reator de Gás",
+          "CN": "气体反应炉",
+          "DE": "Gasreaktor-Kugel",
+          "EN": "Gas Reactor Globe",
+          "FR": "Globe de réaction au gaz",
+          "ID": "Bola Reaktor Gas",
+          "IT": "Globo di reazione gas",
+          "JP": "ガス反応装置",
+          "KR": "기체 반응로",
+          "MX": "Globo del reactor de gas",
+          "RU": "Газовый реактор",
+          "TC": "氣體反應爐",
+          "TH": "ลูกแก้ว​เตา​ปฏิกรณ์​ก๊าซ",
+          "VN": "Quả Cầu Phản Ứng Khí"
+        }
+      },
+      "map02_lv007": {
+        "id": "map02_lv007",
+        "phoneticName": "おうりゅうせき",
+        "showName": {
+          "BR": "Passagem de Yinglung",
+          "CN": "应龙关",
+          "DE": "Yinglung-Pass",
+          "EN": "Yinglung Pass",
+          "FR": "Col de Yinglung",
+          "ID": "Terusan Yinglung",
+          "IT": "Valico di Yinglung",
+          "JP": "応龍関",
+          "KR": "응룡 관문",
+          "MX": "Paso de Yinglung",
+          "RU": "Застава «Инлуна»",
+          "TC": "應龍關",
+          "TH": "ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Đèo Yinglung"
+        }
+      },
+      "dung02_bdg005": {
+        "id": "dung02_bdg005",
+        "phoneticName": "",
+        "showName": {
+          "BR": "RE-Crise: Alleikhreos",
+          "CN": "危境再现·阿莱克琉斯",
+          "DE": "RE-Krise: Alleikhreos",
+          "EN": "RE-Crisis: Alleikhreos",
+          "FR": "Crise X : Alleikhreos",
+          "ID": "Krisis Ulangan: Alleikhreos",
+          "IT": "RE-Crisi: Alleikhreos",
+          "JP": "危境再現 - アレイクレウス",
+          "KR": "위험한 재현 · 알레이크레오스",
+          "MX": "Re-crisis: Alleikhreos",
+          "RU": "Реванш: Аллейхреос",
+          "TC": "危境再現·阿萊克琉斯",
+          "TH": "วิกฤต​หวนคืน​: อัล​เล​เคร​ออส",
+          "VN": "Tái Chiến: Alleikhreos"
+        }
+      },
+      "blackbox_speedlimit_1": {
+        "id": "blackbox_speedlimit_1",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Ajuste na Taxa de Fluxo",
+          "CN": "物流限速",
+          "DE": "Flussrate-Anpassung",
+          "EN": "Flow Rate Adjustment",
+          "FR": "Réglage du débit",
+          "ID": "Penyesuaian Laju Aliran",
+          "IT": "Regolazione della portata",
+          "JP": "物流速度制限",
+          "KR": "물류 속도 제한",
+          "MX": "Ajuste de la tasa de flujo",
+          "RU": "Настройка скорости потока",
+          "TC": "物流限速",
+          "TH": "การ​ปรับ​อัตรา​การ​ไหล",
+          "VN": "Điều Chỉnh Tốc Độ Chảy"
+        }
+      },
+      "map02_lv008": {
+        "id": "map02_lv008",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Zona de Exclusão do Norte de Wuling",
+          "CN": "北部禁区",
+          "DE": "Sperrzone Nord-Wuling",
+          "EN": "North Wuling Exclusion Zone",
+          "FR": "Zone d'exclusion du nord de Wuling",
+          "ID": "Zona Eksklusi Wuling Utara",
+          "IT": "Area interdetta di Wuling Nord",
+          "JP": "北部封鎖区域",
+          "KR": "북쪽 금지 구역",
+          "MX": "Zona de exclusión norte de Wuling",
+          "RU": "Зона отчуждения северного Улина",
+          "TC": "北部禁區",
+          "TH": "เขต​พิเศษ​อู่​หลิง​เหนือ",
+          "VN": "Khu Cấm Bắc Võ Lăng"
+        }
+      },
+      "blackbox_transmuter_1": {
+        "id": "blackbox_transmuter_1",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Unidade de Transmutação Fluido-Gás",
+          "CN": "液气转化机",
+          "DE": "Flüssigkeit-Gas-Transmutationseinheit",
+          "EN": "Fluid-Gas Transmuting Unit",
+          "FR": "Unité de transmutation fluide-gaz",
+          "ID": "Unit Transmutasi Cair-Gas",
+          "IT": "Unità di trasmutazione liquido-gas",
+          "JP": "ガス液体転換機",
+          "KR": "액체 · 기체 전환기",
+          "MX": "Unidad de transmutación fluido-gas",
+          "RU": "Модуль жидкостно-газового видоизменения",
+          "TC": "液氣轉化機",
+          "TH": "ยู​นิต​แปรสภาพ​ของเหลว​-​ก๊าซ",
+          "VN": "Máy Chuyển Hóa Khí Lỏng"
+        }
+      },
+      "blackbox_transmuter_2": {
+        "id": "blackbox_transmuter_2",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Unidade de Transmutação Sólido-Gás",
+          "CN": "固气转化机",
+          "DE": "Feststoff-Gas-Transmutationseinheit",
+          "EN": "Solid-Gas Transmuting Unit",
+          "FR": "Unité de transmutation solide-gaz",
+          "ID": "Unit Transmutasi Padat-Gas",
+          "IT": "Unità di trasmutazione solido-gas",
+          "JP": "ガス固体転換機",
+          "KR": "고체 · 기체 전환기",
+          "MX": "Unidad de transmutación sólido-gas",
+          "RU": "Модуль твердотельно-газового видоизменения",
+          "TC": "固氣轉化機",
+          "TH": "ยู​นิต​แปรสภาพ​ของแข็ง​-​ก๊าซ",
+          "VN": "Máy Chuyển Hóa Khí Rắn"
+        }
+      },
+      "blackbox_xiraniteoven_3": {
+        "id": "blackbox_xiraniteoven_3",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Upgrade da Forja dos Céus",
+          "CN": "天有洪炉升级",
+          "DE": "Verbesserung: Schmiede des Himmels",
+          "EN": "Forge of the Sky Upgrade",
+          "FR": "Amélioration de la forge des cieux",
+          "ID": "Upgrade Tempaan Langit",
+          "IT": "Potenziamento della Forgia celeste",
+          "JP": "天有洪炉アップグレード",
+          "KR": "천화로 업그레이드",
+          "MX": "Mejora de Forja del cielo",
+          "RU": "Улучшение небесной кузницы",
+          "TC": "天有洪爐升級",
+          "TH": "อัป​เกรด​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า",
+          "VN": "Nâng Cấp Lò Rèn Bầu Trời"
+        }
+      },
+      "dung02_cdg012": {
+        "id": "dung02_cdg012",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Corredeiras do Fluxo de Xiranita",
+          "CN": "壤流引物",
+          "DE": "Xiranfluss-Stromschnellen",
+          "EN": "Xiranflow Rapids",
+          "FR": "Rapides de Xiranflux",
+          "ID": "Jeram Xiranflow",
+          "IT": "Rapide di Xiranflow",
+          "JP": "壌流始動",
+          "KR": "식양 유도체",
+          "MX": "Rápidos de Flujo Xiran",
+          "RU": "Ксиранадовые пороги",
+          "TC": "壤流引物",
+          "TH": "ธาร​น้ำ​เชี่ยว​ซี​เรน​โฟลว์",
+          "VN": "Ghềnh Xiết Xiranflow"
+        }
+      },
+      "dung02_cdg010": {
+        "id": "dung02_cdg010",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Fuga da Terra das Crianças",
+          "CN": "逃离小王国",
+          "DE": "Flucht aus dem Bällebad",
+          "EN": "Escape from Kiddyland",
+          "FR": "Évasion du Pays des enfants",
+          "ID": "Kabur dari Negeri Anak-anak",
+          "IT": "Fuga da Bimbilandia",
+          "JP": "王国脱走行",
+          "KR": "작은 왕국에서의 탈출",
+          "MX": "Escapa de Kiddyland",
+          "RU": "Побег из Детландии",
+          "TC": "逃離小王國",
+          "TH": "หลบหนี​จาก​คิด​ดี้​แลนด์",
+          "VN": "Thoát Khỏi Xứ Trẻ Thơ"
+        }
+      },
+      "dung02_bdg004": {
+        "id": "dung02_bdg004",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Fragmento de Crise: Sombra da Praga de Blitzcrash",
+          "CN": "危境碎片·蚀影噪雷",
+          "DE": "Krisenfragment: Blitzcrashs Verderbnisschatten",
+          "EN": "Crisis Fragment: Blitzcrash Blightshade",
+          "FR": "Fragment de crise : Gangrénombre de Fracas",
+          "ID": "Fragmen Krisis: Bayang-bayang Hawar Blitzcrash",
+          "IT": "Frammento di crisi: ombra contaminante di Bottoblitz",
+          "JP": "危境断片 - 噪雷の蝕影",
+          "KR": "위험한 조각 · 그림자에 물든 진뢰",
+          "MX": "Fragmento de crisis: Sombra contaminada de Blitzcrash",
+          "RU": "Фрагмент кризиса: моротень Молнии",
+          "TC": "危境碎片·蝕影噪雷",
+          "TH": "ชิ้นส่วน​วิกฤต​: เงา​เสื่อมโทรม​บ​ลิตซ์​แค​ร​ช",
+          "VN": "Mảnh Vỡ Nguy Cảnh: Bóng Nhiễm Khuẩn Chớp Nhoáng"
+        }
+      },
+      "dung02_bdg001": {
+        "id": "dung02_bdg001",
+        "phoneticName": "",
+        "showName": {
+          "BR": "RE-Crise: Ruan Yi",
+          "CN": "危境再现·阮一",
+          "DE": "RE-Krise: Ruan Yi",
+          "EN": "RE-Crisis: Ruan Yi",
+          "FR": "Crises X : Ruan Yi",
+          "ID": "Krisis Ulangan: Ruan Yi",
+          "IT": "RE-Crisi: Ruan Yi",
+          "JP": "危境再現 - ルアン・イー",
+          "KR": "위험한 재현 · 원일",
+          "MX": "Re-crisis: Ruan Yi",
+          "RU": "Реванш: Жуань И",
+          "TC": "危境再現·阮一",
+          "TH": "วิกฤต​หวนคืน​: เรือน​ยี่",
+          "VN": "Tái Chiến: Ruan Yi"
+        }
+      },
+      "dung02_bdg002": {
+        "id": "dung02_bdg002",
+        "phoneticName": "",
+        "showName": {
+          "BR": "RE-Crise: Nefarith",
+          "CN": "危境再现·聂菲斯",
+          "DE": "RE-Krise: Nefarith",
+          "EN": "RE-Crisis: Nefarith",
+          "FR": "Crises X : Nefarith",
+          "ID": "Krisis Ulangan: Nefarith",
+          "IT": "RE-Crisi: Nefarith",
+          "JP": "危境再現 - ネファリス",
+          "KR": "위험한 재현 · 네파리스",
+          "MX": "Re-crisis: Nefarith",
+          "RU": "Реванш: Неферит",
+          "TC": "危境再現·聶菲斯",
+          "TH": "วิกฤต​หวนคืน​: เน​ฟา​ริธ",
+          "VN": "Tái Chiến: Nefarith"
+        }
+      },
+      "dung02_bdg003": {
+        "id": "dung02_bdg003",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Fragmento de Crise: Uivante dos Penhascos",
+          "CN": "危境碎片·巨山犼兽",
+          "DE": "Krisenfragment: Klippenheuler",
+          "EN": "Crisis Fragment: Craghowler",
+          "FR": "Fragment de crise : Hurlepic",
+          "ID": "Fragmen Krisis: Craghowler",
+          "IT": "Frammento di crisi: ulularupi",
+          "JP": "危境断片 - 大山吼獣",
+          "KR": "위험한 조각 · 거대한 록하울러",
+          "MX": "Fragmento de crisis: aullador del peñasco",
+          "RU": "Фрагмент кризиса: скальный ревун",
+          "TC": "危境碎片·巨山犼獸",
+          "TH": "ชิ้นส่วน​วิกฤต​: เคร​ก​ฮา​ว​เลอร์",
+          "VN": "Mảnh Vỡ Nguy Cảnh: Craghowler"
+        }
+      },
+      "dung02_cdg007": {
+        "id": "dung02_cdg007",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Uma Excursão no Miasma",
+          "CN": "瘴中游",
+          "DE": "Ein Spaziergang im Nebel",
+          "EN": "A Jaunt in the Miasma",
+          "FR": "Escapade dans les miasmes",
+          "ID": "Piknik di Miasma",
+          "IT": "Una scampagnata nel miasma contaminante",
+          "JP": "霧中巡歴",
+          "KR": "안개 속 유영",
+          "MX": "Un paseo por el Miasma",
+          "RU": "Вылазка в миазмы",
+          "TC": "瘴中遊",
+          "TH": "ท่อง​แดน​หมอก​ควัน",
+          "VN": "Du Ngoạn Trong Sương Mù"
+        }
+      },
+      "dung02_cdg008": {
+        "id": "dung02_cdg008",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Uma Ponte Invisível Demais",
+          "CN": "隐桥争渡",
+          "DE": "Eine zu unsichtbare Brücke",
+          "EN": "A Bridge Too Invisible",
+          "FR": "Un pont trop invisible",
+          "ID": "Jembatan Samar",
+          "IT": "Un ponte fin troppo invisibile",
+          "JP": "隠橋渡し",
+          "KR": "비밀 통로 쟁탈전",
+          "MX": "Un puente demasiado invisible",
+          "RU": "Слишком невидимый мост",
+          "TC": "隱橋爭渡",
+          "TH": "สะพาน​ไร้​เงา",
+          "VN": "Cây Cầu Quá Đỗi Vô Hình"
+        }
+      },
+      "dung02_cdg009": {
+        "id": "dung02_cdg009",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Acionador de Pilares",
+          "CN": "驱桩以行",
+          "DE": "Säulenfahrer",
+          "EN": "Pillar Driver",
+          "FR": "Maîtrise du pilier",
+          "ID": "Peluncur Pilar",
+          "IT": "Pilota della Colonna",
+          "JP": "杭操作",
+          "KR": "기둥 옮기기",
+          "MX": "Impulsor de pilares",
+          "RU": "Управление столбом",
+          "TC": "驅樁以行",
+          "TH": "เครื่อง​ตอก​เสาหลัก",
+          "VN": "Người Điều Cột"
+        }
+      },
+      "dung02_cdg011": {
+        "id": "dung02_cdg011",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Órbita Esférica",
+          "CN": "球体轨道",
+          "DE": "Sphärenbahn",
+          "EN": "Spherical Orbit",
+          "FR": "Orbite sphérique",
+          "ID": "Orbit Bulat",
+          "IT": "Orbita sferica",
+          "JP": "球状軌道",
+          "KR": "구체 궤도",
+          "MX": "Órbita esférica",
+          "RU": "Сферическая орбита",
+          "TC": "球體軌道",
+          "TH": "วงโคจร​ทรงกลม",
+          "VN": "Quỹ Đạo Hình Cầu"
+        }
+      },
+      "dung02_dg005": {
+        "id": "dung02_dg005",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Fenda Gigante de Wuling",
+          "CN": "武陵甚大裂隙",
+          "DE": "Riesiger Wuling-Riss",
+          "EN": "Wuling Very Large Rift",
+          "FR": "Faille immense de Wuling",
+          "ID": "Celah Raksasa Wuling",
+          "IT": "Vasta spaccatura di Wuling",
+          "JP": "武陵の巨大な裂け目",
+          "KR": "무릉 대균열",
+          "MX": "Grieta gigantesca de Wuling",
+          "RU": "Огромный разлом под Улином",
+          "TC": "武陵甚大裂隙",
+          "TH": "รอยแยก​ขนาด​มหึมา​ใต้​อู่​หลิง",
+          "VN": "Khe Nứt Cực Lớn Võ Lăng"
+        }
+      },
+      "dung02_rdg008": {
+        "id": "dung02_rdg008",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Rua Vale Profundo",
+          "CN": "深谷旧街",
+          "DE": "Straße des tiefen Tals",
+          "EN": "Deep Dale Street",
+          "FR": "Rue du val profond",
+          "ID": "Jalan Lembah Dalam",
+          "IT": "Strada della profonda valletta",
+          "JP": "谷底の道",
+          "KR": "깊은 골짜기의 옛 거리",
+          "MX": "Calle del Valle profundo",
+          "RU": "Улица сокрытой долины",
+          "TC": "深谷舊街",
+          "TH": "ถนน​ดี​ป​เดล",
+          "VN": "Phố Cốc Sâu"
+        }
+      },
+      "indie_tower001": {
+        "id": "indie_tower001",
+        "phoneticName": "",
+        "showName": {
+          "BR": "Ecos da Guerra",
+          "CN": "战争回响",
+          "DE": "Echos des Krieges",
+          "EN": "Echoes of War",
+          "FR": "Échos guerriers",
+          "ID": "Gema Perang",
+          "IT": "Echi di guerra",
+          "JP": "戦争残響",
+          "KR": "전쟁의 메아리",
+          "MX": "Ecos de guerra",
+          "RU": "Эхо войны",
+          "TC": "戰爭迴響",
+          "TH": "เสียงสะท้อน​แห่ง​สงคราม",
+          "VN": "Tiếng Vọng Nơi Chiến Trận"
+        }
+      }
+    },
+    "removed": {
+      "AI_GYM": {
+        "id": "AI_GYM",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "CameraGym": {
+        "id": "CameraGym",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "MovementDev": {
+        "id": "MovementDev",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_playground_xiaochong": {
+        "id": "ld_playground_xiaochong",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_enemytest01": {
+        "id": "ld_enemytest01",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "factory_benchmark": {
+        "id": "factory_benchmark",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_arcade01": {
+        "id": "ld_arcade01",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "demo_blackbox": {
+        "id": "demo_blackbox",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "dung01_rdg004": {
+        "id": "dung01_rdg004",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "factory_pretest_map02": {
+        "id": "factory_pretest_map02",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "qa_performance_enemy": {
+        "id": "qa_performance_enemy",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "testbed_interactive": {
+        "id": "testbed_interactive",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "demo_blackbox02": {
+        "id": "demo_blackbox02",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "demo_difficultgame": {
+        "id": "demo_difficultgame",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "demo_infrastructure": {
+        "id": "demo_infrastructure",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "demo_rpgdungeon": {
+        "id": "demo_rpgdungeon",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "demo_spacestation": {
+        "id": "demo_spacestation",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "demo_worldbattle01": {
+        "id": "demo_worldbattle01",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_tasktest02": {
+        "id": "ld_tasktest02",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_lv006_new": {
+        "id": "test_lv006_new",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "indie_performance_npc": {
+        "id": "indie_performance_npc",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_cooperationdemo": {
+        "id": "test_cooperationdemo",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "dung01_rdg003": {
+        "id": "dung01_rdg003",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_bingganbox": {
+        "id": "test_bingganbox",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "testbed_npc": {
+        "id": "testbed_npc",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_prototype_yukikaze": {
+        "id": "ld_prototype_yukikaze",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_item_look_dev": {
+        "id": "test_item_look_dev",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "indie_battle_experience": {
+        "id": "indie_battle_experience",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "testbed_sound": {
+        "id": "testbed_sound",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "indie_battle_guiderecord": {
+        "id": "indie_battle_guiderecord",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_tasktest01": {
+        "id": "ld_tasktest01",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "indie_dg010": {
+        "id": "indie_dg010",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_3c_ce": {
+        "id": "test_3c_ce",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "server_test_level": {
+        "id": "server_test_level",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "testbed_gameplay": {
+        "id": "testbed_gameplay",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_dungeon_entrance": {
+        "id": "ld_dungeon_entrance",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_guidetest": {
+        "id": "ld_guidetest",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "ld_prototype_test_juju": {
+        "id": "ld_prototype_test_juju",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_plane": {
+        "id": "test_plane",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_001_juju": {
+        "id": "test_001_juju",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "map10000_test1": {
+        "id": "map10000_test1",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "map10000_test2": {
+        "id": "map10000_test2",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "qa_whitebox": {
+        "id": "qa_whitebox",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_ClarkGym": {
+        "id": "test_ClarkGym",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_enemygroup": {
+        "id": "test_enemygroup",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_gwq": {
+        "id": "test_gwq",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_prtotype_fyx": {
+        "id": "test_prtotype_fyx",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "test_wyr": {
+        "id": "test_wyr",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "testbed_level_script": {
+        "id": "testbed_level_script",
+        "phoneticName": "",
+        "showName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      }
+    },
+    "changed": {
+      "dung02_rdg002": {
+        "oldValue": {
+          "id": "dung02_rdg002",
+          "phoneticName": "",
+          "showName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "id": "dung02_rdg002",
+          "phoneticName": "",
+          "showName": {
+            "BR": "Conjunto Subterrâneo",
+            "CN": "地下阵列",
+            "DE": "Unterirdische Säulenreihe",
+            "EN": "Underground Array",
+            "FR": "Matrice souterraine",
+            "ID": "Susunan Bawah Tanah",
+            "IT": "Sistema sotterraneo",
+            "JP": "地下陣",
+            "KR": "지하 배열",
+            "MX": "Conjunto subterráneo",
+            "RU": "Подземная группа",
+            "TC": "地下陣列",
+            "TH": "แนว​เสา​ใต้ดิน",
+            "VN": "Trận Liệt Ngầm"
+          }
+        },
+        "changed": {
+          "showName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Conjunto Subterrâneo"
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "地下阵列"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Unterirdische Säulenreihe"
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Underground Array"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "Matrice souterraine"
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Susunan Bawah Tanah"
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Sistema sotterraneo"
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "地下陣"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "지하 배열"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "Conjunto subterráneo"
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Подземная группа"
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "地下陣列"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "แนว​เสา​ใต้ดิน"
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Trận Liệt Ngầm"
+              }
+            }
+          }
+        }
+      },
+      "dung02_rdg003": {
+        "oldValue": {
+          "id": "dung02_rdg003",
+          "phoneticName": "",
+          "showName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "id": "dung02_rdg003",
+          "phoneticName": "",
+          "showName": {
+            "BR": "Conjunto Subterrâneo",
+            "CN": "地下阵列",
+            "DE": "Unterirdische Säulenreihe",
+            "EN": "Underground Array",
+            "FR": "Matrice souterraine",
+            "ID": "Susunan Bawah Tanah",
+            "IT": "Sistema sotterraneo",
+            "JP": "地下陣",
+            "KR": "지하 배열",
+            "MX": "Conjunto subterráneo",
+            "RU": "Подземная группа",
+            "TC": "地下陣列",
+            "TH": "แนว​เสา​ใต้ดิน",
+            "VN": "Trận Liệt Ngầm"
+          }
+        },
+        "changed": {
+          "showName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Conjunto Subterrâneo"
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "地下阵列"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Unterirdische Säulenreihe"
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Underground Array"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "Matrice souterraine"
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Susunan Bawah Tanah"
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Sistema sotterraneo"
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "地下陣"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "지하 배열"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "Conjunto subterráneo"
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Подземная группа"
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "地下陣列"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "แนว​เสา​ใต้ดิน"
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Trận Liệt Ngầm"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

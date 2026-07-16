@@ -1,0 +1,118 @@
+{
+  "tableName": "PsActivityTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "a2": {
+        "oldValue": {
+          "activityTasks": [
+            {
+              "activityId": "a2",
+              "endMissionId": "e6m1",
+              "objectId": "a2t1",
+              "startMissionId": "e5m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e6m5",
+              "objectId": "a2t2",
+              "startMissionId": "e6m2"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "c27m5",
+              "objectId": "a2t3",
+              "startMissionId": "e7m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e8m5",
+              "objectId": "a2t4",
+              "startMissionId": "e8m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e9m4",
+              "objectId": "a2t5",
+              "startMissionId": "e9m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e10m4",
+              "objectId": "a2t6",
+              "startMissionId": "e10m1"
+            }
+          ],
+          "objectId": "a2"
+        },
+        "newValue": {
+          "activityTasks": [
+            {
+              "activityId": "a2",
+              "endMissionId": "e6m1",
+              "objectId": "a2t1",
+              "startMissionId": "e5m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e6m5",
+              "objectId": "a2t2",
+              "startMissionId": "e6m2"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "c27m5",
+              "objectId": "a2t3",
+              "startMissionId": "e7m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e8m5",
+              "objectId": "a2t4",
+              "startMissionId": "e8m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e9m4",
+              "objectId": "a2t5",
+              "startMissionId": "e9m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e10m4",
+              "objectId": "a2t6",
+              "startMissionId": "e10m1"
+            },
+            {
+              "activityId": "a2",
+              "endMissionId": "e11m8",
+              "objectId": "a2t7",
+              "startMissionId": "e11m1"
+            }
+          ],
+          "objectId": "a2"
+        },
+        "changed": {
+          "activityTasks[6]": {
+            "type": "value",
+            "newValue": {
+              "activityId": "a2",
+              "endMissionId": "e11m8",
+              "objectId": "a2t7",
+              "startMissionId": "e11m1"
+            }
+          }
+        }
+      }
+    }
+  }
+}

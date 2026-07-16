@@ -1,0 +1,1988 @@
+{
+  "tableName": "NoObtainWayCondTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 76,
+    "removed": 0,
+    "changed": 53
+  },
+  "entries": {
+    "added": {
+      "condition_domain_shop_levelup_m1l6_4": {
+        "checkArgs": "{\"channelId\": \"domainshop_channel_map01_3\",\"targetLevel\": 4}",
+        "checkFunction": "_CheckDomainShopTargetLevel",
+        "id": "condition_domain_shop_levelup_m1l6_4"
+      },
+      "condition_domain_shop_levelup_m2l1_2": {
+        "checkArgs": "{\"channelId\": \"domainshop_channel_map02_1\",\"targetLevel\": 2}",
+        "checkFunction": "_CheckDomainShopTargetLevel",
+        "id": "condition_domain_shop_levelup_m2l1_2"
+      },
+      "condition_item_obtain_noway_tech_shaper_mode_1": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_shaper_mode_2\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_shaper_mode_1"
+      },
+      "condition_item_obtain_noway_tech_splitter": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_2_splitter_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_splitter"
+      },
+      "condition_item_plant_crylplant_1_3": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_crylplant_1_3\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_crylplant_1_3"
+      },
+      "condition_gather_mushroom_1_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_unlock_map01_lv006\", \"condition_unlock_map02_lv002\"]}",
+        "checkFunction": "_CheckOrConditionList",
+        "id": "condition_gather_mushroom_1_2"
+      },
+      "condition_plant_item_plant_mushroom_2_3": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_mushroom_2_3\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_mushroom_2_3"
+      },
+      "condition_spaceship_plant_build": {
+        "checkArgs": "{\"roomType\" : 2}",
+        "checkFunction": "_CheckSpaceshipRoomTypeBuild",
+        "id": "condition_spaceship_plant_build"
+      },
+      "condition_item_obtain_noway_tech_vaporizer_1": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_vaporizer_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_vaporizer_1"
+      },
+      "condition_plant_item_plant_spcstone_2_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_spcstone_2_2\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_spcstone_2_2"
+      },
+      "condition_item_plant_mushroom_1_3": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_mushroom_1_3\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_mushroom_1_3"
+      },
+      "condition_plant_item_plant_crylplant_2_3": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_crylplant_2_3\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_crylplant_2_3"
+      },
+      "condition_item_obtain_noway_tech_liquid_purifier_mode_1": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_liquid_purifier_mode_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_liquid_purifier_mode_1"
+      },
+      "condition_unlock_map02_lv006": {
+        "checkArgs": "{\"levelId\" : \"map02_lv006\"}",
+        "checkFunction": "_CheckLevelUnlock",
+        "id": "condition_unlock_map02_lv006"
+      },
+      "condition_skip_chapter_1_false": {
+        "checkArgs": "{\"missionChapter\" : 2, \"skip\" : false}",
+        "checkFunction": "_CheckPlayerSkipChapter",
+        "id": "condition_skip_chapter_1_false"
+      },
+      "condition_item_obtain_noway_item_liquid_acid_display": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_liquid_acid\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_obtain_noway_item_liquid_acid_display"
+      },
+      "condition_item_plant_crylplant_2_1": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_crylplant_2_1\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_crylplant_2_1"
+      },
+      "condition_item_obtain_noway_item_gas_inert_display": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_gas_inert\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_obtain_noway_item_gas_inert_display"
+      },
+      "condition_unlock_map01_lv006": {
+        "checkArgs": "{\"levelId\" : \"map01_lv006\"}",
+        "checkFunction": "_CheckLevelUnlock",
+        "id": "condition_unlock_map01_lv006"
+      },
+      "condition_gather_crylplant_1_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_unlock_map01_lv006\", \"condition_unlock_map02_lv005\", \"condition_unlock_map02_lv006\", \"condition_unlock_map02_lv008\"]}",
+        "checkFunction": "_CheckOrConditionList",
+        "id": "condition_gather_crylplant_1_2"
+      },
+      "condition_gather_spcstone_1_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_unlock_map01_lv006\", \"condition_unlock_map02_lv004\"]}",
+        "checkFunction": "_CheckOrConditionList",
+        "id": "condition_gather_spcstone_1_2"
+      },
+      "condition_item_obtain_noway_item_copper_display": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_copper_ore\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_obtain_noway_item_copper_display"
+      },
+      "condition_item_obtain_noway_tech_storager": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_1_storager_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_storager"
+      },
+      "condition_item_obtain_noway_tech_transmuter_1": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_transmuter_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_transmuter_1"
+      },
+      "condition_item_obtain_noway_tech_winder_display": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_1_winder_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_winder_display"
+      },
+      "condition_item_obtain_noway_item_gas_inert": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_gas_inert\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_obtain_noway_item_gas_inert"
+      },
+      "condition_item_plant_spcstone_1_2": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_spcstone_1_2\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_spcstone_1_2"
+      },
+      "condition_plant_item_plant_crylplant_2_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_crylplant_2_2\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_crylplant_2_2"
+      },
+      "condition_unlock_map02_lv002": {
+        "checkArgs": "{\"levelId\" : \"map02_lv002\"}",
+        "checkFunction": "_CheckLevelUnlock",
+        "id": "condition_unlock_map02_lv002"
+      },
+      "condition_item_obtain_noway_tech_connector": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_2_connector_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_connector"
+      },
+      "condition_item_obtain_noway_tech_converger": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_3_converger_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_converger"
+      },
+      "condition_item_obtain_noway_tech_field": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_2_field_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_field"
+      },
+      "condition_item_obtain_noway_tech_filling_and_dismantler_mode_2": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_filling_and_dismantler_mode_2\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_filling_and_dismantler_mode_2"
+      },
+      "condition_item_obtain_noway_tech_furnance_mode_display": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_2_furnance_mode_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_furnance_mode_display"
+      },
+      "condition_item_obtain_noway_tech_miner_3": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_3_miner_3\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_miner_3"
+      },
+      "condition_item_obtain_noway_tech_gas_reactor_1": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_gas_reactor_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_gas_reactor_1"
+      },
+      "condition_item_obtain_noway_tech_gas_reactor_1_display": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_gas_reactor_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_gas_reactor_1_display"
+      },
+      "condition_plant_item_plant_spcstone_1_1": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_spcstone_1_1\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_spcstone_1_1"
+      },
+      "condition_item_obtain_noway_tech_liquid_purifier_display": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_3_liquid_purifier_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_liquid_purifier_display"
+      },
+      "condition_item_plant_spcstone_1_1": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_spcstone_1_1\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_spcstone_1_1"
+      },
+      "condition_plant_item_plant_crylplant_1_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_crylplant_1_2\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_crylplant_1_2"
+      },
+      "condition_item_plant_crylplant_1_2": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_crylplant_1_2\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_crylplant_1_2"
+      },
+      "condition_item_obtain_noway_tech_power": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_2_power_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_power"
+      },
+      "condition_item_obtain_noway_tech_transmuter_2": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_4_transmuter_2\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_transmuter_2"
+      },
+      "condition_item_obtain_noway_tech_travel_pole_2": {
+        "checkArgs": "{\"techId\" : \"tech_tundra_3_travel_2\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_travel_pole_2"
+      },
+      "condition_plant_item_plant_mushroom_1_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_mushroom_1_2\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_mushroom_1_2"
+      },
+      "condition_item_obtain_noway_tech_xiranite_display": {
+        "checkArgs": "{\"techId\" : \"tech_jinlong_1_xiranite_oven_1\"}",
+        "checkFunction": "_CheckFacTechTreeUnlocked",
+        "id": "condition_item_obtain_noway_tech_xiranite_display"
+      },
+      "condition_plant_item_plant_mushroom_2_1": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_mushroom_2_1\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_mushroom_2_1"
+      },
+      "condition_item_plant_spcstone_1_3": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_spcstone_1_3\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_spcstone_1_3"
+      },
+      "condition_item_plant_crylplant_1_1": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_crylplant_1_1\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_crylplant_1_1"
+      },
+      "condition_item_plant_crylplant_2_2": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_crylplant_2_2\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_crylplant_2_2"
+      },
+      "condition_item_plant_crylplant_2_3": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_crylplant_2_3\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_crylplant_2_3"
+      },
+      "condition_item_plant_mushroom_2_2": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_mushroom_2_2\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_mushroom_2_2"
+      },
+      "condition_plant_item_plant_mushroom_1_3": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_mushroom_1_3\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_mushroom_1_3"
+      },
+      "condition_item_plant_mushroom_1_1": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_mushroom_1_1\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_mushroom_1_1"
+      },
+      "condition_item_plant_mushroom_1_2": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_mushroom_1_2\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_mushroom_1_2"
+      },
+      "condition_item_plant_mushroom_2_1": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_mushroom_2_1\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_mushroom_2_1"
+      },
+      "condition_plant_item_plant_crylplant_2_1": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_crylplant_2_1\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_crylplant_2_1"
+      },
+      "condition_item_plant_mushroom_2_3": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_mushroom_2_3\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_mushroom_2_3"
+      },
+      "condition_item_plant_spcstone_2_1": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_spcstone_2_1\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_spcstone_2_1"
+      },
+      "condition_item_plant_spcstone_2_2": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_spcstone_2_2\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_spcstone_2_2"
+      },
+      "condition_item_plant_spcstone_2_3": {
+        "checkArgs": "{\"wikiId\" : \"wiki_item_plant_spcstone_2_3\"}",
+        "checkFunction": "_CheckWikiUnlocked",
+        "id": "condition_item_plant_spcstone_2_3"
+      },
+      "condition_mission_e5m3": {
+        "checkArgs": "{\"missionId\" : \"e5m3\", \"completed\" : false}",
+        "checkFunction": "_CheckMissionCompleted",
+        "id": "condition_mission_e5m3"
+      },
+      "condition_plant_item_plant_crylplant_1_1": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_crylplant_1_1\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_crylplant_1_1"
+      },
+      "condition_plant_item_plant_crylplant_1_3": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_crylplant_1_3\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_crylplant_1_3"
+      },
+      "condition_unlock_map02_lv001": {
+        "checkArgs": "{\"levelId\" : \"map02_lv001\"}",
+        "checkFunction": "_CheckLevelUnlock",
+        "id": "condition_unlock_map02_lv001"
+      },
+      "condition_plant_item_plant_mushroom_1_1": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_mushroom_1_1\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_mushroom_1_1"
+      },
+      "condition_plant_item_plant_mushroom_2_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_mushroom_2_2\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_mushroom_2_2"
+      },
+      "condition_plant_item_plant_spcstone_1_2": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_spcstone_1_2\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_spcstone_1_2"
+      },
+      "condition_plant_item_plant_spcstone_1_3": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_spcstone_1_3\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_spcstone_1_3"
+      },
+      "condition_plant_item_plant_spcstone_2_1": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_spcstone_2_1\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_spcstone_2_1"
+      },
+      "condition_plant_item_plant_spcstone_2_3": {
+        "checkArgs": "{\"conditionList\" : [\"condition_spaceship_plant_build\", \"condition_item_plant_spcstone_2_3\"]}",
+        "checkFunction": "_CheckAndConditionList",
+        "id": "condition_plant_item_plant_spcstone_2_3"
+      },
+      "condition_skip_chapter_1_true": {
+        "checkArgs": "{\"missionChapter\" : 2, \"skip\" : true}",
+        "checkFunction": "_CheckPlayerSkipChapter",
+        "id": "condition_skip_chapter_1_true"
+      },
+      "condition_unlock_map02_lv005": {
+        "checkArgs": "{\"levelId\" : \"map02_lv005\"}",
+        "checkFunction": "_CheckLevelUnlock",
+        "id": "condition_unlock_map02_lv005"
+      },
+      "condition_unlock_map02_lv007": {
+        "checkArgs": "{\"levelId\" : \"map02_lv007\"}",
+        "checkFunction": "_CheckLevelUnlock",
+        "id": "condition_unlock_map02_lv007"
+      },
+      "condition_unlock_map02_lv008": {
+        "checkArgs": "{\"levelId\" : \"map02_lv008\"}",
+        "checkFunction": "_CheckLevelUnlock",
+        "id": "condition_unlock_map02_lv008"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "condition_dung01_bossrush01_01": {
+        "oldValue": {
+          "checkId": "dung01_bossrush01_01",
+          "conditionType": 5961,
+          "id": "condition_dung01_bossrush01_01"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_bossrush01_01\"}",
+          "checkFunction": "_CheckPlayerDungeonUnlocked",
+          "id": "condition_dung01_bossrush01_01"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_bossrush01_01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5961
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_bossrush01_01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckPlayerDungeonUnlocked"
+          }
+        }
+      },
+      "condition_dung01_bossrush01_02": {
+        "oldValue": {
+          "checkId": "dung01_bossrush02_01",
+          "conditionType": 5961,
+          "id": "condition_dung01_bossrush01_02"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_bossrush02_01\"}",
+          "checkFunction": "_CheckPlayerDungeonUnlocked",
+          "id": "condition_dung01_bossrush01_02"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_bossrush02_01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5961
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_bossrush02_01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckPlayerDungeonUnlocked"
+          }
+        }
+      },
+      "condition_dung_group_ss01_touched": {
+        "oldValue": {
+          "checkId": "dung_group_ss01",
+          "conditionType": 5962,
+          "id": "condition_dung_group_ss01_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss01\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung_group_ss01_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung01_bossrush01_03": {
+        "oldValue": {
+          "checkId": "dung01_bossrush03_01",
+          "conditionType": 5961,
+          "id": "condition_dung01_bossrush01_03"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_bossrush03_01\"}",
+          "checkFunction": "_CheckPlayerDungeonUnlocked",
+          "id": "condition_dung01_bossrush01_03"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_bossrush03_01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5961
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_bossrush03_01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckPlayerDungeonUnlocked"
+          }
+        }
+      },
+      "condition_dung01_group_charbreak01_touched": {
+        "oldValue": {
+          "checkId": "dung01_group_charbreak01",
+          "conditionType": 5962,
+          "id": "condition_dung01_group_charbreak01_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_charbreak01\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung01_group_charbreak01_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_charbreak01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_charbreak01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung01_group_charbreak01_untouched": {
+        "oldValue": {
+          "checkId": "dung01_group_charbreak01",
+          "conditionType": 5963,
+          "id": "condition_dung01_group_charbreak01_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_charbreak01\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung01_group_charbreak01_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_charbreak01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_charbreak01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_asm": {
+        "oldValue": {
+          "checkId": "tech_tundra_2_asm_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_asm"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_tundra_2_asm_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_asm"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_tundra_2_asm_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_tundra_2_asm_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_winder": {
+        "oldValue": {
+          "checkId": "tech_tundra_1_winder_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_winder"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_tundra_1_winder_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_winder"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_tundra_1_winder_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_tundra_1_winder_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_dung01_group_exp01_touched": {
+        "oldValue": {
+          "checkId": "dung01_group_exp01",
+          "conditionType": 5962,
+          "id": "condition_dung01_group_exp01_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_exp01\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung01_group_exp01_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_exp01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_exp01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung_group_ss02_untouched": {
+        "oldValue": {
+          "checkId": "dung_group_ss02",
+          "conditionType": 5963,
+          "id": "condition_dung_group_ss02_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss02\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung_group_ss02_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss02"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss02\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_dung01_group_exp01_untouched": {
+        "oldValue": {
+          "checkId": "dung01_group_exp01",
+          "conditionType": 5963,
+          "id": "condition_dung01_group_exp01_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_exp01\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung01_group_exp01_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_exp01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_exp01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_grass_1": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_grass_1",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_grass_1"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_grass_1\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_grass_1"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_grass_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_grass_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_dung01_group_gold01_touched": {
+        "oldValue": {
+          "checkId": "dung01_group_gold01",
+          "conditionType": 5962,
+          "id": "condition_dung01_group_gold01_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_gold01\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung01_group_gold01_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_gold01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_gold01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung01_group_gold01_untouched": {
+        "oldValue": {
+          "checkId": "dung01_group_gold01",
+          "conditionType": 5963,
+          "id": "condition_dung01_group_gold01_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_gold01\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung01_group_gold01_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_gold01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_gold01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_mix": {
+        "oldValue": {
+          "checkId": "tech_jinlong_1_mix_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_mix"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_jinlong_1_mix_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_mix"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_mix_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_jinlong_1_mix_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_dung01_group_skill01_touched": {
+        "oldValue": {
+          "checkId": "dung01_group_skill01",
+          "conditionType": 5962,
+          "id": "condition_dung01_group_skill01_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_skill01\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung01_group_skill01_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_skill01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_skill01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung01_group_wpbreak01_untouched": {
+        "oldValue": {
+          "checkId": "dung01_group_wpbreak01",
+          "conditionType": 5963,
+          "id": "condition_dung01_group_wpbreak01_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_wpbreak01\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung01_group_wpbreak01_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_wpbreak01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_wpbreak01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_dung01_group_skill01_untouched": {
+        "oldValue": {
+          "checkId": "dung01_group_skill01",
+          "conditionType": 5963,
+          "id": "condition_dung01_group_skill01_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_skill01\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung01_group_skill01_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_skill01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_skill01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_plant": {
+        "oldValue": {
+          "checkId": "tech_tundra_2_plant_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_plant"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_tundra_2_plant_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_plant"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_tundra_2_plant_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_tundra_2_plant_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_dung01_group_wpbreak01_touched": {
+        "oldValue": {
+          "checkId": "dung01_group_wpbreak01",
+          "conditionType": 5962,
+          "id": "condition_dung01_group_wpbreak01_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_wpbreak01\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung01_group_wpbreak01_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_wpbreak01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_wpbreak01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung01_group_wpexp01_touched": {
+        "oldValue": {
+          "checkId": "dung01_group_wpexp01",
+          "conditionType": 5962,
+          "id": "condition_dung01_group_wpexp01_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_wpexp01\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung01_group_wpexp01_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_wpexp01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_wpexp01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung_group_ss04_touched": {
+        "oldValue": {
+          "checkId": "dung_group_ss04",
+          "conditionType": 5962,
+          "id": "condition_dung_group_ss04_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss04\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung_group_ss04_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss04"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss04\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung_group_ss05_touched": {
+        "oldValue": {
+          "checkId": "dung_group_ss05",
+          "conditionType": 5962,
+          "id": "condition_dung_group_ss05_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss05\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung_group_ss05_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss05"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss05\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_xiranite_enr": {
+        "oldValue": {
+          "checkId": "tech_jinlong_3_xiranite_enr_formula",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_xiranite_enr"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_jinlong_3_xiranite_enr_formula\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_xiranite_enr"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_xiranite_enr_formula"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_jinlong_3_xiranite_enr_formula\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_dung01_group_wpexp01_untouched": {
+        "oldValue": {
+          "checkId": "dung01_group_wpexp01",
+          "conditionType": 5963,
+          "id": "condition_dung01_group_wpexp01_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung01_group_wpexp01\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung01_group_wpexp01_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung01_group_wpexp01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung01_group_wpexp01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_dung02_bossrush01_01": {
+        "oldValue": {
+          "checkId": "dung02_bossrush01_01",
+          "conditionType": 5961,
+          "id": "condition_dung02_bossrush01_01"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung02_bossrush01_01\"}",
+          "checkFunction": "_CheckPlayerDungeonUnlocked",
+          "id": "condition_dung02_bossrush01_01"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung02_bossrush01_01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5961
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung02_bossrush01_01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckPlayerDungeonUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_case_bp_selfselect_skillsp_1": {
+        "oldValue": {
+          "checkId": "item_case_bp_selfselect_skillsp_1",
+          "conditionType": 5960,
+          "id": "condition_item_obtain_case_bp_selfselect_skillsp_1"
+        },
+        "newValue": {
+          "checkArgs": "{\"itemId\" : \"item_case_bp_selfselect_skillsp_1\"}",
+          "checkFunction": "_CheckPlayerOwnItem",
+          "id": "condition_item_obtain_case_bp_selfselect_skillsp_1"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "item_case_bp_selfselect_skillsp_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5960
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"itemId\" : \"item_case_bp_selfselect_skillsp_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckPlayerOwnItem"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_xiranite": {
+        "oldValue": {
+          "checkId": "tech_jinlong_1_xiranite_oven_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_xiranite"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_jinlong_1_xiranite_oven_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_xiranite"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_xiranite_oven_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_jinlong_1_xiranite_oven_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_dung02_bossrush02_01": {
+        "oldValue": {
+          "checkId": "dung02_bossrush02_01",
+          "conditionType": 5961,
+          "id": "condition_dung02_bossrush02_01"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung02_bossrush02_01\"}",
+          "checkFunction": "_CheckPlayerDungeonUnlocked",
+          "id": "condition_dung02_bossrush02_01"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung02_bossrush02_01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5961
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung02_bossrush02_01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckPlayerDungeonUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_plant_sp_3": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_sp_3",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_plant_sp_3"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_sp_3\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_plant_sp_3"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_sp_3"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_sp_3\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_dung_group_ss01_untouched": {
+        "oldValue": {
+          "checkId": "dung_group_ss01",
+          "conditionType": 5963,
+          "id": "condition_dung_group_ss01_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss01\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung_group_ss01_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss01"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss01\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_bbflower": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_bbflower_1",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_bbflower"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_bbflower_1\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_bbflower"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_bbflower_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_bbflower_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_dung_group_ss02_touched": {
+        "oldValue": {
+          "checkId": "dung_group_ss02",
+          "conditionType": 5962,
+          "id": "condition_dung_group_ss02_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss02\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung_group_ss02_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss02"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss02\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_dung_group_ss03_touched": {
+        "oldValue": {
+          "checkId": "dung_group_ss03",
+          "conditionType": 5962,
+          "id": "condition_dung_group_ss03_touched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss03\"}",
+          "checkFunction": "_CheckDungeonEntryTouched",
+          "id": "condition_dung_group_ss03_touched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss03"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5962
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss03\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_furnance_mode": {
+        "oldValue": {
+          "checkId": "tech_jinlong_2_furnance_mode_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_furnance_mode"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_jinlong_2_furnance_mode_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_furnance_mode"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_furnance_mode_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_jinlong_2_furnance_mode_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_dung_group_ss03_untouched": {
+        "oldValue": {
+          "checkId": "dung_group_ss03",
+          "conditionType": 5963,
+          "id": "condition_dung_group_ss03_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss03\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung_group_ss03_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss03"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss03\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_dung_group_ss04_untouched": {
+        "oldValue": {
+          "checkId": "dung_group_ss04",
+          "conditionType": 5963,
+          "id": "condition_dung_group_ss04_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss04\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung_group_ss04_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss04"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss04\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_filling_mode": {
+        "oldValue": {
+          "checkId": "tech_jinlong_1_filling_mode_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_filling_mode"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_jinlong_1_filling_mode_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_filling_mode"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_jinlong_1_filling_mode_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_jinlong_1_filling_mode_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_dung_group_ss05_untouched": {
+        "oldValue": {
+          "checkId": "dung_group_ss05",
+          "conditionType": 5963,
+          "id": "condition_dung_group_ss05_untouched"
+        },
+        "newValue": {
+          "checkArgs": "{\"dungeonId\" : \"dung_group_ss05\"}",
+          "checkFunction": "_CheckDungeonEntryNotTouched",
+          "id": "condition_dung_group_ss05_untouched"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "dung_group_ss05"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5963
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"dungeonId\" : \"dung_group_ss05\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckDungeonEntryNotTouched"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_copper": {
+        "oldValue": {
+          "checkId": "wiki_item_copper_ore",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_copper"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_copper_ore\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_copper"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_copper_ore"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_copper_ore\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_plant_sp_1": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_sp_1",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_plant_sp_1"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_sp_1\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_plant_sp_1"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_sp_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_sp_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_grass_2": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_grass_2",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_grass_2"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_grass_2\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_grass_2"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_grass_2"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_grass_2\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_iron": {
+        "oldValue": {
+          "checkId": "wiki_item_iron_ore",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_iron"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_iron_ore\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_iron"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_iron_ore"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_iron_ore\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_liquid_acid": {
+        "oldValue": {
+          "checkId": "wiki_item_liquid_acid",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_liquid_acid"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_liquid_acid\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_liquid_acid"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_liquid_acid"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_liquid_acid\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_moss_2": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_moss_2",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_moss_2"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_moss_2\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_moss_2"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_moss_2"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_moss_2\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_cmpt": {
+        "oldValue": {
+          "checkId": "tech_tundra_1_cmpt_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_cmpt"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_tundra_1_cmpt_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_cmpt"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_tundra_1_cmpt_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_tundra_1_cmpt_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_moss_3": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_moss_3",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_moss_3"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_moss_3\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_moss_3"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_moss_3"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_moss_3\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_plant_sp_2": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_sp_2",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_plant_sp_2"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_sp_2\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_plant_sp_2"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_sp_2"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_sp_2\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_item_plant_sp_4": {
+        "oldValue": {
+          "checkId": "wiki_item_plant_sp_4",
+          "conditionType": 5909,
+          "id": "condition_item_obtain_noway_item_plant_sp_4"
+        },
+        "newValue": {
+          "checkArgs": "{\"wikiId\" : \"wiki_item_plant_sp_4\"}",
+          "checkFunction": "_CheckWikiUnlocked",
+          "id": "condition_item_obtain_noway_item_plant_sp_4"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "wiki_item_plant_sp_4"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5909
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"wikiId\" : \"wiki_item_plant_sp_4\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckWikiUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_filling": {
+        "oldValue": {
+          "checkId": "tech_tundra_2_filling_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_filling"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_tundra_2_filling_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_filling"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_tundra_2_filling_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_tundra_2_filling_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_liquid_purifier": {
+        "oldValue": {
+          "checkId": "tech_jinlong_3_liquid_purifier_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_liquid_purifier"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_jinlong_3_liquid_purifier_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_liquid_purifier"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_liquid_purifier_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_jinlong_3_liquid_purifier_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_shaper": {
+        "oldValue": {
+          "checkId": "tech_tundra_1_shaper_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_shaper"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_tundra_1_shaper_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_shaper"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_tundra_1_shaper_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_tundra_1_shaper_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      },
+      "condition_item_obtain_noway_tech_thickener": {
+        "oldValue": {
+          "checkId": "tech_tundra_3_thickener_1",
+          "conditionType": 5913,
+          "id": "condition_item_obtain_noway_tech_thickener"
+        },
+        "newValue": {
+          "checkArgs": "{\"techId\" : \"tech_tundra_3_thickener_1\"}",
+          "checkFunction": "_CheckFacTechTreeUnlocked",
+          "id": "condition_item_obtain_noway_tech_thickener"
+        },
+        "changed": {
+          "checkId": {
+            "type": "value",
+            "oldValue": "tech_tundra_3_thickener_1"
+          },
+          "conditionType": {
+            "type": "value",
+            "oldValue": 5913
+          },
+          "checkArgs": {
+            "type": "value",
+            "newValue": "{\"techId\" : \"tech_tundra_3_thickener_1\"}"
+          },
+          "checkFunction": {
+            "type": "value",
+            "newValue": "_CheckFacTechTreeUnlocked"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1020 @@
+{
+  "tableName": "CheckInInfoTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 16
+  },
+  "entries": {
+    "added": {
+      "activity_checkin_halfann": {
+        "autoClaimActivityIds": [
+          "activity_checkin_lizhiyan"
+        ],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "commonPanelWidgetName": "ActivityHalfannCheckinSignInfo",
+        "forceShowTwoDigits": true,
+        "isImportantCheckin": true,
+        "jumpId": "jump_gacha_lt_1_4_1",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityHalfannCheckinSignPopUp"
+      },
+      "activity_checkin_lizhiyan": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "commonPanelWidgetName": "ActivityCharSignLizhiyanInfo",
+        "forceShowTwoDigits": true,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityCharSignLizhiyanPopUp"
+      },
+      "activity_v1d4_01_returnback_new_1": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+          "BR": "Faça login para ganhar recompensas valiosas, como [Ourubis] × 2.000.",
+          "CN": "参与签到累计可领取【嵌晶玉】×2000等丰富奖励。",
+          "DE": "Melde dich an, um tolle Belohnungen wie etwa [Oro-Beryll] ×2.000 zu erhalten.",
+          "EN": "Sign in to earn rich rewards such as [Oroberyl]×2000.",
+          "FR": "Connectez-vous pour obtenir de généreuses récompenses, telles que 2 000 [orobéryls].",
+          "ID": "Sign in untuk mendapatkan banyak imbalan seperti [Oroberyl] ×2.000.",
+          "IT": "Accedi per ottenere laute ricompense come 2.000 Oroberilli.",
+          "JP": "スタンプラリーに参加すると、累計で【赤晶玉】×2,000などの豪華報酬を獲得できます。",
+          "KR": "출석 체크에 참여하면 [오로베릴]×2,000 등 다양한 보상을 획득할 수 있습니다.",
+          "MX": "Inicia sesión para obtener abundantes recompensas, como [Oroberilio]×2000.",
+          "RU": "Заходите в игру, чтобы получить щедрые награды, включая ороберил х2000.",
+          "TC": "參與簽到累計可領取【嵌晶玉】×2000等豐富獎勵。",
+          "TH": "ลงชื่อ​เข้าสู่ระบบ​เพื่อ​รับรางวัล​มากมาย​ เช่น​ [โอ​โร​เบ​ริล​]×2,000",
+          "VN": "Điểm danh để nhận vô vàn phần thưởng như [Oroberyl]×2.000."
+        },
+        "commonPanelWidgetName": "ReflowFormalReconnectSigninPanel",
+        "forceShowTwoDigits": false,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": ""
+      },
+      "activity_v1d4_01_returnback_new_2": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+          "BR": "Faça login para ganhar recompensas valiosas, como [Ourubis] × 3.500.",
+          "CN": "参与签到累计可领取【嵌晶玉】×3500等丰富奖励。",
+          "DE": "Melde dich an, um tolle Belohnungen wie etwa [Oro-Beryll] ×3.500 zu erhalten.",
+          "EN": "Sign in to earn rich rewards such as [Oroberyl]×3500.",
+          "FR": "Connectez-vous pour obtenir de généreuses récompenses, telles que 3 500 [orobéryls].",
+          "ID": "Sign in untuk mendapatkan banyak imbalan seperti [Oroberyl] ×3.500.",
+          "IT": "Accedi per ottenere laute ricompense come 3.500 Oroberilli.",
+          "JP": "スタンプラリーに参加すると、累計で【赤晶玉】×3,500などの豪華報酬を獲得できます。",
+          "KR": "출석 체크에 참여하면 [오로베릴]×3,500 등 다양한 보상을 획득할 수 있습니다.",
+          "MX": "Inicia sesión para obtener abundantes recompensas, como [Oroberilio]×3500.",
+          "RU": "Заходите в игру, чтобы получить щедрые награды, включая ороберил х3500.",
+          "TC": "參與簽到累計可領取【嵌晶玉】×3500等豐富獎勵。",
+          "TH": "ลงชื่อ​เข้าสู่ระบบ​เพื่อ​รับรางวัล​มากมาย​ เช่น​ [โอ​โร​เบ​ริล​]×3,500",
+          "VN": "Điểm danh để nhận vô vàn phần thưởng như [Oroberyl]×3.500."
+        },
+        "commonPanelWidgetName": "ReflowFormalReconnectSigninPanel",
+        "forceShowTwoDigits": false,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": ""
+      }
+    },
+    "removed": {},
+    "changed": {
+      "activity_checkin_1": {
+        "oldValue": {
+          "checkInRewardChangeTime": 10,
+          "commonPanelWidgetName": "",
+          "forceShowTwoDigits": false,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": ""
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 10,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "",
+          "forceShowTwoDigits": false,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": ""
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_pristine_access_v1d2": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityFreeMonthlyPassPanel",
+          "forceShowTwoDigits": false,
+          "maxRewardCnt": 30,
+          "popupPanelWidgetName": "ActivityFreeMonthlyPassPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityFreeMonthlyPassPanel",
+          "forceShowTwoDigits": false,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 30,
+          "popupPanelWidgetName": "ActivityFreeMonthlyPassPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_agline": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignAglinaInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignAglinaPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignAglinaInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignAglinaPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_brilliance": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignBrillianceInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignBrilliancePopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignBrillianceInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignBrilliancePopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_camille": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignCamilleInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignCamillePopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignCamilleInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignCamillePopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_v1d0_end": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityV1d0d1CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d0d1CheckinSignPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityV1d0d1CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d0d1CheckinSignPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_laevat": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignLaevatInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignLaevatPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignLaevatInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignLaevatPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_mifu": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignMifuInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignMifuPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignMifuInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignMifuPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_wulfa": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignRossinaInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignRossinaPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignRossinaInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignRossinaPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_yvonne": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignYvonneInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignYvonnePopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignYvonneInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignYvonnePopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_tangtang": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignTangtangInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignTangtangPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignTangtangInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignTangtangPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_universe": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityUniverseCheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityUniverseCheckinSignPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityUniverseCheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityUniverseCheckinSignPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_v1d2_end": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityV1d2CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d2CheckinSignPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityV1d2CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d2CheckinSignPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_v1d1_end": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityV1d1CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d1CheckinSignPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityV1d1CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d1CheckinSignPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_zhuangfangy": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityCharSignZhuangfyInfo",
+          "forceShowTwoDigits": true,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignZhuangfyPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityCharSignZhuangfyInfo",
+          "forceShowTwoDigits": true,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityCharSignZhuangfyPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_checkin_v1d3_end": {
+        "oldValue": {
+          "checkInRewardChangeTime": 0,
+          "commonPanelWidgetName": "ActivityV1d3CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d3CheckinSignPopUp"
+        },
+        "newValue": {
+          "autoClaimActivityIds": [],
+          "checkInRewardChangeTime": 0,
+          "checkinDes": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "commonPanelWidgetName": "ActivityV1d3CheckinSignInfo",
+          "forceShowTwoDigits": false,
+          "isImportantCheckin": false,
+          "jumpId": "",
+          "maxRewardCnt": 0,
+          "popupPanelWidgetName": "ActivityV1d3CheckinSignPopUp"
+        },
+        "changed": {
+          "autoClaimActivityIds": {
+            "type": "value",
+            "newValue": []
+          },
+          "checkinDes": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "isImportantCheckin": {
+            "type": "value",
+            "newValue": false
+          },
+          "jumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tableName": "MachineId2MachineTechIdTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 29,
+    "removed": 3,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "FacBridge": {
+        "techId": "tech_tundra_2_connector_1"
+      },
+      "FacBusFree": {
+        "techId": "tech_jinlong_1_log_hongs_bus_1"
+      },
+      "FacConveyor": {
+        "techId": "tech_tundra_2_belt_1"
+      },
+      "FacConveyorValveSpeedLimit": {
+        "techId": "tech_jinlong_4_conditioner_maxflow"
+      },
+      "FacPipeConverger": {
+        "techId": "tech_jinlong_1_splitter_connector_converger_1"
+      },
+      "FacMerger": {
+        "techId": "tech_tundra_3_converger_1"
+      },
+      "FacPipe": {
+        "techId": "tech_jinlong_1_pipe_1"
+      },
+      "FacPipeConnector": {
+        "techId": "tech_jinlong_1_splitter_connector_converger_1"
+      },
+      "FacPipeSplitter": {
+        "techId": "tech_jinlong_1_splitter_connector_converger_1"
+      },
+      "FacPipeValveSpeedLimit": {
+        "techId": "tech_jinlong_4_conditioner_maxflow"
+      },
+      "FacSplitter": {
+        "techId": "tech_tundra_2_splitter_1"
+      },
+      "FacUndergroundPipe": {
+        "techId": "tech_jinlong_2_udpipe_1"
+      },
+      "FacValve": {
+        "techId": "tech_tundra_2_conditioner_1"
+      },
+      "dismantler_1+gasliquid": {
+        "techId": "tech_jinlong_4_filling_and_dismantler_mode_2"
+      },
+      "filling_powder_mc_1+gasliquid": {
+        "techId": "tech_jinlong_4_filling_and_dismantler_mode_2"
+      },
+      "filling_powder_mc_1+liquid": {
+        "techId": "tech_jinlong_1_filling_mode_1"
+      },
+      "furnance_1+liquid": {
+        "techId": "tech_jinlong_2_furnance_mode_1"
+      },
+      "item_port_battle_lightning_2": {
+        "techId": "tech_jinlong_4_battle_lightning_2"
+      },
+      "item_port_battle_turret_3": {
+        "techId": "tech_jinlong_4_battle_turret_3"
+      },
+      "item_port_gas_pump_1": {
+        "techId": "tech_jinlong_4_gas_pump_1"
+      },
+      "item_port_gas_reactor_1": {
+        "techId": "tech_jinlong_4_gas_reactor_1"
+      },
+      "item_port_gas_storager_1": {
+        "techId": "tech_jinlong_4_gas_storager_1"
+      },
+      "shaper_1+gas": {
+        "techId": "tech_jinlong_4_shaper_mode_2"
+      },
+      "item_port_phase_trans_2": {
+        "techId": "tech_jinlong_4_transmuter_2"
+      },
+      "xiranite_oven_1+gasliquid": {
+        "techId": "tech_jinlong_4_vaporizer_1"
+      },
+      "item_port_phase_trans_1": {
+        "techId": "tech_jinlong_4_transmuter_1"
+      },
+      "item_port_vaporizer_1": {
+        "techId": "tech_jinlong_4_vaporizer_1"
+      },
+      "liquid_purifier_1+gas": {
+        "techId": "tech_jinlong_4_liquid_purifier_mode_1"
+      },
+      "planter_1+liquid": {
+        "techId": "tech_jinlong_1_planter_mode_1"
+      }
+    },
+    "removed": {
+      "filling_powder_mc_1": {
+        "techId": "tech_jinlong_1_filling_mode_1"
+      },
+      "furnance_1": {
+        "techId": "tech_jinlong_2_furnance_mode_1"
+      },
+      "planter_1": {
+        "techId": "tech_jinlong_1_planter_mode_1"
+      }
+    },
+    "changed": {}
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "tableName": "GachaWeaponPoolTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "weponbox_1_4_1": {
+        "clientTopTimeId": "time_special_1_4_1",
+        "doublePoolNodeUIPrefab": "",
+        "finalIndex": 11,
+        "id": "weponbox_1_4_1",
+        "index": 9,
+        "intervalAutoRewardIds": [
+          "reward_payshop_item_case_wpn_selfselect_gahca_1_4_1",
+          "reward_payshop_wpn_funnel_0016"
+        ],
+        "loopRewardShowTag": {
+          "BR": "Tributo Grau Militar",
+          "CN": "军列赠礼",
+          "DE": "Militär-Standard-Tribut",
+          "EN": "Military Grade Tribute",
+          "FR": "Don militaire",
+          "ID": "Persembahan Standar Militer",
+          "IT": "Tributo grado militare",
+          "JP": "戦列・特典",
+          "KR": "제대 선물",
+          "MX": "Tributo de Grado militar",
+          "RU": "Подношение «Военный стандарт»",
+          "TC": "軍列贈禮",
+          "TH": "เครื่องบรรณาการ​ระดับ​ทหาร",
+          "VN": "Quà Tặng Cấp Quân Dụng"
+        },
+        "loopRewardShowTitle": {
+          "BR": "Tributo Grau Militar Conquistado",
+          "CN": "军列赠礼达成",
+          "DE": "Militär-Standard-Tribut verdient",
+          "EN": "Military Grade Tribute Earned",
+          "FR": "Don militaire obtenu",
+          "ID": "Persembahan Standar Militer Didapatkan",
+          "IT": "Tributo grado militare ottenuto",
+          "JP": "戦列・特典達成",
+          "KR": "제대 선물 달성",
+          "MX": "Tributo de Grado militar obtenido",
+          "RU": "Получено подношение «Военный стандарт»",
+          "TC": "軍列贈禮達成",
+          "TH": "ได้รับ​เครื่องบรรณาการ​ระดับ​ทหาร​แล้ว",
+          "VN": "Quà Tặng Cấp Quân Dụng Kiếm Được"
+        },
+        "name": {
+          "BR": "Distribuição Grau Militar",
+          "CN": "军列申领",
+          "DE": "Militär-Standard-Ausgabe",
+          "EN": "Military Grade Issue",
+          "FR": "Tirage de type militaire",
+          "ID": "Edisi Standar Militer",
+          "IT": "Distribuzione grado militare",
+          "JP": "戦列・申請",
+          "KR": "제대 신청",
+          "MX": "Solicitud de Grado militar",
+          "RU": "Поставка «Военный стандарт»",
+          "TC": "軍列申領",
+          "TH": "ตั๋ว​ระดับ​ทหาร",
+          "VN": "Gói Rút Cấp Quân Dụng"
+        },
+        "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_4_1",
+        "smallPoolIcon": "icon_shop_weaponbox_small_1_4_1",
+        "smallPoolIconFar": "icon_shop_weaponbox_small_1_4_1_far",
+        "sortId": 11,
+        "ticketGachaTenLt": "",
+        "type": 0,
+        "upWeaponDoublePoolIcon": "",
+        "upWeaponIcon": "",
+        "upWeaponIds": [
+          "wpn_funnel_0016"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

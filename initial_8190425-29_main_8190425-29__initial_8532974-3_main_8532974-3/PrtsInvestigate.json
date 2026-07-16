@@ -1,0 +1,3576 @@
+{
+  "tableName": "PrtsInvestigate",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 12
+  },
+  "entries": {
+    "added": {
+      "research_008prts": {
+        "categoryDataList": [
+          {
+            "collectionIdList": [
+              "nar_paper_map02_14019_1",
+              "nar_digital_map02_14024_1"
+            ],
+            "index": 1,
+            "name": {
+              "BR": "Desastre",
+              "CN": "灾厄",
+              "DE": "Katastrophe",
+              "EN": "Disaster",
+              "FR": "Catastrophe",
+              "ID": "Bencana",
+              "IT": "Disastro",
+              "JP": "災厄",
+              "KR": "재앙",
+              "MX": "Desastre",
+              "RU": "Катастрофа",
+              "TC": "災厄",
+              "TH": "ภัยพิบัติ",
+              "VN": "Thảm Họa"
+            },
+            "noteIdList": [
+              "hint_research_008prts_1_1"
+            ]
+          },
+          {
+            "collectionIdList": [
+              "nar_paper_map02_14026_1",
+              "nar_paper_map02_14028_1"
+            ],
+            "index": 2,
+            "name": {
+              "BR": "Sobrevivência",
+              "CN": "求生",
+              "DE": "Überleben",
+              "EN": "Survival",
+              "FR": "Survie",
+              "ID": "Bertahan Hidup",
+              "IT": "Sopravvivenza",
+              "JP": "生存",
+              "KR": "생존",
+              "MX": "Supervivencia",
+              "RU": "Выживание",
+              "TC": "求生",
+              "TH": "ความอยู่รอด",
+              "VN": "Sinh Tồn"
+            },
+            "noteIdList": [
+              "hint_research_008prts_2_1"
+            ]
+          }
+        ],
+        "collectionIdList": [
+          "nar_paper_map02_14019_1",
+          "nar_digital_map02_14024_1",
+          "nar_paper_map02_14026_1",
+          "nar_paper_map02_14028_1"
+        ],
+        "desc": {
+          "BR": "Como eles sobreviveram à zona de exclusão quando a própria terra foi devastada?",
+          "CN": "天崩地裂的禁区之中，他们如何求生？",
+          "DE": "Wie war das Überleben in der Sperrzone möglich, in der das Land selbst zerrissen war?",
+          "EN": "How did they survive the exclusion zone when the very land itself was torn apart?",
+          "FR": "Comment ont-ils survécu à la zone d'exclusion alors que le sol lui-même partait en morceaux ?",
+          "ID": "Bagaimana mereka bisa bertahan hidup di zona eksklusi padahal tanah itu sendiri terkoyak-koyak?",
+          "IT": "Come hanno fatto a sopravvivere nell'Area interdetta quando la terra stessa era stata dilaniata?",
+          "JP": "空が崩れ落ち地面が裂けるような封鎖区域の中で、彼らはどう生き延びたのだろうか？",
+          "KR": "하늘이 무너지고 땅이 갈라지는 금지 구역 속에서, 그들은 어떻게 살아남았을까요?",
+          "MX": "¿Cómo sobrevivieron en la zona de exclusión cuando la propia tierra fue destrozada?",
+          "RU": "Как выжить в зоне отчуждения, если сотрясается сама земля?",
+          "TC": "天崩地裂的禁區之中，他們如何求生？",
+          "TH": "พวกเขา​รอดชีวิต​มา​ได้​อย่างไร​ใน​เขตหวงห้าม​แห่ง​นี้​ ทั้งที่​แม้แต่​ผืนดิน​เอง​ก็​ยัง​ถูก​ฉีก​กระชาก​จน​แหลก​สลาย​?",
+          "VN": "Làm sao họ có thể sống sót trong khu cấm, khi đến cả vùng đất ấy cũng đã bị xé toạc?"
+        },
+        "domainId": "domain_2",
+        "id": "research_008prts",
+        "index": 12,
+        "investigateAreaDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "name": {
+          "BR": "Tentativas de Sobrevivência das Vítimas do Desastre",
+          "CN": "受灾者的求生经历",
+          "DE": "Überlebensversuche der Katastrophenopfer",
+          "EN": "Disaster Victims' Attempts of Survival",
+          "FR": "Tentatives de survie des victimes du désastre",
+          "ID": "Upaya Selamat Korban Bencana",
+          "IT": "Tentativi di sopravvivenza",
+          "JP": "被災者たちの生存記録",
+          "KR": "피해자들의 생존 기록",
+          "MX": "Intentos de supervivencia de víctimas del desastre",
+          "RU": "Попытки пострадавших выжить",
+          "TC": "受災者的求生經歷",
+          "TH": "ความพยายาม​เอาชีวิต​รอด​ของ​ผู้ประสบภัย",
+          "VN": "Những Nỗ Lực Sinh Tồn Của Các Nạn Nhân Thảm Họa"
+        },
+        "rewardId": "reward_prts_research_012",
+        "type": 0,
+        "unlockPrts": "nar_report_map02_research12_1_1"
+      },
+      "research_Balloon": {
+        "categoryDataList": [
+          {
+            "collectionIdList": [
+              "nar_document_v1d4_6_1",
+              "nar_document_v1d4_7_1",
+              "nar_paper_map02_research7_13_1"
+            ],
+            "index": 1,
+            "name": {
+              "BR": "Investigação: Megaoperação de Vigilância 4",
+              "CN": "关于第四次大型作战记录的调查",
+              "DE": "Ermittlung: Große Aufklärungsmission 4",
+              "EN": "Investigation: Major Surveillance Op 4",
+              "FR": "Enquête : grande opération de surveillance n° 4",
+              "ID": "Penyelidikan: Operasi Pengawasan Besar 4",
+              "IT": "Indagine: Operazione di sorveglianza su vasta scala 4",
+              "JP": "第4次大規模作戦記録についての調査",
+              "KR": "제4차 대형 작전 기록에 관한 조사",
+              "MX": "Investigación: Operación de vigilancia principal 4",
+              "RU": "Расследование: крупная разведывательная операция 4",
+              "TC": "關於第四次大型作戰紀錄的調查",
+              "TH": "การสืบสวน​: ปฏิบัติการ​เฝ้า​ระวัง​ครั้ง​ใหญ่​ 4",
+              "VN": "Điều Tra: Chiến Dịch Giám Sát Quy Mô Lớn 4"
+            },
+            "noteIdList": [
+              "hint_research_Balloon_1_1"
+            ]
+          },
+          {
+            "collectionIdList": [
+              "nar_document_v1d4_8_1",
+              "nar_document_v1d4_9_1"
+            ],
+            "index": 2,
+            "name": {
+              "BR": "Investigação: Log de Dados de Coordenadas do Pilar de Yinglung",
+              "CN": "关于应龙桩布设坐标记录的调查",
+              "DE": "Ermittlung: Datenlog der Koordinaten der Yinglung-Säulen",
+              "EN": "Investigation: Yinglung Pillar Coordinates Data Log",
+              "FR": "Enquête : journal de données des coordonnées du pilier des Yinglungs",
+              "ID": "Penyelidikan: Log Data Koordinat Pilar Yinglung",
+              "IT": "Indagine: registro dei dati sulle coordinate della colonna Yinglung",
+              "JP": "応龍杭設置座標記録についての調査",
+              "KR": "응룡장 배치 좌표 기록에 관한 조사",
+              "MX": "Investigación: registro de datos de coordenadas de los Pilares de Yinglung",
+              "RU": "Расследование: журнал данных о координатах столбов «Инлуна»",
+              "TC": "關於應龍樁設置座標紀錄的調查",
+              "TH": "การสืบสวน​: บันทึก​ข้อมูล​พิกัด​เสา​ห​ยิง​หลง",
+              "VN": "Điều Tra: Nhật Ký Dữ Liệu Tọa Độ Cột Đặc Nhiệm"
+            },
+            "noteIdList": [
+              "hint_research_Balloon_2_1"
+            ]
+          },
+          {
+            "collectionIdList": [
+              "nar_document_v1d4_11_1",
+              "nar_document_v1d4_10_1"
+            ],
+            "index": 3,
+            "name": {
+              "BR": "Investigação: Equipe Shore e Equipe Benefit",
+              "CN": "关于岸小队和益小队的调查",
+              "DE": "Ermittlung: Team Shore und Team Benefit",
+              "EN": "Investigation: Team Shore and Team Benefit",
+              "FR": "Enquête : l'équipe de Rivage et l'équipe de Benefit",
+              "ID": "Penyelidikan: Tim Shore dan Tim Benefit",
+              "IT": "Indagine: Squadra Shore e Squadra Benefit",
+              "JP": "キシ小隊とエキ小隊についての調査",
+              "KR": "안 소대와 익 소대에 관한 조사",
+              "MX": "Investigación: Equipo de Shore y Equipo de Benefit",
+              "RU": "Расследование: команды Шор и Авантажа",
+              "TC": "關於岸小隊和益小隊的調查",
+              "TH": "การสืบสวน​: ทีม​ชอร์​และ​ทีม​เบ​เน​ฟิต",
+              "VN": "Điều Tra: Đội Shore và Đội Benefit"
+            },
+            "noteIdList": [
+              "hint_research_Balloon_3_1"
+            ]
+          }
+        ],
+        "collectionIdList": [
+          "nar_document_v1d4_6_1",
+          "nar_document_v1d4_7_1",
+          "nar_paper_map02_research7_13_1",
+          "nar_document_v1d4_8_1",
+          "nar_document_v1d4_9_1",
+          "nar_document_v1d4_11_1",
+          "nar_document_v1d4_10_1"
+        ],
+        "desc": {
+          "BR": "Os itens perdidos que recuperamos podem ser usados para realizar uma simulação algorítmica dessa operação...",
+          "CN": "从遗物里，我们得以推演那次行动的过程……",
+          "DE": "Anhand der geborgenen Gegenstände können wir eine algorithmische Simulation dieser Operation durchführen …",
+          "EN": "The lost items we recovered can be used to run an algorithmic simulation of that operation...",
+          "FR": "Les objets perdus que nous avons récupérés peuvent servir à lancer une simulation algorithmique de cette opération...",
+          "ID": "Berbagai item yang hilang yang sudah kami temukan bisa digunakan untuk menjalankan simulasi algoritmik dari operasi itu ....",
+          "IT": "Gli oggetti perduti che abbiamo recuperato possono essere usati per eseguire una simulazione algoritmica di quell'operazione...",
+          "JP": "遺品から、当時の作戦行動を推定することができました……",
+          "KR": "유품을 통해, 저희는 그 작전의 과정을 추산할 수 있었습니다...",
+          "MX": "Los objetos perdidos que recuperamos pueden usarse para ejecutar una simulación algorítmica de aquella operación...",
+          "RU": "С помощью найденных предметов можно запустить алгоритмическую симуляцию старой операции...",
+          "TC": "從遺物裡，我們得以推演那次行動的過程……",
+          "TH": "สิ่งของ​ที่​หาย​ไป​ที่​เรา​กู้​คืน​มา​ สามารถ​นำไปใช้​จำลอง​การ​ดำเนินงาน​ด้วย​อัล​กอ​ริ​ทึม​ได้​...",
+          "VN": "Những di vật thất lạc mà chúng ta thu hồi có thể được dùng để tiến hành mô phỏng thuật toán cho chiến dịch đó..."
+        },
+        "domainId": "domain_2",
+        "id": "research_Balloon",
+        "index": 7,
+        "investigateAreaDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "name": {
+          "BR": "Registro de Combate de Yinglung",
+          "CN": "应龙作战记录",
+          "DE": "Yinglung-Kampfaufzeichnungen",
+          "EN": "Yinglung Combat Record",
+          "FR": "Archives de combat des Yinglungs",
+          "ID": "Rekaman Pertarungan Yinglung",
+          "IT": "Registrazione dei combattimenti di Yinglung",
+          "JP": "応龍作戦記録",
+          "KR": "응룡 작전 기록",
+          "MX": "Registro de combate Yinglung",
+          "RU": "Записи боя «Инлуна»",
+          "TC": "應龍作戰紀錄",
+          "TH": "บันทึก​การต่อสู้​ห​ยิง​หลง",
+          "VN": "Hồ Sơ Chiến Đấu Yinglung"
+        },
+        "rewardId": "reward_prts_research_research_Balloon",
+        "type": 1,
+        "unlockPrts": "nar_report_map02_research7_12_1"
+      },
+      "research_007prts": {
+        "categoryDataList": [
+          {
+            "collectionIdList": [
+              "nar_paper_map02_14004_1",
+              "nar_digital_map02_14006_1"
+            ],
+            "index": 1,
+            "name": {
+              "BR": "Força-Tarefa Especial de Yinglung",
+              "CN": "应龙特勤队",
+              "DE": "Yinglung-Sondereinheit",
+              "EN": "Yinglung Special Task Force",
+              "FR": "Forces spéciales de Yinglung",
+              "ID": "Satuan Tugas Khusus Yinglung",
+              "IT": "Squadra tattica d'élite di Yinglung",
+              "JP": "応龍特殊部隊",
+              "KR": "응룡 특수부대",
+              "MX": "Equipo de Fuerzas Especiales de Yinglung",
+              "RU": "Специальная оперативная группа «Инлун»",
+              "TC": "應龍特勤隊",
+              "TH": "หน่วย​ปฏิบัติการ​พิเศษ​ห​ยิง​หลง",
+              "VN": "Đội Đặc Nhiệm Yinglung"
+            },
+            "noteIdList": [
+              "hint_research_007prts_1_1"
+            ]
+          },
+          {
+            "collectionIdList": [
+              "nar_digital_map02_14009_1",
+              "nar_digital_map02_14001_1",
+              "nar_digital_map02_14001_2",
+              "nar_digital_map02_14001_3"
+            ],
+            "index": 2,
+            "name": {
+              "BR": "Pessoas Fora da Passagem de Yinglung",
+              "CN": "应龙关之外的人们",
+              "DE": "Menschen außerhalb des Yinglung-Passes",
+              "EN": "People Outside Yinglung Pass",
+              "FR": "Personnes à l'extérieur du col de Yinglung",
+              "ID": "Orang-Orang di Luar Terusan Yinglung",
+              "IT": "Persone fuori dal Valico di Yinglung",
+              "JP": "応龍関の外にいる人々",
+              "KR": "응룡 관문밖의 사람들",
+              "MX": "Gente de fuera del Paso de Yinglung",
+              "RU": "Люди за пределами заставы «Инлуна»",
+              "TC": "應龍關之外的人們",
+              "TH": "ผู้คน​ภายนอก​ทางผ่าน​ห​ยิง​หลง",
+              "VN": "Những Người Bên Ngoài Đèo Yinglung"
+            },
+            "noteIdList": [
+              "hint_research_007prts_2_1"
+            ]
+          }
+        ],
+        "collectionIdList": [
+          "nar_paper_map02_14004_1",
+          "nar_digital_map02_14006_1",
+          "nar_digital_map02_14009_1",
+          "nar_digital_map02_14001_1",
+          "nar_digital_map02_14001_2",
+          "nar_digital_map02_14001_3"
+        ],
+        "desc": {
+          "BR": "O que a Passagem de Yinglung enfrentou após sua conclusão?",
+          "CN": "应龙关从建成到现在，都经历了些什么？",
+          "DE": "Was ist am Yinglung-Pass vorgefallen, nachdem dieser fertiggestellt wurde?",
+          "EN": "What did Yinglung Pass face after its completion?",
+          "FR": "Que s'est-il passé après l'inauguration du Col de Yinglung ?",
+          "ID": "Apa yang dihadapi Terusan Yinglung setelah selesai dibangun?",
+          "IT": "Quali difficoltà affrontò il Valico di Yinglung dopo il suo completamento?",
+          "JP": "応龍関は建設されてから今まで、何を見届けてきたのか？",
+          "KR": "응룡 관문은 건설된 뒤 지금까지 어떤 일들을 겪어 왔을까...",
+          "MX": "¿A qué se enfrentó el Paso de Yinglung tras su finalización?",
+          "RU": "Каково было на заставе «Инлуна» после завершения строительства?",
+          "TC": "應龍關從建成到現在，都經歷了些什麼？",
+          "TH": "หลังจาก​สร้าง​ทางผ่าน​ห​ยิง​หลง​เสร็จ​แล้ว​ มัน​ต้อง​เผชิญ​กับ​อะไร​บ้าง​?",
+          "VN": "Sau khi hoàn thành xây dựng, Đèo Yinglung đã phải đối mặt với biến cố gì?"
+        },
+        "domainId": "domain_2",
+        "id": "research_007prts",
+        "index": 9,
+        "investigateAreaDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "name": {
+          "BR": "Passagem de Yinglung",
+          "CN": "应龙关",
+          "DE": "Yinglung-Pass",
+          "EN": "Yinglung Pass",
+          "FR": "Col de Yinglung",
+          "ID": "Terusan Yinglung",
+          "IT": "Valico di Yinglung",
+          "JP": "応龍関",
+          "KR": "응룡 관문",
+          "MX": "Paso de Yinglung",
+          "RU": "Застава «Инлуна»",
+          "TC": "應龍關",
+          "TH": "ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Đèo Yinglung"
+        },
+        "rewardId": "reward_prts_research_009",
+        "type": 0,
+        "unlockPrts": "nar_report_map02_research9_1_1"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "research_001": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_1_1",
+                "nar_paper_map02_2_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Onde fica o Caminho nas Profundezas do Bosque?",
+                "CN": "幽深竹林，何处寻路？",
+                "DE": "Welcher Pfad führt tief in den Hain?",
+                "EN": "Where is the Path Deep in the Grove?",
+                "FR": "Où se trouve le Sentier au cœur des bois ?",
+                "ID": "Di manakah Jalur Jauh di dalam Belukar?",
+                "IT": "Dov'è il sentiero che si inoltra nel boschetto?",
+                "JP": "うっそうとした竹林、道はどこに？",
+                "KR": "깊고 울창한 대나무 숲, 길은 어디에?",
+                "MX": "¿Dónde está el sendero en lo profundo de la arboleda?",
+                "RU": "Как найти путь в роще?",
+                "TC": "幽深竹林，何處尋路？",
+                "TH": "เส้นทาง​ลึก​เข้าไป​ใน​ป่า​อยู่​ที่ไหน​?",
+                "VN": "Con Đường Sâu Trong Rừng nằm ở đâu?"
+              },
+              "noteIdList": [
+                "hint_research_001_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_8_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Jangadas de Bambu e Animais",
+                "CN": "竹筏和动物",
+                "DE": "Bambusflöße und Tierchen",
+                "EN": "Bamboo Rafts and Critters",
+                "FR": "Canot en bambou et créatures",
+                "ID": "Rakit Bambu dan Makhluk-makhluk Kecil",
+                "IT": "Zattere di bambù e creature",
+                "JP": "いかだと動物",
+                "KR": "뗏목과 동물",
+                "MX": "Balsas de bambú y criaturas",
+                "RU": "Зверьки и бамбуковые плоты",
+                "TC": "竹筏和動物",
+                "TH": "แพ​ไม้​ไผ่​และ​พันธุ์​สัตว์",
+                "VN": "Bè Tre Và Sinh Vật"
+              },
+              "noteIdList": [
+                "hint_research_001_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_1_1",
+            "nar_paper_map02_2_1",
+            "nar_paper_map02_8_1"
+          ],
+          "desc": {
+            "BR": "Wuling é uma terra entrecortada por colinas e rios. Como as pessoas se deslocam?",
+            "CN": "武陵山水错综复杂，人们如何出行？",
+            "DE": "Wuling ist mit Hügeln übersät und von Flüssen durchzogen. Wie reisen die Leute hier?",
+            "EN": "Wuling is a land criss-crossed by hills and rivers. How do people travel?",
+            "FR": "Wuling est une terre parsemée de collines et de rivières. Comment les gens font-ils pour se déplacer ?",
+            "ID": "Wuling adalah wilayah yang dilintasi bukit dan sungai. Transportasi apa yang digunakan penduduknya?",
+            "IT": "Wuling è una terra attraversata da colline e fiumi. Come fanno le persone a spostarsi?",
+            "JP": "武陵の川は入り組んでいて複雑、人々の移動手段は？",
+            "KR": "무릉의 얽히고 복잡한 산천, 그 속에서 사람들은 어떻게 이동할까?",
+            "MX": "Wuling es una tierra surcada por colinas y ríos. ¿Cómo se desplaza la gente?",
+            "RU": "Улин — край рек и холмов. Как жители здесь передвигаются?",
+            "TC": "武陵山水錯綜複雜，人們如何出行？",
+            "TH": "อู่​หลิง​เป็น​ดินแดน​ที่​มี​เนินเขา​และ​แม่น้ำ​ตัดผ่าน​มากมาย​ แล้ว​ผู้คน​เดินทาง​กัน​อย่างไร​?",
+            "VN": "Võ Lăng là vùng đất có nhiều đồi núi và sông ngòi chằng chịt. Người dân di chuyển bằng cách nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_001",
+          "index": 3,
+          "name": {
+            "BR": "Transporte no Vale de Jingyu",
+            "CN": "景玉谷交通",
+            "DE": "Transport im Jingyu-Tal",
+            "EN": "Transport in Jingyu Valley",
+            "FR": "Moyens de transport dans la vallée de Jingyu",
+            "ID": "Transportasi di Lembah Jingyu",
+            "IT": "Trasporti a Valle Jingyu",
+            "JP": "景玉谷の交通",
+            "KR": "경옥 골짜기 교통",
+            "MX": "Transporte en el Valle de Jingyu",
+            "RU": "Транспорт в долине Цзинъю",
+            "TC": "景玉谷交通",
+            "TH": "การ​เดินทาง​ใน​หุบเขา​จิง​หยู",
+            "VN": "Giao Thông Ở Cảnh Ngọc Cốc"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research3_1_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_1_1",
+                "nar_paper_map02_2_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Onde fica o Caminho nas Profundezas do Bosque?",
+                "CN": "幽深竹林，何处寻路？",
+                "DE": "Welcher Pfad führt tief in den Hain?",
+                "EN": "Where is the Path Deep in the Grove?",
+                "FR": "Où se trouve le Sentier au cœur des bois ?",
+                "ID": "Di manakah Jalur Jauh di dalam Belukar?",
+                "IT": "Dov'è il sentiero che si inoltra nel boschetto?",
+                "JP": "うっそうとした竹林、道はどこに？",
+                "KR": "깊고 울창한 대나무 숲, 길은 어디에?",
+                "MX": "¿Dónde está el sendero en lo profundo de la arboleda?",
+                "RU": "Как найти путь в роще?",
+                "TC": "幽深竹林，何處尋路？",
+                "TH": "เส้นทาง​ลึก​เข้าไป​ใน​ป่า​อยู่​ที่ไหน​?",
+                "VN": "Con Đường Sâu Trong Rừng nằm ở đâu?"
+              },
+              "noteIdList": [
+                "hint_research_001_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_8_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Jangadas de Bambu e Animais",
+                "CN": "竹筏和动物",
+                "DE": "Bambusflöße und Tierchen",
+                "EN": "Bamboo Rafts and Critters",
+                "FR": "Canot en bambou et créatures",
+                "ID": "Rakit Bambu dan Makhluk-makhluk Kecil",
+                "IT": "Zattere di bambù e creature",
+                "JP": "いかだと動物",
+                "KR": "뗏목과 동물",
+                "MX": "Balsas de bambú y criaturas",
+                "RU": "Зверьки и бамбуковые плоты",
+                "TC": "竹筏和動物",
+                "TH": "แพ​ไม้​ไผ่​และ​พันธุ์​สัตว์",
+                "VN": "Bè Tre Và Sinh Vật"
+              },
+              "noteIdList": [
+                "hint_research_001_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_1_1",
+            "nar_paper_map02_2_1",
+            "nar_paper_map02_8_1"
+          ],
+          "desc": {
+            "BR": "Wuling é uma terra entrecortada por colinas e rios. Como as pessoas se deslocam?",
+            "CN": "武陵山水错综复杂，人们如何出行？",
+            "DE": "Wuling ist mit Hügeln übersät und von Flüssen durchzogen. Wie reisen die Leute hier?",
+            "EN": "Wuling is a land criss-crossed by hills and rivers. How do people travel?",
+            "FR": "Wuling est une terre parsemée de collines et de rivières. Comment les gens font-ils pour se déplacer ?",
+            "ID": "Wuling adalah wilayah yang dilintasi bukit dan sungai. Transportasi apa yang digunakan penduduknya?",
+            "IT": "Wuling è una terra attraversata da colline e fiumi. Come fanno le persone a spostarsi?",
+            "JP": "武陵の川は入り組んでいて複雑、人々の移動手段は？",
+            "KR": "무릉의 얽히고 복잡한 산천, 그 속에서 사람들은 어떻게 이동할까?",
+            "MX": "Wuling es una tierra surcada por colinas y ríos. ¿Cómo se desplaza la gente?",
+            "RU": "Улин — край рек и холмов. Как жители здесь передвигаются?",
+            "TC": "武陵山水錯綜複雜，人們如何出行？",
+            "TH": "อู่​หลิง​เป็น​ดินแดน​ที่​มี​เนินเขา​และ​แม่น้ำ​ตัดผ่าน​มากมาย​ แล้ว​ผู้คน​เดินทาง​กัน​อย่างไร​?",
+            "VN": "Võ Lăng là vùng đất có nhiều đồi núi và sông ngòi chằng chịt. Người dân di chuyển bằng cách nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_001",
+          "index": 3,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Transporte no Vale de Jingyu",
+            "CN": "景玉谷交通",
+            "DE": "Transport im Jingyu-Tal",
+            "EN": "Transport in Jingyu Valley",
+            "FR": "Moyens de transport dans la vallée de Jingyu",
+            "ID": "Transportasi di Lembah Jingyu",
+            "IT": "Trasporti a Valle Jingyu",
+            "JP": "景玉谷の交通",
+            "KR": "경옥 골짜기 교통",
+            "MX": "Transporte en el Valle de Jingyu",
+            "RU": "Транспорт в долине Цзинъю",
+            "TC": "景玉谷交通",
+            "TH": "การ​เดินทาง​ใน​หุบเขา​จิง​หยู",
+            "VN": "Giao Thông Ở Cảnh Ngọc Cốc"
+          },
+          "rewardId": "reward_prts_research_001",
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research3_1_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_001"
+          }
+        }
+      },
+      "research_006prts": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_13001_1",
+                "nar_paper_map02_13001_2",
+                "nar_paper_map02_13001_3"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Paliçados",
+                "CN": "寨民们",
+                "DE": "Palisadeure",
+                "EN": "Stockaders",
+                "FR": "Palanquiens",
+                "ID": "Orang Kampung",
+                "IT": "Abitanti della Palizzata",
+                "JP": "砦の住民たち",
+                "KR": "청파채 주민들",
+                "MX": "Empalizadores",
+                "RU": "Жители лагеря Циньбо",
+                "TC": "寨民們",
+                "TH": "ชาว​ค่าย",
+                "VN": "Dân Trại"
+              },
+              "noteIdList": [
+                "hint_research_006prts_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_digital_map02_13002_1",
+                "nar_digital_map02_13003_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "O Tesouro",
+                "CN": "至宝",
+                "DE": "Der Schatz",
+                "EN": "The Treasure",
+                "FR": "Le trésor",
+                "ID": "Harta Karun",
+                "IT": "Il tesoro",
+                "JP": "至宝",
+                "KR": "귀한 보물",
+                "MX": "El tesoro",
+                "RU": "Сокровище",
+                "TC": "至寶",
+                "TH": "สมบัติ",
+                "VN": "Kho Báu"
+              },
+              "noteIdList": [
+                "hint_research_006prts_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_13001_1",
+            "nar_paper_map02_13001_2",
+            "nar_paper_map02_13001_3",
+            "nar_digital_map02_13002_1",
+            "nar_digital_map02_13003_1"
+          ],
+          "desc": {
+            "BR": "Nunca ouvi falar de ruínas como essas. Quando esta instalação foi construída?",
+            "CN": "如此遗迹，从未听闻过，它何时修成？",
+            "DE": "Ich habe noch nie von solchen Ruinen gehört. Wann wurde diese Anlage gebaut?",
+            "EN": "Never heard about ruins like these. When was this facility built?",
+            "FR": "Je n'ai jamais entendu parler de ruines de ce genre. Quand cette installation a-t-elle été construite ?",
+            "ID": "Belum pernah dengar tentang reruntuhan seperti ini. Kapan fasilitas ini dibangun?",
+            "IT": "Non avevo mai sentito parlare di rovine del genere. Quando sarà stata costruita questa struttura?",
+            "JP": "これほどの遺跡は前代未聞だ。いったい、いつ頃築かれたものなのだろうか。",
+            "KR": "이런 유적은 들어 본 적이 없는데, 대체 언제 세워진 거지?",
+            "MX": "Nunca había oído hablar de unas ruinas como estas. ¿Cuándo se construyó esta instalación?",
+            "RU": "Впервые слышу об этих руинах. Когда было возведено это сооружение?",
+            "TC": "如此遺跡，從未聽聞過，它何時修成？",
+            "TH": "ไม่เคย​ได้ยิน​เกี่ยวกับ​ซาก​โบราณสถาน​แบบนี้​มา​ก่อน​ สิ่งปลูกสร้าง​แห่ง​นี้​ถูก​สร้าง​ขึ้น​เมื่อไหร่​?",
+            "VN": "Chưa từng nghe về di chỉ như thế này. Công trình này được xây dựng lúc nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_006prts",
+          "index": 6,
+          "name": {
+            "BR": "Ruínas Yanesas no Vale do Cofre de Espadas",
+            "CN": "藏剑谷炎国遗迹",
+            "DE": "Yanesische Ruinen im Tal des Schwertverlieses",
+            "EN": "Yanese Ruins of Sword Vault Dale",
+            "FR": "Ruines yanaises du Val du caveau des lames",
+            "ID": "Reruntuhan Yan di Lembah Benteng Pedang",
+            "IT": "Rovine yanesi della Valletta di Voltaspada",
+            "JP": "蔵剣谷の炎国遺跡",
+            "KR": "장검 골짜기 염국 유적",
+            "MX": "Ruinas yanesas del Valle Ocultaespadas",
+            "RU": "Йенские руины в долине Залежи Клинков",
+            "TC": "藏劍谷炎國遺跡",
+            "TH": "ซาก​โบราณสถาน​หยา​น​แห่ง​เดล​คลัง​ดาบ",
+            "VN": "Di Chỉ Người Viêm ở Cốc Tàng Kiếm"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research6_7_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_13001_1",
+                "nar_paper_map02_13001_2",
+                "nar_paper_map02_13001_3"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Paliçados",
+                "CN": "寨民们",
+                "DE": "Palisadeure",
+                "EN": "Stockaders",
+                "FR": "Palanquiens",
+                "ID": "Orang Kampung",
+                "IT": "Abitanti della Palizzata",
+                "JP": "砦の住民たち",
+                "KR": "청파채 주민들",
+                "MX": "Empalizadores",
+                "RU": "Жители лагеря Циньбо",
+                "TC": "寨民們",
+                "TH": "ชาว​ค่าย",
+                "VN": "Dân Trại"
+              },
+              "noteIdList": [
+                "hint_research_006prts_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_digital_map02_13002_1",
+                "nar_digital_map02_13003_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "O Tesouro",
+                "CN": "至宝",
+                "DE": "Der Schatz",
+                "EN": "The Treasure",
+                "FR": "Le trésor",
+                "ID": "Harta Karun",
+                "IT": "Il tesoro",
+                "JP": "至宝",
+                "KR": "귀한 보물",
+                "MX": "El tesoro",
+                "RU": "Сокровище",
+                "TC": "至寶",
+                "TH": "สมบัติ",
+                "VN": "Kho Báu"
+              },
+              "noteIdList": [
+                "hint_research_006prts_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_13001_1",
+            "nar_paper_map02_13001_2",
+            "nar_paper_map02_13001_3",
+            "nar_digital_map02_13002_1",
+            "nar_digital_map02_13003_1"
+          ],
+          "desc": {
+            "BR": "Nunca ouvi falar de ruínas como essas. Quando esta instalação foi construída?",
+            "CN": "如此遗迹，从未听闻过，它何时修成？",
+            "DE": "Ich habe noch nie von solchen Ruinen gehört. Wann wurde diese Anlage gebaut?",
+            "EN": "Never heard about ruins like these. When was this facility built?",
+            "FR": "Je n'ai jamais entendu parler de ruines de ce genre. Quand cette installation a-t-elle été construite ?",
+            "ID": "Belum pernah dengar tentang reruntuhan seperti ini. Kapan fasilitas ini dibangun?",
+            "IT": "Non avevo mai sentito parlare di rovine del genere. Quando sarà stata costruita questa struttura?",
+            "JP": "これほどの遺跡は前代未聞だ。いったい、いつ頃築かれたものなのだろうか。",
+            "KR": "이런 유적은 들어 본 적이 없는데, 대체 언제 세워진 거지?",
+            "MX": "Nunca había oído hablar de unas ruinas como estas. ¿Cuándo se construyó esta instalación?",
+            "RU": "Впервые слышу об этих руинах. Когда было возведено это сооружение?",
+            "TC": "如此遺跡，從未聽聞過，它何時修成？",
+            "TH": "ไม่เคย​ได้ยิน​เกี่ยวกับ​ซาก​โบราณสถาน​แบบนี้​มา​ก่อน​ สิ่งปลูกสร้าง​แห่ง​นี้​ถูก​สร้าง​ขึ้น​เมื่อไหร่​?",
+            "VN": "Chưa từng nghe về di chỉ như thế này. Công trình này được xây dựng lúc nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_006prts",
+          "index": 6,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Ruínas Yanesas no Vale do Cofre de Espadas",
+            "CN": "藏剑谷炎国遗迹",
+            "DE": "Yanesische Ruinen im Tal des Schwertverlieses",
+            "EN": "Yanese Ruins of Sword Vault Dale",
+            "FR": "Ruines yanaises du Val du caveau des lames",
+            "ID": "Reruntuhan Yan di Lembah Benteng Pedang",
+            "IT": "Rovine yanesi della Valletta di Voltaspada",
+            "JP": "蔵剣谷の炎国遺跡",
+            "KR": "장검 골짜기 염국 유적",
+            "MX": "Ruinas yanesas del Valle Ocultaespadas",
+            "RU": "Йенские руины в долине Залежи Клинков",
+            "TC": "藏劍谷炎國遺跡",
+            "TH": "ซาก​โบราณสถาน​หยา​น​แห่ง​เดล​คลัง​ดาบ",
+            "VN": "Di Chỉ Người Viêm ở Cốc Tàng Kiếm"
+          },
+          "rewardId": "reward_prts_research_006prts",
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research6_7_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_006prts"
+          }
+        }
+      },
+      "research_007": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_digital_map01_26_1",
+                "nar_digital_map01_64_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "O Local de Teste Silencioso",
+                "CN": "试验场静静屹立",
+                "DE": "Das stille Testgelände",
+                "EN": "The Silent Test Site",
+                "FR": "Site d'essais silencieux",
+                "ID": "Lokasi Uji Coba Senyap",
+                "IT": "L'Area test nel silenzio",
+                "JP": "実験場は静かにそびえる",
+                "KR": "고요히 우뚝 선 실험장",
+                "MX": "La zona de pruebas silencioso",
+                "RU": "Безмолвная лаборатория эфира",
+                "TC": "實驗場靜靜屹立",
+                "TH": "พื้นที่​ทดสอบ​อัน​เงียบสงัด",
+                "VN": "Khu Thử Nghiệm Tĩnh Lặng"
+              },
+              "noteIdList": [
+                "hint_research_007_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_75_1",
+                "nar_paper_map01_70_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Discussão dos Pesquisadores",
+                "CN": "研究者们议论纷纷",
+                "DE": "Diskussionen unter Forschenden",
+                "EN": "Researchers' Discussions",
+                "FR": "Discussions de chercheurs",
+                "ID": "Diskusi Para Peneliti",
+                "IT": "Discussioni dei ricercatori",
+                "JP": "研究者たちの議論は絶えない",
+                "KR": "의견이 분분한 연구원들",
+                "MX": "Debates de los investigadores",
+                "RU": "Дискуссии исследователей",
+                "TC": "研究者們議論紛紛",
+                "TH": "การ​พูดคุย​ของ​นักวิจัย",
+                "VN": "Cuộc Thảo Luận Các Nhà Nghiên Cứu"
+              },
+              "noteIdList": [
+                "hint_research_007_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_digital_map01_26_1",
+            "nar_digital_map01_64_1",
+            "nar_paper_map01_75_1",
+            "nar_paper_map01_70_1"
+          ],
+          "desc": {
+            "BR": "O Local de Teste do Æther... Por que ele foi construído?",
+            "CN": "超域试验场……它因何而生？",
+            "DE": "Das Æther-Testgelände … Wofür wurde es geschaffen?",
+            "EN": "The Æther Test Site... For what did they build this for?",
+            "FR": "Le site d'essais æthériques... Dans quel but a-t-il été construit ?",
+            "ID": "Lokasi Uji Coba Æther .... Apa tujuan mereka membangunnya?",
+            "IT": "L'Area test dell'Æther... Per cosa l'hanno costruita?",
+            "JP": "超域実験場……それは何のために生まれたのでしょうか？",
+            "KR": "초자연 실험장은... 대체 왜 만들어진 걸까?",
+            "MX": "La Zona de pruebas de éter... ¿Para qué la construyeron?",
+            "RU": "Лаборатория исследования эфира... Для чего ее построили?",
+            "TC": "超域實驗場……它因何而生？",
+            "TH": "พื้นที่​ทดสอบ​เอ​เทอร์​... พวกเขา​สร้าง​ที่นี่​มา​เพื่อ​อะไร​กัน​นะ​?",
+            "VN": "Khu Thử Nghiệm Æther... Họ xây dựng nơi này để làm gì?"
+          },
+          "domainId": "domain_1",
+          "id": "research_007",
+          "index": 6,
+          "name": {
+            "BR": "Origens do Local de Teste do Æther",
+            "CN": "超域试验场的起源",
+            "DE": "Ursprünge des Æther-Testgeländes",
+            "EN": "Origins of the Æther Test Site",
+            "FR": "Les origines du site d'essais æthériques",
+            "ID": "Asal Lokasi Uji Coba Æther",
+            "IT": "Origini dell'Area test dell'Æther",
+            "JP": "超域実験場設立の経緯",
+            "KR": "초자연 실험장의 기원",
+            "MX": "Orígenes de la Zona de pruebas de éter",
+            "RU": "Создание лаборатории исследования эфира",
+            "TC": "超域實驗場的起源",
+            "TH": "ต้นกำเนิด​ของ​พื้นที่​ทดสอบ​เอ​เทอร์",
+            "VN": "Nguồn Gốc Của Khu Thử Nghiệm Æther"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research6_1_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_digital_map01_26_1",
+                "nar_digital_map01_64_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "O Local de Teste Silencioso",
+                "CN": "试验场静静屹立",
+                "DE": "Das stille Testgelände",
+                "EN": "The Silent Test Site",
+                "FR": "Site d'essais silencieux",
+                "ID": "Lokasi Uji Coba Senyap",
+                "IT": "L'Area test nel silenzio",
+                "JP": "実験場は静かにそびえる",
+                "KR": "고요히 우뚝 선 실험장",
+                "MX": "La zona de pruebas silencioso",
+                "RU": "Безмолвная лаборатория эфира",
+                "TC": "實驗場靜靜屹立",
+                "TH": "พื้นที่​ทดสอบ​อัน​เงียบสงัด",
+                "VN": "Khu Thử Nghiệm Tĩnh Lặng"
+              },
+              "noteIdList": [
+                "hint_research_007_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_75_1",
+                "nar_paper_map01_70_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Discussão dos Pesquisadores",
+                "CN": "研究者们议论纷纷",
+                "DE": "Diskussionen unter Forschenden",
+                "EN": "Researchers' Discussions",
+                "FR": "Discussions de chercheurs",
+                "ID": "Diskusi Para Peneliti",
+                "IT": "Discussioni dei ricercatori",
+                "JP": "研究者たちの議論は絶えない",
+                "KR": "의견이 분분한 연구원들",
+                "MX": "Debates de los investigadores",
+                "RU": "Дискуссии исследователей",
+                "TC": "研究者們議論紛紛",
+                "TH": "การ​พูดคุย​ของ​นักวิจัย",
+                "VN": "Cuộc Thảo Luận Các Nhà Nghiên Cứu"
+              },
+              "noteIdList": [
+                "hint_research_007_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_digital_map01_26_1",
+            "nar_digital_map01_64_1",
+            "nar_paper_map01_75_1",
+            "nar_paper_map01_70_1"
+          ],
+          "desc": {
+            "BR": "O Local de Teste do Æther... Por que ele foi construído?",
+            "CN": "超域试验场……它因何而生？",
+            "DE": "Das Æther-Testgelände … Wofür wurde es geschaffen?",
+            "EN": "The Æther Test Site... For what did they build this for?",
+            "FR": "Le site d'essais æthériques... Dans quel but a-t-il été construit ?",
+            "ID": "Lokasi Uji Coba Æther .... Apa tujuan mereka membangunnya?",
+            "IT": "L'Area test dell'Æther... Per cosa l'hanno costruita?",
+            "JP": "超域実験場……それは何のために生まれたのでしょうか？",
+            "KR": "초자연 실험장은... 대체 왜 만들어진 걸까?",
+            "MX": "La Zona de pruebas de éter... ¿Para qué la construyeron?",
+            "RU": "Лаборатория исследования эфира... Для чего ее построили?",
+            "TC": "超域實驗場……它因何而生？",
+            "TH": "พื้นที่​ทดสอบ​เอ​เทอร์​... พวกเขา​สร้าง​ที่นี่​มา​เพื่อ​อะไร​กัน​นะ​?",
+            "VN": "Khu Thử Nghiệm Æther... Họ xây dựng nơi này để làm gì?"
+          },
+          "domainId": "domain_1",
+          "id": "research_007",
+          "index": 6,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Origens do Local de Teste do Æther",
+            "CN": "超域试验场的起源",
+            "DE": "Ursprünge des Æther-Testgeländes",
+            "EN": "Origins of the Æther Test Site",
+            "FR": "Les origines du site d'essais æthériques",
+            "ID": "Asal Lokasi Uji Coba Æther",
+            "IT": "Origini dell'Area test dell'Æther",
+            "JP": "超域実験場設立の経緯",
+            "KR": "초자연 실험장의 기원",
+            "MX": "Orígenes de la Zona de pruebas de éter",
+            "RU": "Создание лаборатории исследования эфира",
+            "TC": "超域實驗場的起源",
+            "TH": "ต้นกำเนิด​ของ​พื้นที่​ทดสอบ​เอ​เทอร์",
+            "VN": "Nguồn Gốc Của Khu Thử Nghiệm Æther"
+          },
+          "rewardId": "reward_prts_research_007",
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research6_1_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_007"
+          }
+        }
+      },
+      "research_002": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_47_1",
+                "nar_paper_map01_48_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Presente da Insanidade",
+                "CN": "癫狂的赠予",
+                "DE": "Geschenk des Wahnsinns",
+                "EN": "Gift of Insanity",
+                "FR": "Don de folie",
+                "ID": "Karunia Gila",
+                "IT": "Dono della follia",
+                "JP": "狂気の贈与",
+                "KR": "광기의 선물",
+                "MX": "El don de la locura",
+                "RU": "Безумный дар",
+                "TC": "癲狂的贈予",
+                "TH": "ของขวัญ​แห่ง​ความบ้า​คลั่ง",
+                "VN": "Món Quà Điên Rồ"
+              },
+              "noteIdList": [
+                "hint_research_002_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_49_1",
+                "nar_paper_map01_53_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Meios de \"Resistência\"",
+                "CN": "“对抗”的手段",
+                "DE": "Mittel des „Widerstands“",
+                "EN": "Means of \"Resistance\"",
+                "FR": "Moyens de « Résistance »",
+                "ID": "Senjata “Perlawanan”",
+                "IT": "Mezzi di \"resistenza\"",
+                "JP": "「対抗」の手段",
+                "KR": "'저항'의 수단",
+                "MX": "Medios de “resistencia”",
+                "RU": "Методы «сопротивления»",
+                "TC": "「對抗」的手段",
+                "TH": "ความหมาย​ของ​ \"การ​ต่อต้าน​\"",
+                "VN": "Ý Nghĩa Của \"Kháng Nhiệt\""
+              },
+              "noteIdList": [
+                "hint_research_002_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_47_1",
+            "nar_paper_map01_48_1",
+            "nar_paper_map01_49_1",
+            "nar_paper_map01_53_1"
+          ],
+          "desc": {
+            "BR": "Entenda o inimigo por dentro, assim como aprendemos sobre nós mesmos.",
+            "CN": "从内部了解敌人……就像了解我们自己一样。",
+            "DE": "Lerne den Gegner von innen heraus kennen, so wie wir uns selbst kennengelernt haben.",
+            "EN": "Understand the enemy from within, just like the way we learned about ourselves.",
+            "FR": "Comprendre l'ennemi de l'intérieur, comme nous avons appris à nous connaître nous-mêmes.",
+            "ID": "Pelajari musuh dari dalam, seperti halnya cara kita memahami diri sendiri.",
+            "IT": "È fondamentale riuscire a entrare nella testa del nemico come se fosse la nostra.",
+            "JP": "敵を内側から知る……まるで我々自身を理解するかのように。",
+            "KR": "적을 내부로부터 이해하는 것은... 곧 우리 자신을 이해하는 것과 같습니다.",
+            "MX": "Comprende al enemigo desde dentro, igual que aprendimos sobre nosotros mismos.",
+            "RU": "Познайте врага так же хорошо, как самих себя.",
+            "TC": "從內部瞭解敵人……就像瞭解我們自己一樣。",
+            "TH": "เข้าใจ​ความคิด​ของ​ศัตรู​ เหมือนกับ​ที่​เรา​เข้าใจ​ตัวเอง",
+            "VN": "Hiểu kẻ thù từ bên trong, cũng giống như cách ta hiểu chính mình."
+          },
+          "domainId": "domain_1",
+          "id": "research_002",
+          "index": 5,
+          "name": {
+            "BR": "O Clã Quebra-Ossos",
+            "CN": "碾骨氏族",
+            "DE": "Der Knochenbrecher-Klan",
+            "EN": "The Bonekrusher Clan",
+            "FR": "Le clan des Broyeurs d'os",
+            "ID": "Klan Bonekrusher",
+            "IT": "Il clan degli Spacca-Ossa",
+            "JP": "ボーンクラッシャー",
+            "KR": "본 크러셔 집단",
+            "MX": "El Clan de los Rompehuesos",
+            "RU": "Клан Костоломов",
+            "TC": "碾骨氏族",
+            "TH": "แคลน​โบน​ค​รัช​เชอร์",
+            "VN": "Tộc Bonekrusher"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research5_5_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_47_1",
+                "nar_paper_map01_48_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Presente da Insanidade",
+                "CN": "癫狂的赠予",
+                "DE": "Geschenk des Wahnsinns",
+                "EN": "Gift of Insanity",
+                "FR": "Don de folie",
+                "ID": "Karunia Gila",
+                "IT": "Dono della follia",
+                "JP": "狂気の贈与",
+                "KR": "광기의 선물",
+                "MX": "El don de la locura",
+                "RU": "Безумный дар",
+                "TC": "癲狂的贈予",
+                "TH": "ของขวัญ​แห่ง​ความบ้า​คลั่ง",
+                "VN": "Món Quà Điên Rồ"
+              },
+              "noteIdList": [
+                "hint_research_002_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_49_1",
+                "nar_paper_map01_53_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Meios de \"Resistência\"",
+                "CN": "“对抗”的手段",
+                "DE": "Mittel des „Widerstands“",
+                "EN": "Means of \"Resistance\"",
+                "FR": "Moyens de « Résistance »",
+                "ID": "Senjata “Perlawanan”",
+                "IT": "Mezzi di \"resistenza\"",
+                "JP": "「対抗」の手段",
+                "KR": "'저항'의 수단",
+                "MX": "Medios de “resistencia”",
+                "RU": "Методы «сопротивления»",
+                "TC": "「對抗」的手段",
+                "TH": "ความหมาย​ของ​ \"การ​ต่อต้าน​\"",
+                "VN": "Ý Nghĩa Của \"Kháng Nhiệt\""
+              },
+              "noteIdList": [
+                "hint_research_002_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_47_1",
+            "nar_paper_map01_48_1",
+            "nar_paper_map01_49_1",
+            "nar_paper_map01_53_1"
+          ],
+          "desc": {
+            "BR": "Entenda o inimigo por dentro, assim como aprendemos sobre nós mesmos.",
+            "CN": "从内部了解敌人……就像了解我们自己一样。",
+            "DE": "Lerne den Gegner von innen heraus kennen, so wie wir uns selbst kennengelernt haben.",
+            "EN": "Understand the enemy from within, just like the way we learned about ourselves.",
+            "FR": "Comprendre l'ennemi de l'intérieur, comme nous avons appris à nous connaître nous-mêmes.",
+            "ID": "Pelajari musuh dari dalam, seperti halnya cara kita memahami diri sendiri.",
+            "IT": "È fondamentale riuscire a entrare nella testa del nemico come se fosse la nostra.",
+            "JP": "敵を内側から知る……まるで我々自身を理解するかのように。",
+            "KR": "적을 내부로부터 이해하는 것은... 곧 우리 자신을 이해하는 것과 같습니다.",
+            "MX": "Comprende al enemigo desde dentro, igual que aprendimos sobre nosotros mismos.",
+            "RU": "Познайте врага так же хорошо, как самих себя.",
+            "TC": "從內部瞭解敵人……就像瞭解我們自己一樣。",
+            "TH": "เข้าใจ​ความคิด​ของ​ศัตรู​ เหมือนกับ​ที่​เรา​เข้าใจ​ตัวเอง",
+            "VN": "Hiểu kẻ thù từ bên trong, cũng giống như cách ta hiểu chính mình."
+          },
+          "domainId": "domain_1",
+          "id": "research_002",
+          "index": 5,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "O Clã Quebra-Ossos",
+            "CN": "碾骨氏族",
+            "DE": "Der Knochenbrecher-Klan",
+            "EN": "The Bonekrusher Clan",
+            "FR": "Le clan des Broyeurs d'os",
+            "ID": "Klan Bonekrusher",
+            "IT": "Il clan degli Spacca-Ossa",
+            "JP": "ボーンクラッシャー",
+            "KR": "본 크러셔 집단",
+            "MX": "El Clan de los Rompehuesos",
+            "RU": "Клан Костоломов",
+            "TC": "碾骨氏族",
+            "TH": "แคลน​โบน​ค​รัช​เชอร์",
+            "VN": "Tộc Bonekrusher"
+          },
+          "rewardId": "reward_prts_research_002",
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research5_5_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_002"
+          }
+        }
+      },
+      "research_006": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_28_1",
+                "nar_digital_map01_29_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Memórias da Equipe",
+                "CN": "工人们的记忆",
+                "DE": "Erinnerungen der Crew",
+                "EN": "Memories of the Crew",
+                "FR": "Souvenirs de l'équipe",
+                "ID": "Ingatan Kru",
+                "IT": "Ricordi dei lavoratori",
+                "JP": "作業員たちの記憶",
+                "KR": "작업자들의 기억",
+                "MX": "Memorias de la tripulación",
+                "RU": "Воспоминания сотрудников",
+                "TC": "工人們的記憶",
+                "TH": "ความทรงจำ​ของ​เจ้าหน้าที่",
+                "VN": "Ký Ức Của Đồng Đội"
+              },
+              "noteIdList": [
+                "hint_research_006_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_37_1",
+                "nar_digital_map01_35_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Resistência no Passado",
+                "CN": "旧日的反抗",
+                "DE": "Widerstand in der Vergangenheit",
+                "EN": "Resistance in the Past",
+                "FR": "Résistance passée",
+                "ID": "Perlawanan pada Masa Lalu",
+                "IT": "Resistenza nel passato",
+                "JP": "在りし日の反抗",
+                "KR": "과거의 대항",
+                "MX": "Resistencia en el pasado",
+                "RU": "Былое сопротивление",
+                "TC": "舊日的反抗",
+                "TH": "การ​ต่อต้าน​ใน​อดีต",
+                "VN": "Sự Phản Kháng Trong Quá Khứ"
+              },
+              "noteIdList": [
+                "hint_research_006_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_28_1",
+            "nar_digital_map01_29_1",
+            "nar_paper_map01_37_1",
+            "nar_digital_map01_35_1"
+          ],
+          "desc": {
+            "BR": "Evidentemente, alguns pesadelos do passado persistem.",
+            "CN": "显然，旧日的梦魇仍未完全消散。",
+            "DE": "Offensichtlich sind einige Albträume aus der Vergangenheit nach wie vor präsent.",
+            "EN": "Evidently, some nightmares from the past have lingered on.",
+            "FR": "Il est évident que certains cauchemars du passé ont persisté.",
+            "ID": "Nyatanya, ada mimpi buruk dari masa lalu yang masih saja membekas.",
+            "IT": "Evidentemente, alcuni incubi dal passato stentano ad andare via.",
+            "JP": "明らかに、旧きの悪夢はまだ完全には消え去っていません。",
+            "KR": "분명한 것은, 과거의 악몽은 아직 완전히 사라지지 않았습니다.",
+            "MX": "Evidentemente, algunas pesadillas del pasado siguen latentes.",
+            "RU": "Очевидно, некоторые кошмары никак не хотят кануть в прошлое.",
+            "TC": "顯然，舊日的夢魘仍未完全消散。",
+            "TH": "เห็นได้ชัด​เลย​ว่า​ฝันร้าย​บางอย่าง​จาก​อดีต​ยังคง​วนเวียน​อยู่",
+            "VN": "Rõ ràng, một vài cơn ác mộng từ quá khứ vẫn còn ám ảnh."
+          },
+          "domainId": "domain_1",
+          "id": "research_006",
+          "index": 4,
+          "name": {
+            "BR": "Pesadelos do Passado",
+            "CN": "旧日梦魇",
+            "DE": "Albträume aus der Vergangenheit",
+            "EN": "Nightmares from the Past",
+            "FR": "Cauchemars du passé",
+            "ID": "Mimpi Buruk dari Masa Lalu",
+            "IT": "Incubi dal passato",
+            "JP": "旧き悪夢",
+            "KR": "과거의 악몽",
+            "MX": "Pesadillas del pasado",
+            "RU": "Кошмары из прошлого",
+            "TC": "舊日夢魘",
+            "TH": "ฝันร้าย​จาก​อดีต",
+            "VN": "Ác Mộng Từ Quá Khứ"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research4_1_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_28_1",
+                "nar_digital_map01_29_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Memórias da Equipe",
+                "CN": "工人们的记忆",
+                "DE": "Erinnerungen der Crew",
+                "EN": "Memories of the Crew",
+                "FR": "Souvenirs de l'équipe",
+                "ID": "Ingatan Kru",
+                "IT": "Ricordi dei lavoratori",
+                "JP": "作業員たちの記憶",
+                "KR": "작업자들의 기억",
+                "MX": "Memorias de la tripulación",
+                "RU": "Воспоминания сотрудников",
+                "TC": "工人們的記憶",
+                "TH": "ความทรงจำ​ของ​เจ้าหน้าที่",
+                "VN": "Ký Ức Của Đồng Đội"
+              },
+              "noteIdList": [
+                "hint_research_006_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_37_1",
+                "nar_digital_map01_35_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Resistência no Passado",
+                "CN": "旧日的反抗",
+                "DE": "Widerstand in der Vergangenheit",
+                "EN": "Resistance in the Past",
+                "FR": "Résistance passée",
+                "ID": "Perlawanan pada Masa Lalu",
+                "IT": "Resistenza nel passato",
+                "JP": "在りし日の反抗",
+                "KR": "과거의 대항",
+                "MX": "Resistencia en el pasado",
+                "RU": "Былое сопротивление",
+                "TC": "舊日的反抗",
+                "TH": "การ​ต่อต้าน​ใน​อดีต",
+                "VN": "Sự Phản Kháng Trong Quá Khứ"
+              },
+              "noteIdList": [
+                "hint_research_006_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_28_1",
+            "nar_digital_map01_29_1",
+            "nar_paper_map01_37_1",
+            "nar_digital_map01_35_1"
+          ],
+          "desc": {
+            "BR": "Evidentemente, alguns pesadelos do passado persistem.",
+            "CN": "显然，旧日的梦魇仍未完全消散。",
+            "DE": "Offensichtlich sind einige Albträume aus der Vergangenheit nach wie vor präsent.",
+            "EN": "Evidently, some nightmares from the past have lingered on.",
+            "FR": "Il est évident que certains cauchemars du passé ont persisté.",
+            "ID": "Nyatanya, ada mimpi buruk dari masa lalu yang masih saja membekas.",
+            "IT": "Evidentemente, alcuni incubi dal passato stentano ad andare via.",
+            "JP": "明らかに、旧きの悪夢はまだ完全には消え去っていません。",
+            "KR": "분명한 것은, 과거의 악몽은 아직 완전히 사라지지 않았습니다.",
+            "MX": "Evidentemente, algunas pesadillas del pasado siguen latentes.",
+            "RU": "Очевидно, некоторые кошмары никак не хотят кануть в прошлое.",
+            "TC": "顯然，舊日的夢魘仍未完全消散。",
+            "TH": "เห็นได้ชัด​เลย​ว่า​ฝันร้าย​บางอย่าง​จาก​อดีต​ยังคง​วนเวียน​อยู่",
+            "VN": "Rõ ràng, một vài cơn ác mộng từ quá khứ vẫn còn ám ảnh."
+          },
+          "domainId": "domain_1",
+          "id": "research_006",
+          "index": 4,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Pesadelos do Passado",
+            "CN": "旧日梦魇",
+            "DE": "Albträume aus der Vergangenheit",
+            "EN": "Nightmares from the Past",
+            "FR": "Cauchemars du passé",
+            "ID": "Mimpi Buruk dari Masa Lalu",
+            "IT": "Incubi dal passato",
+            "JP": "旧き悪夢",
+            "KR": "과거의 악몽",
+            "MX": "Pesadillas del pasado",
+            "RU": "Кошмары из прошлого",
+            "TC": "舊日夢魘",
+            "TH": "ฝันร้าย​จาก​อดีต",
+            "VN": "Ác Mộng Từ Quá Khứ"
+          },
+          "rewardId": "reward_prts_research_006",
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research4_1_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_006"
+          }
+        }
+      },
+      "research_003prts": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_79_1",
+                "nar_paper_map02_81_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Técnicas de Domesticação de Feras",
+                "CN": "驯兽技巧",
+                "DE": "Techniken zur Bestienzähmung",
+                "EN": "Beast Taming Techniques",
+                "FR": "Techniques de dressage des bêtes",
+                "ID": "Teknik Penjinakan Binatang",
+                "IT": "Tecniche di addomesticamento delle bestie",
+                "JP": "調教技術",
+                "KR": "조련 기술",
+                "MX": "Técnicas para domar bestias",
+                "RU": "Техники приручения зверей",
+                "TC": "馴獸技巧",
+                "TH": "เทคนิค​การ​ฝึก​สัตว์ร้าย",
+                "VN": "Kỹ Thuật Thuần Hóa Thú"
+              },
+              "noteIdList": [
+                "hint_research_003prts_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_77_1",
+                "nar_paper_map02_123_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Projeto Geral",
+                "CN": "整体格局",
+                "DE": "Allgemeiner Aufbau",
+                "EN": "Overall Layout",
+                "FR": "Agencement global",
+                "ID": "Tata Letak Keseluruhan",
+                "IT": "Struttura generale",
+                "JP": "全体的な構造",
+                "KR": "전체적인 구조",
+                "MX": "Diseño general",
+                "RU": "Общая планировка",
+                "TC": "整體格局",
+                "TH": "แผนผัง​โดยรวม",
+                "VN": "Bố Cục Tổng Thể"
+              },
+              "noteIdList": [
+                "hint_research_003prts_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_79_1",
+            "nar_paper_map02_81_1",
+            "nar_paper_map02_77_1",
+            "nar_paper_map02_123_1"
+          ],
+          "desc": {
+            "BR": "O que aconteceu quando construíram a Paliçada de Qingbo?",
+            "CN": "清波寨修建时都经历了什么？",
+            "DE": "Was ist passiert, als die Qingbo-Palisade errichtet wurde?",
+            "EN": "What happened when they built Qingbo Stockade?",
+            "FR": "Que s'est-il passé lorsqu'ils ont construit la palanque de Qingbo ?",
+            "ID": "Apa yang terjadi saat mereka membangun Kampung Benteng Qingbo?",
+            "IT": "Cos'è successo durante la costruzione della Palizzata di Qingbo?",
+            "JP": "清波砦が建設されたとき、何があったのか？",
+            "KR": "청파채가 세워질 때는 어떤 일이 발생했을까요?",
+            "MX": "¿Qué pasó cuando construyeron la Empalizada de Qingbo?",
+            "RU": "Что случилось после строительства лагеря Циньбо?",
+            "TC": "清波寨修建時都經歷了什麼？",
+            "TH": "เกิด​อะไร​ขึ้น​ใน​ช่วง​ที่​พวกเขา​สร้าง​ค่าย​ชิง​ป๋อ​?",
+            "VN": "Vậy điều gì đã xảy ra trong quá trình xây dựng Trại Thanh Ba?"
+          },
+          "domainId": "domain_2",
+          "id": "research_003prts",
+          "index": 4,
+          "name": {
+            "BR": "Paliçada de Qingbo",
+            "CN": "清波寨",
+            "DE": "Qingbo-Palisade",
+            "EN": "Qingbo Stockade",
+            "FR": "Palanque de Qingbo",
+            "ID": "Kampung Benteng Qingbo",
+            "IT": "Palizzata di Qingbo",
+            "JP": "清波砦",
+            "KR": "청파채",
+            "MX": "Empalizada de Qingbo",
+            "RU": "Лагерь Циньбо",
+            "TC": "清波寨",
+            "TH": "ค่าย​ชิง​ป๋อ",
+            "VN": "Trại Thanh Ba"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research4_1_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_79_1",
+                "nar_paper_map02_81_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Técnicas de Domesticação de Feras",
+                "CN": "驯兽技巧",
+                "DE": "Techniken zur Bestienzähmung",
+                "EN": "Beast Taming Techniques",
+                "FR": "Techniques de dressage des bêtes",
+                "ID": "Teknik Penjinakan Binatang",
+                "IT": "Tecniche di addomesticamento delle bestie",
+                "JP": "調教技術",
+                "KR": "조련 기술",
+                "MX": "Técnicas para domar bestias",
+                "RU": "Техники приручения зверей",
+                "TC": "馴獸技巧",
+                "TH": "เทคนิค​การ​ฝึก​สัตว์ร้าย",
+                "VN": "Kỹ Thuật Thuần Hóa Thú"
+              },
+              "noteIdList": [
+                "hint_research_003prts_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_77_1",
+                "nar_paper_map02_123_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Projeto Geral",
+                "CN": "整体格局",
+                "DE": "Allgemeiner Aufbau",
+                "EN": "Overall Layout",
+                "FR": "Agencement global",
+                "ID": "Tata Letak Keseluruhan",
+                "IT": "Struttura generale",
+                "JP": "全体的な構造",
+                "KR": "전체적인 구조",
+                "MX": "Diseño general",
+                "RU": "Общая планировка",
+                "TC": "整體格局",
+                "TH": "แผนผัง​โดยรวม",
+                "VN": "Bố Cục Tổng Thể"
+              },
+              "noteIdList": [
+                "hint_research_003prts_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_79_1",
+            "nar_paper_map02_81_1",
+            "nar_paper_map02_77_1",
+            "nar_paper_map02_123_1"
+          ],
+          "desc": {
+            "BR": "O que aconteceu quando construíram a Paliçada de Qingbo?",
+            "CN": "清波寨修建时都经历了什么？",
+            "DE": "Was ist passiert, als die Qingbo-Palisade errichtet wurde?",
+            "EN": "What happened when they built Qingbo Stockade?",
+            "FR": "Que s'est-il passé lorsqu'ils ont construit la palanque de Qingbo ?",
+            "ID": "Apa yang terjadi saat mereka membangun Kampung Benteng Qingbo?",
+            "IT": "Cos'è successo durante la costruzione della Palizzata di Qingbo?",
+            "JP": "清波砦が建設されたとき、何があったのか？",
+            "KR": "청파채가 세워질 때는 어떤 일이 발생했을까요?",
+            "MX": "¿Qué pasó cuando construyeron la Empalizada de Qingbo?",
+            "RU": "Что случилось после строительства лагеря Циньбо?",
+            "TC": "清波寨修建時都經歷了什麼？",
+            "TH": "เกิด​อะไร​ขึ้น​ใน​ช่วง​ที่​พวกเขา​สร้าง​ค่าย​ชิง​ป๋อ​?",
+            "VN": "Vậy điều gì đã xảy ra trong quá trình xây dựng Trại Thanh Ba?"
+          },
+          "domainId": "domain_2",
+          "id": "research_003prts",
+          "index": 4,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Paliçada de Qingbo",
+            "CN": "清波寨",
+            "DE": "Qingbo-Palisade",
+            "EN": "Qingbo Stockade",
+            "FR": "Palanque de Qingbo",
+            "ID": "Kampung Benteng Qingbo",
+            "IT": "Palizzata di Qingbo",
+            "JP": "清波砦",
+            "KR": "청파채",
+            "MX": "Empalizada de Qingbo",
+            "RU": "Лагерь Циньбо",
+            "TC": "清波寨",
+            "TH": "ค่าย​ชิง​ป๋อ",
+            "VN": "Trại Thanh Ba"
+          },
+          "rewardId": "reward_prts_research_003prts",
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research4_1_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_003prts"
+          }
+        }
+      },
+      "research_004prts": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_98_1",
+                "nar_paper_map02_101_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Objetivo da Estação do Reservatório",
+                "CN": "蓄水站的作用",
+                "DE": "Zweck der Reservoirstation",
+                "EN": "Purpose of the Reservoir Station",
+                "FR": "L'objectif de la station du réservoir",
+                "ID": "Tujuan Stasiun Waduk",
+                "IT": "Finalità della Stazione di accumulo idrico",
+                "JP": "貯水施設の役割",
+                "KR": "저수 시설의 역할",
+                "MX": "Propósito de la Estación de embalse",
+                "RU": "Предназначение станции водохранилища",
+                "TC": "蓄水站的作用",
+                "TH": "จุดประสงค์​ของ​สถานี​อ่างเก็บน้ำ",
+                "VN": "Công Dụng Trạm Trữ Nước"
+              },
+              "noteIdList": [
+                "hint_research_004prts_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_98_2",
+                "nar_paper_map02_108_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Como a Pedra de Marcação é afetada pelos veios de água?",
+                "CN": "水脉会对首墩产生怎样的影响？",
+                "DE": "Wie wirken die Wasserläufe sich auf den Grenzstein aus?",
+                "EN": "How is the Marker Stone affected by the water veins?",
+                "FR": "Comment la pierre de marquage est-elle affectée par les veines d'eau ?",
+                "ID": "Apa dampak jalur air terhadap Batu Penanda?",
+                "IT": "In che modo le vene d'acqua influiscono sulla pietra di demarcazione?",
+                "JP": "水脈は首礎にどのような影響を与えるのでしょうか？",
+                "KR": "수맥은 수돈에 어떤 영향을 미치는가?",
+                "MX": "¿Cómo afectan las vetas de agua a la Piedra Marcadora?",
+                "RU": "Как на Межевой камень влияют водные источники?",
+                "TC": "水脈會對首墩產生怎樣的影響？",
+                "TH": "หิน​นำทาง​ได้รับ​ผลกระทบ​อย่างไร​จาก​สายน้ำ​?",
+                "VN": "Đá Ranh Giới liên hệ thế nào với mạch nước?"
+              },
+              "noteIdList": [
+                "hint_research_004prts_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_98_1",
+            "nar_paper_map02_101_1",
+            "nar_paper_map02_98_2",
+            "nar_paper_map02_108_1"
+          ],
+          "desc": {
+            "BR": "Quais são os detalhes envolvidos na construção da Pedra de Marcação?",
+            "CN": "首墩的建设有着怎样的细节？",
+            "DE": "Welche Einzelheiten wissen wir über die Bauweise des Grenzsteins?",
+            "EN": "What details are involved in the construction of the Marker Stone?",
+            "FR": "Quels sont les détails de la construction de la pierre de marquage ?",
+            "ID": "Detail apa saja yang termasuk dalam konstruksi Batu Penanda?",
+            "IT": "Quali sono i dettagli della costruzione della pietra di demarcazione?",
+            "JP": "首礎の建設には、どのような工夫が施されているのでしょうか？",
+            "KR": "수돈의 건설에는 어떤 세부 사항이 있는가?",
+            "MX": "¿Qué detalles intervienen en la construcción de la Piedra Marcadora?",
+            "RU": "Какие особенности учитывались при строительстве Межевого камня?",
+            "TC": "首墩的建設有著怎樣的細節？",
+            "TH": "มี​รายละเอียด​อะไร​บ้าง​ที่​เกี่ยวข้อง​กับ​การ​ก่อสร้าง​หิน​นำทาง​?",
+            "VN": "Quá trình xây dựng Đá Ranh Giới gồm những chi tiết nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_004prts",
+          "index": 5,
+          "name": {
+            "BR": "Área da Pedra de Marcação",
+            "CN": "首墩环境",
+            "DE": "Bereich um den Grenzstein",
+            "EN": "Marker Stone Area",
+            "FR": "Zone de la pierre de marquage",
+            "ID": "Area Batu Penanda",
+            "IT": "Area della pietra di demarcazione",
+            "JP": "首礎の環境",
+            "KR": "수돈의 환경",
+            "MX": "Área de la Piedra Marcadora",
+            "RU": "Район Межевого камня",
+            "TC": "首墩環境",
+            "TH": "พื้นที่​หิน​นำทาง",
+            "VN": "Khu Vực Đá Ranh Giới"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research5_1_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_98_1",
+                "nar_paper_map02_101_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Objetivo da Estação do Reservatório",
+                "CN": "蓄水站的作用",
+                "DE": "Zweck der Reservoirstation",
+                "EN": "Purpose of the Reservoir Station",
+                "FR": "L'objectif de la station du réservoir",
+                "ID": "Tujuan Stasiun Waduk",
+                "IT": "Finalità della Stazione di accumulo idrico",
+                "JP": "貯水施設の役割",
+                "KR": "저수 시설의 역할",
+                "MX": "Propósito de la Estación de embalse",
+                "RU": "Предназначение станции водохранилища",
+                "TC": "蓄水站的作用",
+                "TH": "จุดประสงค์​ของ​สถานี​อ่างเก็บน้ำ",
+                "VN": "Công Dụng Trạm Trữ Nước"
+              },
+              "noteIdList": [
+                "hint_research_004prts_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_98_2",
+                "nar_paper_map02_108_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Como a Pedra de Marcação é afetada pelos veios de água?",
+                "CN": "水脉会对首墩产生怎样的影响？",
+                "DE": "Wie wirken die Wasserläufe sich auf den Grenzstein aus?",
+                "EN": "How is the Marker Stone affected by the water veins?",
+                "FR": "Comment la pierre de marquage est-elle affectée par les veines d'eau ?",
+                "ID": "Apa dampak jalur air terhadap Batu Penanda?",
+                "IT": "In che modo le vene d'acqua influiscono sulla pietra di demarcazione?",
+                "JP": "水脈は首礎にどのような影響を与えるのでしょうか？",
+                "KR": "수맥은 수돈에 어떤 영향을 미치는가?",
+                "MX": "¿Cómo afectan las vetas de agua a la Piedra Marcadora?",
+                "RU": "Как на Межевой камень влияют водные источники?",
+                "TC": "水脈會對首墩產生怎樣的影響？",
+                "TH": "หิน​นำทาง​ได้รับ​ผลกระทบ​อย่างไร​จาก​สายน้ำ​?",
+                "VN": "Đá Ranh Giới liên hệ thế nào với mạch nước?"
+              },
+              "noteIdList": [
+                "hint_research_004prts_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_98_1",
+            "nar_paper_map02_101_1",
+            "nar_paper_map02_98_2",
+            "nar_paper_map02_108_1"
+          ],
+          "desc": {
+            "BR": "Quais são os detalhes envolvidos na construção da Pedra de Marcação?",
+            "CN": "首墩的建设有着怎样的细节？",
+            "DE": "Welche Einzelheiten wissen wir über die Bauweise des Grenzsteins?",
+            "EN": "What details are involved in the construction of the Marker Stone?",
+            "FR": "Quels sont les détails de la construction de la pierre de marquage ?",
+            "ID": "Detail apa saja yang termasuk dalam konstruksi Batu Penanda?",
+            "IT": "Quali sono i dettagli della costruzione della pietra di demarcazione?",
+            "JP": "首礎の建設には、どのような工夫が施されているのでしょうか？",
+            "KR": "수돈의 건설에는 어떤 세부 사항이 있는가?",
+            "MX": "¿Qué detalles intervienen en la construcción de la Piedra Marcadora?",
+            "RU": "Какие особенности учитывались при строительстве Межевого камня?",
+            "TC": "首墩的建設有著怎樣的細節？",
+            "TH": "มี​รายละเอียด​อะไร​บ้าง​ที่​เกี่ยวข้อง​กับ​การ​ก่อสร้าง​หิน​นำทาง​?",
+            "VN": "Quá trình xây dựng Đá Ranh Giới gồm những chi tiết nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_004prts",
+          "index": 5,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Área da Pedra de Marcação",
+            "CN": "首墩环境",
+            "DE": "Bereich um den Grenzstein",
+            "EN": "Marker Stone Area",
+            "FR": "Zone de la pierre de marquage",
+            "ID": "Area Batu Penanda",
+            "IT": "Area della pietra di demarcazione",
+            "JP": "首礎の環境",
+            "KR": "수돈의 환경",
+            "MX": "Área de la Piedra Marcadora",
+            "RU": "Район Межевого камня",
+            "TC": "首墩環境",
+            "TH": "พื้นที่​หิน​นำทาง",
+            "VN": "Khu Vực Đá Ranh Giới"
+          },
+          "rewardId": "reward_prts_research_004prts",
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research5_1_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_004prts"
+          }
+        }
+      },
+      "research_angel": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research3_2_1",
+                "nar_paper_map01_5_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Atividade de Aggelos",
+                "CN": "天使的活动",
+                "DE": "Aggelos-Aktivität",
+                "EN": "Aggelos Activity",
+                "FR": "Activité aggeloïde",
+                "ID": "Aktivitas Aggelos",
+                "IT": "Attività degli Aggeloi",
+                "JP": "アンゲロスの活動",
+                "KR": "아겔로스의 활동",
+                "MX": "Actividad de los Aggelos",
+                "RU": "Активность аггелов",
+                "TC": "天使的活動",
+                "TH": "การเคลื่อนไหว​ของ​แอง​เกลอ​ย",
+                "VN": "Hoạt Động Aggeloi"
+              },
+              "noteIdList": [
+                "hint_research_angel_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research3_4_1",
+                "nar_paper_map01_research3_3_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Pesquisa de um Aggeologista Amador",
+                "CN": "对天使的业余研究",
+                "DE": "Forschung eines Amateur-Aggelologen",
+                "EN": "Research by an Amateur Aggelologist",
+                "FR": "Recherches d'un aggelologue amateur",
+                "ID": "Penelitian Aggelolog Amatir",
+                "IT": "Ricerche di un aggelologista amatoriale",
+                "JP": "アンゲロスに関する非公式研究",
+                "KR": "아겔로스에 대한 비전문적 연구",
+                "MX": "Investigación de un aggelólogo aficionado",
+                "RU": "Исследование аггеолога-любителя",
+                "TC": "對天使的業餘研究",
+                "TH": "ผลงานวิจัย​โดย​นัก​แอง​เกลอ​ย​วิทยา​สมัครเล่น",
+                "VN": "Nghiên Cứu Của Người Nghiên Cứu Aggeloi Nghiệp Dư"
+              },
+              "noteIdList": [
+                "hint_research_angel_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_research3_2_1",
+            "nar_paper_map01_5_1",
+            "nar_paper_map01_research3_4_1",
+            "nar_paper_map01_research3_3_1"
+          ],
+          "desc": {
+            "BR": "Inimigos cabeças duras, mas simples.",
+            "CN": "顽固而简单的敌人。",
+            "DE": "Hartnäckige, aber schwache Gegner.",
+            "EN": "Hard headed yet simple enemies.",
+            "FR": "Des ennemis tenaces, mais primitifs.",
+            "ID": "Musuh keras kepala, tapi gampang dikalahkan.",
+            "IT": "Nemici dalla testa dura, ma non particolarmente complessi.",
+            "JP": "行動パターンが一定のしぶとい敵。",
+            "KR": "집요하고 단순한 적.",
+            "MX": "Enemigos testarudos pero simples.",
+            "RU": "Укрепленные враги, но победить их просто.",
+            "TC": "頑固而簡單的敵人。",
+            "TH": "ศัตรู​ที่​หัวแข็ง​แต่​ก็​เล่น​ด้วย​ไม่ยาก",
+            "VN": "Kẻ địch cứng đầu nhưng dễ đối phó."
+          },
+          "domainId": "domain_1",
+          "id": "research_angel",
+          "index": 3,
+          "name": {
+            "BR": "Aggeloi",
+            "CN": "天使",
+            "DE": "Aggelos",
+            "EN": "Aggelos",
+            "FR": "Aggelos",
+            "ID": "Aggelos",
+            "IT": "Aggelos",
+            "JP": "アンゲロス",
+            "KR": "아겔로스",
+            "MX": "Aggelos",
+            "RU": "Аггелы",
+            "TC": "天使",
+            "TH": "แอง​เกลอ​ย",
+            "VN": "Aggeloi"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research3_5_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research3_2_1",
+                "nar_paper_map01_5_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Atividade de Aggelos",
+                "CN": "天使的活动",
+                "DE": "Aggelos-Aktivität",
+                "EN": "Aggelos Activity",
+                "FR": "Activité aggeloïde",
+                "ID": "Aktivitas Aggelos",
+                "IT": "Attività degli Aggeloi",
+                "JP": "アンゲロスの活動",
+                "KR": "아겔로스의 활동",
+                "MX": "Actividad de los Aggelos",
+                "RU": "Активность аггелов",
+                "TC": "天使的活動",
+                "TH": "การเคลื่อนไหว​ของ​แอง​เกลอ​ย",
+                "VN": "Hoạt Động Aggeloi"
+              },
+              "noteIdList": [
+                "hint_research_angel_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research3_4_1",
+                "nar_paper_map01_research3_3_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Pesquisa de um Aggeologista Amador",
+                "CN": "对天使的业余研究",
+                "DE": "Forschung eines Amateur-Aggelologen",
+                "EN": "Research by an Amateur Aggelologist",
+                "FR": "Recherches d'un aggelologue amateur",
+                "ID": "Penelitian Aggelolog Amatir",
+                "IT": "Ricerche di un aggelologista amatoriale",
+                "JP": "アンゲロスに関する非公式研究",
+                "KR": "아겔로스에 대한 비전문적 연구",
+                "MX": "Investigación de un aggelólogo aficionado",
+                "RU": "Исследование аггеолога-любителя",
+                "TC": "對天使的業餘研究",
+                "TH": "ผลงานวิจัย​โดย​นัก​แอง​เกลอ​ย​วิทยา​สมัครเล่น",
+                "VN": "Nghiên Cứu Của Người Nghiên Cứu Aggeloi Nghiệp Dư"
+              },
+              "noteIdList": [
+                "hint_research_angel_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_research3_2_1",
+            "nar_paper_map01_5_1",
+            "nar_paper_map01_research3_4_1",
+            "nar_paper_map01_research3_3_1"
+          ],
+          "desc": {
+            "BR": "Inimigos cabeças duras, mas simples.",
+            "CN": "顽固而简单的敌人。",
+            "DE": "Hartnäckige, aber schwache Gegner.",
+            "EN": "Hard headed yet simple enemies.",
+            "FR": "Des ennemis tenaces, mais primitifs.",
+            "ID": "Musuh keras kepala, tapi gampang dikalahkan.",
+            "IT": "Nemici dalla testa dura, ma non particolarmente complessi.",
+            "JP": "行動パターンが一定のしぶとい敵。",
+            "KR": "집요하고 단순한 적.",
+            "MX": "Enemigos testarudos pero simples.",
+            "RU": "Укрепленные враги, но победить их просто.",
+            "TC": "頑固而簡單的敵人。",
+            "TH": "ศัตรู​ที่​หัวแข็ง​แต่​ก็​เล่น​ด้วย​ไม่ยาก",
+            "VN": "Kẻ địch cứng đầu nhưng dễ đối phó."
+          },
+          "domainId": "domain_1",
+          "id": "research_angel",
+          "index": 3,
+          "investigateAreaDesc": {
+            "BR": "Tudo pode ser comprado de: Cenoura da Sorte em Vale IV",
+            "CN": "在四号谷地幸运萝卜处可购买齐全。",
+            "DE": "Es ist alles zum Kaufen bei: Glückskarotte in Tal IV",
+            "EN": "All can be purchased from: Lucky Carrot at Valley IV",
+            "FR": "Tout est disponible à l'achat auprès de : Carotte porte-bonheur, dans la Vallée-IV",
+            "ID": "Semua bisa dibeli dari: Wortel Hoki di Lembah IV",
+            "IT": "Tutto può essere acquistato da Carota fortunata a Valle IV",
+            "JP": "四号谷地ラッキーキャロットから一式を購入可能。",
+            "KR": "4번 협곡의 행운의 당근에게서 모든 품목을 구매할 수 있습니다.",
+            "MX": "Todo se puede comprar en: Zanahoria de la suerte en el Valle IV",
+            "RU": "Все товары можно купить у Морковки удачи в Долине IV",
+            "TC": "在四號谷地幸運蘿蔔處可購買齊全。",
+            "TH": "ทุกอย่าง​สามารถ​ซื้อ​ได้​จาก​: แครอท​นำโชค​ที่​หุบเขา​ IV",
+            "VN": "Có thể mua tất cả từ: Cà Rốt May Mắn tại Thung Lũng IV"
+          },
+          "name": {
+            "BR": "Aggeloi",
+            "CN": "天使",
+            "DE": "Aggelos",
+            "EN": "Aggelos",
+            "FR": "Aggelos",
+            "ID": "Aggelos",
+            "IT": "Aggelos",
+            "JP": "アンゲロス",
+            "KR": "아겔로스",
+            "MX": "Aggelos",
+            "RU": "Аггелы",
+            "TC": "天使",
+            "TH": "แอง​เกลอ​ย",
+            "VN": "Aggeloi"
+          },
+          "rewardId": "reward_prts_research_angel",
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research3_5_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": "8158619948034491707",
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_angel"
+          }
+        }
+      },
+      "research_WulingBussiness": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_27_1",
+                "nar_paper_map02_29_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Antigas Tradições e Novidades",
+                "CN": "悠久与新潮",
+                "DE": "Alte Traditionen und Neuheiten",
+                "EN": "Old Traditions and Novelties",
+                "FR": "Entre tradition et modernité",
+                "ID": "Tradisi Lama dan Inovasi Baru",
+                "IT": "Antiche tradizioni e novità",
+                "JP": "悠久と流行",
+                "KR": "전통과 유행",
+                "MX": "Viejas tradiciones y novedades",
+                "RU": "Традиции и новшества",
+                "TC": "悠久與新潮",
+                "TH": "ธรรมเนียม​เก่าแก่​และ​สิ่งแปลกใหม่",
+                "VN": "Truyền Thống Cũ Và Sự Mới Lạ"
+              },
+              "noteIdList": [
+                "hint_research_WulingBussiness_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_32_1",
+                "nar_paper_map02_60_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Dentro e Fora da Cidade",
+                "CN": "城内与城外",
+                "DE": "Innerhalb und außerhalb der Stadt",
+                "EN": "Inside and Outside the City",
+                "FR": "Dans et hors de la ville",
+                "ID": "Di Dalam dan di Luar Kota",
+                "IT": "Fuori e dentro la città",
+                "JP": "城内と城外",
+                "KR": "성 안과 성 밖",
+                "MX": "Dentro y fuera de la ciudad",
+                "RU": "В городе и за его пределами",
+                "TC": "城內與城外",
+                "TH": "ด้านใน​และ​ด้านนอก​เมือง",
+                "VN": "Bên Trong Và Bên Ngoài Thành Phố"
+              },
+              "noteIdList": [
+                "hint_research_WulingBussiness_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_27_1",
+            "nar_paper_map02_29_1",
+            "nar_paper_map02_32_1",
+            "nar_paper_map02_60_1"
+          ],
+          "desc": {
+            "BR": "Como a Avenida Fangxing surgiu?",
+            "CN": "方兴衢因何而生？",
+            "DE": "Wie ist die Fangxing-Straße entstanden?",
+            "EN": "How did Fangxing Avenue come into existence?",
+            "FR": "Comment l'avenue Fangxing en est-elle venue à exister ?",
+            "ID": "Bagaimana awal mula berdirinya Jalan Lebar Fangxing?",
+            "IT": "Come è nato Viale Fangxing?",
+            "JP": "方興街はいかにして生まれたのでしょうか？",
+            "KR": "방흥거리는 어떤 이유로 생겨난 것인가?",
+            "MX": "¿Cómo surgió la Avenida Fangxing?",
+            "RU": "Как появилась улица Фансин?",
+            "TC": "方興衢因何而生？",
+            "TH": "ถนน​ฟาง​ซิง​ก่อตั้ง​ขึ้น​ได้​อย่างไร​?",
+            "VN": "Đại Lộ Phương Hưng đã ra đời như thế nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_WulingBussiness",
+          "index": 2,
+          "name": {
+            "BR": "Avenida Fangxing",
+            "CN": "方兴衢",
+            "DE": "Fangxing-Straße",
+            "EN": "Fangxing Avenue",
+            "FR": "Avenue Fangxing",
+            "ID": "Jalan Lebar Fangxing",
+            "IT": "Viale Fangxing",
+            "JP": "方興街",
+            "KR": "방흥거리",
+            "MX": "Avenida Fangxing",
+            "RU": "Улица Фансин",
+            "TC": "方興衢",
+            "TH": "ถนน​ฟาง​ซิง",
+            "VN": "Đại Lộ Phương Hưng"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research2_1_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_27_1",
+                "nar_paper_map02_29_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Antigas Tradições e Novidades",
+                "CN": "悠久与新潮",
+                "DE": "Alte Traditionen und Neuheiten",
+                "EN": "Old Traditions and Novelties",
+                "FR": "Entre tradition et modernité",
+                "ID": "Tradisi Lama dan Inovasi Baru",
+                "IT": "Antiche tradizioni e novità",
+                "JP": "悠久と流行",
+                "KR": "전통과 유행",
+                "MX": "Viejas tradiciones y novedades",
+                "RU": "Традиции и новшества",
+                "TC": "悠久與新潮",
+                "TH": "ธรรมเนียม​เก่าแก่​และ​สิ่งแปลกใหม่",
+                "VN": "Truyền Thống Cũ Và Sự Mới Lạ"
+              },
+              "noteIdList": [
+                "hint_research_WulingBussiness_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_32_1",
+                "nar_paper_map02_60_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Dentro e Fora da Cidade",
+                "CN": "城内与城外",
+                "DE": "Innerhalb und außerhalb der Stadt",
+                "EN": "Inside and Outside the City",
+                "FR": "Dans et hors de la ville",
+                "ID": "Di Dalam dan di Luar Kota",
+                "IT": "Fuori e dentro la città",
+                "JP": "城内と城外",
+                "KR": "성 안과 성 밖",
+                "MX": "Dentro y fuera de la ciudad",
+                "RU": "В городе и за его пределами",
+                "TC": "城內與城外",
+                "TH": "ด้านใน​และ​ด้านนอก​เมือง",
+                "VN": "Bên Trong Và Bên Ngoài Thành Phố"
+              },
+              "noteIdList": [
+                "hint_research_WulingBussiness_2_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_27_1",
+            "nar_paper_map02_29_1",
+            "nar_paper_map02_32_1",
+            "nar_paper_map02_60_1"
+          ],
+          "desc": {
+            "BR": "Como a Avenida Fangxing surgiu?",
+            "CN": "方兴衢因何而生？",
+            "DE": "Wie ist die Fangxing-Straße entstanden?",
+            "EN": "How did Fangxing Avenue come into existence?",
+            "FR": "Comment l'avenue Fangxing en est-elle venue à exister ?",
+            "ID": "Bagaimana awal mula berdirinya Jalan Lebar Fangxing?",
+            "IT": "Come è nato Viale Fangxing?",
+            "JP": "方興街はいかにして生まれたのでしょうか？",
+            "KR": "방흥거리는 어떤 이유로 생겨난 것인가?",
+            "MX": "¿Cómo surgió la Avenida Fangxing?",
+            "RU": "Как появилась улица Фансин?",
+            "TC": "方興衢因何而生？",
+            "TH": "ถนน​ฟาง​ซิง​ก่อตั้ง​ขึ้น​ได้​อย่างไร​?",
+            "VN": "Đại Lộ Phương Hưng đã ra đời như thế nào?"
+          },
+          "domainId": "domain_2",
+          "id": "research_WulingBussiness",
+          "index": 2,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Avenida Fangxing",
+            "CN": "方兴衢",
+            "DE": "Fangxing-Straße",
+            "EN": "Fangxing Avenue",
+            "FR": "Avenue Fangxing",
+            "ID": "Jalan Lebar Fangxing",
+            "IT": "Viale Fangxing",
+            "JP": "方興街",
+            "KR": "방흥거리",
+            "MX": "Avenida Fangxing",
+            "RU": "Улица Фансин",
+            "TC": "方興衢",
+            "TH": "ถนน​ฟาง​ซิง",
+            "VN": "Đại Lộ Phương Hưng"
+          },
+          "rewardId": "reward_prts_research_WulingBussiness",
+          "type": 0,
+          "unlockPrts": "nar_report_map02_research2_1_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_WulingBussiness"
+          }
+        }
+      },
+      "research_f1m9d1": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research2_1_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Análise das pistas deixadas na cena",
+                "CN": "现场遗留线索的分析",
+                "DE": "Analyse der am Ereignisort gefundenen Hinweise",
+                "EN": "Analysis of clues left at the scene",
+                "FR": "Analyse des indices laissés sur place",
+                "ID": "Analisis petunjuk yang ditemukan di lokasi",
+                "IT": "Analisi degli indizi sulla scena",
+                "JP": "現場に残された手がかりの分析",
+                "KR": "현장에 남겨진 단서에 대한 분석",
+                "MX": "Análisis de las pistas dejadas en el lugar de los hechos",
+                "RU": "Анализ зацепок, найденных на месте",
+                "TC": "現場遺留線索的分析",
+                "TH": "การ​วิเคราะห์​เบาะแส​ที่​หลงเหลือ​อยู่​ใน​ที่เกิดเหตุ",
+                "VN": "Phân tích các manh mối để lại tại hiện trường"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_collection_map01_research2_2_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Relatório de Observação de Dispositivos Transportados",
+                "CN": "携带设备情况观察报告",
+                "DE": "Bericht über die Überwachung der mitgeführten Geräte",
+                "EN": "Carried Devices Observation Report",
+                "FR": "Rapport d'observation sur l'équipement transporté",
+                "ID": "Laporan Pengamatan Perangkat yang Dibawa",
+                "IT": "Rapporto di osservazione dei dispositivi trasportati",
+                "JP": "通信機に関する状況報告",
+                "KR": "설비 휴대 상황 관찰 보고서",
+                "MX": "Informe de observación de dispositivos transportados",
+                "RU": "Отчет об отслеживании переносных устройств",
+                "TC": "攜帶的設備狀況觀察報告",
+                "TH": "รายงาน​การ​สังเกตการณ์​อุปกรณ์​ที่​พกพา",
+                "VN": "Báo Cáo Quan Sát Thiết Bị Mang Theo"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_2_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research2_3_1"
+              ],
+              "index": 3,
+              "name": {
+                "BR": "Relatório de Análise de Notas de Investigação",
+                "CN": "针对调查笔记的分析报告",
+                "DE": "Analysebericht zu den Ermittlungsnotizen",
+                "EN": "Analysis Report on Investigation Notes",
+                "FR": "Rapport d'analyse du compte-rendu d'enquête",
+                "ID": "Laporan Analisis Catatan Penyelidikan",
+                "IT": "Rapporto di analisi delle note di indagine",
+                "JP": "調査記録についての分析報告",
+                "KR": "노트에 대한 조사 분석 보고서",
+                "MX": "Informe de análisis de los apuntes de investigación",
+                "RU": "Анализ заметок о расследовании",
+                "TC": "針對調查筆記的分析報告",
+                "TH": "รายงาน​การ​วิเคราะห์​บันทึก​การสืบสวน",
+                "VN": "Báo Cáo Phân Tích Về Ghi Chú Điều Tra"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_3_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_report_map01_research2_4_1"
+              ],
+              "index": 4,
+              "name": {
+                "BR": "Análise de Sinais Suspeitos do STUT Emitidos de Territórios Ocupados por Invasores de Terras",
+                "CN": "裂地者控制区内疑似工团成员的信号分析",
+                "DE": "Analyse verdächtiger Signale von GBT-Crewmitgliedern, die aus von Landbrechern besetzten Gebieten gesendet wurden",
+                "EN": "Analysis of Suspect UWST Crew Mate Signals Emitted from Landbreaker-Occupied Territories",
+                "FR": "Analyse de signaux suspects envoyés par un membre du STUT depuis des territoires occupés par les Brise-Terres",
+                "ID": "Analisis Sinyal Rekan UWST dari Area Landbreaker",
+                "IT": "Analisi dei segnali sospetti dei membri dell'USLT emessi dai territori occupati dai Fenditerra",
+                "JP": "敵制御区域における工業団員のものと思われる信号の分析",
+                "KR": "랜드브레이커 제어 구역 내 공단 직원 구조 신호 분석",
+                "MX": "Análisis de señales sospechosas emitidas por miembros de la tripulación de los S.T.U.T. en territorios ocupados por Rompesuelos",
+                "RU": "Анализ подозрительных сигналов персонала СОРТ с территории под контролем Землекрушителей",
+                "TC": "裂地者控制區內疑似工團成員的訊號分析",
+                "TH": "บทวิเคราะห์​สัญญาณ​ลูกเรือ​ UWST ต้องสงสัย​ที่​ส่ง​มาจาก​พื้นที่​ที่​แลนด์​เบรก​เกอร์​ยึดครอง",
+                "VN": "Phân Tích Tín hiệu Đáng Ngờ Phát Ra Từ Thành Viên Công Đoàn ở Khu Vực Bị Landbreaker Chiếm Đóng"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_4_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_research2_1_1",
+            "nar_collection_map01_research2_2_1",
+            "nar_paper_map01_research2_3_1",
+            "nar_report_map01_research2_4_1"
+          ],
+          "desc": {
+            "BR": "Resumo sobre os desaparecidos Olga, Rameld e Pavel da Estação Infra.",
+            "CN": "关于基建前站失踪避难者奥莉加、拉梅尔德、帕维尔的信息汇总。",
+            "DE": "Zusammenfassung über die vermissten Evakuierten der Infra-Station: Olga, Rameld und Pavel.",
+            "EN": "Summary regarding missing evacuees Olga, Rameld, and Pavel from the Infra-Station.",
+            "FR": "Résumé concernant les sinistrés de l'infrastation disparus : Olga, Rameld et Pavel.",
+            "ID": "Ringkasan tentang orang hilang: Olga, Rameld, dan Pavel, dari Stasiun Infrastruktur.",
+            "IT": "Sommario sugli sfollati dispersi Olga, Rameld e Pavel, dell'Infra-Stazione.",
+            "JP": "建設基地の行方不明者オルガ、ラメルド、パベルに関する情報のまとめ。",
+            "KR": "기초 건설 주둔지의 실종자 올리가, 라메르드, 파벨에 대한 정보 종합.",
+            "MX": "Resumen sobre los evacuados desaparecidos Olga, Rameld y Pavel de la Infraestación.",
+            "RU": "Сводка касательно местонахождения пропавших эвакуированных с инфрастанции: Ольги, Рамельда и Павла.",
+            "TC": "關於基建前站失蹤避難者奧莉加、拉梅爾德、帕維爾的資料匯總。",
+            "TH": "สรุป​เกี่ยวกับ​บุคคล​อพยพ​ที่​สูญหาย​ ได้แก่​ โอล​กา​ รา​เมล​ด์​ และ​พา​เวล​จาก​สถานี​อิน​ฟรา",
+            "VN": "Tóm tắt về những người sơ tán bị mất tích Olga, Rameld và Pavel từ Trạm Hạ Tầng."
+          },
+          "domainId": "domain_1",
+          "id": "research_f1m9d1",
+          "index": 2,
+          "name": {
+            "BR": "Resumo de Busca e Resgate da Estação Infra",
+            "CN": "基建前站搜救信息",
+            "DE": "Besprechung des Infra-Station-Rettungsteams",
+            "EN": "Infra-Station Search and Rescue Brief",
+            "FR": "Récapitulatif des opérations de R&S de l'infrastation",
+            "ID": "Ringkasan SAR Stasiun Infra",
+            "IT": "Rapporto di ricerca e soccorso dell'Infra-Stazione",
+            "JP": "建設基地救助情報",
+            "KR": "기초 건설 주둔지 구조 정보",
+            "MX": "Resumen de búsqueda y rescate de la Infraestación",
+            "RU": "Краткий отчет отряда спасения на инфрастанции",
+            "TC": "基建前站搜救資料",
+            "TH": "รายงานสรุป​การ​ค้นหา​และ​กู้ภัย​สถานี​อิน​ฟรา",
+            "VN": "Tóm Tắt Tìm Kiếm Và Cứu Nạn Trạm Hạ Tầng"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research2_5_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research2_1_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Análise das pistas deixadas na cena",
+                "CN": "现场遗留线索的分析",
+                "DE": "Analyse der am Ereignisort gefundenen Hinweise",
+                "EN": "Analysis of clues left at the scene",
+                "FR": "Analyse des indices laissés sur place",
+                "ID": "Analisis petunjuk yang ditemukan di lokasi",
+                "IT": "Analisi degli indizi sulla scena",
+                "JP": "現場に残された手がかりの分析",
+                "KR": "현장에 남겨진 단서에 대한 분석",
+                "MX": "Análisis de las pistas dejadas en el lugar de los hechos",
+                "RU": "Анализ зацепок, найденных на месте",
+                "TC": "現場遺留線索的分析",
+                "TH": "การ​วิเคราะห์​เบาะแส​ที่​หลงเหลือ​อยู่​ใน​ที่เกิดเหตุ",
+                "VN": "Phân tích các manh mối để lại tại hiện trường"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_collection_map01_research2_2_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Relatório de Observação de Dispositivos Transportados",
+                "CN": "携带设备情况观察报告",
+                "DE": "Bericht über die Überwachung der mitgeführten Geräte",
+                "EN": "Carried Devices Observation Report",
+                "FR": "Rapport d'observation sur l'équipement transporté",
+                "ID": "Laporan Pengamatan Perangkat yang Dibawa",
+                "IT": "Rapporto di osservazione dei dispositivi trasportati",
+                "JP": "通信機に関する状況報告",
+                "KR": "설비 휴대 상황 관찰 보고서",
+                "MX": "Informe de observación de dispositivos transportados",
+                "RU": "Отчет об отслеживании переносных устройств",
+                "TC": "攜帶的設備狀況觀察報告",
+                "TH": "รายงาน​การ​สังเกตการณ์​อุปกรณ์​ที่​พกพา",
+                "VN": "Báo Cáo Quan Sát Thiết Bị Mang Theo"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_2_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research2_3_1"
+              ],
+              "index": 3,
+              "name": {
+                "BR": "Relatório de Análise de Notas de Investigação",
+                "CN": "针对调查笔记的分析报告",
+                "DE": "Analysebericht zu den Ermittlungsnotizen",
+                "EN": "Analysis Report on Investigation Notes",
+                "FR": "Rapport d'analyse du compte-rendu d'enquête",
+                "ID": "Laporan Analisis Catatan Penyelidikan",
+                "IT": "Rapporto di analisi delle note di indagine",
+                "JP": "調査記録についての分析報告",
+                "KR": "노트에 대한 조사 분석 보고서",
+                "MX": "Informe de análisis de los apuntes de investigación",
+                "RU": "Анализ заметок о расследовании",
+                "TC": "針對調查筆記的分析報告",
+                "TH": "รายงาน​การ​วิเคราะห์​บันทึก​การสืบสวน",
+                "VN": "Báo Cáo Phân Tích Về Ghi Chú Điều Tra"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_3_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_report_map01_research2_4_1"
+              ],
+              "index": 4,
+              "name": {
+                "BR": "Análise de Sinais Suspeitos do STUT Emitidos de Territórios Ocupados por Invasores de Terras",
+                "CN": "裂地者控制区内疑似工团成员的信号分析",
+                "DE": "Analyse verdächtiger Signale von GBT-Crewmitgliedern, die aus von Landbrechern besetzten Gebieten gesendet wurden",
+                "EN": "Analysis of Suspect UWST Crew Mate Signals Emitted from Landbreaker-Occupied Territories",
+                "FR": "Analyse de signaux suspects envoyés par un membre du STUT depuis des territoires occupés par les Brise-Terres",
+                "ID": "Analisis Sinyal Rekan UWST dari Area Landbreaker",
+                "IT": "Analisi dei segnali sospetti dei membri dell'USLT emessi dai territori occupati dai Fenditerra",
+                "JP": "敵制御区域における工業団員のものと思われる信号の分析",
+                "KR": "랜드브레이커 제어 구역 내 공단 직원 구조 신호 분석",
+                "MX": "Análisis de señales sospechosas emitidas por miembros de la tripulación de los S.T.U.T. en territorios ocupados por Rompesuelos",
+                "RU": "Анализ подозрительных сигналов персонала СОРТ с территории под контролем Землекрушителей",
+                "TC": "裂地者控制區內疑似工團成員的訊號分析",
+                "TH": "บทวิเคราะห์​สัญญาณ​ลูกเรือ​ UWST ต้องสงสัย​ที่​ส่ง​มาจาก​พื้นที่​ที่​แลนด์​เบรก​เกอร์​ยึดครอง",
+                "VN": "Phân Tích Tín hiệu Đáng Ngờ Phát Ra Từ Thành Viên Công Đoàn ở Khu Vực Bị Landbreaker Chiếm Đóng"
+              },
+              "noteIdList": [
+                "hint_research_f1m9d1_4_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map01_research2_1_1",
+            "nar_collection_map01_research2_2_1",
+            "nar_paper_map01_research2_3_1",
+            "nar_report_map01_research2_4_1"
+          ],
+          "desc": {
+            "BR": "Resumo sobre os desaparecidos Olga, Rameld e Pavel da Estação Infra.",
+            "CN": "关于基建前站失踪避难者奥莉加、拉梅尔德、帕维尔的信息汇总。",
+            "DE": "Zusammenfassung über die vermissten Evakuierten der Infra-Station: Olga, Rameld und Pavel.",
+            "EN": "Summary regarding missing evacuees Olga, Rameld, and Pavel from the Infra-Station.",
+            "FR": "Résumé concernant les sinistrés de l'infrastation disparus : Olga, Rameld et Pavel.",
+            "ID": "Ringkasan tentang orang hilang: Olga, Rameld, dan Pavel, dari Stasiun Infrastruktur.",
+            "IT": "Sommario sugli sfollati dispersi Olga, Rameld e Pavel, dell'Infra-Stazione.",
+            "JP": "建設基地の行方不明者オルガ、ラメルド、パベルに関する情報のまとめ。",
+            "KR": "기초 건설 주둔지의 실종자 올리가, 라메르드, 파벨에 대한 정보 종합.",
+            "MX": "Resumen sobre los evacuados desaparecidos Olga, Rameld y Pavel de la Infraestación.",
+            "RU": "Сводка касательно местонахождения пропавших эвакуированных с инфрастанции: Ольги, Рамельда и Павла.",
+            "TC": "關於基建前站失蹤避難者奧莉加、拉梅爾德、帕維爾的資料匯總。",
+            "TH": "สรุป​เกี่ยวกับ​บุคคล​อพยพ​ที่​สูญหาย​ ได้แก่​ โอล​กา​ รา​เมล​ด์​ และ​พา​เวล​จาก​สถานี​อิน​ฟรา",
+            "VN": "Tóm tắt về những người sơ tán bị mất tích Olga, Rameld và Pavel từ Trạm Hạ Tầng."
+          },
+          "domainId": "domain_1",
+          "id": "research_f1m9d1",
+          "index": 2,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Resumo de Busca e Resgate da Estação Infra",
+            "CN": "基建前站搜救信息",
+            "DE": "Besprechung des Infra-Station-Rettungsteams",
+            "EN": "Infra-Station Search and Rescue Brief",
+            "FR": "Récapitulatif des opérations de R&S de l'infrastation",
+            "ID": "Ringkasan SAR Stasiun Infra",
+            "IT": "Rapporto di ricerca e soccorso dell'Infra-Stazione",
+            "JP": "建設基地救助情報",
+            "KR": "기초 건설 주둔지 구조 정보",
+            "MX": "Resumen de búsqueda y rescate de la Infraestación",
+            "RU": "Краткий отчет отряда спасения на инфрастанции",
+            "TC": "基建前站搜救資料",
+            "TH": "รายงานสรุป​การ​ค้นหา​และ​กู้ภัย​สถานี​อิน​ฟรา",
+            "VN": "Tóm Tắt Tìm Kiếm Và Cứu Nạn Trạm Hạ Tầng"
+          },
+          "rewardId": "reward_prts_research_f1m9d1",
+          "type": 0,
+          "unlockPrts": "nar_report_map01_research2_5_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_f1m9d1"
+          }
+        }
+      },
+      "research_landbreakerMurder": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_digital_map01_research1_1_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Relatório: A Base",
+                "CN": "枢纽区报告",
+                "DE": "Bericht: Der Hub",
+                "EN": "Report: The Hub",
+                "FR": "Rapport : le Hub",
+                "ID": "Laporan: Hub",
+                "IT": "Rapporto: Polo centrale",
+                "JP": "中枢エリアの報告書",
+                "KR": "거점 지역 보고서",
+                "MX": "Informe: La Base",
+                "RU": "Отчет: Центр",
+                "TC": "樞紐區報告",
+                "TH": "รายงาน​: ศูนย์​ส่วนกลาง",
+                "VN": "Báo Cáo: Trung Tâm"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_report_map01_research1_10_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Relatório: Pedreira de Aburrey",
+                "CN": "阿伯莉采石场报告",
+                "DE": "Bericht: Aburrey-Steinbruch",
+                "EN": "Report: Aburrey Quarry",
+                "FR": "Rapport : carrière d'Aburrey",
+                "ID": "Laporan: Tambang Batu Aburrey",
+                "IT": "Rapporto: Cava di Aburrey",
+                "JP": "アブリー採石場の報告書",
+                "KR": "아부레이 채석장 보고서",
+                "MX": "Informe: Cantera Aburrey",
+                "RU": "Отчет: карьер Эберрей",
+                "TC": "阿伯莉採石場報告",
+                "TH": "รายงาน​: เหมือง​หิน​อ​เบอร์​เรย์",
+                "VN": "Báo Cáo: Mỏ Đá Aburrey"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_2_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research1_2_1"
+              ],
+              "index": 3,
+              "name": {
+                "BR": "Relatório: Veio de Origin",
+                "CN": "矿脉源区报告",
+                "DE": "Bericht: Mineralquell",
+                "EN": "Report: Origin Lodespring",
+                "FR": "Rapport : Veine originelle",
+                "ID": "Laporan: Lodespring Asal",
+                "IT": "Rapporto: Giacimento originario",
+                "JP": "鉱山エリアの報告書",
+                "KR": "광맥 구역 보고서",
+                "MX": "Informe: Veta de origen",
+                "RU": "Отчет: Первое месторождение",
+                "TC": "礦脈源區報告",
+                "TH": "รายงาน​: ต้นสาย​กำเนิด​แร่",
+                "VN": "Báo Cáo: Khởi Nguồn Lodespring"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_3_3"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_digital_map01_research1_16_1"
+              ],
+              "index": 4,
+              "name": {
+                "BR": "Relatório: Platô de Energia",
+                "CN": "供能高地报告",
+                "DE": "Bericht: Energieplateau",
+                "EN": "Report: Power Plateau",
+                "FR": "Rapport : plateau électrique",
+                "ID": "Laporan: Dataran Tinggi Daya",
+                "IT": "Rapporto: Altopiano elettrico",
+                "JP": "エネルギー高地の報告書",
+                "KR": "에너지 공급 고지 보고서",
+                "MX": "Informe: Meseta de poder",
+                "RU": "Отчет: плато Энергии",
+                "TC": "供能高地報告",
+                "TH": "รายงาน​: ที่ราบสูง​พลังงาน",
+                "VN": "Báo Cáo: Cao Nguyên Năng Lượng"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_4_3"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_digital_map01_research1_1_1",
+            "nar_report_map01_research1_10_1",
+            "nar_paper_map01_research1_2_1",
+            "nar_digital_map01_research1_16_1"
+          ],
+          "desc": {
+            "BR": "Thurston está investigando um assassinato misterioso... e espera encontrar informações que sejam úteis para nós.",
+            "CN": "瑟斯顿在调查一些神秘的谋杀案件……希望能从中找到一些对我们有帮助的信息。",
+            "DE": "Thorsten ermittelt zu einem mysteriösen Mordfall … und hofft, Informationen zu finden, die uns von Nutzen sein werden.",
+            "EN": "Thurston is investigating a mysterious murder ... and hopes to find information that is useful for us.",
+            "FR": "Thurston enquête sur un meurtre mystérieux... et espère trouver des informations qui nous seront utiles.",
+            "ID": "Thurston sedang menyelidiki kasus pembunuhan misterius ... dan berharap menemukan informasi yang berguna bagi kita.",
+            "IT": "Thurston sta indagando su un misterioso omicidio... e spera di trovare informazioni utili per noi.",
+            "JP": "サーストンは謎の殺人事件を調査しているようだ……私たちの役に立つ情報が見つかることを願う。",
+            "KR": "서스턴이 몇 건의 미스터리한 살인 사건을 파헤치고 있다... 유용한 단서를 찾을 수 있기를...",
+            "MX": "Thurston está investigando un asesinato misterioso y espera encontrar información que nos sea útil.",
+            "RU": "Терстон расследует загадочное убийство... и надеется найти полезную для нас информацию.",
+            "TC": "瑟斯頓在調查一些神秘的謀殺案件……希望能從中找到一些對我們有幫助的資訊。",
+            "TH": "เ​ธิ​ร์​สตัน​กำลัง​สืบสวน​คดี​ฆาตกรรม​ที่​ลึกลับ​... และ​หวัง​ว่า​จะ​หา​ข้อมูล​ที่​เป็นประโยชน์​สำหรับ​เรา",
+            "VN": "Thurston đang điều tra một vụ giết người bí ẩn... và hy vọng có thể tìm thấy thông tin hữu ích cho chúng ta."
+          },
+          "domainId": "domain_1",
+          "id": "research_landbreakerMurder",
+          "index": 1,
+          "name": {
+            "BR": "Assassinato de um Invasor de Terras",
+            "CN": "裂地者谋杀案",
+            "DE": "Ermordung eines Landbrechers",
+            "EN": "Murder of a Landbreaker",
+            "FR": "Meurtre d'un Brise-Terre",
+            "ID": "Pembunuhan Seorang Landbreaker",
+            "IT": "Omicidio di un Fenditerra",
+            "JP": "ランドブレーカー殺人事件",
+            "KR": "랜드브레이커 살인 사건",
+            "MX": "Asesinato de un Rompesuelos",
+            "RU": "Убийство Землекрушителя",
+            "TC": "裂地者謀殺案",
+            "TH": "คดี​ฆาตกรรม​ของ​แลนด์​เบรก​เกอร์",
+            "VN": "Vụ Sát Hại Của Landbreaker"
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 1,
+          "unlockPrts": "nar_report_map01_research1_17_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_digital_map01_research1_1_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Relatório: A Base",
+                "CN": "枢纽区报告",
+                "DE": "Bericht: Der Hub",
+                "EN": "Report: The Hub",
+                "FR": "Rapport : le Hub",
+                "ID": "Laporan: Hub",
+                "IT": "Rapporto: Polo centrale",
+                "JP": "中枢エリアの報告書",
+                "KR": "거점 지역 보고서",
+                "MX": "Informe: La Base",
+                "RU": "Отчет: Центр",
+                "TC": "樞紐區報告",
+                "TH": "รายงาน​: ศูนย์​ส่วนกลาง",
+                "VN": "Báo Cáo: Trung Tâm"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_report_map01_research1_10_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Relatório: Pedreira de Aburrey",
+                "CN": "阿伯莉采石场报告",
+                "DE": "Bericht: Aburrey-Steinbruch",
+                "EN": "Report: Aburrey Quarry",
+                "FR": "Rapport : carrière d'Aburrey",
+                "ID": "Laporan: Tambang Batu Aburrey",
+                "IT": "Rapporto: Cava di Aburrey",
+                "JP": "アブリー採石場の報告書",
+                "KR": "아부레이 채석장 보고서",
+                "MX": "Informe: Cantera Aburrey",
+                "RU": "Отчет: карьер Эберрей",
+                "TC": "阿伯莉採石場報告",
+                "TH": "รายงาน​: เหมือง​หิน​อ​เบอร์​เรย์",
+                "VN": "Báo Cáo: Mỏ Đá Aburrey"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_2_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map01_research1_2_1"
+              ],
+              "index": 3,
+              "name": {
+                "BR": "Relatório: Veio de Origin",
+                "CN": "矿脉源区报告",
+                "DE": "Bericht: Mineralquell",
+                "EN": "Report: Origin Lodespring",
+                "FR": "Rapport : Veine originelle",
+                "ID": "Laporan: Lodespring Asal",
+                "IT": "Rapporto: Giacimento originario",
+                "JP": "鉱山エリアの報告書",
+                "KR": "광맥 구역 보고서",
+                "MX": "Informe: Veta de origen",
+                "RU": "Отчет: Первое месторождение",
+                "TC": "礦脈源區報告",
+                "TH": "รายงาน​: ต้นสาย​กำเนิด​แร่",
+                "VN": "Báo Cáo: Khởi Nguồn Lodespring"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_3_3"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_digital_map01_research1_16_1"
+              ],
+              "index": 4,
+              "name": {
+                "BR": "Relatório: Platô de Energia",
+                "CN": "供能高地报告",
+                "DE": "Bericht: Energieplateau",
+                "EN": "Report: Power Plateau",
+                "FR": "Rapport : plateau électrique",
+                "ID": "Laporan: Dataran Tinggi Daya",
+                "IT": "Rapporto: Altopiano elettrico",
+                "JP": "エネルギー高地の報告書",
+                "KR": "에너지 공급 고지 보고서",
+                "MX": "Informe: Meseta de poder",
+                "RU": "Отчет: плато Энергии",
+                "TC": "供能高地報告",
+                "TH": "รายงาน​: ที่ราบสูง​พลังงาน",
+                "VN": "Báo Cáo: Cao Nguyên Năng Lượng"
+              },
+              "noteIdList": [
+                "hint_research_landbreakerMurder_4_3"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_digital_map01_research1_1_1",
+            "nar_report_map01_research1_10_1",
+            "nar_paper_map01_research1_2_1",
+            "nar_digital_map01_research1_16_1"
+          ],
+          "desc": {
+            "BR": "Thurston está investigando um assassinato misterioso... e espera encontrar informações que sejam úteis para nós.",
+            "CN": "瑟斯顿在调查一些神秘的谋杀案件……希望能从中找到一些对我们有帮助的信息。",
+            "DE": "Thorsten ermittelt zu einem mysteriösen Mordfall … und hofft, Informationen zu finden, die uns von Nutzen sein werden.",
+            "EN": "Thurston is investigating a mysterious murder ... and hopes to find information that is useful for us.",
+            "FR": "Thurston enquête sur un meurtre mystérieux... et espère trouver des informations qui nous seront utiles.",
+            "ID": "Thurston sedang menyelidiki kasus pembunuhan misterius ... dan berharap menemukan informasi yang berguna bagi kita.",
+            "IT": "Thurston sta indagando su un misterioso omicidio... e spera di trovare informazioni utili per noi.",
+            "JP": "サーストンは謎の殺人事件を調査しているようだ……私たちの役に立つ情報が見つかることを願う。",
+            "KR": "서스턴이 몇 건의 미스터리한 살인 사건을 파헤치고 있다... 유용한 단서를 찾을 수 있기를...",
+            "MX": "Thurston está investigando un asesinato misterioso y espera encontrar información que nos sea útil.",
+            "RU": "Терстон расследует загадочное убийство... и надеется найти полезную для нас информацию.",
+            "TC": "瑟斯頓在調查一些神秘的謀殺案件……希望能從中找到一些對我們有幫助的資訊。",
+            "TH": "เ​ธิ​ร์​สตัน​กำลัง​สืบสวน​คดี​ฆาตกรรม​ที่​ลึกลับ​... และ​หวัง​ว่า​จะ​หา​ข้อมูล​ที่​เป็นประโยชน์​สำหรับ​เรา",
+            "VN": "Thurston đang điều tra một vụ giết người bí ẩn... và hy vọng có thể tìm thấy thông tin hữu ích cho chúng ta."
+          },
+          "domainId": "domain_1",
+          "id": "research_landbreakerMurder",
+          "index": 1,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "Assassinato de um Invasor de Terras",
+            "CN": "裂地者谋杀案",
+            "DE": "Ermordung eines Landbrechers",
+            "EN": "Murder of a Landbreaker",
+            "FR": "Meurtre d'un Brise-Terre",
+            "ID": "Pembunuhan Seorang Landbreaker",
+            "IT": "Omicidio di un Fenditerra",
+            "JP": "ランドブレーカー殺人事件",
+            "KR": "랜드브레이커 살인 사건",
+            "MX": "Asesinato de un Rompesuelos",
+            "RU": "Убийство Землекрушителя",
+            "TC": "裂地者謀殺案",
+            "TH": "คดี​ฆาตกรรม​ของ​แลนด์​เบรก​เกอร์",
+            "VN": "Vụ Sát Hại Của Landbreaker"
+          },
+          "rewardId": "reward_prts_research_landbreakerMurder",
+          "type": 1,
+          "unlockPrts": "nar_report_map01_research1_17_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_landbreakerMurder"
+          }
+        }
+      },
+      "research_sm2l2m3": {
+        "oldValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_research1_1_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Log de Revisão de Projeto Antigo",
+                "CN": "陈旧的项目审查记录",
+                "DE": "Altes Projektüberprüfungs-Log",
+                "EN": "Old Project Review Log",
+                "FR": "Vieux journal d'évaluation du projet",
+                "ID": "Log Tinjauan Proyek Lama",
+                "IT": "Vecchio registro di valutazione del progetto",
+                "JP": "古そうなプロジェクト審査記録",
+                "KR": "낡은 프로젝트 심사 기록",
+                "MX": "Registro antiguo de la revisión de un proyecto",
+                "RU": "Старый журнал рассмотрения проекта",
+                "TC": "陳舊的專案審查紀錄",
+                "TH": "บันทึก​การ​ตรวจสอบ​โครงการ​เก่า",
+                "VN": "Nhật Ký Đánh Giá Dự Án Cũ"
+              },
+              "noteIdList": [
+                "hint_research_sm2l2m3_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_research1_2_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Um log de revisão de projeto que parece bastante antigo.",
+                "CN": "有些陈旧的项目审查记录",
+                "DE": "Ein scheinbar ziemlich altes Projektüberprüfungs-Log.",
+                "EN": "A project review log that looks rather dated.",
+                "FR": "Un journal d'évaluation du projet qui semble dater un peu.",
+                "ID": "Log Tinjauan Proyek yang tampaknya sudah lama.",
+                "IT": "Un registro di valutazione del progetto dall'aspetto piuttosto datato.",
+                "JP": "やや古そうなプロジェクト審査記録",
+                "KR": "다소 낡은 프로젝트 심사 기록",
+                "MX": "Un registro de revisión de proyecto que parece bastante antiguo.",
+                "RU": "Журнал рассмотрения проекта, на вид довольно старый.",
+                "TC": "有些陳舊的專案審查紀錄",
+                "TH": "บันทึก​การ​ตรวจสอบ​โครงการ​ที่​ดู​ค่อนข้าง​เก่า",
+                "VN": "Một cuốn nhật ký đánh giá dự án nom khá cũ"
+              },
+              "noteIdList": [
+                "hint_research_sm2l2m3_2_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_digital_map02_research1_3_1"
+              ],
+              "index": 3,
+              "name": {
+                "BR": "Log de Dados do Dispositivo Tianshi de Mo Hen",
+                "CN": "莫痕的天师仪所记录的信息",
+                "DE": "Datenspeicher von Mo Hens Tianshi-Apparat",
+                "EN": "Data Log on Mo Hen's Tianshi Apparatus",
+                "FR": "Journal de données de l'appareillage des Tianshi de Mo Hen",
+                "ID": "Log Data dari Aparatus Tianshi Mo Hen",
+                "IT": "Voce di registro nell'attrezzatura Tianshi di Mo Hen",
+                "JP": "モー・ハンの天師儀で記録された情報",
+                "KR": "막흔의 천사의에 기록된 정보",
+                "MX": "Registro de datos sobre el Dispositivo Tianshi de Mo Hen",
+                "RU": "Журнал данных об устройстве Тяньши Мо Хэня",
+                "TC": "莫痕的天師儀所記錄的資訊",
+                "TH": "บันทึก​ข้อมูล​เครื่องใช้​เทียน​ซือ​ของ​ห​มัว​เหิน",
+                "VN": "Nhật Ký Dữ Liệu về Thiết Bị Thiên Sư của Mo Hen"
+              },
+              "noteIdList": [
+                "hint_research_sm2l2m3_3_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_research1_1_1",
+            "nar_paper_map02_research1_2_1",
+            "nar_digital_map02_research1_3_1"
+          ],
+          "desc": {
+            "BR": "Relatório de Pesquisa do Projeto \"Esfolador da Maré\" de Tianshi Mo Hen de Wuling",
+            "CN": "武陵城莫痕天师的“打潮鞭”项目研究报告",
+            "DE": "Forschungsbericht von Tianshi Mo Hen aus Wuling zu Projekt „Gezeitenschinder“",
+            "EN": "Wuling Tianshi Mo Hen's \"Tide Flayer\" Project Research Report",
+            "FR": "Rapport de recherche sur le « Flagelleur de marée », par le Tianshi Mo Hen, Wuling",
+            "ID": "Laporan Penelitian Proyek “Penebas Ombak” Tianshi Mo Hen dari Wuling",
+            "IT": "Rapporto di ricerca del progetto \"Flagellatrice acquatica\" del Tianshi Mo Hen di Wuling",
+            "JP": "武陵城モー・ハン天師による「潮打鞭」プロジェクトの研究報告",
+            "KR": "무릉성 막흔 천사의 '퇴조편' 프로젝트 연구 보고서",
+            "MX": "Informe de investigación del proyecto “Azotador de la marea” de Tianshi Mo Hen de Wuling",
+            "RU": "Отчет об изучении проекта «Бич волны» Тяньши Мо Хэня из Улина",
+            "TC": "武陵城莫痕天師的「打潮鞭」專案研究報告",
+            "TH": "รายงานการวิจัย​โครงการ​ \"ไทด์​เฟล​เยอร์​\" ของ​เทียน​ซือ​ห​มัว​เหิน​แห่ง​อู่​หลิง",
+            "VN": "Báo Cáo Nghiên Cứu Dự Án \"Roi Đánh Sóng\" của Thiên Sư Mo từ Võ Lăng"
+          },
+          "domainId": "domain_2",
+          "id": "research_sm2l2m3",
+          "index": 1,
+          "name": {
+            "BR": "RI: Projeto \"Esfolador da Maré\"",
+            "CN": "“打潮鞭”项目调查报告",
+            "DE": "UB: Projekt Gezeitenschinder",
+            "EN": "IR: \"Tide Flayer\" Project",
+            "FR": "Rapport d'enquête sur le projet « Flagelleur de marée »",
+            "ID": "LP: Proyek “Penebas Ombak“",
+            "IT": "RI: \"Flag. acquatica\"",
+            "JP": "「潮打鞭」プロジェクト調査報告",
+            "KR": "'퇴조편' 프로젝트 조사 보고서",
+            "MX": "I.I.: Proyecto “Azotador de la marea”",
+            "RU": "Отчет: проект «Бич волны»",
+            "TC": "「打潮鞭」專案調查報告",
+            "TH": "IR: โครงการ​ \"ไทด์​เฟล​เยอร์​\"",
+            "VN": "BCĐT: Dự Án \"Roi Đánh Sóng\""
+          },
+          "rewardItemList": [
+            {
+              "count": 200,
+              "id": "item_diamond"
+            }
+          ],
+          "type": 1,
+          "unlockPrts": "nar_report_map02_research1_4_1"
+        },
+        "newValue": {
+          "categoryDataList": [
+            {
+              "collectionIdList": [
+                "nar_paper_map02_research1_1_1"
+              ],
+              "index": 1,
+              "name": {
+                "BR": "Log de Revisão de Projeto Antigo",
+                "CN": "陈旧的项目审查记录",
+                "DE": "Altes Projektüberprüfungs-Log",
+                "EN": "Old Project Review Log",
+                "FR": "Vieux journal d'évaluation du projet",
+                "ID": "Log Tinjauan Proyek Lama",
+                "IT": "Vecchio registro di valutazione del progetto",
+                "JP": "古そうなプロジェクト審査記録",
+                "KR": "낡은 프로젝트 심사 기록",
+                "MX": "Registro antiguo de la revisión de un proyecto",
+                "RU": "Старый журнал рассмотрения проекта",
+                "TC": "陳舊的專案審查紀錄",
+                "TH": "บันทึก​การ​ตรวจสอบ​โครงการ​เก่า",
+                "VN": "Nhật Ký Đánh Giá Dự Án Cũ"
+              },
+              "noteIdList": [
+                "hint_research_sm2l2m3_1_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_paper_map02_research1_2_1"
+              ],
+              "index": 2,
+              "name": {
+                "BR": "Um log de revisão de projeto que parece bastante antigo.",
+                "CN": "有些陈旧的项目审查记录",
+                "DE": "Ein scheinbar ziemlich altes Projektüberprüfungs-Log.",
+                "EN": "A project review log that looks rather dated.",
+                "FR": "Un journal d'évaluation du projet qui semble dater un peu.",
+                "ID": "Log Tinjauan Proyek yang tampaknya sudah lama.",
+                "IT": "Un registro di valutazione del progetto dall'aspetto piuttosto datato.",
+                "JP": "やや古そうなプロジェクト審査記録",
+                "KR": "다소 낡은 프로젝트 심사 기록",
+                "MX": "Un registro de revisión de proyecto que parece bastante antiguo.",
+                "RU": "Журнал рассмотрения проекта, на вид довольно старый.",
+                "TC": "有些陳舊的專案審查紀錄",
+                "TH": "บันทึก​การ​ตรวจสอบ​โครงการ​ที่​ดู​ค่อนข้าง​เก่า",
+                "VN": "Một cuốn nhật ký đánh giá dự án nom khá cũ"
+              },
+              "noteIdList": [
+                "hint_research_sm2l2m3_2_1"
+              ]
+            },
+            {
+              "collectionIdList": [
+                "nar_digital_map02_research1_3_1"
+              ],
+              "index": 3,
+              "name": {
+                "BR": "Log de Dados do Dispositivo Tianshi de Mo Hen",
+                "CN": "莫痕的天师仪所记录的信息",
+                "DE": "Datenspeicher von Mo Hens Tianshi-Apparat",
+                "EN": "Data Log on Mo Hen's Tianshi Apparatus",
+                "FR": "Journal de données de l'appareillage des Tianshi de Mo Hen",
+                "ID": "Log Data dari Aparatus Tianshi Mo Hen",
+                "IT": "Voce di registro nell'attrezzatura Tianshi di Mo Hen",
+                "JP": "モー・ハンの天師儀で記録された情報",
+                "KR": "막흔의 천사의에 기록된 정보",
+                "MX": "Registro de datos sobre el Dispositivo Tianshi de Mo Hen",
+                "RU": "Журнал данных об устройстве Тяньши Мо Хэня",
+                "TC": "莫痕的天師儀所記錄的資訊",
+                "TH": "บันทึก​ข้อมูล​เครื่องใช้​เทียน​ซือ​ของ​ห​มัว​เหิน",
+                "VN": "Nhật Ký Dữ Liệu về Thiết Bị Thiên Sư của Mo Hen"
+              },
+              "noteIdList": [
+                "hint_research_sm2l2m3_3_1"
+              ]
+            }
+          ],
+          "collectionIdList": [
+            "nar_paper_map02_research1_1_1",
+            "nar_paper_map02_research1_2_1",
+            "nar_digital_map02_research1_3_1"
+          ],
+          "desc": {
+            "BR": "Relatório de Pesquisa do Projeto \"Esfolador da Maré\" de Tianshi Mo Hen de Wuling",
+            "CN": "武陵城莫痕天师的“打潮鞭”项目研究报告",
+            "DE": "Forschungsbericht von Tianshi Mo Hen aus Wuling zu Projekt „Gezeitenschinder“",
+            "EN": "Wuling Tianshi Mo Hen's \"Tide Flayer\" Project Research Report",
+            "FR": "Rapport de recherche sur le « Flagelleur de marée », par le Tianshi Mo Hen, Wuling",
+            "ID": "Laporan Penelitian Proyek “Penebas Ombak” Tianshi Mo Hen dari Wuling",
+            "IT": "Rapporto di ricerca del progetto \"Flagellatrice acquatica\" del Tianshi Mo Hen di Wuling",
+            "JP": "武陵城モー・ハン天師による「潮打鞭」プロジェクトの研究報告",
+            "KR": "무릉성 막흔 천사의 '퇴조편' 프로젝트 연구 보고서",
+            "MX": "Informe de investigación del proyecto “Azotador de la marea” de Tianshi Mo Hen de Wuling",
+            "RU": "Отчет об изучении проекта «Бич волны» Тяньши Мо Хэня из Улина",
+            "TC": "武陵城莫痕天師的「打潮鞭」專案研究報告",
+            "TH": "รายงานการวิจัย​โครงการ​ \"ไทด์​เฟล​เยอร์​\" ของ​เทียน​ซือ​ห​มัว​เหิน​แห่ง​อู่​หลิง",
+            "VN": "Báo Cáo Nghiên Cứu Dự Án \"Roi Đánh Sóng\" của Thiên Sư Mo từ Võ Lăng"
+          },
+          "domainId": "domain_2",
+          "id": "research_sm2l2m3",
+          "index": 1,
+          "investigateAreaDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "name": {
+            "BR": "RI: Projeto \"Esfolador da Maré\"",
+            "CN": "“打潮鞭”项目调查报告",
+            "DE": "UB: Projekt Gezeitenschinder",
+            "EN": "IR: \"Tide Flayer\" Project",
+            "FR": "Rapport d'enquête sur le projet « Flagelleur de marée »",
+            "ID": "LP: Proyek “Penebas Ombak“",
+            "IT": "RI: \"Flag. acquatica\"",
+            "JP": "「潮打鞭」プロジェクト調査報告",
+            "KR": "'퇴조편' 프로젝트 조사 보고서",
+            "MX": "I.I.: Proyecto “Azotador de la marea”",
+            "RU": "Отчет: проект «Бич волны»",
+            "TC": "「打潮鞭」專案調查報告",
+            "TH": "IR: โครงการ​ \"ไทด์​เฟล​เยอร์​\"",
+            "VN": "BCĐT: Dự Án \"Roi Đánh Sóng\""
+          },
+          "rewardId": "reward_prts_research_sm2l2m3",
+          "type": 1,
+          "unlockPrts": "nar_report_map02_research1_4_1"
+        },
+        "changed": {
+          "rewardItemList": {
+            "type": "value",
+            "oldValue": [
+              {
+                "count": 200,
+                "id": "item_diamond"
+              }
+            ]
+          },
+          "investigateAreaDesc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          },
+          "rewardId": {
+            "type": "value",
+            "newValue": "reward_prts_research_sm2l2m3"
+          }
+        }
+      }
+    }
+  }
+}

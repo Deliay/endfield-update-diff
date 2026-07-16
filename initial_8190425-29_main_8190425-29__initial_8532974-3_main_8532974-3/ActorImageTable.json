@@ -1,0 +1,51 @@
+{
+  "tableName": "ActorImageTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "npc_rong": {
+        "avatarPath": "icon_npc_rong",
+        "bustPath": "icon_npc_rong",
+        "illustrationPath": "",
+        "missionPanelChrAvatarPath": ""
+      },
+      "npc_1003_mon3ter": {
+        "avatarPath": "icon_npc_1003_mon3ter",
+        "bustPath": "icon_npc_1003_mon3ter",
+        "illustrationPath": "",
+        "missionPanelChrAvatarPath": ""
+      }
+    },
+    "removed": {},
+    "changed": {
+      "chr_0032_lizhiyan": {
+        "oldValue": {
+          "avatarPath": "icon_chr_0032_lizhiyan",
+          "bustPath": "icon_chr_0032_lizhiyan",
+          "illustrationPath": "",
+          "missionPanelChrAvatarPath": ""
+        },
+        "newValue": {
+          "avatarPath": "icon_chr_0032_lizhiyan",
+          "bustPath": "icon_chr_0032_lizhiyan",
+          "illustrationPath": "",
+          "missionPanelChrAvatarPath": "chapter_character_char_icon_09"
+        },
+        "changed": {
+          "missionPanelChrAvatarPath": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "chapter_character_char_icon_09"
+          }
+        }
+      }
+    }
+  }
+}

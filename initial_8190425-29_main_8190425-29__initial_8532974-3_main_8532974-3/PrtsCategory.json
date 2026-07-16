@@ -1,0 +1,170 @@
+{
+  "tableName": "PrtsCategory",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "collection": {
+        "oldValue": {
+          "categoryId": "collection",
+          "name": {
+            "BR": "Peculiaridades",
+            "CN": "藏品",
+            "DE": "Ungewöhnliches",
+            "EN": "Peculiars",
+            "FR": "Raretés",
+            "ID": "Aneh",
+            "IT": "Curiosità",
+            "JP": "思い出",
+            "KR": "소장품",
+            "MX": "Peculiares",
+            "RU": "Диковинки",
+            "TC": "藏品",
+            "TH": "สิ่ง​แปลกประหลาด",
+            "VN": "Đặc Biệt"
+          },
+          "order": 1,
+          "tabIcon": "icon_tab_collection_nml"
+        },
+        "newValue": {
+          "categoryId": "collection",
+          "name": {
+            "BR": "Peculiaridades",
+            "CN": "藏品",
+            "DE": "Ungewöhnliches",
+            "EN": "Peculiars",
+            "FR": "Raretés",
+            "ID": "Aneh",
+            "IT": "Curiosità",
+            "JP": "思い出",
+            "KR": "소장품",
+            "MX": "Peculiares",
+            "RU": "Диковинки",
+            "TC": "藏品",
+            "TH": "สิ่ง​แปลกประหลาด",
+            "VN": "Đặc Biệt"
+          },
+          "order": 3,
+          "tabIcon": "icon_tab_collection_nml"
+        },
+        "changed": {
+          "order": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 3
+          }
+        }
+      },
+      "digital": {
+        "oldValue": {
+          "categoryId": "digital",
+          "name": {
+            "BR": "Arquivos Eletrônicos",
+            "CN": "电子档案",
+            "DE": "E-Dateien",
+            "EN": "E-Files",
+            "FR": "Dossiers électroniques",
+            "ID": "E-File",
+            "IT": "E-File",
+            "JP": "デジタルファイル",
+            "KR": "전자 파일",
+            "MX": "Archivos E",
+            "RU": "Эл. файлы",
+            "TC": "電子檔案",
+            "TH": "ไฟล์​อิเล็กทรอนิกส์",
+            "VN": "Hồ Sơ-E"
+          },
+          "order": 3,
+          "tabIcon": "icon_tab_text_nml"
+        },
+        "newValue": {
+          "categoryId": "digital",
+          "name": {
+            "BR": "Arquivos Eletrônicos",
+            "CN": "电子档案",
+            "DE": "E-Dateien",
+            "EN": "E-Files",
+            "FR": "Dossiers électroniques",
+            "ID": "E-File",
+            "IT": "E-File",
+            "JP": "デジタルファイル",
+            "KR": "전자 파일",
+            "MX": "Archivos E",
+            "RU": "Эл. файлы",
+            "TC": "電子檔案",
+            "TH": "ไฟล์​อิเล็กทรอนิกส์",
+            "VN": "Hồ Sơ-E"
+          },
+          "order": 2,
+          "tabIcon": "icon_tab_text_nml"
+        },
+        "changed": {
+          "order": {
+            "type": "value",
+            "oldValue": 3,
+            "newValue": 2
+          }
+        }
+      },
+      "paper": {
+        "oldValue": {
+          "categoryId": "paper",
+          "name": {
+            "BR": "Manuscritos",
+            "CN": "纸质记录",
+            "DE": "Manuskripte",
+            "EN": "Manuscripts",
+            "FR": "Manuscrits",
+            "ID": "Naskah",
+            "IT": "Manoscritti",
+            "JP": "紙の資料",
+            "KR": "문서 기록",
+            "MX": "Manuscritos",
+            "RU": "Рукописи",
+            "TC": "紙本紀錄",
+            "TH": "ต้นฉบับ",
+            "VN": "Bản Thảo"
+          },
+          "order": 2,
+          "tabIcon": "icon_tab_document_nml"
+        },
+        "newValue": {
+          "categoryId": "paper",
+          "name": {
+            "BR": "Manuscritos",
+            "CN": "纸质记录",
+            "DE": "Manuskripte",
+            "EN": "Manuscripts",
+            "FR": "Manuscrits",
+            "ID": "Naskah",
+            "IT": "Manoscritti",
+            "JP": "紙の資料",
+            "KR": "문서 기록",
+            "MX": "Manuscritos",
+            "RU": "Рукописи",
+            "TC": "紙本紀錄",
+            "TH": "ต้นฉบับ",
+            "VN": "Bản Thảo"
+          },
+          "order": 1,
+          "tabIcon": "icon_tab_document_nml"
+        },
+        "changed": {
+          "order": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 1
+          }
+        }
+      }
+    }
+  }
+}

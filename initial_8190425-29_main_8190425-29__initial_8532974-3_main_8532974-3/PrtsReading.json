@@ -1,0 +1,3307 @@
+{
+  "tableName": "PrtsReading",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 21
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "term_001_gm01m13": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m13_4",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_1"
+            },
+            "2": {
+              "contentId": "text_gm01m13_5",
+              "name": {
+                "BR": "Log de Voz: Desligamento (1)",
+                "CN": "停机录音记录（1）",
+                "DE": "Spracheintrag: Abschalten (1)",
+                "EN": "Voice Log: Shut Down (1)",
+                "FR": "Journal vocal : Fermeture (1)",
+                "ID": "Log Suara: Matikan (1)",
+                "IT": "Registro vocale: Spegnimento (1)",
+                "JP": "稼働停止の音声記録（1）",
+                "KR": "정지 녹음 기록(1)",
+                "MX": "Registro de voz: Apagado (1)",
+                "RU": "Аудиозапись: отключение (1)",
+                "TC": "停機錄音紀錄（1）",
+                "TH": "บันทึกเสียง​: ปิด​ (1)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (1)"
+              },
+              "order": 2,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_2"
+            },
+            "3": {
+              "contentId": "text_gm01m13_6",
+              "name": {
+                "BR": "Log de Voz: Desligamento (2)",
+                "CN": "停机录音记录（2）",
+                "DE": "Spracheintrag: Abschalten (2)",
+                "EN": "Voice Log: Shut Down (2)",
+                "FR": "Journal vocal : Fermeture (2)",
+                "ID": "Log Suara: Matikan (2)",
+                "IT": "Registro vocale: Spegnimento (2)",
+                "JP": "稼働停止の音声記録（2）",
+                "KR": "정지 녹음 기록(2)",
+                "MX": "Registro de voz: Apagado (2)",
+                "RU": "Аудиозапись: отключение (2)",
+                "TC": "停機錄音紀錄（2）",
+                "TH": "บันทึกเสียง​: ปิด​ (2)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (2)"
+              },
+              "order": 3,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_3"
+            },
+            "4": {
+              "contentId": "text_gm01m13_7",
+              "name": {
+                "BR": "Log de Voz: Desligamento (3)",
+                "CN": "停机录音记录（3）",
+                "DE": "Spracheintrag: Abschalten (3)",
+                "EN": "Voice Log: Shut Down (3)",
+                "FR": "Journal vocal : Fermeture (3)",
+                "ID": "Log Suara: Matikan (3)",
+                "IT": "Registro vocale: Spegnimento (3)",
+                "JP": "稼働停止の音声記録（3）",
+                "KR": "정지 녹음 기록(3)",
+                "MX": "Registro de voz: Apagado (3)",
+                "RU": "Аудиозапись: отключение (3)",
+                "TC": "停機錄音紀錄（3）",
+                "TH": "บันทึกเสียง​: ปิด​ (3)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (3)"
+              },
+              "order": 4,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_4"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m13_4",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_1"
+            },
+            "2": {
+              "contentId": "text_gm01m13_5",
+              "name": {
+                "BR": "Log de Voz: Desligamento (1)",
+                "CN": "停机录音记录（1）",
+                "DE": "Spracheintrag: Abschalten (1)",
+                "EN": "Voice Log: Shut Down (1)",
+                "FR": "Journal vocal : Fermeture (1)",
+                "ID": "Log Suara: Matikan (1)",
+                "IT": "Registro vocale: Spegnimento (1)",
+                "JP": "稼働停止の音声記録（1）",
+                "KR": "정지 녹음 기록(1)",
+                "MX": "Registro de voz: Apagado (1)",
+                "RU": "Аудиозапись: отключение (1)",
+                "TC": "停機錄音紀錄（1）",
+                "TH": "บันทึกเสียง​: ปิด​ (1)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (1)"
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_2"
+            },
+            "3": {
+              "contentId": "text_gm01m13_6",
+              "name": {
+                "BR": "Log de Voz: Desligamento (2)",
+                "CN": "停机录音记录（2）",
+                "DE": "Spracheintrag: Abschalten (2)",
+                "EN": "Voice Log: Shut Down (2)",
+                "FR": "Journal vocal : Fermeture (2)",
+                "ID": "Log Suara: Matikan (2)",
+                "IT": "Registro vocale: Spegnimento (2)",
+                "JP": "稼働停止の音声記録（2）",
+                "KR": "정지 녹음 기록(2)",
+                "MX": "Registro de voz: Apagado (2)",
+                "RU": "Аудиозапись: отключение (2)",
+                "TC": "停機錄音紀錄（2）",
+                "TH": "บันทึกเสียง​: ปิด​ (2)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (2)"
+              },
+              "order": 3,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_3"
+            },
+            "4": {
+              "contentId": "text_gm01m13_7",
+              "name": {
+                "BR": "Log de Voz: Desligamento (3)",
+                "CN": "停机录音记录（3）",
+                "DE": "Spracheintrag: Abschalten (3)",
+                "EN": "Voice Log: Shut Down (3)",
+                "FR": "Journal vocal : Fermeture (3)",
+                "ID": "Log Suara: Matikan (3)",
+                "IT": "Registro vocale: Spegnimento (3)",
+                "JP": "稼働停止の音声記録（3）",
+                "KR": "정지 녹음 기록(3)",
+                "MX": "Registro de voz: Apagado (3)",
+                "RU": "Аудиозапись: отключение (3)",
+                "TC": "停機錄音紀錄（3）",
+                "TH": "บันทึกเสียง​: ปิด​ (3)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (3)"
+              },
+              "order": 4,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m13_4"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.3.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.4.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map02_lv001_f1m18d2_2": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m18d2_1",
+              "name": {
+                "BR": "Dados das Instalações Básicas",
+                "CN": "设备基本信息",
+                "DE": "Standard-Anlagen-Daten",
+                "EN": "Basic Facilities Data",
+                "FR": "Données de base sur les installations",
+                "ID": "Data Dasar Fasilitas",
+                "IT": "Dati delle strutture di base",
+                "JP": "設備の基本情報",
+                "KR": "설비 기본 정보",
+                "MX": "Datos de instalaciones básicas",
+                "RU": "Данные о стандартном сооружении",
+                "TC": "設備基本資訊",
+                "TH": "ข้อมูล​สิ่งปลูกสร้าง​พื้นฐาน",
+                "VN": "Dữ Liệu Cơ Sở Hạ Tầng Cơ Bản"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv001_f1m18d2_2"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m18d2_1",
+              "name": {
+                "BR": "Dados das Instalações Básicas",
+                "CN": "设备基本信息",
+                "DE": "Standard-Anlagen-Daten",
+                "EN": "Basic Facilities Data",
+                "FR": "Données de base sur les installations",
+                "ID": "Data Dasar Fasilitas",
+                "IT": "Dati delle strutture di base",
+                "JP": "設備の基本情報",
+                "KR": "설비 기본 정보",
+                "MX": "Datos de instalaciones básicas",
+                "RU": "Данные о стандартном сооружении",
+                "TC": "設備基本資訊",
+                "TH": "ข้อมูล​สิ่งปลูกสร้าง​พื้นฐาน",
+                "VN": "Dữ Liệu Cơ Sở Hạ Tầng Cơ Bản"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv001_f1m18d2_2"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_001_gm01m14": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m14_2",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m14_1"
+            },
+            "2": {
+              "contentId": "text_gm01m14_3",
+              "name": {
+                "BR": "Log de Voz: Desligamento (1)",
+                "CN": "停机录音记录（1）",
+                "DE": "Spracheintrag: Abschalten (1)",
+                "EN": "Voice Log: Shut Down (1)",
+                "FR": "Journal vocal : Fermeture (1)",
+                "ID": "Log Suara: Matikan (1)",
+                "IT": "Registro vocale: Spegnimento (1)",
+                "JP": "稼働停止の音声記録（1）",
+                "KR": "정지 녹음 기록(1)",
+                "MX": "Registro de voz: Apagado (1)",
+                "RU": "Аудиозапись: отключение (1)",
+                "TC": "停機錄音紀錄（1）",
+                "TH": "บันทึกเสียง​: ปิด​ (1)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (1)"
+              },
+              "order": 2,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m14_2"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m14_2",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m14_1"
+            },
+            "2": {
+              "contentId": "text_gm01m14_3",
+              "name": {
+                "BR": "Log de Voz: Desligamento (1)",
+                "CN": "停机录音记录（1）",
+                "DE": "Spracheintrag: Abschalten (1)",
+                "EN": "Voice Log: Shut Down (1)",
+                "FR": "Journal vocal : Fermeture (1)",
+                "ID": "Log Suara: Matikan (1)",
+                "IT": "Registro vocale: Spegnimento (1)",
+                "JP": "稼働停止の音声記録（1）",
+                "KR": "정지 녹음 기록(1)",
+                "MX": "Registro de voz: Apagado (1)",
+                "RU": "Аудиозапись: отключение (1)",
+                "TC": "停機錄音紀錄（1）",
+                "TH": "บันทึกเสียง​: ปิด​ (1)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (1)"
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m14_2"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_001_gm01m7": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m12_3",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_1"
+            },
+            "2": {
+              "contentId": "text_gm01m12_4",
+              "name": {
+                "BR": "Log de Voz: Desligamento",
+                "CN": "停机录音记录",
+                "DE": "Spracheintrag: Abschalten",
+                "EN": "Voice Log: Shut Down",
+                "FR": "Journal vocal : Fermeture",
+                "ID": "Log Suara: Matikan",
+                "IT": "Registro vocale: Spegnimento",
+                "JP": "稼働停止の音声記録",
+                "KR": "정지 녹음 기록",
+                "MX": "Registro de voz: Apagado",
+                "RU": "Аудиозапись: отключение",
+                "TC": "停機錄音紀錄",
+                "TH": "บันทึกเสียง​: ปิด​ใช้งาน",
+                "VN": "Nhật Ký Âm Thanh: Tắt"
+              },
+              "order": 2,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m12_3",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_1"
+            },
+            "2": {
+              "contentId": "text_gm01m12_4",
+              "name": {
+                "BR": "Log de Voz: Desligamento",
+                "CN": "停机录音记录",
+                "DE": "Spracheintrag: Abschalten",
+                "EN": "Voice Log: Shut Down",
+                "FR": "Journal vocal : Fermeture",
+                "ID": "Log Suara: Matikan",
+                "IT": "Registro vocale: Spegnimento",
+                "JP": "稼働停止の音声記録",
+                "KR": "정지 녹음 기록",
+                "MX": "Registro de voz: Apagado",
+                "RU": "Аудиозапись: отключение",
+                "TC": "停機錄音紀錄",
+                "TH": "บันทึกเสียง​: ปิด​ใช้งาน",
+                "VN": "Nhật Ký Âm Thanh: Tắt"
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map01_lv001_1": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_9",
+              "name": {
+                "BR": "Algoritmos da Praga de Vale IV",
+                "CN": "四号谷地侵蚀演算",
+                "DE": "Tal IV: Verderbnis-Algorithmen",
+                "EN": "Valley IV Blight Algorithms",
+                "FR": "Algorithmes de Gangrène de la Vallée-IV",
+                "ID": "Algoritma Hawar Lembah IV",
+                "IT": "Valle IV - Algoritmi sulla Contaminazione",
+                "JP": "四号谷地侵蝕演算",
+                "KR": "4번 협곡 침식 연산",
+                "MX": "Algoritmos de la Plaga en el Valle IV",
+                "RU": "Долина IV: алгоритмы мора",
+                "TC": "四號谷地侵蝕演算",
+                "TH": "อัล​กอ​ริ​ทึม​ไบ​ล​ท์​ของ​หุบเขา​ IV",
+                "VN": "Thuật Toán Nhiễm Khuẩn Thung Lũng IV"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_1_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_9",
+              "name": {
+                "BR": "Algoritmos da Praga de Vale IV",
+                "CN": "四号谷地侵蚀演算",
+                "DE": "Tal IV: Verderbnis-Algorithmen",
+                "EN": "Valley IV Blight Algorithms",
+                "FR": "Algorithmes de Gangrène de la Vallée-IV",
+                "ID": "Algoritma Hawar Lembah IV",
+                "IT": "Valle IV - Algoritmi sulla Contaminazione",
+                "JP": "四号谷地侵蝕演算",
+                "KR": "4번 협곡 침식 연산",
+                "MX": "Algoritmos de la Plaga en el Valle IV",
+                "RU": "Долина IV: алгоритмы мора",
+                "TC": "四號谷地侵蝕演算",
+                "TH": "อัล​กอ​ริ​ทึม​ไบ​ล​ท์​ของ​หุบเขา​ IV",
+                "VN": "Thuật Toán Nhiễm Khuẩn Thung Lũng IV"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_1_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map02_lv001_f1m18d2_1": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m18d2_1",
+              "name": {
+                "BR": "Dados das Instalações Básicas",
+                "CN": "设备基本信息",
+                "DE": "Standard-Anlagen-Daten",
+                "EN": "Basic Facilities Data",
+                "FR": "Données de base sur les installations",
+                "ID": "Data Dasar Fasilitas",
+                "IT": "Dati delle strutture di base",
+                "JP": "設備の基本情報",
+                "KR": "설비 기본 정보",
+                "MX": "Datos de instalaciones básicas",
+                "RU": "Данные о стандартном сооружении",
+                "TC": "設備基本資訊",
+                "TH": "ข้อมูล​สิ่งปลูกสร้าง​พื้นฐาน",
+                "VN": "Dữ Liệu Cơ Sở Hạ Tầng Cơ Bản"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv001_f1m18d2_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m18d2_1",
+              "name": {
+                "BR": "Dados das Instalações Básicas",
+                "CN": "设备基本信息",
+                "DE": "Standard-Anlagen-Daten",
+                "EN": "Basic Facilities Data",
+                "FR": "Données de base sur les installations",
+                "ID": "Data Dasar Fasilitas",
+                "IT": "Dati delle strutture di base",
+                "JP": "設備の基本情報",
+                "KR": "설비 기본 정보",
+                "MX": "Datos de instalaciones básicas",
+                "RU": "Данные о стандартном сооружении",
+                "TC": "設備基本資訊",
+                "TH": "ข้อมูล​สิ่งปลูกสร้าง​พื้นฐาน",
+                "VN": "Dữ Liệu Cơ Sở Hạ Tầng Cơ Bản"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv001_f1m18d2_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_001_gm01m15": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m15_3",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m15_1"
+            },
+            "2": {
+              "contentId": "text_gm01m15_4",
+              "name": {
+                "BR": "Log de Voz: Desligamento (1)",
+                "CN": "停机录音记录（1）",
+                "DE": "Spracheintrag: Abschalten (1)",
+                "EN": "Voice Log: Shut Down (1)",
+                "FR": "Journal vocal : Fermeture (1)",
+                "ID": "Log Suara: Matikan (1)",
+                "IT": "Registro vocale: Spegnimento (1)",
+                "JP": "稼働停止の音声記録（1）",
+                "KR": "정지 녹음 기록(1)",
+                "MX": "Registro de voz: Apagado (1)",
+                "RU": "Аудиозапись: отключение (1)",
+                "TC": "停機錄音紀錄（1）",
+                "TH": "บันทึกเสียง​: ปิด​ (1)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (1)"
+              },
+              "order": 2,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m15_2"
+            },
+            "3": {
+              "contentId": "text_gm01m15_5",
+              "name": {
+                "BR": "Log de Voz: Desligamento (2)",
+                "CN": "停机录音记录（2）",
+                "DE": "Spracheintrag: Abschalten (2)",
+                "EN": "Voice Log: Shut Down (2)",
+                "FR": "Journal vocal : Fermeture (2)",
+                "ID": "Log Suara: Matikan (2)",
+                "IT": "Registro vocale: Spegnimento (2)",
+                "JP": "稼働停止の音声記録（2）",
+                "KR": "정지 녹음 기록(2)",
+                "MX": "Registro de voz: Apagado (2)",
+                "RU": "Аудиозапись: отключение (2)",
+                "TC": "停機錄音紀錄（2）",
+                "TH": "บันทึกเสียง​: ปิด​ (2)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (2)"
+              },
+              "order": 3,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m15_3"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m15_3",
+              "name": {
+                "BR": "Log Operacional",
+                "CN": "运行记录",
+                "DE": "Betriebsprotokoll",
+                "EN": "Operational Log",
+                "FR": "Journal d'opérations",
+                "ID": "Log Operasional",
+                "IT": "Registro operativo",
+                "JP": "稼働記録",
+                "KR": "운행 기록",
+                "MX": "Registro operativo",
+                "RU": "Журнал операций",
+                "TC": "執行紀錄",
+                "TH": "บันทึก​การ​ดำเนินงาน",
+                "VN": "Nhật Ký Hoạt Động"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m15_1"
+            },
+            "2": {
+              "contentId": "text_gm01m15_4",
+              "name": {
+                "BR": "Log de Voz: Desligamento (1)",
+                "CN": "停机录音记录（1）",
+                "DE": "Spracheintrag: Abschalten (1)",
+                "EN": "Voice Log: Shut Down (1)",
+                "FR": "Journal vocal : Fermeture (1)",
+                "ID": "Log Suara: Matikan (1)",
+                "IT": "Registro vocale: Spegnimento (1)",
+                "JP": "稼働停止の音声記録（1）",
+                "KR": "정지 녹음 기록(1)",
+                "MX": "Registro de voz: Apagado (1)",
+                "RU": "Аудиозапись: отключение (1)",
+                "TC": "停機錄音紀錄（1）",
+                "TH": "บันทึกเสียง​: ปิด​ (1)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (1)"
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m15_2"
+            },
+            "3": {
+              "contentId": "text_gm01m15_5",
+              "name": {
+                "BR": "Log de Voz: Desligamento (2)",
+                "CN": "停机录音记录（2）",
+                "DE": "Spracheintrag: Abschalten (2)",
+                "EN": "Voice Log: Shut Down (2)",
+                "FR": "Journal vocal : Fermeture (2)",
+                "ID": "Log Suara: Matikan (2)",
+                "IT": "Registro vocale: Spegnimento (2)",
+                "JP": "稼働停止の音声記録（2）",
+                "KR": "정지 녹음 기록(2)",
+                "MX": "Registro de voz: Apagado (2)",
+                "RU": "Аудиозапись: отключение (2)",
+                "TC": "停機錄音紀錄（2）",
+                "TH": "บันทึกเสียง​: ปิด​ (2)",
+                "VN": "Nhật Ký Âm Thanh: Tắt (2)"
+              },
+              "order": 3,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m15_3"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.3.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map01_lv001_gm01m27": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m27_1",
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "order": 1,
+              "prtsId": "nar_gm01m27_1",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_gm01m27_1"
+            },
+            "2": {
+              "contentId": "text_gm01m27_2",
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "order": 2,
+              "prtsId": "nar_gm01m27_2",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_gm01m27_2"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m27_1",
+              "name": {
+                "BR": "",
+                "CN": "关于远眺点α的侦察报告",
+                "DE": "",
+                "EN": "Regarding the OP-α Recon Report",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "眺望スポットαについての偵察報告",
+                "KR": "관측소 α에 대한 조사 보고서",
+                "MX": "",
+                "RU": "",
+                "TC": "關於遠眺點α的偵察報告",
+                "TH": "",
+                "VN": ""
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "nar_gm01m27_1",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_gm01m27_1"
+            },
+            "2": {
+              "contentId": "text_gm01m27_2",
+              "name": {
+                "BR": "",
+                "CN": "回复：关于远眺点α侦察报告",
+                "DE": "",
+                "EN": "RE: Regarding the OP-α Recon Report",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "RE：眺望スポットαについての偵察報告",
+                "KR": "회답: 관측소 α에 대한 조사 보고서",
+                "MX": "",
+                "RU": "",
+                "TC": "回覆：關於遠眺點α偵察報告",
+                "TH": "",
+                "VN": ""
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "nar_gm01m27_2",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_gm01m27_2"
+            }
+          }
+        },
+        "changed": {
+          "list.1.name": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "关于远眺点α的侦察报告"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Regarding the OP-α Recon Report"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "眺望スポットαについての偵察報告"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "관측소 α에 대한 조사 보고서"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "關於遠眺點α的偵察報告"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "",
+                "newText": ""
+              }
+            }
+          },
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.name": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "回复：关于远眺点α侦察报告"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "RE: Regarding the OP-α Recon Report"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "RE：眺望スポットαについての偵察報告"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "회답: 관측소 α에 대한 조사 보고서"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "回覆：關於遠眺點α偵察報告"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "",
+                "newText": ""
+              }
+            }
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_001_gm01m7_2": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m7_18",
+              "name": {
+                "BR": "Modo de Defesa Desativado",
+                "CN": "防御模式已解除",
+                "DE": "Verteidigungsmodus deaktiviert",
+                "EN": "Defense Mode De-Activated",
+                "FR": "Mode Défense désactivé",
+                "ID": "Mode Pertahanan Dinonaktifkan",
+                "IT": "Modalità difensiva disattivata",
+                "JP": "防御モード解除",
+                "KR": "방어 모드 해제됨.",
+                "MX": "Modo defensa Desactivado",
+                "RU": "Режим защиты деактивирован",
+                "TC": "防禦模式已解除",
+                "TH": "โหม​ด​ป้องกัน​ได้​ปิด​ใช้งาน​แล้ว",
+                "VN": "Vô Hiệu Hóa Chế Độ Phòng Thủ"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2_1"
+            },
+            "2": {
+              "contentId": "text_gm01m7_12",
+              "name": {
+                "BR": "Gravação de Voz Danificada",
+                "CN": "受损录音文件",
+                "DE": "Beschädigte Sprachaufzeichnung",
+                "EN": "Damaged Voice Recording",
+                "FR": "Enregistrement vocal endommagé",
+                "ID": "Rekaman Suara Rusak",
+                "IT": "Registrazione vocale danneggiata",
+                "JP": "破損した録音ファイル",
+                "KR": "손상된 녹음 파일",
+                "MX": "Grabación de voz dañada",
+                "RU": "Поврежденная голосовая запись",
+                "TC": "受損錄音檔",
+                "TH": "การบันทึกเสียง​ที่​เสียหาย",
+                "VN": "Bản Ghi Âm Giọng Nói Bị Lỗi"
+              },
+              "order": 2,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2_2"
+            },
+            "3": {
+              "contentId": "text_gm01m7_17",
+              "name": {
+                "BR": "<@nar.mark>■■■■</>",
+                "CN": "<@nar.mark>■■■■</>",
+                "DE": "<@nar.mark>■■■■</>",
+                "EN": "<@nar.mark>■■■■</>",
+                "FR": "<@nar.mark>■■■■</>",
+                "ID": "<@nar.mark>■■■■</>",
+                "IT": "<@nar.mark>■■■■</>",
+                "JP": "<@nar.mark>■■■■</>",
+                "KR": "<@nar.mark>■■■■</>",
+                "MX": "<@nar.mark>■■■■</>",
+                "RU": "<@nar.mark>■■■■</>",
+                "TC": "<@nar.mark>■■■■</>",
+                "TH": "<@nar.mark>■■■■</>",
+                "VN": "<@nar.mark>■■■■</>"
+              },
+              "order": 3,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2_3"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m7_18",
+              "name": {
+                "BR": "Modo de Defesa Desativado",
+                "CN": "防御模式已解除",
+                "DE": "Verteidigungsmodus deaktiviert",
+                "EN": "Defense Mode De-Activated",
+                "FR": "Mode Défense désactivé",
+                "ID": "Mode Pertahanan Dinonaktifkan",
+                "IT": "Modalità difensiva disattivata",
+                "JP": "防御モード解除",
+                "KR": "방어 모드 해제됨.",
+                "MX": "Modo defensa Desactivado",
+                "RU": "Режим защиты деактивирован",
+                "TC": "防禦模式已解除",
+                "TH": "โหม​ด​ป้องกัน​ได้​ปิด​ใช้งาน​แล้ว",
+                "VN": "Vô Hiệu Hóa Chế Độ Phòng Thủ"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2_1"
+            },
+            "2": {
+              "contentId": "text_gm01m7_12",
+              "name": {
+                "BR": "Gravação de Voz Danificada",
+                "CN": "受损录音文件",
+                "DE": "Beschädigte Sprachaufzeichnung",
+                "EN": "Damaged Voice Recording",
+                "FR": "Enregistrement vocal endommagé",
+                "ID": "Rekaman Suara Rusak",
+                "IT": "Registrazione vocale danneggiata",
+                "JP": "破損した録音ファイル",
+                "KR": "손상된 녹음 파일",
+                "MX": "Grabación de voz dañada",
+                "RU": "Поврежденная голосовая запись",
+                "TC": "受損錄音檔",
+                "TH": "การบันทึกเสียง​ที่​เสียหาย",
+                "VN": "Bản Ghi Âm Giọng Nói Bị Lỗi"
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2_2"
+            },
+            "3": {
+              "contentId": "text_gm01m7_17",
+              "name": {
+                "BR": "<@nar.mark>■■■■</>",
+                "CN": "<@nar.mark>■■■■</>",
+                "DE": "<@nar.mark>■■■■</>",
+                "EN": "<@nar.mark>■■■■</>",
+                "FR": "<@nar.mark>■■■■</>",
+                "ID": "<@nar.mark>■■■■</>",
+                "IT": "<@nar.mark>■■■■</>",
+                "JP": "<@nar.mark>■■■■</>",
+                "KR": "<@nar.mark>■■■■</>",
+                "MX": "<@nar.mark>■■■■</>",
+                "RU": "<@nar.mark>■■■■</>",
+                "TC": "<@nar.mark>■■■■</>",
+                "TH": "<@nar.mark>■■■■</>",
+                "VN": "<@nar.mark>■■■■</>"
+              },
+              "order": 3,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_001_gm01m7_2_3"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.3.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map01_lv001_3": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_68",
+              "name": {
+                "BR": "Resumo de Operações do TFV4",
+                "CN": "四号谷地缆车转运站简介",
+                "DE": "Einsatzzusammenfassung T4SB",
+                "EN": "V4CC Operations Summary",
+                "FR": "Résumé des opérations TV4",
+                "ID": "Ringkasan Operasi V4CC",
+                "IT": "Rapporto operativo Funivia Valle IV",
+                "JP": "四号谷地連絡所について",
+                "KR": "4번 협곡 케이블카 환승역 간략 소개",
+                "MX": "Resumen de Operaciones TV4",
+                "RU": "Сводка по работе СФД4",
+                "TC": "四號谷地纜車轉運站簡介",
+                "TH": "สรุป​การปฏิบัติ​งาน​ V4CC",
+                "VN": "Tổng Kết Vận Hành Cáp Treo"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_3_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_68",
+              "name": {
+                "BR": "Resumo de Operações do TFV4",
+                "CN": "四号谷地缆车转运站简介",
+                "DE": "Einsatzzusammenfassung T4SB",
+                "EN": "V4CC Operations Summary",
+                "FR": "Résumé des opérations TV4",
+                "ID": "Ringkasan Operasi V4CC",
+                "IT": "Rapporto operativo Funivia Valle IV",
+                "JP": "四号谷地連絡所について",
+                "KR": "4번 협곡 케이블카 환승역 간략 소개",
+                "MX": "Resumen de Operaciones TV4",
+                "RU": "Сводка по работе СФД4",
+                "TC": "四號谷地纜車轉運站簡介",
+                "TH": "สรุป​การปฏิบัติ​งาน​ V4CC",
+                "VN": "Tổng Kết Vận Hành Cáp Treo"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_3_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_f1m9d4_1": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_1_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_1_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_f1m9d4_2": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_2_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_2_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_f1m9d4_3": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_3_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_3_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_f1m9d4_4": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_4_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m9d4_2",
+              "name": {
+                "BR": "Monitoramento de Operações Energizadas",
+                "CN": "动力运转状态监测",
+                "DE": "Überwachung des motorisierten Betriebs",
+                "EN": "Monitoring of Powered Operations",
+                "FR": "Suivi des opérations énergétiques",
+                "ID": "Pemantauan Operasi Beraliran Listrik",
+                "IT": "Monitoraggio operazioni alimentate",
+                "JP": "動力運転状態の監視",
+                "KR": "동력 운행 상황",
+                "MX": "Monitoreo de operaciones en funcionamiento",
+                "RU": "Мониторинг энергозависимых операций",
+                "TC": "動力運轉狀態監測",
+                "TH": "การ​ตรวจสอบ​การ​ดำเนินงาน​ที่​ใช้​พลังงาน",
+                "VN": "Giám Sát Hoạt Động Có Nguồn Điện"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_f1m9d4_4_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map01_lv005_29": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv005_29",
+              "name": {
+                "BR": "Log de Monitoramento",
+                "CN": "监控记录",
+                "DE": "Überwachungslogbuch",
+                "EN": "Monitoring Log",
+                "FR": "Journal de surveillance",
+                "ID": "Log Pemantauan",
+                "IT": "Registro di monitoraggio",
+                "JP": "監視記録",
+                "KR": "감시 카메라 기록",
+                "MX": "Registro de monitoreo",
+                "RU": "Журнал наблюдений",
+                "TC": "監視器紀錄",
+                "TH": "บันทึก​การ​ตรวจสอบ",
+                "VN": "Nhật Ký Giám Sát"
+              },
+              "order": 1,
+              "prtsId": "nar_res_infiltrator_4",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv005_29"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv005_29",
+              "name": {
+                "BR": "Log de Monitoramento",
+                "CN": "监控记录",
+                "DE": "Überwachungslogbuch",
+                "EN": "Monitoring Log",
+                "FR": "Journal de surveillance",
+                "ID": "Log Pemantauan",
+                "IT": "Registro di monitoraggio",
+                "JP": "監視記録",
+                "KR": "감시 카메라 기록",
+                "MX": "Registro de monitoreo",
+                "RU": "Журнал наблюдений",
+                "TC": "監視器紀錄",
+                "TH": "บันทึก​การ​ตรวจสอบ",
+                "VN": "Nhật Ký Giám Sát"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "nar_res_infiltrator_4",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv005_29"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map01_lv001_2": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_30",
+              "name": {
+                "BR": "Arquivo de Aviso",
+                "CN": "警示文档",
+                "DE": "Warndatei",
+                "EN": "Warning File",
+                "FR": "Fichier d'alerte",
+                "ID": "File Peringatan",
+                "IT": "File di allerta",
+                "JP": "警告文書",
+                "KR": "경고 파일",
+                "MX": "Archivo de advertencia",
+                "RU": "Предупреждение",
+                "TC": "警示文件",
+                "TH": "ไฟล์​เตือนภัย",
+                "VN": "Tệp Cảnh Báo"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_2_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_30",
+              "name": {
+                "BR": "Arquivo de Aviso",
+                "CN": "警示文档",
+                "DE": "Warndatei",
+                "EN": "Warning File",
+                "FR": "Fichier d'alerte",
+                "ID": "File Peringatan",
+                "IT": "File di allerta",
+                "JP": "警告文書",
+                "KR": "경고 파일",
+                "MX": "Archivo de advertencia",
+                "RU": "Предупреждение",
+                "TC": "警示文件",
+                "TH": "ไฟล์​เตือนภัย",
+                "VN": "Tệp Cảnh Báo"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_2_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map01_lv001_4": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_13",
+              "name": {
+                "BR": "Resumo do Dispositivo de Proteção",
+                "CN": "防护装置简介",
+                "DE": "Zusammenfassung der Schutzvorrichtung",
+                "EN": "Protective Device Summary",
+                "FR": "Résumé des dispositifs de protection",
+                "ID": "Ringkasan Alat Pelindung",
+                "IT": "Rapporto dispositivo di protezione",
+                "JP": "防衛装置について",
+                "KR": "방호 장치 간략 소개",
+                "MX": "Resumen de dispositivo de protección",
+                "RU": "Защитное устройство: сводка",
+                "TC": "防護裝置簡介",
+                "TH": "สรุป​อุปกรณ์​ปกป้อง",
+                "VN": "Tổng Kết Thiết Bị Bảo Vệ"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_4_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_map01_lv001_13",
+              "name": {
+                "BR": "Resumo do Dispositivo de Proteção",
+                "CN": "防护装置简介",
+                "DE": "Zusammenfassung der Schutzvorrichtung",
+                "EN": "Protective Device Summary",
+                "FR": "Résumé des dispositifs de protection",
+                "ID": "Ringkasan Alat Pelindung",
+                "IT": "Rapporto dispositivo di protezione",
+                "JP": "防衛装置について",
+                "KR": "방호 장치 간략 소개",
+                "MX": "Resumen de dispositivo de protección",
+                "RU": "Защитное устройство: сводка",
+                "TC": "防護裝置簡介",
+                "TH": "สรุป​อุปกรณ์​ปกป้อง",
+                "VN": "Tổng Kết Thiết Bị Bảo Vệ"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_4_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map01_lv001_gm01m9": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m9_3",
+              "name": {
+                "BR": "Relatório de Inspeção Diária da Fábrica",
+                "CN": "工厂巡查日报",
+                "DE": "Täglicher Fabrikinspektionsbericht",
+                "EN": "Daily Factory Inspection Report",
+                "FR": "Rapport d'inspection quotidien de l'usine",
+                "ID": "Laporan Inspeksi Pabrik Harian",
+                "IT": "Rapporto d'ispezione giornaliera alla fabbrica",
+                "JP": "工場巡査日報",
+                "KR": "공장 순찰 일일 보고",
+                "MX": "Informe diario de inspección de la fábrica",
+                "RU": "Ежедневный отчет об инспекции завода",
+                "TC": "工廠巡查日報",
+                "TH": "รายงาน​การ​ตรวจสอบ​โรงงาน​ประจำวัน",
+                "VN": "Báo Cáo Điều Tra Nhà Máy Hàng Ngày"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_gm01m9_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_gm01m9_3",
+              "name": {
+                "BR": "Relatório de Inspeção Diária da Fábrica",
+                "CN": "工厂巡查日报",
+                "DE": "Täglicher Fabrikinspektionsbericht",
+                "EN": "Daily Factory Inspection Report",
+                "FR": "Rapport d'inspection quotidien de l'usine",
+                "ID": "Laporan Inspeksi Pabrik Harian",
+                "IT": "Rapporto d'ispezione giornaliera alla fabbrica",
+                "JP": "工場巡査日報",
+                "KR": "공장 순찰 일일 보고",
+                "MX": "Informe diario de inspección de la fábrica",
+                "RU": "Ежедневный отчет об инспекции завода",
+                "TC": "工廠巡查日報",
+                "TH": "รายงาน​การ​ตรวจสอบ​โรงงาน​ประจำวัน",
+                "VN": "Báo Cáo Điều Tra Nhà Máy Hàng Ngày"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map01_lv001_gm01m9_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map02_lv002_f1m19d1": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m19d1_1",
+              "name": {
+                "BR": "Registro Fotográfico: Praça Cívica",
+                "CN": "影像记录·市民广场",
+                "DE": "Foto-Aufzeichnung: Stadtplatz",
+                "EN": "Photo Record: Citizen Square",
+                "FR": "Archive photo : place citoyenne",
+                "ID": "Rekaman Foto: Alun-alun Warga",
+                "IT": "Documento fotografico: Piazza cittadina",
+                "JP": "映像記録・市民広場",
+                "KR": "영상기록 · 시민 광장",
+                "MX": "Registro fotográfico: Plaza ciudadana",
+                "RU": "Фотоотчет: площадь Граждан",
+                "TC": "影像紀錄·市民廣場",
+                "TH": "บันทึก​รูปภาพ​: จัตุรัส​พลเมือง",
+                "VN": "Hồ Sơ Ảnh: Quảng Trường Công Dân"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_1"
+            },
+            "2": {
+              "contentId": "text_f1m19d1_2",
+              "name": {
+                "BR": "Registro Fotográfico: Avenida Fangxing",
+                "CN": "影像记录·方兴衢",
+                "DE": "Foto-Aufzeichnung: Fangxing-Straße",
+                "EN": "Photo Record: Fangxing Avenue",
+                "FR": "Archive photo : avenue Fangxing",
+                "ID": "Rekaman Foto: Jalan Lebar Fangxing",
+                "IT": "Documento fotografico: Viale Fangxing",
+                "JP": "映像記録・方興街",
+                "KR": "영상기록 · 방흥거리",
+                "MX": "Registro fotográfico: Avenida Fangxing",
+                "RU": "Фотоотчет: улица Фансин",
+                "TC": "影像紀錄·方興衢",
+                "TH": "บันทึก​รูปภาพ​: ถนน​ฟาง​ซิง",
+                "VN": "Hồ Sơ Ảnh: Đại Lộ Phương Hưng"
+              },
+              "order": 2,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_2"
+            },
+            "3": {
+              "contentId": "text_f1m19d1_3",
+              "name": {
+                "BR": "Registro Fotográfico: Academia do Escritório Tianshi",
+                "CN": "影像记录·天师府学院",
+                "DE": "Foto-Aufzeichnung: Akademie der Tianshi-Behörde",
+                "EN": "Photo Record: Tianshi Bureau Academy",
+                "FR": "Archive photo : Académie des Tianshi",
+                "ID": "Rekaman Foto: Akademi Biro Tianshi",
+                "IT": "Documento fotografico: Accademia Istituto Tianshi",
+                "JP": "映像記録・武陵天師府学院",
+                "KR": "영상기록 · 천사부 학원",
+                "MX": "Registro fotográfico: Academia de la Oficina de Tianshi",
+                "RU": "Фотоотчет: академия бюро Тяньши",
+                "TC": "影像紀錄·天師府學院",
+                "TH": "บันทึก​รูปภาพ​: สถาบัน​สำนัก​เทียน​ซือ",
+                "VN": "Hồ Sơ Ảnh: Học Viện Cục Thiên Sư"
+              },
+              "order": 3,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m19d1_1",
+              "name": {
+                "BR": "Registro Fotográfico: Praça Cívica",
+                "CN": "影像记录·市民广场",
+                "DE": "Foto-Aufzeichnung: Stadtplatz",
+                "EN": "Photo Record: Citizen Square",
+                "FR": "Archive photo : place citoyenne",
+                "ID": "Rekaman Foto: Alun-alun Warga",
+                "IT": "Documento fotografico: Piazza cittadina",
+                "JP": "映像記録・市民広場",
+                "KR": "영상기록 · 시민 광장",
+                "MX": "Registro fotográfico: Plaza ciudadana",
+                "RU": "Фотоотчет: площадь Граждан",
+                "TC": "影像紀錄·市民廣場",
+                "TH": "บันทึก​รูปภาพ​: จัตุรัส​พลเมือง",
+                "VN": "Hồ Sơ Ảnh: Quảng Trường Công Dân"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_1"
+            },
+            "2": {
+              "contentId": "text_f1m19d1_2",
+              "name": {
+                "BR": "Registro Fotográfico: Avenida Fangxing",
+                "CN": "影像记录·方兴衢",
+                "DE": "Foto-Aufzeichnung: Fangxing-Straße",
+                "EN": "Photo Record: Fangxing Avenue",
+                "FR": "Archive photo : avenue Fangxing",
+                "ID": "Rekaman Foto: Jalan Lebar Fangxing",
+                "IT": "Documento fotografico: Viale Fangxing",
+                "JP": "映像記録・方興街",
+                "KR": "영상기록 · 방흥거리",
+                "MX": "Registro fotográfico: Avenida Fangxing",
+                "RU": "Фотоотчет: улица Фансин",
+                "TC": "影像紀錄·方興衢",
+                "TH": "บันทึก​รูปภาพ​: ถนน​ฟาง​ซิง",
+                "VN": "Hồ Sơ Ảnh: Đại Lộ Phương Hưng"
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_2"
+            },
+            "3": {
+              "contentId": "text_f1m19d1_3",
+              "name": {
+                "BR": "Registro Fotográfico: Academia do Escritório Tianshi",
+                "CN": "影像记录·天师府学院",
+                "DE": "Foto-Aufzeichnung: Akademie der Tianshi-Behörde",
+                "EN": "Photo Record: Tianshi Bureau Academy",
+                "FR": "Archive photo : Académie des Tianshi",
+                "ID": "Rekaman Foto: Akademi Biro Tianshi",
+                "IT": "Documento fotografico: Accademia Istituto Tianshi",
+                "JP": "映像記録・武陵天師府学院",
+                "KR": "영상기록 · 천사부 학원",
+                "MX": "Registro fotográfico: Academia de la Oficina de Tianshi",
+                "RU": "Фотоотчет: академия бюро Тяньши",
+                "TC": "影像紀錄·天師府學院",
+                "TH": "บันทึก​รูปภาพ​: สถาบัน​สำนัก​เทียน​ซือ",
+                "VN": "Hồ Sơ Ảnh: Học Viện Cục Thiên Sư"
+              },
+              "order": 3,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.3.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map02_lv002_f1m19d1_2": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m19d1_4",
+              "name": {
+                "BR": "Registro Fotográfico: O Tianshi Perplexo",
+                "CN": "影像记录·苦恼的天师",
+                "DE": "Foto-Aufzeichnung: Der Verwirrte Tianshi",
+                "EN": "Photo Record: The Perplexed Tianshi",
+                "FR": "Archive photo : les Tianshi perplexes",
+                "ID": "Rekaman Foto: Tianshi yang Kelimpungan",
+                "IT": "Documento fotografico: I Tianshi perplessi",
+                "JP": "映像記録・悩める天師",
+                "KR": "영상기록 · 고뇌하는 천사",
+                "MX": "Registro fotográfico: El Tianshi perplejo",
+                "RU": "Фотоотчет: обеспокоенный Тяньши",
+                "TC": "影像紀錄·苦惱的天師",
+                "TH": "บันทึกภาพ​ถ่าย​: เทียน​ซือ​ผู้​สับสน",
+                "VN": "Hồ Sơ Ảnh: Thiên Sư Bối Rối"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_2_1"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m19d1_4",
+              "name": {
+                "BR": "Registro Fotográfico: O Tianshi Perplexo",
+                "CN": "影像记录·苦恼的天师",
+                "DE": "Foto-Aufzeichnung: Der Verwirrte Tianshi",
+                "EN": "Photo Record: The Perplexed Tianshi",
+                "FR": "Archive photo : les Tianshi perplexes",
+                "ID": "Rekaman Foto: Tianshi yang Kelimpungan",
+                "IT": "Documento fotografico: I Tianshi perplessi",
+                "JP": "映像記録・悩める天師",
+                "KR": "영상기록 · 고뇌하는 천사",
+                "MX": "Registro fotográfico: El Tianshi perplejo",
+                "RU": "Фотоотчет: обеспокоенный Тяньши",
+                "TC": "影像紀錄·苦惱的天師",
+                "TH": "บันทึกภาพ​ถ่าย​: เทียน​ซือ​ผู้​สับสน",
+                "VN": "Hồ Sơ Ảnh: Thiên Sư Bối Rối"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_2_1"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "term_map02_lv002_f1m19d1_3": {
+        "oldValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m19d1_1",
+              "name": {
+                "BR": "Registro Fotográfico: Praça Cívica",
+                "CN": "影像记录·市民广场",
+                "DE": "Foto-Aufzeichnung: Stadtplatz",
+                "EN": "Photo Record: Citizen Square",
+                "FR": "Archive photo : place citoyenne",
+                "ID": "Rekaman Foto: Alun-alun Warga",
+                "IT": "Documento fotografico: Piazza cittadina",
+                "JP": "映像記録・市民広場",
+                "KR": "영상기록 · 시민 광장",
+                "MX": "Registro fotográfico: Plaza ciudadana",
+                "RU": "Фотоотчет: площадь Граждан",
+                "TC": "影像紀錄·市民廣場",
+                "TH": "บันทึก​รูปภาพ​: จัตุรัส​พลเมือง",
+                "VN": "Hồ Sơ Ảnh: Quảng Trường Công Dân"
+              },
+              "order": 1,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_1"
+            },
+            "2": {
+              "contentId": "text_f1m19d1_2",
+              "name": {
+                "BR": "Registro Fotográfico: Avenida Fangxing",
+                "CN": "影像记录·方兴衢",
+                "DE": "Foto-Aufzeichnung: Fangxing-Straße",
+                "EN": "Photo Record: Fangxing Avenue",
+                "FR": "Archive photo : avenue Fangxing",
+                "ID": "Rekaman Foto: Jalan Lebar Fangxing",
+                "IT": "Documento fotografico: Viale Fangxing",
+                "JP": "映像記録・方興街",
+                "KR": "영상기록 · 방흥거리",
+                "MX": "Registro fotográfico: Avenida Fangxing",
+                "RU": "Фотоотчет: улица Фансин",
+                "TC": "影像紀錄·方興衢",
+                "TH": "บันทึก​รูปภาพ​: ถนน​ฟาง​ซิง",
+                "VN": "Hồ Sơ Ảnh: Đại Lộ Phương Hưng"
+              },
+              "order": 2,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_2"
+            },
+            "3": {
+              "contentId": "text_f1m19d1_3",
+              "name": {
+                "BR": "Registro Fotográfico: Academia do Escritório Tianshi",
+                "CN": "影像记录·天师府学院",
+                "DE": "Foto-Aufzeichnung: Akademie der Tianshi-Behörde",
+                "EN": "Photo Record: Tianshi Bureau Academy",
+                "FR": "Archive photo : Académie des Tianshi",
+                "ID": "Rekaman Foto: Akademi Biro Tianshi",
+                "IT": "Documento fotografico: Accademia Istituto Tianshi",
+                "JP": "映像記録・武陵天師府学院",
+                "KR": "영상기록 · 천사부 학원",
+                "MX": "Registro fotográfico: Academia de la Oficina de Tianshi",
+                "RU": "Фотоотчет: академия бюро Тяньши",
+                "TC": "影像紀錄·天師府學院",
+                "TH": "บันทึก​รูปภาพ​: สถาบัน​สำนัก​เทียน​ซือ",
+                "VN": "Hồ Sơ Ảnh: Học Viện Cục Thiên Sư"
+              },
+              "order": 3,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_3"
+            },
+            "4": {
+              "contentId": "text_f1m19d1_4",
+              "name": {
+                "BR": "Registro Fotográfico: O Tianshi Perplexo",
+                "CN": "影像记录·苦恼的天师",
+                "DE": "Foto-Aufzeichnung: Der Verwirrte Tianshi",
+                "EN": "Photo Record: The Perplexed Tianshi",
+                "FR": "Archive photo : les Tianshi perplexes",
+                "ID": "Rekaman Foto: Tianshi yang Kelimpungan",
+                "IT": "Documento fotografico: I Tianshi perplessi",
+                "JP": "映像記録・悩める天師",
+                "KR": "영상기록 · 고뇌하는 천사",
+                "MX": "Registro fotográfico: El Tianshi perplejo",
+                "RU": "Фотоотчет: обеспокоенный Тяньши",
+                "TC": "影像紀錄·苦惱的天師",
+                "TH": "บันทึกภาพ​ถ่าย​: เทียน​ซือ​ผู้​สับสน",
+                "VN": "Hồ Sơ Ảnh: Thiên Sư Bối Rối"
+              },
+              "order": 4,
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_4"
+            }
+          }
+        },
+        "newValue": {
+          "list": {
+            "1": {
+              "contentId": "text_f1m19d1_1",
+              "name": {
+                "BR": "Registro Fotográfico: Praça Cívica",
+                "CN": "影像记录·市民广场",
+                "DE": "Foto-Aufzeichnung: Stadtplatz",
+                "EN": "Photo Record: Citizen Square",
+                "FR": "Archive photo : place citoyenne",
+                "ID": "Rekaman Foto: Alun-alun Warga",
+                "IT": "Documento fotografico: Piazza cittadina",
+                "JP": "映像記録・市民広場",
+                "KR": "영상기록 · 시민 광장",
+                "MX": "Registro fotográfico: Plaza ciudadana",
+                "RU": "Фотоотчет: площадь Граждан",
+                "TC": "影像紀錄·市民廣場",
+                "TH": "บันทึก​รูปภาพ​: จัตุรัส​พลเมือง",
+                "VN": "Hồ Sơ Ảnh: Quảng Trường Công Dân"
+              },
+              "order": 1,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_1"
+            },
+            "2": {
+              "contentId": "text_f1m19d1_2",
+              "name": {
+                "BR": "Registro Fotográfico: Avenida Fangxing",
+                "CN": "影像记录·方兴衢",
+                "DE": "Foto-Aufzeichnung: Fangxing-Straße",
+                "EN": "Photo Record: Fangxing Avenue",
+                "FR": "Archive photo : avenue Fangxing",
+                "ID": "Rekaman Foto: Jalan Lebar Fangxing",
+                "IT": "Documento fotografico: Viale Fangxing",
+                "JP": "映像記録・方興街",
+                "KR": "영상기록 · 방흥거리",
+                "MX": "Registro fotográfico: Avenida Fangxing",
+                "RU": "Фотоотчет: улица Фансин",
+                "TC": "影像紀錄·方興衢",
+                "TH": "บันทึก​รูปภาพ​: ถนน​ฟาง​ซิง",
+                "VN": "Hồ Sơ Ảnh: Đại Lộ Phương Hưng"
+              },
+              "order": 2,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_2"
+            },
+            "3": {
+              "contentId": "text_f1m19d1_3",
+              "name": {
+                "BR": "Registro Fotográfico: Academia do Escritório Tianshi",
+                "CN": "影像记录·天师府学院",
+                "DE": "Foto-Aufzeichnung: Akademie der Tianshi-Behörde",
+                "EN": "Photo Record: Tianshi Bureau Academy",
+                "FR": "Archive photo : Académie des Tianshi",
+                "ID": "Rekaman Foto: Akademi Biro Tianshi",
+                "IT": "Documento fotografico: Accademia Istituto Tianshi",
+                "JP": "映像記録・武陵天師府学院",
+                "KR": "영상기록 · 천사부 학원",
+                "MX": "Registro fotográfico: Academia de la Oficina de Tianshi",
+                "RU": "Фотоотчет: академия бюро Тяньши",
+                "TC": "影像紀錄·天師府學院",
+                "TH": "บันทึก​รูปภาพ​: สถาบัน​สำนัก​เทียน​ซือ",
+                "VN": "Hồ Sơ Ảnh: Học Viện Cục Thiên Sư"
+              },
+              "order": 3,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_3"
+            },
+            "4": {
+              "contentId": "text_f1m19d1_4",
+              "name": {
+                "BR": "Registro Fotográfico: O Tianshi Perplexo",
+                "CN": "影像记录·苦恼的天师",
+                "DE": "Foto-Aufzeichnung: Der Verwirrte Tianshi",
+                "EN": "Photo Record: The Perplexed Tianshi",
+                "FR": "Archive photo : les Tianshi perplexes",
+                "ID": "Rekaman Foto: Tianshi yang Kelimpungan",
+                "IT": "Documento fotografico: I Tianshi perplessi",
+                "JP": "映像記録・悩める天師",
+                "KR": "영상기록 · 고뇌하는 천사",
+                "MX": "Registro fotográfico: El Tianshi perplejo",
+                "RU": "Фотоотчет: обеспокоенный Тяньши",
+                "TC": "影像紀錄·苦惱的天師",
+                "TH": "บันทึกภาพ​ถ่าย​: เทียน​ซือ​ผู้​สับสน",
+                "VN": "Hồ Sơ Ảnh: Thiên Sư Bối Rối"
+              },
+              "order": 4,
+              "overrideRadioId": "",
+              "prtsId": "",
+              "subtitle": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "uniqId": "term_map02_lv002_f1m19d1_3_4"
+            }
+          }
+        },
+        "changed": {
+          "list.1.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.2.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.3.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "list.4.overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      }
+    }
+  }
+}

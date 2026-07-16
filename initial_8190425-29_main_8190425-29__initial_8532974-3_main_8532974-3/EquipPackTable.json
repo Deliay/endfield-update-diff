@@ -1,0 +1,1854 @@
+{
+  "tableName": "EquipPackTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 27
+  },
+  "entries": {
+    "added": {
+      "pack_parts_wuling00_t3.5": {
+        "iconId": "icon_pack_wuling_suit_fire_natr01",
+        "isHighLevelSuit": true,
+        "isSuit": true,
+        "name": {
+          "BR": "Pacote de Equipamento CAI de Campo",
+          "CN": "集成实训装备组",
+          "DE": "AIK-Einsatz-Ausrüstungspaket",
+          "EN": "AIC Fieldwork Gear Pack",
+          "FR": "Pack d'équipement de terrain du GIA",
+          "ID": "Paket Gear Misi Lapangan AIC",
+          "IT": "Pacchetto equipaggiamento per lavoro sul campo del SIA",
+          "JP": "集成訓練セット",
+          "KR": "통합 실전 훈련 장비 세트",
+          "MX": "Paquete de equipamiento de Trabajo de campo del CAI",
+          "RU": "Набор снаряжения «Полевые работы АПК»",
+          "TC": "集成實訓裝備組",
+          "TH": "ชุด​อุปกรณ์​ภาค​สนาม​ AIC",
+          "VN": "Gói Trang Bị Thực Địa Khu Phức Hợp"
+        },
+        "packId": "pack_parts_wuling00_t3.5",
+        "sortId": 1
+      },
+      "pack_parts_wuling02_t4": {
+        "iconId": "icon_pack_parts_wuling01_t4",
+        "isHighLevelSuit": true,
+        "isSuit": false,
+        "name": {
+          "BR": "Pacote de Equipamento Pesquisador de Fendas​",
+          "CN": "涉渊装备组",
+          "DE": "Rissforscher-Ausrüstungspaket",
+          "EN": "Rift Trekker Gear Pack",
+          "FR": "Pack d'équipement d'arpenteur de faille",
+          "ID": "Paket Gear Penjelajah Celah",
+          "IT": "Pacchetto equipaggiamento per l'esplorazione della spaccatura",
+          "JP": "渡淵セット",
+          "KR": "절망 장비 세트",
+          "MX": "Paquete de equipamiento de Trotagrietas",
+          "RU": "Набор снаряжения «Путник разлома»",
+          "TC": "涉淵裝備組",
+          "TH": "ชุด​อุปกรณ์​ริฟ​ต์​เท​ร็​ก​เกอร์",
+          "VN": "Gói Trang Bị Lữ Hành Khe Nứt"
+        },
+        "packId": "pack_parts_wuling02_t4",
+        "sortId": 2
+      }
+    },
+    "removed": {},
+    "changed": {
+      "pack_parts_tundra01_t0": {
+        "oldValue": {
+          "iconId": "icon_pack_parts_tundra01_t0",
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento Básico",
+            "CN": "简易装备组",
+            "DE": "Standard-Ausrüstungspaket",
+            "EN": "Basic Gear Pack",
+            "FR": "Pack d'équipement de base",
+            "ID": "Paket Gear Biasa",
+            "IT": "Pacchetto equipaggiamento base",
+            "JP": "簡易装備セット",
+            "KR": "간편 장비 세트",
+            "MX": "Paquete de equipamiento básico",
+            "RU": "Набор базового снаряжения",
+            "TC": "簡易裝備組",
+            "TH": "ชุด​อุปกรณ์​เริ่มต้น",
+            "VN": "Gói Trang Bị Cơ Bản"
+          },
+          "packId": "pack_parts_tundra01_t0",
+          "sortId": 1
+        },
+        "newValue": {
+          "iconId": "icon_pack_parts_tundra01_t0",
+          "isHighLevelSuit": false,
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento Básico Avulso",
+            "CN": "简易独立装备组",
+            "DE": "Standard-Ausrüstungspaket ohne Set",
+            "EN": "Basic Non-Set Gear Pack",
+            "FR": "Pack d'équipement unique de base",
+            "ID": "Paket Gear Nonset Dasar",
+            "IT": "Pacchetto equipaggiamento senza set base",
+            "JP": "簡易単品装備セット",
+            "KR": "간편 단일 장비 세트",
+            "MX": "Paquete de equipamiento básico no perteneciente a un conjunto",
+            "RU": "Набор базового некомплектного снаряжения",
+            "TC": "簡易獨立裝備組",
+            "TH": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​พื้นฐาน",
+            "VN": "Gói Trang Bị Không Theo Bộ Cơ Bản"
+          },
+          "packId": "pack_parts_tundra01_t0",
+          "sortId": 1
+        },
+        "changed": {
+          "name": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Pacote de Equipamento Básico",
+                "newText": "Pacote de Equipamento Básico Avulso"
+              },
+              "CN": {
+                "oldText": "简易装备组",
+                "newText": "简易独立装备组"
+              },
+              "DE": {
+                "oldText": "Standard-Ausrüstungspaket",
+                "newText": "Standard-Ausrüstungspaket ohne Set"
+              },
+              "EN": {
+                "oldText": "Basic Gear Pack",
+                "newText": "Basic Non-Set Gear Pack"
+              },
+              "FR": {
+                "oldText": "Pack d'équipement de base",
+                "newText": "Pack d'équipement unique de base"
+              },
+              "ID": {
+                "oldText": "Paket Gear Biasa",
+                "newText": "Paket Gear Nonset Dasar"
+              },
+              "IT": {
+                "oldText": "Pacchetto equipaggiamento base",
+                "newText": "Pacchetto equipaggiamento senza set base"
+              },
+              "JP": {
+                "oldText": "簡易装備セット",
+                "newText": "簡易単品装備セット"
+              },
+              "KR": {
+                "oldText": "간편 장비 세트",
+                "newText": "간편 단일 장비 세트"
+              },
+              "MX": {
+                "oldText": "Paquete de equipamiento básico",
+                "newText": "Paquete de equipamiento básico no perteneciente a un conjunto"
+              },
+              "RU": {
+                "oldText": "Набор базового снаряжения",
+                "newText": "Набор базового некомплектного снаряжения"
+              },
+              "TC": {
+                "oldText": "簡易裝備組",
+                "newText": "簡易獨立裝備組"
+              },
+              "TH": {
+                "oldText": "ชุด​อุปกรณ์​เริ่มต้น",
+                "newText": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​พื้นฐาน"
+              },
+              "VN": {
+                "oldText": "Gói Trang Bị Cơ Bản",
+                "newText": "Gói Trang Bị Không Theo Bộ Cơ Bản"
+              }
+            }
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_wuling_suit_fire_natr01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_fire_natr01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Hot Work",
+            "CN": "动火用装备组",
+            "DE": "Hitze-Ausrüstungspaket",
+            "EN": "Hot Work Gear Pack",
+            "FR": "Pack d'équipement haute température",
+            "ID": "Paket Gear Kerja Panas",
+            "IT": "Pacchetto equipaggiamento anti-calore",
+            "JP": "火山用セット",
+            "KR": "열 작업용 장비 세트",
+            "MX": "Paquete de equipamiento resistente al calor",
+            "RU": "Набор снаряжения «Термоудар»",
+            "TC": "動火用裝備組",
+            "TH": "ชุด​อุปกรณ์​งาน​ร้อน​สูง",
+            "VN": "Gói Trang Bị Kháng Lửa"
+          },
+          "packId": "pack_wuling_suit_fire_natr01",
+          "sortId": 15
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_fire_natr01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Hot Work",
+            "CN": "动火用装备组",
+            "DE": "Hitze-Ausrüstungspaket",
+            "EN": "Hot Work Gear Pack",
+            "FR": "Pack d'équipement haute température",
+            "ID": "Paket Gear Kerja Panas",
+            "IT": "Pacchetto equipaggiamento anti-calore",
+            "JP": "火山用セット",
+            "KR": "열 작업용 장비 세트",
+            "MX": "Paquete de equipamiento resistente al calor",
+            "RU": "Набор снаряжения «Термоудар»",
+            "TC": "動火用裝備組",
+            "TH": "ชุด​อุปกรณ์​งาน​ร้อน​สูง",
+            "VN": "Gói Trang Bị Kháng Lửa"
+          },
+          "packId": "pack_wuling_suit_fire_natr01",
+          "sortId": 8
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 15,
+            "newValue": 8
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_parts_tundra01_t1": {
+        "oldValue": {
+          "iconId": "icon_pack_parts_tundra01_t1",
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento de Mineiro α",
+            "CN": "矿场α型装备组",
+            "DE": "Bergarbeiter-α-Ausrüstungspaket",
+            "EN": "Miner α Gear Pack",
+            "FR": "Pack d'équipement de mineur α",
+            "ID": "Paket Gear Miner α",
+            "IT": "Pacchetto equipaggiamento da minatore α",
+            "JP": "鉱山α型セット",
+            "KR": "광산 · α형 장비 세트",
+            "MX": "Paquete de equipamiento de minero α",
+            "RU": "Набор снаряжения «Шахтер α»",
+            "TC": "礦場α型裝備組",
+            "TH": "ชุด​อุปกรณ์​คนงาน​เหมือง​ α",
+            "VN": "Gói Trang Bị Thợ Mỏ α"
+          },
+          "packId": "pack_parts_tundra01_t1",
+          "sortId": 2
+        },
+        "newValue": {
+          "iconId": "icon_pack_parts_tundra01_t1",
+          "isHighLevelSuit": false,
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento Mineiro α Avulso",
+            "CN": "矿场α型独立装备组",
+            "DE": "Bergarbeiter-α-Ausrüstungspaket ohne Set",
+            "EN": "Miner α Non-Set Gear Pack",
+            "FR": "Pack d'équipement unique de mineur α",
+            "ID": "Paket Gear Nonset Miner α",
+            "IT": "Pacchetto equipaggiamento senza set minatore α",
+            "JP": "鉱山α型単品装備セット",
+            "KR": "광산 · α형 단일 장비 세트",
+            "MX": "Paquete de equipamiento de Minero α no perteneciente a un conjunto",
+            "RU": "Набор некомплектного снаряжения «Шахтер α»",
+            "TC": "礦場α型獨立裝備組",
+            "TH": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​คนงาน​เหมือง​ α",
+            "VN": "Gói Trang Bị Không Theo Bộ Thợ Mỏ α"
+          },
+          "packId": "pack_parts_tundra01_t1",
+          "sortId": 2
+        },
+        "changed": {
+          "name": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Pacote de Equipamento de Mineiro α",
+                "newText": "Pacote de Equipamento Mineiro α Avulso"
+              },
+              "CN": {
+                "oldText": "矿场α型装备组",
+                "newText": "矿场α型独立装备组"
+              },
+              "DE": {
+                "oldText": "Bergarbeiter-α-Ausrüstungspaket",
+                "newText": "Bergarbeiter-α-Ausrüstungspaket ohne Set"
+              },
+              "EN": {
+                "oldText": "Miner α Gear Pack",
+                "newText": "Miner α Non-Set Gear Pack"
+              },
+              "FR": {
+                "oldText": "Pack d'équipement de mineur α",
+                "newText": "Pack d'équipement unique de mineur α"
+              },
+              "ID": {
+                "oldText": "Paket Gear Miner α",
+                "newText": "Paket Gear Nonset Miner α"
+              },
+              "IT": {
+                "oldText": "Pacchetto equipaggiamento da minatore α",
+                "newText": "Pacchetto equipaggiamento senza set minatore α"
+              },
+              "JP": {
+                "oldText": "鉱山α型セット",
+                "newText": "鉱山α型単品装備セット"
+              },
+              "KR": {
+                "oldText": "광산 · α형 장비 세트",
+                "newText": "광산 · α형 단일 장비 세트"
+              },
+              "MX": {
+                "oldText": "Paquete de equipamiento de minero α",
+                "newText": "Paquete de equipamiento de Minero α no perteneciente a un conjunto"
+              },
+              "RU": {
+                "oldText": "Набор снаряжения «Шахтер α»",
+                "newText": "Набор некомплектного снаряжения «Шахтер α»"
+              },
+              "TC": {
+                "oldText": "礦場α型裝備組",
+                "newText": "礦場α型獨立裝備組"
+              },
+              "TH": {
+                "oldText": "ชุด​อุปกรณ์​คนงาน​เหมือง​ α",
+                "newText": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​คนงาน​เหมือง​ α"
+              },
+              "VN": {
+                "oldText": "Gói Trang Bị Thợ Mỏ α",
+                "newText": "Gói Trang Bị Không Theo Bộ Thợ Mỏ α"
+              }
+            }
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_wuling_suit_criti01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_criti01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento MI Security",
+            "CN": "M.I.警用装备组",
+            "DE": "MI-Sicherheitsausrüstungspaket",
+            "EN": "MI Security Gear Pack",
+            "FR": "Pack d'équipement d'IM Sécurité",
+            "ID": "Paket Gear MI Security",
+            "IT": "Pacchetto equipaggiamento sicurezza MI",
+            "JP": "M.I.警備セット",
+            "KR": "M. I. 경찰용 장비 세트",
+            "MX": "Paquete de equipamiento de seguridad MI",
+            "RU": "Набор снаряжения охраны «Мьешко»",
+            "TC": "M. I.警用裝備組",
+            "TH": "ชุด​อุปกรณ์​หน่วย​รักษา​ความปลอดภัย​ MI",
+            "VN": "Gói Trang Bị An Ninh MI"
+          },
+          "packId": "pack_wuling_suit_criti01",
+          "sortId": 16
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_criti01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento MI Security",
+            "CN": "M.I.警用装备组",
+            "DE": "MI-Sicherheitsausrüstungspaket",
+            "EN": "MI Security Gear Pack",
+            "FR": "Pack d'équipement d'IM Sécurité",
+            "ID": "Paket Gear MI Security",
+            "IT": "Pacchetto equipaggiamento sicurezza MI",
+            "JP": "M.I.警備セット",
+            "KR": "M. I. 경찰용 장비 세트",
+            "MX": "Paquete de equipamiento de seguridad MI",
+            "RU": "Набор снаряжения охраны «Мьешко»",
+            "TC": "M. I.警用裝備組",
+            "TH": "ชุด​อุปกรณ์​หน่วย​รักษา​ความปลอดภัย​ MI",
+            "VN": "Gói Trang Bị An Ninh MI"
+          },
+          "packId": "pack_wuling_suit_criti01",
+          "sortId": 9
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 16,
+            "newValue": 9
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_wuling_suit_pulse_cryst01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_pulse_cryst01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Pulser Labs",
+            "CN": "脉冲式装备组",
+            "DE": "Pulser-Labs-Ausrüstungspaket",
+            "EN": "Pulser Labs Gear Pack",
+            "FR": "Pack d'équipement de Pulser Labs",
+            "ID": "Paket Gear Pulser Labs",
+            "IT": "Pacchetto equipaggiamento a impulsi",
+            "JP": "パルス式セット",
+            "KR": "펄스식 장비 세트",
+            "MX": "Paquete de equipamiento de laboratorios Pulso",
+            "RU": "Набор снаряжения «Импульс»",
+            "TC": "脈衝式裝備組",
+            "TH": "ชุด​อุปกรณ์​ห้องทดลอง​พัล​เซอร์",
+            "VN": "Gói Trang Bị Sóng Xung"
+          },
+          "packId": "pack_wuling_suit_pulse_cryst01",
+          "sortId": 13
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_pulse_cryst01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Pulser Labs",
+            "CN": "脉冲式装备组",
+            "DE": "Pulser-Labs-Ausrüstungspaket",
+            "EN": "Pulser Labs Gear Pack",
+            "FR": "Pack d'équipement de Pulser Labs",
+            "ID": "Paket Gear Pulser Labs",
+            "IT": "Pacchetto equipaggiamento a impulsi",
+            "JP": "パルス式セット",
+            "KR": "펄스식 장비 세트",
+            "MX": "Paquete de equipamiento de laboratorios Pulso",
+            "RU": "Набор снаряжения «Импульс»",
+            "TC": "脈衝式裝備組",
+            "TH": "ชุด​อุปกรณ์​ห้องทดลอง​พัล​เซอร์",
+            "VN": "Gói Trang Bị Sóng Xung"
+          },
+          "packId": "pack_wuling_suit_pulse_cryst01",
+          "sortId": 6
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 13,
+            "newValue": 6
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_parts_tundra01_t2": {
+        "oldValue": {
+          "iconId": "icon_pack_parts_tundra01_t2",
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento de Mineiro β",
+            "CN": "矿场β型装备组",
+            "DE": "Bergarbeiter-β-Ausrüstungspaket",
+            "EN": "Miner β Gear Pack",
+            "FR": "Pack d'équipement de mineur β",
+            "ID": "Paket Gear Miner β",
+            "IT": "Pacchetto equipaggiamento da minatore β",
+            "JP": "鉱山β型セット",
+            "KR": "광산 · β형 장비 세트",
+            "MX": "Paquete de equipamiento de minero β",
+            "RU": "Набор снаряжения «Шахтер β»",
+            "TC": "礦場β型裝備組",
+            "TH": "ชุด​อุปกรณ์​คนงาน​เหมือง​ β",
+            "VN": "Gói Trang Bị Thợ Mỏ β"
+          },
+          "packId": "pack_parts_tundra01_t2",
+          "sortId": 3
+        },
+        "newValue": {
+          "iconId": "icon_pack_parts_tundra01_t2",
+          "isHighLevelSuit": false,
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento Mineiro β Avulso",
+            "CN": "矿场β型独立装备组",
+            "DE": "Bergarbeiter-β-Ausrüstungspaket ohne Set",
+            "EN": "Miner β Non-Set Gear Pack",
+            "FR": "Pack d'équipement unique de mineur β",
+            "ID": "Paket Gear Nonset Miner β",
+            "IT": "Pacchetto equipaggiamento senza set minatore β",
+            "JP": "鉱山β型単品装備セット",
+            "KR": "광산 · β형 단일 장비 세트",
+            "MX": "Paquete de equipamiento de Minero β no perteneciente a un conjunto",
+            "RU": "Набор некомплектного снаряжения «Шахтер β»",
+            "TC": "礦場β型獨立裝備組",
+            "TH": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​คนงาน​เหมือง​ β",
+            "VN": "Gói Trang Bị Không Theo Bộ Thợ Mỏ β"
+          },
+          "packId": "pack_parts_tundra01_t2",
+          "sortId": 3
+        },
+        "changed": {
+          "name": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Pacote de Equipamento de Mineiro β",
+                "newText": "Pacote de Equipamento Mineiro β Avulso"
+              },
+              "CN": {
+                "oldText": "矿场β型装备组",
+                "newText": "矿场β型独立装备组"
+              },
+              "DE": {
+                "oldText": "Bergarbeiter-β-Ausrüstungspaket",
+                "newText": "Bergarbeiter-β-Ausrüstungspaket ohne Set"
+              },
+              "EN": {
+                "oldText": "Miner β Gear Pack",
+                "newText": "Miner β Non-Set Gear Pack"
+              },
+              "FR": {
+                "oldText": "Pack d'équipement de mineur β",
+                "newText": "Pack d'équipement unique de mineur β"
+              },
+              "ID": {
+                "oldText": "Paket Gear Miner β",
+                "newText": "Paket Gear Nonset Miner β"
+              },
+              "IT": {
+                "oldText": "Pacchetto equipaggiamento da minatore β",
+                "newText": "Pacchetto equipaggiamento senza set minatore β"
+              },
+              "JP": {
+                "oldText": "鉱山β型セット",
+                "newText": "鉱山β型単品装備セット"
+              },
+              "KR": {
+                "oldText": "광산 · β형 장비 세트",
+                "newText": "광산 · β형 단일 장비 세트"
+              },
+              "MX": {
+                "oldText": "Paquete de equipamiento de minero β",
+                "newText": "Paquete de equipamiento de Minero β no perteneciente a un conjunto"
+              },
+              "RU": {
+                "oldText": "Набор снаряжения «Шахтер β»",
+                "newText": "Набор некомплектного снаряжения «Шахтер β»"
+              },
+              "TC": {
+                "oldText": "礦場β型裝備組",
+                "newText": "礦場β型獨立裝備組"
+              },
+              "TH": {
+                "oldText": "ชุด​อุปกรณ์​คนงาน​เหมือง​ β",
+                "newText": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​คนงาน​เหมือง​ β"
+              },
+              "VN": {
+                "oldText": "Gói Trang Bị Thợ Mỏ β",
+                "newText": "Gói Trang Bị Không Theo Bộ Thợ Mỏ β"
+              }
+            }
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_parts_tundra01_t3": {
+        "oldValue": {
+          "iconId": "icon_pack_parts_tundra01_t3",
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento de Mineiro γ",
+            "CN": "矿场γ型装备组",
+            "DE": "Bergarbeiter-γ-Ausrüstungspaket",
+            "EN": "Miner γ Gear Pack",
+            "FR": "Pack d'équipement de mineur γ",
+            "ID": "Paket Gear Miner γ",
+            "IT": "Pacchetto equipaggiamento da minatore γ",
+            "JP": "鉱山γ型セット",
+            "KR": "광산 · γ형 장비 세트",
+            "MX": "Paquete de equipamiento de minero γ",
+            "RU": "Набор снаряжения «Шахтер γ»",
+            "TC": "礦場γ型裝備組",
+            "TH": "ชุด​อุปกรณ์​คนงาน​เหมือง​ γ",
+            "VN": "Gói Trang Bị Thợ Mỏ γ"
+          },
+          "packId": "pack_parts_tundra01_t3",
+          "sortId": 4
+        },
+        "newValue": {
+          "iconId": "icon_pack_parts_tundra01_t3",
+          "isHighLevelSuit": false,
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento Mineiro γ Avulso",
+            "CN": "矿场γ型独立装备组",
+            "DE": "Bergarbeiter-γ-Ausrüstungspaket ohne Set",
+            "EN": "Miner γ Non-Set Gear Pack",
+            "FR": "Pack d'équipement unique de mineur γ",
+            "ID": "Paket Gear Nonset Miner γ",
+            "IT": "Pacchetto equipaggiamento senza set minatore γ",
+            "JP": "鉱山γ型単品装備セット",
+            "KR": "광산 · γ형 단일 장비 세트",
+            "MX": "Paquete de equipamiento de Minero γ no perteneciente a un conjunto",
+            "RU": "Набор некомплектного снаряжения «Шахтер γ»",
+            "TC": "礦場γ型獨立裝備組",
+            "TH": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​คนงาน​เหมือง​ γ",
+            "VN": "Gói Trang Bị Không Theo Bộ Thợ Mỏ γ"
+          },
+          "packId": "pack_parts_tundra01_t3",
+          "sortId": 4
+        },
+        "changed": {
+          "name": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Pacote de Equipamento de Mineiro γ",
+                "newText": "Pacote de Equipamento Mineiro γ Avulso"
+              },
+              "CN": {
+                "oldText": "矿场γ型装备组",
+                "newText": "矿场γ型独立装备组"
+              },
+              "DE": {
+                "oldText": "Bergarbeiter-γ-Ausrüstungspaket",
+                "newText": "Bergarbeiter-γ-Ausrüstungspaket ohne Set"
+              },
+              "EN": {
+                "oldText": "Miner γ Gear Pack",
+                "newText": "Miner γ Non-Set Gear Pack"
+              },
+              "FR": {
+                "oldText": "Pack d'équipement de mineur γ",
+                "newText": "Pack d'équipement unique de mineur γ"
+              },
+              "ID": {
+                "oldText": "Paket Gear Miner γ",
+                "newText": "Paket Gear Nonset Miner γ"
+              },
+              "IT": {
+                "oldText": "Pacchetto equipaggiamento da minatore γ",
+                "newText": "Pacchetto equipaggiamento senza set minatore γ"
+              },
+              "JP": {
+                "oldText": "鉱山γ型セット",
+                "newText": "鉱山γ型単品装備セット"
+              },
+              "KR": {
+                "oldText": "광산 · γ형 장비 세트",
+                "newText": "광산 · γ형 단일 장비 세트"
+              },
+              "MX": {
+                "oldText": "Paquete de equipamiento de minero γ",
+                "newText": "Paquete de equipamiento de Minero γ no perteneciente a un conjunto"
+              },
+              "RU": {
+                "oldText": "Набор снаряжения «Шахтер γ»",
+                "newText": "Набор некомплектного снаряжения «Шахтер γ»"
+              },
+              "TC": {
+                "oldText": "礦場γ型裝備組",
+                "newText": "礦場γ型獨立裝備組"
+              },
+              "TH": {
+                "oldText": "ชุด​อุปกรณ์​คนงาน​เหมือง​ γ",
+                "newText": "ชุด​อุปกรณ์​ไม่มี​เซ็ต​คนงาน​เหมือง​ γ"
+              },
+              "VN": {
+                "oldText": "Gói Trang Bị Thợ Mỏ γ",
+                "newText": "Gói Trang Bị Không Theo Bộ Thợ Mỏ γ"
+              }
+            }
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_tundra_suit_wisd01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_wisd01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de Isolamento de Mordvolt",
+            "CN": "蚀电屏蔽装备组",
+            "DE": "Mordvolt-Isolierausrüstungspaket",
+            "EN": "Mordvolt Insulation Gear Pack",
+            "FR": "Pack d'équipement isolant de Mordvolt",
+            "ID": "Paket Gear Insulasi Mordvolt",
+            "IT": "Pacchetto equipaggiamento isolante Elettroshock",
+            "JP": "蝕電遮断セット",
+            "KR": "침식 차단 장비 세트",
+            "MX": "Paquete de equipamiento de aislamiento de Mordvolt",
+            "RU": "Набор изолированного снаряжения «Мортвольт»",
+            "TC": "蝕電絕緣裝備組",
+            "TH": "ชุด​อุปกรณ์​ฉนวน​มอร์​ด​โวลต์",
+            "VN": "Gói Trang Bị Cách Điện Mordvolt"
+          },
+          "packId": "pack_tundra_suit_wisd01",
+          "sortId": 5
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_wisd01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de Isolamento de Mordvolt",
+            "CN": "蚀电屏蔽装备组",
+            "DE": "Mordvolt-Isolierausrüstungspaket",
+            "EN": "Mordvolt Insulation Gear Pack",
+            "FR": "Pack d'équipement isolant de Mordvolt",
+            "ID": "Paket Gear Insulasi Mordvolt",
+            "IT": "Pacchetto equipaggiamento isolante Elettroshock",
+            "JP": "蝕電遮断セット",
+            "KR": "침식 차단 장비 세트",
+            "MX": "Paquete de equipamiento de aislamiento de Mordvolt",
+            "RU": "Набор изолированного снаряжения «Мортвольт»",
+            "TC": "蝕電絕緣裝備組",
+            "TH": "ชุด​อุปกรณ์​ฉนวน​มอร์​ด​โวลต์",
+            "VN": "Gói Trang Bị Cách Điện Mordvolt"
+          },
+          "packId": "pack_tundra_suit_wisd01",
+          "sortId": 9
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 5,
+            "newValue": 9
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_wuling_crush_fracture": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_usp02",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Borda Grisalha",
+            "CN": "旧锋装备组",
+            "DE": "Graukant-Ausrüstungspaket",
+            "EN": "Grizzled Edge Gear Pack",
+            "FR": "Pack d'équipement Fil émoussé",
+            "ID": "Paket Gear Tepian Serabut",
+            "IT": "Pacchetto equipaggiamento dal bordo grigio",
+            "JP": "旧鋒セット",
+            "KR": "고검의 잔향 장비 세트",
+            "MX": "Paquete de equipamiento Filo curtido",
+            "RU": "Набор снаряжения «Потертое лезвие»",
+            "TC": "舊鋒裝備組",
+            "TH": "ชุด​อุปกรณ์​กริซ​เซิล​เอ​ด​จ์",
+            "VN": "Gói Trang Bị Lão Luyện"
+          },
+          "packId": "pack_wuling_crush_fracture",
+          "sortId": 22
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_usp02",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Borda Grisalha",
+            "CN": "旧锋装备组",
+            "DE": "Graukant-Ausrüstungspaket",
+            "EN": "Grizzled Edge Gear Pack",
+            "FR": "Pack d'équipement Fil émoussé",
+            "ID": "Paket Gear Tepian Serabut",
+            "IT": "Pacchetto equipaggiamento dal bordo grigio",
+            "JP": "旧鋒セット",
+            "KR": "고검의 잔향 장비 세트",
+            "MX": "Paquete de equipamiento Filo curtido",
+            "RU": "Набор снаряжения «Потертое лезвие»",
+            "TC": "舊鋒裝備組",
+            "TH": "ชุด​อุปกรณ์​กริซ​เซิล​เอ​ด​จ์",
+            "VN": "Gói Trang Bị Lão Luyện"
+          },
+          "packId": "pack_wuling_crush_fracture",
+          "sortId": 15
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 22,
+            "newValue": 15
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_wuling_suit_atk02": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_atk02",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Yinglung Tipo 50",
+            "CN": "50式应龙装备组",
+            "DE": "Yinglung-Typ-50-Ausrüstungspaket",
+            "EN": "Type 50 Yinglung Gear Pack",
+            "FR": "Pack d'équipement Yinglung type 50",
+            "ID": "Paket Gear Type 50 Yinglung",
+            "IT": "Pacchetto equipaggiamento Yinglung tipo 50",
+            "JP": "50式応龍セット",
+            "KR": "응룡 50식 장비 세트",
+            "MX": "Paquete de equipamiento Yinglung tipo 50",
+            "RU": "Набор снаряжения «Инлун-50»",
+            "TC": "50式應龍裝備組",
+            "TH": "ชุด​อุปกรณ์​ไทป์​ 50 ห​ยิง​หลง",
+            "VN": "Gói Trang Bị Yinglung Loại 50"
+          },
+          "packId": "pack_wuling_suit_atk02",
+          "sortId": 17
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_atk02",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Yinglung Tipo 50",
+            "CN": "50式应龙装备组",
+            "DE": "Yinglung-Typ-50-Ausrüstungspaket",
+            "EN": "Type 50 Yinglung Gear Pack",
+            "FR": "Pack d'équipement Yinglung type 50",
+            "ID": "Paket Gear Type 50 Yinglung",
+            "IT": "Pacchetto equipaggiamento Yinglung tipo 50",
+            "JP": "50式応龍セット",
+            "KR": "응룡 50식 장비 세트",
+            "MX": "Paquete de equipamiento Yinglung tipo 50",
+            "RU": "Набор снаряжения «Инлун-50»",
+            "TC": "50式應龍裝備組",
+            "TH": "ชุด​อุปกรณ์​ไทป์​ 50 ห​ยิง​หลง",
+            "VN": "Gói Trang Bị Yinglung Loại 50"
+          },
+          "packId": "pack_wuling_suit_atk02",
+          "sortId": 10
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 10
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_parts_wuling01_t4": {
+        "oldValue": {
+          "iconId": "icon_pack_parts_wuling01_t4",
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento do Redentor",
+            "CN": "纾难装备组",
+            "DE": "Erlöser-Ausrüstungspaket",
+            "EN": "Redeemer Gear Pack",
+            "FR": "Pack d'équipement de rédempteur",
+            "ID": "Paket Gear Redeemer",
+            "IT": "Pacchetto equipaggiamento della redenzione",
+            "JP": "救国セット",
+            "KR": "위기 탈출 장비 세트",
+            "MX": "Paquete de equipamiento de Redentor",
+            "RU": "Набор снаряжения «Освободитель»",
+            "TC": "紓難裝備組",
+            "TH": "ชุด​อุปกรณ์​ผู้​ไถ่ถอน",
+            "VN": "Gói Trang Bị Giải Nguy"
+          },
+          "packId": "pack_parts_wuling01_t4",
+          "sortId": 5
+        },
+        "newValue": {
+          "iconId": "icon_pack_parts_wuling01_t4",
+          "isHighLevelSuit": true,
+          "isSuit": false,
+          "name": {
+            "BR": "Pacote de Equipamento do Redentor",
+            "CN": "纾难装备组",
+            "DE": "Erlöser-Ausrüstungspaket",
+            "EN": "Redeemer Gear Pack",
+            "FR": "Pack d'équipement de rédempteur",
+            "ID": "Paket Gear Redeemer",
+            "IT": "Pacchetto equipaggiamento della redenzione",
+            "JP": "救国セット",
+            "KR": "위기 탈출 장비 세트",
+            "MX": "Paquete de equipamiento de Redentor",
+            "RU": "Набор снаряжения «Освободитель»",
+            "TC": "紓難裝備組",
+            "TH": "ชุด​อุปกรณ์​ผู้​ไถ่ถอน",
+            "VN": "Gói Trang Bị Giải Nguy"
+          },
+          "packId": "pack_parts_wuling01_t4",
+          "sortId": 1
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 5,
+            "newValue": 1
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_tundra_suit_agi01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_agi01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de MSGR Itinerante",
+            "CN": "巡行信使装备组",
+            "DE": "Botenausrüstungspaket",
+            "EN": "Roving MSGR Gear Pack",
+            "FR": "Pack d'équipement de MSGR itinérant",
+            "ID": "Paket Gear MSGR Keliling",
+            "IT": "Pacchetto equipaggiamento MSGR da viaggio",
+            "JP": "遍歴トランスポーターセット",
+            "KR": "순행 전달자 장비 세트",
+            "MX": "Paquete de equipamiento de MSJR móvil",
+            "RU": "Набор снаряжения гонца-странника",
+            "TC": "巡行信使裝備組",
+            "TH": "ชุด​อุปกรณ์​ MSGR ทั่วไป",
+            "VN": "Gói Trang Bị LLV Cơ Động"
+          },
+          "packId": "pack_tundra_suit_agi01",
+          "sortId": 4
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_agi01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de MSGR Itinerante",
+            "CN": "巡行信使装备组",
+            "DE": "Botenausrüstungspaket",
+            "EN": "Roving MSGR Gear Pack",
+            "FR": "Pack d'équipement de MSGR itinérant",
+            "ID": "Paket Gear MSGR Keliling",
+            "IT": "Pacchetto equipaggiamento MSGR da viaggio",
+            "JP": "遍歴トランスポーターセット",
+            "KR": "순행 전달자 장비 세트",
+            "MX": "Paquete de equipamiento de MSJR móvil",
+            "RU": "Набор снаряжения гонца-странника",
+            "TC": "巡行信使裝備組",
+            "TH": "ชุด​อุปกรณ์​ MSGR ทั่วไป",
+            "VN": "Gói Trang Bị LLV Cơ Động"
+          },
+          "packId": "pack_tundra_suit_agi01",
+          "sortId": 8
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 4,
+            "newValue": 8
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_tundra_suit_atk01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_atk01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Legado de Aburrey",
+            "CN": "阿伯莉遗声装备组",
+            "DE": "Aburreys-Vermächtnis-Ausrüstungspaket",
+            "EN": "Aburrey's Legacy Gear Pack",
+            "FR": "Pack d'équipement Héritage d'Aburrey",
+            "ID": "Paket Gear Peninggalan Aburrey",
+            "IT": "Pacchetto equipaggiamento eredità di Aburrey",
+            "JP": "アブリー遺声セット",
+            "KR": "아부레이의 메아리 장비 세트",
+            "MX": "Paquete de equipamiento de Legado de Aburrey",
+            "RU": "Набор снаряжения «Наследие Эберрей»",
+            "TC": "阿伯莉遺聲裝備組",
+            "TH": "ชุด​อุปกรณ์​มรดก​ของ​อ​เบอร์​เรย์",
+            "VN": "Gói Trang Bị Di Sản Của Aburrey"
+          },
+          "packId": "pack_tundra_suit_atk01",
+          "sortId": 7
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_atk01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Legado de Aburrey",
+            "CN": "阿伯莉遗声装备组",
+            "DE": "Aburreys-Vermächtnis-Ausrüstungspaket",
+            "EN": "Aburrey's Legacy Gear Pack",
+            "FR": "Pack d'équipement Héritage d'Aburrey",
+            "ID": "Paket Gear Peninggalan Aburrey",
+            "IT": "Pacchetto equipaggiamento eredità di Aburrey",
+            "JP": "アブリー遺声セット",
+            "KR": "아부레이의 메아리 장비 세트",
+            "MX": "Paquete de equipamiento de Legado de Aburrey",
+            "RU": "Набор снаряжения «Наследие Эберрей»",
+            "TC": "阿伯莉遺聲裝備組",
+            "TH": "ชุด​อุปกรณ์​มรดก​ของ​อ​เบอร์​เรย์",
+            "VN": "Gói Trang Bị Di Sản Của Aburrey"
+          },
+          "packId": "pack_tundra_suit_atk01",
+          "sortId": 11
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 7,
+            "newValue": 11
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_tundra_suit_str01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_str01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de MSGR Blindado",
+            "CN": "重装信使装备组",
+            "DE": "Gepanzerter-Bote-Ausrüstungspaket",
+            "EN": "Armored MSGR Gear Pack",
+            "FR": "Pack d'équipement de MSGR cuirassé",
+            "ID": "Paket Gear MSGR Berarmor",
+            "IT": "Pacchetto equipaggiamento MSGR corazzato",
+            "JP": "重装トランスポーターセット",
+            "KR": "중장갑 전달자 장비 세트",
+            "MX": "Paquete de equipamiento de MSJR blindado",
+            "RU": "Набор снаряжения гонца-воина",
+            "TC": "重裝信使裝備組",
+            "TH": "ชุด​อุปกรณ์​ MSGR หุ้ม​เกราะ",
+            "VN": "Gói Trang Bị LLV Bọc Thép"
+          },
+          "packId": "pack_tundra_suit_str01",
+          "sortId": 3
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_str01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de MSGR Blindado",
+            "CN": "重装信使装备组",
+            "DE": "Gepanzerter-Bote-Ausrüstungspaket",
+            "EN": "Armored MSGR Gear Pack",
+            "FR": "Pack d'équipement de MSGR cuirassé",
+            "ID": "Paket Gear MSGR Berarmor",
+            "IT": "Pacchetto equipaggiamento MSGR corazzato",
+            "JP": "重装トランスポーターセット",
+            "KR": "중장갑 전달자 장비 세트",
+            "MX": "Paquete de equipamiento de MSJR blindado",
+            "RU": "Набор снаряжения гонца-воина",
+            "TC": "重裝信使裝備組",
+            "TH": "ชุด​อุปกรณ์​เกราะ​ MSGR",
+            "VN": "Gói Trang Bị LLV Bọc Thép"
+          },
+          "packId": "pack_tundra_suit_str01",
+          "sortId": 7
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 3,
+            "newValue": 7
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_wuling_suit_poise01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_poise01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Æthertech",
+            "CN": "轻超域装备组",
+            "DE": "Æthertech-Ausrüstungspaket",
+            "EN": "Æthertech Gear Pack",
+            "FR": "Pack d'équipement Æthertech",
+            "ID": "Paket Gear Æthertech",
+            "IT": "Pacchetto equipaggiamento Æthertech",
+            "JP": "軽量超域セット",
+            "KR": "경량 초자연 장비 세트",
+            "MX": "Paquete de equipamiento de Etertecnología",
+            "RU": "Набор снаряжения «Эфиртех»",
+            "TC": "輕超域裝備組",
+            "TH": "ชุด​อุปกรณ์​เอ​เทอร์​เทค",
+            "VN": "Gói Trang Bị Æthertech"
+          },
+          "packId": "pack_wuling_suit_poise01",
+          "sortId": 11
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_poise01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Æthertech",
+            "CN": "轻超域装备组",
+            "DE": "Æthertech-Ausrüstungspaket",
+            "EN": "Æthertech Gear Pack",
+            "FR": "Pack d'équipement Æthertech",
+            "ID": "Paket Gear Æthertech",
+            "IT": "Pacchetto equipaggiamento Æthertech",
+            "JP": "軽量超域セット",
+            "KR": "경량 초자연 장비 세트",
+            "MX": "Paquete de equipamiento de Etertecnología",
+            "RU": "Набор снаряжения «Эфиртех»",
+            "TC": "輕超域裝備組",
+            "TH": "ชุด​อุปกรณ์​เอ​เทอร์​เทค",
+            "VN": "Gói Trang Bị Æthertech"
+          },
+          "packId": "pack_wuling_suit_poise01",
+          "sortId": 4
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 4
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_tundra_suit_stragi01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_stragi01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Pesado do CAI",
+            "CN": "集成重型装备组",
+            "DE": "Schweres AIK-Ausrüstungspaket",
+            "EN": "AIC Heavy Gear Pack",
+            "FR": "Pack d'équipement lourd du GIA",
+            "ID": "Paket Gear AIC Berat",
+            "IT": "Pacchetto equipaggiamento pesante del SIA",
+            "JP": "集成重装セット",
+            "KR": "통합 중량형 모델 장비 세트",
+            "MX": "Paquete de equipamiento de CAI pesado",
+            "RU": "Набор тяжелого снаряжения АПК",
+            "TC": "整合重型裝備組",
+            "TH": "ชุด​อุปกรณ์​ AIC งานหนัก",
+            "VN": "Gói Trang Bị Khu Phức Hợp Nặng"
+          },
+          "packId": "pack_tundra_suit_stragi01",
+          "sortId": 1
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_stragi01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Pesado do CAI",
+            "CN": "集成重型装备组",
+            "DE": "Schweres AIK-Ausrüstungspaket",
+            "EN": "AIC Heavy Gear Pack",
+            "FR": "Pack d'équipement lourd du GIA",
+            "ID": "Paket Gear AIC Berat",
+            "IT": "Pacchetto equipaggiamento pesante del SIA",
+            "JP": "集成重装セット",
+            "KR": "통합 중량형 모델 장비 세트",
+            "MX": "Paquete de equipamiento de CAI pesado",
+            "RU": "Набор тяжелого снаряжения АПК",
+            "TC": "整合重型裝備組",
+            "TH": "ชุด​อุปกรณ์​ AIC งานหนัก",
+            "VN": "Gói Trang Bị Khu Phức Hợp Nặng"
+          },
+          "packId": "pack_tundra_suit_stragi01",
+          "sortId": 5
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 5
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_tundra_suit_usp01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_usp01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de Catástrofe",
+            "CN": "天灾防护装备组",
+            "DE": "Katastrophen-Ausrüstungspaket",
+            "EN": "Catastrophe Gear Pack",
+            "FR": "Pack d'équipement de catastrophe",
+            "ID": "Paket Gear Catastrophe",
+            "IT": "Pacchetto equipaggiamento catastrofe",
+            "JP": "天災防護セット",
+            "KR": "재앙 방호 장비 세트",
+            "MX": "Paquete de equipamiento de Catástrofe",
+            "RU": "Набор снаряжения «Катастрофа»",
+            "TC": "天災防護裝備組",
+            "TH": "ชุด​อุปกรณ์​ภัยพิบัติ",
+            "VN": "Gói Trang Bị Thảm Họa"
+          },
+          "packId": "pack_tundra_suit_usp01",
+          "sortId": 8
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_usp01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de Catástrofe",
+            "CN": "天灾防护装备组",
+            "DE": "Katastrophen-Ausrüstungspaket",
+            "EN": "Catastrophe Gear Pack",
+            "FR": "Pack d'équipement de catastrophe",
+            "ID": "Paket Gear Catastrophe",
+            "IT": "Pacchetto equipaggiamento catastrofe",
+            "JP": "天災防護セット",
+            "KR": "재앙 방호 장비 세트",
+            "MX": "Paquete de equipamiento de Catástrofe",
+            "RU": "Набор снаряжения «Катастрофа»",
+            "TC": "天災防護裝備組",
+            "TH": "ชุด​อุปกรณ์​ภัยพิบัติ",
+            "VN": "Gói Trang Bị Thảm Họa"
+          },
+          "packId": "pack_tundra_suit_usp01",
+          "sortId": 12
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 8,
+            "newValue": 12
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_wuling_expend_spell01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_usp02",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento do Fluxo de Xiranita",
+            "CN": "壤流装备组",
+            "DE": "Xiranfluss-Ausrüstungspaket",
+            "EN": "Xiranflow Gear Pack",
+            "FR": "Pack d'équipement à Xiranflux",
+            "ID": "Paket Gear Xiranflow",
+            "IT": "Pacchetto equipaggiamento Xiranflow",
+            "JP": "壌流セット",
+            "KR": "식양의 흐름 장비 세트",
+            "MX": "Paquete de equipamiento de Flujo Xiran",
+            "RU": "Набор снаряжения «Ксиранад»",
+            "TC": "壤流裝備組",
+            "TH": "ชุด​อุปกรณ์​ซี​เรน​โฟลว์",
+            "VN": "Gói Trang Bị Xiranflow"
+          },
+          "packId": "pack_wuling_expend_spell01",
+          "sortId": 21
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_usp02",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento do Fluxo de Xiranita",
+            "CN": "壤流装备组",
+            "DE": "Xiranfluss-Ausrüstungspaket",
+            "EN": "Xiranflow Gear Pack",
+            "FR": "Pack d'équipement à Xiranflux",
+            "ID": "Paket Gear Xiranflow",
+            "IT": "Pacchetto equipaggiamento Xiranflow",
+            "JP": "壌流セット",
+            "KR": "식양의 흐름 장비 세트",
+            "MX": "Paquete de equipamiento de Flujo Xiran",
+            "RU": "Набор снаряжения «Ксиранад»",
+            "TC": "壤流裝備組",
+            "TH": "ชุด​อุปกรณ์​ซี​เรน​โฟลว์",
+            "VN": "Gói Trang Bị Xiranflow"
+          },
+          "packId": "pack_wuling_expend_spell01",
+          "sortId": 14
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 21,
+            "newValue": 14
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_wuling_suit_atb01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_atb01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Frontiers",
+            "CN": "拓荒装备组",
+            "DE": "Grenzgebiet-Ausrüstungspaket",
+            "EN": "Frontiers Gear Pack",
+            "FR": "Pack d'équipement des Confins",
+            "ID": "Paket Gear Frontiers",
+            "IT": "Pacchetto equipaggiamento della frontiera",
+            "JP": "パイオニアセット",
+            "KR": "개척 장비 세트",
+            "MX": "Paquete de equipamiento Fronteras",
+            "RU": "Набор снаряжения «Колонист»",
+            "TC": "拓荒裝備組",
+            "TH": "ชุด​อุปกรณ์​ชายแดน",
+            "VN": "Gói Trang Bị Tiền Tuyến"
+          },
+          "packId": "pack_wuling_suit_atb01",
+          "sortId": 14
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_atb01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Frontiers",
+            "CN": "拓荒装备组",
+            "DE": "Grenzgebiet-Ausrüstungspaket",
+            "EN": "Frontiers Gear Pack",
+            "FR": "Pack d'équipement des Confins",
+            "ID": "Paket Gear Frontiers",
+            "IT": "Pacchetto equipaggiamento della frontiera",
+            "JP": "パイオニアセット",
+            "KR": "개척 장비 세트",
+            "MX": "Paquete de equipamiento Fronteras",
+            "RU": "Набор снаряжения «Колонист»",
+            "TC": "拓荒裝備組",
+            "TH": "ชุด​อุปกรณ์​ชายแดน",
+            "VN": "Gói Trang Bị Tiền Tuyến"
+          },
+          "packId": "pack_wuling_suit_atb01",
+          "sortId": 7
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 14,
+            "newValue": 7
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_wuling_suit_heal01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_heal01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento LYNX",
+            "CN": "生物辅助装备组",
+            "DE": "LUCHS-Ausrüstungspaket",
+            "EN": "LYNX Gear Pack",
+            "FR": "Pack d'équipement LYNX",
+            "ID": "Paket Gear LYNX",
+            "IT": "Pacchetto equipaggiamento LYNX",
+            "JP": "生物補助セット",
+            "KR": "생체 보조 장비 세트",
+            "MX": "Paquete de equipamiento de LYNX",
+            "RU": "Набор снаряжения «Рысь»",
+            "TC": "生物輔助裝備組",
+            "TH": "ชุด​อุปกรณ์​ LYNX",
+            "VN": "Gói Trang Bị LYNX"
+          },
+          "packId": "pack_wuling_suit_heal01",
+          "sortId": 10
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_heal01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento LYNX",
+            "CN": "生物辅助装备组",
+            "DE": "LUCHS-Ausrüstungspaket",
+            "EN": "LYNX Gear Pack",
+            "FR": "Pack d'équipement LYNX",
+            "ID": "Paket Gear LYNX",
+            "IT": "Pacchetto equipaggiamento LYNX",
+            "JP": "生物補助セット",
+            "KR": "생체 보조 장비 세트",
+            "MX": "Paquete de equipamiento de LYNX",
+            "RU": "Набор снаряжения «Рысь»",
+            "TC": "生物輔助裝備組",
+            "TH": "ชุด​อุปกรณ์​ LYNX",
+            "VN": "Gói Trang Bị LYNX"
+          },
+          "packId": "pack_wuling_suit_heal01",
+          "sortId": 3
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 3
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_tundra_suit_will01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_will01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Resistente de Mordvolt",
+            "CN": "蚀电防护装备组",
+            "DE": "Mordvolt-Schutzausrüstungspaket",
+            "EN": "Mordvolt Resistant Gear Pack",
+            "FR": "Pack d'équipement résistant de Mordvolt",
+            "ID": "Paket Gear Resistans Mordvolt",
+            "IT": "Pacchetto equipaggiamento resistente Elettroshock",
+            "JP": "蝕電防護セット",
+            "KR": "침식 방호 장비 세트",
+            "MX": "Paquete de equipamiento resistente de Mordvolt",
+            "RU": "Набор резистентного снаряжения «Мортвольт»",
+            "TC": "蝕電防護裝備組",
+            "TH": "ชุด​อุปกรณ์​ต้านทาน​มอร์​ด​โวลต์",
+            "VN": "Gói Trang Bị Kháng Mordvolt"
+          },
+          "packId": "pack_tundra_suit_will01",
+          "sortId": 6
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_will01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Resistente de Mordvolt",
+            "CN": "蚀电防护装备组",
+            "DE": "Mordvolt-Schutzausrüstungspaket",
+            "EN": "Mordvolt Resistant Gear Pack",
+            "FR": "Pack d'équipement résistant de Mordvolt",
+            "ID": "Paket Gear Resistans Mordvolt",
+            "IT": "Pacchetto equipaggiamento resistente Elettroshock",
+            "JP": "蝕電防護セット",
+            "KR": "침식 방호 장비 세트",
+            "MX": "Paquete de equipamiento resistente de Mordvolt",
+            "RU": "Набор резистентного снаряжения «Мортвольт»",
+            "TC": "蝕電防護裝備組",
+            "TH": "ชุด​อุปกรณ์​ต้านทาน​มอร์​ด​โวลต์",
+            "VN": "Gói Trang Bị Kháng Mordvolt"
+          },
+          "packId": "pack_tundra_suit_will01",
+          "sortId": 10
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 6,
+            "newValue": 10
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_wuling_suit_phy01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_phy01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento do Espadeiro",
+            "CN": "点剑装备组",
+            "DE": "Schwertkämpfer-Ausrüstungspaket",
+            "EN": "Swordmancer Gear Pack",
+            "FR": "Pack d'équipement de spadamancien",
+            "ID": "Paket Gear Swordmancer",
+            "IT": "Pacchetto equipaggiamento da spadamante",
+            "JP": "宏山点剣セット",
+            "KR": "검술사 장비 세트",
+            "MX": "Paquete de equipamiento de espadachín",
+            "RU": "Набор снаряжения «Мастер меча»",
+            "TC": "點劍裝備組",
+            "TH": "ชุด​อุปกรณ์​นัก​ดาบ​เวท",
+            "VN": "Gói Trang Bị Kiếm Sĩ"
+          },
+          "packId": "pack_wuling_suit_phy01",
+          "sortId": 9
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_phy01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento do Espadeiro",
+            "CN": "点剑装备组",
+            "DE": "Schwertkämpfer-Ausrüstungspaket",
+            "EN": "Swordmancer Gear Pack",
+            "FR": "Pack d'équipement de spadamancien",
+            "ID": "Paket Gear Swordmancer",
+            "IT": "Pacchetto equipaggiamento da spadamante",
+            "JP": "宏山点剣セット",
+            "KR": "검술사 장비 세트",
+            "MX": "Paquete de equipamiento de espadachín",
+            "RU": "Набор снаряжения «Мастер меча»",
+            "TC": "點劍裝備組",
+            "TH": "ชุด​อุปกรณ์​นัก​ดาบ​เวท",
+            "VN": "Gói Trang Bị Kiếm Sĩ"
+          },
+          "packId": "pack_wuling_suit_phy01",
+          "sortId": 2
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 9,
+            "newValue": 2
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_tundra_suit_wisdwill01": {
+        "oldValue": {
+          "iconId": "icon_pack_tundra_suit_wisdwill01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Leve do CAI",
+            "CN": "集成轻型装备组",
+            "DE": "Leichtes AIK-Ausrüstungspaket",
+            "EN": "AIC Light Gear Pack",
+            "FR": "Pack d'équipement léger du GIA",
+            "ID": "Paket Gear AIC Ringan",
+            "IT": "Pacchetto equipaggiamento leggero del SIA",
+            "JP": "集成軽量セット",
+            "KR": "통합 경량형 모델 장비 세트",
+            "MX": "Paquete de equipamiento de CAI ligero",
+            "RU": "Набор легкого снаряжения АПК",
+            "TC": "整合輕型裝備組",
+            "TH": "ชุด​อุปกรณ์​ AIC งาน​เบา",
+            "VN": "Gói Trang Bị Khu Phức Hợp Nhẹ"
+          },
+          "packId": "pack_tundra_suit_wisdwill01",
+          "sortId": 2
+        },
+        "newValue": {
+          "iconId": "icon_pack_tundra_suit_wisdwill01",
+          "isHighLevelSuit": false,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Leve do CAI",
+            "CN": "集成轻型装备组",
+            "DE": "Leichtes AIK-Ausrüstungspaket",
+            "EN": "AIC Light Gear Pack",
+            "FR": "Pack d'équipement léger du GIA",
+            "ID": "Paket Gear AIC Ringan",
+            "IT": "Pacchetto equipaggiamento leggero del SIA",
+            "JP": "集成軽量セット",
+            "KR": "통합 경량형 모델 장비 세트",
+            "MX": "Paquete de equipamiento de CAI ligero",
+            "RU": "Набор легкого снаряжения АПК",
+            "TC": "整合輕型裝備組",
+            "TH": "ชุด​อุปกรณ์​ AIC งาน​เบา",
+            "VN": "Gói Trang Bị Khu Phức Hợp Nhẹ"
+          },
+          "packId": "pack_tundra_suit_wisdwill01",
+          "sortId": 6
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 6
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pack_wuling_combo_cd01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_attri01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de Qingbo",
+            "CN": "清波装备组",
+            "DE": "Qingbo-Ausrüstungspaket",
+            "EN": "Qingbo Gear Pack",
+            "FR": "Pack d'équipement de Qingbo",
+            "ID": "Paket Gear Qingbo",
+            "IT": "Pacchetto equipaggiamento Qingbo",
+            "JP": "清波セット",
+            "KR": "청파 장비 세트",
+            "MX": "Paquete de equipamiento de Qingbo",
+            "RU": "Набор снаряжения «Циньбо»",
+            "TC": "清波裝備組",
+            "TH": "ชุด​อุปกรณ์​ชิง​ป๋อ",
+            "VN": "Gói Trang Bị Thanh Ba"
+          },
+          "packId": "pack_wuling_combo_cd01",
+          "sortId": 20
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_attri01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento de Qingbo",
+            "CN": "清波装备组",
+            "DE": "Qingbo-Ausrüstungspaket",
+            "EN": "Qingbo Gear Pack",
+            "FR": "Pack d'équipement de Qingbo",
+            "ID": "Paket Gear Qingbo",
+            "IT": "Pacchetto equipaggiamento Qingbo",
+            "JP": "清波セット",
+            "KR": "청파 장비 세트",
+            "MX": "Paquete de equipamiento de Qingbo",
+            "RU": "Набор снаряжения «Циньбо»",
+            "TC": "清波裝備組",
+            "TH": "ชุด​อุปกรณ์​ชิง​ป๋อ",
+            "VN": "Gói Trang Bị Thanh Ba"
+          },
+          "packId": "pack_wuling_combo_cd01",
+          "sortId": 13
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 20,
+            "newValue": 13
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_wuling_suit_burst01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_burst01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Maré Alta",
+            "CN": "潮涌装备组",
+            "DE": "Sturmflut-Ausrüstungspaket",
+            "EN": "Tide Surge Gear Pack",
+            "FR": "Pack d'équipement raz-de-marée",
+            "ID": "Paket Gear Tide Surge",
+            "IT": "Pacchetto equipaggiamento dell'alta marea",
+            "JP": "満潮セット",
+            "KR": "조류의 물결 장비 세트",
+            "MX": "Paquete de equipamiento de marea alta",
+            "RU": "Набор снаряжения «Натиск прилива»",
+            "TC": "潮湧裝備組",
+            "TH": "ชุด​อุปกรณ์​คลื่น​กระชาก",
+            "VN": "Gói Trang Bị Triều Xung"
+          },
+          "packId": "pack_wuling_suit_burst01",
+          "sortId": 18
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_burst01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Maré Alta",
+            "CN": "潮涌装备组",
+            "DE": "Sturmflut-Ausrüstungspaket",
+            "EN": "Tide Surge Gear Pack",
+            "FR": "Pack d'équipement raz-de-marée",
+            "ID": "Paket Gear Tide Surge",
+            "IT": "Pacchetto equipaggiamento dell'alta marea",
+            "JP": "満潮セット",
+            "KR": "조류의 물결 장비 세트",
+            "MX": "Paquete de equipamiento de marea alta",
+            "RU": "Набор снаряжения «Натиск прилива»",
+            "TC": "潮湧裝備組",
+            "TH": "ชุด​อุปกรณ์​คลื่น​กระชาก",
+            "VN": "Gói Trang Bị Triều Xung"
+          },
+          "packId": "pack_wuling_suit_burst01",
+          "sortId": 11
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 18,
+            "newValue": 11
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_wuling_suit_attri01": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_attri01",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Quebra-Ossos",
+            "CN": "碾骨装备组",
+            "DE": "Knochenbrecha-Ausrüstungspaket",
+            "EN": "Bonekrusha Gear Pack",
+            "FR": "Pack d'équipement de Broyeur d'os",
+            "ID": "Paket Gear Bonekrusha",
+            "IT": "Pacchetto equipaggiamento da Maciulla-Ossa",
+            "JP": "骨砕セット",
+            "KR": "본 크러셔 장비 세트",
+            "MX": "Paquete de equipamiento de Rompehuesos",
+            "RU": "Набор снаряжения «Игра в Костолома»",
+            "TC": "碾骨裝備組",
+            "TH": "ชุด​อุปกรณ์​โบน​ค​รัช​ชา",
+            "VN": "Gói Trang Bị Bonekrusha"
+          },
+          "packId": "pack_wuling_suit_attri01",
+          "sortId": 12
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_attri01",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Quebra-Ossos",
+            "CN": "碾骨装备组",
+            "DE": "Knochenbrecha-Ausrüstungspaket",
+            "EN": "Bonekrusha Gear Pack",
+            "FR": "Pack d'équipement de Broyeur d'os",
+            "ID": "Paket Gear Bonekrusha",
+            "IT": "Pacchetto equipaggiamento da Maciulla-Ossa",
+            "JP": "骨砕セット",
+            "KR": "본 크러셔 장비 세트",
+            "MX": "Paquete de equipamiento de Rompehuesos",
+            "RU": "Набор снаряжения «Игра в Костолома»",
+            "TC": "碾骨裝備組",
+            "TH": "ชุด​อุปกรณ์​โบน​ค​รัช​ชา",
+            "VN": "Gói Trang Bị Bonekrusha"
+          },
+          "packId": "pack_wuling_suit_attri01",
+          "sortId": 5
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 5
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      },
+      "pack_wuling_suit_usp02": {
+        "oldValue": {
+          "iconId": "icon_pack_wuling_suit_usp02",
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Xiranita Eterna",
+            "CN": "长息装备组",
+            "DE": "Ewiges-Xiranit-Ausrüstungspaket",
+            "EN": "Eternal Xiranite Gear Pack",
+            "FR": "Pack d'équipement en xiranite éternelle",
+            "ID": "Paket Gear Eternal Xiranite",
+            "IT": "Pacchetto equipaggiamento di xiranite eterna",
+            "JP": "流転セット",
+            "KR": "식양의 숨결 장비 세트",
+            "MX": "Paquete de equipamiento de Xiranita eterna",
+            "RU": "Набор снаряжения «Вечный ксиранит»",
+            "TC": "長息裝備組",
+            "TH": "ชุด​อุปกรณ์​ซี​เรน​ไนต์​นิรันดร์",
+            "VN": "Gói Trang Bị Xiranite Vĩnh Cửu"
+          },
+          "packId": "pack_wuling_suit_usp02",
+          "sortId": 19
+        },
+        "newValue": {
+          "iconId": "icon_pack_wuling_suit_usp02",
+          "isHighLevelSuit": true,
+          "isSuit": true,
+          "name": {
+            "BR": "Pacote de Equipamento Xiranita Eterna",
+            "CN": "长息装备组",
+            "DE": "Ewiges-Xiranit-Ausrüstungspaket",
+            "EN": "Eternal Xiranite Gear Pack",
+            "FR": "Pack d'équipement en xiranite éternelle",
+            "ID": "Paket Gear Eternal Xiranite",
+            "IT": "Pacchetto equipaggiamento di xiranite eterna",
+            "JP": "流転セット",
+            "KR": "식양의 숨결 장비 세트",
+            "MX": "Paquete de equipamiento de Xiranita eterna",
+            "RU": "Набор снаряжения «Вечный ксиранит»",
+            "TC": "長息裝備組",
+            "TH": "ชุด​อุปกรณ์​ซี​เรน​ไนต์​นิรันดร์",
+            "VN": "Gói Trang Bị Xiranite Vĩnh Cửu"
+          },
+          "packId": "pack_wuling_suit_usp02",
+          "sortId": 12
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 19,
+            "newValue": 12
+          },
+          "isHighLevelSuit": {
+            "type": "value",
+            "newValue": true
+          }
+        }
+      }
+    }
+  }
+}

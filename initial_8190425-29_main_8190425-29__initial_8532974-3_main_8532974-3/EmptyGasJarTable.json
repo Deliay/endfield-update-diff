@@ -1,0 +1,41 @@
+{
+  "tableName": "EmptyGasJarTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_copper_jar": {
+        "fullGasJarItems": [
+          "item_gasjar_copper_gas_water",
+          "item_gasjar_copper_gas_acid",
+          "item_gasjar_copper_gas_xiranite",
+          "item_gasjar_copper_gas_xiranite_enr",
+          "item_gasjar_copper_gas_inert",
+          "item_gasjar_copper_gas_copper",
+          "item_gasjar_copper_gas_copper_enr",
+          "item_gasjar_copper_gas_copper_enr2"
+        ],
+        "gasCapacity": 1,
+        "gasItems": [
+          "item_gas_water",
+          "item_gas_acid",
+          "item_gas_xiranite",
+          "item_gas_xiranite_enr",
+          "item_gas_inert",
+          "item_gas_copper",
+          "item_gas_copper_enr",
+          "item_gas_copper_enr2"
+        ],
+        "id": "item_copper_jar"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -3373,6 +3373,3800 @@
           "changed": 0
         }
       }
+    },
+    {
+      "name": "initial_8190425-29_main_8190425-29__initial_8532974-3_main_8532974-3",
+      "fileCount": 396,
+      "files": [
+        "AIBark.json",
+        "AIBarkText.json",
+        "AchievementTable.json",
+        "ActivityAchievementDataTable.json",
+        "ActivityBannerGiftPackTable.json",
+        "ActivityBannerTable.json",
+        "ActivityBenefitsTable.json",
+        "ActivityCharTrial.json",
+        "ActivityConditionalMultiStageCompleteConditionTable.json",
+        "ActivityConditionalMultiStageConditionTable.json",
+        "ActivityConditionalMultiStageStageToActivityTable.json",
+        "ActivityConditionalMultiStageTable.json",
+        "ActivityConditionalMultiStageTaskCompleteConditionTable.json",
+        "ActivityConditionalMultiStageTaskConfigTable.json",
+        "ActivityConst.json",
+        "ActivityDungeonPresetTeamTable.json",
+        "ActivityDungeonState.json",
+        "ActivityDungeonTable.json",
+        "ActivityGameEntranceGameIdToSeriesIdTable.json",
+        "ActivityGameEntranceGameTable.json",
+        "ActivityGameEntranceSeriesAchieveTable.json",
+        "ActivityGameEntranceSeriesTable.json",
+        "ActivityHighDifficultySpecialStageTable.json",
+        "ActivityHighDifficultyTable.json",
+        "ActivityLevelRewardsTable.json",
+        "ActivityPushBubbleTable.json",
+        "ActivityPushPopupTable.json",
+        "ActivityPushTable.json",
+        "ActivityRacingDungeonBattleEndTable.json",
+        "ActivityRacingDungeonBattleEntryTable.json",
+        "ActivityRacingDungeonMilestoneTable.json",
+        "ActivityRacingDungeonRoomTable.json",
+        "ActivityRacingDungeonTable.json",
+        "ActivityRankInfoTable.json",
+        "ActivityReflowTable.json",
+        "ActivityScratchOffLotteryStampTable.json",
+        "ActivityShopAdditionalTable.json",
+        "ActivitySkipChapterTable.json",
+        "ActivityStaminaRefundBgStateTable.json",
+        "ActivityTable.json",
+        "ActivityTagTable.json",
+        "ActivityTaskGroupTable.json",
+        "ActivityVersionGuideStageTable.json",
+        "ActivityVersionGuideTable.json",
+        "ActivityWebTable.json",
+        "ActivityWeeklyTaskTable.json",
+        "ActorImageTable.json",
+        "AdventureActivityDataTable.json",
+        "AdventureBookStageRewardTable.json",
+        "AdventureTaskGroupTable.json",
+        "AdventureTaskTable.json",
+        "AdventureWorldLevelTable.json",
+        "AdventureWorldLevelUnlockTaskGroupTable.json",
+        "AtmosphereNpcTable.json",
+        "AttributeMetaTable.json",
+        "AttributeShowConfigTable.json",
+        "AudioBattleBuildings.json",
+        "AudioCueTable.json",
+        "AudioDialog.json",
+        "AudioDialogChannel.json",
+        "AudioDialogChannelMappings.json",
+        "AudioDialogCustomEventTable.json",
+        "AudioFactory.json",
+        "AudioItemDragAndDrop.json",
+        "AudioItemTypeDragAndDrop.json",
+        "AudioLevel.json",
+        "AudioRadioContinueTable.json",
+        "AudioVoiceExtraData.json",
+        "BattleBossOverrideIconTable.json",
+        "BattleConst.json",
+        "BattlePassBannerTable.json",
+        "BattlePassConditionTable.json",
+        "BattlePassOverrideLevelTable.json",
+        "BattlePassRewardPreviewTable.json",
+        "BattlePassSeasonTable.json",
+        "BattlePassTaskGroupTable.json",
+        "BattlePassTaskLabelMapTable.json",
+        "BattlePassTaskLabelTable.json",
+        "BattlePassTaskSubLabelMapTable.json",
+        "BattlePassTaskTable.json",
+        "BirthdayConst.json",
+        "BlocDataTable.json",
+        "BuffTable.json",
+        "BusinessCardTopicTable.json",
+        "CashShopGoodsTable.json",
+        "CashShopHideInGameTable.json",
+        "CashShopHintTextTable.json",
+        "CashShopRecommendTable.json",
+        "CashShopTable.json",
+        "CashshopShopTabDataTable.json",
+        "ChapterMissionChapterTable.json",
+        "CharGatherBehaviourTable.json",
+        "CharGrowthTable.json",
+        "CharId2DungeonIdTable.json",
+        "CharPresetTable.json",
+        "CharTeamTable.json",
+        "CharWpnRecommendTable.json",
+        "CharWpnSkillRecommendTable.json",
+        "CharacterPotentialTable.json",
+        "CharacterTable.json",
+        "CharacterTagDesTable.json",
+        "CharacterTagTable.json",
+        "CheckInInfoTable.json",
+        "CheckInRewardTable.json",
+        "CollectionLabelTable.json",
+        "CollectionTable.json",
+        "CompositeAttributeShowConfigTable.json",
+        "DecoBuildingObtainConditionTable.json",
+        "DecoBuildingObtainWaysTable.json",
+        "DialogOptionTable.json",
+        "DialogSummaryMapTable.json",
+        "DialogSummaryTable.json",
+        "DialogTextTable.json",
+        "DistributionInfoTable.json",
+        "DomainDataTable.json",
+        "DomainDepotLevelTable.json",
+        "DomainDepotTable.json",
+        "DoodadGeneralTable.json",
+        "DoodadTreeTable.json",
+        "DungeonCharTrialTable.json",
+        "DungeonCharTutorialStepTable.json",
+        "DungeonCharTutorialTable.json",
+        "DungeonDeathTips.json",
+        "DungeonFactoryTable.json",
+        "DungeonNormal2RaidTable.json",
+        "DungeonRaid2NormalTable.json",
+        "DungeonRaidTable.json",
+        "DungeonSeriesTable.json",
+        "DungeonTable.json",
+        "DungeonTypeTable.json",
+        "EmptyGasJarTable.json",
+        "EnemyAbilityDescTable.json",
+        "EnemyAttributeTemplateTable.json",
+        "EnemyDisplayInfoTable.json",
+        "EnemyRelatedDeathTips.json",
+        "EnemyTable.json",
+        "EnemyTemplateDisplayInfoTable.json",
+        "EnemyTemplateTable.json",
+        "EnvTalkTable.json",
+        "EquipAppendRewardTable.json",
+        "EquipCostMaterialTable.json",
+        "EquipFormulaChainTable.json",
+        "EquipFormulaReverseTable.json",
+        "EquipFormulaTable.json",
+        "EquipPackFormulaTable.json",
+        "EquipPackTable.json",
+        "EquipSuitTable.json",
+        "EquipTable.json",
+        "EquipTechConst.json",
+        "ErrorCodeTable.json",
+        "EtherSubmitBuffShowTable.json",
+        "EtherSubmitInfoTable.json",
+        "FacSTTBuildingDomainLimitTechTable.json",
+        "FacSTTCategoryTable.json",
+        "FacSTTConditionTable.json",
+        "FacSTTGroupTable.json",
+        "FacSTTLayerTable.json",
+        "FacSTTNodeTable.json",
+        "FactoryBattleTable.json",
+        "FactoryBlueprintMachineIconTable.json",
+        "FactoryBlueprintTagTable.json",
+        "FactoryBuildingItemReverseTable.json",
+        "FactoryBuildingItemTable.json",
+        "FactoryBuildingPanelLock.json",
+        "FactoryBuildingRendererTemplateTable.json",
+        "FactoryBuildingTable.json",
+        "FactoryBuildingTypeTable.json",
+        "FactoryBuildingTypeToNodeType.json",
+        "FactoryConst.json",
+        "FactoryCraftShowingTypeTable.json",
+        "FactoryDecoBuildingTable.json",
+        "FactoryEnvDisplayTable.json",
+        "FactoryGasContainerTable.json",
+        "FactoryGasMinerTable.json",
+        "FactoryHubCraftTable.json",
+        "FactoryHubCraftTypeListTable.json",
+        "FactoryItemAsHubCraftIncomeTable.json",
+        "FactoryItemAsHubCraftOutcomeTable.json",
+        "FactoryItemAsMachineCrafterIncomeTable.json",
+        "FactoryItemAsMachineCrafterOutcomeTable.json",
+        "FactoryItemAsManualCraftOutcomeTable.json",
+        "FactoryItemShowingHubTable.json",
+        "FactoryItemTable.json",
+        "FactoryLevelRegionTable.json",
+        "FactoryMachineCraftGroupTable.json",
+        "FactoryMachineCraftModeCoverTable.json",
+        "FactoryMachineCraftModeTable.json",
+        "FactoryMachineCraftTable.json",
+        "FactoryMachineCrafterTable.json",
+        "FactoryMainRegionTable.json",
+        "FactoryManualCraftFormulaUnlockTable.json",
+        "FactoryManualCraftReverseTable.json",
+        "FactoryManualCraftTable.json",
+        "FactoryNodeTypeToBuildingType.json",
+        "FactoryPanelStoreTable.json",
+        "FactoryRegionTable.json",
+        "FactoryResourceItemId2MachineIdTable.json",
+        "FactoryResourceItemId2TagIdTable.json",
+        "FactorySmartAlertTable.json",
+        "FactorySystemBlueprintMetaTable.json",
+        "FactoryTransmuterTable.json",
+        "FactoryVaporizerTable.json",
+        "FriendChatEmotionTable.json",
+        "FriendChatTabEmotionTable.json",
+        "FullGasJarTable.json",
+        "GachaCharInfoTable.json",
+        "GachaCharPoolContentTable.json",
+        "GachaCharPoolTable.json",
+        "GachaLtTicket2PoolTable.json",
+        "GachaPoolCharPresetTable.json",
+        "GachaPoolWeaponPresetTable.json",
+        "GachaWeaponPoolContentTable.json",
+        "GachaWeaponPoolTable.json",
+        "GameMechanicCategorySpecialTeamTable.json",
+        "GameMechanicCategoryTable.json",
+        "GameMechanicCategoryVoiceTable.json",
+        "GameMechanicConditionTable.json",
+        "GameMechanicGroupTable.json",
+        "GameMechanicTable.json",
+        "GasTable.json",
+        "GemItemDomainTable.json",
+        "GemPresetTable.json",
+        "GemTagKeyToWeaponTable.json",
+        "GeneralAbilityTable.json",
+        "GiftItemTable.json",
+        "GiftPreferTagConfigTable.json",
+        "GiftpackCashShopGoodsDataTable.json",
+        "GlobalConst.json",
+        "GlobalVarTable.json",
+        "HighDifficultyGameIdToSeriesIdTable.json",
+        "HighDifficultyGameTable.json",
+        "HighDifficultySeriesTable.json",
+        "ImportantRewardItemTable.json",
+        "InstructionBook.json",
+        "InteractiveAttributeDataTable.json",
+        "InteractiveFacWrapperTable.json",
+        "IntroTable.json",
+        "ItemGatherTextTable.json",
+        "ItemIconCompositeTable.json",
+        "ItemListByShowingTypeTable.json",
+        "ItemListByTypeTable.json",
+        "ItemPortableDeviceTable.json",
+        "ItemPortableDeviceTypeTable.json",
+        "ItemShowingTypeTable.json",
+        "ItemStorage.json",
+        "ItemTable.json",
+        "ItemTypeTable.json",
+        "KiteStationEntrustTasksTable.json",
+        "KiteStationLevelTable.json",
+        "KiteStationRewardTable.json",
+        "LTItemTable.json",
+        "LTItemTyp2ItemTypeTable.json",
+        "LTItemTypeTable.json",
+        "LevelDescTable.json",
+        "LevelGradeTable.json",
+        "LevelLoadingTable.json",
+        "LoadingTipsTable.json",
+        "LoadingTypeTagTable.json",
+        "MachineBlueprint2MachineItemTable.json",
+        "MachineId2MachineTechIdTable.json",
+        "MailTemplateTable.json",
+        "MapMarkPreferredJumpListTable.json",
+        "MapMarkTempTable.json",
+        "MapMarkTypeTable.json",
+        "MapMarkTypeTempTable.json",
+        "MapRemindTable.json",
+        "MiasmaDeathTips.json",
+        "MissionChapterSelectTable.json",
+        "MissionExtraInfoTable.json",
+        "MissionSelectChapterTable.json",
+        "NarrativeNoteEntryTable.json",
+        "NoObtainWayCondTable.json",
+        "NpcGroupTable.json",
+        "NpcInfoTable.json",
+        "NpcTable.json",
+        "NpcTemplateGroupTable.json",
+        "NumIdStrTable.json",
+        "ObtainWayShowCondTable.json",
+        "PictureItemTable.json",
+        "PictureTable.json",
+        "PictureTypeTable.json",
+        "PotentialTalentEffectTable.json",
+        "PrtsAllItem.json",
+        "PrtsCategory.json",
+        "PrtsDocument.json",
+        "PrtsFirstLv.json",
+        "PrtsInvestigate.json",
+        "PrtsInvestigateCategory.json",
+        "PrtsMultimedia.json",
+        "PrtsNote.json",
+        "PrtsReading.json",
+        "PrtsRecord.json",
+        "PsActivityTable.json",
+        "PsActivityTaskTable.json",
+        "QualitySubSettingOptionTable.json",
+        "QualitySubSettingTable.json",
+        "RadioTable.json",
+        "ReadingPopUpTable.json",
+        "RecoverApItemTable.json",
+        "RemoteCommonTable.json",
+        "ResponsiveDialog.json",
+        "ResponsiveTriggers.json",
+        "RewardDropTable.json",
+        "RewardTable.json",
+        "RichContentTable.json",
+        "RichTextStyleTable.json",
+        "SKLandShareTable.json",
+        "SNSChatTable.json",
+        "SNSDialogOptionTable.json",
+        "SNSDialogTable.json",
+        "SNSDialogTopicTable.json",
+        "SNSDialogValidMapTable.json",
+        "SceneAreaTable.json",
+        "SceneCollectableItemTable.json",
+        "SeasonTowerConst.json",
+        "SeasonTowerDungeonTable.json",
+        "SeasonTowerGameGroupTable.json",
+        "SeasonTowerRankTable.json",
+        "SeasonTowerTable.json",
+        "SettingIdTable.json",
+        "SettingTabTable.json",
+        "SettlementBasicDataTable.json",
+        "SettlementConst.json",
+        "SettlementLevelPOIMapTable.json",
+        "SettlementTagTable.json",
+        "ShopChannelDevelopmentTable.json",
+        "ShopChannelLevelPOIMapTable.json",
+        "ShopGoodsTable.json",
+        "ShopGoodsTagCommonTable.json",
+        "ShopGroupDomainTable.json",
+        "ShopGroupTable.json",
+        "ShopTable.json",
+        "SkillConditionTable.json",
+        "SkillPatchTable.json",
+        "SkipChapterFactoryBuildingTable.json",
+        "SkipChapterFactoryTable.json",
+        "SkipChapterTable.json",
+        "SnapshotActionTable.json",
+        "SnapshotFilterTable.json",
+        "SnapshotIdPrefixTable.json",
+        "SnapshotIdentifyBaseTable.json",
+        "SnapshotIdentifyEmptySphereTable.json",
+        "SnapshotIdentifyGroupTable.json",
+        "SnapshotIdentifyMonsterTable.json",
+        "SnapshotRewardTaskConditionTable.json",
+        "SnapshotRewardTaskTable.json",
+        "SnapshotStickerTable.json",
+        "SpaceShipCharBehaviourTable.json",
+        "SpaceShipFriendNpc2Char.json",
+        "SpaceShipNpc2Char.json",
+        "SpaceshipAlbumMusicTable.json",
+        "SpaceshipAlbumTable.json",
+        "SpaceshipCharSkillTable.json",
+        "SpaceshipConst.json",
+        "SpaceshipGrowCabinFormulaTable.json",
+        "SpaceshipGrowCabinLvTable.json",
+        "SpaceshipGrowCabinMaterial2OutComeTable.json",
+        "SpaceshipGrowCabinOutCome2MaterialTable.json",
+        "SpaceshipGrowCabinSeedFormulaTable.json",
+        "SpaceshipMusicTable.json",
+        "SpaceshipRoomTypeTable.json",
+        "SpaceshipShowcaseItemTable.json",
+        "SpaceshipSkillTable.json",
+        "SpaceshipSubCharGiftTable.json",
+        "SpecialLevelToMapTable.json",
+        "StrIdNumTable.json",
+        "SubmitItem.json",
+        "SystemJumpTable.json",
+        "TagDataTable.json",
+        "TextTable.json",
+        "TextVoIdTable.json",
+        "TimeRangeTable.json",
+        "TowerDefenseGroupTable.json",
+        "TowerDefenseMapTable.json",
+        "TowerDefenseTable.json",
+        "TrackMapLinkTable.json",
+        "TrackMapPointTable.json",
+        "UsableItemChestTable.json",
+        "UseItemTable.json",
+        "UserAvatarTable.json",
+        "UserAvatarTableFrame.json",
+        "ValuableDepot.json",
+        "WeaponBasicTable.json",
+        "WeaponBreakThroughTemplateTable.json",
+        "WeaponPotentialUpItemTable.json",
+        "WikiCraftJumpTable.json",
+        "WikiDefaultCraftTable.json",
+        "WikiEnemyDropTable.json",
+        "WikiEntryDataReverseTable.json",
+        "WikiEntryDataTable.json",
+        "WikiEntryTable.json",
+        "WikiGroupTable.json",
+        "WikiTutorialPageByEntryTable.json",
+        "WikiTutorialPageTable.json",
+        "WorldEnergyPointGroupTable.json",
+        "WorldEnergyPointTable.json"
+      ],
+      "tableStats": {
+        "AIBark.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 1
+        },
+        "AIBarkTableConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AIBarkText.json": {
+          "added": 139,
+          "removed": 0,
+          "changed": 0
+        },
+        "AbilityEntityAttrTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AchievementConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AchievementStatisticTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AchievementTable.json": {
+          "added": 23,
+          "removed": 0,
+          "changed": 4
+        },
+        "AchievementTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityAchievementDataTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityArknightsBirthMultiStageTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityBannerTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 20
+        },
+        "ActivityBenefitsTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "ActivityCharTrial.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 8
+        },
+        "ActivityCharacterGuideLineTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityCleaningStageDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityConditionalMultiStageCompleteConditionTable.json": {
+          "added": 25,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityConditionalMultiStageConditionTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityConditionalMultiStageStageToActivityTable.json": {
+          "added": 27,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityConditionalMultiStageTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityConditionalMultiStageTaskCompleteConditionTable.json": {
+          "added": 46,
+          "removed": 0,
+          "changed": 29
+        },
+        "ActivityConditionalMultiStageTaskConfigTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityConst.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityContingencyContractTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityContingencyContractTaskGroupTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityCultivationRefundStageTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityDungeonFightingStageTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityDungeonState.json": {
+          "added": 16,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityGameEntranceGameIdToSeriesIdTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityGameEntranceGameTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityGameEntranceSeriesAchieveTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityGameEntranceSeriesTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "ActivityGlobalEffectTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityHighDifficultySpecialStageTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityHighDifficultyTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityLevelRewardsTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "ActivityLimitedFormulaSettlementTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityLimitedFormulaTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityPushBubbleTable.json": {
+          "added": 39,
+          "removed": 0,
+          "changed": 35
+        },
+        "ActivityPushConditionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityRankInfoTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityShopAdditionalTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "ActivitySnapShotStageTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivitySnapshotChallengeMainTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivitySnapshotChallengeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityStaminaRefundBgStateTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivitySubmitFoodTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivitySubmitTextTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityTable.json": {
+          "added": 15,
+          "removed": 0,
+          "changed": 10
+        },
+        "ActivityTagTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityVersionGuideStageTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityVersionGuideTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityWebTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityWeeklyTaskMileStoneTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityWeeklyTaskTable.json": {
+          "added": 70,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActorImageTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 1
+        },
+        "AdventureActivityDataTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "AdventureBookStageRewardTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 6
+        },
+        "AdventureLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AdventureTaskTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 85
+        },
+        "AdventureWorldLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 7
+        },
+        "AtmosphereNpcTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "AttributeFilterTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AttributeMetaTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 2
+        },
+        "AttributeShowConfigTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 6
+        },
+        "AudioBattleBuildings.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioCollection.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioCueTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "AudioDialog.json": {
+          "added": 2413,
+          "removed": 0,
+          "changed": 2
+        },
+        "AudioDialogChannel.json": {
+          "added": 38,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioDialogChannelMappings.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioDialogConfigs.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioDialogCustomEventTable.json": {
+          "added": 159,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioDrop.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioFactory.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioFactoryAnnouncement.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioItemDragAndDrop.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioItemTypeDragAndDrop.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioLevel.json": {
+          "added": 0,
+          "removed": 1,
+          "changed": 0
+        },
+        "AudioPlaceholderMusicTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioRadioContinueTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioSequenceDialog.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioSpeakerTypeWeights.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioVoTone.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "AudioVoiceExtraData.json": {
+          "added": 2413,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattleBossOverrideIconTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattleConst.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassBannerTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassConditionTable.json": {
+          "added": 59,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassForecastTipTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassOverrideLevelTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassRewardPreviewTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassSeasonTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassTaskGroupTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassTaskLabelMapTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassTaskLabelTable.json": {
+          "added": 11,
+          "removed": 0,
+          "changed": 1
+        },
+        "BattlePassTaskSubLabelMapTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassTaskTable.json": {
+          "added": 76,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassTrackTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "BattlePassTrackTypeToIDTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "BlocConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "BlocDataTable.json": {
+          "added": 0,
+          "removed": 8,
+          "changed": 0
+        },
+        "BuffTable.json": {
+          "added": 0,
+          "removed": 80,
+          "changed": 0
+        },
+        "BusinessCardTopicTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 13
+        },
+        "CashShopConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopGiftPackTagTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopGoodsTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopGroupTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopHasWeaponGoldPackTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopHideInGameTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopRechargeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopRecommendTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 26
+        },
+        "CashShopRecommendTextTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 4
+        },
+        "CashshopShopTabDataTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "CcTagTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CcTagTipTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharBattleTagTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharBreakNodeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharBreakStageTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharBreakTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharGachaConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharGatherBehaviourTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharGrowthTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 30
+        },
+        "CharId2DungeonIdTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharLevelUpTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharPotentialDecoTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharPresetTable.json": {
+          "added": 19,
+          "removed": 0,
+          "changed": 55
+        },
+        "CharProfessionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharTeamTable.json": {
+          "added": 26,
+          "removed": 0,
+          "changed": 13
+        },
+        "CharTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharWpnRecommendTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharWpnSkillRecommendTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharacterConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharacterPotentialTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharacterTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 30
+        },
+        "CharacterTagDesTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CharacterTagTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 29
+        },
+        "CheckInInfoTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 16
+        },
+        "CheckInRewardTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "CinematicConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CollectionLabelTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "CollectionTable.json": {
+          "added": 12,
+          "removed": 0,
+          "changed": 0
+        },
+        "CommonDeathTips.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "CompositeAttributeShowConfigTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 3
+        },
+        "CompositeAttributeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ConditionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ContingencyContractKeyLockTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ContingencyContractLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ContingencyContractTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DailyActivationRewardTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DialogOptionTable.json": {
+          "added": 469,
+          "removed": 0,
+          "changed": 238
+        },
+        "DialogSummaryMapTable.json": {
+          "added": 120,
+          "removed": 0,
+          "changed": 0
+        },
+        "DialogSummaryTable.json": {
+          "added": 119,
+          "removed": 0,
+          "changed": 59
+        },
+        "DialogTextTable.json": {
+          "added": 2452,
+          "removed": 0,
+          "changed": 1107
+        },
+        "DisplayEnemyTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DistributionInfoTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 2
+        },
+        "DomainDegreeSourceTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotBuyerTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotDeliverItemTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotDeliverPackTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotDeliverTargetDialogTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotDeliverTargetTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "DomainDepotPackValueTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotPackageIntegrityReduceTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DomainDepotTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 5
+        },
+        "DomainPoiTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DoodadGeneralTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "DoodadTreeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "DropGemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonCategory2ndTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonCharTrialTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonCharTutorialStepTable.json": {
+          "added": 36,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonCharTutorialTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonDeathTips.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonFactoryTable.json": {
+          "added": 8,
+          "removed": 5,
+          "changed": 0
+        },
+        "DungeonRaidTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonSeriesTable.json": {
+          "added": 23,
+          "removed": 5,
+          "changed": 2
+        },
+        "DungeonTable.json": {
+          "added": 73,
+          "removed": 5,
+          "changed": 226
+        },
+        "DungeonTypeTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "EmotionVoiceConfig.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EmptyBottleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EnemyAbilityDescTable.json": {
+          "added": 30,
+          "removed": 0,
+          "changed": 0
+        },
+        "EnemyAttributeTemplateTable.json": {
+          "added": 12,
+          "removed": 0,
+          "changed": 119
+        },
+        "EnemyDamageTakenLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EnemyDisplayInfoTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 0
+        },
+        "EnemyRelatedDeathTips.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "EnemyTable.json": {
+          "added": 69,
+          "removed": 0,
+          "changed": 290
+        },
+        "EnemyTagTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EnemyTemplateDisplayInfoTable.json": {
+          "added": 9,
+          "removed": 0,
+          "changed": 6
+        },
+        "EnemyTemplateTable.json": {
+          "added": 9,
+          "removed": 0,
+          "changed": 0
+        },
+        "EnvTalkTable.json": {
+          "added": 267,
+          "removed": 0,
+          "changed": 1
+        },
+        "EquipConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipEnhanceCostTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipEnhanceGuaranteeTimesRuleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipFormulaReverseTable.json": {
+          "added": 23,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipFormulaTable.json": {
+          "added": 23,
+          "removed": 0,
+          "changed": 220
+        },
+        "EquipItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipPackFormulaTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 3
+        },
+        "EquipPackTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 27
+        },
+        "EquipSuitTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 3
+        },
+        "EquipTable.json": {
+          "added": 23,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipTechConst.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "ErrorCodeTable.json": {
+          "added": 13,
+          "removed": 0,
+          "changed": 5
+        },
+        "EtherSubmitBuffShowTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "EtherSubmitDomainShowTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EtherSubmitGlobalEffectTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "EtherSubmitInfoTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "ExpItemDataMap.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ExpItemMap.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FacBlueprintConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FacPanelStoreActionDescTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FacPanelStoreConditionDescTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FacSTTCategoryTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 5
+        },
+        "FacSTTConditionTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "FacSTTGroupTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "FacSTTLayerTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 2
+        },
+        "FacSTTNodeTable.json": {
+          "added": 13,
+          "removed": 0,
+          "changed": 31
+        },
+        "FacSTTPackConditionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBatteryItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBattleTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBlueprintIconBGColorTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBlueprintMachineIconTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 1
+        },
+        "FactoryBlueprintTagTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBlueprintTagTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBoxValveTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBuildingItemReverseTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBuildingItemTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBuildingPanelLock.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "FactoryBuildingRendererTemplateTable.json": {
+          "added": 17,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBuildingTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 95
+        },
+        "FactoryBuildingTypeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryBuildingTypeToNodeType.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 1
+        },
+        "FactoryBusStructureTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryConst.json": {
+          "added": 18,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryCraftShowingTypeTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryDomainItemTransmissionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidConsumeItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidConsumeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidContainerTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidPumpInTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidPumpOutTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidReactionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidSprayTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFluidValveTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFreeBusTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryFuelItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryGridBeltTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryGridConnecterTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryGridRouterTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryHubCraftTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryHubCraftTypeListTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 4
+        },
+        "FactoryHubTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryIngredientTagTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryItem2LogisticIdTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryItemAsHubCraftIncomeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 1
+        },
+        "FactoryItemAsHubCraftOutcomeTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryItemAsMachineCrafterIncomeTable.json": {
+          "added": 20,
+          "removed": 0,
+          "changed": 11
+        },
+        "FactoryItemAsMachineCrafterOutcomeTable.json": {
+          "added": 21,
+          "removed": 0,
+          "changed": 10
+        },
+        "FactoryItemAsManualCraftOutcomeTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryItemShowingHubTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "FactoryItemTable.json": {
+          "added": 49,
+          "removed": 0,
+          "changed": 486
+        },
+        "FactoryLevelRegionTable.json": {
+          "added": 12,
+          "removed": 13,
+          "changed": 0
+        },
+        "FactoryLiquidConnectorTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryLiquidPipeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryLiquidRouterTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryMachineCraftGroupTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 18
+        },
+        "FactoryMachineCraftModeTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryMachineCraftTable.json": {
+          "added": 48,
+          "removed": 0,
+          "changed": 257
+        },
+        "FactoryMachineCrafterTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 38
+        },
+        "FactoryMachineId2tagIdsTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryMainRegionTable.json": {
+          "added": 11,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryManualCraftFormulaUnlockTable.json": {
+          "added": 9,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryManualCraftReverseTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryManualCraftTable.json": {
+          "added": 20,
+          "removed": 0,
+          "changed": 76
+        },
+        "FactoryManualCraftUpgradeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryMinerTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryNodeTypeToBuildingType.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryPanelStoreTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryPowerDataTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryPowerPoleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryPowerStationTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryProductivityDataTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryQuickBarTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryRegionTable.json": {
+          "added": 12,
+          "removed": 13,
+          "changed": 0
+        },
+        "FactoryRendererTemplateTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryResourceItemId2MachineIdTable.json": {
+          "added": 20,
+          "removed": 0,
+          "changed": 11
+        },
+        "FactoryResourceItemId2TagIdTable.json": {
+          "added": 20,
+          "removed": 0,
+          "changed": 5
+        },
+        "FactorySeedItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySewageTreatExportTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySewageTreatImportTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySewageTreatPlantStoreTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySmartAlertTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySocialBuildingConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySocialBuildingNpcTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySocialBuildingTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySpecialCraftTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySpecialPowerPoleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryStoragerTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactorySystemBlueprintMetaTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryUndergroundPipeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FertilizeDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FertilizeIncreaseTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FoodSubmitStageIdTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FriendChatEmotionTable.json": {
+          "added": 16,
+          "removed": 0,
+          "changed": 0
+        },
+        "FriendChatTabEmotionTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "FriendChatTabTextTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FriendChatTextTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "FullBottleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaCharInfoTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaCharPoolContentTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaCharPoolTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaCharPoolTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaEntryRecommendRuleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaEntryRecommendTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaLtTicket2PoolTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaPoolCharPresetTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaPoolWeaponPresetTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaRefreshBaseTimeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaWeaponLtTicket2PoolTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaWeaponPoolContentTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaWeaponPoolTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaWeaponPoolTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GachaWeaponRefreshRuleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GameMechanicCategoryTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "GameMechanicConditionTable.json": {
+          "added": 38,
+          "removed": 3,
+          "changed": 4
+        },
+        "GameMechanicGroupByConditionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GameMechanicGroupTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "GameMechanicTable.json": {
+          "added": 119,
+          "removed": 5,
+          "changed": 8
+        },
+        "GameSystemConfigTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GamepadImplicitSettingItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GamepadSettingItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GamepadSettingOptionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GameplayAndEnvironmentalNpc.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemCustomizationBox.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemDismantleTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemEnhanceTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemItemDomainTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemItemId2TermPoolIdDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemPresetTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemRecastTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemTagIdTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GemTagKeyToWeaponTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "GeneralAbilityTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 9
+        },
+        "GiftItemTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 2
+        },
+        "GiftPreferTagConfigTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GiftpackCashShopClientShowDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GiftpackCashShopGoodsDataTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 27
+        },
+        "GiftpackCashShopIdTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GlobalConst.json": {
+          "added": 5,
+          "removed": 2,
+          "changed": 1
+        },
+        "GlobalEffectTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "GlobalVarTable.json": {
+          "added": 27,
+          "removed": 0,
+          "changed": 0
+        },
+        "HighDifficultyGameIdToSeriesIdTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "HighDifficultyGameTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "HighDifficultySeriesTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "HyperlinkTextTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "IdentifyGroupId2ActivitySnapshotStageTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ImportantItemShowTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ImportantRewardItemTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 0
+        },
+        "InstructionBook.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 1
+        },
+        "InteractiveAttributeDataTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "InteractiveFacWrapperTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "InteractiveMarkDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "InteractiveMissionDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "IntroTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "ItemGatherTextTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "ItemIconCompositeTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "ItemListByShowingTypeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 10
+        },
+        "ItemListByTypeTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 29
+        },
+        "ItemShowingTypeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ItemStorage.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 3
+        },
+        "ItemTable.json": {
+          "added": 273,
+          "removed": 0,
+          "changed": 340
+        },
+        "ItemTypeTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 1
+        },
+        "JsonConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "KiteStationConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "KiteStationEntrustTasksTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "KiteStationLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "KiteStationRewardTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "LTItemTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "LTItemTyp2ItemTypeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "LTItemTypeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "LevelDescTable.json": {
+          "added": 26,
+          "removed": 49,
+          "changed": 2
+        },
+        "LevelGradeTable.json": {
+          "added": 3,
+          "removed": 2,
+          "changed": 6
+        },
+        "LevelId2RecycleBinsTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "LevelLoadingTable.json": {
+          "added": 29,
+          "removed": 0,
+          "changed": 1
+        },
+        "LimitedFormulaCraftIdReverseTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "LimitedFormulaItemIdReverseTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "LiquidTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "LoadingConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "LoadingTipsTable.json": {
+          "added": 21,
+          "removed": 0,
+          "changed": 0
+        },
+        "LoadingTypeTagTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "MachineBlueprint2MachineItemTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "MachineId2MachineTechIdTable.json": {
+          "added": 29,
+          "removed": 3,
+          "changed": 0
+        },
+        "MailSenderTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MailTemplateTable.json": {
+          "added": 9,
+          "removed": 0,
+          "changed": 0
+        },
+        "MapIdTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MapMarkCategoryTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MapMarkInsTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MapMarkTempTable.json": {
+          "added": 108,
+          "removed": 0,
+          "changed": 174
+        },
+        "MapMarkTypeTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 27
+        },
+        "MapMarkTypeTempTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 54
+        },
+        "MapRemindTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 13
+        },
+        "MissionExtraInfoTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "MissionTypeInfoTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MoneyConfigTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MoneyConsumeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MoneyExchangeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MoneyGainTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "MoneyRecordTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "NoObtainWayCondTable.json": {
+          "added": 76,
+          "removed": 0,
+          "changed": 53
+        },
+        "NotifyPushConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "NpcGroupTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 118
+        },
+        "NpcInfoTable.json": {
+          "added": 147,
+          "removed": 2,
+          "changed": 21
+        },
+        "NpcTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 335
+        },
+        "NpcTemplateGroupTable.json": {
+          "added": 100,
+          "removed": 0,
+          "changed": 7
+        },
+        "NumIdStrTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 43
+        },
+        "ObtainWayShowCondTable.json": {
+          "added": 58,
+          "removed": 0,
+          "changed": 0
+        },
+        "OriginiumStaminaCost.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "OverseaShareTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "PictureGenderTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "PictureItemTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "PictureTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "PictureTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "PlantingDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "PlantingStepConstTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "PotentialTalentEffectTable.json": {
+          "added": 9,
+          "removed": 0,
+          "changed": 260
+        },
+        "PrtsAllItem.json": {
+          "added": 48,
+          "removed": 0,
+          "changed": 414
+        },
+        "PrtsCategory.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 3
+        },
+        "PrtsDocument.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 64
+        },
+        "PrtsFirstLv.json": {
+          "added": 43,
+          "removed": 0,
+          "changed": 53
+        },
+        "PrtsInvestigate.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 12
+        },
+        "PrtsInvestigateCategory.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "PrtsMultimedia.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 23
+        },
+        "PrtsNote.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 29
+        },
+        "PrtsPage.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "PrtsReading.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 21
+        },
+        "PrtsRecord.json": {
+          "added": 39,
+          "removed": 0,
+          "changed": 327
+        },
+        "PsActivityTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "PsActivityTaskTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "PsTrophyTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "QualitySubSettingOptionTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "QualitySubSettingTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 27
+        },
+        "RadioTable.json": {
+          "added": 462,
+          "removed": 0,
+          "changed": 2447
+        },
+        "RarityColorTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ReadingPopUpIconTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ReadingPopUpTable.json": {
+          "added": 85,
+          "removed": 0,
+          "changed": 583
+        },
+        "RechargeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "RecommendTraining.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "RecoverApItemTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "RecycleBinTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "RemoteCommonTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "ReportTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ResponsiveDialog.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 4
+        },
+        "ResponsiveTriggers.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 3
+        },
+        "RewardDropTable.json": {
+          "added": 134,
+          "removed": 0,
+          "changed": 0
+        },
+        "RewardSoilTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "RewardTable.json": {
+          "added": 912,
+          "removed": 0,
+          "changed": 7
+        },
+        "RichContentTable.json": {
+          "added": 83,
+          "removed": 0,
+          "changed": 2
+        },
+        "RichTextStyleTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SKLandShareTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SNSChatTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 123
+        },
+        "SNSConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SNSDialogOptionTable.json": {
+          "added": 97,
+          "removed": 0,
+          "changed": 0
+        },
+        "SNSDialogTable.json": {
+          "added": 39,
+          "removed": 0,
+          "changed": 0
+        },
+        "SNSDialogTopicTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "SceneAreaTable.json": {
+          "added": 12,
+          "removed": 15,
+          "changed": 0
+        },
+        "SceneCollectableItemTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 7
+        },
+        "SceneConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SettingIdTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "SettingIdToNum.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SettingIdToStr.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SettingTabTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 8
+        },
+        "SettlementBasicDataTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 1
+        },
+        "SettlementConst.json": {
+          "added": 3,
+          "removed": 1,
+          "changed": 0
+        },
+        "SettlementLevelPOIMapTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SettlementTagTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShareChannelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShareTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopChannelDevelopmentTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 5
+        },
+        "ShopChannelLevelPOIMapTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopDomainConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopGoodsTable.json": {
+          "added": 58,
+          "removed": 0,
+          "changed": 11
+        },
+        "ShopGoodsTagTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopGroupDomainTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "ShopGroupTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopManualRefreshTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopMonthlyPassRewardTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 7
+        },
+        "ShopWeaponConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SimulationTrainingCardPoolTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SimulationTrainingCardTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SimulationTrainingConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SimulationTrainingLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SkillPatchTable.json": {
+          "added": 16,
+          "removed": 34,
+          "changed": 458
+        },
+        "SnapshotConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotFilterTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 11
+        },
+        "SnapshotIdPrefixTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyBaseTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyEmptyObbTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyEmptySphereTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyFacTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyFormationTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyGroupTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyInteractiveTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyMonsterTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyNpcTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyTeamTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotStickerTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 19
+        },
+        "SocialBuildingSignTabTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SocialBuildingSignTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceShipCharBehaviourTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceShipFriendNpc2Char.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceShipNpc2Char.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipAreaUnlockNeedCenterLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipBacklogConfigDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipBuildTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipCharGiftGainRatio.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipCharRelationLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipCharRelationNeedMap.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipCharSkillTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipClueDataIndex2IdTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipClueDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipClueGoodsPriceConvertDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipCommandCenterLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipConst.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 1
+        },
+        "SpaceshipControlCenterLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipCreditTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipDomainMoneyExchangeRateDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipEmptyRoomTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipGrowCabinBoxIdToUnlockLevelTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipGrowCabinFormulaShowingTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipGrowCabinFormulaTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 10
+        },
+        "SpaceshipGrowCabinLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "SpaceshipGrowCabinMaterial2OutComeTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipGrowCabinOutCome2MaterialTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipGrowCabinSeedFormulaTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 10
+        },
+        "SpaceshipGuestRoomClueLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipGuestRoomLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipManufactureFormulaTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipManufacturingStationLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipRoomAttrTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipRoomLvHelperTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipRoomLvTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipRoomTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 5
+        },
+        "SpaceshipShowcaseBySortIdTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipShowcaseItemTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipShowcaseTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipSkillTable.json": {
+          "added": 4,
+          "removed": 32,
+          "changed": 0
+        },
+        "SpaceshipSubCharGiftTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpecialLevelToMapTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "StrIdNumTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 43
+        },
+        "SubmitItem.json": {
+          "added": 8,
+          "removed": 17,
+          "changed": 0
+        },
+        "SystemJumpTable.json": {
+          "added": 137,
+          "removed": 0,
+          "changed": 602
+        },
+        "TagDataTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "TagGroupDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "TermPoolId2TermPoolIdDataTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "TextTable.json": {
+          "added": 2523,
+          "removed": 8,
+          "changed": 326
+        },
+        "TextVoIdTable.json": {
+          "added": 58,
+          "removed": 0,
+          "changed": 0
+        },
+        "TimeRangeTable.json": {
+          "added": 67,
+          "removed": 2,
+          "changed": 4
+        },
+        "TowerDefenseGroupTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "TowerDefenseMapTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "TowerDefenseTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "TrackMapConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "TrackMapLinkTable.json": {
+          "added": 34,
+          "removed": 0,
+          "changed": 0
+        },
+        "TrackMapPointTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "TrainingDeathTips.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "TrainingTypeInfoTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "UsableItemChestTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "UseItemTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 80
+        },
+        "UserAvatarTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 12
+        },
+        "UserAvatarTableFrame.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 12
+        },
+        "ValuableDepot.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 2
+        },
+        "VoiceIdConflictTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WaterDroneLiquidTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeaponBasicTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeaponBreakThroughTemplateTable.json": {
+          "added": 10,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeaponExpItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeaponPotentialUpItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 1
+        },
+        "WeaponTalentTemplateTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeaponUpgradeTemplateSumTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeaponUpgradeTemplateTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidBattlePassTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidBufTechTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidDelegateTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidItemReverseTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidItemTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidRefreshTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidTechTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekRaidTechTypeTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WeekraidItemDomainTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiCategoryTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiCraftJumpTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiDefaultCraftTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiEnemyDropTable.json": {
+          "added": 9,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiEntryDataReverseTable.json": {
+          "added": 87,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiEntryDataTable.json": {
+          "added": 118,
+          "removed": 0,
+          "changed": 308
+        },
+        "WikiEntryTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 21
+        },
+        "WikiGroupTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 3
+        },
+        "WikiLimitedGuideTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiTutorialPageByEntryTable.json": {
+          "added": 31,
+          "removed": 0,
+          "changed": 0
+        },
+        "WikiTutorialPageTable.json": {
+          "added": 42,
+          "removed": 0,
+          "changed": 6
+        },
+        "WorldEnergyPointConst.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "WorldEnergyPointGroupTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "WorldEnergyPointTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 25
+        },
+        "WorldGameMechanicsDisplayInfoTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityBannerGiftPackTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityDungeonPresetTeamTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityDungeonTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityPushPopupTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityPushTable.json": {
+          "added": 84,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityRacingDungeonBattleEndTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityRacingDungeonBattleEntryTable.json": {
+          "added": 16,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityRacingDungeonMilestoneTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityRacingDungeonRoomTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityRacingDungeonTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityReflowTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityScratchOffLotteryStampTable.json": {
+          "added": 14,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivitySkipChapterTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "ActivityTaskGroupTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "AdventureTaskGroupTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "AdventureWorldLevelUnlockTaskGroupTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "BirthdayConst.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "CashShopHintTextTable.json": {
+          "added": 12,
+          "removed": 0,
+          "changed": 0
+        },
+        "ChapterMissionChapterTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "DecoBuildingObtainConditionTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "DecoBuildingObtainWaysTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonNormal2RaidTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "DungeonRaid2NormalTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "EmptyGasJarTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipAppendRewardTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipCostMaterialTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "EquipFormulaChainTable.json": {
+          "added": 11,
+          "removed": 0,
+          "changed": 0
+        },
+        "FacSTTBuildingDomainLimitTechTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryDecoBuildingTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryEnvDisplayTable.json": {
+          "added": 4,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryGasContainerTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryGasMinerTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryMachineCraftModeCoverTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryTransmuterTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "FactoryVaporizerTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "FullGasJarTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "GameMechanicCategorySpecialTeamTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GameMechanicCategoryVoiceTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "GasTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "ItemPortableDeviceTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 0
+        },
+        "ItemPortableDeviceTypeTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "MapMarkPreferredJumpListTable.json": {
+          "added": 6,
+          "removed": 0,
+          "changed": 0
+        },
+        "MiasmaDeathTips.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "MissionChapterSelectTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "MissionSelectChapterTable.json": {
+          "added": 3,
+          "removed": 0,
+          "changed": 0
+        },
+        "NarrativeNoteEntryTable.json": {
+          "added": 20,
+          "removed": 0,
+          "changed": 0
+        },
+        "SNSDialogValidMapTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SeasonTowerConst.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SeasonTowerDungeonTable.json": {
+          "added": 24,
+          "removed": 0,
+          "changed": 0
+        },
+        "SeasonTowerGameGroupTable.json": {
+          "added": 8,
+          "removed": 0,
+          "changed": 0
+        },
+        "SeasonTowerRankTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 0
+        },
+        "SeasonTowerTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "ShopGoodsTagCommonTable.json": {
+          "added": 7,
+          "removed": 0,
+          "changed": 0
+        },
+        "SkillConditionTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SkipChapterFactoryBuildingTable.json": {
+          "added": 15,
+          "removed": 0,
+          "changed": 0
+        },
+        "SkipChapterFactoryTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SkipChapterTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotActionTable.json": {
+          "added": 15,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotIdentifyActionTable.json": {
+          "added": 0,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotRewardTaskConditionTable.json": {
+          "added": 5,
+          "removed": 0,
+          "changed": 0
+        },
+        "SnapshotRewardTaskTable.json": {
+          "added": 1,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipAlbumMusicTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipAlbumTable.json": {
+          "added": 2,
+          "removed": 0,
+          "changed": 0
+        },
+        "SpaceshipMusicTable.json": {
+          "added": 13,
+          "removed": 0,
+          "changed": 0
+        }
+      }
     }
   ]
 }

@@ -1,0 +1,88 @@
+{
+  "tableName": "FactoryItemAsHubCraftIncomeTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "item_copper_enr2_cmpt": {
+        "list": [
+          "battle_turret_3",
+          "battle_lightning_2"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "item_copper_cmpt": {
+        "oldValue": {
+          "list": [
+            "battle_jet_1",
+            "battle_trap_1",
+            "miner_4",
+            "pump_2",
+            "mix_pool_2",
+            "liquid_cleaner_1",
+            "liquid_purifier_1",
+            "udpipe_loader_1",
+            "udpipe_loader_2",
+            "udpipe_unloader_1",
+            "udpipe_unloader_2"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "battle_jet_1",
+            "battle_trap_1",
+            "miner_4",
+            "pump_2",
+            "mix_pool_2",
+            "liquid_cleaner_1",
+            "liquid_purifier_1",
+            "udpipe_loader_1",
+            "udpipe_loader_2",
+            "udpipe_unloader_1",
+            "udpipe_unloader_2",
+            "gas_pump_1",
+            "gas_storager_1",
+            "transmuter_1",
+            "transmuter_2",
+            "vaporizer_1",
+            "gas_reactor_1"
+          ]
+        },
+        "changed": {
+          "list[11]": {
+            "type": "value",
+            "newValue": "gas_pump_1"
+          },
+          "list[12]": {
+            "type": "value",
+            "newValue": "gas_storager_1"
+          },
+          "list[13]": {
+            "type": "value",
+            "newValue": "transmuter_1"
+          },
+          "list[14]": {
+            "type": "value",
+            "newValue": "transmuter_2"
+          },
+          "list[15]": {
+            "type": "value",
+            "newValue": "vaporizer_1"
+          },
+          "list[16]": {
+            "type": "value",
+            "newValue": "gas_reactor_1"
+          }
+        }
+      }
+    }
+  }
+}

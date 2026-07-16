@@ -1,0 +1,432 @@
+{
+  "tableName": "ItemStorage",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "1": {
+        "oldValue": {
+          "types": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12,
+            15,
+            21,
+            28,
+            41,
+            29,
+            37,
+            38,
+            39,
+            40,
+            51,
+            47,
+            50,
+            53,
+            65,
+            44,
+            58,
+            59,
+            20,
+            35,
+            62,
+            81,
+            93,
+            57,
+            66,
+            67,
+            68,
+            70,
+            76,
+            84,
+            86,
+            90,
+            91,
+            99,
+            74,
+            77,
+            64,
+            80,
+            79,
+            100
+          ]
+        },
+        "newValue": {
+          "types": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12,
+            15,
+            21,
+            28,
+            41,
+            102,
+            29,
+            37,
+            38,
+            39,
+            40,
+            51,
+            47,
+            50,
+            53,
+            65,
+            44,
+            58,
+            20,
+            35,
+            62,
+            81,
+            93,
+            57,
+            66,
+            67,
+            68,
+            70,
+            76,
+            84,
+            86,
+            90,
+            91,
+            99,
+            74,
+            77,
+            64,
+            80,
+            79,
+            100,
+            104,
+            110,
+            105,
+            112
+          ]
+        },
+        "changed": {
+          "types[10]": {
+            "type": "value",
+            "oldValue": 29,
+            "newValue": 102
+          },
+          "types[11]": {
+            "type": "value",
+            "oldValue": 37,
+            "newValue": 29
+          },
+          "types[12]": {
+            "type": "value",
+            "oldValue": 38,
+            "newValue": 37
+          },
+          "types[13]": {
+            "type": "value",
+            "oldValue": 39,
+            "newValue": 38
+          },
+          "types[14]": {
+            "type": "value",
+            "oldValue": 40,
+            "newValue": 39
+          },
+          "types[15]": {
+            "type": "value",
+            "oldValue": 51,
+            "newValue": 40
+          },
+          "types[16]": {
+            "type": "value",
+            "oldValue": 47,
+            "newValue": 51
+          },
+          "types[17]": {
+            "type": "value",
+            "oldValue": 50,
+            "newValue": 47
+          },
+          "types[18]": {
+            "type": "value",
+            "oldValue": 53,
+            "newValue": 50
+          },
+          "types[19]": {
+            "type": "value",
+            "oldValue": 65,
+            "newValue": 53
+          },
+          "types[20]": {
+            "type": "value",
+            "oldValue": 44,
+            "newValue": 65
+          },
+          "types[21]": {
+            "type": "value",
+            "oldValue": 58,
+            "newValue": 44
+          },
+          "types[22]": {
+            "type": "value",
+            "oldValue": 59,
+            "newValue": 58
+          },
+          "types[45]": {
+            "type": "value",
+            "newValue": 104
+          },
+          "types[46]": {
+            "type": "value",
+            "newValue": 110
+          },
+          "types[47]": {
+            "type": "value",
+            "newValue": 105
+          },
+          "types[48]": {
+            "type": "value",
+            "newValue": 112
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "types": [
+            5,
+            19,
+            6,
+            13,
+            14,
+            22,
+            7,
+            27,
+            25,
+            26,
+            61,
+            95,
+            96,
+            42,
+            33,
+            34,
+            43,
+            45,
+            49,
+            36,
+            32,
+            63,
+            82,
+            94,
+            55,
+            69,
+            56,
+            60,
+            83,
+            85,
+            87,
+            88,
+            89,
+            92,
+            97,
+            98,
+            73,
+            75,
+            78
+          ]
+        },
+        "newValue": {
+          "types": [
+            5,
+            19,
+            6,
+            13,
+            14,
+            22,
+            7,
+            27,
+            25,
+            26,
+            61,
+            95,
+            96,
+            42,
+            33,
+            34,
+            43,
+            45,
+            49,
+            36,
+            32,
+            59,
+            63,
+            82,
+            94,
+            55,
+            69,
+            56,
+            60,
+            83,
+            85,
+            87,
+            88,
+            89,
+            92,
+            97,
+            98,
+            73,
+            75,
+            78,
+            103,
+            111
+          ]
+        },
+        "changed": {
+          "types[21]": {
+            "type": "value",
+            "oldValue": 63,
+            "newValue": 59
+          },
+          "types[22]": {
+            "type": "value",
+            "oldValue": 82,
+            "newValue": 63
+          },
+          "types[23]": {
+            "type": "value",
+            "oldValue": 94,
+            "newValue": 82
+          },
+          "types[24]": {
+            "type": "value",
+            "oldValue": 55,
+            "newValue": 94
+          },
+          "types[25]": {
+            "type": "value",
+            "oldValue": 69,
+            "newValue": 55
+          },
+          "types[26]": {
+            "type": "value",
+            "oldValue": 56,
+            "newValue": 69
+          },
+          "types[27]": {
+            "type": "value",
+            "oldValue": 60,
+            "newValue": 56
+          },
+          "types[28]": {
+            "type": "value",
+            "oldValue": 83,
+            "newValue": 60
+          },
+          "types[29]": {
+            "type": "value",
+            "oldValue": 85,
+            "newValue": 83
+          },
+          "types[30]": {
+            "type": "value",
+            "oldValue": 87,
+            "newValue": 85
+          },
+          "types[31]": {
+            "type": "value",
+            "oldValue": 88,
+            "newValue": 87
+          },
+          "types[32]": {
+            "type": "value",
+            "oldValue": 89,
+            "newValue": 88
+          },
+          "types[33]": {
+            "type": "value",
+            "oldValue": 92,
+            "newValue": 89
+          },
+          "types[34]": {
+            "type": "value",
+            "oldValue": 97,
+            "newValue": 92
+          },
+          "types[35]": {
+            "type": "value",
+            "oldValue": 98,
+            "newValue": 97
+          },
+          "types[36]": {
+            "type": "value",
+            "oldValue": 73,
+            "newValue": 98
+          },
+          "types[37]": {
+            "type": "value",
+            "oldValue": 75,
+            "newValue": 73
+          },
+          "types[38]": {
+            "type": "value",
+            "oldValue": 78,
+            "newValue": 75
+          },
+          "types[39]": {
+            "type": "value",
+            "newValue": 78
+          },
+          "types[40]": {
+            "type": "value",
+            "newValue": 103
+          },
+          "types[41]": {
+            "type": "value",
+            "newValue": 111
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "types": [
+            8,
+            9,
+            54,
+            10,
+            48,
+            52,
+            71,
+            72
+          ]
+        },
+        "newValue": {
+          "types": [
+            8,
+            9,
+            54,
+            10,
+            48,
+            52,
+            71,
+            72,
+            101
+          ]
+        },
+        "changed": {
+          "types[8]": {
+            "type": "value",
+            "newValue": 101
+          }
+        }
+      }
+    }
+  }
+}

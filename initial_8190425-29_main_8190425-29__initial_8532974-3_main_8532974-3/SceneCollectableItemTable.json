@@ -1,0 +1,2092 @@
+{
+  "tableName": "SceneCollectableItemTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 7
+  },
+  "entries": {
+    "added": {
+      "map02_lv007": {
+        "itemList": [
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_ether",
+            "infoLabel": {
+              "BR": "Fogueira",
+              "CN": "营火",
+              "DE": "Lagerfeuer",
+              "EN": "Campfire",
+              "FR": "Feu de camp",
+              "ID": "Api Unggun",
+              "IT": "Fuoco da campo",
+              "JP": "キャンプ地",
+              "KR": "모닥불",
+              "MX": "Fogata",
+              "RU": "Костер",
+              "TC": "營火",
+              "TH": "กองไฟ",
+              "VN": "Lửa Trại"
+            },
+            "itemId": "int_campfire_v2",
+            "maxCount": 5,
+            "sceneId": "map02_lv007"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_ether_wuling",
+            "infoLabel": {
+              "BR": "Aurileno",
+              "CN": "醚质",
+              "DE": "Aurylen",
+              "EN": "Aurylene",
+              "FR": "Aurylène",
+              "ID": "Aurylene",
+              "IT": "Aurylene",
+              "JP": "オーリレン",
+              "KR": "오리렌",
+              "MX": "Aurileno",
+              "RU": "Аурилен",
+              "TC": "醚質",
+              "TH": "ออ​ริ​ลีน",
+              "VN": "Aurylene"
+            },
+            "itemId": "item_collection_ether_wuling",
+            "maxCount": 31,
+            "sceneId": "map02_lv007"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_trstar",
+            "infoLabel": {
+              "BR": "Talosita",
+              "CN": "塔晶",
+              "DE": "Talosit",
+              "EN": "Talosite",
+              "FR": "Talosite",
+              "ID": "Talosite",
+              "IT": "Talosite",
+              "JP": "タロサイト",
+              "KR": "유령수정",
+              "MX": "Talosita",
+              "RU": "Талозит",
+              "TC": "塔晶",
+              "TH": "ทา​โล​ไซต์",
+              "VN": "Talosite"
+            },
+            "itemId": "int_collection_trstar",
+            "maxCount": 31,
+            "sceneId": "map02_lv007"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_trstar",
+            "infoLabel": {
+              "BR": "Talosita",
+              "CN": "塔晶",
+              "DE": "Talosit",
+              "EN": "Talosite",
+              "FR": "Talosite",
+              "ID": "Talosite",
+              "IT": "Talosite",
+              "JP": "タロサイト",
+              "KR": "유령수정",
+              "MX": "Talosita",
+              "RU": "Талозит",
+              "TC": "塔晶",
+              "TH": "ทา​โล​ไซต์",
+              "VN": "Talosite"
+            },
+            "itemId": "int_collection_trstar_high",
+            "maxCount": 31,
+            "sceneId": "map02_lv007"
+          }
+        ]
+      },
+      "map02_lv008": {
+        "itemList": [
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_ether",
+            "infoLabel": {
+              "BR": "Fogueira",
+              "CN": "营火",
+              "DE": "Lagerfeuer",
+              "EN": "Campfire",
+              "FR": "Feu de camp",
+              "ID": "Api Unggun",
+              "IT": "Fuoco da campo",
+              "JP": "キャンプ地",
+              "KR": "모닥불",
+              "MX": "Fogata",
+              "RU": "Костер",
+              "TC": "營火",
+              "TH": "กองไฟ",
+              "VN": "Lửa Trại"
+            },
+            "itemId": "int_campfire_v2",
+            "maxCount": 5,
+            "sceneId": "map02_lv008"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_ether_wuling",
+            "infoLabel": {
+              "BR": "Aurileno",
+              "CN": "醚质",
+              "DE": "Aurylen",
+              "EN": "Aurylene",
+              "FR": "Aurylène",
+              "ID": "Aurylene",
+              "IT": "Aurylene",
+              "JP": "オーリレン",
+              "KR": "오리렌",
+              "MX": "Aurileno",
+              "RU": "Аурилен",
+              "TC": "醚質",
+              "TH": "ออ​ริ​ลีน",
+              "VN": "Aurylene"
+            },
+            "itemId": "item_collection_ether_wuling",
+            "maxCount": 31,
+            "sceneId": "map02_lv008"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_trstar",
+            "infoLabel": {
+              "BR": "Talosita",
+              "CN": "塔晶",
+              "DE": "Talosit",
+              "EN": "Talosite",
+              "FR": "Talosite",
+              "ID": "Talosite",
+              "IT": "Talosite",
+              "JP": "タロサイト",
+              "KR": "유령수정",
+              "MX": "Talosita",
+              "RU": "Талозит",
+              "TC": "塔晶",
+              "TH": "ทา​โล​ไซต์",
+              "VN": "Talosite"
+            },
+            "itemId": "int_collection_trstar",
+            "maxCount": 31,
+            "sceneId": "map02_lv008"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_trstar",
+            "infoLabel": {
+              "BR": "Talosita",
+              "CN": "塔晶",
+              "DE": "Talosit",
+              "EN": "Talosite",
+              "FR": "Talosite",
+              "ID": "Talosite",
+              "IT": "Talosite",
+              "JP": "タロサイト",
+              "KR": "유령수정",
+              "MX": "Talosita",
+              "RU": "Талозит",
+              "TC": "塔晶",
+              "TH": "ทา​โล​ไซต์",
+              "VN": "Talosite"
+            },
+            "itemId": "int_collection_trstar_high",
+            "maxCount": 31,
+            "sceneId": "map02_lv008"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "map01_lv005": {
+        "oldValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 17,
+              "sceneId": "map01_lv005"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Lógica de Reparo",
+                "CN": "维修灵感",
+                "DE": "Reparaturlogik",
+                "EN": "Repair Logic",
+                "FR": "Logique de réparation",
+                "ID": "Logika Perbaikan",
+                "IT": "Logica di riparazione",
+                "JP": "修理部品",
+                "KR": "수리 영감",
+                "MX": "Lógica de reparación",
+                "RU": "Ремонтная схема",
+                "TC": "維修靈感",
+                "TH": "เหตุผล​ของ​การซ่อมแซม",
+                "VN": "Cơ Chế Sửa Chữa"
+              },
+              "itemId": "int_collection_piece",
+              "maxCount": 1,
+              "sceneId": "map01_lv005"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 7,
+              "sceneId": "map01_lv005"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 5,
+              "sceneId": "map01_lv005"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 17,
+              "sceneId": "map01_lv005"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Lógica de Reparo",
+                "CN": "维修灵感",
+                "DE": "Reparaturlogik",
+                "EN": "Repair Logic",
+                "FR": "Logique de réparation",
+                "ID": "Logika Perbaikan",
+                "IT": "Logica di riparazione",
+                "JP": "修理部品",
+                "KR": "수리 영감",
+                "MX": "Lógica de reparación",
+                "RU": "Ремонтная схема",
+                "TC": "維修靈感",
+                "TH": "เหตุผล​ของ​การซ่อมแซม",
+                "VN": "Cơ Chế Sửa Chữa"
+              },
+              "itemId": "int_collection_piece",
+              "maxCount": 1,
+              "sceneId": "map01_lv005"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Manifestação do Æther",
+                "CN": "超域实体",
+                "DE": "Æther-Manifest",
+                "EN": "Æther Manifest",
+                "FR": "Manifestation æthérique",
+                "ID": "Manifestasi Æther",
+                "IT": "Sfera di Æther",
+                "JP": "超域実体",
+                "KR": "초자연 실체",
+                "MX": "Manifestación de éter",
+                "RU": "Воплощение эфира",
+                "TC": "超域實體",
+                "TH": "ภูต​สำแดง​เอ​เทอร์",
+                "VN": "Thực Thể Æther"
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 7,
+              "sceneId": "map01_lv005"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 5,
+              "sceneId": "map01_lv005"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[2].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Manifestação do Æther"
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "超域实体"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Æther-Manifest"
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Æther Manifest"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "Manifestation æthérique"
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Manifestasi Æther"
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Sfera di Æther"
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "超域実体"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "초자연 실체"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "Manifestación de éter"
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Воплощение эфира"
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "超域實體"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "ภูต​สำแดง​เอ​เทอร์"
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Thực Thể Æther"
+              }
+            }
+          }
+        }
+      },
+      "map02_lv006": {
+        "oldValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether_wuling",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether_wuling",
+              "maxCount": 31,
+              "sceneId": "map02_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Fuoco da campo",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 5,
+              "sceneId": "map02_lv006"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Fuoco da campo",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 5,
+              "sceneId": "map02_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether_wuling",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether_wuling",
+              "maxCount": 31,
+              "sceneId": "map02_lv006"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[0].imagePath": {
+            "type": "value",
+            "oldValue": "ItemIcon/item_collection_ether_wuling",
+            "newValue": "ItemIcon/item_collection_ether"
+          },
+          "itemList[0].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Aurileno",
+                "newText": "Fogueira"
+              },
+              "CN": {
+                "oldText": "醚质",
+                "newText": "营火"
+              },
+              "DE": {
+                "oldText": "Aurylen",
+                "newText": "Lagerfeuer"
+              },
+              "EN": {
+                "oldText": "Aurylene",
+                "newText": "Campfire"
+              },
+              "FR": {
+                "oldText": "Aurylène",
+                "newText": "Feu de camp"
+              },
+              "ID": {
+                "oldText": "Aurylene",
+                "newText": "Api Unggun"
+              },
+              "IT": {
+                "oldText": "Aurylene",
+                "newText": "Fuoco da campo"
+              },
+              "JP": {
+                "oldText": "オーリレン",
+                "newText": "キャンプ地"
+              },
+              "KR": {
+                "oldText": "오리렌",
+                "newText": "모닥불"
+              },
+              "MX": {
+                "oldText": "Aurileno",
+                "newText": "Fogata"
+              },
+              "RU": {
+                "oldText": "Аурилен",
+                "newText": "Костер"
+              },
+              "TC": {
+                "oldText": "醚質",
+                "newText": "營火"
+              },
+              "TH": {
+                "oldText": "ออ​ริ​ลีน",
+                "newText": "กองไฟ"
+              },
+              "VN": {
+                "oldText": "Aurylene",
+                "newText": "Lửa Trại"
+              }
+            }
+          },
+          "itemList[0].itemId": {
+            "type": "value",
+            "oldValue": "item_collection_ether_wuling",
+            "newValue": "int_campfire_v2"
+          },
+          "itemList[0].maxCount": {
+            "type": "value",
+            "oldValue": 31,
+            "newValue": 5
+          },
+          "itemList[1].imagePath": {
+            "type": "value",
+            "oldValue": "ItemIcon/item_collection_ether",
+            "newValue": "ItemIcon/item_collection_ether_wuling"
+          },
+          "itemList[1].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Fogueira",
+                "newText": "Aurileno"
+              },
+              "CN": {
+                "oldText": "营火",
+                "newText": "醚质"
+              },
+              "DE": {
+                "oldText": "Lagerfeuer",
+                "newText": "Aurylen"
+              },
+              "EN": {
+                "oldText": "Campfire",
+                "newText": "Aurylene"
+              },
+              "FR": {
+                "oldText": "Feu de camp",
+                "newText": "Aurylène"
+              },
+              "ID": {
+                "oldText": "Api Unggun",
+                "newText": "Aurylene"
+              },
+              "IT": {
+                "oldText": "Fuoco da campo",
+                "newText": "Aurylene"
+              },
+              "JP": {
+                "oldText": "キャンプ地",
+                "newText": "オーリレン"
+              },
+              "KR": {
+                "oldText": "모닥불",
+                "newText": "오리렌"
+              },
+              "MX": {
+                "oldText": "Fogata",
+                "newText": "Aurileno"
+              },
+              "RU": {
+                "oldText": "Костер",
+                "newText": "Аурилен"
+              },
+              "TC": {
+                "oldText": "營火",
+                "newText": "醚質"
+              },
+              "TH": {
+                "oldText": "กองไฟ",
+                "newText": "ออ​ริ​ลีน"
+              },
+              "VN": {
+                "oldText": "Lửa Trại",
+                "newText": "Aurylene"
+              }
+            }
+          },
+          "itemList[1].itemId": {
+            "type": "value",
+            "oldValue": "int_campfire_v2",
+            "newValue": "item_collection_ether_wuling"
+          },
+          "itemList[1].maxCount": {
+            "type": "value",
+            "oldValue": 5,
+            "newValue": 31
+          }
+        }
+      },
+      "map01_lv001": {
+        "oldValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 31,
+              "sceneId": "map01_lv001"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 3,
+              "sceneId": "map01_lv001"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 7,
+              "sceneId": "map01_lv001"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 31,
+              "sceneId": "map01_lv001"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Manifestação do Æther",
+                "CN": "超域实体",
+                "DE": "Æther-Manifest",
+                "EN": "Æther Manifest",
+                "FR": "Manifestation æthérique",
+                "ID": "Manifestasi Æther",
+                "IT": "Sfera di Æther",
+                "JP": "超域実体",
+                "KR": "초자연 실체",
+                "MX": "Manifestación de éter",
+                "RU": "Воплощение эфира",
+                "TC": "超域實體",
+                "TH": "ภูต​สำแดง​เอ​เทอร์",
+                "VN": "Thực Thể Æther"
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 3,
+              "sceneId": "map01_lv001"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 7,
+              "sceneId": "map01_lv001"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[1].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Manifestação do Æther"
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "超域实体"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Æther-Manifest"
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Æther Manifest"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "Manifestation æthérique"
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Manifestasi Æther"
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Sfera di Æther"
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "超域実体"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "초자연 실체"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "Manifestación de éter"
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Воплощение эфира"
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "超域實體"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "ภูต​สำแดง​เอ​เทอร์"
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Thực Thể Æther"
+              }
+            }
+          }
+        }
+      },
+      "map01_lv002": {
+        "oldValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 17,
+              "sceneId": "map01_lv002"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 2,
+              "sceneId": "map01_lv002"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 3,
+              "sceneId": "map01_lv002"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 17,
+              "sceneId": "map01_lv002"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Manifestação do Æther",
+                "CN": "超域实体",
+                "DE": "Æther-Manifest",
+                "EN": "Æther Manifest",
+                "FR": "Manifestation æthérique",
+                "ID": "Manifestasi Æther",
+                "IT": "Sfera di Æther",
+                "JP": "超域実体",
+                "KR": "초자연 실체",
+                "MX": "Manifestación de éter",
+                "RU": "Воплощение эфира",
+                "TC": "超域實體",
+                "TH": "ภูต​สำแดง​เอ​เทอร์",
+                "VN": "Thực Thể Æther"
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 2,
+              "sceneId": "map01_lv002"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 3,
+              "sceneId": "map01_lv002"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[1].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Manifestação do Æther"
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "超域实体"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Æther-Manifest"
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Æther Manifest"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "Manifestation æthérique"
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Manifestasi Æther"
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Sfera di Æther"
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "超域実体"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "초자연 실체"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "Manifestación de éter"
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Воплощение эфира"
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "超域實體"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "ภูต​สำแดง​เอ​เทอร์"
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Thực Thể Æther"
+              }
+            }
+          }
+        }
+      },
+      "map02_lv001": {
+        "oldValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 11,
+              "sceneId": "map02_lv001"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Lógica de Reparo",
+                "CN": "维修灵感",
+                "DE": "Reparaturlogik",
+                "EN": "Repair Logic",
+                "FR": "Logique de réparation",
+                "ID": "Logika Perbaikan",
+                "IT": "Logica di riparazione",
+                "JP": "修理部品",
+                "KR": "수리 영감",
+                "MX": "Lógica de reparación",
+                "RU": "Ремонтная схема",
+                "TC": "維修靈感",
+                "TH": "เหตุผล​ของ​การซ่อมแซม",
+                "VN": "Cơ Chế Sửa Chữa"
+              },
+              "itemId": "int_collection_piece",
+              "maxCount": 2,
+              "sceneId": "map02_lv001"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether_wuling",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether_wuling",
+              "maxCount": 31,
+              "sceneId": "map02_lv001"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 11,
+              "sceneId": "map02_lv001"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether_wuling",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether_wuling",
+              "maxCount": 31,
+              "sceneId": "map02_lv001"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[1].imagePath": {
+            "type": "value",
+            "oldValue": "ItemIcon/item_collection_ether",
+            "newValue": "ItemIcon/item_collection_ether_wuling"
+          },
+          "itemList[1].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Lógica de Reparo",
+                "newText": "Aurileno"
+              },
+              "CN": {
+                "oldText": "维修灵感",
+                "newText": "醚质"
+              },
+              "DE": {
+                "oldText": "Reparaturlogik",
+                "newText": "Aurylen"
+              },
+              "EN": {
+                "oldText": "Repair Logic",
+                "newText": "Aurylene"
+              },
+              "FR": {
+                "oldText": "Logique de réparation",
+                "newText": "Aurylène"
+              },
+              "ID": {
+                "oldText": "Logika Perbaikan",
+                "newText": "Aurylene"
+              },
+              "IT": {
+                "oldText": "Logica di riparazione",
+                "newText": "Aurylene"
+              },
+              "JP": {
+                "oldText": "修理部品",
+                "newText": "オーリレン"
+              },
+              "KR": {
+                "oldText": "수리 영감",
+                "newText": "오리렌"
+              },
+              "MX": {
+                "oldText": "Lógica de reparación",
+                "newText": "Aurileno"
+              },
+              "RU": {
+                "oldText": "Ремонтная схема",
+                "newText": "Аурилен"
+              },
+              "TC": {
+                "oldText": "維修靈感",
+                "newText": "醚質"
+              },
+              "TH": {
+                "oldText": "เหตุผล​ของ​การซ่อมแซม",
+                "newText": "ออ​ริ​ลีน"
+              },
+              "VN": {
+                "oldText": "Cơ Chế Sửa Chữa",
+                "newText": "Aurylene"
+              }
+            }
+          },
+          "itemList[1].itemId": {
+            "type": "value",
+            "oldValue": "int_collection_piece",
+            "newValue": "item_collection_ether_wuling"
+          },
+          "itemList[1].maxCount": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 31
+          },
+          "itemList[2]": {
+            "type": "value",
+            "oldValue": {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether_wuling",
+              "infoLabel": {
+                "id": "-4531788785591192185",
+                "text": ""
+              },
+              "itemId": "item_collection_ether_wuling",
+              "maxCount": 31,
+              "sceneId": "map02_lv001"
+            }
+          }
+        }
+      },
+      "map01_lv003": {
+        "oldValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Lógica de Reparo",
+                "CN": "维修灵感",
+                "DE": "Reparaturlogik",
+                "EN": "Repair Logic",
+                "FR": "Logique de réparation",
+                "ID": "Logika Perbaikan",
+                "IT": "Logica di riparazione",
+                "JP": "修理部品",
+                "KR": "수리 영감",
+                "MX": "Lógica de reparación",
+                "RU": "Ремонтная схема",
+                "TC": "維修靈感",
+                "TH": "เหตุผล​ของ​การซ่อมแซม",
+                "VN": "Cơ Chế Sửa Chữa"
+              },
+              "itemId": "int_collection_piece",
+              "maxCount": 1,
+              "sceneId": "map01_lv003"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 14,
+              "sceneId": "map01_lv003"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 3,
+              "sceneId": "map01_lv003"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 4,
+              "sceneId": "map01_lv003"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Lógica de Reparo",
+                "CN": "维修灵感",
+                "DE": "Reparaturlogik",
+                "EN": "Repair Logic",
+                "FR": "Logique de réparation",
+                "ID": "Logika Perbaikan",
+                "IT": "Logica di riparazione",
+                "JP": "修理部品",
+                "KR": "수리 영감",
+                "MX": "Lógica de reparación",
+                "RU": "Ремонтная схема",
+                "TC": "維修靈感",
+                "TH": "เหตุผล​ของ​การซ่อมแซม",
+                "VN": "Cơ Chế Sửa Chữa"
+              },
+              "itemId": "int_collection_piece",
+              "maxCount": 1,
+              "sceneId": "map01_lv003"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 14,
+              "sceneId": "map01_lv003"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Manifestação do Æther",
+                "CN": "超域实体",
+                "DE": "Æther-Manifest",
+                "EN": "Æther Manifest",
+                "FR": "Manifestation æthérique",
+                "ID": "Manifestasi Æther",
+                "IT": "Sfera di Æther",
+                "JP": "超域実体",
+                "KR": "초자연 실체",
+                "MX": "Manifestación de éter",
+                "RU": "Воплощение эфира",
+                "TC": "超域實體",
+                "TH": "ภูต​สำแดง​เอ​เทอร์",
+                "VN": "Thực Thể Æther"
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 3,
+              "sceneId": "map01_lv003"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 4,
+              "sceneId": "map01_lv003"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[2].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Manifestação do Æther"
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "超域实体"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Æther-Manifest"
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Æther Manifest"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "Manifestation æthérique"
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Manifestasi Æther"
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Sfera di Æther"
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "超域実体"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "초자연 실체"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "Manifestación de éter"
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Воплощение эфира"
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "超域實體"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "ภูต​สำแดง​เอ​เทอร์"
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Thực Thể Æther"
+              }
+            }
+          }
+        }
+      },
+      "map01_lv006": {
+        "oldValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Lógica de Reparo",
+                "CN": "维修灵感",
+                "DE": "Reparaturlogik",
+                "EN": "Repair Logic",
+                "FR": "Logique de réparation",
+                "ID": "Logika Perbaikan",
+                "IT": "Logica di riparazione",
+                "JP": "修理部品",
+                "KR": "수리 영감",
+                "MX": "Lógica de reparación",
+                "RU": "Ремонтная схема",
+                "TC": "維修靈感",
+                "TH": "เหตุผล​ของ​การซ่อมแซม",
+                "VN": "Cơ Chế Sửa Chữa"
+              },
+              "itemId": "int_collection_piece",
+              "maxCount": 2,
+              "sceneId": "map01_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 31,
+              "sceneId": "map01_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 5,
+              "sceneId": "map01_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 5,
+              "sceneId": "map01_lv006"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Lógica de Reparo",
+                "CN": "维修灵感",
+                "DE": "Reparaturlogik",
+                "EN": "Repair Logic",
+                "FR": "Logique de réparation",
+                "ID": "Logika Perbaikan",
+                "IT": "Logica di riparazione",
+                "JP": "修理部品",
+                "KR": "수리 영감",
+                "MX": "Lógica de reparación",
+                "RU": "Ремонтная схема",
+                "TC": "維修靈感",
+                "TH": "เหตุผล​ของ​การซ่อมแซม",
+                "VN": "Cơ Chế Sửa Chữa"
+              },
+              "itemId": "int_collection_piece",
+              "maxCount": 2,
+              "sceneId": "map01_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Aurileno",
+                "CN": "醚质",
+                "DE": "Aurylen",
+                "EN": "Aurylene",
+                "FR": "Aurylène",
+                "ID": "Aurylene",
+                "IT": "Aurylene",
+                "JP": "オーリレン",
+                "KR": "오리렌",
+                "MX": "Aurileno",
+                "RU": "Аурилен",
+                "TC": "醚質",
+                "TH": "ออ​ริ​ลีน",
+                "VN": "Aurylene"
+              },
+              "itemId": "item_collection_ether",
+              "maxCount": 31,
+              "sceneId": "map01_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 10,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Manifestação do Æther",
+                "CN": "超域实体",
+                "DE": "Æther-Manifest",
+                "EN": "Æther Manifest",
+                "FR": "Manifestation æthérique",
+                "ID": "Manifestasi Æther",
+                "IT": "Sfera di Æther",
+                "JP": "超域実体",
+                "KR": "초자연 실체",
+                "MX": "Manifestación de éter",
+                "RU": "Воплощение эфира",
+                "TC": "超域實體",
+                "TH": "ภูต​สำแดง​เอ​เทอร์",
+                "VN": "Thực Thể Æther"
+              },
+              "itemId": "item_collection_instance",
+              "maxCount": 5,
+              "sceneId": "map01_lv006"
+            },
+            {
+              "convertRequiredCount": -1,
+              "convertTargetItemId": "",
+              "extraBandwidthCapacity": 0,
+              "extraBuildingNumLimit": 0,
+              "hasConvertRule": false,
+              "imagePath": "ItemIcon/item_collection_ether",
+              "infoLabel": {
+                "BR": "Fogueira",
+                "CN": "营火",
+                "DE": "Lagerfeuer",
+                "EN": "Campfire",
+                "FR": "Feu de camp",
+                "ID": "Api Unggun",
+                "IT": "Accampamento",
+                "JP": "キャンプ地",
+                "KR": "모닥불",
+                "MX": "Fogata",
+                "RU": "Костер",
+                "TC": "營火",
+                "TH": "กองไฟ",
+                "VN": "Lửa Trại"
+              },
+              "itemId": "int_campfire_v2",
+              "maxCount": 5,
+              "sceneId": "map01_lv006"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[2].infoLabel": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Manifestação do Æther"
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "超域实体"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Æther-Manifest"
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Æther Manifest"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "Manifestation æthérique"
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Manifestasi Æther"
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Sfera di Æther"
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "超域実体"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "초자연 실체"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "Manifestación de éter"
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Воплощение эфира"
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "超域實體"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "ภูต​สำแดง​เอ​เทอร์"
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Thực Thể Æther"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3312 @@
+{
+  "tableName": "WikiGroupTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "wiki_type_monster": {
+        "oldValue": {
+          "list": [
+            {
+              "groupId": "wiki_group_monster_angel",
+              "groupName": {
+                "BR": "Aggeloi",
+                "CN": "天使",
+                "DE": "Aggeloi",
+                "EN": "Aggeloi",
+                "FR": "Aggeloi",
+                "ID": "Aggelos",
+                "IT": "Aggeloi",
+                "JP": "アンゲロス",
+                "KR": "아겔로스",
+                "MX": "Aggeloi",
+                "RU": "Аггелы",
+                "TC": "天使",
+                "TH": "แอง​เกลอ​ย",
+                "VN": "Aggeloi"
+              },
+              "iconId": "icon_wiki_group_monster_angel"
+            },
+            {
+              "groupId": "wiki_group_monster_landbreaker",
+              "groupName": {
+                "BR": "Invasores de Terras",
+                "CN": "裂地者",
+                "DE": "Landbrecher",
+                "EN": "Landbreakers",
+                "FR": "Brise-Terres",
+                "ID": "Landbreaker",
+                "IT": "Fenditerra",
+                "JP": "ランドブレーカー",
+                "KR": "랜드브레이커",
+                "MX": "Rompesuelos",
+                "RU": "Землекрушители",
+                "TC": "裂地者",
+                "TH": "แลนด์​เบรก​เกอร์",
+                "VN": "Landbreaker"
+              },
+              "iconId": "icon_wiki_group_monster_landbreaker"
+            },
+            {
+              "groupId": "wiki_group_monster_hongshan",
+              "groupName": {
+                "BR": "Piratas Cangzei",
+                "CN": "沧贼",
+                "DE": "Cangzei-Piraten",
+                "EN": "Cangzei Pirates",
+                "FR": "Pirates cangzei",
+                "ID": "Perompak Cangzei",
+                "IT": "Pirati di Cangzei",
+                "JP": "滄賊",
+                "KR": "창적",
+                "MX": "Piratas Cangzei",
+                "RU": "Разбойники-цанцзэй",
+                "TC": "滄賊",
+                "TH": "โจรสลัด​คัง​เซย",
+                "VN": "Hải Tặc Cangzei"
+              },
+              "iconId": "icon_wiki_group_monster_hongshan"
+            },
+            {
+              "groupId": "wiki_group_monster_animal",
+              "groupName": {
+                "BR": "Vida Selvagem",
+                "CN": "野外生物",
+                "DE": "Fauna",
+                "EN": "Wildlife",
+                "FR": "Faune",
+                "ID": "Margasatwa",
+                "IT": "Fauna",
+                "JP": "野生の生物",
+                "KR": "야외 생물",
+                "MX": "Vida silvestre",
+                "RU": "Дикая фауна",
+                "TC": "野外生物",
+                "TH": "สัตว์ป่า",
+                "VN": "Động Vật Hoang Dã"
+              },
+              "iconId": "icon_wiki_group_monster_animal"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "groupId": "wiki_group_monster_angel",
+              "groupName": {
+                "BR": "Aggeloi",
+                "CN": "天使",
+                "DE": "Aggeloi",
+                "EN": "Aggeloi",
+                "FR": "Aggeloi",
+                "ID": "Aggelos",
+                "IT": "Aggeloi",
+                "JP": "アンゲロス",
+                "KR": "아겔로스",
+                "MX": "Aggeloi",
+                "RU": "Аггелы",
+                "TC": "天使",
+                "TH": "แอง​เกลอ​ย",
+                "VN": "Aggeloi"
+              },
+              "iconId": "icon_wiki_group_monster_angel"
+            },
+            {
+              "groupId": "wiki_group_monster_landbreaker",
+              "groupName": {
+                "BR": "Invasores de Terras",
+                "CN": "裂地者",
+                "DE": "Landbrecher",
+                "EN": "Landbreakers",
+                "FR": "Brise-Terres",
+                "ID": "Landbreaker",
+                "IT": "Fenditerra",
+                "JP": "ランドブレーカー",
+                "KR": "랜드브레이커",
+                "MX": "Rompesuelos",
+                "RU": "Землекрушители",
+                "TC": "裂地者",
+                "TH": "แลนด์​เบรก​เกอร์",
+                "VN": "Landbreaker"
+              },
+              "iconId": "icon_wiki_group_monster_landbreaker"
+            },
+            {
+              "groupId": "wiki_group_monster_hongshan",
+              "groupName": {
+                "BR": "Piratas Cangzei",
+                "CN": "沧贼",
+                "DE": "Cangzei-Piraten",
+                "EN": "Cangzei Pirates",
+                "FR": "Pirates cangzei",
+                "ID": "Perompak Cangzei",
+                "IT": "Pirati di Cangzei",
+                "JP": "滄賊",
+                "KR": "창적",
+                "MX": "Piratas Cangzei",
+                "RU": "Разбойники-цанцзэй",
+                "TC": "滄賊",
+                "TH": "โจรสลัด​คัง​เซย",
+                "VN": "Hải Tặc Cangzei"
+              },
+              "iconId": "icon_wiki_group_monster_hongshan"
+            },
+            {
+              "groupId": "wiki_group_monster_animal",
+              "groupName": {
+                "BR": "Vida Selvagem",
+                "CN": "野外生物",
+                "DE": "Fauna",
+                "EN": "Wildlife",
+                "FR": "Faune",
+                "ID": "Margasatwa",
+                "IT": "Fauna",
+                "JP": "野生の生物",
+                "KR": "야외 생물",
+                "MX": "Vida silvestre",
+                "RU": "Дикая фауна",
+                "TC": "野外生物",
+                "TH": "สัตว์ป่า",
+                "VN": "Động Vật Hoang Dã"
+              },
+              "iconId": "icon_wiki_group_monster_animal"
+            },
+            {
+              "groupId": "wiki_group_monster_kl",
+              "groupName": {
+                "BR": "Sombras da Praga",
+                "CN": "蚀影",
+                "DE": "Verderbnisschatten",
+                "EN": "Blightshades",
+                "FR": "Les Gangrénombres",
+                "ID": "Bayang-bayang Hawar",
+                "IT": "Ombre contaminanti",
+                "JP": "蝕影",
+                "KR": "침식의 그림자",
+                "MX": "Sombras contaminadas",
+                "RU": "Моротени",
+                "TC": "蝕影",
+                "TH": "เงา​เสื่อมโทรม",
+                "VN": "Bóng Nhiễm Khuẩn"
+              },
+              "iconId": "icon_wiki_group_monster_kl"
+            },
+            {
+              "groupId": "wiki_group_monster_js",
+              "groupName": {
+                "BR": "Fundite",
+                "CN": "造裔",
+                "DE": "Fundit",
+                "EN": "Foundite",
+                "FR": "Fondamentaux",
+                "ID": "Foundite",
+                "IT": "Foundite",
+                "JP": "造裔",
+                "KR": "파운다이트",
+                "MX": "Fundita",
+                "RU": "Сотворенный",
+                "TC": "造裔",
+                "TH": "ฟาวน์​ได​ท์",
+                "VN": "Foundite"
+              },
+              "iconId": "icon_wiki_group_monster_js"
+            }
+          ]
+        },
+        "changed": {
+          "list[4]": {
+            "type": "value",
+            "newValue": {
+              "groupId": "wiki_group_monster_kl",
+              "groupName": {
+                "id": "6372067593623070797",
+                "text": ""
+              },
+              "iconId": "icon_wiki_group_monster_kl"
+            }
+          },
+          "list[5]": {
+            "type": "value",
+            "newValue": {
+              "groupId": "wiki_group_monster_js",
+              "groupName": {
+                "id": "5046597539790043126",
+                "text": ""
+              },
+              "iconId": "icon_wiki_group_monster_js"
+            }
+          }
+        }
+      },
+      "wiki_type_equip": {
+        "oldValue": {
+          "list": [
+            {
+              "groupId": "wiki_group_equip_default",
+              "groupName": {
+                "BR": "Não definido",
+                "CN": "散件",
+                "DE": "Ohne Set",
+                "EN": "Non-set",
+                "FR": "Unique",
+                "ID": "Nonset",
+                "IT": "Senza set",
+                "JP": "部品",
+                "KR": "단품",
+                "MX": "No establecido",
+                "RU": "Некомплектное",
+                "TC": "散件",
+                "TH": "ยัง​ไม่ได้​กำหนด",
+                "VN": "Không Theo Bộ"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_crush_fracture",
+              "groupName": {
+                "BR": "Borda Grisalha",
+                "CN": "旧锋",
+                "DE": "Graukant",
+                "EN": "Grizzled Edge",
+                "FR": "Fil émoussé",
+                "ID": "Tepian Serabut",
+                "IT": "Bordo grigio",
+                "JP": "旧鋒",
+                "KR": "고검의 잔향",
+                "MX": "Filo curtido",
+                "RU": "Потертое лезвие",
+                "TC": "舊鋒",
+                "TH": "กริซ​เซิล​เอ​ด​จ์",
+                "VN": "Lão Luyện"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_expend_spell01",
+              "groupName": {
+                "BR": "Fluxo de Xiranita",
+                "CN": "壤流",
+                "DE": "Xiranfluss",
+                "EN": "Xiranflow",
+                "FR": "Xiranflux",
+                "ID": "Xiranflow",
+                "IT": "Xiranflow",
+                "JP": "壌流",
+                "KR": "식양의 흐름",
+                "MX": "Flujo Xiran",
+                "RU": "Ксиранад",
+                "TC": "壤流",
+                "TH": "ซี​เรน​โฟลว์",
+                "VN": "Xiranflow"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_combo_cd01",
+              "groupName": {
+                "BR": "Qingbo",
+                "CN": "清波",
+                "DE": "Qingbo",
+                "EN": "Qingbo",
+                "FR": "Qingbo",
+                "ID": "Qingbo",
+                "IT": "Qingbo",
+                "JP": "清波",
+                "KR": "청파",
+                "MX": "Qingbo",
+                "RU": "Циньбо",
+                "TC": "清波",
+                "TH": "ชิง​ป๋อ",
+                "VN": "Thanh Ba"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_usp02",
+              "groupName": {
+                "BR": "Xiranita Eterna",
+                "CN": "长息",
+                "DE": "Ewiges Xiranit",
+                "EN": "Eternal Xiranite",
+                "FR": "Xiranite éternelle",
+                "ID": "Eternal Xiranite",
+                "IT": "Xiranite eterna",
+                "JP": "流転",
+                "KR": "식양의 숨결",
+                "MX": "Xiranita eterna",
+                "RU": "Вечный ксиранит",
+                "TC": "長息",
+                "TH": "ซี​เรน​ไนต์​นิรันดร์",
+                "VN": "Xiranite Vĩnh Cửu"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_burst01",
+              "groupName": {
+                "BR": "Maré Alta",
+                "CN": "潮涌",
+                "DE": "Sturmflut",
+                "EN": "Tide Surge",
+                "FR": "Raz-de-marée",
+                "ID": "Tide Surge",
+                "IT": "Alta marea",
+                "JP": "満潮",
+                "KR": "조류의 물결",
+                "MX": "Marea alta",
+                "RU": "Натиск прилива",
+                "TC": "潮湧",
+                "TH": "คลื่น​กระชาก",
+                "VN": "Triều Xung"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_atk02",
+              "groupName": {
+                "BR": "Yinglung Tipo 50",
+                "CN": "50式应龙",
+                "DE": "Yinglung Typ 50",
+                "EN": "Type 50 Yinglung",
+                "FR": "Yinglung type 50",
+                "ID": "Type 50 Yinglung",
+                "IT": "Yinglung tipo 50",
+                "JP": "50式応龍",
+                "KR": "응룡 50식",
+                "MX": "Yinglung tipo 50",
+                "RU": "Инлун-50",
+                "TC": "50式應龍",
+                "TH": "ไทป์​ 50 ห​ยิง​หลง",
+                "VN": "Yinglung Loại 50"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_criti01",
+              "groupName": {
+                "BR": "MI Security",
+                "CN": "M.I.警用",
+                "DE": "MI-Sicherheit",
+                "EN": "MI Security",
+                "FR": "IM Sécurité",
+                "ID": "MI Security",
+                "IT": "Sicurezza MI",
+                "JP": "M.I.警備",
+                "KR": "M. I. 경찰용",
+                "MX": "Seguridad MI",
+                "RU": "Охрана «Мьешко»",
+                "TC": "M. I.警用",
+                "TH": "หน่วย​รักษา​ความปลอดภัย​ MI",
+                "VN": "An Ninh MI"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_fire_natr01",
+              "groupName": {
+                "BR": "Hot Work",
+                "CN": "动火用",
+                "DE": "Hitze",
+                "EN": "Hot Work",
+                "FR": "Haute température",
+                "ID": "Kerja Panas",
+                "IT": "Anti-calore",
+                "JP": "火山用",
+                "KR": "열 작업용",
+                "MX": "Resistente al calor",
+                "RU": "Термоудар",
+                "TC": "動火用",
+                "TH": "งาน​ร้อน",
+                "VN": "Kháng Lửa"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_atb01",
+              "groupName": {
+                "BR": "Frontiers",
+                "CN": "拓荒",
+                "DE": "Grenzgebiet",
+                "EN": "Frontiers",
+                "FR": "Confins",
+                "ID": "Frontiers",
+                "IT": "Frontiera",
+                "JP": "パイオニア",
+                "KR": "개척",
+                "MX": "Fronteras",
+                "RU": "Колонист",
+                "TC": "拓荒",
+                "TH": "ชายแดน",
+                "VN": "Tiền Tuyến"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_pulse_cryst01",
+              "groupName": {
+                "BR": "Pulser Labs",
+                "CN": "脉冲式",
+                "DE": "Pulser Labs",
+                "EN": "Pulser Labs",
+                "FR": "Pulser Labs",
+                "ID": "Pulser Labs",
+                "IT": "A impulsi",
+                "JP": "パルス式",
+                "KR": "펄스식",
+                "MX": "Laboratorios Pulso",
+                "RU": "Импульс",
+                "TC": "脈衝式",
+                "TH": "ห้องทดลอง​พัล​เซอร์",
+                "VN": "Sóng Xung"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_attri01",
+              "groupName": {
+                "BR": "Traje Quebra-Ossos",
+                "CN": "碾骨",
+                "DE": "Knochenbrecha",
+                "EN": "Bonekrusha",
+                "FR": "Broyeurs d'os",
+                "ID": "Bonekrusha",
+                "IT": "Maciulla-Ossa",
+                "JP": "骨砕",
+                "KR": "본 크러셔",
+                "MX": "Rompehuesos",
+                "RU": "Игра в Костолома",
+                "TC": "碾骨",
+                "TH": "โบน​ค​รัช​ชา",
+                "VN": "Bonekrusha"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_poise01",
+              "groupName": {
+                "BR": "Æthertech",
+                "CN": "轻超域",
+                "DE": "Æthertech",
+                "EN": "Æthertech",
+                "FR": "Æthertech",
+                "ID": "Æthertech",
+                "IT": "Æthertech",
+                "JP": "軽量超域",
+                "KR": "경량 초자연",
+                "MX": "Etertecnología",
+                "RU": "Эфиртех",
+                "TC": "輕超域",
+                "TH": "เอ​เทอร์​เทค",
+                "VN": "Æthertech"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_heal01",
+              "groupName": {
+                "BR": "LYNX",
+                "CN": "生物辅助",
+                "DE": "LUCHS",
+                "EN": "LYNX",
+                "FR": "LYNX",
+                "ID": "LYNX",
+                "IT": "LYNX",
+                "JP": "生物補助",
+                "KR": "생체 보조",
+                "MX": "LYNX",
+                "RU": "Рысь",
+                "TC": "生物輔助",
+                "TH": "LYNX",
+                "VN": "LYNX"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_phy01",
+              "groupName": {
+                "BR": "Espadeiro",
+                "CN": "点剑",
+                "DE": "Schwertkämpfer",
+                "EN": "Swordmancer",
+                "FR": "Spadamancien",
+                "ID": "Swordmancer",
+                "IT": "Spadamante",
+                "JP": "宏山点剣",
+                "KR": "검술사",
+                "MX": "Espadachín",
+                "RU": "Мастер меча",
+                "TC": "點劍",
+                "TH": "นัก​ดาบ​เวท",
+                "VN": "Kiếm Sĩ"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_usp01",
+              "groupName": {
+                "BR": "Catástrofe",
+                "CN": "天灾防护",
+                "DE": "Katastrophe",
+                "EN": "Catastrophe",
+                "FR": "Catastrophe",
+                "ID": "Catastrophe",
+                "IT": "Catastrofe",
+                "JP": "天災防護",
+                "KR": "재앙 방호",
+                "MX": "Catástrofe",
+                "RU": "Катастрофа",
+                "TC": "天災防護",
+                "TH": "ภัยพิบัติ",
+                "VN": "Thảm Họa"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_atk01",
+              "groupName": {
+                "BR": "Legado de Aburrey",
+                "CN": "阿伯莉遗声",
+                "DE": "Aburreys Vermächtnis",
+                "EN": "Aburrey's Legacy",
+                "FR": "Héritage d'Aburrey",
+                "ID": "Peninggalan Aburrey",
+                "IT": "Eredità di Aburrey",
+                "JP": "アブリー遺声",
+                "KR": "아부레이의 메아리",
+                "MX": "Legado de Aburrey",
+                "RU": "Наследие Эберрей",
+                "TC": "阿伯莉遺聲",
+                "TH": "มรดก​ของ​อ​เบอร์​เรย์",
+                "VN": "Di Sản Của Aburrey"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_will01",
+              "groupName": {
+                "BR": "Resistente de Mordvolt",
+                "CN": "蚀电防护",
+                "DE": "Mordvolt-Schutz",
+                "EN": "Mordvolt Resistant",
+                "FR": "Résistance de Mordvolt",
+                "ID": "Resistans Mordvolt",
+                "IT": "Resistente Elettroshock",
+                "JP": "蝕電防護",
+                "KR": "침식 방호",
+                "MX": "Resistente de Mordvolt",
+                "RU": "Резистентный «Мортвольт»",
+                "TC": "蝕電防護",
+                "TH": "ต้านทาน​มอร์​ด​โวลต์",
+                "VN": "Kháng Mordvolt"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_wisd01",
+              "groupName": {
+                "BR": "Isolamento de Mordvolt",
+                "CN": "蚀电屏蔽",
+                "DE": "Mordvolt-Isolierung",
+                "EN": "Mordvolt Insulation",
+                "FR": "Isolation de Mordvolt",
+                "ID": "Insulasi Mordvolt",
+                "IT": "Isolante Elettroshock",
+                "JP": "蝕電遮断",
+                "KR": "침식 차단",
+                "MX": "Aislamiento de Mordvolt",
+                "RU": "Изолированный «Мортвольт»",
+                "TC": "蝕電絕緣",
+                "TH": "ฉนวน​มอร์​ด​โวลต์",
+                "VN": "Cách Điện Mordvolt"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_agi01",
+              "groupName": {
+                "BR": "MSGR Itinerante",
+                "CN": "巡行信使",
+                "DE": "Bote",
+                "EN": "Roving MSGR",
+                "FR": "MSGR itinérant",
+                "ID": "MSGR Keliling",
+                "IT": "MSGR da viaggio",
+                "JP": "遍歴トランスポーター",
+                "KR": "순행 전달자",
+                "MX": "MSJR móvil",
+                "RU": "Гонец-странник",
+                "TC": "巡行信使",
+                "TH": "MSGR ทั่วไป",
+                "VN": "LLV Cơ Động"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_str01",
+              "groupName": {
+                "BR": "MSGR Blindado",
+                "CN": "重装信使",
+                "DE": "Gepanzerter Bote",
+                "EN": "Armored MSGR",
+                "FR": "MSGR cuirassé",
+                "ID": "MSGR Berarmor",
+                "IT": "MSGR corazzata",
+                "JP": "重装トランスポーター",
+                "KR": "중장갑 전달자",
+                "MX": "MSJR blindado",
+                "RU": "Гонец-воин",
+                "TC": "重裝信使",
+                "TH": "MSGR หุ้ม​เกราะ",
+                "VN": "LLV Bọc Thép"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_wisdwill01",
+              "groupName": {
+                "BR": "Leve do CAI",
+                "CN": "集成轻型",
+                "DE": "AIK (Leicht)",
+                "EN": "AIC Light",
+                "FR": "Équipement léger du GIA",
+                "ID": "AIC Ringan",
+                "IT": "Leggera SIA",
+                "JP": "集成軽量",
+                "KR": "통합 경량형 모델",
+                "MX": "CAI ligero",
+                "RU": "Легкий АПК",
+                "TC": "整合輕型",
+                "TH": "AIC งาน​เบา",
+                "VN": "Khu Phức Hợp Nhẹ"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_stragi01",
+              "groupName": {
+                "BR": "Pesado do CAI",
+                "CN": "集成重型",
+                "DE": "AIK (Schwer)",
+                "EN": "AIC Heavy",
+                "FR": "Équipement lourd du GIA",
+                "ID": "AIC Berat",
+                "IT": "Pesante SIA",
+                "JP": "集成重装",
+                "KR": "통합 중량형 모델",
+                "MX": "CAI pesado",
+                "RU": "Тяжелый АПК",
+                "TC": "整合重型",
+                "TH": "AIC งานหนัก",
+                "VN": "Khu Phức Hợp Nặng"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "domain_1",
+              "groupName": {
+                "BR": "Vale IV",
+                "CN": "四号谷地",
+                "DE": "Tal IV",
+                "EN": "Valley IV",
+                "FR": "Vallée-IV",
+                "ID": "Lembah IV",
+                "IT": "Valle IV",
+                "JP": "四号谷地",
+                "KR": "4번 협곡",
+                "MX": "Valle IV",
+                "RU": "Долина IV",
+                "TC": "四號谷地",
+                "TH": "หุบเขา​ IV",
+                "VN": "Thung Lũng IV"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "domain_2",
+              "groupName": {
+                "BR": "Wuling",
+                "CN": "武陵",
+                "DE": "Wuling",
+                "EN": "Wuling",
+                "FR": "Wuling",
+                "ID": "Wuling",
+                "IT": "Wuling",
+                "JP": "武陵",
+                "KR": "무릉",
+                "MX": "Wuling",
+                "RU": "Улин",
+                "TC": "武陵",
+                "TH": "อู่​หลิง",
+                "VN": "Võ Lăng"
+              },
+              "iconId": ""
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "groupId": "wiki_group_equip_default",
+              "groupName": {
+                "BR": "Não definido",
+                "CN": "散件",
+                "DE": "Ohne Set",
+                "EN": "Non-set",
+                "FR": "Unique",
+                "ID": "Nonset",
+                "IT": "Senza set",
+                "JP": "部品",
+                "KR": "단품",
+                "MX": "No establecido",
+                "RU": "Некомплектное",
+                "TC": "散件",
+                "TH": "ยัง​ไม่ได้​กำหนด",
+                "VN": "Không Theo Bộ"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_generaltype",
+              "groupName": {
+                "BR": "CAI de Campo",
+                "CN": "集成实训",
+                "DE": "AIK-Einsatz",
+                "EN": "AIC Fieldwork",
+                "FR": "Terrain du GIA",
+                "ID": "Misi Lapangan AIC",
+                "IT": "Lavoro sul campo del SIA",
+                "JP": "集成訓練",
+                "KR": "통합 실전 훈련",
+                "MX": "Trabajo de campo del CAI",
+                "RU": "Полевые работы АПК",
+                "TC": "集成實訓",
+                "TH": "ภาค​สนาม​ AIC",
+                "VN": "Thực Địa Khu Phức Hợp"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_crush_fracture",
+              "groupName": {
+                "BR": "Borda Grisalha",
+                "CN": "旧锋",
+                "DE": "Graukant",
+                "EN": "Grizzled Edge",
+                "FR": "Fil émoussé",
+                "ID": "Tepian Serabut",
+                "IT": "Bordo grigio",
+                "JP": "旧鋒",
+                "KR": "고검의 잔향",
+                "MX": "Filo curtido",
+                "RU": "Потертое лезвие",
+                "TC": "舊鋒",
+                "TH": "กริซ​เซิล​เอ​ด​จ์",
+                "VN": "Lão Luyện"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_expend_spell01",
+              "groupName": {
+                "BR": "Fluxo de Xiranita",
+                "CN": "壤流",
+                "DE": "Xiranfluss",
+                "EN": "Xiranflow",
+                "FR": "Xiranflux",
+                "ID": "Xiranflow",
+                "IT": "Xiranflow",
+                "JP": "壌流",
+                "KR": "식양의 흐름",
+                "MX": "Flujo Xiran",
+                "RU": "Ксиранад",
+                "TC": "壤流",
+                "TH": "ซี​เรน​โฟลว์",
+                "VN": "Xiranflow"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_combo_cd01",
+              "groupName": {
+                "BR": "Qingbo",
+                "CN": "清波",
+                "DE": "Qingbo",
+                "EN": "Qingbo",
+                "FR": "Qingbo",
+                "ID": "Qingbo",
+                "IT": "Qingbo",
+                "JP": "清波",
+                "KR": "청파",
+                "MX": "Qingbo",
+                "RU": "Циньбо",
+                "TC": "清波",
+                "TH": "ชิง​ป๋อ",
+                "VN": "Thanh Ba"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_usp02",
+              "groupName": {
+                "BR": "Xiranita Eterna",
+                "CN": "长息",
+                "DE": "Ewiges Xiranit",
+                "EN": "Eternal Xiranite",
+                "FR": "Xiranite éternelle",
+                "ID": "Eternal Xiranite",
+                "IT": "Xiranite eterna",
+                "JP": "流転",
+                "KR": "식양의 숨결",
+                "MX": "Xiranita eterna",
+                "RU": "Вечный ксиранит",
+                "TC": "長息",
+                "TH": "ซี​เรน​ไนต์​นิรันดร์",
+                "VN": "Xiranite Vĩnh Cửu"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_burst01",
+              "groupName": {
+                "BR": "Maré Alta",
+                "CN": "潮涌",
+                "DE": "Sturmflut",
+                "EN": "Tide Surge",
+                "FR": "Raz-de-marée",
+                "ID": "Tide Surge",
+                "IT": "Alta marea",
+                "JP": "満潮",
+                "KR": "조류의 물결",
+                "MX": "Marea alta",
+                "RU": "Натиск прилива",
+                "TC": "潮湧",
+                "TH": "คลื่น​กระชาก",
+                "VN": "Triều Xung"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_atk02",
+              "groupName": {
+                "BR": "Yinglung Tipo 50",
+                "CN": "50式应龙",
+                "DE": "Yinglung Typ 50",
+                "EN": "Type 50 Yinglung",
+                "FR": "Yinglung type 50",
+                "ID": "Type 50 Yinglung",
+                "IT": "Yinglung tipo 50",
+                "JP": "50式応龍",
+                "KR": "응룡 50식",
+                "MX": "Yinglung tipo 50",
+                "RU": "Инлун-50",
+                "TC": "50式應龍",
+                "TH": "ไทป์​ 50 ห​ยิง​หลง",
+                "VN": "Yinglung Loại 50"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_criti01",
+              "groupName": {
+                "BR": "MI Security",
+                "CN": "M.I.警用",
+                "DE": "MI-Sicherheit",
+                "EN": "MI Security",
+                "FR": "IM Sécurité",
+                "ID": "MI Security",
+                "IT": "Sicurezza MI",
+                "JP": "M.I.警備",
+                "KR": "M. I. 경찰용",
+                "MX": "Seguridad MI",
+                "RU": "Охрана «Мьешко»",
+                "TC": "M. I.警用",
+                "TH": "หน่วย​รักษา​ความปลอดภัย​ MI",
+                "VN": "An Ninh MI"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_fire_natr01",
+              "groupName": {
+                "BR": "Hot Work",
+                "CN": "动火用",
+                "DE": "Hitze",
+                "EN": "Hot Work",
+                "FR": "Haute température",
+                "ID": "Kerja Panas",
+                "IT": "Anti-calore",
+                "JP": "火山用",
+                "KR": "열 작업용",
+                "MX": "Resistente al calor",
+                "RU": "Термоудар",
+                "TC": "動火用",
+                "TH": "งาน​ร้อน",
+                "VN": "Kháng Lửa"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_atb01",
+              "groupName": {
+                "BR": "Frontiers",
+                "CN": "拓荒",
+                "DE": "Grenzgebiet",
+                "EN": "Frontiers",
+                "FR": "Confins",
+                "ID": "Frontiers",
+                "IT": "Frontiera",
+                "JP": "パイオニア",
+                "KR": "개척",
+                "MX": "Fronteras",
+                "RU": "Колонист",
+                "TC": "拓荒",
+                "TH": "ชายแดน",
+                "VN": "Tiền Tuyến"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_pulse_cryst01",
+              "groupName": {
+                "BR": "Pulser Labs",
+                "CN": "脉冲式",
+                "DE": "Pulser Labs",
+                "EN": "Pulser Labs",
+                "FR": "Pulser Labs",
+                "ID": "Pulser Labs",
+                "IT": "A impulsi",
+                "JP": "パルス式",
+                "KR": "펄스식",
+                "MX": "Laboratorios Pulso",
+                "RU": "Импульс",
+                "TC": "脈衝式",
+                "TH": "ห้องทดลอง​พัล​เซอร์",
+                "VN": "Sóng Xung"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_attri01",
+              "groupName": {
+                "BR": "Traje Quebra-Ossos",
+                "CN": "碾骨",
+                "DE": "Knochenbrecha",
+                "EN": "Bonekrusha",
+                "FR": "Broyeurs d'os",
+                "ID": "Bonekrusha",
+                "IT": "Maciulla-Ossa",
+                "JP": "骨砕",
+                "KR": "본 크러셔",
+                "MX": "Rompehuesos",
+                "RU": "Игра в Костолома",
+                "TC": "碾骨",
+                "TH": "โบน​ค​รัช​ชา",
+                "VN": "Bonekrusha"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_poise01",
+              "groupName": {
+                "BR": "Æthertech",
+                "CN": "轻超域",
+                "DE": "Æthertech",
+                "EN": "Æthertech",
+                "FR": "Æthertech",
+                "ID": "Æthertech",
+                "IT": "Æthertech",
+                "JP": "軽量超域",
+                "KR": "경량 초자연",
+                "MX": "Etertecnología",
+                "RU": "Эфиртех",
+                "TC": "輕超域",
+                "TH": "เอ​เทอร์​เทค",
+                "VN": "Æthertech"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_heal01",
+              "groupName": {
+                "BR": "LYNX",
+                "CN": "生物辅助",
+                "DE": "LUCHS",
+                "EN": "LYNX",
+                "FR": "LYNX",
+                "ID": "LYNX",
+                "IT": "LYNX",
+                "JP": "生物補助",
+                "KR": "생체 보조",
+                "MX": "LYNX",
+                "RU": "Рысь",
+                "TC": "生物輔助",
+                "TH": "LYNX",
+                "VN": "LYNX"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_phy01",
+              "groupName": {
+                "BR": "Espadeiro",
+                "CN": "点剑",
+                "DE": "Schwertkämpfer",
+                "EN": "Swordmancer",
+                "FR": "Spadamancien",
+                "ID": "Swordmancer",
+                "IT": "Spadamante",
+                "JP": "宏山点剣",
+                "KR": "검술사",
+                "MX": "Espadachín",
+                "RU": "Мастер меча",
+                "TC": "點劍",
+                "TH": "นัก​ดาบ​เวท",
+                "VN": "Kiếm Sĩ"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_usp01",
+              "groupName": {
+                "BR": "Catástrofe",
+                "CN": "天灾防护",
+                "DE": "Katastrophe",
+                "EN": "Catastrophe",
+                "FR": "Catastrophe",
+                "ID": "Catastrophe",
+                "IT": "Catastrofe",
+                "JP": "天災防護",
+                "KR": "재앙 방호",
+                "MX": "Catástrofe",
+                "RU": "Катастрофа",
+                "TC": "天災防護",
+                "TH": "ภัยพิบัติ",
+                "VN": "Thảm Họa"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_atk01",
+              "groupName": {
+                "BR": "Legado de Aburrey",
+                "CN": "阿伯莉遗声",
+                "DE": "Aburreys Vermächtnis",
+                "EN": "Aburrey's Legacy",
+                "FR": "Héritage d'Aburrey",
+                "ID": "Peninggalan Aburrey",
+                "IT": "Eredità di Aburrey",
+                "JP": "アブリー遺声",
+                "KR": "아부레이의 메아리",
+                "MX": "Legado de Aburrey",
+                "RU": "Наследие Эберрей",
+                "TC": "阿伯莉遺聲",
+                "TH": "มรดก​ของ​อ​เบอร์​เรย์",
+                "VN": "Di Sản Của Aburrey"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_will01",
+              "groupName": {
+                "BR": "Resistente de Mordvolt",
+                "CN": "蚀电防护",
+                "DE": "Mordvolt-Schutz",
+                "EN": "Mordvolt Resistant",
+                "FR": "Résistance de Mordvolt",
+                "ID": "Resistans Mordvolt",
+                "IT": "Resistente Elettroshock",
+                "JP": "蝕電防護",
+                "KR": "침식 방호",
+                "MX": "Resistente de Mordvolt",
+                "RU": "Резистентный «Мортвольт»",
+                "TC": "蝕電防護",
+                "TH": "ต้านทาน​มอร์​ด​โวลต์",
+                "VN": "Kháng Mordvolt"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_wisd01",
+              "groupName": {
+                "BR": "Isolamento de Mordvolt",
+                "CN": "蚀电屏蔽",
+                "DE": "Mordvolt-Isolierung",
+                "EN": "Mordvolt Insulation",
+                "FR": "Isolation de Mordvolt",
+                "ID": "Insulasi Mordvolt",
+                "IT": "Isolante Elettroshock",
+                "JP": "蝕電遮断",
+                "KR": "침식 차단",
+                "MX": "Aislamiento de Mordvolt",
+                "RU": "Изолированный «Мортвольт»",
+                "TC": "蝕電絕緣",
+                "TH": "ฉนวน​มอร์​ด​โวลต์",
+                "VN": "Cách Điện Mordvolt"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_agi01",
+              "groupName": {
+                "BR": "MSGR Itinerante",
+                "CN": "巡行信使",
+                "DE": "Bote",
+                "EN": "Roving MSGR",
+                "FR": "MSGR itinérant",
+                "ID": "MSGR Keliling",
+                "IT": "MSGR da viaggio",
+                "JP": "遍歴トランスポーター",
+                "KR": "순행 전달자",
+                "MX": "MSJR móvil",
+                "RU": "Гонец-странник",
+                "TC": "巡行信使",
+                "TH": "MSGR ทั่วไป",
+                "VN": "LLV Cơ Động"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_str01",
+              "groupName": {
+                "BR": "MSGR Blindado",
+                "CN": "重装信使",
+                "DE": "Gepanzerter Bote",
+                "EN": "Armored MSGR",
+                "FR": "MSGR cuirassé",
+                "ID": "MSGR Berarmor",
+                "IT": "MSGR corazzata",
+                "JP": "重装トランスポーター",
+                "KR": "중장갑 전달자",
+                "MX": "MSJR blindado",
+                "RU": "Гонец-воин",
+                "TC": "重裝信使",
+                "TH": "เกราะ​ MSGR",
+                "VN": "LLV Bọc Thép"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_wisdwill01",
+              "groupName": {
+                "BR": "Leve do CAI",
+                "CN": "集成轻型",
+                "DE": "AIK (Leicht)",
+                "EN": "AIC Light",
+                "FR": "Équipement léger du GIA",
+                "ID": "AIC Ringan",
+                "IT": "Leggera SIA",
+                "JP": "集成軽量",
+                "KR": "통합 경량형 모델",
+                "MX": "CAI ligero",
+                "RU": "Легкий АПК",
+                "TC": "整合輕型",
+                "TH": "AIC งาน​เบา",
+                "VN": "Khu Phức Hợp Nhẹ"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "suit_stragi01",
+              "groupName": {
+                "BR": "Pesado do CAI",
+                "CN": "集成重型",
+                "DE": "AIK (Schwer)",
+                "EN": "AIC Heavy",
+                "FR": "Équipement lourd du GIA",
+                "ID": "AIC Berat",
+                "IT": "Pesante SIA",
+                "JP": "集成重装",
+                "KR": "통합 중량형 모델",
+                "MX": "CAI pesado",
+                "RU": "Тяжелый АПК",
+                "TC": "整合重型",
+                "TH": "AIC งานหนัก",
+                "VN": "Khu Phức Hợp Nặng"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "domain_1",
+              "groupName": {
+                "BR": "Vale IV",
+                "CN": "四号谷地",
+                "DE": "Tal IV",
+                "EN": "Valley IV",
+                "FR": "Vallée-IV",
+                "ID": "Lembah IV",
+                "IT": "Valle IV",
+                "JP": "四号谷地",
+                "KR": "4번 협곡",
+                "MX": "Valle IV",
+                "RU": "Долина IV",
+                "TC": "四號谷地",
+                "TH": "หุบเขา​ IV",
+                "VN": "Thung Lũng IV"
+              },
+              "iconId": ""
+            },
+            {
+              "groupId": "domain_2",
+              "groupName": {
+                "BR": "Wuling",
+                "CN": "武陵",
+                "DE": "Wuling",
+                "EN": "Wuling",
+                "FR": "Wuling",
+                "ID": "Wuling",
+                "IT": "Wuling",
+                "JP": "武陵",
+                "KR": "무릉",
+                "MX": "Wuling",
+                "RU": "Улин",
+                "TC": "武陵",
+                "TH": "อู่​หลิง",
+                "VN": "Võ Lăng"
+              },
+              "iconId": ""
+            }
+          ]
+        },
+        "changed": {
+          "list[1].groupId": {
+            "type": "value",
+            "oldValue": "suit_crush_fracture",
+            "newValue": "suit_generaltype"
+          },
+          "list[1].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Borda Grisalha",
+                "newText": "CAI de Campo"
+              },
+              "CN": {
+                "oldText": "旧锋",
+                "newText": "集成实训"
+              },
+              "DE": {
+                "oldText": "Graukant",
+                "newText": "AIK-Einsatz"
+              },
+              "EN": {
+                "oldText": "Grizzled Edge",
+                "newText": "AIC Fieldwork"
+              },
+              "FR": {
+                "oldText": "Fil émoussé",
+                "newText": "Terrain du GIA"
+              },
+              "ID": {
+                "oldText": "Tepian Serabut",
+                "newText": "Misi Lapangan AIC"
+              },
+              "IT": {
+                "oldText": "Bordo grigio",
+                "newText": "Lavoro sul campo del SIA"
+              },
+              "JP": {
+                "oldText": "旧鋒",
+                "newText": "集成訓練"
+              },
+              "KR": {
+                "oldText": "고검의 잔향",
+                "newText": "통합 실전 훈련"
+              },
+              "MX": {
+                "oldText": "Filo curtido",
+                "newText": "Trabajo de campo del CAI"
+              },
+              "RU": {
+                "oldText": "Потертое лезвие",
+                "newText": "Полевые работы АПК"
+              },
+              "TC": {
+                "oldText": "舊鋒",
+                "newText": "集成實訓"
+              },
+              "TH": {
+                "oldText": "กริซ​เซิล​เอ​ด​จ์",
+                "newText": "ภาค​สนาม​ AIC"
+              },
+              "VN": {
+                "oldText": "Lão Luyện",
+                "newText": "Thực Địa Khu Phức Hợp"
+              }
+            }
+          },
+          "list[2].groupId": {
+            "type": "value",
+            "oldValue": "suit_expend_spell01",
+            "newValue": "suit_crush_fracture"
+          },
+          "list[2].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Fluxo de Xiranita",
+                "newText": "Borda Grisalha"
+              },
+              "CN": {
+                "oldText": "壤流",
+                "newText": "旧锋"
+              },
+              "DE": {
+                "oldText": "Xiranfluss",
+                "newText": "Graukant"
+              },
+              "EN": {
+                "oldText": "Xiranflow",
+                "newText": "Grizzled Edge"
+              },
+              "FR": {
+                "oldText": "Xiranflux",
+                "newText": "Fil émoussé"
+              },
+              "ID": {
+                "oldText": "Xiranflow",
+                "newText": "Tepian Serabut"
+              },
+              "IT": {
+                "oldText": "Xiranflow",
+                "newText": "Bordo grigio"
+              },
+              "JP": {
+                "oldText": "壌流",
+                "newText": "旧鋒"
+              },
+              "KR": {
+                "oldText": "식양의 흐름",
+                "newText": "고검의 잔향"
+              },
+              "MX": {
+                "oldText": "Flujo Xiran",
+                "newText": "Filo curtido"
+              },
+              "RU": {
+                "oldText": "Ксиранад",
+                "newText": "Потертое лезвие"
+              },
+              "TC": {
+                "oldText": "壤流",
+                "newText": "舊鋒"
+              },
+              "TH": {
+                "oldText": "ซี​เรน​โฟลว์",
+                "newText": "กริซ​เซิล​เอ​ด​จ์"
+              },
+              "VN": {
+                "oldText": "Xiranflow",
+                "newText": "Lão Luyện"
+              }
+            }
+          },
+          "list[3].groupId": {
+            "type": "value",
+            "oldValue": "suit_combo_cd01",
+            "newValue": "suit_expend_spell01"
+          },
+          "list[3].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Qingbo",
+                "newText": "Fluxo de Xiranita"
+              },
+              "CN": {
+                "oldText": "清波",
+                "newText": "壤流"
+              },
+              "DE": {
+                "oldText": "Qingbo",
+                "newText": "Xiranfluss"
+              },
+              "EN": {
+                "oldText": "Qingbo",
+                "newText": "Xiranflow"
+              },
+              "FR": {
+                "oldText": "Qingbo",
+                "newText": "Xiranflux"
+              },
+              "ID": {
+                "oldText": "Qingbo",
+                "newText": "Xiranflow"
+              },
+              "IT": {
+                "oldText": "Qingbo",
+                "newText": "Xiranflow"
+              },
+              "JP": {
+                "oldText": "清波",
+                "newText": "壌流"
+              },
+              "KR": {
+                "oldText": "청파",
+                "newText": "식양의 흐름"
+              },
+              "MX": {
+                "oldText": "Qingbo",
+                "newText": "Flujo Xiran"
+              },
+              "RU": {
+                "oldText": "Циньбо",
+                "newText": "Ксиранад"
+              },
+              "TC": {
+                "oldText": "清波",
+                "newText": "壤流"
+              },
+              "TH": {
+                "oldText": "ชิง​ป๋อ",
+                "newText": "ซี​เรน​โฟลว์"
+              },
+              "VN": {
+                "oldText": "Thanh Ba",
+                "newText": "Xiranflow"
+              }
+            }
+          },
+          "list[4].groupId": {
+            "type": "value",
+            "oldValue": "suit_usp02",
+            "newValue": "suit_combo_cd01"
+          },
+          "list[4].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Xiranita Eterna",
+                "newText": "Qingbo"
+              },
+              "CN": {
+                "oldText": "长息",
+                "newText": "清波"
+              },
+              "DE": {
+                "oldText": "Ewiges Xiranit",
+                "newText": "Qingbo"
+              },
+              "EN": {
+                "oldText": "Eternal Xiranite",
+                "newText": "Qingbo"
+              },
+              "FR": {
+                "oldText": "Xiranite éternelle",
+                "newText": "Qingbo"
+              },
+              "ID": {
+                "oldText": "Eternal Xiranite",
+                "newText": "Qingbo"
+              },
+              "IT": {
+                "oldText": "Xiranite eterna",
+                "newText": "Qingbo"
+              },
+              "JP": {
+                "oldText": "流転",
+                "newText": "清波"
+              },
+              "KR": {
+                "oldText": "식양의 숨결",
+                "newText": "청파"
+              },
+              "MX": {
+                "oldText": "Xiranita eterna",
+                "newText": "Qingbo"
+              },
+              "RU": {
+                "oldText": "Вечный ксиранит",
+                "newText": "Циньбо"
+              },
+              "TC": {
+                "oldText": "長息",
+                "newText": "清波"
+              },
+              "TH": {
+                "oldText": "ซี​เรน​ไนต์​นิรันดร์",
+                "newText": "ชิง​ป๋อ"
+              },
+              "VN": {
+                "oldText": "Xiranite Vĩnh Cửu",
+                "newText": "Thanh Ba"
+              }
+            }
+          },
+          "list[5].groupId": {
+            "type": "value",
+            "oldValue": "suit_burst01",
+            "newValue": "suit_usp02"
+          },
+          "list[5].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Maré Alta",
+                "newText": "Xiranita Eterna"
+              },
+              "CN": {
+                "oldText": "潮涌",
+                "newText": "长息"
+              },
+              "DE": {
+                "oldText": "Sturmflut",
+                "newText": "Ewiges Xiranit"
+              },
+              "EN": {
+                "oldText": "Tide Surge",
+                "newText": "Eternal Xiranite"
+              },
+              "FR": {
+                "oldText": "Raz-de-marée",
+                "newText": "Xiranite éternelle"
+              },
+              "ID": {
+                "oldText": "Tide Surge",
+                "newText": "Eternal Xiranite"
+              },
+              "IT": {
+                "oldText": "Alta marea",
+                "newText": "Xiranite eterna"
+              },
+              "JP": {
+                "oldText": "満潮",
+                "newText": "流転"
+              },
+              "KR": {
+                "oldText": "조류의 물결",
+                "newText": "식양의 숨결"
+              },
+              "MX": {
+                "oldText": "Marea alta",
+                "newText": "Xiranita eterna"
+              },
+              "RU": {
+                "oldText": "Натиск прилива",
+                "newText": "Вечный ксиранит"
+              },
+              "TC": {
+                "oldText": "潮湧",
+                "newText": "長息"
+              },
+              "TH": {
+                "oldText": "คลื่น​กระชาก",
+                "newText": "ซี​เรน​ไนต์​นิรันดร์"
+              },
+              "VN": {
+                "oldText": "Triều Xung",
+                "newText": "Xiranite Vĩnh Cửu"
+              }
+            }
+          },
+          "list[6].groupId": {
+            "type": "value",
+            "oldValue": "suit_atk02",
+            "newValue": "suit_burst01"
+          },
+          "list[6].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Yinglung Tipo 50",
+                "newText": "Maré Alta"
+              },
+              "CN": {
+                "oldText": "50式应龙",
+                "newText": "潮涌"
+              },
+              "DE": {
+                "oldText": "Yinglung Typ 50",
+                "newText": "Sturmflut"
+              },
+              "EN": {
+                "oldText": "Type 50 Yinglung",
+                "newText": "Tide Surge"
+              },
+              "FR": {
+                "oldText": "Yinglung type 50",
+                "newText": "Raz-de-marée"
+              },
+              "ID": {
+                "oldText": "Type 50 Yinglung",
+                "newText": "Tide Surge"
+              },
+              "IT": {
+                "oldText": "Yinglung tipo 50",
+                "newText": "Alta marea"
+              },
+              "JP": {
+                "oldText": "50式応龍",
+                "newText": "満潮"
+              },
+              "KR": {
+                "oldText": "응룡 50식",
+                "newText": "조류의 물결"
+              },
+              "MX": {
+                "oldText": "Yinglung tipo 50",
+                "newText": "Marea alta"
+              },
+              "RU": {
+                "oldText": "Инлун-50",
+                "newText": "Натиск прилива"
+              },
+              "TC": {
+                "oldText": "50式應龍",
+                "newText": "潮湧"
+              },
+              "TH": {
+                "oldText": "ไทป์​ 50 ห​ยิง​หลง",
+                "newText": "คลื่น​กระชาก"
+              },
+              "VN": {
+                "oldText": "Yinglung Loại 50",
+                "newText": "Triều Xung"
+              }
+            }
+          },
+          "list[7].groupId": {
+            "type": "value",
+            "oldValue": "suit_criti01",
+            "newValue": "suit_atk02"
+          },
+          "list[7].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "MI Security",
+                "newText": "Yinglung Tipo 50"
+              },
+              "CN": {
+                "oldText": "M.I.警用",
+                "newText": "50式应龙"
+              },
+              "DE": {
+                "oldText": "MI-Sicherheit",
+                "newText": "Yinglung Typ 50"
+              },
+              "EN": {
+                "oldText": "MI Security",
+                "newText": "Type 50 Yinglung"
+              },
+              "FR": {
+                "oldText": "IM Sécurité",
+                "newText": "Yinglung type 50"
+              },
+              "ID": {
+                "oldText": "MI Security",
+                "newText": "Type 50 Yinglung"
+              },
+              "IT": {
+                "oldText": "Sicurezza MI",
+                "newText": "Yinglung tipo 50"
+              },
+              "JP": {
+                "oldText": "M.I.警備",
+                "newText": "50式応龍"
+              },
+              "KR": {
+                "oldText": "M. I. 경찰용",
+                "newText": "응룡 50식"
+              },
+              "MX": {
+                "oldText": "Seguridad MI",
+                "newText": "Yinglung tipo 50"
+              },
+              "RU": {
+                "oldText": "Охрана «Мьешко»",
+                "newText": "Инлун-50"
+              },
+              "TC": {
+                "oldText": "M. I.警用",
+                "newText": "50式應龍"
+              },
+              "TH": {
+                "oldText": "หน่วย​รักษา​ความปลอดภัย​ MI",
+                "newText": "ไทป์​ 50 ห​ยิง​หลง"
+              },
+              "VN": {
+                "oldText": "An Ninh MI",
+                "newText": "Yinglung Loại 50"
+              }
+            }
+          },
+          "list[8].groupId": {
+            "type": "value",
+            "oldValue": "suit_fire_natr01",
+            "newValue": "suit_criti01"
+          },
+          "list[8].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Hot Work",
+                "newText": "MI Security"
+              },
+              "CN": {
+                "oldText": "动火用",
+                "newText": "M.I.警用"
+              },
+              "DE": {
+                "oldText": "Hitze",
+                "newText": "MI-Sicherheit"
+              },
+              "EN": {
+                "oldText": "Hot Work",
+                "newText": "MI Security"
+              },
+              "FR": {
+                "oldText": "Haute température",
+                "newText": "IM Sécurité"
+              },
+              "ID": {
+                "oldText": "Kerja Panas",
+                "newText": "MI Security"
+              },
+              "IT": {
+                "oldText": "Anti-calore",
+                "newText": "Sicurezza MI"
+              },
+              "JP": {
+                "oldText": "火山用",
+                "newText": "M.I.警備"
+              },
+              "KR": {
+                "oldText": "열 작업용",
+                "newText": "M. I. 경찰용"
+              },
+              "MX": {
+                "oldText": "Resistente al calor",
+                "newText": "Seguridad MI"
+              },
+              "RU": {
+                "oldText": "Термоудар",
+                "newText": "Охрана «Мьешко»"
+              },
+              "TC": {
+                "oldText": "動火用",
+                "newText": "M. I.警用"
+              },
+              "TH": {
+                "oldText": "งาน​ร้อน",
+                "newText": "หน่วย​รักษา​ความปลอดภัย​ MI"
+              },
+              "VN": {
+                "oldText": "Kháng Lửa",
+                "newText": "An Ninh MI"
+              }
+            }
+          },
+          "list[9].groupId": {
+            "type": "value",
+            "oldValue": "suit_atb01",
+            "newValue": "suit_fire_natr01"
+          },
+          "list[9].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Frontiers",
+                "newText": "Hot Work"
+              },
+              "CN": {
+                "oldText": "拓荒",
+                "newText": "动火用"
+              },
+              "DE": {
+                "oldText": "Grenzgebiet",
+                "newText": "Hitze"
+              },
+              "EN": {
+                "oldText": "Frontiers",
+                "newText": "Hot Work"
+              },
+              "FR": {
+                "oldText": "Confins",
+                "newText": "Haute température"
+              },
+              "ID": {
+                "oldText": "Frontiers",
+                "newText": "Kerja Panas"
+              },
+              "IT": {
+                "oldText": "Frontiera",
+                "newText": "Anti-calore"
+              },
+              "JP": {
+                "oldText": "パイオニア",
+                "newText": "火山用"
+              },
+              "KR": {
+                "oldText": "개척",
+                "newText": "열 작업용"
+              },
+              "MX": {
+                "oldText": "Fronteras",
+                "newText": "Resistente al calor"
+              },
+              "RU": {
+                "oldText": "Колонист",
+                "newText": "Термоудар"
+              },
+              "TC": {
+                "oldText": "拓荒",
+                "newText": "動火用"
+              },
+              "TH": {
+                "oldText": "ชายแดน",
+                "newText": "งาน​ร้อน"
+              },
+              "VN": {
+                "oldText": "Tiền Tuyến",
+                "newText": "Kháng Lửa"
+              }
+            }
+          },
+          "list[10].groupId": {
+            "type": "value",
+            "oldValue": "suit_pulse_cryst01",
+            "newValue": "suit_atb01"
+          },
+          "list[10].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Pulser Labs",
+                "newText": "Frontiers"
+              },
+              "CN": {
+                "oldText": "脉冲式",
+                "newText": "拓荒"
+              },
+              "DE": {
+                "oldText": "Pulser Labs",
+                "newText": "Grenzgebiet"
+              },
+              "EN": {
+                "oldText": "Pulser Labs",
+                "newText": "Frontiers"
+              },
+              "FR": {
+                "oldText": "Pulser Labs",
+                "newText": "Confins"
+              },
+              "ID": {
+                "oldText": "Pulser Labs",
+                "newText": "Frontiers"
+              },
+              "IT": {
+                "oldText": "A impulsi",
+                "newText": "Frontiera"
+              },
+              "JP": {
+                "oldText": "パルス式",
+                "newText": "パイオニア"
+              },
+              "KR": {
+                "oldText": "펄스식",
+                "newText": "개척"
+              },
+              "MX": {
+                "oldText": "Laboratorios Pulso",
+                "newText": "Fronteras"
+              },
+              "RU": {
+                "oldText": "Импульс",
+                "newText": "Колонист"
+              },
+              "TC": {
+                "oldText": "脈衝式",
+                "newText": "拓荒"
+              },
+              "TH": {
+                "oldText": "ห้องทดลอง​พัล​เซอร์",
+                "newText": "ชายแดน"
+              },
+              "VN": {
+                "oldText": "Sóng Xung",
+                "newText": "Tiền Tuyến"
+              }
+            }
+          },
+          "list[11].groupId": {
+            "type": "value",
+            "oldValue": "suit_attri01",
+            "newValue": "suit_pulse_cryst01"
+          },
+          "list[11].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Traje Quebra-Ossos",
+                "newText": "Pulser Labs"
+              },
+              "CN": {
+                "oldText": "碾骨",
+                "newText": "脉冲式"
+              },
+              "DE": {
+                "oldText": "Knochenbrecha",
+                "newText": "Pulser Labs"
+              },
+              "EN": {
+                "oldText": "Bonekrusha",
+                "newText": "Pulser Labs"
+              },
+              "FR": {
+                "oldText": "Broyeurs d'os",
+                "newText": "Pulser Labs"
+              },
+              "ID": {
+                "oldText": "Bonekrusha",
+                "newText": "Pulser Labs"
+              },
+              "IT": {
+                "oldText": "Maciulla-Ossa",
+                "newText": "A impulsi"
+              },
+              "JP": {
+                "oldText": "骨砕",
+                "newText": "パルス式"
+              },
+              "KR": {
+                "oldText": "본 크러셔",
+                "newText": "펄스식"
+              },
+              "MX": {
+                "oldText": "Rompehuesos",
+                "newText": "Laboratorios Pulso"
+              },
+              "RU": {
+                "oldText": "Игра в Костолома",
+                "newText": "Импульс"
+              },
+              "TC": {
+                "oldText": "碾骨",
+                "newText": "脈衝式"
+              },
+              "TH": {
+                "oldText": "โบน​ค​รัช​ชา",
+                "newText": "ห้องทดลอง​พัล​เซอร์"
+              },
+              "VN": {
+                "oldText": "Bonekrusha",
+                "newText": "Sóng Xung"
+              }
+            }
+          },
+          "list[12].groupId": {
+            "type": "value",
+            "oldValue": "suit_poise01",
+            "newValue": "suit_attri01"
+          },
+          "list[12].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Æthertech",
+                "newText": "Traje Quebra-Ossos"
+              },
+              "CN": {
+                "oldText": "轻超域",
+                "newText": "碾骨"
+              },
+              "DE": {
+                "oldText": "Æthertech",
+                "newText": "Knochenbrecha"
+              },
+              "EN": {
+                "oldText": "Æthertech",
+                "newText": "Bonekrusha"
+              },
+              "FR": {
+                "oldText": "Æthertech",
+                "newText": "Broyeurs d'os"
+              },
+              "ID": {
+                "oldText": "Æthertech",
+                "newText": "Bonekrusha"
+              },
+              "IT": {
+                "oldText": "Æthertech",
+                "newText": "Maciulla-Ossa"
+              },
+              "JP": {
+                "oldText": "軽量超域",
+                "newText": "骨砕"
+              },
+              "KR": {
+                "oldText": "경량 초자연",
+                "newText": "본 크러셔"
+              },
+              "MX": {
+                "oldText": "Etertecnología",
+                "newText": "Rompehuesos"
+              },
+              "RU": {
+                "oldText": "Эфиртех",
+                "newText": "Игра в Костолома"
+              },
+              "TC": {
+                "oldText": "輕超域",
+                "newText": "碾骨"
+              },
+              "TH": {
+                "oldText": "เอ​เทอร์​เทค",
+                "newText": "โบน​ค​รัช​ชา"
+              },
+              "VN": {
+                "oldText": "Æthertech",
+                "newText": "Bonekrusha"
+              }
+            }
+          },
+          "list[13].groupId": {
+            "type": "value",
+            "oldValue": "suit_heal01",
+            "newValue": "suit_poise01"
+          },
+          "list[13].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "LYNX",
+                "newText": "Æthertech"
+              },
+              "CN": {
+                "oldText": "生物辅助",
+                "newText": "轻超域"
+              },
+              "DE": {
+                "oldText": "LUCHS",
+                "newText": "Æthertech"
+              },
+              "EN": {
+                "oldText": "LYNX",
+                "newText": "Æthertech"
+              },
+              "FR": {
+                "oldText": "LYNX",
+                "newText": "Æthertech"
+              },
+              "ID": {
+                "oldText": "LYNX",
+                "newText": "Æthertech"
+              },
+              "IT": {
+                "oldText": "LYNX",
+                "newText": "Æthertech"
+              },
+              "JP": {
+                "oldText": "生物補助",
+                "newText": "軽量超域"
+              },
+              "KR": {
+                "oldText": "생체 보조",
+                "newText": "경량 초자연"
+              },
+              "MX": {
+                "oldText": "LYNX",
+                "newText": "Etertecnología"
+              },
+              "RU": {
+                "oldText": "Рысь",
+                "newText": "Эфиртех"
+              },
+              "TC": {
+                "oldText": "生物輔助",
+                "newText": "輕超域"
+              },
+              "TH": {
+                "oldText": "LYNX",
+                "newText": "เอ​เทอร์​เทค"
+              },
+              "VN": {
+                "oldText": "LYNX",
+                "newText": "Æthertech"
+              }
+            }
+          },
+          "list[14].groupId": {
+            "type": "value",
+            "oldValue": "suit_phy01",
+            "newValue": "suit_heal01"
+          },
+          "list[14].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Espadeiro",
+                "newText": "LYNX"
+              },
+              "CN": {
+                "oldText": "点剑",
+                "newText": "生物辅助"
+              },
+              "DE": {
+                "oldText": "Schwertkämpfer",
+                "newText": "LUCHS"
+              },
+              "EN": {
+                "oldText": "Swordmancer",
+                "newText": "LYNX"
+              },
+              "FR": {
+                "oldText": "Spadamancien",
+                "newText": "LYNX"
+              },
+              "ID": {
+                "oldText": "Swordmancer",
+                "newText": "LYNX"
+              },
+              "IT": {
+                "oldText": "Spadamante",
+                "newText": "LYNX"
+              },
+              "JP": {
+                "oldText": "宏山点剣",
+                "newText": "生物補助"
+              },
+              "KR": {
+                "oldText": "검술사",
+                "newText": "생체 보조"
+              },
+              "MX": {
+                "oldText": "Espadachín",
+                "newText": "LYNX"
+              },
+              "RU": {
+                "oldText": "Мастер меча",
+                "newText": "Рысь"
+              },
+              "TC": {
+                "oldText": "點劍",
+                "newText": "生物輔助"
+              },
+              "TH": {
+                "oldText": "นัก​ดาบ​เวท",
+                "newText": "LYNX"
+              },
+              "VN": {
+                "oldText": "Kiếm Sĩ",
+                "newText": "LYNX"
+              }
+            }
+          },
+          "list[15].groupId": {
+            "type": "value",
+            "oldValue": "suit_usp01",
+            "newValue": "suit_phy01"
+          },
+          "list[15].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Catástrofe",
+                "newText": "Espadeiro"
+              },
+              "CN": {
+                "oldText": "天灾防护",
+                "newText": "点剑"
+              },
+              "DE": {
+                "oldText": "Katastrophe",
+                "newText": "Schwertkämpfer"
+              },
+              "EN": {
+                "oldText": "Catastrophe",
+                "newText": "Swordmancer"
+              },
+              "FR": {
+                "oldText": "Catastrophe",
+                "newText": "Spadamancien"
+              },
+              "ID": {
+                "oldText": "Catastrophe",
+                "newText": "Swordmancer"
+              },
+              "IT": {
+                "oldText": "Catastrofe",
+                "newText": "Spadamante"
+              },
+              "JP": {
+                "oldText": "天災防護",
+                "newText": "宏山点剣"
+              },
+              "KR": {
+                "oldText": "재앙 방호",
+                "newText": "검술사"
+              },
+              "MX": {
+                "oldText": "Catástrofe",
+                "newText": "Espadachín"
+              },
+              "RU": {
+                "oldText": "Катастрофа",
+                "newText": "Мастер меча"
+              },
+              "TC": {
+                "oldText": "天災防護",
+                "newText": "點劍"
+              },
+              "TH": {
+                "oldText": "ภัยพิบัติ",
+                "newText": "นัก​ดาบ​เวท"
+              },
+              "VN": {
+                "oldText": "Thảm Họa",
+                "newText": "Kiếm Sĩ"
+              }
+            }
+          },
+          "list[16].groupId": {
+            "type": "value",
+            "oldValue": "suit_atk01",
+            "newValue": "suit_usp01"
+          },
+          "list[16].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Legado de Aburrey",
+                "newText": "Catástrofe"
+              },
+              "CN": {
+                "oldText": "阿伯莉遗声",
+                "newText": "天灾防护"
+              },
+              "DE": {
+                "oldText": "Aburreys Vermächtnis",
+                "newText": "Katastrophe"
+              },
+              "EN": {
+                "oldText": "Aburrey's Legacy",
+                "newText": "Catastrophe"
+              },
+              "FR": {
+                "oldText": "Héritage d'Aburrey",
+                "newText": "Catastrophe"
+              },
+              "ID": {
+                "oldText": "Peninggalan Aburrey",
+                "newText": "Catastrophe"
+              },
+              "IT": {
+                "oldText": "Eredità di Aburrey",
+                "newText": "Catastrofe"
+              },
+              "JP": {
+                "oldText": "アブリー遺声",
+                "newText": "天災防護"
+              },
+              "KR": {
+                "oldText": "아부레이의 메아리",
+                "newText": "재앙 방호"
+              },
+              "MX": {
+                "oldText": "Legado de Aburrey",
+                "newText": "Catástrofe"
+              },
+              "RU": {
+                "oldText": "Наследие Эберрей",
+                "newText": "Катастрофа"
+              },
+              "TC": {
+                "oldText": "阿伯莉遺聲",
+                "newText": "天災防護"
+              },
+              "TH": {
+                "oldText": "มรดก​ของ​อ​เบอร์​เรย์",
+                "newText": "ภัยพิบัติ"
+              },
+              "VN": {
+                "oldText": "Di Sản Của Aburrey",
+                "newText": "Thảm Họa"
+              }
+            }
+          },
+          "list[17].groupId": {
+            "type": "value",
+            "oldValue": "suit_will01",
+            "newValue": "suit_atk01"
+          },
+          "list[17].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Resistente de Mordvolt",
+                "newText": "Legado de Aburrey"
+              },
+              "CN": {
+                "oldText": "蚀电防护",
+                "newText": "阿伯莉遗声"
+              },
+              "DE": {
+                "oldText": "Mordvolt-Schutz",
+                "newText": "Aburreys Vermächtnis"
+              },
+              "EN": {
+                "oldText": "Mordvolt Resistant",
+                "newText": "Aburrey's Legacy"
+              },
+              "FR": {
+                "oldText": "Résistance de Mordvolt",
+                "newText": "Héritage d'Aburrey"
+              },
+              "ID": {
+                "oldText": "Resistans Mordvolt",
+                "newText": "Peninggalan Aburrey"
+              },
+              "IT": {
+                "oldText": "Resistente Elettroshock",
+                "newText": "Eredità di Aburrey"
+              },
+              "JP": {
+                "oldText": "蝕電防護",
+                "newText": "アブリー遺声"
+              },
+              "KR": {
+                "oldText": "침식 방호",
+                "newText": "아부레이의 메아리"
+              },
+              "MX": {
+                "oldText": "Resistente de Mordvolt",
+                "newText": "Legado de Aburrey"
+              },
+              "RU": {
+                "oldText": "Резистентный «Мортвольт»",
+                "newText": "Наследие Эберрей"
+              },
+              "TC": {
+                "oldText": "蝕電防護",
+                "newText": "阿伯莉遺聲"
+              },
+              "TH": {
+                "oldText": "ต้านทาน​มอร์​ด​โวลต์",
+                "newText": "มรดก​ของ​อ​เบอร์​เรย์"
+              },
+              "VN": {
+                "oldText": "Kháng Mordvolt",
+                "newText": "Di Sản Của Aburrey"
+              }
+            }
+          },
+          "list[18].groupId": {
+            "type": "value",
+            "oldValue": "suit_wisd01",
+            "newValue": "suit_will01"
+          },
+          "list[18].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Isolamento de Mordvolt",
+                "newText": "Resistente de Mordvolt"
+              },
+              "CN": {
+                "oldText": "蚀电屏蔽",
+                "newText": "蚀电防护"
+              },
+              "DE": {
+                "oldText": "Mordvolt-Isolierung",
+                "newText": "Mordvolt-Schutz"
+              },
+              "EN": {
+                "oldText": "Mordvolt Insulation",
+                "newText": "Mordvolt Resistant"
+              },
+              "FR": {
+                "oldText": "Isolation de Mordvolt",
+                "newText": "Résistance de Mordvolt"
+              },
+              "ID": {
+                "oldText": "Insulasi Mordvolt",
+                "newText": "Resistans Mordvolt"
+              },
+              "IT": {
+                "oldText": "Isolante Elettroshock",
+                "newText": "Resistente Elettroshock"
+              },
+              "JP": {
+                "oldText": "蝕電遮断",
+                "newText": "蝕電防護"
+              },
+              "KR": {
+                "oldText": "침식 차단",
+                "newText": "침식 방호"
+              },
+              "MX": {
+                "oldText": "Aislamiento de Mordvolt",
+                "newText": "Resistente de Mordvolt"
+              },
+              "RU": {
+                "oldText": "Изолированный «Мортвольт»",
+                "newText": "Резистентный «Мортвольт»"
+              },
+              "TC": {
+                "oldText": "蝕電絕緣",
+                "newText": "蝕電防護"
+              },
+              "TH": {
+                "oldText": "ฉนวน​มอร์​ด​โวลต์",
+                "newText": "ต้านทาน​มอร์​ด​โวลต์"
+              },
+              "VN": {
+                "oldText": "Cách Điện Mordvolt",
+                "newText": "Kháng Mordvolt"
+              }
+            }
+          },
+          "list[19].groupId": {
+            "type": "value",
+            "oldValue": "suit_agi01",
+            "newValue": "suit_wisd01"
+          },
+          "list[19].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "MSGR Itinerante",
+                "newText": "Isolamento de Mordvolt"
+              },
+              "CN": {
+                "oldText": "巡行信使",
+                "newText": "蚀电屏蔽"
+              },
+              "DE": {
+                "oldText": "Bote",
+                "newText": "Mordvolt-Isolierung"
+              },
+              "EN": {
+                "oldText": "Roving MSGR",
+                "newText": "Mordvolt Insulation"
+              },
+              "FR": {
+                "oldText": "MSGR itinérant",
+                "newText": "Isolation de Mordvolt"
+              },
+              "ID": {
+                "oldText": "MSGR Keliling",
+                "newText": "Insulasi Mordvolt"
+              },
+              "IT": {
+                "oldText": "MSGR da viaggio",
+                "newText": "Isolante Elettroshock"
+              },
+              "JP": {
+                "oldText": "遍歴トランスポーター",
+                "newText": "蝕電遮断"
+              },
+              "KR": {
+                "oldText": "순행 전달자",
+                "newText": "침식 차단"
+              },
+              "MX": {
+                "oldText": "MSJR móvil",
+                "newText": "Aislamiento de Mordvolt"
+              },
+              "RU": {
+                "oldText": "Гонец-странник",
+                "newText": "Изолированный «Мортвольт»"
+              },
+              "TC": {
+                "oldText": "巡行信使",
+                "newText": "蝕電絕緣"
+              },
+              "TH": {
+                "oldText": "MSGR ทั่วไป",
+                "newText": "ฉนวน​มอร์​ด​โวลต์"
+              },
+              "VN": {
+                "oldText": "LLV Cơ Động",
+                "newText": "Cách Điện Mordvolt"
+              }
+            }
+          },
+          "list[20].groupId": {
+            "type": "value",
+            "oldValue": "suit_str01",
+            "newValue": "suit_agi01"
+          },
+          "list[20].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "MSGR Blindado",
+                "newText": "MSGR Itinerante"
+              },
+              "CN": {
+                "oldText": "重装信使",
+                "newText": "巡行信使"
+              },
+              "DE": {
+                "oldText": "Gepanzerter Bote",
+                "newText": "Bote"
+              },
+              "EN": {
+                "oldText": "Armored MSGR",
+                "newText": "Roving MSGR"
+              },
+              "FR": {
+                "oldText": "MSGR cuirassé",
+                "newText": "MSGR itinérant"
+              },
+              "ID": {
+                "oldText": "MSGR Berarmor",
+                "newText": "MSGR Keliling"
+              },
+              "IT": {
+                "oldText": "MSGR corazzata",
+                "newText": "MSGR da viaggio"
+              },
+              "JP": {
+                "oldText": "重装トランスポーター",
+                "newText": "遍歴トランスポーター"
+              },
+              "KR": {
+                "oldText": "중장갑 전달자",
+                "newText": "순행 전달자"
+              },
+              "MX": {
+                "oldText": "MSJR blindado",
+                "newText": "MSJR móvil"
+              },
+              "RU": {
+                "oldText": "Гонец-воин",
+                "newText": "Гонец-странник"
+              },
+              "TC": {
+                "oldText": "重裝信使",
+                "newText": "巡行信使"
+              },
+              "TH": {
+                "oldText": "MSGR หุ้ม​เกราะ",
+                "newText": "MSGR ทั่วไป"
+              },
+              "VN": {
+                "oldText": "LLV Bọc Thép",
+                "newText": "LLV Cơ Động"
+              }
+            }
+          },
+          "list[21].groupId": {
+            "type": "value",
+            "oldValue": "suit_wisdwill01",
+            "newValue": "suit_str01"
+          },
+          "list[21].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Leve do CAI",
+                "newText": "MSGR Blindado"
+              },
+              "CN": {
+                "oldText": "集成轻型",
+                "newText": "重装信使"
+              },
+              "DE": {
+                "oldText": "AIK (Leicht)",
+                "newText": "Gepanzerter Bote"
+              },
+              "EN": {
+                "oldText": "AIC Light",
+                "newText": "Armored MSGR"
+              },
+              "FR": {
+                "oldText": "Équipement léger du GIA",
+                "newText": "MSGR cuirassé"
+              },
+              "ID": {
+                "oldText": "AIC Ringan",
+                "newText": "MSGR Berarmor"
+              },
+              "IT": {
+                "oldText": "Leggera SIA",
+                "newText": "MSGR corazzata"
+              },
+              "JP": {
+                "oldText": "集成軽量",
+                "newText": "重装トランスポーター"
+              },
+              "KR": {
+                "oldText": "통합 경량형 모델",
+                "newText": "중장갑 전달자"
+              },
+              "MX": {
+                "oldText": "CAI ligero",
+                "newText": "MSJR blindado"
+              },
+              "RU": {
+                "oldText": "Легкий АПК",
+                "newText": "Гонец-воин"
+              },
+              "TC": {
+                "oldText": "整合輕型",
+                "newText": "重裝信使"
+              },
+              "TH": {
+                "oldText": "AIC งาน​เบา",
+                "newText": "เกราะ​ MSGR"
+              },
+              "VN": {
+                "oldText": "Khu Phức Hợp Nhẹ",
+                "newText": "LLV Bọc Thép"
+              }
+            }
+          },
+          "list[22].groupId": {
+            "type": "value",
+            "oldValue": "suit_stragi01",
+            "newValue": "suit_wisdwill01"
+          },
+          "list[22].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Pesado do CAI",
+                "newText": "Leve do CAI"
+              },
+              "CN": {
+                "oldText": "集成重型",
+                "newText": "集成轻型"
+              },
+              "DE": {
+                "oldText": "AIK (Schwer)",
+                "newText": "AIK (Leicht)"
+              },
+              "EN": {
+                "oldText": "AIC Heavy",
+                "newText": "AIC Light"
+              },
+              "FR": {
+                "oldText": "Équipement lourd du GIA",
+                "newText": "Équipement léger du GIA"
+              },
+              "ID": {
+                "oldText": "AIC Berat",
+                "newText": "AIC Ringan"
+              },
+              "IT": {
+                "oldText": "Pesante SIA",
+                "newText": "Leggera SIA"
+              },
+              "JP": {
+                "oldText": "集成重装",
+                "newText": "集成軽量"
+              },
+              "KR": {
+                "oldText": "통합 중량형 모델",
+                "newText": "통합 경량형 모델"
+              },
+              "MX": {
+                "oldText": "CAI pesado",
+                "newText": "CAI ligero"
+              },
+              "RU": {
+                "oldText": "Тяжелый АПК",
+                "newText": "Легкий АПК"
+              },
+              "TC": {
+                "oldText": "整合重型",
+                "newText": "整合輕型"
+              },
+              "TH": {
+                "oldText": "AIC งานหนัก",
+                "newText": "AIC งาน​เบา"
+              },
+              "VN": {
+                "oldText": "Khu Phức Hợp Nặng",
+                "newText": "Khu Phức Hợp Nhẹ"
+              }
+            }
+          },
+          "list[23].groupId": {
+            "type": "value",
+            "oldValue": "domain_1",
+            "newValue": "suit_stragi01"
+          },
+          "list[23].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Vale IV",
+                "newText": "Pesado do CAI"
+              },
+              "CN": {
+                "oldText": "四号谷地",
+                "newText": "集成重型"
+              },
+              "DE": {
+                "oldText": "Tal IV",
+                "newText": "AIK (Schwer)"
+              },
+              "EN": {
+                "oldText": "Valley IV",
+                "newText": "AIC Heavy"
+              },
+              "FR": {
+                "oldText": "Vallée-IV",
+                "newText": "Équipement lourd du GIA"
+              },
+              "ID": {
+                "oldText": "Lembah IV",
+                "newText": "AIC Berat"
+              },
+              "IT": {
+                "oldText": "Valle IV",
+                "newText": "Pesante SIA"
+              },
+              "JP": {
+                "oldText": "四号谷地",
+                "newText": "集成重装"
+              },
+              "KR": {
+                "oldText": "4번 협곡",
+                "newText": "통합 중량형 모델"
+              },
+              "MX": {
+                "oldText": "Valle IV",
+                "newText": "CAI pesado"
+              },
+              "RU": {
+                "oldText": "Долина IV",
+                "newText": "Тяжелый АПК"
+              },
+              "TC": {
+                "oldText": "四號谷地",
+                "newText": "整合重型"
+              },
+              "TH": {
+                "oldText": "หุบเขา​ IV",
+                "newText": "AIC งานหนัก"
+              },
+              "VN": {
+                "oldText": "Thung Lũng IV",
+                "newText": "Khu Phức Hợp Nặng"
+              }
+            }
+          },
+          "list[24].groupId": {
+            "type": "value",
+            "oldValue": "domain_2",
+            "newValue": "domain_1"
+          },
+          "list[24].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Wuling",
+                "newText": "Vale IV"
+              },
+              "CN": {
+                "oldText": "武陵",
+                "newText": "四号谷地"
+              },
+              "DE": {
+                "oldText": "Wuling",
+                "newText": "Tal IV"
+              },
+              "EN": {
+                "oldText": "Wuling",
+                "newText": "Valley IV"
+              },
+              "FR": {
+                "oldText": "Wuling",
+                "newText": "Vallée-IV"
+              },
+              "ID": {
+                "oldText": "Wuling",
+                "newText": "Lembah IV"
+              },
+              "IT": {
+                "oldText": "Wuling",
+                "newText": "Valle IV"
+              },
+              "JP": {
+                "oldText": "武陵",
+                "newText": "四号谷地"
+              },
+              "KR": {
+                "oldText": "무릉",
+                "newText": "4번 협곡"
+              },
+              "MX": {
+                "oldText": "Wuling",
+                "newText": "Valle IV"
+              },
+              "RU": {
+                "oldText": "Улин",
+                "newText": "Долина IV"
+              },
+              "TC": {
+                "oldText": "武陵",
+                "newText": "四號谷地"
+              },
+              "TH": {
+                "oldText": "อู่​หลิง",
+                "newText": "หุบเขา​ IV"
+              },
+              "VN": {
+                "oldText": "Võ Lăng",
+                "newText": "Thung Lũng IV"
+              }
+            }
+          },
+          "list[25]": {
+            "type": "value",
+            "newValue": {
+              "groupId": "domain_2",
+              "groupName": {
+                "id": "6469201263056795755",
+                "text": ""
+              },
+              "iconId": ""
+            }
+          }
+        }
+      },
+      "wiki_type_item": {
+        "oldValue": {
+          "list": [
+            {
+              "groupId": "wiki_group_item_special",
+              "groupName": {
+                "BR": "Materiais de Progressão",
+                "CN": "培养素材",
+                "DE": "Fortschritts-\nmaterialien",
+                "EN": "Progression Materials",
+                "FR": "Matériaux de progression",
+                "ID": "Material Progresi",
+                "IT": "Materiali di sviluppo",
+                "JP": "育成強化",
+                "KR": "육성 재료",
+                "MX": "Materiales de progresión",
+                "RU": "Материалы для развития",
+                "TC": "培養材料",
+                "TH": "วัสดุ​เพื่อ​ความก้าวหน้า",
+                "VN": "Vật Liệu Thăng Cấp"
+              },
+              "iconId": "icon_wiki_group_item_special"
+            },
+            {
+              "groupId": "wiki_group_item_nature",
+              "groupName": {
+                "BR": "Recursos Naturais",
+                "CN": "自然资源",
+                "DE": "Natürliche Ressourcen",
+                "EN": "Natural Resources",
+                "FR": "Ressources naturelles",
+                "ID": "Sumber Daya Alam",
+                "IT": "Risorse naturali",
+                "JP": "天然資源",
+                "KR": "천연자원",
+                "MX": "Recursos naturales",
+                "RU": "Природные ресурсы",
+                "TC": "自然資源",
+                "TH": "ทรัพยากรธรรมชาติ",
+                "VN": "Tài Nguyên Tự Nhiên"
+              },
+              "iconId": "icon_wiki_group_item_nature"
+            },
+            {
+              "groupId": "wiki_group_item_material",
+              "groupName": {
+                "BR": "Coletáveis",
+                "CN": "采集材料",
+                "DE": "Sammelobjekte",
+                "EN": "Gatherables",
+                "FR": "Récoltables",
+                "ID": "Bisa Dikumpulkan",
+                "IT": "Risorse da raccogliere",
+                "JP": "採集素材",
+                "KR": "채집 재료",
+                "MX": "Recolectables",
+                "RU": "Трофеи",
+                "TC": "採集材料",
+                "TH": "รวบรวม​ได้",
+                "VN": "Vật Liệu Thu Thập"
+              },
+              "iconId": "icon_wiki_group_item_material"
+            },
+            {
+              "groupId": "wiki_group_item_nurturance",
+              "groupName": {
+                "BR": "Materiais Raros",
+                "CN": "珍贵材料",
+                "DE": "Seltene Materialien",
+                "EN": "Rare Materials",
+                "FR": "Matériaux rares",
+                "ID": "Material Langka",
+                "IT": "Materiali rari",
+                "JP": "貴重素材",
+                "KR": "희귀 재료",
+                "MX": "Materiales raros",
+                "RU": "Редкие материалы",
+                "TC": "珍貴材料",
+                "TH": "แร่​หายาก",
+                "VN": "Vật Liệu Hiếm"
+              },
+              "iconId": "icon_wiki_group_item_nurturance"
+            },
+            {
+              "groupId": "wiki_group_item_product",
+              "groupName": {
+                "BR": "Produtos do CAI",
+                "CN": "工业产物",
+                "DE": "AIK-Produkte",
+                "EN": "AIC Products",
+                "FR": "Produits du GIA",
+                "ID": "Produk AIC",
+                "IT": "Prodotti del SIA",
+                "JP": "工業製品",
+                "KR": "공업 생산품",
+                "MX": "Productos del CAI",
+                "RU": "Изделия АПК",
+                "TC": "工業產物",
+                "TH": "สินค้า​ AIC",
+                "VN": "Sản Phẩm Khu Phức Hợp"
+              },
+              "iconId": "icon_wiki_group_item_product"
+            },
+            {
+              "groupId": "wiki_group_item_usable",
+              "groupName": {
+                "BR": "Itens Utilizáveis",
+                "CN": "可用道具",
+                "DE": "Verwendbare Gegenstände",
+                "EN": "Usable Items",
+                "FR": "Objets utilisables",
+                "ID": "Item Berdaya Guna",
+                "IT": "Oggetti utilizzabili",
+                "JP": "消費アイテム",
+                "KR": "사용할 수 있는 아이템",
+                "MX": "Objetos utilizables",
+                "RU": "Используемые предметы",
+                "TC": "可用道具",
+                "TH": "ไอ​เทม​ที่​สามารถ​ใช้ได้",
+                "VN": "Vật Phẩm Có Thể Dùng"
+              },
+              "iconId": "icon_wiki_group_item_usable"
+            },
+            {
+              "groupId": "wiki_group_item_other",
+              "groupName": {
+                "BR": "Itens Funcionais",
+                "CN": "功能道具",
+                "DE": "Funktionale Gegenstände",
+                "EN": "Functional Items",
+                "FR": "Objets fonctionnels",
+                "ID": "Item Fungsional",
+                "IT": "Oggetti funzionali",
+                "JP": "機能アイテム",
+                "KR": "기능성 아이템",
+                "MX": "Objetos funcionales",
+                "RU": "Функциональные предметы",
+                "TC": "功能道具",
+                "TH": "ไอ​เทม​ใช้งาน",
+                "VN": "Vật Phẩm Chức Năng"
+              },
+              "iconId": "icon_wiki_group_item_other"
+            },
+            {
+              "groupId": "wiki_group_item_gift",
+              "groupName": {
+                "BR": "Presentes do Operador",
+                "CN": "干员礼物",
+                "DE": "Operator-Geschenke",
+                "EN": "Operator Gifts",
+                "FR": "Cadeaux d'opérateur",
+                "ID": "Hadiah Operator",
+                "IT": "Regali operatore",
+                "JP": "プレゼント",
+                "KR": "오퍼레이터 선물",
+                "MX": "Regalos de operador",
+                "RU": "Подарки оперативникам",
+                "TC": "幹員禮物",
+                "TH": "ของขวัญ​ของ​โอเปอเรเตอร์",
+                "VN": "Quà Cán Viên"
+              },
+              "iconId": "icon_wiki_group_item_gift"
+            }
+          ]
+        },
+        "newValue": {
+          "list": [
+            {
+              "groupId": "wiki_group_item_special",
+              "groupName": {
+                "BR": "Materiais de Progressão",
+                "CN": "培养素材",
+                "DE": "Fortschritts-\nmaterialien",
+                "EN": "Progression Materials",
+                "FR": "Matériaux de progression",
+                "ID": "Material Progresi",
+                "IT": "Materiali di sviluppo",
+                "JP": "育成強化",
+                "KR": "육성 재료",
+                "MX": "Materiales de progresión",
+                "RU": "Материалы для развития",
+                "TC": "培養材料",
+                "TH": "วัสดุ​เพื่อ​ความก้าวหน้า",
+                "VN": "Vật Liệu Thăng Cấp"
+              },
+              "iconId": "icon_wiki_group_item_special"
+            },
+            {
+              "groupId": "wiki_group_item_nature",
+              "groupName": {
+                "BR": "Recursos Naturais",
+                "CN": "自然资源",
+                "DE": "Natürliche Ressourcen",
+                "EN": "Natural Resources",
+                "FR": "Ressources naturelles",
+                "ID": "Sumber Daya Alam",
+                "IT": "Risorse naturali",
+                "JP": "天然資源",
+                "KR": "천연자원",
+                "MX": "Recursos naturales",
+                "RU": "Природные ресурсы",
+                "TC": "自然資源",
+                "TH": "ทรัพยากรธรรมชาติ",
+                "VN": "Tài Nguyên Tự Nhiên"
+              },
+              "iconId": "icon_wiki_group_item_nature"
+            },
+            {
+              "groupId": "wiki_group_item_material",
+              "groupName": {
+                "BR": "Coletáveis",
+                "CN": "采集材料",
+                "DE": "Sammelobjekte",
+                "EN": "Gatherables",
+                "FR": "Récoltables",
+                "ID": "Bisa Dikumpulkan",
+                "IT": "Risorse da raccogliere",
+                "JP": "採集素材",
+                "KR": "채집 재료",
+                "MX": "Recolectables",
+                "RU": "Трофеи",
+                "TC": "採集材料",
+                "TH": "รวบรวม​ได้",
+                "VN": "Vật Liệu Thu Thập"
+              },
+              "iconId": "icon_wiki_group_item_material"
+            },
+            {
+              "groupId": "wiki_group_item_nurturance",
+              "groupName": {
+                "BR": "Materiais Raros",
+                "CN": "珍贵材料",
+                "DE": "Seltene Materialien",
+                "EN": "Rare Materials",
+                "FR": "Matériaux rares",
+                "ID": "Material Langka",
+                "IT": "Materiali rari",
+                "JP": "貴重素材",
+                "KR": "희귀 재료",
+                "MX": "Materiales raros",
+                "RU": "Редкие материалы",
+                "TC": "珍貴材料",
+                "TH": "แร่​หายาก",
+                "VN": "Vật Liệu Hiếm"
+              },
+              "iconId": "icon_wiki_group_item_nurturance"
+            },
+            {
+              "groupId": "wiki_group_item_product",
+              "groupName": {
+                "BR": "Produtos do CAI",
+                "CN": "工业产物",
+                "DE": "AIK-Produkte",
+                "EN": "AIC Products",
+                "FR": "Produits du GIA",
+                "ID": "Produk AIC",
+                "IT": "Prodotti del SIA",
+                "JP": "工業製品",
+                "KR": "공업 생산품",
+                "MX": "Productos del CAI",
+                "RU": "Изделия АПК",
+                "TC": "工業產物",
+                "TH": "สินค้า​ AIC",
+                "VN": "Sản Phẩm Khu Phức Hợp"
+              },
+              "iconId": "icon_wiki_group_item_product"
+            },
+            {
+              "groupId": "wiki_group_item_usable",
+              "groupName": {
+                "BR": "Itens Utilizáveis",
+                "CN": "可用道具",
+                "DE": "Verwendbare Gegenstände",
+                "EN": "Usable Items",
+                "FR": "Objets utilisables",
+                "ID": "Item Berdaya Guna",
+                "IT": "Oggetti utilizzabili",
+                "JP": "消費アイテム",
+                "KR": "사용할 수 있는 아이템",
+                "MX": "Objetos utilizables",
+                "RU": "Используемые предметы",
+                "TC": "可用道具",
+                "TH": "ไอ​เทม​ที่​สามารถ​ใช้ได้",
+                "VN": "Vật Phẩm Có Thể Dùng"
+              },
+              "iconId": "icon_wiki_group_item_usable"
+            },
+            {
+              "groupId": "wiki_group_item_other",
+              "groupName": {
+                "BR": "Itens Funcionais",
+                "CN": "功能道具",
+                "DE": "Funktionale Gegenstände",
+                "EN": "Functional Items",
+                "FR": "Objets fonctionnels",
+                "ID": "Item Fungsional",
+                "IT": "Oggetti funzionali",
+                "JP": "機能アイテム",
+                "KR": "기능성 아이템",
+                "MX": "Objetos funcionales",
+                "RU": "Функциональные предметы",
+                "TC": "功能道具",
+                "TH": "ไอ​เทม​ใช้งาน",
+                "VN": "Vật Phẩm Chức Năng"
+              },
+              "iconId": "icon_wiki_group_item_other"
+            },
+            {
+              "groupId": "wiki_group_item_portable_device",
+              "groupName": {
+                "BR": "Dispositivo Pessoal",
+                "CN": "随身装置",
+                "DE": "Persönliches Gerät",
+                "EN": "Personal Device",
+                "FR": "Dispositif personnel",
+                "ID": "Perangkat Pribadi",
+                "IT": "Dispositivo personale",
+                "JP": "携帯アイテム",
+                "KR": "휴대 장치",
+                "MX": "Dispositivo personal",
+                "RU": "Личное устройство",
+                "TC": "隨身裝置",
+                "TH": "อุปกรณ์​ส่วนตัว",
+                "VN": "Thiết Bị Cá Nhân"
+              },
+              "iconId": "icon_wiki_group_item_portable_device"
+            },
+            {
+              "groupId": "wiki_group_item_gift",
+              "groupName": {
+                "BR": "Presentes do Operador",
+                "CN": "干员礼物",
+                "DE": "Operator-Geschenke",
+                "EN": "Operator Gifts",
+                "FR": "Cadeaux d'opérateur",
+                "ID": "Hadiah Operator",
+                "IT": "Regali operatore",
+                "JP": "プレゼント",
+                "KR": "오퍼레이터 선물",
+                "MX": "Regalos de operador",
+                "RU": "Подарки оперативникам",
+                "TC": "幹員禮物",
+                "TH": "ของขวัญ​ของ​โอเปอเรเตอร์",
+                "VN": "Quà Cán Viên"
+              },
+              "iconId": "icon_wiki_group_item_gift"
+            }
+          ]
+        },
+        "changed": {
+          "list[7].groupId": {
+            "type": "value",
+            "oldValue": "wiki_group_item_gift",
+            "newValue": "wiki_group_item_portable_device"
+          },
+          "list[7].groupName": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Presentes do Operador",
+                "newText": "Dispositivo Pessoal"
+              },
+              "CN": {
+                "oldText": "干员礼物",
+                "newText": "随身装置"
+              },
+              "DE": {
+                "oldText": "Operator-Geschenke",
+                "newText": "Persönliches Gerät"
+              },
+              "EN": {
+                "oldText": "Operator Gifts",
+                "newText": "Personal Device"
+              },
+              "FR": {
+                "oldText": "Cadeaux d'opérateur",
+                "newText": "Dispositif personnel"
+              },
+              "ID": {
+                "oldText": "Hadiah Operator",
+                "newText": "Perangkat Pribadi"
+              },
+              "IT": {
+                "oldText": "Regali operatore",
+                "newText": "Dispositivo personale"
+              },
+              "JP": {
+                "oldText": "プレゼント",
+                "newText": "携帯アイテム"
+              },
+              "KR": {
+                "oldText": "오퍼레이터 선물",
+                "newText": "휴대 장치"
+              },
+              "MX": {
+                "oldText": "Regalos de operador",
+                "newText": "Dispositivo personal"
+              },
+              "RU": {
+                "oldText": "Подарки оперативникам",
+                "newText": "Личное устройство"
+              },
+              "TC": {
+                "oldText": "幹員禮物",
+                "newText": "隨身裝置"
+              },
+              "TH": {
+                "oldText": "ของขวัญ​ของ​โอเปอเรเตอร์",
+                "newText": "อุปกรณ์​ส่วนตัว"
+              },
+              "VN": {
+                "oldText": "Quà Cán Viên",
+                "newText": "Thiết Bị Cá Nhân"
+              }
+            }
+          },
+          "list[7].iconId": {
+            "type": "value",
+            "oldValue": "icon_wiki_group_item_gift",
+            "newValue": "icon_wiki_group_item_portable_device"
+          },
+          "list[8]": {
+            "type": "value",
+            "newValue": {
+              "groupId": "wiki_group_item_gift",
+              "groupName": {
+                "id": "4958481832972946521",
+                "text": ""
+              },
+              "iconId": "icon_wiki_group_item_gift"
+            }
+          }
+        }
+      }
+    }
+  }
+}

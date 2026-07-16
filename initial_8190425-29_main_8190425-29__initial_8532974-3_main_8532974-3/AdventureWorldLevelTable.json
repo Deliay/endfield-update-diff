@@ -1,0 +1,496 @@
+{
+  "tableName": "AdventureWorldLevelTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 7
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "1": {
+        "oldValue": {
+          "charMaxLv": 30,
+          "level": 1,
+          "levelDownSort": [
+            2,
+            4,
+            6
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_2",
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6"
+          ],
+          "levelUpSort": [],
+          "levelUpTipTextIds": [],
+          "missionId": "",
+          "monsterBaseLv": 1
+        },
+        "newValue": {
+          "charMaxLv": 30,
+          "level": 1,
+          "levelDownSort": [
+            2,
+            4,
+            6
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_2",
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6"
+          ],
+          "levelUpSort": [],
+          "levelUpTipTextIds": [],
+          "missionId": "",
+          "monsterBaseLv": 1,
+          "needAdventureLv": 0,
+          "taskUnlockGroupId": ""
+        },
+        "changed": {
+          "needAdventureLv": {
+            "type": "value",
+            "newValue": 0
+          },
+          "taskUnlockGroupId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "charMaxLv": 50,
+          "level": 2,
+          "levelDownSort": [
+            4,
+            6,
+            8
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_8"
+          ],
+          "levelUpSort": [
+            1,
+            3,
+            5
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_1",
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5"
+          ],
+          "missionId": "",
+          "monsterBaseLv": 20
+        },
+        "newValue": {
+          "charMaxLv": 50,
+          "level": 2,
+          "levelDownSort": [
+            4,
+            6,
+            8
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_8"
+          ],
+          "levelUpSort": [
+            1,
+            3,
+            5
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_1",
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5"
+          ],
+          "missionId": "",
+          "monsterBaseLv": 20,
+          "needAdventureLv": 0,
+          "taskUnlockGroupId": "worldLevel2UnlockGroup"
+        },
+        "changed": {
+          "needAdventureLv": {
+            "type": "value",
+            "newValue": 0
+          },
+          "taskUnlockGroupId": {
+            "type": "value",
+            "newValue": "worldLevel2UnlockGroup"
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "charMaxLv": 50,
+          "level": 3,
+          "levelDownSort": [
+            2,
+            4,
+            6,
+            10
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_2",
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_10"
+          ],
+          "levelUpSort": [
+            3,
+            5,
+            7
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_7"
+          ],
+          "missionId": "m0m2",
+          "monsterBaseLv": 30
+        },
+        "newValue": {
+          "charMaxLv": 50,
+          "level": 3,
+          "levelDownSort": [
+            2,
+            4,
+            6,
+            10
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_2",
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_10"
+          ],
+          "levelUpSort": [
+            3,
+            5,
+            7
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_7"
+          ],
+          "missionId": "",
+          "monsterBaseLv": 30,
+          "needAdventureLv": 0,
+          "taskUnlockGroupId": "worldLevel3UnlockGroup"
+        },
+        "changed": {
+          "missionId": {
+            "type": "value",
+            "oldValue": "m0m2",
+            "newValue": ""
+          },
+          "needAdventureLv": {
+            "type": "value",
+            "newValue": 0
+          },
+          "taskUnlockGroupId": {
+            "type": "value",
+            "newValue": "worldLevel3UnlockGroup"
+          }
+        }
+      },
+      "4": {
+        "oldValue": {
+          "charMaxLv": 70,
+          "level": 4,
+          "levelDownSort": [
+            4,
+            6,
+            8,
+            12,
+            14
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_8",
+            "ui_worldlevel_effect_12",
+            "ui_worldlevel_effect_14"
+          ],
+          "levelUpSort": [
+            1,
+            3,
+            5,
+            9
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_1",
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_9"
+          ],
+          "missionId": "m0m3",
+          "monsterBaseLv": 40
+        },
+        "newValue": {
+          "charMaxLv": 70,
+          "level": 4,
+          "levelDownSort": [
+            4,
+            6,
+            8,
+            12,
+            14
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_8",
+            "ui_worldlevel_effect_12",
+            "ui_worldlevel_effect_14"
+          ],
+          "levelUpSort": [
+            1,
+            3,
+            5,
+            9
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_1",
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_9"
+          ],
+          "missionId": "m0m2",
+          "monsterBaseLv": 40,
+          "needAdventureLv": 25,
+          "taskUnlockGroupId": "worldLevel4UnlockGroup"
+        },
+        "changed": {
+          "missionId": {
+            "type": "value",
+            "oldValue": "m0m3",
+            "newValue": "m0m2"
+          },
+          "needAdventureLv": {
+            "type": "value",
+            "newValue": 25
+          },
+          "taskUnlockGroupId": {
+            "type": "value",
+            "newValue": "worldLevel4UnlockGroup"
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "charMaxLv": 70,
+          "level": 5,
+          "levelDownSort": [
+            2,
+            4,
+            6
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_2",
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6"
+          ],
+          "levelUpSort": [
+            3,
+            5,
+            7,
+            11,
+            13
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_7",
+            "ui_worldlevel_effect_11",
+            "ui_worldlevel_effect_13"
+          ],
+          "missionId": "m0m4",
+          "monsterBaseLv": 50
+        },
+        "newValue": {
+          "charMaxLv": 70,
+          "level": 5,
+          "levelDownSort": [
+            2,
+            4,
+            6
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_2",
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6"
+          ],
+          "levelUpSort": [
+            3,
+            5,
+            7,
+            11,
+            13
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_7",
+            "ui_worldlevel_effect_11",
+            "ui_worldlevel_effect_13"
+          ],
+          "missionId": "m0m3",
+          "monsterBaseLv": 50,
+          "needAdventureLv": 35,
+          "taskUnlockGroupId": "worldLevel5UnlockGroup"
+        },
+        "changed": {
+          "missionId": {
+            "type": "value",
+            "oldValue": "m0m4",
+            "newValue": "m0m3"
+          },
+          "needAdventureLv": {
+            "type": "value",
+            "newValue": 35
+          },
+          "taskUnlockGroupId": {
+            "type": "value",
+            "newValue": "worldLevel5UnlockGroup"
+          }
+        }
+      },
+      "6": {
+        "oldValue": {
+          "charMaxLv": 90,
+          "level": 6,
+          "levelDownSort": [
+            4,
+            6,
+            8
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_8"
+          ],
+          "levelUpSort": [
+            1,
+            3,
+            5
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_1",
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5"
+          ],
+          "missionId": "m0m5",
+          "monsterBaseLv": 55
+        },
+        "newValue": {
+          "charMaxLv": 90,
+          "level": 6,
+          "levelDownSort": [
+            4,
+            6,
+            8
+          ],
+          "levelDownTipTextIds": [
+            "ui_worldlevel_effect_4",
+            "ui_worldlevel_effect_6",
+            "ui_worldlevel_effect_8"
+          ],
+          "levelUpSort": [
+            1,
+            3,
+            5
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_1",
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5"
+          ],
+          "missionId": "m0m4",
+          "monsterBaseLv": 55,
+          "needAdventureLv": 40,
+          "taskUnlockGroupId": "worldLevel6UnlockGroup"
+        },
+        "changed": {
+          "missionId": {
+            "type": "value",
+            "oldValue": "m0m5",
+            "newValue": "m0m4"
+          },
+          "needAdventureLv": {
+            "type": "value",
+            "newValue": 40
+          },
+          "taskUnlockGroupId": {
+            "type": "value",
+            "newValue": "worldLevel6UnlockGroup"
+          }
+        }
+      },
+      "7": {
+        "oldValue": {
+          "charMaxLv": 90,
+          "level": 7,
+          "levelDownSort": [],
+          "levelDownTipTextIds": [],
+          "levelUpSort": [
+            3,
+            5,
+            7
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_7"
+          ],
+          "missionId": "",
+          "monsterBaseLv": 60
+        },
+        "newValue": {
+          "charMaxLv": 90,
+          "level": 7,
+          "levelDownSort": [],
+          "levelDownTipTextIds": [],
+          "levelUpSort": [
+            3,
+            5,
+            7
+          ],
+          "levelUpTipTextIds": [
+            "ui_worldlevel_effect_3",
+            "ui_worldlevel_effect_5",
+            "ui_worldlevel_effect_7"
+          ],
+          "missionId": "m0m5",
+          "monsterBaseLv": 60,
+          "needAdventureLv": 44,
+          "taskUnlockGroupId": "worldLevel7UnlockGroup"
+        },
+        "changed": {
+          "missionId": {
+            "type": "value",
+            "oldValue": "",
+            "newValue": "m0m5"
+          },
+          "needAdventureLv": {
+            "type": "value",
+            "newValue": 44
+          },
+          "taskUnlockGroupId": {
+            "type": "value",
+            "newValue": "worldLevel7UnlockGroup"
+          }
+        }
+      }
+    }
+  }
+}

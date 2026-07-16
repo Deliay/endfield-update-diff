@@ -1,0 +1,22 @@
+{
+  "tableName": "SettingIdTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 5,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "controller_skill_cast_target": "gameSetting_controller",
+      "controller_lock_target_start_priority": "gameSetting_controller",
+      "teammate_skill_effect_strength": "gameSetting_video",
+      "controller_mark_target_rule": "gameSetting_controller",
+      "teammate_skill_effect_opacity": "gameSetting_video"
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

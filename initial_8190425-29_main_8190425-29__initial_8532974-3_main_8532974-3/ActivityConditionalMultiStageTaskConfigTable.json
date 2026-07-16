@@ -1,0 +1,1275 @@
+{
+  "tableName": "ActivityConditionalMultiStageTaskConfigTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_racingdungeon_1": {
+        "TaskConfigMap": {
+          "activity_racingdungeon_1_task_1": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_1"
+            ],
+            "desc": {
+              "BR": "Conclua a câmara de desafio: [Senhor Saco de Pancadas]",
+              "CN": "成功挑战房间「沙包先生」",
+              "DE": "Schließe die Herausforderungskammer ab: [Herr Boxsack].",
+              "EN": "Complete the challenge chamber: [Mister Punching Bag]",
+              "FR": "Terminez la chambre de défi : [Monssac de Frappe].",
+              "ID": "Selesaikan ruang tantangan: [Si Samsak Tinju]",
+              "IT": "Completa la sfida: \"Signor sacco da boxe\".",
+              "JP": "部屋「MR.サンドバッグ」をクリアする",
+              "KR": "방 [샌드백 씨] 도전 성공",
+              "MX": "Completa la cámara de desafío: [Señor saco de boxeo]",
+              "RU": "Пройдите зал испытаний «Мистер Боксерская Груша»",
+              "TC": "成功挑戰房間「沙包先生」",
+              "TH": "ผ่าน​ห้อง​ท้าทาย​: [คุณ​กระสอบ​ทราย​]",
+              "VN": "Hoàn thành thử thách buồng: [Bao Cát Tiên Sinh]"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_100",
+            "sortId": 1,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_1",
+            "taskId": "activity_racingdungeon_1_task_1",
+            "unlockTimeId": "time_activity_racingdungeon_1_1"
+          },
+          "activity_racingdungeon_1_task_10": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_10"
+            ],
+            "desc": {
+              "BR": "Colete 100 Fragmentos de Aurileno em um único desafio de câmara",
+              "CN": "单个房间挑战获得100醚质残块",
+              "DE": "Sammle während einer einzigen Kammerherausforderung 100 Aurylensplitter.",
+              "EN": "Collect 100 Aurylene Fragments from a single chamber challenge",
+              "FR": "Récupérez 100 fragments d'aurylène dans une même chambre de défi.",
+              "ID": "Kumpulkan 100 Fragmen Aurylene dari satu ruang tantangan",
+              "IT": "Raccogli 100 frammenti di Aurylene in una singola sfida.",
+              "JP": "1つの部屋でオーリレンの欠片を100個入手する",
+              "KR": "1개의 방에서 오리렌 조각 100개 획득",
+              "MX": "Recolecta 100 Fragmentos de Aurileno en un solo desafío de cámara",
+              "RU": "Соберите 100 фрагментов аурилена за одно испытание в зале",
+              "TC": "單個房間挑戰獲得100醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 100 ชิ้น​จาก​การ​ท้าทาย​ห้อง​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 100 Mảnh Aurylene trong một thử thách buồng duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_200",
+            "sortId": 10,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_10",
+            "taskId": "activity_racingdungeon_1_task_10",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          },
+          "activity_racingdungeon_1_task_12": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_12"
+            ],
+            "desc": {
+              "BR": "Colete 125 Fragmentos de Aurileno em um único desafio de câmara",
+              "CN": "单个房间挑战获得125醚质残块",
+              "DE": "Sammle während einer einzigen Kammerherausforderung 125 Aurylensplitter.",
+              "EN": "Collect 125 Aurylene Fragments from a single chamber challenge",
+              "FR": "Récupérez 125 fragments d'aurylène dans une même chambre de défi.",
+              "ID": "Kumpulkan 125 Fragmen Aurylene dari satu tantangan ruang",
+              "IT": "Raccogli 125 frammenti di Aurylene in una singola sfida.",
+              "JP": "1つの部屋でオーリレンの欠片を125個入手する",
+              "KR": "1개의 방에서 오리렌 조각 125개 획득",
+              "MX": "Recolecta 125 Fragmentos de Aurileno en un solo desafío de cámara",
+              "RU": "Соберите 125 фрагментов аурилена за одно испытание в зале",
+              "TC": "單個房間挑戰獲得125醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 125 ชิ้น​จาก​การ​ท้าทาย​ห้อง​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 125 Mảnh Aurylene trong một thử thách buồng duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_200",
+            "sortId": 12,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_12",
+            "taskId": "activity_racingdungeon_1_task_12",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          },
+          "activity_racingdungeon_1_task_11": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_11"
+            ],
+            "desc": {
+              "BR": "Colete 100 Fragmentos de Aurileno em uma única rota",
+              "CN": "单个通路获得100醚质残块",
+              "DE": "Sammle auf einem einzigen Weg 100 Aurylensplitter.",
+              "EN": "Collect 100 Aurylene Fragments from a single route",
+              "FR": "Récupérez 100 fragments d'aurylène sur une même route.",
+              "ID": "Kumpulkan 100 Fragmen Aurylene dari satu rute",
+              "IT": "Raccogli 100 frammenti di Aurylene in un singolo tragitto.",
+              "JP": "1つの通路でオーリレンの欠片を100個入手する",
+              "KR": "1개의 통로에서 오리렌 조각 100개 획득",
+              "MX": "Recolecta 100 Fragmentos de Aurileno en una sola ruta",
+              "RU": "Соберите 100 фрагментов аурилена за один маршрут",
+              "TC": "單個通路獲得100醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 100 ชิ้น​จาก​เส้นทาง​เดียวกัน​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 100 Mảnh Aurylene trên một lộ trình duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_200",
+            "sortId": 11,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_11",
+            "taskId": "activity_racingdungeon_1_task_11",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          },
+          "activity_racingdungeon_1_task_13": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_13"
+            ],
+            "desc": {
+              "BR": "Colete 125 Fragmentos de Aurileno em uma única rota",
+              "CN": "单个通路获得125醚质残块",
+              "DE": "Sammle auf einem einzigen Weg 125 Aurylensplitter.",
+              "EN": "Collect 125 Aurylene Fragments from a single route",
+              "FR": "Récupérez 125 fragments d'aurylène sur une même route.",
+              "ID": "Kumpulkan 125 Fragmen Aurylene dari satu rute",
+              "IT": "Raccogli 125 frammenti di Aurylene in un singolo tragitto.",
+              "JP": "1つの通路でオーリレンの欠片を125個入手する",
+              "KR": "1개의 통로에서 오리렌 조각 125개 획득",
+              "MX": "Recolecta 125 Fragmentos de Aurileno en una sola ruta",
+              "RU": "Соберите 125 фрагментов аурилена за один маршрут",
+              "TC": "單個通路獲得125醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 125 ชิ้น​จาก​เส้นทาง​เดียวกัน​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 125 Mảnh Aurylene trên một lộ trình duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_200",
+            "sortId": 13,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_13",
+            "taskId": "activity_racingdungeon_1_task_13",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          },
+          "activity_racingdungeon_1_task_14": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_14"
+            ],
+            "desc": {
+              "BR": "Descubra a Rota 13 e conclua o desafio",
+              "CN": "发现13号通路并成功通关",
+              "DE": "Entdecke Strecke 13 und schließe die Herausforderung ab.",
+              "EN": "Discover Route 13 and complete the challenge",
+              "FR": "Découvrez la route 13 et terminez le défi.",
+              "ID": "Temukan Rute 13 dan selesaikan tantangan",
+              "IT": "Scopri il Percorso 13 e completa la sfida",
+              "JP": "13号通路を見つけてクリアする",
+              "KR": "13번 통로를 발견 및 클리어",
+              "MX": "Descubre la Ruta 13 y completa el desafío",
+              "RU": "Откройте маршрут 13 и пройдите испытание",
+              "TC": "發現13號通路並成功通關",
+              "TH": "ค้นพบ​เส้นทาง​ที่​ 13 และ​ผ่าน​การ​ท้าทาย",
+              "VN": "Khám phá Tuyến 13 và hoàn thành thử thách"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_200",
+            "sortId": 14,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_14",
+            "taskId": "activity_racingdungeon_1_task_14",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          },
+          "activity_racingdungeon_1_task_7": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_7"
+            ],
+            "desc": {
+              "BR": "Conclua a câmara de desafio: [Chuva de Moedas]",
+              "CN": "成功挑战房间「金币浪潮」",
+              "DE": "Schließe die Herausforderungskammer ab: [Münzregen].",
+              "EN": "Complete the challenge chamber: [Shower of Coins]",
+              "FR": "Terminez la chambre de défi : [Une pluie de pièces].",
+              "ID": "Selesaikan ruang tantangan: [Hujan Koin]",
+              "IT": "Completa la sfida: \"Doccia di monete\".",
+              "JP": "部屋「コインラッシュ」をクリアする",
+              "KR": "방 [골드 러시!] 도전 성공",
+              "MX": "Completa la cámara de desafío: [Lluvia de monedas]",
+              "RU": "Пройдите зал испытаний «Дождь из монет»",
+              "TC": "成功挑戰房間「金幣浪潮」",
+              "TH": "ผ่าน​ห้อง​ท้าทาย​: [ฝน​เหรียญ​เทก​ระ​หน่ำ​]",
+              "VN": "Hoàn thành thử thách buồng: [Mưa Vàng]"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_avatar",
+            "sortId": 7,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_7",
+            "taskId": "activity_racingdungeon_1_task_7",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          },
+          "activity_racingdungeon_1_task_2": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_2"
+            ],
+            "desc": {
+              "BR": "Colete 200 Fragmentos de Aurileno em uma única tentativa de exploração",
+              "CN": "单次探索获得200醚质残块",
+              "DE": "Sammle bei einem einzigen Erkundungsversuch 200 Aurylensplitter.",
+              "EN": "Collect 200 Aurylene Fragments from a single exploration attempt",
+              "FR": "Récupérez 200 fragments d'aurylène en une seule tentative d'exploration.",
+              "ID": "Kumpulkan 200 Fragmen Aurylene dari satu upaya eksplorasi",
+              "IT": "Raccogli 200 frammenti di Aurylene in una singola esplorazione.",
+              "JP": "1回の探索でオーリレンの欠片を200個入手する",
+              "KR": "1회 탐색에서 오리렌 조각 200개 획득",
+              "MX": "Recolecta 200 Fragmentos de Aurileno en un solo intento de exploración",
+              "RU": "Соберите 200 фрагментов аурилена за одну попытку исследования",
+              "TC": "單次探索獲得200醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 200 ชิ้น​จาก​การสำรวจ​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 200 Mảnh Aurylene trong một lượt thám hiểm duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_100",
+            "sortId": 2,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_2",
+            "taskId": "activity_racingdungeon_1_task_2",
+            "unlockTimeId": "time_activity_racingdungeon_1_1"
+          },
+          "activity_racingdungeon_1_task_3": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_3"
+            ],
+            "desc": {
+              "BR": "Colete 50 Fragmentos de Aurileno em um único desafio de câmara",
+              "CN": "单个房间挑战获得50醚质残块",
+              "DE": "Sammle während einer einzigen Kammerherausforderung 50 Aurylensplitter.",
+              "EN": "Collect 50 Aurylene Fragments from a single chamber challenge",
+              "FR": "Récupérez 50 fragments d'aurylène dans une même chambre de défi.",
+              "ID": "Kumpulkan 50 Fragmen Aurylene dari satu ruang tantangan",
+              "IT": "Raccogli 50 frammenti di Aurylene in una singola sfida.",
+              "JP": "1つの部屋でオーリレンの欠片を50個入手する",
+              "KR": "1개의 방에서 오리렌 조각 50개 획득",
+              "MX": "Recolecta 50 Fragmentos de Aurileno en un solo desafío de cámara",
+              "RU": "Соберите 50 фрагментов аурилена за одно испытание в зале",
+              "TC": "單個房間挑戰獲得50醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 50 ชิ้น​จาก​การ​ท้าทาย​ห้อง​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 50 Mảnh Aurylene trong một thử thách buồng duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_100",
+            "sortId": 3,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_3",
+            "taskId": "activity_racingdungeon_1_task_3",
+            "unlockTimeId": "time_activity_racingdungeon_1_1"
+          },
+          "activity_racingdungeon_1_task_4": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_4"
+            ],
+            "desc": {
+              "BR": "Colete 50 Fragmentos de Aurileno em uma única rota",
+              "CN": "单个通路获得50醚质残块",
+              "DE": "Sammle auf einem einzigen Weg 50 Aurylensplitter.",
+              "EN": "Collect 50 Aurylene Fragments from a single route",
+              "FR": "Récupérez 50 fragments d'aurylène sur une même route.",
+              "ID": "Kumpulkan 50 Fragmen Aurylene dari satu rute",
+              "IT": "Raccogli 50 frammenti di Aurylene in un singolo tragitto.",
+              "JP": "1つの通路でオーリレンの欠片を50個入手する",
+              "KR": "1개의 통로에서 오리렌 조각 50개 획득",
+              "MX": "Recolecta 50 Fragmentos de Aurileno en una sola ruta",
+              "RU": "Соберите 50 фрагментов аурилена за один маршрут",
+              "TC": "單個通路獲得50醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 50 ชิ้น​จาก​เส้นทาง​เดียวกัน​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 50 Mảnh Aurylene trên một lộ trình duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_100",
+            "sortId": 4,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_4",
+            "taskId": "activity_racingdungeon_1_task_4",
+            "unlockTimeId": "time_activity_racingdungeon_1_1"
+          },
+          "activity_racingdungeon_1_task_5": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_5"
+            ],
+            "desc": {
+              "BR": "Esmague caixotes de madeira 25 vezes",
+              "CN": "累计破坏杂物箱25次",
+              "DE": "Zerschmettere 25-mal Holzkisten.",
+              "EN": "Smash wooden crates 25 times",
+              "FR": "Cassez 25 caisses en bois.",
+              "ID": "Hancurkan kerat kayu sebanyak 25 kali",
+              "IT": "Distruggi casse di legno 25 volte.",
+              "JP": "木箱を累計25回破壊する",
+              "KR": "잡동사니 상자 누적 25회 파괴",
+              "MX": "Rompe cajas de madera 25 veces",
+              "RU": "Разбейте деревянные ящики 25 раз",
+              "TC": "累計破壞雜物箱25次",
+              "TH": "ทุบ​ลัง​ไม้​ 25 ครั้ง",
+              "VN": "Đập thùng gỗ 25 lần"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_100",
+            "sortId": 5,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_5",
+            "taskId": "activity_racingdungeon_1_task_5",
+            "unlockTimeId": "time_activity_racingdungeon_1_1"
+          },
+          "activity_racingdungeon_1_task_6": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_6"
+            ],
+            "desc": {
+              "BR": "Acione os interruptores de pressão 25 vezes",
+              "CN": "累计触发压力开关25次",
+              "DE": "Löse 25-mal Druckschalter aus.",
+              "EN": "Trigger pressure switches 25 times",
+              "FR": "Activez 25 plaques de pression.",
+              "ID": "Aktifkan sakelar tekan sebanyak 25 kali",
+              "IT": "Attiva interruttori a pressione 25 volte.",
+              "JP": "センサーを累計25回起動する",
+              "KR": "압력 스위치 누적 25회 작동",
+              "MX": "Activa interruptores de presión 25 veces",
+              "RU": "Активируйте переключатели давления 25 раз",
+              "TC": "累計觸發壓力開關25次",
+              "TH": "เปิด​ใช้งาน​สวิตช์​แรงดัน​ 25 ครั้ง",
+              "VN": "Kích hoạt công tắc áp suất 25 lần"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_100",
+            "sortId": 6,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_6",
+            "taskId": "activity_racingdungeon_1_task_6",
+            "unlockTimeId": "time_activity_racingdungeon_1_1"
+          },
+          "activity_racingdungeon_1_task_8": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_8"
+            ],
+            "desc": {
+              "BR": "Colete 500 Fragmentos de Aurileno em uma única tentativa de exploração",
+              "CN": "单次探索获得500醚质残块",
+              "DE": "Sammle bei einem einzigen Erkundungsversuch 500 Aurylensplitter.",
+              "EN": "Collect 500 Aurylene Fragments from a single exploration attempt",
+              "FR": "Récupérez 500 fragments d'aurylène en une seule tentative d'exploration.",
+              "ID": "Kumpulkan 500 Fragmen Aurylene dari satu upaya eksplorasi",
+              "IT": "Raccogli 500 frammenti di Aurylene in una singola esplorazione.",
+              "JP": "1回の探索でオーリレンの欠片を500個入手する",
+              "KR": "1회 탐색에서 오리렌 조각 500개 획득",
+              "MX": "Recolecta 500 Fragmentos de Aurileno en un solo intento de exploración",
+              "RU": "Соберите 500 фрагментов аурилена за одну попытку исследования",
+              "TC": "單次探索獲得500醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 500 ชิ้น​จาก​การสำรวจ​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 500 Mảnh Aurylene trong một lượt thám hiểm duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_200",
+            "sortId": 8,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_8",
+            "taskId": "activity_racingdungeon_1_task_8",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          },
+          "activity_racingdungeon_1_task_9": {
+            "completeConditionId": [
+              "activity_racingdungeon_1_task_condition_9"
+            ],
+            "desc": {
+              "BR": "Colete 800 Fragmentos de Aurileno em uma única tentativa de exploração",
+              "CN": "单次探索获得800醚质残块",
+              "DE": "Sammle bei einem einzigen Erkundungsversuch 800 Aurylensplitter.",
+              "EN": "Collect 800 Aurylene Fragments from a single exploration attempt",
+              "FR": "Récupérez 800 fragments d'aurylène en une seule tentative d'exploration.",
+              "ID": "Kumpulkan 800 Fragmen Aurylene dari satu upaya eksplorasi",
+              "IT": "Raccogli 800 frammenti di Aurylene in una singola esplorazione.",
+              "JP": "1回の探索でオーリレンの欠片を800個入手する",
+              "KR": "1회 탐색에서 오리렌 조각 800개 획득",
+              "MX": "Recolecta 800 Fragmentos de Aurileno en un solo intento de exploración",
+              "RU": "Соберите 800 фрагментов аурилена за одну попытку исследования",
+              "TC": "單次探索獲得800醚質殘塊",
+              "TH": "เก็บ​เศษ​ออ​ริ​ลีน​ 800 ชิ้น​จาก​การสำรวจ​เพียง​ครั้ง​เดียว",
+              "VN": "Thu thập 800 Mảnh Aurylene trong một lượt thám hiểm duy nhất"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_racingdungeon_exp_200",
+            "sortId": 9,
+            "taskGroupId": "activity_racingdungeon_1_taskgroup_9",
+            "taskId": "activity_racingdungeon_1_task_9",
+            "unlockTimeId": "time_activity_racingdungeon_1_2"
+          }
+        }
+      },
+      "activity_v1d4_01_returnback_new_1": {
+        "TaskConfigMap": {
+          "activity_v1d4_01_returnback_new_1_task_1": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_1_completed"
+            ],
+            "desc": {
+              "BR": "Coloque qualquer instalação da Fábrica do CAI",
+              "CN": "放置任意1个设备",
+              "DE": "Platziere eine beliebige AIK-Fabrikanlage.",
+              "EN": "Place any AIC Factory facility",
+              "FR": "Placer une installation de l'usine du GIA",
+              "ID": "Tempatkan fasilitas Pabrik AIC apa saja",
+              "IT": "Posiziona una struttura qualsiasi della fabbrica del SIA",
+              "JP": "設備を1個設置する",
+              "KR": "임의의 설비 1개 배치",
+              "MX": "Coloca cualquier instalación de la Fábrica del CAI",
+              "RU": "Разместите любое сооружение АПК",
+              "TC": "擺放任意1個設備",
+              "TH": "ติดตั้ง​สิ่งปลูกสร้าง​โรงงาน​ AIC ใด​ก็ได้",
+              "VN": "Đặt công trình Nhà Máy Khu Phức Hợp bất kỳ"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_1_task_1",
+            "sortId": 1,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_1",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_10": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_10_completed"
+            ],
+            "desc": {
+              "BR": "Conclua qualquer estágio de RE-Crise 1 vez",
+              "CN": "通关1次任意危境再现",
+              "DE": "Schließe eine beliebige „RE-Krise“-Phase 1-mal ab.",
+              "EN": "Complete any RE-Crisis stage 1 time",
+              "FR": "Terminer 1 fois un niveau de « Crise X »",
+              "ID": "Selesaikan stage Krisis Ulangan mana saja sebanyak 1 kali",
+              "IT": "Completa una qualsiasi fase RE-Crisi 1 volta",
+              "JP": "危境再現を1回クリアする",
+              "KR": "임의의 위험한 재현 1회 완료",
+              "MX": "Completa cualquier escenario de Re-crisis 1 vez",
+              "RU": "Пройдите любую стадию «Реванша» 1 раз",
+              "TC": "通關1次任意危境再現",
+              "TH": "ผ่าน​วิกฤต​หวนคืน​ใด​ก็ได้​ 1 ครั้ง",
+              "VN": "Hoàn thành màn Tái Chiến bất kỳ 1 lần"
+            },
+            "jumpId": "jump_dungeon_boss_rush",
+            "rewardId": "reward_returnback_new_1_task_10",
+            "sortId": 5,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_10",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_9": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_9_completed"
+            ],
+            "desc": {
+              "BR": "Cause um total de 200 mil de DNO",
+              "CN": "累计造成200,000点伤害",
+              "DE": "Füge Gegnern insgesamt 200k SDN zu.",
+              "EN": "Deal a total of 200K DMG",
+              "FR": "Infliger un total de 200 000 pts de DÉG",
+              "ID": "Timbulkan total DMG sebesar 200.000",
+              "IT": "Infliggi un totale di 200 mila danni",
+              "JP": "ダメージを計200,000与える",
+              "KR": "누적 200,000 포인트 피해 주기",
+              "MX": "Inflige un total de 200 mil de DAÑ",
+              "RU": "Нанесите 200 000 ед. УРН",
+              "TC": "累計造成200,000點傷害",
+              "TH": "ทำ​ DMG รวมทั้งหมด​ 200,000 หน่วย",
+              "VN": "Gây tổng cộng 200K ST"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_1_task_9",
+            "sortId": 4,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_9",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_11": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_11_completed"
+            ],
+            "desc": {
+              "BR": "Aumente o nível de um operador 1 vez",
+              "CN": "提升1次干员等级",
+              "DE": "Erhöhe das Level eines Operators 1-mal.",
+              "EN": "Level up an operator 1 time",
+              "FR": "Faire passer un opérateur au niveau supérieur 1 fois",
+              "ID": "Naikkan level operator sebanyak 1 kali",
+              "IT": "Fai salire di livello un operatore 1 volta",
+              "JP": "オペレーターを1回レベルアップする",
+              "KR": "오퍼레이터를 1회 업그레이드",
+              "MX": "Sube el nivel de un operador 1 vez",
+              "RU": "Повысьте уровень оперативника 1 раз",
+              "TC": "提升1次幹員等級",
+              "TH": "เพิ่ม​เล​เวล​โอเปอเรเตอร์​ 1 ครั้ง",
+              "VN": "Tăng cấp cho một cán viên 1 lần"
+            },
+            "jumpId": "jump_char_level_upgrade",
+            "rewardId": "reward_returnback_new_1_task_11",
+            "sortId": 1,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_11",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_6": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_6_completed"
+            ],
+            "desc": {
+              "BR": "Conjure habilidades de batalha 5 vezes",
+              "CN": "累计施放5次战技",
+              "DE": "Wirke 5-mal Kampffertigkeiten.",
+              "EN": "Cast battle skills 5 times",
+              "FR": "Utiliser 5 fois une compétence de combat",
+              "ID": "Gunakan skill tarung sebanyak 5 kali",
+              "IT": "Usa le abilità di combattimento 5 volte",
+              "JP": "戦技を5回使用する",
+              "KR": "배틀 스킬 누적 5회 사용",
+              "MX": "Lanza habilidades de batalla 5 veces",
+              "RU": "Примените боевые навыки 5 раз",
+              "TC": "累計施放5次戰技",
+              "TH": "ใช้​ทักษะ​การต่อสู้​ 5 ครั้ง",
+              "VN": "Thi triển KN chiến đấu 5 lần"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_1_task_6",
+            "sortId": 1,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_6",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_12": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_12_completed"
+            ],
+            "desc": {
+              "BR": "Aumente o nível de uma arma 1 vez",
+              "CN": "提升1次武器等级",
+              "DE": "Erhöhe das Level einer Waffe 1-mal.",
+              "EN": "Level up a weapon 1 time",
+              "FR": "Faire passer une arme au niveau supérieur 1 fois",
+              "ID": "Naikkan level senjata sebanyak 1 kali",
+              "IT": "Fai salire di livello un'arma 1 volta",
+              "JP": "武器を1回レベルアップする",
+              "KR": "무기를 1회 업그레이드",
+              "MX": "Sube el nivel de un arma 1 vez",
+              "RU": "Повысьте уровень оружия 1 раз",
+              "TC": "提升1次武器等級",
+              "TH": "เพิ่ม​เล​เวล​อาวุธ​ 1 ครั้ง",
+              "VN": "Tăng cấp vũ khí 1 lần"
+            },
+            "jumpId": "jump_weapon",
+            "rewardId": "reward_returnback_new_1_task_12",
+            "sortId": 2,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_12",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_13": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_13_completed"
+            ],
+            "desc": {
+              "BR": "Realize o entalhe de essências 10 vezes",
+              "CN": "累计进行10次基质蚀刻",
+              "DE": "Führe 10-mal Essenz-Ätzen durch.",
+              "EN": "Perform essence etching 10 times",
+              "FR": "Procéder à 10 gravures d'essence",
+              "ID": "Lakukan pengukiran esensi sebanyak 10 kali",
+              "IT": "Effettua l'incisione di essenze 10 volte",
+              "JP": "基質食刻を10回完了する",
+              "KR": "기질 식각 누적 10회 진행",
+              "MX": "Realiza grabado de esencia 10 veces",
+              "RU": "Выполните гравировку эссенций 10 раз",
+              "TC": "累計進行10次基質蝕刻",
+              "TH": "ฝัง​รอย​แก่นแท้​ 10 ครั้ง",
+              "VN": "Thực hiện khắc tinh chất 10 lần"
+            },
+            "jumpId": "jump_weapon",
+            "rewardId": "reward_returnback_new_1_task_13",
+            "sortId": 3,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_13",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_14": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_14_completed"
+            ],
+            "desc": {
+              "BR": "Faça a infusão de 1 essência roxa ou de qualidade superior em 1 arma",
+              "CN": "为任意1把武器注入1个紫色及以上品质的基质",
+              "DE": "Durchtränke 1 Waffe mit 1 Essenz in lilafarbener oder besserer Qualität.",
+              "EN": "Infuse 1 purple or better quality essence into 1 weapon",
+              "FR": "Imprégner une arme d'une essence violette ou de qualité supérieure",
+              "ID": "Infusikan 1 esensi berkualitas ungu atau lebih bagus ke dalam 1 senjata",
+              "IT": "Infondi un'essenza viola o di qualità migliore in un'arma",
+              "JP": "任意の武器に紫品質以上の基質を1個注入する",
+              "KR": "임의의 무기 1개에 보라색 혹은 그 이상의 기질 1개 주입",
+              "MX": "Infunde 1 esencia de calidad morada o superior en 1 arma",
+              "RU": "Вложите в 1 оружие 1 эссенцию фиолетового качества или лучше",
+              "TC": "為任意1把武器注入1個紫色及以上品質的基質",
+              "TH": "หลอม​รวม​แก่นแท้​ คุณภาพ​สีม่วง​ขึ้นไป​ 1 ชิ้น​ลง​ใน​อาวุธ​ 1 ชิ้น",
+              "VN": "Dung hợp 1 tinh chất có phẩm chất Tím trở lên vào 1 vũ khí"
+            },
+            "jumpId": "jump_weapon",
+            "rewardId": "reward_returnback_new_1_task_14",
+            "sortId": 4,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_14",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_15": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_15_completed"
+            ],
+            "desc": {
+              "BR": "Gaste 500 Pontos de Sanidade",
+              "CN": "累计消耗500点理智",
+              "DE": "Verbrauche 500 Verstandspunkte.",
+              "EN": "Spend 500 Sanity Points",
+              "FR": "Dépenser 500 points de lucidité",
+              "ID": "Pakai 500 Poin Sanity",
+              "IT": "Spendi 500 punti Lucidità",
+              "JP": "理性を500消費する",
+              "KR": "이성 누적 500 포인트 소모",
+              "MX": "Gasta 500 puntos de Cordura",
+              "RU": "Потратьте 500 оч. рассудка",
+              "TC": "累計消耗500點理智",
+              "TH": "ใช้​ค่า​สติ​ 500 แต้ม",
+              "VN": "Dùng 500 Điểm Tỉnh Táo"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_1_task_15",
+            "sortId": 5,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_15",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_2": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_2_completed"
+            ],
+            "desc": {
+              "BR": "Negocie com qualquer posto avançado 1 vez",
+              "CN": "在任意据点进行1次货品交易",
+              "DE": "Treibe 1-mal mit einem beliebigen Außenposten Handel.",
+              "EN": "Trade with any outpost 1 time",
+              "FR": "Commercer 1 fois avec un avant-poste",
+              "ID": "Berdagang dengan pos depan mana saja sebanyak 1 kali",
+              "IT": "Scambia articoli con un avamposto qualsiasi 1 volta",
+              "JP": "拠点で商品を1回取引する",
+              "KR": "임의의 거점에서 상품 1회 거래",
+              "MX": "Comercia con cualquier puesto de avanzada 1 vez",
+              "RU": "Совершите торговую сделку с аванпостом 1 раз",
+              "TC": "在任意據點進行1次貨品交易",
+              "TH": "ทำการค้า​กับ​ด่าน​หน้า​ใด​ก็ได้​ 1 ครั้ง",
+              "VN": "Giao dịch với tiền đồn bất kỳ 1 lần"
+            },
+            "jumpId": "jump_domain_settlement_tundra",
+            "rewardId": "reward_returnback_new_1_task_2",
+            "sortId": 2,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_2",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_3": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_3_completed"
+            ],
+            "desc": {
+              "BR": "Monte 5 peças de equipamento de qualquer qualidade",
+              "CN": "制造5件任意品质的装备",
+              "DE": "Montiere 5 Ausrüstungsteile beliebiger Qualität.",
+              "EN": "Assemble 5 pieces of gear of any quality",
+              "FR": "Assembler 5 pièces d'équipement de n'importe quelle qualité",
+              "ID": "Rakit 5 kepingan gear dengan kualitas apa saja",
+              "IT": "Assembla 5 equipaggiamenti di qualsiasi qualità",
+              "JP": "装備を5個製造する",
+              "KR": "임의 품질의 장비 5개 제작",
+              "MX": "Ensambla 5 piezas de equipamiento de cualquier calidad",
+              "RU": "Соберите 5 предметов снаряжения любого качества",
+              "TC": "製造5件任意品質的裝備",
+              "TH": "ประกอบ​อุปกรณ์​จำนวน​ 5 ชิ้น​คุณภาพ​ใด​ก็ได้",
+              "VN": "Lắp ráp 5 món trang bị có chất bất kỳ"
+            },
+            "jumpId": "jump_equip_produce",
+            "rewardId": "reward_returnback_new_1_task_3",
+            "sortId": 3,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_3",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_4": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_4_completed"
+            ],
+            "desc": {
+              "BR": "Coloque 1 Sonda de Mineração ou Bomba de Fluido",
+              "CN": "放置1个矿机或者水泵",
+              "DE": "Platziere 1 Abbauanlage oder Flüssigkeitspumpe.",
+              "EN": "Place 1 Mining Rig or Fluid Pump",
+              "FR": "Placer 1 plateforme d'extraction ou 1 pompe à fluide",
+              "ID": "Tempatkan 1 Rig Tambang atau Pompa Cairan",
+              "IT": "Posiziona 1 impianto di estrazione o pompa per liquidi",
+              "JP": "採鉱機または液体ポンプを1個設置する",
+              "KR": "채굴기 또는 양수기 1대 배치",
+              "MX": "Coloca 1 Plataforma de minería o una Bomba de fluido",
+              "RU": "Разместите 1 добывающую установку или гидронасос",
+              "TC": "擺放1個礦機或者水泵",
+              "TH": "วาง​ปั๊ม​ของเหลว​หรือ​แท่น​ขุด​เหมือง​ 1 เครื่อง",
+              "VN": "Đặt 1 Giàn Khai Thác hoặc Máy Bơm Chất Lỏng"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_1_task_4",
+            "sortId": 4,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_4",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_8": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_8_completed"
+            ],
+            "desc": {
+              "BR": "Acione <#ba.physicalstatus>Status Físicos</>/<#ba.spellburst>Explosões de Artes</>/<#ba.spellstatus>Reações de Artes</> 5 vezes",
+              "CN": "累计触发5次<#ba.physicalstatus>物理异常</>/<#ba.spellburst>法术爆发</>/<#ba.spellstatus>法术异常</>效果",
+              "DE": "Löse 5-mal <#ba.physicalstatus>Physische Zustände</> / <#ba.spellburst>Technikexplosionen</> / <#ba.spellstatus>Technikreaktionen</> aus.",
+              "EN": "Trigger <#ba.physicalstatus>Physical Statuses</> / <#ba.spellburst>Arts Bursts</> / <#ba.spellstatus>Arts Reactions</> 5 times",
+              "FR": "Appliquer 5 fois un <#ba.physicalstatus>statut physique</> / une <#ba.spellburst>explosion des Arts</> / une <#ba.spellstatus>réaction aux Arts</>",
+              "ID": "Aktifkan <#ba.physicalstatus>Status Fisik</>/<#ba.spellburst>Arts Burst</>/<#ba.spellstatus>Arts Reaction</> sebanyak 5 kali",
+              "IT": "Attiva <#ba.physicalstatus>stati fisici</> / <#ba.spellburst>Esplosioni delle Arti</> / <#ba.spellstatus>Reazioni delle Arti</> 5 volte",
+              "JP": "<#ba.physicalstatus>物理異常</>/<#ba.spellburst>アーツ爆発</>/<#ba.spellstatus>アーツ異常</>効果を計5回発動させる",
+              "KR": "<#ba.physicalstatus>물리 이상</>/<#ba.spellburst>아츠 폭발</>/<#ba.spellstatus>아츠 이상</> 효과 누적 5회 발동",
+              "MX": "Activa <#ba.physicalstatus>Estados físicos</> / <#ba.spellburst>Ráfagas de artes</> / <#ba.spellstatus>Reacciones a artes</> 5 veces",
+              "RU": "Активируйте <#ba.physicalstatus>физические состояния</>, <#ba.spellburst>взрывы искусств</> или <#ba.spellstatus>реакции искусств</> 5 раз",
+              "TC": "累計觸發5次<#ba.physicalstatus>物理異常</>/<#ba.spellburst>法術爆發</>/<#ba.spellstatus>法術異常</>效果",
+              "TH": "กระตุ้น​ <#ba.physicalstatus>​สถานะ​กายภาพ​</> / <#ba.spellburst>​ระเบิด​พลัง​เวท​</> / <#ba.spellstatus>​ปฏิกิริยา​เวท​</> 5 ครั้ง",
+              "VN": "Kích hoạt <#ba.physicalstatus>Trạng Thái Vật Lý</> / <#ba.spellburst>Bùng Nổ Thuật Pháp</> / <#ba.spellstatus>Phản Ứng Thuật Pháp</> 5 lần"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_1_task_8",
+            "sortId": 3,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_8",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_5": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_5_completed"
+            ],
+            "desc": {
+              "BR": "Compre mercadorias na Redistribuição do Estoque 10 vezes",
+              "CN": "于物资调度处累计购买10次物资",
+              "DE": "Kaufe 10-mal Güter bei der Vorratneuverteilung.",
+              "EN": "Purchase goods at Stock Redistribution 10 times",
+              "FR": "Réaliser 10 achats de fournitures au magasin de redistribution",
+              "ID": "Beli barang di Redistribusi Stok sebanyak 10 kali",
+              "IT": "Acquista merci alla ridistribuzione scorte 10 volte",
+              "JP": "商品取引で10回購入する",
+              "KR": "물자 관리에서 물자 누적 10회 구매",
+              "MX": "Compra mercancías en Redistribución de existencias 10 veces",
+              "RU": "Купите товары в системе перераспределения резервов 10 раз",
+              "TC": "於物資調度處累計購買10次物資",
+              "TH": "ซื้อ​เสบียง​สิ่งของ​ที่​ศูนย์​กระจาย​ของ​ 10 ครั้ง",
+              "VN": "Mua hàng tại Điều Phối Vật Tư 10 lần"
+            },
+            "jumpId": "jump_domain_shop_tundra",
+            "rewardId": "reward_returnback_new_1_task_5",
+            "sortId": 5,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_5",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_1_task_7": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_1_task_7_completed"
+            ],
+            "desc": {
+              "BR": "Derrote 5 inimigos",
+              "CN": "累计击败5个敌人",
+              "DE": "Besiege 5 Gegner.",
+              "EN": "Defeat 5 enemies",
+              "FR": "Éliminer 5 ennemis",
+              "ID": "Kalahkan 5 musuh",
+              "IT": "Sconfiggi 5 nemici",
+              "JP": "敵を計5体倒す",
+              "KR": "적을 누적 5명 처치",
+              "MX": "Derrota a 5 enemigos",
+              "RU": "Победите 5 врагов",
+              "TC": "累計擊敗5個敵人",
+              "TH": "กำจัด​ศัตรู​ 5 ตัว",
+              "VN": "Đánh bại 5 kẻ địch"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_1_task_7",
+            "sortId": 2,
+            "taskGroupId": "activity_v1d4_01_returnback_new_1_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_1_task_7",
+            "unlockTimeId": ""
+          }
+        }
+      },
+      "activity_takestwo_1": {
+        "TaskConfigMap": {
+          "activity_takestwo_1_task_1_1": {
+            "completeConditionId": [
+              "activity_taketwo_1_task_1_1_condition"
+            ],
+            "desc": {
+              "BR": "Em [FÚRIA TÉRMICA! MEGA-ARENA!], complete quaisquer 4 estágios no Modo Normal",
+              "CN": "通关「炽燃！竞技大会！」任意4个关卡的普通模式",
+              "DE": "Schließe 4 beliebige Phasen im Normal-Modus in der [HITZEWUT! MEGA-ARENA!] ab.",
+              "EN": "In [HEAT RAGE! MEGA ARENA!], complete any 4 stages in Normal Mode",
+              "FR": "Terminer 4 niveaux de [COMBAT DOUBLE ! MÉGA ARÈNE !] en mode Normal.",
+              "ID": "Di [AMARAH MEMBARA! MEGAARENA!], selesaikan 4 stage apa saja dalam Mode Normal",
+              "IT": "In \"FURIA INCANDESCENTE! MEGA ARENA!\", completa 4 livelli qualsiasi in modalità Normale",
+              "JP": "「燃えよ！アリーナ！」でノーマルモードのステージを4つクリアする",
+              "KR": "[타올라라! 경기 대회!]의 임의의 스테이지 4개를 일반 모드로 완료",
+              "MX": "En [¡FURIA ARDIENTE! ¡MEGA ARENA!], completa 4 escenarios en Modo Normal",
+              "RU": "Пройдите любые 4 стадии события «ЖАРКАЯ ЯРОСТЬ! МЕГА-АРЕНА!» в обычном режиме",
+              "TC": "通關「熾燃！競技大會！」任意4個關卡的普通模式",
+              "TH": "ใน​ [เพลิง​พิโรธ​! เมก้า​อารี​น่า​!] ผ่าน​ด่าน​ใด​ก็ได้​ 4 ด่าน​ใน​โหม​ด​ทั่วไป",
+              "VN": "Trong [NHIỆT HUYẾT SỤC SÔI! SIÊU ĐẤU TRƯỜNG!], hoàn thành 4 màn bất kỳ ở Chế Độ Thường"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_takestwo_1_task_1_1",
+            "sortId": 1,
+            "taskGroupId": "1",
+            "taskId": "activity_takestwo_1_task_1_1",
+            "unlockTimeId": "time_activity_takestwo_1"
+          },
+          "activity_takestwo_1_task_1_2": {
+            "completeConditionId": [
+              "activity_taketwo_1_task_1_2_condition"
+            ],
+            "desc": {
+              "BR": "Em [FÚRIA TÉRMICA! MEGA-ARENA!], complete quaisquer 8 estágios no Modo Normal",
+              "CN": "通关「炽燃！竞技大会！」任意8个关卡的普通模式",
+              "DE": "Schließe 8 beliebige Phasen im Normal-Modus in der [HITZEWUT! MEGA-ARENA!] ab.",
+              "EN": "In [HEAT RAGE! MEGA ARENA!], complete any 8 stages in Normal Mode",
+              "FR": "Terminer 8 niveaux de [COMBAT DOUBLE ! MÉGA ARÈNE !] en mode Normal.",
+              "ID": "Di [AMARAH MEMBARA! MEGAARENA!], selesaikan 8 stage apa saja dalam Mode Normal",
+              "IT": "In \"FURIA INCANDESCENTE! MEGA ARENA!\", completa 8 livelli qualsiasi in modalità Normale",
+              "JP": "「燃えよ！アリーナ！」でノーマルモードのステージを8つクリアする",
+              "KR": "[타올라라! 경기 대회!]의 임의의 스테이지 8개를 일반 모드로 완료",
+              "MX": "En [¡FURIA ARDIENTE! ¡MEGA ARENA!], completa 8 escenarios en Modo Normal",
+              "RU": "Пройдите любые 8 стадий события «ЖАРКАЯ ЯРОСТЬ! МЕГА-АРЕНА!» в обычном режиме",
+              "TC": "通關「熾燃！競技大會！」任意8個關卡的普通模式",
+              "TH": "ใน​ [เพลิง​พิโรธ​! เมก้า​อารี​น่า​!] ผ่าน​ด่าน​ใด​ก็ได้​ 8 ด่าน​ใน​โหม​ด​ทั่วไป",
+              "VN": "Trong [NHIỆT HUYẾT SỤC SÔI! SIÊU ĐẤU TRƯỜNG!], hoàn thành 8 màn bất kỳ ở Chế Độ Thường"
+            },
+            "jumpId": "",
+            "rewardId": "reward_activity_takestwo_1_task_1_2",
+            "sortId": 2,
+            "taskGroupId": "1",
+            "taskId": "activity_takestwo_1_task_1_2",
+            "unlockTimeId": "time_activity_takestwo_1"
+          }
+        }
+      },
+      "activity_v1d4_01_returnback_new_2": {
+        "TaskConfigMap": {
+          "activity_v1d4_01_returnback_new_2_task_1": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_1_completed"
+            ],
+            "desc": {
+              "BR": "Coloque qualquer instalação da Fábrica do CAI",
+              "CN": "放置任意1个设备",
+              "DE": "Platziere eine beliebige AIK-Fabrikanlage.",
+              "EN": "Place any AIC Factory facility",
+              "FR": "Placer une installation de l'usine du GIA",
+              "ID": "Tempatkan fasilitas Pabrik AIC apa saja",
+              "IT": "Posiziona una struttura qualsiasi della fabbrica del SIA",
+              "JP": "設備を1個設置する",
+              "KR": "임의의 설비 1개 배치",
+              "MX": "Coloca cualquier instalación de la Fábrica del CAI",
+              "RU": "Разместите любое сооружение АПК",
+              "TC": "擺放任意1個設備",
+              "TH": "ติดตั้ง​สิ่งปลูกสร้าง​โรงงาน​ AIC ใด​ก็ได้",
+              "VN": "Đặt công trình Nhà Máy Khu Phức Hợp bất kỳ"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_2_task_1",
+            "sortId": 1,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_1",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_11": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_11_completed"
+            ],
+            "desc": {
+              "BR": "Aumente o nível de um operador 1 vez",
+              "CN": "提升1次干员等级",
+              "DE": "Erhöhe das Level eines Operators 1-mal.",
+              "EN": "Level up an operator 1 time",
+              "FR": "Faire passer un opérateur au niveau supérieur 1 fois",
+              "ID": "Naikkan level operator sebanyak 1 kali",
+              "IT": "Fai salire di livello un operatore 1 volta",
+              "JP": "オペレーターを1回レベルアップする",
+              "KR": "오퍼레이터를 1회 업그레이드",
+              "MX": "Sube el nivel de un operador 1 vez",
+              "RU": "Повысьте уровень оперативника 1 раз",
+              "TC": "提升1次幹員等級",
+              "TH": "เพิ่ม​เล​เวล​โอเปอเรเตอร์​ 1 ครั้ง",
+              "VN": "Tăng cấp cho một cán viên 1 lần"
+            },
+            "jumpId": "jump_char_level_upgrade",
+            "rewardId": "reward_returnback_new_2_task_11",
+            "sortId": 1,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_11",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_10": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_10_completed"
+            ],
+            "desc": {
+              "BR": "Conclua qualquer estágio de RE-Crise 1 vez",
+              "CN": "通关1次任意危境再现",
+              "DE": "Schließe eine beliebige „RE-Krise“-Phase 1-mal ab.",
+              "EN": "Complete any RE-Crisis stage 1 time",
+              "FR": "Terminer 1 fois un niveau de « Crise X »",
+              "ID": "Selesaikan stage Krisis Ulangan mana saja sebanyak 1 kali",
+              "IT": "Completa una qualsiasi fase RE-Crisi 1 volta",
+              "JP": "危境再現を1回クリアする",
+              "KR": "임의의 위험한 재현 1회 완료",
+              "MX": "Completa cualquier escenario de Re-crisis 1 vez",
+              "RU": "Пройдите любую стадию «Реванша» 1 раз",
+              "TC": "通關1次任意危境再現",
+              "TH": "ผ่าน​วิกฤต​หวนคืน​ใด​ก็ได้​ 1 ครั้ง",
+              "VN": "Hoàn thành màn Tái Chiến bất kỳ 1 lần"
+            },
+            "jumpId": "jump_dungeon_boss_rush",
+            "rewardId": "reward_returnback_new_2_task_10",
+            "sortId": 5,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_10",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_3": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_3_completed"
+            ],
+            "desc": {
+              "BR": "Monte 5 peças de equipamento de qualquer qualidade",
+              "CN": "制造5件任意品质的装备",
+              "DE": "Montiere 5 Ausrüstungsteile beliebiger Qualität.",
+              "EN": "Assemble 5 pieces of gear of any quality",
+              "FR": "Assembler 5 pièces d'équipement de n'importe quelle qualité",
+              "ID": "Rakit 5 kepingan gear dengan kualitas apa saja",
+              "IT": "Assembla 5 equipaggiamenti di qualsiasi qualità",
+              "JP": "装備を5個製造する",
+              "KR": "임의 품질의 장비 5개 제작",
+              "MX": "Ensambla 5 piezas de equipamiento de cualquier calidad",
+              "RU": "Соберите 5 предметов снаряжения любого качества",
+              "TC": "製造5件任意品質的裝備",
+              "TH": "ประกอบ​อุปกรณ์​จำนวน​ 5 ชิ้น​คุณภาพ​ใด​ก็ได้",
+              "VN": "Lắp ráp 5 món trang bị có chất bất kỳ"
+            },
+            "jumpId": "jump_equip_produce",
+            "rewardId": "reward_returnback_new_2_task_3",
+            "sortId": 3,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_3",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_12": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_12_completed"
+            ],
+            "desc": {
+              "BR": "Aumente o nível de uma arma 1 vez",
+              "CN": "提升1次武器等级",
+              "DE": "Erhöhe das Level einer Waffe 1-mal.",
+              "EN": "Level up a weapon 1 time",
+              "FR": "Faire passer une arme au niveau supérieur 1 fois",
+              "ID": "Naikkan level senjata sebanyak 1 kali",
+              "IT": "Fai salire di livello un'arma 1 volta",
+              "JP": "武器を1回レベルアップする",
+              "KR": "무기를 1회 업그레이드",
+              "MX": "Sube el nivel de un arma 1 vez",
+              "RU": "Повысьте уровень оружия 1 раз",
+              "TC": "提升1次武器等級",
+              "TH": "เพิ่ม​เล​เวล​อาวุธ​ 1 ครั้ง",
+              "VN": "Tăng cấp vũ khí 1 lần"
+            },
+            "jumpId": "jump_weapon",
+            "rewardId": "reward_returnback_new_2_task_12",
+            "sortId": 2,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_12",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_13": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_13_completed"
+            ],
+            "desc": {
+              "BR": "Realize o entalhe de essências 10 vezes",
+              "CN": "累计进行10次基质蚀刻",
+              "DE": "Führe 10-mal Essenz-Ätzen durch.",
+              "EN": "Perform essence etching 10 times",
+              "FR": "Procéder à 10 gravures d'essence",
+              "ID": "Lakukan pengukiran esensi sebanyak 10 kali",
+              "IT": "Effettua l'incisione di essenze 10 volte",
+              "JP": "基質食刻を10回完了する",
+              "KR": "기질 식각 누적 10회 진행",
+              "MX": "Realiza grabado de esencia 10 veces",
+              "RU": "Выполните гравировку эссенций 10 раз",
+              "TC": "累計進行10次基質蝕刻",
+              "TH": "ฝัง​รอย​แก่นแท้​ 10 ครั้ง",
+              "VN": "Thực hiện khắc tinh chất 10 lần"
+            },
+            "jumpId": "jump_weapon",
+            "rewardId": "reward_returnback_new_2_task_13",
+            "sortId": 3,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_13",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_2": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_2_completed"
+            ],
+            "desc": {
+              "BR": "Negocie com qualquer posto avançado 1 vez",
+              "CN": "在任意据点进行1次货品交易",
+              "DE": "Treibe 1-mal mit einem beliebigen Außenposten Handel.",
+              "EN": "Trade with any outpost 1 time",
+              "FR": "Commercer 1 fois avec un avant-poste",
+              "ID": "Berdagang dengan pos depan mana saja sebanyak 1 kali",
+              "IT": "Scambia articoli con un avamposto qualsiasi 1 volta",
+              "JP": "拠点で商品を1回取引する",
+              "KR": "임의의 거점에서 상품 1회 거래",
+              "MX": "Comercia con cualquier puesto de avanzada 1 vez",
+              "RU": "Совершите торговую сделку с аванпостом 1 раз",
+              "TC": "在任意據點進行1次貨品交易",
+              "TH": "ทำการค้า​กับ​ด่าน​หน้า​ใด​ก็ได้​ 1 ครั้ง",
+              "VN": "Giao dịch với tiền đồn bất kỳ 1 lần"
+            },
+            "jumpId": "jump_domain_settlement_tundra",
+            "rewardId": "reward_returnback_new_2_task_2",
+            "sortId": 2,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_2",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_14": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_14_completed"
+            ],
+            "desc": {
+              "BR": "Faça a infusão de 1 essência roxa ou de qualidade superior em 1 arma",
+              "CN": "为任意1把武器注入1个紫色及以上品质的基质",
+              "DE": "Durchtränke 1 Waffe mit 1 Essenz in lilafarbener oder besserer Qualität.",
+              "EN": "Infuse 1 purple or better quality essence into 1 weapon",
+              "FR": "Imprégner une arme d'une essence violette ou de qualité supérieure",
+              "ID": "Infusikan 1 esensi berkualitas ungu atau lebih bagus ke dalam 1 senjata",
+              "IT": "Infondi un'essenza viola o di qualità migliore in un'arma",
+              "JP": "任意の武器に紫品質以上の基質を1個注入する",
+              "KR": "임의의 무기 1개에 보라색 혹은 그 이상의 기질 1개 주입",
+              "MX": "Infunde 1 esencia de calidad morada o superior en 1 arma",
+              "RU": "Вложите в 1 оружие 1 эссенцию фиолетового качества или лучше",
+              "TC": "為任意1把武器注入1個紫色及以上品質的基質",
+              "TH": "หลอม​รวม​แก่นแท้​ คุณภาพ​สีม่วง​ขึ้นไป​ 1 ชิ้น​ลง​ใน​อาวุธ​ 1 ชิ้น",
+              "VN": "Dung hợp 1 tinh chất có phẩm chất Tím trở lên vào 1 vũ khí"
+            },
+            "jumpId": "jump_weapon",
+            "rewardId": "reward_returnback_new_2_task_14",
+            "sortId": 4,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_14",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_4": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_4_completed"
+            ],
+            "desc": {
+              "BR": "Coloque 1 Sonda de Mineração ou Bomba de Fluido",
+              "CN": "放置1个矿机或者水泵",
+              "DE": "Platziere 1 Abbauanlage oder Flüssigkeitspumpe.",
+              "EN": "Place 1 Mining Rig or Fluid Pump",
+              "FR": "Placer 1 plateforme d'extraction ou 1 pompe à fluide",
+              "ID": "Tempatkan 1 Rig Tambang atau Pompa Cairan",
+              "IT": "Posiziona 1 impianto di estrazione o pompa per liquidi",
+              "JP": "採鉱機または液体ポンプを1個設置する",
+              "KR": "채굴기 또는 양수기 1대 배치",
+              "MX": "Coloca 1 Plataforma de minería o una Bomba de fluido",
+              "RU": "Разместите 1 добывающую установку или гидронасос",
+              "TC": "擺放1個礦機或者水泵",
+              "TH": "วาง​ปั๊ม​ของเหลว​หรือ​แท่น​ขุด​เหมือง​ 1 เครื่อง",
+              "VN": "Đặt 1 Giàn Khai Thác hoặc Máy Bơm Chất Lỏng"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_2_task_4",
+            "sortId": 4,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_4",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_15": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_15_completed"
+            ],
+            "desc": {
+              "BR": "Gaste 500 Pontos de Sanidade",
+              "CN": "累计消耗500点理智",
+              "DE": "Verbrauche 500 Verstandspunkte.",
+              "EN": "Spend 500 Sanity Points",
+              "FR": "Dépenser 500 points de lucidité",
+              "ID": "Pakai 500 Poin Sanity",
+              "IT": "Spendi 500 punti Lucidità",
+              "JP": "理性を500消費する",
+              "KR": "이성 누적 500 포인트 소모",
+              "MX": "Gasta 500 puntos de Cordura",
+              "RU": "Потратьте 500 оч. рассудка",
+              "TC": "累計消耗500點理智",
+              "TH": "ใช้​ค่า​สติ​ 500 แต้ม",
+              "VN": "Dùng 500 Điểm Tỉnh Táo"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_2_task_15",
+            "sortId": 5,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_3",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_15",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_7": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_7_completed"
+            ],
+            "desc": {
+              "BR": "Derrote 5 inimigos",
+              "CN": "累计击败5个敌人",
+              "DE": "Besiege 5 Gegner.",
+              "EN": "Defeat 5 enemies",
+              "FR": "Éliminer 5 ennemis",
+              "ID": "Kalahkan 5 musuh",
+              "IT": "Sconfiggi 5 nemici",
+              "JP": "敵を計5体倒す",
+              "KR": "적을 누적 5명 처치",
+              "MX": "Derrota a 5 enemigos",
+              "RU": "Победите 5 врагов",
+              "TC": "累計擊敗5個敵人",
+              "TH": "กำจัด​ศัตรู​ 5 ตัว",
+              "VN": "Đánh bại 5 kẻ địch"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_2_task_7",
+            "sortId": 2,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_7",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_5": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_5_completed"
+            ],
+            "desc": {
+              "BR": "Compre mercadorias na Redistribuição do Estoque 10 vezes",
+              "CN": "于物资调度处累计购买10次物资",
+              "DE": "Kaufe 10-mal Güter bei der Vorratneuverteilung.",
+              "EN": "Purchase goods at Stock Redistribution 10 times",
+              "FR": "Réaliser 10 achats de fournitures au magasin de redistribution",
+              "ID": "Beli barang di Redistribusi Stok sebanyak 10 kali",
+              "IT": "Acquista merci alla ridistribuzione scorte 10 volte",
+              "JP": "商品取引で10回購入する",
+              "KR": "물자 관리에서 물자 누적 10회 구매",
+              "MX": "Compra mercancías en Redistribución de existencias 10 veces",
+              "RU": "Купите товары в системе перераспределения резервов 10 раз",
+              "TC": "於物資調度處累計購買10次物資",
+              "TH": "ซื้อ​เสบียง​สิ่งของ​ที่​ศูนย์​กระจาย​ของ​ 10 ครั้ง",
+              "VN": "Mua hàng tại Điều Phối Vật Tư 10 lần"
+            },
+            "jumpId": "jump_domain_shop_tundra",
+            "rewardId": "reward_returnback_new_2_task_5",
+            "sortId": 5,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_1",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_5",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_6": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_6_completed"
+            ],
+            "desc": {
+              "BR": "Conjure habilidades de batalha 5 vezes",
+              "CN": "累计施放5次战技",
+              "DE": "Wirke 5-mal Kampffertigkeiten.",
+              "EN": "Cast battle skills 5 times",
+              "FR": "Utiliser 5 fois une compétence de combat",
+              "ID": "Gunakan skill tarung sebanyak 5 kali",
+              "IT": "Usa le abilità di combattimento 5 volte",
+              "JP": "戦技を5回使用する",
+              "KR": "배틀 스킬 누적 5회 사용",
+              "MX": "Lanza habilidades de batalla 5 veces",
+              "RU": "Примените боевые навыки 5 раз",
+              "TC": "累計施放5次戰技",
+              "TH": "ใช้​ทักษะ​การต่อสู้​ 5 ครั้ง",
+              "VN": "Thi triển KN chiến đấu 5 lần"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_2_task_6",
+            "sortId": 1,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_6",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_8": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_8_completed"
+            ],
+            "desc": {
+              "BR": "Acione <#ba.physicalstatus>Status Físicos</>/<#ba.spellburst>Explosões de Artes</>/<#ba.spellstatus>Reações de Artes</> 5 vezes",
+              "CN": "累计触发5次<#ba.physicalstatus>物理异常</>/<#ba.spellburst>法术爆发</>/<#ba.spellstatus>法术异常</>效果",
+              "DE": "Löse 5-mal <#ba.physicalstatus>Physische Zustände</> / <#ba.spellburst>Technikexplosionen</> / <#ba.spellstatus>Technikreaktionen</> aus.",
+              "EN": "Trigger <#ba.physicalstatus>Physical Statuses</> / <#ba.spellburst>Arts Bursts</> / <#ba.spellstatus>Arts Reactions</> 5 times",
+              "FR": "Appliquer 5 fois un <#ba.physicalstatus>statut physique</> / une <#ba.spellburst>explosion des Arts</> / une <#ba.spellstatus>réaction aux Arts</>",
+              "ID": "Aktifkan <#ba.physicalstatus>Status Fisik</>/<#ba.spellburst>Arts Burst</>/<#ba.spellstatus>Arts Reaction</> sebanyak 5 kali",
+              "IT": "Attiva <#ba.physicalstatus>stati fisici</> / <#ba.spellburst>Esplosioni delle Arti</> / <#ba.spellstatus>Reazioni delle Arti</> 5 volte",
+              "JP": "<#ba.physicalstatus>物理異常</>/<#ba.spellburst>アーツ爆発</>/<#ba.spellstatus>アーツ異常</>効果を計5回発動させる",
+              "KR": "<#ba.physicalstatus>물리 이상</>/<#ba.spellburst>아츠 폭발</>/<#ba.spellstatus>아츠 이상</> 효과 누적 5회 발동",
+              "MX": "Activa <#ba.physicalstatus>Estados físicos</> / <#ba.spellburst>Ráfagas de artes</> / <#ba.spellstatus>Reacciones a artes</> 5 veces",
+              "RU": "Активируйте <#ba.physicalstatus>физические состояния</>, <#ba.spellburst>взрывы искусств</> или <#ba.spellstatus>реакции искусств</> 5 раз",
+              "TC": "累計觸發5次<#ba.physicalstatus>物理異常</>/<#ba.spellburst>法術爆發</>/<#ba.spellstatus>法術異常</>效果",
+              "TH": "กระตุ้น​ <#ba.physicalstatus>​สถานะ​กายภาพ​</> / <#ba.spellburst>​ระเบิด​พลัง​เวท​</> / <#ba.spellstatus>​ปฏิกิริยา​เวท​</> 5 ครั้ง",
+              "VN": "Kích hoạt <#ba.physicalstatus>Trạng Thái Vật Lý</> / <#ba.spellburst>Bùng Nổ Thuật Pháp</> / <#ba.spellstatus>Phản Ứng Thuật Pháp</> 5 lần"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_2_task_8",
+            "sortId": 3,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_8",
+            "unlockTimeId": ""
+          },
+          "activity_v1d4_01_returnback_new_2_task_9": {
+            "completeConditionId": [
+              "activity_v1d4_01_returnback_new_2_task_9_completed"
+            ],
+            "desc": {
+              "BR": "Cause um total de 200 mil de DNO",
+              "CN": "累计造成200,000点伤害",
+              "DE": "Füge Gegnern insgesamt 200k SDN zu.",
+              "EN": "Deal a total of 200K DMG",
+              "FR": "Infliger un total de 200 000 pts de DÉG",
+              "ID": "Timbulkan total DMG sebesar 200.000",
+              "IT": "Infliggi un totale di 200 mila danni",
+              "JP": "ダメージを計200,000与える",
+              "KR": "누적 200,000 포인트 피해 주기",
+              "MX": "Inflige un total de 200 mil de DAÑ",
+              "RU": "Нанесите 200 000 ед. УРН",
+              "TC": "累計造成200,000點傷害",
+              "TH": "ทำ​ DMG รวมทั้งหมด​ 200,000 หน่วย",
+              "VN": "Gây tổng cộng 200K ST"
+            },
+            "jumpId": "",
+            "rewardId": "reward_returnback_new_2_task_9",
+            "sortId": 4,
+            "taskGroupId": "activity_v1d4_01_returnback_new_2_taskgroup_2",
+            "taskId": "activity_v1d4_01_returnback_new_2_task_9",
+            "unlockTimeId": ""
+          }
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

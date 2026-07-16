@@ -1,0 +1,580 @@
+{
+  "tableName": "ActivityCharTrial",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 8
+  },
+  "entries": {
+    "added": {
+      "dung_lizhiyan_chartrial": {
+        "activityId": "activity_char_trial_v1d4_1",
+        "bgRolePath": "activity_icon_character_trial_lizhiyan",
+        "desc": {
+          "BR": "Arcane é uma conjuradora que causa DNO Natureza e tem <@ba.key>tipos de habilidades intercambiáveis</>. Quando seu <@ba.key>Conjunto Arcane: INT</> está ativo, ela pode conjurar combos de habilidades com mais frequência e causar DNO significativo. Quando seu <@ba.key>Conjunto Arcane: VON</> está ativo, ela pode usar seu combo de Habilidades para aplicar <@ba.key>Inflição de Artes</> de qualquer elemento. Este treinamento de combate servirá principalmente para apresentar as habilidades do seu <@ba.key>Conjunto Arcane: VON</>.",
+          "CN": "诀是一名能够切换<@ba.key>技能形态</>的自然属性术师干员。<@ba.key>阵诀·智</>形态下，她可以高频施放连携技，打出大量伤害。<@ba.key>阵诀·意</>形态下，她可以通过连携技施加任意<@ba.key>法术附着</>。本次作战演练主要介绍<@ba.key>阵诀·意</>形态。",
+          "DE": "Arkan ist eine Wirkerin, die Natur-SDN verursacht und <@ba.key>ihre Fertigkeitsarten wechseln kann</>. Ist ihr <@ba.key>Säulenreihen-Arkana: INT</> aktiv, kann sie ihre Kombofertigkeiten häufiger wirken und massiven SDN verursachen. Ist ihr <@ba.key>Säulenreihen-Arkana: WILLE</> aktiv, kann sie ihre Kombofertigkeit wirken, um Gegner mit <@ba.key>Technikkumulierungen</> jedes Elements zu belegen. Diese Kampfübung stellt hauptsächlich ihre Fertigkeiten von <@ba.key>Säulenreihen-Arkana: WILLE</> vor.",
+          "EN": "Arcane is a caster who deals Nature DMG and has <@ba.key>switchable skill types</>. When her <@ba.key>Array Arcana: INT</> is active, she can cast combo skills more frequently and deal massive DMG. When her <@ba.key>Array Arcana: WILL</> is active, she can use her combo skill to apply <@ba.key>Arts Infliction</> of any element. This combat drill will mainly introduce her <@ba.key>Array Arcana: WILL</> skills.",
+          "FR": "Arcane est une magicienne qui inflige des DÉG naturels et peut <@ba.key>modifier ses types de compétences</>. Lorsque <@ba.key>Arcane de matrice : INT</> est active, elle peut utiliser des compétences de combo plus souvent et infliger de lourds DÉG. Lorsque <@ba.key>Arcane de matrice : VOL</> est active, elle peut utiliser sa compétence de combo pour appliquer une <@ba.key>altération des Arts</> de n'importe quel élément. Cet exercice de combat présentera principalement ses compétences d'<@ba.key>Arcane de matrice : VOL</>.",
+          "ID": "Arcane adalah caster yang bisa menimbulkan Nature DMG dan punya <@ba.key>tipe skill yang bisa diubah</>. Saat <@ba.key>Array Arcana: INT</> miliknya aktif, dia bisa melancarkan skill kombo lebih sering dan menimbulkan DMG sangat besar. Saat <@ba.key>Array Arcana: WILL</> miliknya aktif, dia bisa menggunakan skill kombo untuk mengakibatkan <@ba.key>Arts Infliction</> dari elemen apa pun. Latihan pertarungan ini berfokus pada pengenalan skill <@ba.key>Array Arcana: WILL</> miliknya.",
+          "IT": "Arcana è un'artista che infligge danni da natura e dispone di tipi di <@ba.key>abilità intercambiabili</>. Quando <@ba.key>Schiera di Arcana: INT</> è attiva, può usare le abilità combo con maggiore frequenza e infliggere danni ingenti. Quando <@ba.key>Schiera di Arcana: VOL</> è attiva, può usare l'abilità combo per applicare <@ba.key>Afflizione da Arti</> di qualsiasi elemento. Questa esercitazione di combattimento introdurrà soprattutto le abilità <@ba.key>Schiera di Arcana: VOL</>.",
+          "JP": "オクギは<@ba.key>スキル形態</>を切り替えられる自然属性の術師オペレーターです。<@ba.key>陣訣・知</>では、連携技を高頻度で発動し、高いダメージを与えられます。<@ba.key>陣訣・意</>では、連携技によって任意の<@ba.key>アーツ付着</>を付与できます。今回の作戦訓練は<@ba.key>陣訣・意</>の紹介になります。",
+          "KR": "결은 <@ba.key>스킬 형태</>를 전환할 수 있는 자연 속성의 캐스터 오퍼레이터입니다. <@ba.key>진결 · 지혜</> 형태에서 높은 빈도로 연계 스킬을 사용하여 대량의 피해를 줄 수 있습니다. <@ba.key>진결 · 의지</> 형태에서 연계 스킬을 통해 임의의 <@ba.key>아츠 부착</>을 부여할 수 있습니다. 이번 작전 훈련에서는 주로 <@ba.key>진결 · 의지</> 형태를 소개합니다.",
+          "MX": "Arcane es una hechicera que inflige DAÑ por naturaleza y cuenta con <@ba.key>tipos de habilidad intercambiables</>. Cuando su <@ba.key>Arcano de matriz: INT</> está activo, puede lanzar habilidades de combo con mayor frecuencia e infligir DAÑ masivo. Cuando su <@ba.key>Arcano de matriz: VOL</> está activo, puede usar su habilidad de combo para aplicar <@ba.key>Imposición de artes</> de cualquier elemento. Este simulacro de combate presentará principalmente sus habilidades de <@ba.key>Arcano de matriz: VOL</>.",
+          "RU": "Премудрость — заклинатель, наносящий природный УРН и способный <@ba.key>менять типы своих навыков</>. Когда активна <@ba.key>Аркана построения: ИНТ</>, она может чаще применять комбонавыки и наносить огромный УРН. Когда активна <@ba.key>Аркана построения: ВОЛЯ</>, она может применить комбонавык, чтобы наложить <@ba.key>поражение искусствами</> любой стихии. В этих боевых учениях в основном будет представлена <@ba.key>Аркана построения: ВОЛЯ</>.",
+          "TC": "訣是一名能夠切換<@ba.key>技能形態</>的自然屬性術師幹員。<@ba.key>陣訣·智</>形態下，她可以高頻施放連攜技，打出大量傷害。<@ba.key>陣訣·意</>形態下，她可以透過連攜技施加任意<@ba.key>法術附著</>。本次作戰演練主要介紹<@ba.key>陣訣·意</>形態。",
+          "TH": "ปริศนา​เป็น​จอม​เวท​ที่​สร้าง​ DMG ธรรมชาติ​และ​มี​<@ba.key>​ประเภท​ทักษะ​ที่​สามารถ​สลับ​ได้​</> เมื่อ​<@ba.key>​แนว​เสา​เวท​: INT</>​ของ​เธอ​ทำงาน​ เธอ​จะ​สามารถ​ใช้​ทักษะ​คอม​โบ​ได้​บ่อย​ขึ้น​ และ​สร้าง​ DMG มหาศาล​ เมื่อ​ <@ba.key>​แนว​เสา​เวท​: WILL</> ของ​เธอ​ทำงาน​ เธอ​จะ​สามารถ​ใช้​ทักษะ​คอม​โบ​เพื่อม​อบ​<@ba.key>​การติ​ด​สถานะ​เวท​</>​ธาตุ​ใด​ก็ได้​ การฝึกซ้อม​การต่อสู้​ครั้งนี้​จะ​เน้น​แนะนำ​ทักษะ​<@ba.key>​แนว​เสา​เวท​: WILL</>​ของ​เธอ​เป็นหลัก",
+          "VN": "Arcane là một pháp sư có khả năng gây ST Tự Nhiên và <@ba.key>có thể chuyển đổi loại kỹ năng</>. Khi <@ba.key>Trận Huyền Thuật: TRÍ TUỆ</> đang kích hoạt, cô có thể tung KN liên hoàn thường xuyên hơn và gây lượng ST lớn. Khi <@ba.key>Trận Huyền Thuật: Ý CHÍ</> đang kích hoạt, cô có thể dùng KN liên hoàn để áp dụng <@ba.key>Nhiễm Thuật Pháp</> thuộc bất kỳ nguyên tố nào. Bài tập huấn luyện chiến đấu này chủ yếu sẽ giới thiệu các kỹ năng <@ba.key>Trận Huyền Thuật: Ý CHÍ</> của cô ấy."
+        },
+        "dungeonId": "dung_lizhiyan_chartrial",
+        "equipRewardId": "reward_activity_chartrial_lizhiyan_equip",
+        "jumpId": "jump_gacha_lt_1_4_1",
+        "rewardId": "reward_activity_dung_lizhiyan_chartrial",
+        "showRewardId": "reward_activity_chartrial_lizhiyan_overview",
+        "sortId": 1
+      }
+    },
+    "removed": {},
+    "changed": {
+      "dung_aglina_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_3",
+          "bgRolePath": "activity_icon_character_trial_jieerpeta",
+          "desc": {
+            "BR": "Gilberta é uma Apoiadora com habilidades de Artes e Físicas. Ela pode Levantar os inimigos rapidamente após acionar Reações de Artes. Uma vez conjurada, sua habilidade suprema também aplica Suscetibilidade a Artes a inimigos em uma grande área.",
+            "CN": "洁尔佩塔是兼具法术和物理能力的辅助干员。她可以在触发法术异常后快速造成击飞，并且施放终结技后可以对大范围内的敌人施加法术脆弱效果。",
+            "DE": "Gilberta unterstützt andere mit ihren Techniken und Physischen Fähigkeiten. Sie kann Gegner schnell Anheben, wenn Technikreaktionen ausgelöst werden. Ihre Ultimative Fertigkeit belegt Gegner in einem großen Bereich mit Technik-Empfänglichkeit.",
+            "EN": "Gilberta is a supporter with both Arts and Physical abilities. She can quickly Lift enemies after triggering Arts Reactions. Once cast, her ultimate also applies Arts Susceptibility to enemies within a large area.",
+            "FR": "Gilberta est une unité de soutien dotée à la fois des Arts et de capacités physiques. Elle peut rapidement soulever les ennemis après avoir déclenché des réactions aux Arts. Une fois lancé, son ultime applique aussi une sensibilité aux Arts aux ennemis dans une large zone.",
+            "ID": "Gilberta adalah supporter yang punya kemampuan Arts dan Physical. Dia bisa dengan cepat mengakibatkan Lift kepada musuh setelah mengaktifkan Arts Reaction. Setelah digunakan, ultimate-nya juga akan mengakibatkan Arts Susceptibility kepada musuh dalam area luas.",
+            "IT": "Gilberta fornisce supporto con abilità delle Arti e fisiche. Una volta attivata la Reazione delle Arti, può applicare rapidamente Sospensione ai nemici. Inoltre, la sua abilità suprema applica Suscettibilità alle Arti ai nemici in un'ampia area.",
+            "JP": "ギルベルタは、アーツと物理の両方を扱う補助オペレーターです。アーツ異常を発動させた際には素早く敵を打ち上げ、必殺技を発動すると、広い範囲の敵にアーツ脆弱効果を与えることが可能です。",
+            "KR": "질베르타는 아츠와 물리 능력을 겸비한 서포터 오퍼레이터입니다. 아츠 이상 효과를 부여한 다음 빠르게 띄우기 피해를 줄 수 있으며, 궁극기를 사용해 넓은 범위 내의 적에게 아츠 취약 효과를 부여할 수 있습니다.",
+            "MX": "Gilberta es una cooperadora con habilidades tanto de Artes como Físicas. Puede Levantar enemigos rápidamente después de activar Reacciones a artes. Una vez lanzada, su máxima también aplica Susceptibilidad a Artes a los enemigos en un área amplia.",
+            "RU": "Гилберта — оперативник поддержки, который использует искусства и физические умения. После активации реакции искусств она быстро подбрасывает врагов, а ее супернавык накладывает на врагов в большой области восприимчивость к искусствам.",
+            "TC": "潔爾佩塔是兼具法術和物理能力的輔助幹員。她可以在觸發法術異常後快速造成擊飛，並且施放終結技後可以對大範圍內的敵人施加法術脆弱效果。",
+            "TH": "กิล​เบอร์​ตา​เป็น​ผู้สนับสนุน​ที่​มี​ความสามารถ​ทั้ง​ทาง​ด้าน​เวท​และ​ด้าน​กายภาพ​ เธอ​สามารถ​ยก​ศัตรู​ได้​อย่างรวดเร็ว​หลังจาก​กระตุ้น​ปฏิกิริยา​เวท​ เมื่อ​ร่าย​แล้ว​ อัล​ติ​เมท​ของ​เธอ​ยัง​เพิ่ม​ความ​อ่อนไหว​ต่อ​การ​โจมตี​เวท​ให้​แก่​ศัตรู​ใน​บริเวณ​กว้าง​อีกด้วย",
+            "VN": "Gilberta là một trợ thủ sở hữu cả khả năng Thuật Pháp lẫn Vật Lý. Cô có thể nhanh chóng Hất Tung kẻ địch sau khi kích hoạt Phản Ứng Thuật Pháp. Khi tung Tuyệt Kỹ, Gilberta còn khiến kẻ địch trong phạm vi rộng phải chịu hiệu ứng Yếu Hóa Thuật Pháp."
+          },
+          "dungeonBgPath": "activity_bg_character_trial_jieerpeta",
+          "dungeonId": "dung_aglina_chartrial",
+          "jumpId": "jump_gacha_limit_3",
+          "rewardId": "reward_activity_dung_aglina_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_3",
+          "bgRolePath": "activity_icon_character_trial_jieerpeta",
+          "desc": {
+            "BR": "Gilberta é uma Apoiadora com habilidades de Artes e Físicas. Ela pode Levantar os inimigos rapidamente após acionar Reações de Artes. Uma vez conjurada, sua habilidade suprema também aplica Suscetibilidade a Artes a inimigos em uma grande área.",
+            "CN": "洁尔佩塔是兼具法术和物理能力的辅助干员。她可以在触发法术异常后快速造成击飞，并且施放终结技后可以对大范围内的敌人施加法术脆弱效果。",
+            "DE": "Gilberta unterstützt andere mit ihren Techniken und Physischen Fähigkeiten. Sie kann Gegner schnell Anheben, wenn Technikreaktionen ausgelöst werden. Ihre Ultimative Fertigkeit belegt Gegner in einem großen Bereich mit Technik-Empfänglichkeit.",
+            "EN": "Gilberta is a supporter with both Arts and Physical abilities. She can quickly Lift enemies after triggering Arts Reactions. Once cast, her ultimate also applies Arts Susceptibility to enemies within a large area.",
+            "FR": "Gilberta est une unité de soutien dotée à la fois des Arts et de capacités physiques. Elle peut rapidement soulever les ennemis après avoir déclenché des réactions aux Arts. Une fois lancé, son ultime applique aussi une sensibilité aux Arts aux ennemis dans une large zone.",
+            "ID": "Gilberta adalah supporter yang punya kemampuan Arts dan Physical. Dia bisa dengan cepat mengakibatkan Lift kepada musuh setelah mengaktifkan Arts Reaction. Setelah digunakan, ultimate-nya juga akan mengakibatkan Arts Susceptibility kepada musuh dalam area luas.",
+            "IT": "Gilberta fornisce supporto con abilità delle Arti e fisiche. Una volta attivata la Reazione delle Arti, può applicare rapidamente Sospensione ai nemici. Inoltre, la sua abilità suprema applica Suscettibilità alle Arti ai nemici in un'ampia area.",
+            "JP": "ギルベルタは、アーツと物理の両方を扱う補助オペレーターです。アーツ異常を発動させた際には素早く敵を打ち上げ、必殺技を発動すると、広い範囲の敵にアーツ脆弱効果を与えることが可能です。",
+            "KR": "질베르타는 아츠와 물리 능력을 겸비한 서포터 오퍼레이터입니다. 아츠 이상 효과를 부여한 다음 빠르게 띄우기 피해를 줄 수 있으며, 궁극기를 사용해 넓은 범위 내의 적에게 아츠 취약 효과를 부여할 수 있습니다.",
+            "MX": "Gilberta es una cooperadora con habilidades tanto de Artes como Físicas. Puede Levantar enemigos rápidamente después de activar Reacciones a artes. Una vez lanzada, su máxima también aplica Susceptibilidad a Artes a los enemigos en un área amplia.",
+            "RU": "Гилберта — оперативник поддержки, который использует искусства и физические умения. После активации реакции искусств она быстро подбрасывает врагов, а ее супернавык накладывает на врагов в большой области восприимчивость к искусствам.",
+            "TC": "潔爾佩塔是兼具法術和物理能力的輔助幹員。她可以在觸發法術異常後快速造成擊飛，並且施放終結技後可以對大範圍內的敵人施加法術脆弱效果。",
+            "TH": "กิล​เบอร์​ตา​เป็น​ผู้สนับสนุน​ที่​มี​ความสามารถ​ทั้ง​ทาง​ด้าน​เวท​และ​ด้าน​กายภาพ​ เธอ​สามารถ​ยก​ศัตรู​ได้​อย่างรวดเร็ว​หลังจาก​กระตุ้น​ปฏิกิริยา​เวท​ เมื่อ​ร่าย​แล้ว​ อัล​ติ​เมท​ของ​เธอ​ยัง​เพิ่ม​ความ​อ่อนไหว​ต่อ​การ​โจมตี​เวท​ให้​แก่​ศัตรู​ใน​บริเวณ​กว้าง​อีกด้วย",
+            "VN": "Gilberta là một trợ thủ sở hữu cả khả năng Thuật Pháp lẫn Vật Lý. Cô có thể nhanh chóng Hất Tung kẻ địch sau khi kích hoạt Phản Ứng Thuật Pháp. Khi tung Tuyệt Kỹ, Gilberta còn khiến kẻ địch trong phạm vi rộng phải chịu hiệu ứng Yếu Hóa Thuật Pháp."
+          },
+          "dungeonId": "dung_aglina_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_limit_3",
+          "rewardId": "reward_activity_dung_aglina_chartrial",
+          "showRewardId": "reward_activity_dung_aglina_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": "activity_bg_character_trial_jieerpeta"
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_aglina_chartrial"
+          }
+        }
+      },
+      "dung_camille_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_v1d3_2",
+          "bgRolePath": "activity_icon_character_trial_camille",
+          "desc": {
+            "BR": "Camille é um vanguarda do elemento Térmico. Ele pode invocar <@ba.key>Vesperferas Presas de Fogo</> para aplicar <@ba.fire>Inflição Térmica</>, <@ba.key>Enfraquecer</> e <@ba.fire>Suscetibilidade Térmica</> aos inimigos e usar seus combo de habilidades e habilidade suprema para restaurar uma grande quantidade de PH.",
+            "CN": "卡缪是一名灼热属性的先锋干员，他可以通过召唤<@ba.key>衔火血翼</>对敌人施加<@ba.fire>灼热附着</>、<@ba.key>虚弱</>和<@ba.fire>灼热脆弱</>，还能通过连携技和终结技恢复大量技力。",
+            "DE": "Camille ist eine Vorhut mit dem Element der Hitze. Er kann <@ba.key>Feuerzahn-Vesperflügel</> beschwören, um Gegner mit <@ba.fire>Hitze</>, <@ba.key>Schwächen</> und <@ba.fire>Hitze-Empfänglichkeit</> zu belegen. Mit seiner Kombofertigkeit und Ultimativen Fertigkeit kann er außerdem eine Menge FP wiederherstellen.",
+            "EN": "Camille is a Heat element vanguard. He can summon <@ba.key>Firefang Vesperwings</> to apply <@ba.fire>Heat Infliction</>, <@ba.key>Weaken</>, and <@ba.fire>Heat Susceptibility</> on enemies, and use his combo skill and ultimate to restore lots of SP.",
+            "FR": "Camille est un combattant d'avant-garde de l'élément thermique. Il peut invoquer <@ba.key>Ailes vespérales de feu</> pour appliquer une <@ba.fire>altération thermique</>, une <@ba.key>Faiblesse</> et une <@ba.fire>sensibilité thermique</> aux ennemis, et utiliser sa compétence de combo et son ultime pour restaurer une grande quantité de PC.",
+            "ID": "Camille adalah vanguard berelemen Heat. Dia bisa memanggil <@ba.key>Firefang Vesperwing</> untuk mengakibatkan <@ba.fire>Heat Infliction</>, <@ba.key>Weaken</>, dan <@ba.fire>Heat Susceptibility</> kepada musuh, serta menggunakan skill kombo dan ultimate-nya untuk memulihkan banyak SP.",
+            "IT": "Camille è un'avanguardia dell'elemento fuoco. Può evocare <@ba.key>vesprivoli zannafuoco</> per applicare <@ba.fire>Afflizione da fuoco</>, <@ba.key>Indebolimento</> e <@ba.fire>Suscettibilità al fuoco</> sui nemici e utilizza le sue abilità combo e suprema per ripristinare grandi quantità di PA.",
+            "JP": "カミーユは、灼熱属性の先鋒オペレーターです。<@ba.key>燃える血の翼</>を召喚することで、敵に<@ba.fire>灼熱付着</>、<@ba.key>弱体化</>、<@ba.fire>灼熱脆弱</>を付与できます。さらに連携技および必殺技で戦技ポイントを大量に回復することが可能です。",
+            "KR": "카뮤는 열기 속성의 뱅가드 오퍼레이터입니다. <@ba.key>타오르는 핏빛 날개</>를 소환해 적에게 <@ba.fire>열기 부착</>, <@ba.key>허약</>, <@ba.fire>열기 취약</>을 부여할 수 있으며, 연계 스킬과 궁극기를 통해 대량의 스킬 게이지를 회복할 수 있습니다.",
+            "MX": "Camille es un vanguardia del elemento Calor. Puede invocar <@ba.key>Vesperalas de colmillo ígneo</> para aplicar <@ba.fire>Imposición de calor</>, <@ba.key>Debilitar</> y <@ba.fire>Susceptibilidad al calor</> a los enemigos, y usar su habilidad de combo y máxima para restaurar una gran cantidad de PH.",
+            "RU": "Камиль — боец авангарда, наносящий тепловой урон. Он призывает <@ba.key>огнезубых крыланов</>, чтобы наложить на врагов <@ba.fire>поражение теплом</>, <@ba.key>слабость</> и <@ba.fire>восприимчивость к теплу</>. С помощью комбонавыка и супернавыка он восстанавливает большое количество ОН.",
+            "TC": "卡繆是一名灼熱屬性的先鋒幹員，他可以透過召喚<@ba.key>銜火血翼</>對敵人施加<@ba.fire>灼熱附著</>、<@ba.key>虛弱</>和<@ba.fire>灼熱脆弱</>，還能透過連攜技和終結技回復大量技力。",
+            "TH": "คา​มิลล์​คือ​แนวหน้า​ธาตุ​ความร้อน​ เขา​สามารถ​เรียก​ <@ba.key>​ไฟร์​แฟง​เวส​เปอร์​วิง​ก์​</> เพื่อ​ปรับ​ใช้​ <@ba.fire>​สร้าง​บาดแผล​จาก​ความร้อน​ </> <@ba.key>​อ่อนกำลัง​</> และ​ <@ba.fire>​อ่อนไหว​ต่อ​การ​โจมตี​ความร้อน​</> ต่อ​ศัตรู​ และ​ใช้​ทักษะ​คอม​โบ​และ​อัล​ติ​เมท​เพื่อ​ฟื้นฟู​ SP จำนวนมาก",
+            "VN": "Camille là Tiên Phong nguyên tố Nhiệt. Cậu có thể triệu hồi <@ba.key>Dơi Quái Lửa</> để gây <@ba.fire>Nhiễm Nhiệt</>, <@ba.key>Suy Yếu</> và <@ba.fire>Yếu Hóa Nhiệt</> lên kẻ địch, cũng như vận dụng KN liên hoàn và Tuyệt Kỹ để hồi nhiều Điểm Kỹ Năng."
+          },
+          "dungeonBgPath": "",
+          "dungeonId": "dung_camille_chartrial",
+          "jumpId": "jump_gacha_lt_1_3_2",
+          "rewardId": "reward_activity_dung_camille_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_v1d3_2",
+          "bgRolePath": "activity_icon_character_trial_camille",
+          "desc": {
+            "BR": "Camille é um vanguarda do elemento Térmico. Ele pode invocar <@ba.key>Vesperferas Presas de Fogo</> para aplicar <@ba.fire>Inflição Térmica</>, <@ba.key>Enfraquecer</> e <@ba.fire>Suscetibilidade Térmica</> aos inimigos e usar seus combo de habilidades e habilidade suprema para restaurar uma grande quantidade de PH.",
+            "CN": "卡缪是一名灼热属性的先锋干员，他可以通过召唤<@ba.key>衔火血翼</>对敌人施加<@ba.fire>灼热附着</>、<@ba.key>虚弱</>和<@ba.fire>灼热脆弱</>，还能通过连携技和终结技恢复大量技力。",
+            "DE": "Camille ist eine Vorhut mit dem Element der Hitze. Er kann <@ba.key>Feuerzahn-Vesperflügel</> beschwören, um Gegner mit <@ba.fire>Hitze</>, <@ba.key>Schwächen</> und <@ba.fire>Hitze-Empfänglichkeit</> zu belegen. Mit seiner Kombofertigkeit und Ultimativen Fertigkeit kann er außerdem eine Menge FP wiederherstellen.",
+            "EN": "Camille is a Heat element vanguard. He can summon <@ba.key>Firefang Vesperwings</> to apply <@ba.fire>Heat Infliction</>, <@ba.key>Weaken</>, and <@ba.fire>Heat Susceptibility</> on enemies, and use his combo skill and ultimate to restore lots of SP.",
+            "FR": "Camille est un combattant d'avant-garde de l'élément thermique. Il peut invoquer <@ba.key>Ailes vespérales de feu</> pour appliquer une <@ba.fire>altération thermique</>, une <@ba.key>Faiblesse</> et une <@ba.fire>sensibilité thermique</> aux ennemis, et utiliser sa compétence de combo et son ultime pour restaurer une grande quantité de PC.",
+            "ID": "Camille adalah vanguard berelemen Heat. Dia bisa memanggil <@ba.key>Firefang Vesperwing</> untuk mengakibatkan <@ba.fire>Heat Infliction</>, <@ba.key>Weaken</>, dan <@ba.fire>Heat Susceptibility</> kepada musuh, serta menggunakan skill kombo dan ultimate-nya untuk memulihkan banyak SP.",
+            "IT": "Camille è un'avanguardia dell'elemento fuoco. Può evocare <@ba.key>vesprivoli zannafuoco</> per applicare <@ba.fire>Afflizione da fuoco</>, <@ba.key>Indebolimento</> e <@ba.fire>Suscettibilità al fuoco</> sui nemici e utilizza le sue abilità combo e suprema per ripristinare grandi quantità di PA.",
+            "JP": "カミーユは、灼熱属性の先鋒オペレーターです。<@ba.key>燃える血の翼</>を召喚することで、敵に<@ba.fire>灼熱付着</>、<@ba.key>弱体化</>、<@ba.fire>灼熱脆弱</>を付与できます。さらに連携技および必殺技で戦技ポイントを大量に回復することが可能です。",
+            "KR": "카뮤는 열기 속성의 뱅가드 오퍼레이터입니다. <@ba.key>타오르는 핏빛 날개</>를 소환해 적에게 <@ba.fire>열기 부착</>, <@ba.key>허약</>, <@ba.fire>열기 취약</>을 부여할 수 있으며, 연계 스킬과 궁극기를 통해 대량의 스킬 게이지를 회복할 수 있습니다.",
+            "MX": "Camille es un vanguardia del elemento Calor. Puede invocar <@ba.key>Vesperalas de colmillo ígneo</> para aplicar <@ba.fire>Imposición de calor</>, <@ba.key>Debilitar</> y <@ba.fire>Susceptibilidad al calor</> a los enemigos, y usar su habilidad de combo y máxima para restaurar una gran cantidad de PH.",
+            "RU": "Камиль — боец авангарда, наносящий тепловой урон. Он призывает <@ba.key>огнезубых крыланов</>, чтобы наложить на врагов <@ba.fire>поражение теплом</>, <@ba.key>слабость</> и <@ba.fire>восприимчивость к теплу</>. С помощью комбонавыка и супернавыка он восстанавливает большое количество ОН.",
+            "TC": "卡繆是一名灼熱屬性的先鋒幹員，他可以透過召喚<@ba.key>銜火血翼</>對敵人施加<@ba.fire>灼熱附著</>、<@ba.key>虛弱</>和<@ba.fire>灼熱脆弱</>，還能透過連攜技和終結技回復大量技力。",
+            "TH": "คา​มิลล์​คือ​แนวหน้า​ธาตุ​ความร้อน​ เขา​สามารถ​เรียก​ <@ba.key>​ไฟร์​แฟง​เวส​เปอร์​วิง​ก์​</> เพื่อ​ปรับ​ใช้​ <@ba.fire>​สร้าง​บาดแผล​จาก​ความร้อน​ </> <@ba.key>​อ่อนกำลัง​</> และ​ <@ba.fire>​อ่อนไหว​ต่อ​การ​โจมตี​ความร้อน​</> ต่อ​ศัตรู​ และ​ใช้​ทักษะ​คอม​โบ​และ​อัล​ติ​เมท​เพื่อ​ฟื้นฟู​ SP จำนวนมาก",
+            "VN": "Camille là Tiên Phong nguyên tố Nhiệt. Cậu có thể triệu hồi <@ba.key>Dơi Quái Lửa</> để gây <@ba.fire>Nhiễm Nhiệt</>, <@ba.key>Suy Yếu</> và <@ba.fire>Yếu Hóa Nhiệt</> lên kẻ địch, cũng như vận dụng KN liên hoàn và Tuyệt Kỹ để hồi nhiều Điểm Kỹ Năng."
+          },
+          "dungeonId": "dung_camille_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_lt_1_3_2",
+          "rewardId": "reward_activity_dung_camille_chartrial",
+          "showRewardId": "reward_activity_dung_camille_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": ""
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_camille_chartrial"
+          }
+        }
+      },
+      "dung_laevat_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_1",
+          "bgRolePath": "activity_icon_character_trial_caiwanting",
+          "desc": {
+            "BR": "Laevatain é uma atacante com habilidades excepcionais de DNO em massa. Seus Golpes Finais podem absorver Inflições Térmicas de inimigos próximos para ativar poderosas habilidades de batalha e combos de habilidades. Ela também pode usar sua habilidade suprema para abrir caminho através de multidões de inimigos.",
+            "CN": "莱万汀是一名拥有强大群体输出能力的突击干员。她可以通过重击吸收附近敌人的灼热附着，触发强力战技和连携技，并使用终结技横扫大量敌人。",
+            "DE": "Laevatain ist eine Frontkämpferin mit hervorragenden SDN-Skills gegen Gegnergruppen. Ihr Abschlussangriff kann Hitze von Gegnern in der Nähe absorbieren und damit mächtige Kampf- und Kombofertigkeiten auslösen. Ihre Ultimative Fertigkeit erlaubt es ihr, sich einen Pfad durch ganze Gegnergruppen zu bahnen.",
+            "EN": "Laevatain is a striker with outstanding mass DMG skills. Her Final Strikes can absorb Heat Inflictions from nearby enemies to trigger powerful battle skills and combo skills. She can also use her ultimate to carve and burn her way through mobs of enemies.",
+            "FR": "Laevatain est une attaquante dotée de compétences infligeant de lourds DÉG. Ses Coups finaux peuvent absorber les altérations thermiques des ennemis à proximité afin de déclencher ses puissantes compétences de combat et de combo. Elle peut aussi utiliser son ultime pour se frayer un passage ardent dans les hordes ennemies.",
+            "ID": "Laevatain adalah striker yang punya skill DMG massal yang luar biasa. Final Strike-nya bisa menyerap Heat Infliction dari musuh di sekitar untuk mengaktifkan skill tarung dan skill kombo yang kuat. Dia juga bisa menggunakan ultimate-nya untuk menerobos dan membakar gerombolan musuh.",
+            "IT": "Laevatain è un ariete dalle capacità offensive straordinarie. I suoi colpi finali possono assorbire le Afflizioni da fuoco dai nemici vicini per attivare potenti abilità di combattimento e abilità combo. Inoltre, può usare la sua abilità suprema incendiaria per farsi strada fra orde di nemici.",
+            "JP": "レーヴァテインは、強力な範囲攻撃能力を持つ突撃オペレーターです。重攻撃によって周囲の敵の「灼熱付着」を吸収し、強力な戦技や連携技を発動できます。さらに、必殺技を使用することで大量の敵を一掃することが可能です。",
+            "KR": "레바테인은 폭발적인 범위 공격 능력을 갖춘 스트라이커 오퍼레이터입니다. 강력한 일격으로 주변 적의 열기 부착을 흡수해 폭발적인 배틀 스킬과 연계 스킬을 사용하며, 궁극기를 사용하면 다수의 적을 쓸어버릴 수도 있습니다.",
+            "MX": "Laevatain es una atacante con habilidades excepcionales de DAÑ masivo. Sus Golpes finales pueden absorber Imposiciones de calor de enemigos cercanos para activar poderosas habilidades de batalla y habilidades de combo. También puede usar su máxima para abrirse camino a través de grupos de enemigos, cortándolos y quemándolos.",
+            "RU": "Лэватейн — штурмовик с мощными навыками, наносящими массовый урон. Ее последний удар поглощает поражение теплом, наложенное на ближайших врагов, и позволяет активировать сильные боевые и комбонавыки. С помощью супернавыка Лэватейн прокладывает себе путь через толпы врагов, поджигая их.",
+            "TC": "萊萬汀是一名擁有強大群體輸出能力的突擊幹員。她可以透過重擊吸收附近敵人的灼熱附著，觸發強力戰技和連攜技，並使用終結技橫掃大量敵人。",
+            "TH": "ลาวา​เทน​เป็น​ผู้​โจมตี​ที่​มี​ทักษะ​การทำลายล้าง​ใน​วงกว้าง​ที่​ยอดเยี่ยม​ การ​โจมตี​พิฆาต​ของ​เธอ​สามารถ​ดูดซับ​การ​สร้าง​บาดแผล​จาก​ความร้อน​จาก​ศัตรู​ใกล้เคียง​ เพื่อ​กระตุ้น​ทักษะ​การต่อสู้​และ​ทักษะ​คอม​โบ​ที่​ทรงพลัง​ เธอ​ยัง​สามารถ​ใช้​อัล​ติ​เมท​ของ​เธอ​ใน​การฝ่าฟัน​และ​เผา​ทำลาย​กลุ่ม​ศัตรู​ได้​อีกด้วย",
+            "VN": "Laevatain là một Đấu Sĩ sở hữu kỹ năng gây ST Diện Rộng vượt trội. Đòn Dứt Điểm của cô có thể hấp thụ Nhiễm Nhiệt từ kẻ địch xung quanh để kích hoạt KN chiến đấu và chuỗi KN liên hoàn mạnh mẽ. Cô cũng có thể sử dụng Tuyệt Kỹ để xé toạc và thiêu đốt từng nhóm kẻ thù trên đường đi."
+          },
+          "dungeonBgPath": "activity_bg_character_trial_caiwanting",
+          "dungeonId": "dung_laevat_chartrial",
+          "jumpId": "jump_gacha_limit_1",
+          "rewardId": "reward_activity_dung_laevat_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_1",
+          "bgRolePath": "activity_icon_character_trial_caiwanting",
+          "desc": {
+            "BR": "Laevatain é uma atacante com habilidades excepcionais de DNO em massa. Seus Golpes Finais podem absorver Inflições Térmicas de inimigos próximos para ativar poderosas habilidades de batalha e combos de habilidades. Ela também pode usar sua habilidade suprema para abrir caminho através de multidões de inimigos.",
+            "CN": "莱万汀是一名拥有强大群体输出能力的突击干员。她可以通过重击吸收附近敌人的灼热附着，触发强力战技和连携技，并使用终结技横扫大量敌人。",
+            "DE": "Laevatain ist eine Frontkämpferin mit hervorragenden SDN-Skills gegen Gegnergruppen. Ihr Abschlussangriff kann Hitze von Gegnern in der Nähe absorbieren und damit mächtige Kampf- und Kombofertigkeiten auslösen. Ihre Ultimative Fertigkeit erlaubt es ihr, sich einen Pfad durch ganze Gegnergruppen zu bahnen.",
+            "EN": "Laevatain is a striker with outstanding mass DMG skills. Her Final Strikes can absorb Heat Inflictions from nearby enemies to trigger powerful battle skills and combo skills. She can also use her ultimate to carve and burn her way through mobs of enemies.",
+            "FR": "Laevatain est une attaquante dotée de compétences infligeant de lourds DÉG. Ses Coups finaux peuvent absorber les altérations thermiques des ennemis à proximité afin de déclencher ses puissantes compétences de combat et de combo. Elle peut aussi utiliser son ultime pour se frayer un passage ardent dans les hordes ennemies.",
+            "ID": "Laevatain adalah striker yang punya skill DMG massal yang luar biasa. Final Strike-nya bisa menyerap Heat Infliction dari musuh di sekitar untuk mengaktifkan skill tarung dan skill kombo yang kuat. Dia juga bisa menggunakan ultimate-nya untuk menerobos dan membakar gerombolan musuh.",
+            "IT": "Laevatain è un ariete dalle capacità offensive straordinarie. I suoi colpi finali possono assorbire le Afflizioni da fuoco dai nemici vicini per attivare potenti abilità di combattimento e abilità combo. Inoltre, può usare la sua abilità suprema incendiaria per farsi strada fra orde di nemici.",
+            "JP": "レーヴァテインは、強力な範囲攻撃能力を持つ突撃オペレーターです。重攻撃によって周囲の敵の「灼熱付着」を吸収し、強力な戦技や連携技を発動できます。さらに、必殺技を使用することで大量の敵を一掃することが可能です。",
+            "KR": "레바테인은 폭발적인 범위 공격 능력을 갖춘 스트라이커 오퍼레이터입니다. 강력한 일격으로 주변 적의 열기 부착을 흡수해 폭발적인 배틀 스킬과 연계 스킬을 사용하며, 궁극기를 사용하면 다수의 적을 쓸어버릴 수도 있습니다.",
+            "MX": "Laevatain es una atacante con habilidades excepcionales de DAÑ masivo. Sus Golpes finales pueden absorber Imposiciones de calor de enemigos cercanos para activar poderosas habilidades de batalla y habilidades de combo. También puede usar su máxima para abrirse camino a través de grupos de enemigos, cortándolos y quemándolos.",
+            "RU": "Лэватейн — штурмовик с мощными навыками, наносящими массовый урон. Ее последний удар поглощает поражение теплом, наложенное на ближайших врагов, и позволяет активировать сильные боевые и комбонавыки. С помощью супернавыка Лэватейн прокладывает себе путь через толпы врагов, поджигая их.",
+            "TC": "萊萬汀是一名擁有強大群體輸出能力的突擊幹員。她可以透過重擊吸收附近敵人的灼熱附著，觸發強力戰技和連攜技，並使用終結技橫掃大量敵人。",
+            "TH": "ลาวา​เทน​เป็น​ผู้​โจมตี​ที่​มี​ทักษะ​การทำลายล้าง​ใน​วงกว้าง​ที่​ยอดเยี่ยม​ การ​โจมตี​พิฆาต​ของ​เธอ​สามารถ​ดูดซับ​การ​สร้าง​บาดแผล​จาก​ความร้อน​จาก​ศัตรู​ใกล้เคียง​ เพื่อ​กระตุ้น​ทักษะ​การต่อสู้​และ​ทักษะ​คอม​โบ​ที่​ทรงพลัง​ เธอ​ยัง​สามารถ​ใช้​อัล​ติ​เมท​ของ​เธอ​ใน​การฝ่าฟัน​และ​เผา​ทำลาย​กลุ่ม​ศัตรู​ได้​อีกด้วย",
+            "VN": "Laevatain là một Đấu Sĩ sở hữu kỹ năng gây ST Diện Rộng vượt trội. Đòn Dứt Điểm của cô có thể hấp thụ Nhiễm Nhiệt từ kẻ địch xung quanh để kích hoạt KN chiến đấu và chuỗi KN liên hoàn mạnh mẽ. Cô cũng có thể sử dụng Tuyệt Kỹ để xé toạc và thiêu đốt từng nhóm kẻ thù trên đường đi."
+          },
+          "dungeonId": "dung_laevat_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_limit_1",
+          "rewardId": "reward_activity_dung_laevat_chartrial",
+          "showRewardId": "reward_activity_dung_laevat_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": "activity_bg_character_trial_caiwanting"
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_laevat_chartrial"
+          }
+        }
+      },
+      "dung_mifu_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_v1d3_1",
+          "bgRolePath": "activity_icon_character_trial_mifu",
+          "desc": {
+            "BR": "Mi Fu é uma guarda Física capaz de aplicar <@ba.phy>Suscetibilidade Física</> e <@ba.phy>Esmagar</> para causar uma boa quantidade de DNO. Se sua ação de <@ba.phy>Esmagar</> consumir acúmulos de <@ba.phy>Vulnerabilidade</> suficientes, ela poderá conjurar sua habilidade de batalha novamente para causar um acerto adicional com DNO significativo.",
+            "CN": "弭弗是一名物理属性的近卫干员。她可以对目标施加<@ba.phy>物理脆弱</>并造成<@ba.phy>猛击</>，打出不俗的伤害。如果<@ba.phy>猛击</>消耗了足够的<@ba.phy>破防</>层数，她还可以再次发动战技追加高额伤害。",
+            "DE": "Mi Fu ist eine auf physische Fertigkeiten spezialisierte Wächterin, die Gegner mit <@ba.phy>Physisch-Empfänglichkeit</> und <@ba.phy>Zertrümmern</> belegen kann, um ordentlich SDN auszuteilen. Verbraucht ihr <@ba.phy>Zertrümmern</> ausreichend <@ba.phy>Anfälligkeit</>-Kumulierungen, kann sie ihre Kampffertigkeit erneut wirken und mit einem zusätzlichen Treffer massiven SDN erzielen.",
+            "EN": "Mi Fu is a Physical guard who can apply <@ba.phy>Physical Susceptibility</> and <@ba.phy>Crush</> to achieve a good DMG output. If her <@ba.phy>Crush</> consumes enough <@ba.phy>Vulnerability</> stacks, she can cast her battle skill again to deal an additional hit of massive DMG.",
+            "FR": "Mi Fu est une garde physique capable d'appliquer une <@ba.phy>sensibilité physique</> et un <@ba.phy>Broyage</> à la cible pour un bon rendement de DÉG. Si le <@ba.phy>Broyage</> consomme assez de cumuls de <@ba.phy>Vulnérabilité</>, elle peut à nouveau lancer sa compétence de combat pour infliger de lourds DÉG une fois supplémentaire.",
+            "ID": "Mi Fu adalah guard Physical yang bisa mengakibatkan <@ba.phy>Physical Susceptibility</> dan <@ba.phy>Crush</> untuk menghasilkan output DMG yang besar. Jika <@ba.phy>Crush</> darinya memakai cukup banyak tumpukan <@ba.phy>Vulnerability</>, dia bisa melancarkan skill tarungnya lagi untuk menimbulkan hantaman DMG yang sangat besar lagi.",
+            "IT": "Mi Fu è una guardia fisica che può applicare <@ba.phy>Suscettibilità fisica</> e <@ba.phy>Distruzione</> al bersaglio, infliggendo così danni ingenti. Se <@ba.phy>Distruzione</> consuma sufficienti accumuli di <@ba.phy>Vulnerabilità</>, Mi Fu può usare di nuovo la sua abilità di combattimento per mettere a segno un ulteriore colpo che infligge enormi danni.",
+            "JP": "ミ・フは、物理属性の前衛オペレーターです。目標に<@ba.phy>物理脆弱</>を付与し、<@ba.phy>猛撃</>を与えることで、高いダメージを与えられます。<@ba.phy>猛撃</>で十分な<@ba.phy>クラッシュ</>段階を消費した場合、再度戦技を発動して高い追加ダメージを与えることが可能です。",
+            "KR": "미브는 물리 속성의 가드 오퍼레이터입니다. 적에게 <@ba.phy>물리 취약</>을 부여하고 <@ba.phy>강타</> 피해로 엄청난 타격을 줄 수 있습니다. <@ba.phy>강타</> 피해로 충분한 <@ba.phy>방어 불능</> 스택 수치를 소모하면, 배틀 스킬을 다시 사용해 추가로 큰 피해를 줄 수 있습니다.",
+            "MX": "Mi Fu es una guardia Física que puede aplicar <@ba.phy>Susceptibilidad física</> y <@ba.phy>Triturar</> para alcanzar una buena producción de DAÑ. Si <@ba.phy>Triturar</> consume suficientes acumulaciones de <@ba.phy>Vulnerabilidad</>, puede volver a lanzar su habilidad de batalla para infligir un golpe adicional de DAÑ masivo.",
+            "RU": "Ми Фу — страж, наносящий физический урон. Чтобы сильнее поразить врага, она накладывает <@ba.phy>физическую восприимчивость</> и <@ba.phy>разгром</>. Если <@ba.phy>разгром</> поглощает достаточно зарядов <@ba.phy>уязвимости</>, Ми Фу может повторно применить боевой навык и нанести огромный УРН дополнительным ударом.",
+            "TC": "弭弗是一名物理屬性的近衛幹員。她可以對目標施加<@ba.phy>物理脆弱</>並造成<@ba.phy>猛擊</>，打出不俗的傷害。如果<@ba.phy>猛擊</>消耗了足夠的<@ba.phy>破防</>層數，她還可以再次發動戰技追加高額傷害。",
+            "TH": "หมี่​ฟู่​คือ​ผู้คุ้มกัน​กายภาพ​ที่​สามารถ​ปรับ​ใช้​ <@ba.phy>​ความ​อ่อนไหว​ต่อ​การ​โจมตี​ทางกายภาพ​</> และ​ <@ba.phy>​บดขยี้​</> เพื่อให้​ได้ผล​ลัพธ์​ DMG ที่​ดี​ หาก​ <@ba.phy>​บดขยี้​</> ของ​เธอ​สะสม​ <@ba.phy>​ความ​เปราะบาง​</> ได้​เพียงพอ​ เธอ​สามารถ​ใช้​ทักษะ​การต่อสู้​ซ้ำ​อีกครั้ง​เพื่อ​โจมตี​เพิ่มเติม​ด้วย​ความเสียหาย​มหาศาล",
+            "VN": "Mi Fu là Vệ Binh hệ Vật Lý có năng lực gây <@ba.phy>Yếu Hóa Vật Lý</> lên mục tiêu, sau đó <@ba.phy>Nghiền</> để gây ST hiệu quả. Nếu hiệu ứng <@ba.phy>Nghiền</> tiêu hao đủ số điểm cộng dồn <@ba.phy>Trừ Giáp</>, cô có thể thi triển tiếp KN chiến đấu để bồi thêm một đòn gây ST lớn."
+          },
+          "dungeonBgPath": "",
+          "dungeonId": "dung_mifu_chartrial",
+          "jumpId": "jump_gacha_lt_1_3_1",
+          "rewardId": "reward_activity_dung_mifu_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_v1d3_1",
+          "bgRolePath": "activity_icon_character_trial_mifu",
+          "desc": {
+            "BR": "Mi Fu é uma guarda Física capaz de aplicar <@ba.phy>Suscetibilidade Física</> e <@ba.phy>Esmagar</> para causar uma boa quantidade de DNO. Se sua ação de <@ba.phy>Esmagar</> consumir acúmulos de <@ba.phy>Vulnerabilidade</> suficientes, ela poderá conjurar sua habilidade de batalha novamente para causar um acerto adicional com DNO significativo.",
+            "CN": "弭弗是一名物理属性的近卫干员。她可以对目标施加<@ba.phy>物理脆弱</>并造成<@ba.phy>猛击</>，打出不俗的伤害。如果<@ba.phy>猛击</>消耗了足够的<@ba.phy>破防</>层数，她还可以再次发动战技追加高额伤害。",
+            "DE": "Mi Fu ist eine auf physische Fertigkeiten spezialisierte Wächterin, die Gegner mit <@ba.phy>Physisch-Empfänglichkeit</> und <@ba.phy>Zertrümmern</> belegen kann, um ordentlich SDN auszuteilen. Verbraucht ihr <@ba.phy>Zertrümmern</> ausreichend <@ba.phy>Anfälligkeit</>-Kumulierungen, kann sie ihre Kampffertigkeit erneut wirken und mit einem zusätzlichen Treffer massiven SDN erzielen.",
+            "EN": "Mi Fu is a Physical guard who can apply <@ba.phy>Physical Susceptibility</> and <@ba.phy>Crush</> to achieve a good DMG output. If her <@ba.phy>Crush</> consumes enough <@ba.phy>Vulnerability</> stacks, she can cast her battle skill again to deal an additional hit of massive DMG.",
+            "FR": "Mi Fu est une garde physique capable d'appliquer une <@ba.phy>sensibilité physique</> et un <@ba.phy>Broyage</> à la cible pour un bon rendement de DÉG. Si le <@ba.phy>Broyage</> consomme assez de cumuls de <@ba.phy>Vulnérabilité</>, elle peut à nouveau lancer sa compétence de combat pour infliger de lourds DÉG une fois supplémentaire.",
+            "ID": "Mi Fu adalah guard Physical yang bisa mengakibatkan <@ba.phy>Physical Susceptibility</> dan <@ba.phy>Crush</> untuk menghasilkan output DMG yang besar. Jika <@ba.phy>Crush</> darinya memakai cukup banyak tumpukan <@ba.phy>Vulnerability</>, dia bisa melancarkan skill tarungnya lagi untuk menimbulkan hantaman DMG yang sangat besar lagi.",
+            "IT": "Mi Fu è una guardia fisica che può applicare <@ba.phy>Suscettibilità fisica</> e <@ba.phy>Distruzione</> al bersaglio, infliggendo così danni ingenti. Se <@ba.phy>Distruzione</> consuma sufficienti accumuli di <@ba.phy>Vulnerabilità</>, Mi Fu può usare di nuovo la sua abilità di combattimento per mettere a segno un ulteriore colpo che infligge enormi danni.",
+            "JP": "ミ・フは、物理属性の前衛オペレーターです。目標に<@ba.phy>物理脆弱</>を付与し、<@ba.phy>猛撃</>を与えることで、高いダメージを与えられます。<@ba.phy>猛撃</>で十分な<@ba.phy>クラッシュ</>段階を消費した場合、再度戦技を発動して高い追加ダメージを与えることが可能です。",
+            "KR": "미브는 물리 속성의 가드 오퍼레이터입니다. 적에게 <@ba.phy>물리 취약</>을 부여하고 <@ba.phy>강타</> 피해로 엄청난 타격을 줄 수 있습니다. <@ba.phy>강타</> 피해로 충분한 <@ba.phy>방어 불능</> 스택 수치를 소모하면, 배틀 스킬을 다시 사용해 추가로 큰 피해를 줄 수 있습니다.",
+            "MX": "Mi Fu es una guardia Física que puede aplicar <@ba.phy>Susceptibilidad física</> y <@ba.phy>Triturar</> para alcanzar una buena producción de DAÑ. Si <@ba.phy>Triturar</> consume suficientes acumulaciones de <@ba.phy>Vulnerabilidad</>, puede volver a lanzar su habilidad de batalla para infligir un golpe adicional de DAÑ masivo.",
+            "RU": "Ми Фу — страж, наносящий физический урон. Чтобы сильнее поразить врага, она накладывает <@ba.phy>физическую восприимчивость</> и <@ba.phy>разгром</>. Если <@ba.phy>разгром</> поглощает достаточно зарядов <@ba.phy>уязвимости</>, Ми Фу может повторно применить боевой навык и нанести огромный УРН дополнительным ударом.",
+            "TC": "弭弗是一名物理屬性的近衛幹員。她可以對目標施加<@ba.phy>物理脆弱</>並造成<@ba.phy>猛擊</>，打出不俗的傷害。如果<@ba.phy>猛擊</>消耗了足夠的<@ba.phy>破防</>層數，她還可以再次發動戰技追加高額傷害。",
+            "TH": "หมี่​ฟู่​คือ​ผู้คุ้มกัน​กายภาพ​ที่​สามารถ​ปรับ​ใช้​ <@ba.phy>​ความ​อ่อนไหว​ต่อ​การ​โจมตี​ทางกายภาพ​</> และ​ <@ba.phy>​บดขยี้​</> เพื่อให้​ได้ผล​ลัพธ์​ DMG ที่​ดี​ หาก​ <@ba.phy>​บดขยี้​</> ของ​เธอ​สะสม​ <@ba.phy>​ความ​เปราะบาง​</> ได้​เพียงพอ​ เธอ​สามารถ​ใช้​ทักษะ​การต่อสู้​ซ้ำ​อีกครั้ง​เพื่อ​โจมตี​เพิ่มเติม​ด้วย​ความเสียหาย​มหาศาล",
+            "VN": "Mi Fu là Vệ Binh hệ Vật Lý có năng lực gây <@ba.phy>Yếu Hóa Vật Lý</> lên mục tiêu, sau đó <@ba.phy>Nghiền</> để gây ST hiệu quả. Nếu hiệu ứng <@ba.phy>Nghiền</> tiêu hao đủ số điểm cộng dồn <@ba.phy>Trừ Giáp</>, cô có thể thi triển tiếp KN chiến đấu để bồi thêm một đòn gây ST lớn."
+          },
+          "dungeonId": "dung_mifu_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_lt_1_3_1",
+          "rewardId": "reward_activity_dung_mifu_chartrial",
+          "showRewardId": "reward_activity_dung_mifu_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": ""
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_mifu_chartrial"
+          }
+        }
+      },
+      "dung_tangtang_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_v1d1_1",
+          "bgRolePath": "activity_icon_character_trial_tangtang",
+          "desc": {
+            "BR": "Tangtang é uma conjuradora que pode efetivamente causar DNO a multidões de inimigos e aplicar benefícios de Artes. Ela pode criar <@ba.key>Redemoinhos</> e lançar <@ba.key>Trombas d'Água</> para aplicar <@ba.cryst>Inflição Crio</>. Sua habilidade suprema também pode bloquear temporariamente os inimigos.",
+            "CN": "汤汤是一名兼具群体输出与法术增益效果的术师干员。她可以通过自身创造的<@ba.key>涡流</>来掀起<@ba.key>水龙卷</>施加<@ba.cryst>寒冷附着</>，还能使用终结技封锁敌人。",
+            "DE": "Tangtang ist eine Wirkerin, die Gegnergruppen effektiv SDN zufügen und Technik-Buffs gewähren kann. Sie erschafft <@ba.key>Strudel</> und lässt aus diesen <@ba.key>Wasserhosen</> entstehen, um Gegner mit <@ba.cryst>Kryo</> zu belegen. Ihre Ultimative Fertigkeit kann Gegner außerdem vorübergehend festsetzen.",
+            "EN": "Tangtang is a caster who can effectively deal DMG to enemy mobs and apply Arts buffs. She can create <@ba.key>Whirlpools</> and whip up <@ba.key>Waterspouts</> from them to apply <@ba.cryst>Cryo Infliction</>. Her ultimate can also temporarily lock down enemies.",
+            "FR": "Tangtang est une magicienne douée pour infliger des DÉG aux foules ennemies et pour appliquer des bonus des Arts. Elle peut créer des <@ba.key>tourbillons</> et en faire sortir des <@ba.key>trombes</> pour appliquer une <@ba.cryst>altération cryogénique</>. Son ultime peut également verrouiller temporairement les ennemis.",
+            "ID": "Tangtang adalah caster yang bisa menimbulkan DMG secara efektif kepada gerombolan musuh dan mengakibatkan buff Arts. Dia bisa membuat <@ba.key>Pusaran Air</> dan memunculkan <@ba.key>Topan Air</> darinya untuk mengakibatkan <@ba.cryst>Cryo Infliction</>. Ultimate-nya juga bisa mengunci musuh untuk sementara.",
+            "IT": "Tangtang è un'artista in grado di infliggere danni significativi ai gruppi di nemici e applicare potenziamenti da Arti. È in grado di creare <@ba.key>vortici</> e generare <@ba.key>trombe d'acqua</> da essi in modo da applicare <@ba.cryst>Afflizione da ghiaccio</>. Inoltre, la sua abilità suprema può immobilizzare temporaneamente i nemici.",
+            "JP": "タンタンは、範囲攻撃とアーツ強化効果を兼ね備えた術師オペレーターです。自ら作り出した<@ba.key>湍水</>によって<@ba.key>水竜巻</>を巻き起こし、<@ba.cryst>寒冷付着</>を付与できます。さらに、必殺技で敵を封鎖することが可能です。",
+            "KR": "탕탕은 범위 공격 능력과 아츠 버프 효과를 줄 수 있는 캐스터 오퍼레이터입니다. 탕탕은 자기가 생성한 <@ba.key>와류</>로 <@ba.key>용오름</>을 만들어 <@ba.cryst>냉기 부착</>을 부여할 수 있으며, 궁극기를 사용해 적의 행동을 멈출 수 있습니다.",
+            "MX": "Tangtang es una Hechicera que puede infligir DAÑ de forma efectiva a las hordas enemigas y aplicar incrementos de Artes. Puede crear <@ba.key>Remolinos</> y lanzar <@ba.key>Trombas marinas</> que infligen <@ba.cryst>Imposición criogénica</>. Su máxima también puede bloquear a enemigos temporalmente.",
+            "RU": "Тантан — заклинатель, эффективно наносящий УРН врагам и накладывающий усиления от искусств. Она создает <@ba.key>воронки</>, которые превращаются в <@ba.key>водовороты</> и накладывают <@ba.cryst>криогенное поражение</>. Ее супернавык временно сковывает врагов.",
+            "TC": "湯湯是一名兼具群體輸出與法術增益效果的術師幹員。她可以透過自身創造的<@ba.key>渦流</>來掀起<@ba.key>水龍捲</>施加<@ba.cryst>寒冷附著</>，還能使用終結技封鎖敵人。",
+            "TH": "ถัง​ถัง​เป็น​จอม​เวท​ที่​สามารถ​สร้าง​ DMG ให้​กับ​กลุ่ม​ศัตรู​ได้​อย่างมีประสิทธิภาพ​และ​มอบ​บัฟ​เวท​ให้​กับ​ทีม​ เธอ​สามารถ​สร้าง​ <@ba.key>​วังวน​น้ำ​</> และ​เรียก​ <@ba.key>​พายุหมุน​น้ำ​</> ขึ้น​มา​เพื่อ​ทำให้​ศัตรู​ติด​สถานะ​ <@ba.cryst>​บาดแผล​จาก​ไค​ร​โอ​</> ทักษะ​อัล​ติ​เมท​ของ​เธอ​ยัง​สามารถ​ทำให้​ศัตรู​ขยับตัว​ไม่ได้​ชั่วคราว​ได้​อีกด้วย",
+            "VN": "Tangtang là pháp sư có khả năng gây ST hiệu quả lên quái địch và buff cho Thuật Pháp. Cô có thể tạo <@ba.key>Xoáy Nước</>, sau đó kích hoạt <@ba.key>Lốc Nước</> để gây <@ba.cryst>Nhiễm Băng</>. Tuyệt kỹ của cô cũng có thể khiến kẻ địch tạm thời bị khóa chặt."
+          },
+          "dungeonBgPath": "activity_bg_character_trial_tangtang",
+          "dungeonId": "dung_tangtang_chartrial",
+          "jumpId": "jump_gacha_lt_1_1_1",
+          "rewardId": "reward_activity_dung_tangtang_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_v1d1_1",
+          "bgRolePath": "activity_icon_character_trial_tangtang",
+          "desc": {
+            "BR": "Tangtang é uma conjuradora que pode efetivamente causar DNO a multidões de inimigos e aplicar benefícios de Artes. Ela pode criar <@ba.key>Redemoinhos</> e lançar <@ba.key>Trombas d'Água</> para aplicar <@ba.cryst>Inflição Crio</>. Sua habilidade suprema também pode bloquear temporariamente os inimigos.",
+            "CN": "汤汤是一名兼具群体输出与法术增益效果的术师干员。她可以通过自身创造的<@ba.key>涡流</>来掀起<@ba.key>水龙卷</>施加<@ba.cryst>寒冷附着</>，还能使用终结技封锁敌人。",
+            "DE": "Tangtang ist eine Wirkerin, die Gegnergruppen effektiv SDN zufügen und Technik-Buffs gewähren kann. Sie erschafft <@ba.key>Strudel</> und lässt aus diesen <@ba.key>Wasserhosen</> entstehen, um Gegner mit <@ba.cryst>Kryo</> zu belegen. Ihre Ultimative Fertigkeit kann Gegner außerdem vorübergehend festsetzen.",
+            "EN": "Tangtang is a caster who can effectively deal DMG to enemy mobs and apply Arts buffs. She can create <@ba.key>Whirlpools</> and whip up <@ba.key>Waterspouts</> from them to apply <@ba.cryst>Cryo Infliction</>. Her ultimate can also temporarily lock down enemies.",
+            "FR": "Tangtang est une magicienne douée pour infliger des DÉG aux foules ennemies et pour appliquer des bonus des Arts. Elle peut créer des <@ba.key>tourbillons</> et en faire sortir des <@ba.key>trombes</> pour appliquer une <@ba.cryst>altération cryogénique</>. Son ultime peut également verrouiller temporairement les ennemis.",
+            "ID": "Tangtang adalah caster yang bisa menimbulkan DMG secara efektif kepada gerombolan musuh dan mengakibatkan buff Arts. Dia bisa membuat <@ba.key>Pusaran Air</> dan memunculkan <@ba.key>Topan Air</> darinya untuk mengakibatkan <@ba.cryst>Cryo Infliction</>. Ultimate-nya juga bisa mengunci musuh untuk sementara.",
+            "IT": "Tangtang è un'artista in grado di infliggere danni significativi ai gruppi di nemici e applicare potenziamenti da Arti. È in grado di creare <@ba.key>vortici</> e generare <@ba.key>trombe d'acqua</> da essi in modo da applicare <@ba.cryst>Afflizione da ghiaccio</>. Inoltre, la sua abilità suprema può immobilizzare temporaneamente i nemici.",
+            "JP": "タンタンは、範囲攻撃とアーツ強化効果を兼ね備えた術師オペレーターです。自ら作り出した<@ba.key>湍水</>によって<@ba.key>水竜巻</>を巻き起こし、<@ba.cryst>寒冷付着</>を付与できます。さらに、必殺技で敵を封鎖することが可能です。",
+            "KR": "탕탕은 범위 공격 능력과 아츠 버프 효과를 줄 수 있는 캐스터 오퍼레이터입니다. 탕탕은 자기가 생성한 <@ba.key>와류</>로 <@ba.key>용오름</>을 만들어 <@ba.cryst>냉기 부착</>을 부여할 수 있으며, 궁극기를 사용해 적의 행동을 멈출 수 있습니다.",
+            "MX": "Tangtang es una Hechicera que puede infligir DAÑ de forma efectiva a las hordas enemigas y aplicar incrementos de Artes. Puede crear <@ba.key>Remolinos</> y lanzar <@ba.key>Trombas marinas</> que infligen <@ba.cryst>Imposición criogénica</>. Su máxima también puede bloquear a enemigos temporalmente.",
+            "RU": "Тантан — заклинатель, эффективно наносящий УРН врагам и накладывающий усиления от искусств. Она создает <@ba.key>воронки</>, которые превращаются в <@ba.key>водовороты</> и накладывают <@ba.cryst>криогенное поражение</>. Ее супернавык временно сковывает врагов.",
+            "TC": "湯湯是一名兼具群體輸出與法術增益效果的術師幹員。她可以透過自身創造的<@ba.key>渦流</>來掀起<@ba.key>水龍捲</>施加<@ba.cryst>寒冷附著</>，還能使用終結技封鎖敵人。",
+            "TH": "ถัง​ถัง​เป็น​จอม​เวท​ที่​สามารถ​สร้าง​ DMG ให้​กับ​กลุ่ม​ศัตรู​ได้​อย่างมีประสิทธิภาพ​และ​มอบ​บัฟ​เวท​ให้​กับ​ทีม​ เธอ​สามารถ​สร้าง​ <@ba.key>​วังวน​น้ำ​</> และ​เรียก​ <@ba.key>​พายุหมุน​น้ำ​</> ขึ้น​มา​เพื่อ​ทำให้​ศัตรู​ติด​สถานะ​ <@ba.cryst>​บาดแผล​จาก​ไค​ร​โอ​</> ทักษะ​อัล​ติ​เมท​ของ​เธอ​ยัง​สามารถ​ทำให้​ศัตรู​ขยับตัว​ไม่ได้​ชั่วคราว​ได้​อีกด้วย",
+            "VN": "Tangtang là pháp sư có khả năng gây ST hiệu quả lên quái địch và buff cho Thuật Pháp. Cô có thể tạo <@ba.key>Xoáy Nước</>, sau đó kích hoạt <@ba.key>Lốc Nước</> để gây <@ba.cryst>Nhiễm Băng</>. Tuyệt kỹ của cô cũng có thể khiến kẻ địch tạm thời bị khóa chặt."
+          },
+          "dungeonId": "dung_tangtang_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_lt_1_1_1",
+          "rewardId": "reward_activity_dung_tangtang_chartrial",
+          "showRewardId": "reward_activity_dung_tangtang_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": "activity_bg_character_trial_tangtang"
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_tangtang_chartrial"
+          }
+        }
+      },
+      "dung_wulfa_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_v1d1_2",
+          "bgRolePath": "activity_icon_character_trial_wulfa",
+          "desc": {
+            "BR": "Rossi é uma operadora que pode aplicar rapidamente vários acúmulos de <@ba.phy>Vulnerabilidade</> e causar DNO de diferentes elementos. Ela pode <@ba.key>consumir</> <@ba.key>Inflição de Artes</> para aplicar <@ba.phy>Levantar</> e <@ba.phy>Vulnerabilidade</>, e causa tanto <@ba.pd>DNO Físico</> quanto <@ba.fire>DNO Térmico</> ao mesmo tempo.",
+            "CN": "洛茜是一名能快速施加大量<@ba.phy>破防</>并兼具多属性输出能力的干员。她可以<@ba.key>消耗</><@ba.key>法术附着</>来造成<@ba.phy>击飞</>和施加<@ba.phy>破防</>，并可以同时造成<@ba.pd>物理伤害</>和<@ba.fire>灼热伤害</>。",
+            "DE": "Rossi ist eine Operatorin, die schnell mehrere Kumulierungen <@ba.phy>Anfälligkeit</> und unterschiedlichen Element-SDN verursacht. Sie kann <@ba.key>Technikkumulierungen</> <@ba.key>verbrauchen</>, um Gegner mit <@ba.phy>Anheben</> und <@ba.phy>Anfälligkeit</> zu belegen. Dabei verursacht sie gleichzeitig sowohl <@ba.pd>Physischen SDN</> als auch <@ba.fire>Hitze-SDN</>.",
+            "EN": "Rossi is an operator who can quickly apply multiple stacks of <@ba.phy>Vulnerability</> and deal DMG of different elements. She can <@ba.key>consume</> <@ba.key>Arts Infliction</> to apply <@ba.phy>Lift</> and <@ba.phy>Vulnerability</>, and deals both <@ba.pd>Physical DMG</> and <@ba.fire>Heat DMG</> at the same time.",
+            "FR": "Rossi est une opératrice qui peut rapidement appliquer plusieurs cumuls de <@ba.phy>Vulnérabilité</> et infliger des DÉG de divers éléments. Elle peut <@ba.key>consommer</> une <@ba.key>altération des Arts</> pour appliquer un <@ba.phy>Soulèvement</> et une <@ba.phy>Vulnérabilité</>, et elle inflige simultanément des <@ba.pd>DÉG physiques</> et des <@ba.fire>DÉG thermiques</>.",
+            "ID": "Rossi adalah operator yang bisa mengakibatkan beberapa tumpukan <@ba.phy>Vulnerability</> dengan cepat dan menimbulkan DMG dari berbagai elemen. Dia bisa <@ba.key>memakai</> <@ba.key>Arts Infliction</> untuk mengakibatkan <@ba.phy>Lift</> dan <@ba.phy>Vulnerability</>, serta menimbulkan <@ba.pd>Physical DMG</> dan <@ba.fire>Heat DMG</> sekaligus.",
+            "IT": "Rossi è un'operatrice che può rapidamente applicare più accumuli di <@ba.phy>Vulnerabilità</> e infliggere danni di vari elementi. Può <@ba.key>consumare</> <@ba.key>Afflizione da Arti</> per applicare <@ba.phy>Sospensione</> e <@ba.phy>Vulnerabilità</>, infliggendo contemporaneamente sia <@ba.pd>danni fisici</> che <@ba.fire>danni da fuoco</>.",
+            "JP": "ロッシは、短時間で複数段階の<@ba.phy>クラッシュ</>を付与でき、複数属性の攻撃を持つオペレーターです。<@ba.key>アーツ付着</>を<@ba.key>消費</>し、敵を<@ba.phy>浮遊</>させ、<@ba.phy>クラッシュ</>を付与できます。同時に<@ba.pd>物理ダメージ</>と<@ba.fire>灼熱ダメージ</>を与えることが可能です。",
+            "KR": "로시는 대량의 <@ba.phy>방어 불능</> 스택을 쌓을 수 있는 건 물론, 여러 속성 공격 능력을 가진 오퍼레이터입니다. <@ba.key>아츠 부착</>을 <@ba.key>소모</>하여 <@ba.phy>띄우기</> 피해를 주고, <@ba.phy>방어 불능</>을 부여할 수 있으며, <@ba.pd>물리 피해</>와 <@ba.fire>열기 피해</>를 줄 수 있습니다.",
+            "MX": "Rossi es una operadora que puede aplicar rápidamente varias acumulaciones de <@ba.phy>Vulnerabilidad</> e infligir DAÑ de distintos elementos. Puede <@ba.key>consumir</> <@ba.key>Imposición de artes</> para aplicar <@ba.phy>Levantar</> y <@ba.phy>Vulnerabilidad</>, e inflige tanto <@ba.pd>DAÑ físico</> como <@ba.fire>DAÑ por calor</> al mismo tiempo.",
+            "RU": "Оперативник Росси может быстро накладывать заряды <@ba.phy>уязвимости</> и наносить урон разных стихий. Она умеет <@ba.key>поглощать</> <@ba.key>поражение искусствами</>, чтобы <@ba.phy>подбрасывать</> врагов и накладывать <@ba.phy>уязвимость</>. Кроме того, она одновременно наносит как <@ba.pd>физический</>, так и <@ba.fire>тепловой</> УРН.",
+            "TC": "洛西是一名能快速施加大量<@ba.phy>破防</>並兼具多屬性輸出能力的幹員。她可以<@ba.key>消耗</><@ba.key>法術附著</>來造成<@ba.phy>擊飛</>和施加<@ba.phy>破防</>，並可以同時造成<@ba.pd>物理傷害</>和<@ba.fire>灼熱傷害</>。",
+            "TH": "รอส​ซี​เป็น​โอเปอเรเตอร์​ที่​สามารถ​สร้าง​ส​แ​ต็​ก​ <@ba.phy>​เปราะบาง​</> และ​ สร้าง​ DMG ธาตุ​ต่า​งๆ​ เธอ​สามารถ​<@ba.key>​ใช้​</> <@ba.key>​การติ​ด​สถานะ​เวท​</> เพื่อม​อบ​<@ba.phy>​ยก​</> และ​ <@ba.phy>​เปราะบาง​</> และ​สร้าง​ทั้ง​ <@ba.pd>DMG กายภาพ​</> และ​ <@ba.fire>DMG ความร้อน​</> ไป​พร้อมกัน",
+            "VN": "Rossi là cán viên có khả năng gây nhiều tầng <@ba.phy>Trừ Giáp</> trong thời gian ngắn và gây ST thuộc nhiều nguyên tố khác nhau. Rossi có thể <@ba.key>giải trừ</> <@ba.key>Nhiễm Thuật Pháp</> để áp dụng <@ba.phy>Hất Tung</> và <@ba.phy>Trừ Giáp</>, đồng thời gây cả <@ba.pd>ST Vật Lý</> lẫn <@ba.fire>ST Nhiệt</> cùng lúc."
+          },
+          "dungeonBgPath": "activity_bg_character_trial_wulfa",
+          "dungeonId": "dung_wulfa_chartrial",
+          "jumpId": "jump_gacha_lt_1_1_2",
+          "rewardId": "reward_activity_dung_wulfa_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_v1d1_2",
+          "bgRolePath": "activity_icon_character_trial_wulfa",
+          "desc": {
+            "BR": "Rossi é uma operadora que pode aplicar rapidamente vários acúmulos de <@ba.phy>Vulnerabilidade</> e causar DNO de diferentes elementos. Ela pode <@ba.key>consumir</> <@ba.key>Inflição de Artes</> para aplicar <@ba.phy>Levantar</> e <@ba.phy>Vulnerabilidade</>, e causa tanto <@ba.pd>DNO Físico</> quanto <@ba.fire>DNO Térmico</> ao mesmo tempo.",
+            "CN": "洛茜是一名能快速施加大量<@ba.phy>破防</>并兼具多属性输出能力的干员。她可以<@ba.key>消耗</><@ba.key>法术附着</>来造成<@ba.phy>击飞</>和施加<@ba.phy>破防</>，并可以同时造成<@ba.pd>物理伤害</>和<@ba.fire>灼热伤害</>。",
+            "DE": "Rossi ist eine Operatorin, die schnell mehrere Kumulierungen <@ba.phy>Anfälligkeit</> und unterschiedlichen Element-SDN verursacht. Sie kann <@ba.key>Technikkumulierungen</> <@ba.key>verbrauchen</>, um Gegner mit <@ba.phy>Anheben</> und <@ba.phy>Anfälligkeit</> zu belegen. Dabei verursacht sie gleichzeitig sowohl <@ba.pd>Physischen SDN</> als auch <@ba.fire>Hitze-SDN</>.",
+            "EN": "Rossi is an operator who can quickly apply multiple stacks of <@ba.phy>Vulnerability</> and deal DMG of different elements. She can <@ba.key>consume</> <@ba.key>Arts Infliction</> to apply <@ba.phy>Lift</> and <@ba.phy>Vulnerability</>, and deals both <@ba.pd>Physical DMG</> and <@ba.fire>Heat DMG</> at the same time.",
+            "FR": "Rossi est une opératrice qui peut rapidement appliquer plusieurs cumuls de <@ba.phy>Vulnérabilité</> et infliger des DÉG de divers éléments. Elle peut <@ba.key>consommer</> une <@ba.key>altération des Arts</> pour appliquer un <@ba.phy>Soulèvement</> et une <@ba.phy>Vulnérabilité</>, et elle inflige simultanément des <@ba.pd>DÉG physiques</> et des <@ba.fire>DÉG thermiques</>.",
+            "ID": "Rossi adalah operator yang bisa mengakibatkan beberapa tumpukan <@ba.phy>Vulnerability</> dengan cepat dan menimbulkan DMG dari berbagai elemen. Dia bisa <@ba.key>memakai</> <@ba.key>Arts Infliction</> untuk mengakibatkan <@ba.phy>Lift</> dan <@ba.phy>Vulnerability</>, serta menimbulkan <@ba.pd>Physical DMG</> dan <@ba.fire>Heat DMG</> sekaligus.",
+            "IT": "Rossi è un'operatrice che può rapidamente applicare più accumuli di <@ba.phy>Vulnerabilità</> e infliggere danni di vari elementi. Può <@ba.key>consumare</> <@ba.key>Afflizione da Arti</> per applicare <@ba.phy>Sospensione</> e <@ba.phy>Vulnerabilità</>, infliggendo contemporaneamente sia <@ba.pd>danni fisici</> che <@ba.fire>danni da fuoco</>.",
+            "JP": "ロッシは、短時間で複数段階の<@ba.phy>クラッシュ</>を付与でき、複数属性の攻撃を持つオペレーターです。<@ba.key>アーツ付着</>を<@ba.key>消費</>し、敵を<@ba.phy>浮遊</>させ、<@ba.phy>クラッシュ</>を付与できます。同時に<@ba.pd>物理ダメージ</>と<@ba.fire>灼熱ダメージ</>を与えることが可能です。",
+            "KR": "로시는 대량의 <@ba.phy>방어 불능</> 스택을 쌓을 수 있는 건 물론, 여러 속성 공격 능력을 갖춘 오퍼레이터입니다. <@ba.key>아츠 부착</>을 <@ba.key>소모</>하여 <@ba.phy>띄우기</> 피해를 주고, <@ba.phy>방어 불능</>을 부여할 수 있으며, <@ba.pd>물리 피해</>와 <@ba.fire>열기 피해</>를 줄 수 있습니다.",
+            "MX": "Rossi es una operadora que puede aplicar rápidamente varias acumulaciones de <@ba.phy>Vulnerabilidad</> e infligir DAÑ de distintos elementos. Puede <@ba.key>consumir</> <@ba.key>Imposición de artes</> para aplicar <@ba.phy>Levantar</> y <@ba.phy>Vulnerabilidad</>, e inflige tanto <@ba.pd>DAÑ físico</> como <@ba.fire>DAÑ por calor</> al mismo tiempo.",
+            "RU": "Оперативник Росси может быстро накладывать заряды <@ba.phy>уязвимости</> и наносить урон разных стихий. Она умеет <@ba.key>поглощать</> <@ba.key>поражение искусствами</>, чтобы <@ba.phy>подбрасывать</> врагов и накладывать <@ba.phy>уязвимость</>. Кроме того, она одновременно наносит как <@ba.pd>физический</>, так и <@ba.fire>тепловой</> УРН.",
+            "TC": "洛西是一名能快速施加大量<@ba.phy>破防</>並兼具多屬性輸出能力的幹員。她可以<@ba.key>消耗</><@ba.key>法術附著</>來造成<@ba.phy>擊飛</>和施加<@ba.phy>破防</>，並可以同時造成<@ba.pd>物理傷害</>和<@ba.fire>灼熱傷害</>。",
+            "TH": "รอส​ซี​เป็น​โอเปอเรเตอร์​ที่​สามารถ​สร้าง​ส​แ​ต็​ก​ <@ba.phy>​เปราะบาง​</> และ​ สร้าง​ DMG ธาตุ​ต่า​งๆ​ เธอ​สามารถ​<@ba.key>​ใช้​</> <@ba.key>​การติ​ด​สถานะ​เวท​</> เพื่อม​อบ​<@ba.phy>​ยก​</> และ​ <@ba.phy>​เปราะบาง​</> และ​สร้าง​ทั้ง​ <@ba.pd>DMG กายภาพ​</> และ​ <@ba.fire>DMG ความร้อน​</> ไป​พร้อมกัน",
+            "VN": "Rossi là cán viên có khả năng gây nhiều tầng <@ba.phy>Trừ Giáp</> trong thời gian ngắn và gây ST thuộc nhiều nguyên tố khác nhau. Rossi có thể <@ba.key>giải trừ</> <@ba.key>Nhiễm Thuật Pháp</> để áp dụng <@ba.phy>Hất Tung</> và <@ba.phy>Trừ Giáp</>, đồng thời gây cả <@ba.pd>ST Vật Lý</> lẫn <@ba.fire>ST Nhiệt</> cùng lúc."
+          },
+          "dungeonId": "dung_wulfa_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_lt_1_1_2",
+          "rewardId": "reward_activity_dung_wulfa_chartrial",
+          "showRewardId": "reward_activity_dung_wulfa_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": "activity_bg_character_trial_wulfa"
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_wulfa_chartrial"
+          }
+        }
+      },
+      "dung_yvonne_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_2",
+          "bgRolePath": "activity_icon_character_trial_yvonne",
+          "desc": {
+            "BR": "Yvonne é uma causadora de DNO que potencializa seus acertos críticos. Sua habilidade suprema a torna uma poderosa causadora de DNO em um único alvo.",
+            "CN": "伊冯是一名通过暴击造成大量输出的干员。施放终结技后，能获得强力的单体输出能力。",
+            "DE": "Yvonne versteht sich darauf, auszuteilen, und vertraut dabei auf kritische Treffer. Dank ihrer Ultimativen Fertigkeit ist sie hervorragend im Kampf gegen einzelne Ziele.",
+            "EN": "Yvonne is a DMG dealer who leverages her critical hits. Her ultimate makes her a powerful single-target DMG dealer.",
+            "FR": "Yvonne inflige des DÉG qui tirent profit de ses coups critiques. Son ultime en fait une puissante source de DÉG sur cible unique.",
+            "ID": "Yvonne bisa menimbulkan DMG dengan memanfaatkan critical hit-nya. Ultimate-nya membuatnya mampu menimbulkan DMG hebat kepada satu target.",
+            "IT": "Yvonne è un'operatrice offensiva che fa affidamento sui colpi critici. La sua abilità suprema infligge danni devastanti a un singolo bersaglio.",
+            "JP": "イヴォンヌは、会心によって高いダメージを与えるオペレーターです。必殺技を発動すると、強力な単体攻撃を与えることが可能です。",
+            "KR": "이본은 치명타를 이용하여 대량의 피해를 주는 오퍼레이터입니다. 궁극기를 사용하면 강력한 단일 공격 능력을 획득할 수 있습니다.",
+            "MX": "Yvonne causa DAÑ que se especializa en golpes críticos. Su máxima la convierte en una poderosa causante de DAÑ contra un solo objetivo.",
+            "RU": "Ивонна наносит высокий урон за счет критических ударов. Супернавык позволяет ей наносить огромный урон одной цели.",
+            "TC": "伊馮是一名藉由暴擊造成大量輸出的幹員。施放終結技後，能獲得強力的單體輸出能力。",
+            "TH": "อี​วอน​เป็นตัว​โจมตี​ที่​เน้น​การ​สร้าง​ DMG จาก​คริ​ติค​อล​ฮิต​ อัล​ติ​เมท​ของ​เธอ​ทำให้​เธอ​กลายเป็น​ผู้เชี่ยวชาญ​ด้าน​การ​สร้าง​ DMG แบบ​เป้าหมาย​เดี่ยว​ที่​ทรงพลัง",
+            "VN": "Yvonne là chủ công và sẽ khai thác tối đa sức mạnh từ các đòn Bạo Kích. Tuyệt Kỹ của cô biến Yvonne thành một Chủ Công đơn vô cùng mạnh mẽ."
+          },
+          "dungeonBgPath": "activity_bg_character_trial_yvonne",
+          "dungeonId": "dung_yvonne_chartrial",
+          "jumpId": "jump_gacha_limit_2",
+          "rewardId": "reward_activity_dung_yvonne_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_2",
+          "bgRolePath": "activity_icon_character_trial_yvonne",
+          "desc": {
+            "BR": "Yvonne é uma causadora de DNO que potencializa seus acertos críticos. Sua habilidade suprema a torna uma poderosa causadora de DNO em um único alvo.",
+            "CN": "伊冯是一名通过暴击造成大量输出的干员。施放终结技后，能获得强力的单体输出能力。",
+            "DE": "Yvonne versteht sich darauf, auszuteilen, und vertraut dabei auf kritische Treffer. Dank ihrer Ultimativen Fertigkeit ist sie hervorragend im Kampf gegen einzelne Ziele.",
+            "EN": "Yvonne is a DMG dealer who leverages her critical hits. Her ultimate makes her a powerful single-target DMG dealer.",
+            "FR": "Yvonne inflige des DÉG qui tirent profit de ses coups critiques. Son ultime en fait une puissante source de DÉG sur cible unique.",
+            "ID": "Yvonne bisa menimbulkan DMG dengan memanfaatkan critical hit-nya. Ultimate-nya membuatnya mampu menimbulkan DMG hebat kepada satu target.",
+            "IT": "Yvonne è un'operatrice offensiva che fa affidamento sui colpi critici. La sua abilità suprema infligge danni devastanti a un singolo bersaglio.",
+            "JP": "イヴォンヌは、会心によって高いダメージを与えるオペレーターです。必殺技を発動すると、強力な単体攻撃を与えることが可能です。",
+            "KR": "이본은 치명타를 이용하여 대량의 피해를 주는 오퍼레이터입니다. 궁극기를 사용하면 강력한 단일 공격 능력을 획득할 수 있습니다.",
+            "MX": "Yvonne causa DAÑ que se especializa en golpes críticos. Su máxima la convierte en una poderosa causante de DAÑ contra un solo objetivo.",
+            "RU": "Ивонна наносит высокий урон за счет критических ударов. Супернавык позволяет ей наносить огромный урон одной цели.",
+            "TC": "伊馮是一名藉由暴擊造成大量輸出的幹員。施放終結技後，能獲得強力的單體輸出能力。",
+            "TH": "อี​วอน​เป็นตัว​โจมตี​ที่​เน้น​การ​สร้าง​ DMG จาก​คริ​ติค​อล​ฮิต​ อัล​ติ​เมท​ของ​เธอ​ทำให้​เธอ​กลายเป็น​ผู้เชี่ยวชาญ​ด้าน​การ​สร้าง​ DMG แบบ​เป้าหมาย​เดี่ยว​ที่​ทรงพลัง",
+            "VN": "Yvonne là chủ công và sẽ khai thác tối đa sức mạnh từ các đòn Bạo Kích. Tuyệt Kỹ của cô biến Yvonne thành một Chủ Công đơn vô cùng mạnh mẽ."
+          },
+          "dungeonId": "dung_yvonne_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_limit_2",
+          "rewardId": "reward_activity_dung_yvonne_chartrial",
+          "showRewardId": "reward_activity_dung_yvonne_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": "activity_bg_character_trial_yvonne"
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_yvonne_chartrial"
+          }
+        }
+      },
+      "dung_zhuangfy_chartrial": {
+        "oldValue": {
+          "activityId": "activity_char_trial_v1d2_1",
+          "bgRolePath": "activity_icon_character_trial_zhuangfy",
+          "desc": {
+            "BR": "Zhuang Fangyi é uma atacante que pode causar <@ba.pulse>DNO Elétrico</> contínuo e significativo. Suas habilidades de batalha podem criar <@ba.key>Lâminas Relampejantes</> que desferem Golpes do Trovão no inimigo. Sua habilidade suprema também melhora consideravelmente suas capacidades de combate.",
+            "CN": "庄方宜是一名能持续造成大量<@ba.pulse>电磁伤害</>的突击干员。她可以通过战技不断生成<@ba.key>青霆剑</>雷击敌人，使用终结技后，还能大幅提升战斗性能。",
+            "DE": "Zhuang Fangyi ist eine Frontkämpferin, die kontinuierlich massiven <@ba.pulse>Elektrischen SDN</> verursachen kann. Mit ihren Kampffertigkeiten kann sie <@ba.key>Spaltklingen</> erschaffen, die Donnerwetter auf den Gegner niederprasseln lassen. Ihre Ultimative Fertigkeit verleiht ihren Kampffertigkeiten außerdem einen enormen Bonus.",
+            "EN": "Zhuang Fangyi is a striker who can deal continuous and massive <@ba.pulse>Electric DMG</>. Her battle skills can create <@ba.key>Sunderblades</> that unleash Thunder Strikes on the enemy. Her ultimate also greatly enhances her combat capabilities.",
+            "FR": "Zhuang Fangyi est une attaquante capable d'infliger de lourds <@ba.pulse>DÉG électriques</> continus. Ses compétences de combat peuvent créer des <@ba.key>tranche-lames</> qui lancent des attaques foudroyantes sur l'ennemi. Son ultime améliore également fortement ses capacités de combat.",
+            "ID": "Zhuang Fangyi adalah striker yang bisa menimbulkan <@ba.pulse>Electric DMG</> terus-menerus dan sangat besar. Skill tarungnya bisa memunculkan <@ba.key>Sunderblade</> yang akan melepaskan Sambaran Guntur kepada musuh. Ultimate-nya juga bisa meningkatkan kemampuan tempurnya secara signifikan.",
+            "IT": "Zhuang Fangyi è un ariete che infligge ingenti <@ba.pulse>danni da elettricità</> continui. Con le proprie abilità di combattimento è in grado di creare <@ba.key>Lame fendenti</> che scatenano Colpi di tuono sui nemici. Inoltre, la sua abilità suprema potenzia di molto le sue capacità combattive.",
+            "JP": "ゾアン・ファンイは、持続的に高い<@ba.pulse>電磁ダメージ</>を与えられる突撃オペレーターです。戦技で<@ba.key>蒼雷剣</>を生成し続け、雷撃で敵を攻撃できます。さらに必殺技を発動すると、戦闘能力を大幅に強化することが可能です。",
+            "KR": "장방이는 지속적으로 대량의 <@ba.pulse>전기 피해</>를 줄 수 있는 스트라이커 오퍼레이터입니다. 배틀 스킬로 <@ba.key>청뢰검</>을 계속 생성해 뇌격으로 적을 공격하며, 궁극기 사용 후에는 전투 능력이 크게 증가합니다.",
+            "MX": "Zhuang Fangyi es una atacante que puede infligir <@ba.pulse>DAÑ eléctrico</> continuo y masivo. Sus habilidades de batalla pueden crear <@ba.key>Hojas de Ruptura</> que desatan Golpes de trueno sobre el enemigo. Su máxima también mejora enormemente sus capacidades de combate.",
+            "RU": "Чжуан Фанъи — штурмовик, способный наносить огромный непрерывный <@ba.pulse>электрический урон</>. Ее боевые навыки создают <@ba.key>Рассекающие лезвия</>, которые обрушивают на врага «Громовые удары». Супернавык также значительно усиливает ее боевые характеристики.",
+            "TC": "莊方宜是一名能持續造成大量<@ba.pulse>電磁傷害</>的突擊幹員。她可以透過戰技不斷生成<@ba.key>青霆劍</>雷擊敵人，使用終結技後，還能大幅提升戰鬥性能。",
+            "TH": "จวง​ฟาง​อี้​เป็น​ผู้​โจมตี​ที่​สามารถ​ทำ​<@ba.pulse>​ความเสียหาย​ไฟฟ้า​</>​มหาศาล​และ​ต่อเนื่อง​ได้​ ทักษะ​การต่อสู้​ของ​เธอ​สร้าง​<@ba.key>​ซัน​เดอร์​เบล​ด​</>​ที่จะ​ปล่อย​อัสนี​ฟาดฟัน​ลง​บน​ศัตรู​ อัล​ติ​เมท​ของ​เธอ​ยัง​เพิ่ม​ความสามารถ​ใน​การต่อสู้​อีกด้วย",
+            "VN": "Zhuang Fangyi thuộc hệ đột kích, có khả năng gây <@ba.pulse>ST Điện</> lớn và liên tục. KN chiến đấu của cô có thể tạo <@ba.key>Lưỡi Kiếm Phân Tách</> phóng Lôi Kích về phía kẻ địch. Tuyệt Kỹ của cô cũng tăng mạnh khả năng chiến đấu."
+          },
+          "dungeonBgPath": "activity_bg_character_trial_zhuangfy",
+          "dungeonId": "dung_zhuangfy_chartrial",
+          "jumpId": "jump_gacha_lt_1_2_1",
+          "rewardId": "reward_activity_dung_zhuangfy_chartrial",
+          "sortId": 1
+        },
+        "newValue": {
+          "activityId": "activity_char_trial_v1d2_1",
+          "bgRolePath": "activity_icon_character_trial_zhuangfy",
+          "desc": {
+            "BR": "Zhuang Fangyi é uma atacante que pode causar <@ba.pulse>DNO Elétrico</> contínuo e significativo. Suas habilidades de batalha podem criar <@ba.key>Lâminas Relampejantes</> que desferem Golpes do Trovão no inimigo. Sua habilidade suprema também melhora consideravelmente suas capacidades de combate.",
+            "CN": "庄方宜是一名能持续造成大量<@ba.pulse>电磁伤害</>的突击干员。她可以通过战技不断生成<@ba.key>青霆剑</>雷击敌人，使用终结技后，还能大幅提升战斗性能。",
+            "DE": "Zhuang Fangyi ist eine Frontkämpferin, die kontinuierlich massiven <@ba.pulse>Elektrischen SDN</> verursachen kann. Mit ihren Kampffertigkeiten kann sie <@ba.key>Spaltklingen</> erschaffen, die Donnerwetter auf den Gegner niederprasseln lassen. Ihre Ultimative Fertigkeit verleiht ihren Kampffertigkeiten außerdem einen enormen Bonus.",
+            "EN": "Zhuang Fangyi is a striker who can deal continuous and massive <@ba.pulse>Electric DMG</>. Her battle skills can create <@ba.key>Sunderblades</> that unleash Thunder Strikes on the enemy. Her ultimate also greatly enhances her combat capabilities.",
+            "FR": "Zhuang Fangyi est une attaquante capable d'infliger de lourds <@ba.pulse>DÉG électriques</> continus. Ses compétences de combat peuvent créer des <@ba.key>tranche-lames</> qui lancent des attaques foudroyantes sur l'ennemi. Son ultime améliore également fortement ses capacités de combat.",
+            "ID": "Zhuang Fangyi adalah striker yang bisa menimbulkan <@ba.pulse>Electric DMG</> terus-menerus dan sangat besar. Skill tarungnya bisa memunculkan <@ba.key>Sunderblade</> yang akan melepaskan Sambaran Guntur kepada musuh. Ultimate-nya juga bisa meningkatkan kemampuan tempurnya secara signifikan.",
+            "IT": "Zhuang Fangyi è un ariete che infligge ingenti <@ba.pulse>danni da elettricità</> continui. Con le proprie abilità di combattimento è in grado di creare <@ba.key>Lame fendenti</> che scatenano Colpi di tuono sui nemici. Inoltre, la sua abilità suprema potenzia di molto le sue capacità combattive.",
+            "JP": "ゾアン・ファンイは、持続的に高い<@ba.pulse>電磁ダメージ</>を与えられる突撃オペレーターです。戦技で<@ba.key>蒼雷剣</>を生成し続け、雷撃で敵を攻撃できます。さらに必殺技を発動すると、戦闘能力を大幅に強化することが可能です。",
+            "KR": "장방이는 지속적으로 대량의 <@ba.pulse>전기 피해</>를 줄 수 있는 스트라이커 오퍼레이터입니다. 배틀 스킬로 <@ba.key>청뢰검</>을 계속 생성해 뇌격으로 적을 공격하며, 궁극기 사용 후에는 전투 능력이 크게 증가합니다.",
+            "MX": "Zhuang Fangyi es una atacante que puede infligir <@ba.pulse>DAÑ eléctrico</> continuo y masivo. Sus habilidades de batalla pueden crear <@ba.key>Hojas de Ruptura</> que desatan Golpes de trueno sobre el enemigo. Su máxima también mejora enormemente sus capacidades de combate.",
+            "RU": "Чжуан Фанъи — штурмовик, способный наносить огромный непрерывный <@ba.pulse>электрический урон</>. Ее боевые навыки создают <@ba.key>Рассекающие лезвия</>, которые обрушивают на врага «Громовые удары». Супернавык также значительно усиливает ее боевые характеристики.",
+            "TC": "莊方宜是一名能持續造成大量<@ba.pulse>電磁傷害</>的突擊幹員。她可以透過戰技不斷生成<@ba.key>青霆劍</>雷擊敵人，使用終結技後，還能大幅提升戰鬥性能。",
+            "TH": "จวง​ฟาง​อี้​เป็น​ผู้​โจมตี​ที่​สามารถ​ทำ​<@ba.pulse>​ความเสียหาย​ไฟฟ้า​</>​มหาศาล​และ​ต่อเนื่อง​ได้​ ทักษะ​การต่อสู้​ของ​เธอ​สร้าง​<@ba.key>​ซัน​เดอร์​เบล​ด​</>​ที่จะ​ปล่อย​อัสนี​ฟาดฟัน​ลง​บน​ศัตรู​ อัล​ติ​เมท​ของ​เธอ​ยัง​เพิ่ม​ความสามารถ​ใน​การต่อสู้​อีกด้วย",
+            "VN": "Zhuang Fangyi thuộc hệ đột kích, có khả năng gây <@ba.pulse>ST Điện</> lớn và liên tục. KN chiến đấu của cô có thể tạo <@ba.key>Lưỡi Kiếm Phân Tách</> phóng Lôi Kích về phía kẻ địch. Tuyệt Kỹ của cô cũng tăng mạnh khả năng chiến đấu."
+          },
+          "dungeonId": "dung_zhuangfy_chartrial",
+          "equipRewardId": "",
+          "jumpId": "jump_gacha_lt_1_2_1",
+          "rewardId": "reward_activity_dung_zhuangfy_chartrial",
+          "showRewardId": "reward_activity_dung_zhuangfy_chartrial",
+          "sortId": 1
+        },
+        "changed": {
+          "dungeonBgPath": {
+            "type": "value",
+            "oldValue": "activity_bg_character_trial_zhuangfy"
+          },
+          "equipRewardId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "showRewardId": {
+            "type": "value",
+            "newValue": "reward_activity_dung_zhuangfy_chartrial"
+          }
+        }
+      }
+    }
+  }
+}

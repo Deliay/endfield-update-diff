@@ -1,0 +1,40 @@
+{
+  "tableName": "BattlePassTaskLabelMapTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "bp_05_task_label_weekly": {
+        "parentLabelID": "bp_05_task_label_weekly",
+        "subLabels": [
+          {
+            "taskLabelID": "bp_05_task_sublabel_week_1"
+          },
+          {
+            "taskLabelID": "bp_05_task_sublabel_week_2"
+          },
+          {
+            "taskLabelID": "bp_05_task_sublabel_week_3"
+          },
+          {
+            "taskLabelID": "bp_05_task_sublabel_week_4"
+          },
+          {
+            "taskLabelID": "bp_05_task_sublabel_week_5"
+          },
+          {
+            "taskLabelID": "bp_05_task_sublabel_week_6"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

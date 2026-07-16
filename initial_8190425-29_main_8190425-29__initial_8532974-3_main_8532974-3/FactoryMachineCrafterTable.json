@@ -1,0 +1,1415 @@
+{
+  "tableName": "FactoryMachineCrafterTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 6,
+    "removed": 0,
+    "changed": 38
+  },
+  "entries": {
+    "added": {
+      "vaporizer_1": {
+        "modeMap": [
+          {
+            "groupName": "",
+            "isEnvMode": false,
+            "modeName": "gas"
+          }
+        ],
+        "modeUnlockDefaultMap": {
+          "gas": true
+        }
+      },
+      "gas_pump_1": {
+        "modeMap": [
+          {
+            "groupName": "",
+            "isEnvMode": false,
+            "modeName": "gas"
+          }
+        ],
+        "modeUnlockDefaultMap": {
+          "gas": true
+        }
+      },
+      "gas_reactor_1": {
+        "modeMap": [
+          {
+            "groupName": "group_gas_reactor_gas",
+            "isEnvMode": true,
+            "modeName": "gas"
+          }
+        ],
+        "modeUnlockDefaultMap": {
+          "gas": true
+        }
+      },
+      "gas_storager_1": {
+        "modeMap": [
+          {
+            "groupName": "",
+            "isEnvMode": false,
+            "modeName": "gas"
+          }
+        ],
+        "modeUnlockDefaultMap": {
+          "gas": true
+        }
+      },
+      "transmuter_1": {
+        "modeMap": [
+          {
+            "groupName": "group_transmuter_1_gastrans",
+            "isEnvMode": false,
+            "modeName": "gastrans"
+          },
+          {
+            "groupName": "group_transmuter_1_liquidtrans",
+            "isEnvMode": false,
+            "modeName": "liquidtrans"
+          }
+        ],
+        "modeUnlockDefaultMap": {
+          "gastrans": true,
+          "liquidtrans": true
+        }
+      },
+      "transmuter_2": {
+        "modeMap": [
+          {
+            "groupName": "group_transmuter_2_gastrans",
+            "isEnvMode": false,
+            "modeName": "gastrans"
+          },
+          {
+            "groupName": "group_transmuter_2_solidtrans",
+            "isEnvMode": false,
+            "modeName": "solidtrans"
+          }
+        ],
+        "modeUnlockDefaultMap": {
+          "gastrans": true,
+          "solidtrans": true
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "component_mc_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_component_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_component_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dismantler_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_dismantler_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_dismantler_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            },
+            {
+              "groupName": "group_dismantler_gasliquid",
+              "isEnvMode": false,
+              "modeName": "gasliquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "gasliquid": false,
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[1]": {
+            "type": "value",
+            "newValue": {
+              "groupName": "group_dismantler_gasliquid",
+              "isEnvMode": false,
+              "modeName": "gasliquid"
+            }
+          },
+          "modeUnlockDefaultMap.gasliquid": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "liquid_purifier_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_liquid_purifier_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_liquid_purifier_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            },
+            {
+              "groupName": "group_liquid_purifier_gas",
+              "isEnvMode": true,
+              "modeName": "gas"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "gas": false,
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[1]": {
+            "type": "value",
+            "newValue": {
+              "groupName": "group_liquid_purifier_gas",
+              "isEnvMode": true,
+              "modeName": "gas"
+            }
+          },
+          "modeUnlockDefaultMap.gas": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dumper_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "dumper_nop_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "log_pipe_converger": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "udpipe_loader_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "filling_powder_mc_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_filling_normal",
+              "modeName": "normal"
+            },
+            {
+              "groupName": "group_filling_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": false,
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_filling_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            },
+            {
+              "groupName": "group_filling_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            },
+            {
+              "groupName": "group_filling_gasliquid",
+              "isEnvMode": false,
+              "modeName": "gasliquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "gasliquid": false,
+            "liquid": false,
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[1].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[2]": {
+            "type": "value",
+            "newValue": {
+              "groupName": "group_filling_gasliquid",
+              "isEnvMode": false,
+              "modeName": "gasliquid"
+            }
+          },
+          "modeUnlockDefaultMap.gasliquid": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "furnance_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_furnance_normal",
+              "modeName": "normal"
+            },
+            {
+              "groupName": "group_furnance_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": false,
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_furnance_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            },
+            {
+              "groupName": "group_furnance_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": false,
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[1].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "furnance_nop_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_furnance_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_furnance_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "miner_4": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "grinder_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_grinder_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_grinder_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "liquid_clean_gate_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "liquid_cleaner_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "liquid_recycle_gate_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "liquid_storager_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pump_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "liquid_storager_nop_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "log_pipe_01": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "log_pipe_connector": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "log_pipe_conditioner": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "seedcollector_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_seedcollector_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_seedcollector_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "log_pipe_splitter": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "mix_pool_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_mix_pool_1_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_mix_pool_1_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "mix_pool_2": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_mix_pool_2_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_mix_pool_2_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "planter_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_planter_normal",
+              "modeName": "normal"
+            },
+            {
+              "groupName": "group_planter_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": false,
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_planter_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            },
+            {
+              "groupName": "group_planter_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": false,
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[1].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "pump_2": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "shaper_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_shaper_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_shaper_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            },
+            {
+              "groupName": "group_shaper_gas",
+              "isEnvMode": false,
+              "modeName": "gas"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "gas": false,
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[1]": {
+            "type": "value",
+            "newValue": {
+              "groupName": "group_shaper_gas",
+              "isEnvMode": false,
+              "modeName": "gas"
+            }
+          },
+          "modeUnlockDefaultMap.gas": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "squirter_nop_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "winder_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_winder_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_winder_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "squirter_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "thickener_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_thickener_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_thickener_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "tools_assebling_mc_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_tools_normal",
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_tools_normal",
+              "isEnvMode": false,
+              "modeName": "normal"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "normal": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "xiranite_oven_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "group_xiranite_oven_liquid",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "group_xiranite_oven_liquid",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            },
+            {
+              "groupName": "group_xiranite_oven_gasliquid",
+              "isEnvMode": true,
+              "modeName": "gasliquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "gasliquid": false,
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          },
+          "modeMap[1]": {
+            "type": "value",
+            "newValue": {
+              "groupName": "group_xiranite_oven_gasliquid",
+              "isEnvMode": true,
+              "modeName": "gasliquid"
+            }
+          },
+          "modeUnlockDefaultMap.gasliquid": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "udpipe_loader_2": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "udpipe_unloader_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "udpipe_unloader_2": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      },
+      "v_fluid_container_1": {
+        "oldValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "newValue": {
+          "modeMap": [
+            {
+              "groupName": "",
+              "isEnvMode": false,
+              "modeName": "liquid"
+            }
+          ],
+          "modeUnlockDefaultMap": {
+            "liquid": true
+          }
+        },
+        "changed": {
+          "modeMap[0].isEnvMode": {
+            "type": "value",
+            "newValue": false
+          }
+        }
+      }
+    }
+  }
+}

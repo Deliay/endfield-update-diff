@@ -1,0 +1,156 @@
+{
+  "tableName": "ActivityVersionGuideStageTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_map02_guide_008": {
+        "stageList": [
+          {
+            "activityId": "activity_map02_guide_008",
+            "conditions": {
+              "conditionId": "activity_guide_northarea_con_1",
+              "progressToCompare": 1
+            },
+            "desc": {
+              "BR": "Conclua a missão principal [Capítulo II Processo VII: Assim Começa a Marcha de Volta para Casa]",
+              "CN": "完成主线任务：第二章 - 进程Ⅶ - 归途之始",
+              "DE": "Schließe die Hauptmission [Kapitel II, Prozess VII: So beginnt der Marsch gen Heimat] ab.",
+              "EN": "Complete the main mission [Chapter Ⅱ Process Ⅶ: Thus Begins the Homeward March]",
+              "FR": "Terminer la mission principale [Chapitre II - Processus VII : Ainsi commence le voyage de retour]",
+              "ID": "Selesaikan misi utama [Bab Ⅱ Proses Ⅶ: Perjalanan Pulang pun Dimulai]",
+              "IT": "Completa la missione principale \"Capitolo Ⅱ - Elaborazione Ⅶ: Inizia così la marcia di ritorno\".",
+              "JP": "メイン任務：第二章-プロセスⅦ「帰路の始まり」を完了する",
+              "KR": "메인 임무: 2장 - 프로세스 VII - 귀환 개시 완료",
+              "MX": "Completa la misión principal [Capítulo II Proceso VII: Así comienza la marcha de regreso]",
+              "RU": "Завершите основную миссию: операция VII главы II «Так начинается путь домой»",
+              "TC": "完成主線任務：第二章 - 進度VII - 歸途之始",
+              "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 7: หวนคืน​สู่​มาตุภูมิ​] ให้​สำเร็จ",
+              "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅱ – Tiến Trình Ⅶ: Và Thế, Cuộc Hành Quân Hồi Hương Bắt Đầu]"
+            },
+            "jumpId": "jump_activity_guide_northarea_01",
+            "rewardId": "reward_activity_guide_northarea1",
+            "sortId": 1,
+            "stageId": "activity_guide_northarea_stage_1"
+          },
+          {
+            "activityId": "activity_map02_guide_008",
+            "conditions": {
+              "conditionId": "activity_guide_northarea_con_2",
+              "progressToCompare": 2
+            },
+            "desc": {
+              "BR": "Na Passagem de Yinglung e na Zona de Exclusão do Norte de Wuling, recupere 2 Caixotes de Gabarito de Equipamento",
+              "CN": "于应龙关和北部禁区区域累计回收2个装备模板箱",
+              "DE": "Birg 2 Kisten mit Ausrüstungsvorlagen auf dem Yinglung-Pass und in der Sperrzone Nord-Wuling.",
+              "EN": "In Yinglung Pass and North Wuling Exclusion Zone, recover 2 Gear Template Crates",
+              "FR": "Au col de Yinglung et dans la zone d'exclusion du nord de Wuling, récupérer 2 caisses de modèles d'équipement",
+              "ID": "Di Terusan Yinglung dan Zona Eksklusi Wuling Utara, temukan 2 Kerat Templat Gear",
+              "IT": "Recupera 2 casse con schema per l'equipaggiamento al Valico di Yinglung e all'Area interdetta di Wuling Nord.",
+              "JP": "応龍関と北部封鎖区域で装備設計ボックスを計2個開ける",
+              "KR": "응룡 관문과 북쪽 금지 구역에서 장비 템플릿 상자 누적 2개 회수",
+              "MX": "En el Paso de Yinglung y la Zona de exclusión norte de Wuling, recupera 2 Cajas de moldes de equipamiento",
+              "RU": "Получите 2 ящика шаблонов снаряжения на заставе «Инлуна» и в зоне отчуждения северного Улина",
+              "TC": "於應龍關和北部禁區區域累計回收2個裝備模板箱",
+              "TH": "กู้​คืน​ลัง​เทม​เพล​ต​อุปกรณ์​ 2 ลัง​ใน​ทางผ่าน​ห​ยิง​หลง​และ​เขต​พิเศษ​อู่​หลิง​เหนือ",
+              "VN": "Khôi phục 2 Thùng Mẫu Trang Bị tại Đèo Yinglung và Khu Cấm Bắc Võ Lăng"
+            },
+            "jumpId": "jump_activity_guide_northarea_02",
+            "rewardId": "reward_activity_guide_northarea2",
+            "sortId": 2,
+            "stageId": "activity_guide_northarea_stage_2"
+          },
+          {
+            "activityId": "activity_map02_guide_008",
+            "conditions": {
+              "conditionId": "activity_guide_northarea_con_3",
+              "progressToCompare": 7
+            },
+            "desc": {
+              "BR": "Na Passagem de Yinglung e na Zona de Exclusão do Norte de Wuling, desbloqueie 7 Pontos de TP",
+              "CN": "于应龙关和北部禁区区域累计解锁7个协议传送点",
+              "DE": "Schalte 7 TP-Punkte auf dem Yinglung-Pass und in der Sperrzone Nord-Wuling frei.",
+              "EN": "In Yinglung Pass and North Wuling Exclusion Zone, unlock 7 TP Points",
+              "FR": "Dans le col de Yinglung et la zone d'exclusion du nord de Wuling, débloquer 7 points TP",
+              "ID": "Di Terusan Yinglung dan Zona Eksklusi Wuling Utara, buka 7 Titik TP",
+              "IT": "Sblocca 7 punti TP al Valico di Yinglung e nell'Area interdetta di Wuling Nord",
+              "JP": "応龍関と北部封鎖区域で協約転送ポイントを計7個解放する",
+              "KR": "응룡 관문과 북쪽 금지 구역에서 프로토콜 전송 지점 누적 7개 잠금 해제",
+              "MX": "En el Paso de Yinglung y la Zona de exclusión norte de Wuling, desbloquea 7 Puntos de TP",
+              "RU": "Откройте 7 точек ТП на заставе «Инлуна» и в зоне отчуждения северного Улина",
+              "TC": "於應龍關和北部禁區區域累計解鎖7個協議傳送點",
+              "TH": "ปลดล็อก​จุด​ TP 7 จุด​ใน​ทางผ่าน​ห​ยิง​หลง​และ​เขต​พิเศษ​อู่​หลิง​เหนือ",
+              "VN": "Mở khóa 7 Điểm Dịch Chuyển tại Đèo Yinglung và Khu Cấm Bắc Võ Lăng"
+            },
+            "jumpId": "jump_activity_guide_northarea_02",
+            "rewardId": "reward_activity_guide_northarea3",
+            "sortId": 3,
+            "stageId": "activity_guide_northarea_stage_3"
+          },
+          {
+            "activityId": "activity_map02_guide_008",
+            "conditions": {
+              "conditionId": "activity_guide_northarea_con_4",
+              "progressToCompare": 5
+            },
+            "desc": {
+              "BR": "Na Passagem de Yinglung e na Zona de Exclusão do Norte de Wuling, coloque 5 Relés de Xiranita",
+              "CN": "于应龙关和北部禁区区域累计放置5个息壤中继器",
+              "DE": "Errichte 5 Xiranit-Verteiler auf dem Yinglung-Pass und in der Sperrzone Nord-Wuling.",
+              "EN": "In Yinglung Pass and North Wuling Exclusion Zone, place 5 Xiranite Relays",
+              "FR": "Dans le col de Yinglung et la zone d'exclusion du nord de Wuling, placer 5 relais de xiranite",
+              "ID": "Di Terusan Yinglung dan Zona Eksklusi Wuling Utara, pasang 5 Relai Xiranite",
+              "IT": "Posiziona 5 ripetitori di xiranite al Valico di Yinglung e all'Area interdetta di Wuling Nord.",
+              "JP": "応龍関と北部封鎖区域で息壌中継タワーを計5個設置する",
+              "KR": "응룡 관문과 북쪽 금지 구역에서 식양 중계기 누적 5개 배치",
+              "MX": "En el Paso de Yinglung y la Zona de exclusión norte de Wuling, coloca 5 Relés de Xiranita",
+              "RU": "Разместите 5 ксиранитовых вышек на заставе «Инлуна» и в зоне отчуждения северного Улина",
+              "TC": "於應龍關和北部禁區區域累計擺放5個息壤中繼器",
+              "TH": "วาง​รี​เลย์​ซี​เรน​ไนต์​ 5 จุด​ใน​ทางผ่าน​ห​ยิง​หลง​และ​เขต​พิเศษ​อู่​หลิง​เหนือ",
+              "VN": "Đặt 5 Tháp Tiếp Điện Xiranite tại Đèo Yinglung và Khu Cấm Bắc Võ Lăng"
+            },
+            "jumpId": "jump_activity_guide_northarea_02",
+            "rewardId": "reward_activity_guide_northarea4",
+            "sortId": 4,
+            "stageId": "activity_guide_northarea_stage_4"
+          },
+          {
+            "activityId": "activity_map02_guide_008",
+            "conditions": {
+              "conditionId": "activity_guide_northarea_con_5",
+              "progressToCompare": 5
+            },
+            "desc": {
+              "BR": "Na Passagem de Yinglung e na Zona de Exclusão do Norte de Wuling, abra quaisquer 5 Caixotes do Protocolo",
+              "CN": "于应龙关和北部禁区区域累计开启任意5个协议储藏箱",
+              "DE": "Öffne 5 beliebige Protokollkisten auf dem Yinglung-Pass und in der Sperrzone Nord-Wuling.",
+              "EN": "In Yinglung Pass and North Wuling Exclusion Zone, open any 5 Protocol Crates",
+              "FR": "Dans le col de Yinglung et la zone d'exclusion du nord de Wuling, ouvrir 5 caisses de Protocole",
+              "ID": "Di Terusan Yinglung dan Zona Eksklusi Wuling Utara, buka 5 Kerat Protokol apa pun",
+              "IT": "Apri 5 casse di contenimento del protocollo qualsiasi al Valico di Yinglung e all'Area interdetta di Wuling Nord.",
+              "JP": "応龍関と北部封鎖区域で協約資源箱を計5個開ける",
+              "KR": "응룡 관문과 북쪽 금지 구역에서 임의의 프로토콜 보물 상자 누적 5개 개방",
+              "MX": "En el Paso de Yinglung y la Zona de exclusión norte de Wuling, abre 5 Cajas protocolares",
+              "RU": "Откройте 5 протокольных ящиков на заставе «Инлуна» и в зоне отчуждения северного Улина",
+              "TC": "於應龍關和北部禁區區域累計開啟任意5個協議儲藏箱",
+              "TH": "เปิด​ลัง​โปร​โต​คอล​ใด​ก็ได้​ 5 ลัง​ใน​ทางผ่าน​ห​ยิง​หลง​และ​เขต​พิเศษ​อู่​หลิง​เหนือ",
+              "VN": "Mở 5 Hộp Giao Thức bất kỳ tại Đèo Yinglung và Khu Cấm Bắc Võ Lăng"
+            },
+            "jumpId": "jump_activity_guide_northarea_02",
+            "rewardId": "reward_activity_guide_northarea5",
+            "sortId": 5,
+            "stageId": "activity_guide_northarea_stage_5"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,3827 @@
+{
+  "tableName": "ActivityTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 15,
+    "removed": 0,
+    "changed": 10
+  },
+  "entries": {
+    "added": {
+      "activity_v1d4_01_returnback_new_1": {
+        "bgImg": "activity_bg_webreflow",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "Boas-vindas de volta a Talos-II, Endministrator.",
+          "CN": "欢迎回归塔卫二，管理员。",
+          "DE": "Willkommen zurück auf Talos-II, Endministrator.",
+          "EN": "Welcome back to Talos-II, Endministrator.",
+          "FR": "C'est un plaisir de vous revoir sur Talos-II, Endministrator.",
+          "ID": "Selamat datang kembali di Talos-II, Endministrator.",
+          "IT": "Ti diamo il bentornato su Talos-II, Endministrator.",
+          "JP": "タロⅡへお帰りなさい、管理人。",
+          "KR": "탈로스 II에 돌아오신 것을 환영합니다, 관리자님.",
+          "MX": "Te damos la bienvenida de vuelta a Talos-II, Endministrator.",
+          "RU": "С возвращением на Талос II, Эндминистратор.",
+          "TC": "歡迎回歸塔衛二，管理員。",
+          "TH": "ขอ​ต้อนรับ​ Endministrator กลับ​สู่​ทาล​อส​-II",
+          "VN": "Chào mừng trở lại Talos-II, Endministrator."
+        },
+        "detailJumpId": "",
+        "id": "activity_v1d4_01_returnback_new_1",
+        "immediateClose": false,
+        "instructionId": "instru_returnback_new",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Reconexão do Protocolo",
+          "CN": "协议重连",
+          "DE": "Protokoll-Neuverbindung",
+          "EN": "Protocol Reconnection",
+          "FR": "Reconnexion du Protocole",
+          "ID": "Koneksi Ulang Protokol",
+          "IT": "Protocollo di riconnessione",
+          "JP": "協約再接続",
+          "KR": "프로토콜 재연결",
+          "MX": "Reconexión de Protocolo",
+          "RU": "Восстановление протокола",
+          "TC": "協議重連",
+          "TH": "การ​เชื่อมต่อ​โปร​โต​คอล​ใหม่",
+          "VN": "Tái Kết Nối Giao Thức"
+        },
+        "panelId": "ActivityReflowFormal",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "",
+        "sortId": 20000,
+        "tabImg": "activity_tab_bg_webreflow",
+        "tabImgColor": "#fff078",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_return"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_return",
+        "type": 42
+      },
+      "activity_seasontower_0": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [
+          {
+            "compareOperator": 3,
+            "conditionId": "activity_seasontower_0_unlock_condition_1",
+            "conditionType": 5023,
+            "desc": {
+              "BR": "Alcance o Nível de Autoridade de Endministrator 40",
+              "CN": "管理员权限等阶到达40级",
+              "DE": "Erreiche Endministrator-Autoritätslevel 40.",
+              "EN": "Reach Endministrator Authority Level 40",
+              "FR": "Atteindre le niveau d'autorité 40 de l'Endministrator",
+              "ID": "Capai Otoritas Level 40 untuk Endministrator",
+              "IT": "Raggiungi il livello di autorità 40 dell'Endministrator.",
+              "JP": "管理人の行動レベルを40にする",
+              "KR": "관리자의 권한 등급 40레벨 도달",
+              "MX": "Alcanza el Nivel de autoridad 40 del Endministrator",
+              "RU": "Получите уровень влияния Эндминистратора 40",
+              "TC": "管理員權限等階達到40級",
+              "TH": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ Endministrator ให้​ถึง​เล​เวล​ 40",
+              "VN": "Đạt Cấp Đặc Quyền 40 cho Endministrator"
+            },
+            "jumpId": "jump_adventure_book",
+            "parameters": [],
+            "progressToCompare": 40,
+            "tips": {
+              "BR": "Nível de Autoridade Atual: %d (aumente-o completando missões do Manual Operacional e ganhando EXP Operacional)",
+              "CN": "当前权限等阶%d级（可根据行动手册指引完成各项任务，获取行动资历，提升权限等阶）",
+              "DE": "Aktuelles Autoritätslevel: %d. (Erhöhe es durch Abschließen von Betriebshandbuch-Missionen und den Erhalt von Einsatz-EP.)",
+              "EN": "Current Authority Level: %d (raise it by completing Operational Manual missions and earning Operational EXP)",
+              "FR": "Niveau d'autorité actuel : %d (pour l'augmenter, terminez des missions du manuel opérationnel et gagnez de l'EXP opérationnelle)",
+              "ID": "Level Otoritas Saat Ini: %d (naikkan dengan menyelesaikan misi Panduan Operasi dan memperoleh EXP Operasional)",
+              "IT": "Livello di autorità attuale: %d (aumentalo completando le missioni del manuale operativo e ottenendo esperienza operativa).",
+              "JP": "現在の行動レベル：Lv.%d（案内所に従ってクエストをクリアし、行動遍歴を獲得して行動レベルをアップしよう）",
+              "KR": "현재 권한 등급 %d레벨 (작전 매뉴얼의 안내에 따라 각 항목의 임무를 완료하면, 작전 경력을 획득하고 권한 등급을 올릴 수 있습니다.)",
+              "MX": "Nivel de autoridad actual: %d (auméntalo completando misiones del Manual operativo y obteniendo EXP operacional)",
+              "RU": "Текущий уровень влияния: %d (чтобы повысить его, выполняйте миссии из руководства оперативника и получайте оперативный опыт)",
+              "TC": "目前權限等階%d級（可根據行動手冊指引完成各項任務，獲得行動資歷，提升權限等階）",
+              "TH": "เล​เวล​ของ​เจ้าพนักงาน​ปัจจุบัน​: %d (เพิ่ม​โดย​การ​ทำ​ภารกิจ​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​และ​รับ​ EXP ปฏิบัติงาน​)",
+              "VN": "Cấp Đặc Quyền Hiện Tại: %d (tăng cấp bằng cách hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành và tích lũy EXP Tác Chiến)"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "A guerra deixou sua marca indelével em suas lâminas. Sinta-a. Estude-a. Lamente-a. Lute novamente e conquiste as medalhas da glória, Endministrator!",
+          "CN": "战争残留的痕迹仍存在于您的刀剑之上，感受它，阅读它，哀悼它，让勋章与荣耀再度降于掌心吧，管理员。",
+          "DE": "Der Krieg hat seine Spuren auf deinen Klingen hinterlassen. Fühle sie. Erforsche sie. Trauere ihretwegen. Kämpfe wieder und sichere dir die Medaillen des Ruhms, Endministrator!",
+          "EN": "Warfare has left its echoing mark upon your blades. Feel it. Study it. Lament it. Fight again and secure the medals of glory, Endministrator!",
+          "FR": "La guerre a laissé sa marque sur vos lames. Admirez-la, examinez-la, regrettez-la. Persistez et décrochez les médailles de la gloire, Endministrator !",
+          "ID": "Perang telah menorehkan jejaknya yang mendalam pada pedangmu. Rasakanlah. Pelajarilah. Ratapilah. Bertarunglah lagi dan raih medali kejayaanmu, Endministrator!",
+          "IT": "La guerra ha lasciato l'eco sulle tue lame. Sentila. Studiala. Lamentala. Combatti ancora e conquista le medaglie della gloria, Endministrator!",
+          "JP": "戦争が残した痕跡は、今なお剣に刻まれている。感じろ、読み解け、哀悼せよ。管理人、勲章と栄光を再びその掌に宿すのだ。",
+          "KR": "전쟁이 남긴 흔적은 여전히 당신의 검에 새겨져 있습니다. 훈장과 영광을 다시 한번 관리자님의 손에 거머쥘 그날까지, 그 흔적을 느끼고, 되새기며, 애도하는 길을 멈추지 마시길 바랍니다.",
+          "MX": "La guerra ha dejado una marca resonante en tus espadas. Siéntela. Estúdiala. Laméntala. ¡Vuelve a luchar y asegura las medallas de gloria, Endministrator!",
+          "RU": "Война оставила свой гулкий след на ваших клинках. Почувствуйте его. Изучите. Оплачьте. Эндминистратор, вернитесь в бой и покройте себя славой!",
+          "TC": "戰爭殘留的痕跡仍存在於您的刀劍之上，感受它，閱讀它，哀悼它，讓勛章與榮耀再度降於掌心吧，管理員。",
+          "TH": "สงคราม​ได้​ทิ้งร่องรอย​อัน​ก้องกังวาน​ไว้​บน​คม​ดาบ​ของ​คุณ​ จง​สัมผัส​มัน​ ศึกษา​มัน​ ไว้อาลัย​ให้​มัน​ แล้ว​ออก​สู้​ศึก​อีกครั้ง​เพื่อ​คว้า​เหรียญ​เกียรติยศ​มา​ให้​ได้​ Endministrator!",
+          "VN": "Dư âm chiến tranh đã khắc dấu lên những lưỡi kiếm của bạn. Hãy cảm nhận. Hãy lĩnh hội. Hãy tiếc thương. Rồi tiếp tục chiến đấu và giành lấy những huy chương vinh quang, Endministrator!"
+        },
+        "detailJumpId": "jump_seasontower_mainhud",
+        "id": "activity_seasontower_0",
+        "immediateClose": false,
+        "instructionId": "seasontower_main",
+        "introMissionJumpId": "jump_mission_seasontower",
+        "introMissionQuestId": "db01m10_q#2",
+        "name": {
+          "BR": "Ecos da Guerra",
+          "CN": "战争回响",
+          "DE": "Echos des Krieges",
+          "EN": "Echoes of War",
+          "FR": "Échos guerriers",
+          "ID": "Gema Perang",
+          "IT": "Echi di guerra",
+          "JP": "戦争残響",
+          "KR": "전쟁의 메아리",
+          "MX": "Ecos de guerra",
+          "RU": "Эхо войны",
+          "TC": "戰爭迴響",
+          "TH": "เสียงสะท้อน​แห่ง​สงคราม",
+          "VN": "Tiếng Vọng Nơi Chiến Trận"
+        },
+        "panelId": "ActivitySeasonTower",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_season_tower_achievement_overview_s1",
+        "sortId": 6101,
+        "tabImg": "activity_tab_bg_seasontower",
+        "tabImgColor": "#fff078",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_high_difficulty"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_seasontower",
+        "type": 43
+      },
+      "activity_v1d4_01_returnback_new_2": {
+        "bgImg": "activity_bg_webreflow",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "Boas-vindas de volta a Talos-II, Endministrator.",
+          "CN": "欢迎回归塔卫二，管理员。",
+          "DE": "Willkommen zurück auf Talos-II, Endministrator.",
+          "EN": "Welcome back to Talos-II, Endministrator.",
+          "FR": "C'est un plaisir de vous revoir sur Talos-II, Endministrator.",
+          "ID": "Selamat datang kembali di Talos-II, Endministrator.",
+          "IT": "Ti diamo il bentornato su Talos-II, Endministrator.",
+          "JP": "タロⅡへお帰りなさい、管理人。",
+          "KR": "탈로스 II에 돌아오신 것을 환영합니다, 관리자님.",
+          "MX": "Te damos la bienvenida de vuelta a Talos-II, Endministrator.",
+          "RU": "С возвращением на Талос II, Эндминистратор.",
+          "TC": "歡迎回歸塔衛二，管理員。",
+          "TH": "ขอ​ต้อนรับ​ Endministrator กลับ​สู่​ทาล​อส​-II",
+          "VN": "Chào mừng trở lại Talos-II, Endministrator."
+        },
+        "detailJumpId": "",
+        "id": "activity_v1d4_01_returnback_new_2",
+        "immediateClose": false,
+        "instructionId": "instru_returnback_new",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Reconexão do Protocolo",
+          "CN": "协议重连",
+          "DE": "Protokoll-Neuverbindung",
+          "EN": "Protocol Reconnection",
+          "FR": "Reconnexion du Protocole",
+          "ID": "Koneksi Ulang Protokol",
+          "IT": "Protocollo di riconnessione",
+          "JP": "協約再接続",
+          "KR": "프로토콜 재연결",
+          "MX": "Reconexión de Protocolo",
+          "RU": "Восстановление протокола",
+          "TC": "協議重連",
+          "TH": "การ​เชื่อมต่อ​โปร​โต​คอล​ใหม่",
+          "VN": "Tái Kết Nối Giao Thức"
+        },
+        "panelId": "ActivityReflowFormal",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "",
+        "sortId": 20000,
+        "tabImg": "activity_tab_bg_webreflow",
+        "tabImgColor": "#fff078",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_return"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_return",
+        "type": 42
+      },
+      "activity_char_trial_v1d4_1": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "detailJumpId": "",
+        "id": "activity_char_trial_v1d4_1",
+        "immediateClose": false,
+        "instructionId": "Char_Trial",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Treinamentos de Combate",
+          "CN": "作战演练",
+          "DE": "Kampfübungen",
+          "EN": "Combat Drills",
+          "FR": "Exercices de combat",
+          "ID": "Latihan Pertarungan",
+          "IT": "Esercitazioni di combattimento",
+          "JP": "作戦訓練",
+          "KR": "작전 훈련",
+          "MX": "Simulacros de combate",
+          "RU": "Боевые учения",
+          "TC": "作戰演練",
+          "TH": "การฝึกซ้อม​การต่อสู้",
+          "VN": "Huấn Luyện Chiến Đấu"
+        },
+        "panelId": "ActivityCharacterTrial",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_activity_chartrial_lizhiyan_overview",
+        "sortId": 5001,
+        "tabImg": "activity_tab_character_trial_lizhiyan",
+        "tabImgColor": "#fff078",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_chartrial"
+        ],
+        "themeColor": "",
+        "timeId": "time_special_1_4_1",
+        "type": 9
+      },
+      "activity_checkin_halfann": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "A estrada é longa, ainda precisamos uns dos outros para a jornada.",
+          "CN": "长路漫漫，我们仍需相伴前行。",
+          "DE": "Es ist ein langer Weg. Wir brauchen einander noch auf dieser Reise.",
+          "EN": "The road is long, we still need each other for the journey.",
+          "FR": "La route est longue et on a besoin les uns des autres.",
+          "ID": "Jalan masih panjang, kita masih saling membutuhkan selama menempuhnya.",
+          "IT": "La strada è lunga, abbiamo ancora bisogno l'uno dell'altro per il viaggio.",
+          "JP": "長き旅路はなお続く。それでも共に歩み続けよう。",
+          "KR": "아직 갈 길은 멉니다. 우리는 앞으로도 함께 나아가야 합니다.",
+          "MX": "El camino es largo, y seguimos necesitándonos los unos a los otros para recorrerlo.",
+          "RU": "Впереди долгий путь, и в этом странствии мы по-прежнему нужны друг другу.",
+          "TC": "長路漫漫，我們仍需相伴前行。",
+          "TH": "หนทาง​ยัง​อีก​ยาว​ไกล​ เรา​ยังคง​ต้อง​พึ่งพา​กันและกัน​ตลอด​การ​เดินทาง​ข้างหน้า",
+          "VN": "Con đường phía trước còn dài và trên hành trình ấy, chúng ta vẫn cần nhau."
+        },
+        "detailJumpId": "",
+        "id": "activity_checkin_halfann",
+        "immediateClose": false,
+        "instructionId": "instru_checkin_checkin_halfann",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Tributo ao Companheirismo",
+          "CN": "相伴赠礼",
+          "DE": "Tribut der Gesellschaft",
+          "EN": "Tribute of Companionship",
+          "FR": "Don de camaraderie",
+          "ID": "Persembahan atas Pertemanan",
+          "IT": "Tributo di buona compagnia",
+          "JP": "絆の特典",
+          "KR": "인연의 선물",
+          "MX": "Tributo a la camaradería",
+          "RU": "Дань дружбе",
+          "TC": "相伴贈禮",
+          "TH": "เครื่องบรรณาการ​แห่ง​มิตรภาพ",
+          "VN": "Quà Tặng Đồng Hành"
+        },
+        "panelId": "ActivityCharSignCommon",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "ActivityCharSignCommonPopUp",
+        "popUpSortId": 1,
+        "redDotName": "",
+        "rewardId": "",
+        "sortId": 8315,
+        "tabImg": "bg_activity_tab_sign_important",
+        "tabImgColor": "#f2e60c",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_pristine_access"
+        ],
+        "themeColor": "",
+        "timeId": "time_special_1_4_1",
+        "type": 2
+      },
+      "activity_checkin_lizhiyan": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "Continue fazendo login para adquirir recompensas valiosas, como [Permissão para CT Olhe para a Fenda ao Norte] × 5.",
+          "CN": "参与签到累计可领取踞渊北眺寻访凭证×5等丰富奖励。",
+          "DE": "Melde dich weiter an, um üppige Belohnungen wie [„Blicke nach Norden zum Riss“-RK-Genehmigung] ×5 zu erhalten.",
+          "EN": "Keep signing in to acquire rich rewards such as [Gaze North to the Rift HH Permit]×5.",
+          "FR": "Continuez à vous connecter pour obtenir des récompenses incluant 5 [permis REC Regard tourné vers le nord et vers la faille].",
+          "ID": "Terus lakukan sign in untuk mendapatkan imbalan berlimpah, misalnya [Surat Izin HH Tataplah Celah di Utara] ×5.",
+          "IT": "Continua ad accedere per guadagnare laute ricompense, come 5 permessi CT: Guarda a nord verso la spaccatura.",
+          "JP": "スタンプラリーに参加すると、累計で「臨淵北望」スカウト券×5などの豪華報酬を獲得できます。",
+          "KR": "출석 체크에 참여하면 심연에서 북쪽을 바라보며 헤드헌팅 허가증×5 등 다양한 보상을 획득할 수 있습니다.",
+          "MX": "Sigue iniciando sesión para obtener abundantes recompensas, como [Permiso de C.R. de Mirada hacia el norte en la grieta]×5.",
+          "RU": "Продолжайте входить в игру, чтобы получить щедрые награды, среди которых разрешение на наем «Вид на северный разлом» х5.",
+          "TC": "參與簽到累計可領取踞淵北眺尋訪憑證×5等豐富獎勵。",
+          "TH": "ลงชื่อ​เข้าสู่ระบบ​อย่างต่อเนื่อง​เพื่อ​รับรางวัล​มากมาย​ เช่น​ [ใบอนุญาต​ HH มอง​ทางเหนือ​สู่​รอยแยก​]×5",
+          "VN": "Tiếp tục điểm danh để nhận thưởng lớn như [Vé Chiêu Mộ Dõi Về Khe Nứt Phương Bắc]×5."
+        },
+        "detailJumpId": "",
+        "id": "activity_checkin_lizhiyan",
+        "immediateClose": false,
+        "instructionId": "instru_checkin_lizhiyan",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Login em Olhe para a Fenda ao Norte",
+          "CN": "踞渊北眺签到",
+          "DE": "Blicke nach Norden zum Riss – Anmeldung",
+          "EN": "Gaze North to the Rift Sign-In",
+          "FR": "Connexion - Regard tourné vers le nord et vers la faille",
+          "ID": "Sign In Tataplah Celah di Utara",
+          "IT": "Accesso Guarda a nord verso la spaccatura",
+          "JP": "臨淵北望スタンプ",
+          "KR": "심연에서 북쪽을 바라보며 출석 체크",
+          "MX": "Inicio de sesión de Mirada hacia el norte en la grieta",
+          "RU": "Событие входа «Вид на северный разлом»",
+          "TC": "踞淵北眺簽到",
+          "TH": "ลงชื่อ​เข้าสู่ระบบ​มอง​ทางเหนือ​สู่​รอยแยก",
+          "VN": "Điểm Danh Dõi Về Khe Nứt Phương Bắc"
+        },
+        "panelId": "ActivityCharSignCommon",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "ActivityCharSignCommonPopUp",
+        "popUpSortId": 2,
+        "redDotName": "",
+        "rewardId": "",
+        "sortId": 8312,
+        "tabImg": "bg_activity_tab_char_sign_lizhiyan",
+        "tabImgColor": "#4afdff",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_checkin_time"
+        ],
+        "themeColor": "",
+        "timeId": "time_special_1_4_1",
+        "type": 2
+      },
+      "activity_takestwo_1": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [
+          {
+            "compareOperator": 3,
+            "conditionId": "activity_takestwo_1_condition",
+            "conditionType": 19,
+            "desc": {
+              "BR": "Conclua a missão principal [Capítulo I Processo II: Pavimentando o Caminho]",
+              "CN": "完成主线任务：第一章 - 进程II - 开拓前路",
+              "DE": "Schließe die Hauptmission [Kapitel I, Prozess II: Den Weg freimachen] ab.",
+              "EN": "Complete the main mission [Chapter I Process II: Paving the Way]",
+              "FR": "Terminer la mission principale [Chapitre I - Processus II : Ouvrir la voie]",
+              "ID": "Selesaikan misi utama [Bab I Proses II: Membuka Jalan]",
+              "IT": "Completa la missione principale \"Capitolo I - Elaborazione II: Aprire la strada\"",
+              "JP": "メイン任務：第一章-プロセスⅡ「前路開拓」を完了する",
+              "KR": "메인 임무: 1장 - 프로세스 II - 앞길 개척을 완료",
+              "MX": "Completa la misión principal [Capítulo I Proceso II: Pavimentando el camino]",
+              "RU": "Завершите основную миссию: операция II главы I «Прокладывание пути»",
+              "TC": "完成主線任務：第一章 - 進度II - 開拓前路",
+              "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 2: ถาง​เส้นทาง​] ให้​สำเร็จ",
+              "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình II: Mở Đường]"
+            },
+            "jumpId": "jump_mission_main_chapter_1",
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "e1m9"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "tips": {
+              "BR": "Progresso da missão principal atual: [%s]",
+              "CN": "当前主线任务进度：「%s」",
+              "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+              "EN": "Current main mission progress: [%s]",
+              "FR": "Progression de la mission principale en cours : [%s]",
+              "ID": "Progres misi utama saat ini: [%s]",
+              "IT": "Progressi missione principale attuale: %s",
+              "JP": "現在の任務進捗：「%s」",
+              "KR": "현재 메인 임무 진도: [%s]",
+              "MX": "Progreso actual de la misión principal: [%s]",
+              "RU": "Прогресс основной миссии: %s",
+              "TC": "目前主線任務進度：「%s」",
+              "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+              "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "VÁ EM FRENTE! ACREDITE EM SI! FAÇA ISSO PELOS HERÓIS! As táticas lendárias estão te chamando! Acenda a chama da sua alma e saboreie as magníficas artes da VERDADEIRA BATALHA!",
+          "CN": "前进吧！相信吧！为了英雄们！传说中的战术在向您招手！点燃自己的灵魂，品尝战斗的美妙！",
+          "DE": "TU ES! GLAUB AN DICH! TU ES FÜR DIE HELDEN! Die legendäre Taktik ruft dich! Entfache deine brennende Seele und koste die großartigen Techniken des WAHREN KAMPFES!",
+          "EN": "GO FOR IT! HAVE FAITH IN YOURSELF! DO IT FOR THE HEROES! The legendary tactics are calling out to you! Ignite your burning soul and savor the magnificent arts of TRUE BATTLE!",
+          "FR": "ALLEZ-Y ! CROYEZ EN VOUS ! FAITES-LE POUR LES HÉROS ! Les tactiques légendaires vous appellent ! Enflammez votre âme et admirez les arts magnifiques du VÉRITABLE COMBAT !",
+          "ID": "AYO LAKUKAN! PERCAYALAH TERHADAP DIRI SENDIRI! LAKUKAN INI UNTUK PARA PAHLAWAN! Taktik legendaris memanggilmu! Nyalakan semangatmu yang membara dan nikmati kehebatan seni PERTARUNGAN SEJATI!",
+          "IT": "PROVACI! CREDI IN TE! FALLO PER GLI EROI! La leggendaria strategia ti chiama! Accendi la tua anima ardente e goditi le magnifiche arti del VERO COMBATTIMENTO!",
+          "JP": "進め！そして信じよ！英雄たちのために！伝説の戦術が君を待っている！魂を燃やし、戦いの興奮をその身で味わえ！",
+          "KR": "나아가세요! 믿으세요! 영웅들을 위하여! 전설 속 전술이 당신을 부르고 있습니다! 자신의 영혼을 불태우고, 전투의 짜릿함을 맛보세요!",
+          "MX": "¡ADELANTE! ¡TEN FE EN TI! ¡HAZLO POR LOS HÉROES! ¡Las tácticas legendarias te están llamando! ¡Enciende tu alma ardiente y saborea las magníficas artes de una VERDADERA BATALLA!",
+          "RU": "ВПЕРЕД! ВЕРЬТЕ В СЕБЯ! СДЕЛАЙТЕ ЭТО РАДИ ГЕРОЕВ! Легендарные тактики взывают к вам! Разожгите пламя в своей душе и насладитесь великолепным искусством НАСТОЯЩЕЙ БИТВЫ!",
+          "TC": "前進吧！相信吧！為了英雄們！傳說中的戰術在向您招手！點燃自己的靈魂，品嚐戰鬥的美妙！",
+          "TH": "ลุย​เลย​! จง​เชื่อมั่น​ใน​ตัวเอง​! ทำ​เพื่อ​เหล่า​วีรบุรุษ​! ยุทธวิธี​ใน​ตำนาน​กำลัง​เรียกหา​คุณ​! ปลุก​จิตวิญญาณ​อัน​ลุกโชน​ของ​คุณ​ขึ้น​มา​ แล้ว​ดื่มด่ำ​กับ​ศิลปะ​แห่ง​การต่อสู้​อัน​ยิ่งใหญ่​ของ​การต่อสู้​ที่แท้​จริง​!",
+          "VN": "XÔNG LÊN! HÃY TIN VÀO BẢN THÂN! VÌ NHỮNG ANH HÙNG MÀ CHIẾN ĐẤU! Những chiến thuật huyền thoại đang vang lời hiệu triệu! Hãy thiêu đốt chiến hồn rực cháy và nếm trọn nghệ thuật tráng lệ của CHIẾN ĐẤU ĐÍCH THỰC!"
+        },
+        "detailJumpId": "jump_dungeon_activity_takestwo_1",
+        "id": "activity_takestwo_1",
+        "immediateClose": false,
+        "instructionId": "instru_activity_takestwo",
+        "introMissionJumpId": "jump_mission_unlock_dungeon_takestwo",
+        "introMissionQuestId": "a1m11_q#IntroDialog",
+        "name": {
+          "BR": "FÚRIA TÉRMICA! MEGA-ARENA!",
+          "CN": "炽燃！竞技大会！",
+          "DE": "HITZEWUT! MEGA-ARENA!",
+          "EN": "HEAT RAGE! MEGA ARENA!",
+          "FR": "COMBAT DOUBLE ! MÉGA ARÈNE !",
+          "ID": "AMARAH MEMBARA! MEGAARENA!",
+          "IT": "FURIA INCANDESCENTE! MEGA ARENA!",
+          "JP": "燃えよ！アリーナ！",
+          "KR": "타올라라! 경기 대회!",
+          "MX": "¡FURIA ARDIENTE! ¡MEGA ARENA!",
+          "RU": "ЖАРКАЯ ЯРОСТЬ! МЕГА-АРЕНА!",
+          "TC": "熾燃！競技大會！",
+          "TH": "เพลิง​พิโรธ​! เมก้า​อารี​น่า​!",
+          "VN": "NHIỆT HUYẾT SỤC SÔI! SIÊU ĐẤU TRƯỜNG!"
+        },
+        "panelId": "ActivityDoubleAssault",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_dung01_takestwo_1_overview",
+        "sortId": 6103,
+        "tabImg": "bg_activity_tab_double_assault",
+        "tabImgColor": "#fff078",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_dungeon_fighting"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_takestwo_1",
+        "type": 41
+      },
+      "activity_high_difficulty_v1d4": {
+        "bgImg": "activity_bg_highdifficulty",
+        "bgm": "",
+        "conditions": [
+          {
+            "compareOperator": 3,
+            "conditionId": "activity_high_difficulty_unlock_condition_v1d4",
+            "conditionType": 5023,
+            "desc": {
+              "BR": "Alcance o Nível de Autoridade de Endministrator 30",
+              "CN": "管理员权限等阶到达30级",
+              "DE": "Erreiche Endministrator-Autoritätslevel 30.",
+              "EN": "Reach Endministrator Authority Level 30",
+              "FR": "Atteindre le niveau d'autorité 30 de l'Endministrator",
+              "ID": "Capai Otoritas Level 30 untuk Endministrator",
+              "IT": "Raggiungi il livello di autorità 30 dell'Endministrator.",
+              "JP": "管理人の行動レベルを30にする",
+              "KR": "관리자의 권한 등급 30레벨 도달",
+              "MX": "Alcanza el Nivel de autoridad 30 del Endministrator",
+              "RU": "Получите уровень влияния Эндминистратора 30",
+              "TC": "管理員權限等階達到30級",
+              "TH": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator ให้​ถึง​เล​เวล​ 30",
+              "VN": "Đạt Cấp Đặc Quyền 30 cho Endministrator"
+            },
+            "jumpId": "jump_adventure_book",
+            "parameters": [],
+            "progressToCompare": 30,
+            "tips": {
+              "BR": "Nível de Autoridade Atual: %d (aumente-o completando missões do Manual Operacional e ganhando EXP Operacional)",
+              "CN": "当前权限等阶%d级（可根据行动手册指引完成各项任务，获取行动资历，提升权限等阶）",
+              "DE": "Aktuelles Autoritätslevel: %d. (Erhöhe es durch Abschließen von Betriebshandbuch-Missionen und den Erhalt von Einsatz-EP.)",
+              "EN": "Current Authority Level: %d (raise it by completing Operational Manual missions and earning Operational EXP)",
+              "FR": "Niveau d'autorité actuel : %d (pour l'augmenter, terminez des missions du manuel opérationnel et gagnez de l'EXP opérationnelle)",
+              "ID": "Level Otoritas Saat Ini: %d (naikkan dengan menyelesaikan misi Panduan Operasi dan memperoleh EXP Operasional)",
+              "IT": "Livello di autorità attuale: %d (aumentalo completando le missioni del manuale operativo e ottenendo esperienza operativa).",
+              "JP": "現在の行動レベル：Lv.%d（案内所に従ってクエストをクリアし、行動遍歴を獲得して行動レベルをアップしよう）",
+              "KR": "현재 권한 등급 %d레벨 (작전 매뉴얼의 안내에 따라 각 항목의 임무를 완료하면, 작전 경력을 획득하고 권한 등급을 올릴 수 있습니다.)",
+              "MX": "Nivel de autoridad actual: %d (auméntalo completando misiones del Manual operativo y obteniendo EXP operacional)",
+              "RU": "Текущий уровень влияния: %d (чтобы повысить его, выполняйте миссии из руководства оперативника и получайте оперативный опыт)",
+              "TC": "目前權限等階%d級（可根據行動手冊指引完成各項任務，獲得行動資歷，提升權限等階）",
+              "TH": "เล​เวล​ของ​เจ้าพนักงาน​ปัจจุบัน​: %d (เพิ่ม​โดย​การ​ทำ​ภารกิจ​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​และ​รับ​ EXP ปฏิบัติงาน​)",
+              "VN": "Cấp Đặc Quyền Hiện Tại: %d (tăng cấp bằng cách hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành và tích lũy EXP Tác Chiến)"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "detailJumpId": "jump_high_difficulty",
+        "id": "activity_high_difficulty_v1d4",
+        "immediateClose": false,
+        "instructionId": "activity_high_difficulty",
+        "introMissionJumpId": "jump_mission_unlock_high_difficulty",
+        "introMissionQuestId": "a1m4_q#UnlockDungeon",
+        "name": {
+          "BR": "Entalhe Monumental: Uivo Bestial",
+          "CN": "丰碑留名·兽犼",
+          "DE": "Monumentales Ätzen: Bestialisches Heulen",
+          "EN": "Monumental Etching: Beastly Howl",
+          "FR": "Gravure monumentale : rugissement bestial",
+          "ID": "Pengukiran Monumental: Lolongan Menggelegar",
+          "IT": "Incisione monumentale: Urlo bestiale",
+          "JP": "記憶の痕・獣吼",
+          "KR": "기억의 흔적 · 비스트의 외침",
+          "MX": "Grabado monumental: Aullido bestial",
+          "RU": "Памятные знаки: Звериный вой",
+          "TC": "豐碑留名·獸犼",
+          "TH": "การแกะสลัก​อนุสรณ์​: เสียง​หอน​แห่ง​อสูร​ร้าย",
+          "VN": "Văn Khắc Kỷ Niệm: Tiếng Tru Dã Thú"
+        },
+        "panelId": "ActivityHighDifficulty",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "",
+        "sortId": 6010,
+        "tabImg": "activity_tab_bg_highdifficulty_v1d4",
+        "tabImgColor": "#ff3632",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_high_difficulty"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_high_difficulty_v1d4",
+        "type": 8
+      },
+      "activity_lottery_v1d4": {
+        "bgImg": "",
+        "bgm": "au_music_meta_ui_scratchoff_v1d4",
+        "conditions": [],
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "detailJumpId": "",
+        "id": "activity_lottery_v1d4",
+        "immediateClose": false,
+        "instructionId": "instru_activity_lottery",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Conecte e Vença da Fortuna",
+          "CN": "宏运连连乐",
+          "DE": "Verbinden-und-gewinnen: Vermögen",
+          "EN": "Fortune Connect-and-Win",
+          "FR": "Connexion gagnante de la chance",
+          "ID": "Sambung & Menang Keberuntungan",
+          "IT": "Connetti e tenta la sorte",
+          "JP": "幸運スクラッチ",
+          "KR": "대박 행운권",
+          "MX": "Conecta y gana de la fortuna",
+          "RU": "Моментальная лотерея",
+          "TC": "宏運連連樂",
+          "TH": "เชื่อมต่อ​แล้ว​ลุ้น​โชค",
+          "VN": "Kết Nối Và Chiến Thắng: Vận May"
+        },
+        "panelId": "ActivityScratchOffLottery",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "",
+        "sortId": 8311,
+        "tabImg": "activity_tab_bg_scratchofflottery",
+        "tabImgColor": "#fff078",
+        "tabImgGender": false,
+        "tagIds": [],
+        "themeColor": "",
+        "timeId": "time_activity_lottery_v1d4",
+        "type": 14
+      },
+      "activity_map02_guide_008": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [
+          {
+            "compareOperator": 3,
+            "conditionId": "activity_guide_northarea_unlockmain",
+            "conditionType": 18,
+            "desc": {
+              "BR": "Na missão principal [Capítulo II Processo VII: Romper Bravamente os Ventos Hostis], conclua [Vá até a Passagem de Yinglung]",
+              "CN": "在主线任务「第二章 - 进程Ⅶ - 长风破浪」中，完成「前往应龙关」",
+              "DE": "Schließe in der Hauptmission [Kapitel II, Prozess VII: Tapfer gegen die feindlichen Winde] [Begib dich zum Yinglung-Pass] ab.",
+              "EN": "In the main mission [Chapter Ⅱ Process Ⅶ: Bravely Breach the Hostile Winds], complete [Go to Yinglung Pass]",
+              "FR": "Dans la mission principale [Chapitre II - Processus VII : Du courage pour braver la tempête], terminer [Se rendre au col de Yinglung]",
+              "ID": "Di misi utama [Bab II Proses VII: Tak Gentar Terjang Angin Kejam], selesaikan [Pergi ke Terusan Yinglung]",
+              "IT": "Nella missione principale \"Capitolo Ⅱ - Elaborazione Ⅶ: Valorosa avanzata tra venti avversi\", completa \"Vai al Valico di Yinglung\".",
+              "JP": "メイン任務：第二章-プロセスⅦ「荒波を越えて-応龍関へ向かう」を完了する",
+              "KR": "메인 임무 [2장 - 프로세스 VII - 파도를 가르는 거센 바람]에서 [응룡 관문으로 이동하기] 완료",
+              "MX": "En la misión principal [Capítulo II Proceso VII: Enfrenta con valentía los vientos hostiles], completa [Ve al Paso de Yinglung]",
+              "RU": "Доберитесь до заставы «Инлуна» в рамках основной миссии: операция VII главы II «Смело навстречу враждебным ветрам»",
+              "TC": "在主線任務「第二章 - 進度VII - 長風破浪」中，完成「前往應龍關」",
+              "TH": "ใน​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 7: ฝ่า​ลม​ร้าย​อย่างกล้าหาญ​] ผ่าน​ [ไป​ยัง​ทางผ่าน​ห​ยิง​หลง​]",
+              "VN": "Trong nhiệm vụ chính [Chương Ⅱ - Tiến Trình Ⅶ: Can Trường Xé Nghịch Phong], hoàn thành [Đến Đèo Yinglung]"
+            },
+            "jumpId": "jump_mission_main_chapter_2",
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "e11m1_q#7"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "tips": {
+              "BR": "Progresso da missão principal atual: [%s]",
+              "CN": "当前主线任务进度：「%s」",
+              "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+              "EN": "Current main mission progress: [%s]",
+              "FR": "Progression de la mission principale en cours : [%s]",
+              "ID": "Progres misi utama saat ini: [%s]",
+              "IT": "Progressi missione principale attuale: %s",
+              "JP": "現在の任務進捗：「%s」",
+              "KR": "현재 메인 임무 진도: [%s]",
+              "MX": "Progreso actual de la misión principal: [%s]",
+              "RU": "Прогресс основной миссии: %s",
+              "TC": "目前主線任務進度：「%s」",
+              "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+              "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "A Fenda Gigante ainda emite seu \"brilho\" de desespero. Mas este é o dia em que retornamos à ferida que se recusa a cicatrizar.",
+          "CN": "甚大裂隙的“光辉”依然令人绝望，但如今，我们即将走向这道久不愈合的伤口。",
+          "DE": "Der Riesige Riss verströmt immer noch Wellen der Verzweiflung. Aber heute ist der Tag, an dem wir zur klaffenden Wunde zurückkehren, die sich weigert, zu heilen.",
+          "EN": "The Very Large Rift still emits its \"radiance\" of despair. But this is the day when we return to the gash that refuses to be healed.",
+          "FR": "Le désespoir émane toujours de la faille immense. Aujourd'hui, nous retournons auprès de cette plaie qui refuse de cicatriser.",
+          "ID": "Celah Raksasa itu masih memancarkan “cahaya” keputusasaan. Tapi, inilah hari saat kita kembali menuju luka yang tak kunjung sembuh.",
+          "IT": "La Vasta spaccatura emana ancora la sua \"luce\" di disperazione. Ma questo è il giorno in cui torniamo alla ferita che non vuole rimarginarsi.",
+          "JP": "巨大な裂け目が放つ「輝き」は、今なお人々を絶望させている。しかし今、その癒えることのない傷口へと歩みを進める。",
+          "KR": "대균열의 '기세'는 여전히 절망적입니다. 하지만 이제, 우리는 오랫동안 아물지 않은 그 상처를 향해 나아가려 합니다.",
+          "MX": "La Grieta gigantesca aún emite su “resplandor” de desesperación. Pero hoy es el día en que volvemos la mirada hacia la herida que se niega a sanar.",
+          "RU": "Огромный разлом все еще источает отчаяние. Но сегодня тот день, когда мы вернемся к ране, которая никак не заживет.",
+          "TC": "甚大裂隙的「光輝」依然令人絕望，但如今，我們即將走向這道久不癒合的傷口。",
+          "TH": "รอยแยก​ขนาด​มหึมา​ยังคง​แผ่​ \"แสงเรือง​รอง​\" แห่ง​ความสิ้นหวัง​ออกมา​ ทว่า​วันนี้​คือ​วันที่​เรา​จะ​หวนคืน​สู่​บาดแผล​ที่​ไม่ยอม​สมาน​นั้น​อีกครั้ง",
+          "VN": "Khe Nứt Cực Lớn vẫn tỏa ra thứ “ánh sáng” khiến người ta tuyệt vọng. Nhưng hôm nay, chúng ta sẽ trở về nơi vết thương vẫn khước từ khép miệng ấy."
+        },
+        "detailJumpId": "",
+        "id": "activity_map02_guide_008",
+        "immediateClose": false,
+        "instructionId": "activity_guide_northarea",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Olhar em Direção à Exclusão do Norte",
+          "CN": "北观禁土",
+          "DE": "Blicke zur Sperrzone Nord",
+          "EN": "Gaze Towards the Northern Exclusion",
+          "FR": "Regard tourné vers la zone d'exclusion",
+          "ID": "Tataplah Zona Eksklusi Utara",
+          "IT": "Guarda verso l'Area interdetta a nord",
+          "JP": "北の禁門を望む",
+          "KR": "북쪽 관측 금지 구역",
+          "MX": "Contemplando la Exclusión del norte",
+          "RU": "Вид на северную зону отчуждения",
+          "TC": "北觀禁土",
+          "TH": "มอง​สู่​เขต​พิเศษ​แดน​เหนือ",
+          "VN": "Dõi Về Khu Cấm Bắc"
+        },
+        "panelId": "ActivityVersionGuide",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_activity_guide_northarea_overview",
+        "sortId": 8005,
+        "tabImg": "activity_tab_bg_north_preserve",
+        "tabImgColor": "#ecdc88",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_guide"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_guide_northarea",
+        "type": 13
+      },
+      "activity_racingdungeon_1": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [
+          {
+            "compareOperator": 3,
+            "conditionId": "activity_racingdungeon_1_unlock_condition_1",
+            "conditionType": 19,
+            "desc": {
+              "BR": "Conclua a missão principal [Capítulo I Processo II: Pavimentando o Caminho]",
+              "CN": "完成主线任务：第一章 - 进程II - 开拓前路",
+              "DE": "Schließe die Hauptmission [Kapitel I, Prozess II: Den Weg freimachen] ab.",
+              "EN": "Complete the main mission [Chapter I Process II: Paving the Way]",
+              "FR": "Terminer la mission principale [Chapitre I - Processus II : Ouvrir la voie]",
+              "ID": "Selesaikan misi utama [Bab I Proses II: Membuka Jalan]",
+              "IT": "Completa la missione principale \"Capitolo I - Elaborazione II: Aprire la strada\"",
+              "JP": "メイン任務：第一章-プロセスⅡ「前路開拓」を完了する",
+              "KR": "메인 임무: 1장 - 프로세스 II - 앞길 개척을 완료",
+              "MX": "Completa la misión principal [Capítulo I Proceso II: Pavimentando el camino]",
+              "RU": "Завершите основную миссию: операция II главы I «Прокладывание пути»",
+              "TC": "完成主線任務：第一章 - 進度II - 開拓前路",
+              "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 2: ถาง​เส้นทาง​] ให้​สำเร็จ",
+              "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình II: Mở Đường]"
+            },
+            "jumpId": "jump_mission_main_chapter_1",
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "e1m9"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "tips": {
+              "BR": "Progresso da missão principal atual: [%s]",
+              "CN": "当前主线任务进度：「%s」",
+              "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+              "EN": "Current main mission progress: [%s]",
+              "FR": "Progression de la mission principale en cours : [%s]",
+              "ID": "Progres misi utama saat ini: [%s]",
+              "IT": "Progressi missione principale attuale: %s",
+              "JP": "現在の任務進捗：「%s」",
+              "KR": "현재 메인 임무 진도: [%s]",
+              "MX": "Progreso actual de la misión principal: [%s]",
+              "RU": "Прогресс основной миссии: %s",
+              "TC": "目前主線任務進度：「%s」",
+              "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+              "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Um jovem \"operador\" está de guarda. Vamos dar uma olhada no misterioso portal do Espaço do Protocolo que ele encontrou.",
+          "CN": "小小的“干员”正在警戒着，要不要去看看他发现了通往何处的入口？",
+          "DE": "Ein junger „Operator“ steht Wache. Werfen wir einen Blick auf das geheimnisvolle Protokoll-Dimensionsportal, das er gefunden hat.",
+          "EN": "A young \"operator\" is standing guard. Let's take a look at the mysterious Protocol Space portal he found.",
+          "FR": "Un jeune « opérateur » monte la garde. Voyons le mystérieux portail de l'espace de Protocole qu'il a découvert.",
+          "ID": "Seorang “operator” muda sedang berjaga. Ayo lihat portal Dimensi Protokol misterius yang dia temukan.",
+          "IT": "Un giovane \"operatore\" è di guardia. Diamo un'occhiata al misterioso portale dello Spazio protocollare che ha trovato.",
+          "JP": "小さな「オペレーター」が警戒しているようだ。見つけた入口の先を確かめに行こう。",
+          "KR": "어느 자그마한 '오퍼레이터'가 경계를 서고 있습니다. 오퍼레이터가 발견한 입구가 어디로 이어지는지 한번 확인해 볼까요?",
+          "MX": "Un joven “operador” está haciendo guardia. Echemos un vistazo al misterioso portal del Espacio de protocolo que encontró.",
+          "RU": "Молодой «оперативник» несет стражу. Он нашел таинственный портал в протокольный разлом. Давайте на него взглянем.",
+          "TC": "小小的「幹員」正在警戒著，要不要去看看他發現了通往何處的入口？",
+          "TH": "\"โอเปอเรเตอร์​\" หนุ่มน้อย​คน​หนึ่ง​กำลัง​ยืน​เฝ้ายาม​อยู่​ ไปดู​ประตู​สู่​พื้นที่​โปร​โต​คอล​ปริศนา​ที่​เขา​พบกัน​เถอะ",
+          "VN": "Một “cán viên” trẻ tuổi đang canh gác ở đây. Hãy cùng xem cánh cổng Không Gian Giao Thức bí ẩn mà cậu ấy vừa phát hiện."
+        },
+        "detailJumpId": "",
+        "id": "activity_racingdungeon_1",
+        "immediateClose": false,
+        "instructionId": "activity_racingdungeon_1",
+        "introMissionJumpId": "jump_mission_activity_racingdungeon_1",
+        "introMissionQuestId": "a1m13_q#IntroDialog",
+        "name": {
+          "BR": "O Reino Enraizado",
+          "CN": "根脉奇境",
+          "DE": "Das Geerdete Reich",
+          "EN": "The Rooted Realm",
+          "FR": "Le royaume enraciné",
+          "ID": "Buana Akar",
+          "IT": "Il Regno radicato",
+          "JP": "根脈奇景",
+          "KR": "미지의 구역",
+          "MX": "El Reino Arraigado",
+          "RU": "Царство корней",
+          "TC": "根脈奇境",
+          "TH": "ดินแดน​หยั่งราก",
+          "VN": "Vùng Đất Khởi Nguyên"
+        },
+        "panelId": "ActivityCoin",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_activity_racingdungeon_1_overview",
+        "sortId": 6102,
+        "tabImg": "activity_tab_bg_racing_dungeon",
+        "tabImgColor": "#ffffff",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_racingdungeon"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_racingdungeon_1",
+        "type": 40
+      },
+      "activity_skipchapter_1": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [
+          {
+            "compareOperator": 3,
+            "conditionId": "activity_skipchapter_1_unlock_condtion_1",
+            "conditionType": 19,
+            "desc": {
+              "BR": "Conclua a missão principal [Capítulo I Processo II: Progresso da Correção]",
+              "CN": "完成主线任务：第一章 - 进程II - 修缮进展",
+              "DE": "Schließe die Hauptmission [Kapitel I, Prozess II: Sanierungsfortschritt] ab.",
+              "EN": "Complete the main mission [Chapter I Process II: Remediation Progress]",
+              "FR": "Terminer la mission principale : [Chapitre I - Processus II : Progression de la restauration]",
+              "ID": "Selesaikan misi utama [Bab I Proses II: Progres Remediasi]",
+              "IT": "Completa la missione principale \"Capitolo I - Elaborazione II: Progressi di risanamento\".",
+              "JP": "メイン任務：第一章-プロセスⅡ「修繕の進捗」を完了する",
+              "KR": "메인 임무: 1장 - 프로세스 II - 수리 진행 상황을 완료",
+              "MX": "Completa la misión principal [Capítulo I Proceso II: Progreso de remediación]",
+              "RU": "Завершите основную миссию: операция II главы I «Прогресс восстановления»",
+              "TC": "完成主線任務：第一章 - 進度II - 修繕進展",
+              "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 2: ความคืบหน้า​การบูร​ณะ​] ให้​สำเร็จ",
+              "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình II: Tiến Độ Khắc Phục]"
+            },
+            "jumpId": "jump_mission_main",
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "e1m10"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "tips": {
+              "BR": "Progresso da missão principal atual: [%s]",
+              "CN": "当前主线任务进度：「%s」",
+              "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+              "EN": "Current main mission progress: [%s]",
+              "FR": "Progression de la mission principale en cours : [%s]",
+              "ID": "Progres misi utama saat ini: [%s]",
+              "IT": "Progressi missione principale attuale: %s",
+              "JP": "現在の任務進捗：「%s」",
+              "KR": "현재 메인 임무 진도: [%s]",
+              "MX": "Progreso actual de la misión principal: [%s]",
+              "RU": "Прогресс основной миссии: %s",
+              "TC": "目前主線任務進度：「%s」",
+              "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+              "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "O incidente em Vale IV foi resolvido, mas marés sombrias estão afetando Wuling. Nefarith reapareceu com os olhos fixos na Fenda Gigante. Ela precisa ser detida, Endministrator.",
+          "CN": "四号谷地事毕，武陵却有风波，聂菲斯再度现身，意指甚大裂隙。请阻止她吧，管理员。",
+          "DE": "Der Vorfall in Tal IV ist vorüber, aber Wuling stehen düstere Zeiten bevor. Nefarith ist wieder aufgetaucht und hat den Riesigen Riss im Visier. Du musst sie aufhalten, Endministrator!",
+          "EN": "The incident at Valley IV has been settled but dark tides are affecting Wuling. Nefarith has appeared once more with her eyes set on the Very Large Rift. She must be stopped, Endministrator.",
+          "FR": "L'incident dans la Vallée-IV a été réglé, mais de sombres marées affligent Wuling. Nefarith est de retour et convoite toujours la faille immense. Vous devez l'arrêter à tout prix, Endministrator.",
+          "ID": "Insiden di Lembah IV telah berakhir, tapi gelombang gelap kini mengancam Wuling. Nefarith telah muncul kembali dan mengincar Celah Raksasa. Dia harus dihentikan, Endministrator.",
+          "IT": "L'incidente nella Valle IV è stato risolto, ma maree oscure stanno colpendo Wuling. Nefarith è riapparsa, con lo sguardo puntato sulla Vasta spaccatura. Bisogna fermarla, Endministrator.",
+          "JP": "四号谷地での一件が終息した矢先、今度は武陵で新たな風波が立っていた。ネファリスが再び姿を現し、巨大な裂け目に狙いを定めているという。管理人、どうかネファリスを止めてください。",
+          "KR": "4번 협곡의 일은 마무리됐지만, 무릉에는 또 다른 파문이 일고 있습니다. 네파리스가 다시 모습을 드러내 대균열을 노리고 있습니다. 그녀를 막아 주세요, 관리자님.",
+          "MX": "El incidente en Valle IV ya se resolvió, pero hay mareas oscuras afectando a Wuling. Nefarith ha aparecido una vez más con la mirada puesta en la Grieta gigantesca. Debemos detenerla, Endministrator.",
+          "RU": "Инцидент в Долине IV исчерпан, но над Улином сгущаются тучи. Неферит снова объявилась, и ее цель — огромный разлом. Эндминистратор, мы должны остановить ее.",
+          "TC": "四號谷地事畢，武陵卻有風波，聶菲斯再度現身，意指甚大裂隙。請阻止她吧，管理員。",
+          "TH": "เหตุการณ์​ที่​หุบเขา​ IV คลี่คลาย​แล้ว​ แต่​กระแส​อัน​มืดมน​ยังคง​แผ่​ปกคลุม​อู่​หลิง​ เน​ฟา​ริธ​ได้​ปรากฏตัว​ขึ้น​อีกครั้ง​โดย​มี​รอยแยก​ขนาด​มหึมา​เป็น​เป้าหมาย​ คุณ​ต้อง​หยุด​เธอ​ให้​ได้​ Endministrator",
+          "VN": "Sự cố tại Thung Lũng IV đã được giải quyết, nhưng những ám triều đang ảnh hưởng đến Võ Lăng. Nefarith đã xuất hiện một lần nữa và lần này ả nhắm đến Khe Nứt Cực Lớn. Phải ngăn ả ta lại, Endministrator."
+        },
+        "detailJumpId": "",
+        "id": "activity_skipchapter_1",
+        "immediateClose": true,
+        "instructionId": "instru_activity_skipchapter_1",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Desbloqueio Antecipado da Missão Principal: Wuling",
+          "CN": "主线先行解锁：武陵",
+          "DE": "Frühe Freischaltung: Wuling – Hauptmission",
+          "EN": "Main Mission Early Unlock: Wuling",
+          "FR": "Déblocage anticipé de mission principale : Wuling",
+          "ID": "Misi Utama Buka Lebih Awal: Wuling",
+          "IT": "Missione principale Sblocco anticipato: Wuling",
+          "JP": "メイン任務先行解放：武陵",
+          "KR": "메인 선행 해제: 무릉",
+          "MX": "Desbloqueo anticipado de Misión principal: Wuling",
+          "RU": "Основная миссия — раннее открытие: Улин",
+          "TC": "主線先行解鎖：武陵",
+          "TH": "ปลดล็อก​ภารกิจ​หลัก​ล่วงหน้า​: อู่​หลิง",
+          "VN": "Nhiệm Vụ Chính Mở Khóa Sớm: Võ Lăng"
+        },
+        "panelId": "ActivitySkipChapter1",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_activity_skip_chapter_1",
+        "sortId": 10081,
+        "tabImg": "bg_activity_tab_skip_level",
+        "tabImgColor": "#00e2ba",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_skip_chapter"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_skipchapter_1",
+        "type": 44
+      },
+      "activity_stamina_refund_1d4d1": {
+        "bgImg": "activity_bg_stamina_discount",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "detailJumpId": "jump_stamina_reduce_1",
+        "id": "activity_stamina_refund_1d4d1",
+        "immediateClose": false,
+        "instructionId": "instru_activity_stamina_refund",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Suprimento de Sanidade",
+          "CN": "理智补给",
+          "DE": "Verstandsversorgung",
+          "EN": "Sanity Supply",
+          "FR": "Approvisionnement en lucidité",
+          "ID": "Pasokan Sanity",
+          "IT": "Fornitura di Lucidità",
+          "JP": "理性補給",
+          "KR": "이성 보급",
+          "MX": "Suministro de Cordura",
+          "RU": "Поставка рассудка",
+          "TC": "理智補給",
+          "TH": "เสบียง​ค่า​สติ",
+          "VN": "Tiếp Tế Tinh Chất Tỉnh Táo"
+        },
+        "panelId": "ActivityStaminaDiscount",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_activity_stamina_return_stage_3",
+        "sortId": 4000,
+        "tabImg": "activity_tab_bg_stamina",
+        "tabImgColor": "#fff100",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_time_limited"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_stamina_refund_1d4d1",
+        "type": 29
+      },
+      "activity_stamina_refund_1d4d2": {
+        "bgImg": "activity_bg_stamina_discount",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "detailJumpId": "jump_stamina_reduce_1",
+        "id": "activity_stamina_refund_1d4d2",
+        "immediateClose": false,
+        "instructionId": "instru_activity_stamina_refund",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Suprimento de Sanidade",
+          "CN": "理智补给",
+          "DE": "Verstandsversorgung",
+          "EN": "Sanity Supply",
+          "FR": "Approvisionnement en lucidité",
+          "ID": "Pasokan Sanity",
+          "IT": "Fornitura di Lucidità",
+          "JP": "理性補給",
+          "KR": "이성 보급",
+          "MX": "Suministro de Cordura",
+          "RU": "Поставка рассудка",
+          "TC": "理智補給",
+          "TH": "เสบียง​ค่า​สติ",
+          "VN": "Tiếp Tế Tinh Chất Tỉnh Táo"
+        },
+        "panelId": "ActivityStaminaDiscount",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_activity_stamina_return_stage_3",
+        "sortId": 4000,
+        "tabImg": "activity_tab_bg_stamina",
+        "tabImgColor": "#fff100",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_time_limited"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_stamina_refund_1d4d2",
+        "type": 29
+      },
+      "web_activity_v1d4_pullback_01": {
+        "bgImg": "activity_bg_recall",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "As notificações estão se espalhando. Dados de texto e áudio estão sendo enviados para todos os cantos do mundo. Se você diminuiu o ritmo das suas viagens, ouça o chamado que nos convida a retornar a Talos-II.",
+          "CN": "信息开始扩散，文字与声音传递向各方，暂缓旅行的人们，愿各位能重归塔卫二。",
+          "DE": "Die Nachricht verbreitet sich wie ein Lauffeuer. Text- und Audiodateien werden in jeden Winkel der Welt versendet. Wenn du deine Reise verlangsamt hast, hör auf den Ruf, der uns dazu auffordert, nach Talos-II zurückzukehren.",
+          "EN": "The notifications are spreading. Text and audio data are being sent to every corner of the world. If you have slowed down your travels, listen to the call that beckons us to return to Talos-II.",
+          "FR": "Les notifications se multiplient. Les données textuelles et audio se propagent de par le monde. À ceux qui ont interrompu leur voyage, écoutez la voix qui vous intime de revenir sur Talos-II.",
+          "ID": "Pemberitahuannya makin luas. Data teks dan audio dikirim ke seluruh penjuru dunia. Jika kamu memperlambat perjalananmu, dengarkan panggilan yang mengajak kita pulang ke Talos-II.",
+          "IT": "Le notifiche si stanno diffondendo. Dati testuali e audio vengono inviati in ogni angolo del mondo. Se hai rallentato i tuoi viaggi, ascolta il richiamo che ci invita a tornare su Talos-II.",
+          "JP": "情報は次第に広まり、言葉と声は遠くまで運ばれていく。旅を中断した人々が、再びタロⅡへ帰り着くことを願って。",
+          "KR": "새로운 정보가 사방으로 널리 퍼지고, 메시지와 목소리가 각지에 울려 퍼지는 지금! 여정을 잠시 멈추었던 관리자님, 이제 다시 탈로스 II로 돌아올 시간입니다.",
+          "MX": "Las notificaciones se están propagando. Se están enviando datos de texto y audio a todos los rincones del mundo. Si has ralentizado tus viajes, escucha el llamado que nos invita a volver a Talos-II.",
+          "RU": "Уведомления рассылаются. Текстовые и аудиоданные отправляются во все уголки мира. Если вы сделали паузу в своих странствиях, прислушайтесь к голосу, призывающему вернуться на Талос II.",
+          "TC": "訊息開始擴散，文字與聲音傳遞向各方，暫緩旅行的人們，願各位能重歸塔衛二。",
+          "TH": "การ​แจ้ง​เตือน​กำลัง​แพร่กระจาย​ ข้อมูล​ข้อความ​และ​เสียง​กำลัง​ถูก​ส่ง​ไป​ยัง​ทุก​มุม​โลก​ หาก​คุณ​ได้​ชะลอ​การ​เดินทาง​ลง​แล้ว​ จง​รับฟัง​เสียง​เรียก​ที่​เชื้อเชิญ​ให้​เรา​หวนคืน​สู่​ทาล​อส​-II อีกครั้ง",
+          "VN": "Những thông báo đang lan truyền. Dữ liệu văn bản và âm thanh được gửi đến mọi ngóc ngách của thế giới. Nếu bước chân lữ hành của bạn đã chậm lại, hãy lắng nghe tiếng gọi đang mời gọi chúng ta trở về Talos-II."
+        },
+        "detailJumpId": "",
+        "id": "web_activity_v1d4_pullback_01",
+        "immediateClose": false,
+        "instructionId": "instru_pullback_01",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Convite para o Protocolo: O Retorno",
+          "CN": "协议邀约：重归",
+          "DE": "Protokoll-Einladung: Die Rückkehr",
+          "EN": "Protocol Invitation: The Return",
+          "FR": "Invitation du Protocole : le retour",
+          "ID": "Undangan Protokol: Kembalinya",
+          "IT": "Invito di protocollo: Il ritorno",
+          "JP": "協約招待：帰還",
+          "KR": "프로토콜의 초대: 귀환",
+          "MX": "Invitación de Protocolo: El regreso",
+          "RU": "Протокольное приглашение «Возвращение»",
+          "TC": "協議邀約：重歸",
+          "TH": "คำเชิญ​แห่ง​โปร​โต​คอล​: การ​หวนคืน",
+          "VN": "Lời Mời Giao Thức: Trở Về"
+        },
+        "panelId": "ActivityWEBRecall",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "ActivityWEB",
+        "rewardId": "reward_web_activity_pullback_01",
+        "sortId": 1003,
+        "tabImg": "activity_tab_bg_recall",
+        "tabImgColor": "#fff100",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_springfest"
+        ],
+        "themeColor": "",
+        "timeId": "time_activity_callback",
+        "type": 45
+      }
+    },
+    "removed": {},
+    "changed": {
+      "CharacterGuide_aglina": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_aglina_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\"",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_CharacterGuide",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Uma mensageira de vermelho está ajudando a reconstruir Vale IV. Ela tem uma carta especial em cima de uma pilha considerável de pacotes...",
+            "CN": "红色的信使在协助重建四号谷地，在堆成小山的货物间，躺着一封属于信使的信……",
+            "DE": "Eine Botin in Rot hilft beim Wiederaufbau von Tal IV. Auf einem ziemlich großen Stapel Pakete liegt ein besonderer Brief von ihr …",
+            "EN": "A messenger in red is helping to rebuild Valley IV. She has a special letter lying atop a rather sizable pile of packages...",
+            "FR": "Une messagère en rouge apporte son aide pour reconstruire la Vallée-IV. Elle est en possession d'une lettre spéciale, tout en haut d'une grosse pile de colis...",
+            "ID": "Seorang kurir berpakaian merah membantu membangun kembali Lembah IV. Dia punya surat istimewa yang tergeletak di atas setumpuk besar paket ....",
+            "IT": "Una messaggera vestita di rosso sta contribuendo alla ricostruzione di Valle IV. Conserva una lettera speciale in cima a una grossa pila di altri pacchi...",
+            "JP": "赤い服を着たトランスポーターが、四号谷地の再建を手伝っている。山のように積まれた荷物の片隅に、彼女の手紙が一通置かれていた――",
+            "KR": "빨간 옷의 전달자가 4번 협곡의 재건을 돕고 있습니다. 산더미처럼 쌓인 화물들 사이, 떨어진 한 통의 편지가 전달자의 손길을 기다립니다...",
+            "MX": "Una mensajera de rojo está ayudando a reconstruir el Valle IV. Tiene una carta especial sobre una pila bastante grande de paquetes...",
+            "RU": "Гонец в красном помогает восстанавливать Долину IV. На внушительной горе посылок лежит особое письмо...",
+            "TC": "紅色的信使在協助重建四號谷地，在堆成小山的貨物間，躺著一封屬於信使的信……",
+            "TH": "ผู้ส่งสาร​ใน​ชุด​สีแดง​กำลัง​ช่วย​ฟื้นฟู​หุบเขา​ IV เธอ​มี​จดหมาย​พิเศษ​วาง​อยู่​บน​พัสดุ​กอง​โต​...",
+            "VN": "Một liên lạc viên mặc trang phục đỏ đang giúp tái thiết Thung Lũng IV. Cô mang theo một bức thư đặc biệt nằm trên đống bưu kiện cao ngất..."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_aglina",
+          "id": "CharacterGuide_aglina",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_aglina",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Carta de uma Mensageira",
+            "CN": "信使的信",
+            "DE": "Brief von einer Botin",
+            "EN": "Letter From a Messenger",
+            "FR": "Lettre d'une messagère",
+            "ID": "Surat dari Seorang Kurir",
+            "IT": "Lettera da una messaggera",
+            "JP": "トランスポーターからの手紙",
+            "KR": "전달자의 편지",
+            "MX": "Carta de la mensajera",
+            "RU": "Письмо от гонца",
+            "TC": "信使的信",
+            "TH": "จดหมาย​จาก​ผู้ส่งสาร",
+            "VN": "Thư Từ Một Liên Lạc Viên"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_aglina_reward",
+          "sortId": 3001,
+          "tabImg": "bg_activity_tab_char_guide_aglina",
+          "tabImgColor": "#EE1F1F",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_aglina",
+          "type": 10
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_aglina_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\"",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_main_chapter_1",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Uma mensageira de vermelho está ajudando a reconstruir Vale IV. Ela tem uma carta especial em cima de uma pilha considerável de pacotes...",
+            "CN": "红色的信使在协助重建四号谷地，在堆成小山的货物间，躺着一封属于信使的信……",
+            "DE": "Eine Botin in Rot hilft beim Wiederaufbau von Tal IV. Auf einem ziemlich großen Stapel Pakete liegt ein besonderer Brief von ihr …",
+            "EN": "A messenger in red is helping to rebuild Valley IV. She has a special letter lying atop a rather sizable pile of packages...",
+            "FR": "Une messagère en rouge apporte son aide pour reconstruire la Vallée-IV. Elle est en possession d'une lettre spéciale, tout en haut d'une grosse pile de colis...",
+            "ID": "Seorang kurir berpakaian merah membantu membangun kembali Lembah IV. Dia punya surat istimewa yang tergeletak di atas setumpuk besar paket ....",
+            "IT": "Una messaggera vestita di rosso sta contribuendo alla ricostruzione di Valle IV. Conserva una lettera speciale in cima a una grossa pila di altri pacchi...",
+            "JP": "赤い服を着たトランスポーターが、四号谷地の再建を手伝っている。山のように積まれた荷物の片隅に、彼女の手紙が一通置かれていた――",
+            "KR": "빨간 옷의 전달자가 4번 협곡의 재건을 돕고 있습니다. 산더미처럼 쌓인 화물들 사이, 떨어진 한 통의 편지가 전달자의 손길을 기다립니다...",
+            "MX": "Una mensajera de rojo está ayudando a reconstruir el Valle IV. Tiene una carta especial sobre una pila bastante grande de paquetes...",
+            "RU": "Гонец в красном помогает восстанавливать Долину IV. На внушительной горе посылок лежит особое письмо...",
+            "TC": "紅色的信使在協助重建四號谷地，在堆成小山的貨物間，躺著一封屬於信使的信……",
+            "TH": "ผู้ส่งสาร​ใน​ชุด​สีแดง​กำลัง​ช่วย​ฟื้นฟู​หุบเขา​ IV เธอ​มี​จดหมาย​พิเศษ​วาง​อยู่​บน​พัสดุ​กอง​โต​...",
+            "VN": "Một liên lạc viên mặc trang phục đỏ đang giúp tái thiết Thung Lũng IV. Cô mang theo một bức thư đặc biệt nằm trên đống bưu kiện cao ngất..."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_aglina",
+          "id": "CharacterGuide_aglina",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_aglina",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Carta de uma Mensageira",
+            "CN": "信使的信",
+            "DE": "Brief von einer Botin",
+            "EN": "Letter From a Messenger",
+            "FR": "Lettre d'une messagère",
+            "ID": "Surat dari Seorang Kurir",
+            "IT": "Lettera da una messaggera",
+            "JP": "トランスポーターからの手紙",
+            "KR": "전달자의 편지",
+            "MX": "Carta de la mensajera",
+            "RU": "Письмо от гонца",
+            "TC": "信使的信",
+            "TH": "จดหมาย​จาก​ผู้ส่งสาร",
+            "VN": "Thư Từ Một Liên Lạc Viên"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_aglina_reward",
+          "sortId": 3001,
+          "tabImg": "bg_activity_tab_char_guide_aglina",
+          "tabImgColor": "#EE1F1F",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_aglina",
+          "type": 10
+        },
+        "changed": {
+          "conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          }
+        }
+      },
+      "CharacterGuide_camille": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_camille_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\".",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅰ – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_CharacterGuide",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Progresso da missão principal atual: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Seš'qa enviou uma mensagem solicitando seu apoio para Camille, o Agaš'mekanaz, que está tentando resolver um caso relacionado a uma amostra de sangue desaparecida. Os Sarkaz não pedem favores sem um bom motivo. Talvez existam segredos não revelados mais profundos neste caso.",
+            "CN": "塞什卡发来信息，请求你协助看护人卡缪破获一起血液样本失踪的案件。萨卡兹们可不会随便劳烦你，或许，案件下掩藏着更深的秘密？",
+            "DE": "Seš’qa hat eine Nachricht geschickt und erbittet im Namen von Agaš’mekanaz Camille, der versucht, das Rätsel um eine verschwundene Blutprobe zu lösen, deine Hilfe. Die Sarkaz sind nicht dafür bekannt, leichtfertig um Unterstützung zu bitten. Vielleicht stecken hinter diesem Fall noch weiterreichende Geheimnisse.",
+            "EN": "Seš'qa has sent a message requesting your support for Camille the Agaš'mekanaz, who is trying to solve a case involving a missing blood sample. The Sarkaz do not call for favors lightly. Perhaps untold secrets lay deeper within this case.",
+            "FR": "Seš'qa a envoyé un message vous demandant de prêter main-forte à Camille, l'Agaš'mekanaz, qui enquête sur une affaire d'échantillon de sang disparu. Les Sarkaz ne demandent pas de service à la légère. Cette affaire recèle peut-être des secrets inavoués.",
+            "ID": "Seš’qa mengirimkan pesan yang memintamu membantu Camille sang Agaš’mekanaz, yang sedang berusaha memecahkan suatu kasus yang berkaitan dengan sampel darah yang hilang. Sarkaz ini tidak langsung menerima bantuanmu. Mungkin ada rahasia di balik kasus ini.",
+            "IT": "Seš'qa ti ha inviato un messaggio per chiederti di aiutare Camille, l'Agaš'mekanaz, che sta cercando di risolvere un caso riguardante un campione di sangue scomparso. I Sarkaz non chiedono favori alla leggera: forse questo caso nasconde dei segreti.",
+            "JP": "セシュカからメッセージが届き、消えた血液サンプルの行方を追っている番人カミーユに協力してほしいと頼まれた。サルカズがそう簡単に頼ってくることはない。もしかすると、この事件の裏には大きな秘密が隠されているのかもしれない。",
+            "KR": "세쉬카로부터 수호자 카뮤와 함께 혈액 표본 분실 사건을 조사해 달라는 요청이 왔습니다. 평소 웬만한 일로는 관리자에게 부탁하지 않는 살카즈들이 도움을 요청했다는 것부터 심상치 않습니다. 혹시 이 사건에 더 거대한 비밀이 숨겨져 있는 걸까요?",
+            "MX": "Seš'qa ha enviado un mensaje solicitando tu apoyo para Camille, el Agaš'mekanaz, que está tratando de resolver un caso relacionado con una muestra de sangre desaparecida. Los Sarkaz no piden favores a la ligera. Quizá haya secretos no contados ocultos en lo más profundo de este caso.",
+            "RU": "Из Сеш’ка прислали просьбу: Агаш’меканаз Камиль расследует дело о пропавшем образце крови и нуждается в вашей помощи. Сарказам не так-то просто просить об услуге. Возможно, в этом деле кроются неизведанные тайны.",
+            "TC": "塞什卡傳來訊息，請求你協助看護人卡繆破獲一起血液樣本失蹤的案件。薩卡茲們可不會隨便勞煩你，或許，案件下掩藏著更深的秘密？",
+            "TH": "เซ​ช​กา​ได้​ส่ง​ข้อความ​มา​ขอให้​คุณ​ช่วยเหลือ​คา​มิลล์​ อา​กา​ช​เม​คา​นา​ซ​ ผู้​กำลัง​พยายาม​คลี่คลาย​คดี​ที่​เกี่ยวข้อง​กับ​ตัวอย่าง​เลือด​ที่​หาย​ไป​ ซาร์​คั​ซ​ไม่​ขอความช่วยเหลือ​จาก​ใคร​อย่าง​ง่า​ยๆ​ บางที​ความลับ​ที่​ไม่เคย​เปิดเผย​อาจ​ซ่อน​อยู่​ลึก​กว่า​นั้น​ใน​คดี​นี้",
+            "VN": "Seš'qa đã gửi thư mong muốn bạn hỗ trợ Agaš'mekanaz Camille điều tra một vụ án liên quan đến mẫu máu mất tích. Sarkaz chưa từng tùy tiện ngỏ lời nhờ vả. Có lẽ ẩn dưới vụ việc này còn là những bí mật chưa từng được phơi bày."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_camille",
+          "id": "CharacterGuide_camille",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_camille",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Dança Macabra",
+            "CN": "亡者之舞",
+            "DE": "Totentanz",
+            "EN": "Danse Macabre",
+            "FR": "Danse macabre",
+            "ID": "Danse Macabre",
+            "IT": "Ballata macabra",
+            "JP": "死の舞踏",
+            "KR": "망자의 춤",
+            "MX": "Danza macabra",
+            "RU": "Пляска смерти",
+            "TC": "亡者之舞",
+            "TH": "ระบำ​มรณะ",
+            "VN": "Vũ Điệu Tử Thần"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "reward_CharacterGuide_camille",
+          "sortId": 3007,
+          "tabImg": "bg_activity_tab_char_guide_camille",
+          "tabImgColor": "#cc0e1b",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_camille",
+          "type": 10
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_camille_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\".",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅰ – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_main_chapter_1",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Progresso da missão principal atual: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Seš'qa enviou uma mensagem solicitando seu apoio para Camille, o Agaš'mekanaz, que está tentando resolver um caso relacionado a uma amostra de sangue desaparecida. Os Sarkaz não pedem favores sem um bom motivo. Talvez existam segredos não revelados mais profundos neste caso.",
+            "CN": "塞什卡发来信息，请求你协助看护人卡缪破获一起血液样本失踪的案件。萨卡兹们可不会随便劳烦你，或许，案件下掩藏着更深的秘密？",
+            "DE": "Seš’qa hat eine Nachricht geschickt und erbittet im Namen von Agaš’mekanaz Camille, der versucht, das Rätsel um eine verschwundene Blutprobe zu lösen, deine Hilfe. Die Sarkaz sind nicht dafür bekannt, leichtfertig um Unterstützung zu bitten. Vielleicht stecken hinter diesem Fall noch weiterreichende Geheimnisse.",
+            "EN": "Seš'qa has sent a message requesting your support for Camille the Agaš'mekanaz, who is trying to solve a case involving a missing blood sample. The Sarkaz do not call for favors lightly. Perhaps untold secrets lay deeper within this case.",
+            "FR": "Seš'qa a envoyé un message vous demandant de prêter main-forte à Camille, l'Agaš'mekanaz, qui enquête sur une affaire d'échantillon de sang disparu. Les Sarkaz ne demandent pas de service à la légère. Cette affaire recèle peut-être des secrets inavoués.",
+            "ID": "Seš’qa mengirimkan pesan yang memintamu membantu Camille sang Agaš’mekanaz, yang sedang berusaha memecahkan suatu kasus yang berkaitan dengan sampel darah yang hilang. Sarkaz ini tidak langsung menerima bantuanmu. Mungkin ada rahasia di balik kasus ini.",
+            "IT": "Seš'qa ti ha inviato un messaggio per chiederti di aiutare Camille, l'Agaš'mekanaz, che sta cercando di risolvere un caso riguardante un campione di sangue scomparso. I Sarkaz non chiedono favori alla leggera: forse questo caso nasconde dei segreti.",
+            "JP": "セシュカからメッセージが届き、消えた血液サンプルの行方を追っている番人カミーユに協力してほしいと頼まれた。サルカズがそう簡単に頼ってくることはない。もしかすると、この事件の裏には大きな秘密が隠されているのかもしれない。",
+            "KR": "세쉬카로부터 수호자 카뮤와 함께 혈액 표본 분실 사건을 조사해 달라는 요청이 왔습니다. 평소 웬만한 일로는 관리자에게 부탁하지 않는 살카즈들이 도움을 요청했다는 것부터 심상치 않습니다. 혹시 이 사건에 더 거대한 비밀이 숨겨져 있는 걸까요?",
+            "MX": "Seš'qa ha enviado un mensaje solicitando tu apoyo para Camille, el Agaš'mekanaz, que está tratando de resolver un caso relacionado con una muestra de sangre desaparecida. Los Sarkaz no piden favores a la ligera. Quizá haya secretos no contados ocultos en lo más profundo de este caso.",
+            "RU": "Из Сеш’ка прислали просьбу: Агаш’меканаз Камиль расследует дело о пропавшем образце крови и нуждается в вашей помощи. Сарказам не так-то просто просить об услуге. Возможно, в этом деле кроются неизведанные тайны.",
+            "TC": "塞什卡傳來訊息，請求你協助看護人卡繆破獲一起血液樣本失蹤的案件。薩卡茲們可不會隨便勞煩你，或許，案件下掩藏著更深的秘密？",
+            "TH": "เซ​ช​กา​ได้​ส่ง​ข้อความ​มา​ขอให้​คุณ​ช่วยเหลือ​คา​มิลล์​ อา​กา​ช​เม​คา​นา​ซ​ ผู้​กำลัง​พยายาม​คลี่คลาย​คดี​ที่​เกี่ยวข้อง​กับ​ตัวอย่าง​เลือด​ที่​หาย​ไป​ ซาร์​คั​ซ​ไม่​ขอความช่วยเหลือ​จาก​ใคร​อย่าง​ง่า​ยๆ​ บางที​ความลับ​ที่​ไม่เคย​เปิดเผย​อาจ​ซ่อน​อยู่​ลึก​กว่า​นั้น​ใน​คดี​นี้",
+            "VN": "Seš'qa đã gửi thư mong muốn bạn hỗ trợ Agaš'mekanaz Camille điều tra một vụ án liên quan đến mẫu máu mất tích. Sarkaz chưa từng tùy tiện ngỏ lời nhờ vả. Có lẽ ẩn dưới vụ việc này còn là những bí mật chưa từng được phơi bày."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_camille",
+          "id": "CharacterGuide_camille",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_camille",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Dança Macabra",
+            "CN": "亡者之舞",
+            "DE": "Totentanz",
+            "EN": "Danse Macabre",
+            "FR": "Danse macabre",
+            "ID": "Danse Macabre",
+            "IT": "Ballata macabra",
+            "JP": "死の舞踏",
+            "KR": "망자의 춤",
+            "MX": "Danza macabra",
+            "RU": "Пляска смерти",
+            "TC": "亡者之舞",
+            "TH": "ระบำ​มรณะ",
+            "VN": "Vũ Điệu Tử Thần"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "reward_CharacterGuide_camille",
+          "sortId": 3007,
+          "tabImg": "bg_activity_tab_char_guide_camille",
+          "tabImgColor": "#cc0e1b",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_camille",
+          "type": 10
+        },
+        "changed": {
+          "conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          }
+        }
+      },
+      "CharacterGuide_laevat": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_laevat_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo III: Berço das Eras]",
+                "CN": "完成主线任务：第一章 - 进程Ⅲ - 世代摇篮",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess III: Wiege der Generationen] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅲ: Cradle of the Ages]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus III : Berceau des millénaires]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅲ: Buaian Zaman]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione III: Culla dei secoli\"",
+                "JP": "メイン任務：第一章-プロセスⅢ「時代揺籠」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 III - 세대의 요람 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso III: Cuna de las Eras]",
+                "RU": "Завершите основную миссию: операция III главы I «Колыбель Веков»",
+                "TC": "完成主線任務：第一章 - 進度III - 世代搖籃",
+                "TH": "ทำ​ภารกิจ​หลัก​ให้​สำเร็จ​ [บท​ที่​ 1 องก์​ 3: จุดกำเนิด​แห่ง​ยุคสมัย​]",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅰ – Tiến Trình III: Chiếc Nôi Cổ Đại]"
+              },
+              "jumpId": "jump_mission_CharacterGuide",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Depois de tudo o que aconteceu, você deve agora retornar à Dijiang e verificar se recuperou alguma de suas memórias perdidas.",
+            "CN": "在发生了这么多事情之后，你需要回一趟帝江号，确认失去的记忆是否有所恢复。",
+            "DE": "Nach allem, was passiert ist, musst du zurück zur Dijiang und prüfen, ob du deine verlorenen Erinnerungen wiederbekommen hast.",
+            "EN": "After all that has happened, you must now return to Dijiang and check if you recovered any of your lost memories.",
+            "FR": "Après tout ce qui s'est passé, vous devez maintenant retourner sur le Dijiang pour voir si vous avez recouvré vos souvenirs.",
+            "ID": "Setelah semua itu terjadi, kamu pun harus kembali ke Dijiang dan memeriksa apakah ada ingatanmu yang berhasil kamu pulihkan.",
+            "IT": "Dopo tutto ciò che è successo, devi tornare alla Dijiang per scoprire se hai recuperato qualche ricordo perduto.",
+            "JP": "これまで、いろいろなことがあった――失った記憶に何か変化がないか、帝江号に戻って確かめることにした。",
+            "KR": "수많은 일들이 지나간 지금, 제강호로 돌아가 잃어버린 기억의 조각들을 다시금 맞춰나갈 수 있는지를 확인해야 합니다.",
+            "MX": "Después de todo lo ocurrido, ahora debes regresar a la Dijiang y comprobar si has recuperado alguno de tus recuerdos perdidos.",
+            "RU": "После всех событий пора вернуться на «Дицзян»: возможно, вы что-нибудь вспомнили.",
+            "TC": "在發生了這麼多事情之後，你需要回一趟帝江號，確認失去的記憶是否有所恢復。",
+            "TH": "หลังจาก​ทุกสิ่ง​ที่เกิด​ขึ้น​ คุณ​ต้อง​กลับ​ไป​ที่​ตี้​เจียง​และ​ตรวจสอบ​ว่า​ฟื้น​ความทรงจำ​ที่​สูญเสีย​ไป​ได้​บ้าง​หรือไม่",
+            "VN": "Sau tất cả những gì đã xảy ra, giờ bạn phải trở về Dijiang và kiểm tra bạn đã khôi phục được ký ức bị mất nào chưa."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_laevat",
+          "id": "CharacterGuide_laevat",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_laevat",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Deixe o Fogo Consumir o Passado Cinzento",
+            "CN": "燃尽记忆之灰",
+            "DE": "Möge Feuer die aschfahle Vergangenheit verzehren",
+            "EN": "Let Fire Consume the Ashen Past",
+            "FR": "Que le feu consume le passé cendré",
+            "ID": "Biarkan Api Membakar Abu Masa Lalu",
+            "IT": "Che il fuoco consumi il passato cinereo",
+            "JP": "灰となれ、記憶の残骸よ",
+            "KR": "기억을 태운 재",
+            "MX": "Que el fuego consuma las cenizas del pasado",
+            "RU": "Да поглотит пламя пепел прошлого",
+            "TC": "燃盡記憶之灰",
+            "TH": "ให้​เปลวไฟ​เผาผลาญ​อดีต​ที่​มอดไหม้",
+            "VN": "Để Lửa Thiêu Rụi Quá Khứ Tro Tàn"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_laevat_reward",
+          "sortId": 3003,
+          "tabImg": "bg_activity_tab_char_guide_laevat",
+          "tabImgColor": "#d80030",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_laevat",
+          "type": 10
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_laevat_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo III: Berço das Eras]",
+                "CN": "完成主线任务：第一章 - 进程Ⅲ - 世代摇篮",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess III: Wiege der Generationen] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅲ: Cradle of the Ages]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus III : Berceau des millénaires]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅲ: Buaian Zaman]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione III: Culla dei secoli\"",
+                "JP": "メイン任務：第一章-プロセスⅢ「時代揺籠」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 III - 세대의 요람 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso III: Cuna de las Eras]",
+                "RU": "Завершите основную миссию: операция III главы I «Колыбель Веков»",
+                "TC": "完成主線任務：第一章 - 進度III - 世代搖籃",
+                "TH": "ทำ​ภารกิจ​หลัก​ให้​สำเร็จ​ [บท​ที่​ 1 องก์​ 3: จุดกำเนิด​แห่ง​ยุคสมัย​]",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅰ – Tiến Trình III: Chiếc Nôi Cổ Đại]"
+              },
+              "jumpId": "jump_mission_main_chapter_1",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Depois de tudo o que aconteceu, você deve agora retornar à Dijiang e verificar se recuperou alguma de suas memórias perdidas.",
+            "CN": "在发生了这么多事情之后，你需要回一趟帝江号，确认失去的记忆是否有所恢复。",
+            "DE": "Nach allem, was passiert ist, musst du zurück zur Dijiang und prüfen, ob du deine verlorenen Erinnerungen wiederbekommen hast.",
+            "EN": "After all that has happened, you must now return to Dijiang and check if you recovered any of your lost memories.",
+            "FR": "Après tout ce qui s'est passé, vous devez maintenant retourner sur le Dijiang pour voir si vous avez recouvré vos souvenirs.",
+            "ID": "Setelah semua itu terjadi, kamu pun harus kembali ke Dijiang dan memeriksa apakah ada ingatanmu yang berhasil kamu pulihkan.",
+            "IT": "Dopo tutto ciò che è successo, devi tornare alla Dijiang per scoprire se hai recuperato qualche ricordo perduto.",
+            "JP": "これまで、いろいろなことがあった――失った記憶に何か変化がないか、帝江号に戻って確かめることにした。",
+            "KR": "수많은 일들이 지나간 지금, 제강호로 돌아가 잃어버린 기억의 조각들을 다시금 맞춰나갈 수 있는지를 확인해야 합니다.",
+            "MX": "Después de todo lo ocurrido, ahora debes regresar a la Dijiang y comprobar si has recuperado alguno de tus recuerdos perdidos.",
+            "RU": "После всех событий пора вернуться на «Дицзян»: возможно, вы что-нибудь вспомнили.",
+            "TC": "在發生了這麼多事情之後，你需要回一趟帝江號，確認失去的記憶是否有所恢復。",
+            "TH": "หลังจาก​ทุกสิ่ง​ที่เกิด​ขึ้น​ คุณ​ต้อง​กลับ​ไป​ที่​ตี้​เจียง​และ​ตรวจสอบ​ว่า​ฟื้น​ความทรงจำ​ที่​สูญเสีย​ไป​ได้​บ้าง​หรือไม่",
+            "VN": "Sau tất cả những gì đã xảy ra, giờ bạn phải trở về Dijiang và kiểm tra bạn đã khôi phục được ký ức bị mất nào chưa."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_laevat",
+          "id": "CharacterGuide_laevat",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_laevat",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Deixe o Fogo Consumir o Passado Cinzento",
+            "CN": "燃尽记忆之灰",
+            "DE": "Möge Feuer die aschfahle Vergangenheit verzehren",
+            "EN": "Let Fire Consume the Ashen Past",
+            "FR": "Que le feu consume le passé cendré",
+            "ID": "Biarkan Api Membakar Abu Masa Lalu",
+            "IT": "Che il fuoco consumi il passato cinereo",
+            "JP": "灰となれ、記憶の残骸よ",
+            "KR": "기억을 태운 재",
+            "MX": "Que el fuego consuma las cenizas del pasado",
+            "RU": "Да поглотит пламя пепел прошлого",
+            "TC": "燃盡記憶之灰",
+            "TH": "ให้​เปลวไฟ​เผาผลาญ​อดีต​ที่​มอดไหม้",
+            "VN": "Để Lửa Thiêu Rụi Quá Khứ Tro Tàn"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_laevat_reward",
+          "sortId": 3003,
+          "tabImg": "bg_activity_tab_char_guide_laevat",
+          "tabImgColor": "#d80030",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_laevat",
+          "type": 10
+        },
+        "changed": {
+          "conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          }
+        }
+      },
+      "CharacterGuide_mifu": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_mifu_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo II Processo VI: Almas Gêmeas que Compartilham uma Visão]",
+                "CN": "完成主线任务：第二章 - 进程Ⅵ - 志同道合",
+                "DE": "Schließe die Hauptmission [Kapitel II, Prozess VI: Verwandte Seelen, die eine Vision teilen] ab.",
+                "EN": "Complete the main mission [Chapter Ⅱ Process Ⅵ: Kindred Souls Who Share a Vision]",
+                "FR": "Terminer la mission principale : [Chapitre II - Processus VI : Des âmes sœurs, une même vision]",
+                "ID": "Selesaikan misi utama [Bab II Proses VI: Sependapat, Sepemikiran]",
+                "IT": "Completa la missione principale \"Capitolo II - Elaborazione VI: Anime affini con la stessa visione\".",
+                "JP": "メイン任務：第二章-プロセスⅥ「同じ道征く者」を完了する",
+                "KR": "메인 임무: 2장 - 프로세스 VI - 같은 방향을 바라보며 완료",
+                "MX": "Completa la misión principal [Capítulo II Proceso VI: Almas afines que comparten una visión]",
+                "RU": "Завершите основную миссию: операция VI главы II «Родственные души»",
+                "TC": "完成主線任務：第二章 - 進度VI - 志同道合",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 6: วิญญาณ​ที่​ผูกพัน​ ผู้​แบ่งปัน​วิสัยทัศน์​เดียวกัน​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅱ – Tiến Trình Ⅵ: Chung Chí Đồng Tâm]"
+              },
+              "jumpId": "jump_mission_CharacterGuide",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e10m4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Progresso da missão principal atual: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Mi Fu convida você para encontrá-la no Escritório do Pilar Principal. A Capitã da patrulha não está com sua calma habitual e parece um pouco preocupada. Será que aconteceu algo em Wuling?",
+            "CN": "弭弗忽然约你前往总桩办公室会合。她似乎有点焦急，不复平日里的沉着——武陵到底发生了什么？",
+            "DE": "Mi Fu hat dich eingeladen, dich bei der Hauptsäulen-Abteilung mit ihr zu treffen. Die Hauptfrau der Wache ist nicht so ruhig und gelassen wie sonst und wirkt sogar ein wenig besorgt – ist in Wuling etwas vorgefallen?",
+            "EN": "Mi Fu invites you to meet her at the Main Pillar Office. The Watchguard Captain is not her usual calm self and actually looks a little worried — has something happened in Wuling?",
+            "FR": "Mi Fu vous invite à la retrouver au bureau du pilier principal. La capitaine des sentinelles n'affiche pas son calme habituel et semble plutôt inquiète. S'est-il passé quelque chose à Wuling ?",
+            "ID": "Mi Fu mengajakmu bertemu di Kantor Pilar Utama. Kapten Opsir ini tampak agak gelisah, tak seperti biasanya, dan bahkan tampak agak khawatir—apa telah terjadi sesuatu di Wuling?",
+            "IT": "Mi Fu ti chiede di incontrarla all'Ufficio della colonna principale. Il capitano delle guardie non è tranquilla come al solito e sembra addirittura un po' preoccupata: che sia successo qualcosa a Wuling?",
+            "JP": "突然ミ・フから総杭執務室に呼び出された。どこか焦っている様子で、普段の冷静さは影を潜めている――武陵に何があったのだろうか？",
+            "KR": "미브가 갑자기 관리자에게 주 기둥 사무실로 합류해 달라고 부탁합니다. 평소의 침착한 모습과는 달리 어딘가 몹시 다급해 보입니다. 무릉에 대체 무슨 일이 벌어진 걸까요?",
+            "MX": "Mi Fu te invita a reunirte con ella en la Oficina principal de pilares. La Capitana Vigilante no está tan tranquila como de costumbre y, de hecho, parece un poco preocupada. ¿Habrá pasado algo en Wuling?",
+            "RU": "Ми Фу предлагает встретиться в кабинете в основном столбе. Капитану дозора изменило привычное спокойствие. Она даже выглядит немного встревоженной. Неужели в Улине стряслась беда?",
+            "TC": "弭弗忽然約你前往總樁辦公室會合。她似乎有點著急，不復往日的沉著——武陵到底發生了什麼？",
+            "TH": "หมี่​ฟู่​เชิญ​คุณ​มา​พบกัน​ที่​สำนักงาน​เสาหลัก​ ผู้กอง​องครักษ์​ไม่ได้​สงบนิ่ง​อย่างที่​เคย​ และ​ดูเหมือน​จะ​กังวล​นิดหน่อย​ มี​อะไร​เกิดขึ้น​ใน​อู่​หลิง​หรือเปล่า​?",
+            "VN": "Mi Fu hẹn bạn đến Trụ Sở Cột Chính. Vị Đội Trưởng Cảnh Vệ hôm nay dường như không còn giữ được sự điềm tĩnh quen thuộc, mà thấp thoáng chút bất an - chẳng lẽ Võ Lăng đã xảy ra biến cố gì rồi sao?"
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_mifu",
+          "id": "CharacterGuide_mifu",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_mifu",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Um Punhado de Reflexões",
+            "CN": "以拳问心",
+            "DE": "Für eine Handvoll Reflexionen",
+            "EN": "A Fistful of Reflections",
+            "FR": "Une poignée de reflets",
+            "ID": "Segenggam Refleksi",
+            "IT": "Una serie di riflessioni",
+            "JP": "心映す一拳",
+            "KR": "주먹, 부딪히는 마음",
+            "MX": "Un puñado de reflexiones",
+            "RU": "Кулак отражений",
+            "TC": "以拳問心",
+            "TH": "ภาพสะท้อน​ใน​กำมือ",
+            "VN": "Một Thoáng Suy Ngẫm"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "reward_CharacterGuide_mifu",
+          "sortId": 3006,
+          "tabImg": "bg_activity_tab_char_guide_mifu",
+          "tabImgColor": "#e3245c",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_mifu",
+          "type": 10
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_mifu_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo II Processo VI: Almas Gêmeas que Compartilham uma Visão]",
+                "CN": "完成主线任务：第二章 - 进程Ⅵ - 志同道合",
+                "DE": "Schließe die Hauptmission [Kapitel II, Prozess VI: Verwandte Seelen, die eine Vision teilen] ab.",
+                "EN": "Complete the main mission [Chapter Ⅱ Process Ⅵ: Kindred Souls Who Share a Vision]",
+                "FR": "Terminer la mission principale : [Chapitre II - Processus VI : Des âmes sœurs, une même vision]",
+                "ID": "Selesaikan misi utama [Bab II Proses VI: Sependapat, Sepemikiran]",
+                "IT": "Completa la missione principale \"Capitolo II - Elaborazione VI: Anime affini con la stessa visione\".",
+                "JP": "メイン任務：第二章-プロセスⅥ「同じ道征く者」を完了する",
+                "KR": "메인 임무: 2장 - 프로세스 VI - 같은 방향을 바라보며 완료",
+                "MX": "Completa la misión principal [Capítulo II Proceso VI: Almas afines que comparten una visión]",
+                "RU": "Завершите основную миссию: операция VI главы II «Родственные души»",
+                "TC": "完成主線任務：第二章 - 進度VI - 志同道合",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 6: วิญญาณ​ที่​ผูกพัน​ ผู้​แบ่งปัน​วิสัยทัศน์​เดียวกัน​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅱ – Tiến Trình Ⅵ: Chung Chí Đồng Tâm]"
+              },
+              "jumpId": "jump_mission_main_chapter_2",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e10m4"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Progresso da missão principal atual: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Mi Fu convida você para encontrá-la no Escritório do Pilar Principal. A Capitã da patrulha não está com sua calma habitual e parece um pouco preocupada. Será que aconteceu algo em Wuling?",
+            "CN": "弭弗忽然约你前往总桩办公室会合。她似乎有点焦急，不复平日里的沉着——武陵到底发生了什么？",
+            "DE": "Mi Fu hat dich eingeladen, dich bei der Hauptsäulen-Abteilung mit ihr zu treffen. Die Hauptfrau der Wache ist nicht so ruhig und gelassen wie sonst und wirkt sogar ein wenig besorgt – ist in Wuling etwas vorgefallen?",
+            "EN": "Mi Fu invites you to meet her at the Main Pillar Office. The Watchguard Captain is not her usual calm self and actually looks a little worried — has something happened in Wuling?",
+            "FR": "Mi Fu vous invite à la retrouver au bureau du pilier principal. La capitaine des sentinelles n'affiche pas son calme habituel et semble plutôt inquiète. S'est-il passé quelque chose à Wuling ?",
+            "ID": "Mi Fu mengajakmu bertemu di Kantor Pilar Utama. Kapten Opsir ini tampak agak gelisah, tak seperti biasanya, dan bahkan tampak agak khawatir—apa telah terjadi sesuatu di Wuling?",
+            "IT": "Mi Fu ti chiede di incontrarla all'Ufficio della colonna principale. Il capitano delle guardie non è tranquilla come al solito e sembra addirittura un po' preoccupata: che sia successo qualcosa a Wuling?",
+            "JP": "突然ミ・フから総杭執務室に呼び出された。どこか焦っている様子で、普段の冷静さは影を潜めている――武陵に何があったのだろうか？",
+            "KR": "미브가 갑자기 관리자에게 주 기둥 사무실로 합류해 달라고 부탁합니다. 평소의 침착한 모습과는 달리 어딘가 몹시 다급해 보입니다. 무릉에 대체 무슨 일이 벌어진 걸까요?",
+            "MX": "Mi Fu te invita a reunirte con ella en la Oficina principal de pilares. La Capitana Vigilante no está tan tranquila como de costumbre y, de hecho, parece un poco preocupada. ¿Habrá pasado algo en Wuling?",
+            "RU": "Ми Фу предлагает встретиться в кабинете в основном столбе. Капитану дозора изменило привычное спокойствие. Она даже выглядит немного встревоженной. Неужели в Улине стряслась беда?",
+            "TC": "弭弗忽然約你前往總樁辦公室會合。她似乎有點著急，不復往日的沉著——武陵到底發生了什麼？",
+            "TH": "หมี่​ฟู่​เชิญ​คุณ​มา​พบกัน​ที่​สำนักงาน​เสาหลัก​ ผู้กอง​องครักษ์​ไม่ได้​สงบนิ่ง​อย่างที่​เคย​ และ​ดูเหมือน​จะ​กังวล​นิดหน่อย​ มี​อะไร​เกิดขึ้น​ใน​อู่​หลิง​หรือเปล่า​?",
+            "VN": "Mi Fu hẹn bạn đến Trụ Sở Cột Chính. Vị Đội Trưởng Cảnh Vệ hôm nay dường như không còn giữ được sự điềm tĩnh quen thuộc, mà thấp thoáng chút bất an - chẳng lẽ Võ Lăng đã xảy ra biến cố gì rồi sao?"
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_mifu",
+          "id": "CharacterGuide_mifu",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_mifu",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Um Punhado de Reflexões",
+            "CN": "以拳问心",
+            "DE": "Für eine Handvoll Reflexionen",
+            "EN": "A Fistful of Reflections",
+            "FR": "Une poignée de reflets",
+            "ID": "Segenggam Refleksi",
+            "IT": "Una serie di riflessioni",
+            "JP": "心映す一拳",
+            "KR": "주먹, 부딪히는 마음",
+            "MX": "Un puñado de reflexiones",
+            "RU": "Кулак отражений",
+            "TC": "以拳問心",
+            "TH": "ภาพสะท้อน​ใน​กำมือ",
+            "VN": "Một Thoáng Suy Ngẫm"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "reward_CharacterGuide_mifu",
+          "sortId": 3006,
+          "tabImg": "bg_activity_tab_char_guide_mifu",
+          "tabImgColor": "#e3245c",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_mifu",
+          "type": 10
+        },
+        "changed": {
+          "conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_2"
+          }
+        }
+      },
+      "CharacterGuide_wolfgd": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_wolfgd_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\"",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_CharacterGuide",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            },
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_wolfgd_unlock2",
+              "conditionType": 5023,
+              "desc": {
+                "BR": "Alcance o Nível de Autoridade de Endministrator 39",
+                "CN": "管理员权限等阶到达39级",
+                "DE": "Erreiche Endministrator-Autoritätslevel 39.",
+                "EN": "Reach Endministrator Authority Level 39",
+                "FR": "Atteindre le niveau d'autorité 39 de l'Endministrator",
+                "ID": "Capai Otoritas Level 39 untuk Endministrator",
+                "IT": "Raggiungi il livello di autorità 39 dell'Endministrator.",
+                "JP": "管理人の行動レベルを39にする",
+                "KR": "관리자의 권한 등급 39레벨 도달",
+                "MX": "Alcanza el Nivel de autoridad 39 del Endministrator",
+                "RU": "Получите уровень влияния Эндминистратора 39",
+                "TC": "管理員權限等階達到39級",
+                "TH": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator ให้​ถึง​เล​เวล​ 39",
+                "VN": "Đạt Cấp Đặc Quyền 39 cho Endministrator"
+              },
+              "jumpId": "jump_adventure_book",
+              "parameters": [],
+              "progressToCompare": 39,
+              "tips": {
+                "BR": "Nível de Autoridade Atual: %d (aumente-o completando missões do Manual Operacional e ganhando EXP Operacional)",
+                "CN": "当前权限等阶%d级（可根据行动手册指引完成各项任务，获取行动资历，提升权限等阶）",
+                "DE": "Aktuelles Autoritätslevel: %d. (Erhöhe es durch Abschließen von Betriebshandbuch-Missionen und den Erhalt von Einsatz-EP.)",
+                "EN": "Current Authority Level: %d (raise it by completing Operational Manual missions and earning Operational EXP)",
+                "FR": "Niveau d'autorité actuel : %d (pour l'augmenter, terminez des missions du manuel opérationnel et gagnez de l'EXP opérationnelle)",
+                "ID": "Level Otoritas Saat Ini: %d (naikkan dengan menyelesaikan misi Panduan Operasi dan memperoleh EXP Operasional)",
+                "IT": "Livello di autorità attuale: %d (aumentalo completando le missioni del manuale operativo e ottenendo esperienza operativa).",
+                "JP": "現在の行動レベル：Lv.%d（案内所に従ってクエストをクリアし、行動遍歴を獲得して行動レベルをアップしよう）",
+                "KR": "현재 권한 등급 %d레벨 (작전 매뉴얼의 안내에 따라 각 항목의 임무를 완료하면, 작전 경력을 획득하고 권한 등급을 올릴 수 있습니다.)",
+                "MX": "Nivel de autoridad actual: %d (auméntalo completando misiones del Manual operativo y obteniendo EXP operacional)",
+                "RU": "Текущий уровень влияния: %d (чтобы повысить его, выполняйте миссии из руководства оперативника и получайте оперативный опыт)",
+                "TC": "目前權限等階%d級（可根據行動手冊指引完成各項任務，獲得行動資歷，提升權限等階）",
+                "TH": "เล​เวล​ของ​เจ้าพนักงาน​ปัจจุบัน​: %d (เพิ่ม​โดย​การ​ทำ​ภารกิจ​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​และ​รับ​ EXP ปฏิบัติงาน​)",
+                "VN": "Cấp Đặc Quyền Hiện Tại: %d (tăng cấp bằng cách hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành và tích lũy EXP Tác Chiến)"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "A Matilha tem um traidor entre eles. Wulfgard iniciou uma operação em Vale IV para descobrir quem é.",
+            "CN": "狼群氏族内部出现了叛徒，为了调查其中内幕，狼卫在四号谷地展开了行动。",
+            "DE": "Das Rudel hat einen Verräter in seinen Reihen. Wulfgard hat in Tal IV einen Einsatz gestartet, um der Sache auf den Grund zu gehen.",
+            "EN": "The Pack has a traitor in their midst. Wulfgard initiated an operation in Valley IV to get to the bottom of this.",
+            "FR": "La Meute a un traître dans ses rangs. Wulfgard a lancé une opération dans la Vallée-IV pour tirer ça au clair.",
+            "ID": "Ada pengkhianat di dalam Kawanan. Wulfgard memulai operasi di Lembah IV untuk menyelidikinya.",
+            "IT": "C'è un traditore tra le fila del Branco. Wulfgard ha avviato un'operazione a Valle IV per venire a capo della faccenda.",
+            "JP": "狼群の内部に裏切り者がいる――真相を突き止めるため、ウルフガードは四号谷地で調査を行っていた。",
+            "KR": "울프팀에 배신자가 있다는 소식이 들려옵니다. 이 사건을 조사하기 위해, 울프가드가 4번 협곡에서 움직이기 시작합니다.",
+            "MX": "La manada tiene a un traidor en sus filas. Wulfgard inició una operación en el Valle IV para llegar al fondo de esto.",
+            "RU": "В Стае завелся предатель. Вулфгард проводит собственную операцию в Долине IV, чтобы выяснить правду.",
+            "TC": "狼群氏族內部出現了叛徒，為了調查其中內幕，狼衛在四號谷地展開了行動。",
+            "TH": "ใน​เดอะ​แพ็ค​มี​คน​ทรยศ​ วู​ล์​ฟ​การ์ด​เริ่ม​ปฏิบัติการ​ใน​หุบเขา​ IV เพื่อ​ค้นหา​ความจริง​ของ​เรื่อง​นี้",
+            "VN": "Trong Tộc Sói có kẻ phản bội. Wulfgard đã mở một chiến dịch tại Thung Lũng IV để truy tìm sự thật."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_wolfgd",
+          "id": "CharacterGuide_wolfgd",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_wolfgd",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Lobo Solitário",
+            "CN": "离群之狼",
+            "DE": "Einsamer Wolf",
+            "EN": "Lone Wolf",
+            "FR": "Loup solitaire",
+            "ID": "Serigala Penyendiri",
+            "IT": "Lupo solitario",
+            "JP": "離群の狼",
+            "KR": "무리를 떠난 늑대",
+            "MX": "Lobo solitario",
+            "RU": "Одинокий волк",
+            "TC": "離群之狼",
+            "TH": "หมาป่า​เดียวดาย",
+            "VN": "Sói Cô Độc"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_wolfgd_reward",
+          "sortId": 3000,
+          "tabImg": "bg_activity_tab_char_guide_wolfgd",
+          "tabImgColor": "#FF2D4B",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_wolfgd",
+          "type": 10
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_wolfgd_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\"",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_main_chapter_1",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            },
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_wolfgd_unlock2",
+              "conditionType": 5023,
+              "desc": {
+                "BR": "Alcance o Nível de Autoridade de Endministrator 39",
+                "CN": "管理员权限等阶到达39级",
+                "DE": "Erreiche Endministrator-Autoritätslevel 39.",
+                "EN": "Reach Endministrator Authority Level 39",
+                "FR": "Atteindre le niveau d'autorité 39 de l'Endministrator",
+                "ID": "Capai Otoritas Level 39 untuk Endministrator",
+                "IT": "Raggiungi il livello di autorità 39 dell'Endministrator.",
+                "JP": "管理人の行動レベルを39にする",
+                "KR": "관리자의 권한 등급 39레벨 도달",
+                "MX": "Alcanza el Nivel de autoridad 39 del Endministrator",
+                "RU": "Получите уровень влияния Эндминистратора 39",
+                "TC": "管理員權限等階達到39級",
+                "TH": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator ให้​ถึง​เล​เวล​ 39",
+                "VN": "Đạt Cấp Đặc Quyền 39 cho Endministrator"
+              },
+              "jumpId": "jump_adventure_book",
+              "parameters": [],
+              "progressToCompare": 39,
+              "tips": {
+                "BR": "Nível de Autoridade Atual: %d (aumente-o completando missões do Manual Operacional e ganhando EXP Operacional)",
+                "CN": "当前权限等阶%d级（可根据行动手册指引完成各项任务，获取行动资历，提升权限等阶）",
+                "DE": "Aktuelles Autoritätslevel: %d. (Erhöhe es durch Abschließen von Betriebshandbuch-Missionen und den Erhalt von Einsatz-EP.)",
+                "EN": "Current Authority Level: %d (raise it by completing Operational Manual missions and earning Operational EXP)",
+                "FR": "Niveau d'autorité actuel : %d (pour l'augmenter, terminez des missions du manuel opérationnel et gagnez de l'EXP opérationnelle)",
+                "ID": "Level Otoritas Saat Ini: %d (naikkan dengan menyelesaikan misi Panduan Operasi dan memperoleh EXP Operasional)",
+                "IT": "Livello di autorità attuale: %d (aumentalo completando le missioni del manuale operativo e ottenendo esperienza operativa).",
+                "JP": "現在の行動レベル：Lv.%d（案内所に従ってクエストをクリアし、行動遍歴を獲得して行動レベルをアップしよう）",
+                "KR": "현재 권한 등급 %d레벨 (작전 매뉴얼의 안내에 따라 각 항목의 임무를 완료하면, 작전 경력을 획득하고 권한 등급을 올릴 수 있습니다.)",
+                "MX": "Nivel de autoridad actual: %d (auméntalo completando misiones del Manual operativo y obteniendo EXP operacional)",
+                "RU": "Текущий уровень влияния: %d (чтобы повысить его, выполняйте миссии из руководства оперативника и получайте оперативный опыт)",
+                "TC": "目前權限等階%d級（可根據行動手冊指引完成各項任務，獲得行動資歷，提升權限等階）",
+                "TH": "เล​เวล​ของ​เจ้าพนักงาน​ปัจจุบัน​: %d (เพิ่ม​โดย​การ​ทำ​ภารกิจ​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​และ​รับ​ EXP ปฏิบัติงาน​)",
+                "VN": "Cấp Đặc Quyền Hiện Tại: %d (tăng cấp bằng cách hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành và tích lũy EXP Tác Chiến)"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "A Matilha tem um traidor entre eles. Wulfgard iniciou uma operação em Vale IV para descobrir quem é.",
+            "CN": "狼群氏族内部出现了叛徒，为了调查其中内幕，狼卫在四号谷地展开了行动。",
+            "DE": "Das Rudel hat einen Verräter in seinen Reihen. Wulfgard hat in Tal IV einen Einsatz gestartet, um der Sache auf den Grund zu gehen.",
+            "EN": "The Pack has a traitor in their midst. Wulfgard initiated an operation in Valley IV to get to the bottom of this.",
+            "FR": "La Meute a un traître dans ses rangs. Wulfgard a lancé une opération dans la Vallée-IV pour tirer ça au clair.",
+            "ID": "Ada pengkhianat di dalam Kawanan. Wulfgard memulai operasi di Lembah IV untuk menyelidikinya.",
+            "IT": "C'è un traditore tra le fila del Branco. Wulfgard ha avviato un'operazione a Valle IV per venire a capo della faccenda.",
+            "JP": "狼群の内部に裏切り者がいる――真相を突き止めるため、ウルフガードは四号谷地で調査を行っていた。",
+            "KR": "울프팀에 배신자가 있다는 소식이 들려옵니다. 이 사건을 조사하기 위해, 울프가드가 4번 협곡에서 움직이기 시작합니다.",
+            "MX": "La manada tiene a un traidor en sus filas. Wulfgard inició una operación en el Valle IV para llegar al fondo de esto.",
+            "RU": "В Стае завелся предатель. Вулфгард проводит собственную операцию в Долине IV, чтобы выяснить правду.",
+            "TC": "狼群氏族內部出現了叛徒，為了調查其中內幕，狼衛在四號谷地展開了行動。",
+            "TH": "ใน​เดอะ​แพ็ค​มี​คน​ทรยศ​ วู​ล์​ฟ​การ์ด​เริ่ม​ปฏิบัติการ​ใน​หุบเขา​ IV เพื่อ​ค้นหา​ความจริง​ของ​เรื่อง​นี้",
+            "VN": "Trong Tộc Sói có kẻ phản bội. Wulfgard đã mở một chiến dịch tại Thung Lũng IV để truy tìm sự thật."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_wolfgd",
+          "id": "CharacterGuide_wolfgd",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_wolfgd",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Lobo Solitário",
+            "CN": "离群之狼",
+            "DE": "Einsamer Wolf",
+            "EN": "Lone Wolf",
+            "FR": "Loup solitaire",
+            "ID": "Serigala Penyendiri",
+            "IT": "Lupo solitario",
+            "JP": "離群の狼",
+            "KR": "무리를 떠난 늑대",
+            "MX": "Lobo solitario",
+            "RU": "Одинокий волк",
+            "TC": "離群之狼",
+            "TH": "หมาป่า​เดียวดาย",
+            "VN": "Sói Cô Độc"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_wolfgd_reward",
+          "sortId": 3000,
+          "tabImg": "bg_activity_tab_char_guide_wolfgd",
+          "tabImgColor": "#FF2D4B",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_wolfgd",
+          "type": 10
+        },
+        "changed": {
+          "conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          }
+        }
+      },
+      "CharacterGuide_wulfa": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_wulfa_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo III: Berço das Eras]",
+                "CN": "完成主线任务：第一章 - 进程Ⅲ - 世代摇篮",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess III: Wiege der Generationen] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅲ: Cradle of the Ages]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus III : Berceau des millénaires]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅲ: Buaian Zaman]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione III: Culla dei secoli\"",
+                "JP": "メイン任務：第一章-プロセスⅢ「時代揺籠」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 III - 세대의 요람 완료",
+                "MX": "Completa la misión principal [Capítulo Ⅰ Proceso Ⅲ: Cuna de las Eras]",
+                "RU": "Завершите основную миссию: операция III главы I «Колыбель Веков»",
+                "TC": "完成主線任務：第一章 - 進度III - 世代搖籃",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 3: จุดกำเนิด​แห่ง​ยุคสมัย​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅰ – Tiến Trình III: Chiếc Nôi Cổ Đại]"
+              },
+              "jumpId": "jump_mission_CharacterGuide",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Progresso da missão principal atual: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Junte-se a uma garota com uma capa vermelha em busca de uma amostra perdida e da inocência esquecida de sua infância.",
+            "CN": "与赤红色的女孩一同寻找遗失的样本，还有被遗忘的童心。",
+            "DE": "Suche gemeinsam mit einem Mädchen mit rotem Umhang eine verlorene Probe und die vergessene Unschuld der Kindheit.",
+            "EN": "Join a girl with a red-cape to look for a lost sample and her forgotten childhood innocence.",
+            "FR": "Rejoignez la fille portant une cape rouge pour rechercher un échantillon perdu et retrouver l'innocence oubliée de son enfance.",
+            "ID": "Bergabunglah dengan seorang gadis berjubah merah untuk mencari sampel yang hilang dan kepolosan masa kecilnya yang terlupakan.",
+            "IT": "Unisciti a una ragazza dal mantello rosso per andare alla ricerca di un campione perduto e di un'innocenza infantile ormai dimenticata.",
+            "JP": "真紅の少女と共に、失われたサンプルと、いつの間にか忘れていた子ども心を探す旅へ――",
+            "KR": "붉은색의 소녀와 함께 잃어버린 표본을 찾기 위한 여정을 시작합니다. 언젠가 잊어버린 어린 시절의 순수함도 함께 말이죠.",
+            "MX": "Acompaña a una niña con una capa roja para buscar una muestra perdida y su inocencia infantil olvidada.",
+            "RU": "Отправьтесь на поиски пропавшего образца вместе с девушкой в красном плаще и вспомните, каково это — быть невинным ребенком.",
+            "TC": "與赤紅色的女孩一起尋找遺失的樣本，還有被遺忘的童心。",
+            "TH": "ร่วม​เดินทาง​ไป​กับ​เด็กสาว​ใน​ผ้าคลุม​สีแดง​เพื่อ​ตามหา​ตัวอย่าง​ที่​สูญหาย​ และ​ความไร้เดียงสา​ใน​วัยเด็ก​ที่​เธอ​หลงลืม​ไป",
+            "VN": "Cùng cô gái khoác áo đỏ đi tìm mẫu vật thất lạc và trái tim thơ bé bị chìm trong quên lãng."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_wulfa",
+          "id": "CharacterGuide_wulfa",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_wulfa",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "A Cavaleira Vermelha",
+            "CN": "红骑士",
+            "DE": "Die Rote Ritterin",
+            "EN": "The Red Knight",
+            "FR": "La chevalière vermeille",
+            "ID": "Kesatria Merah",
+            "IT": "La cavaliera rossa",
+            "JP": "赤騎士",
+            "KR": "적기사",
+            "MX": "La caballera roja",
+            "RU": "Красный рыцарь",
+            "TC": "紅騎士",
+            "TH": "อัศวิน​สีชา​ด",
+            "VN": "Kỵ Sĩ Đỏ"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "reward_CharacterGuide_wulfa",
+          "sortId": 3005,
+          "tabImg": "bg_activity_tab_char_guide_wulfa",
+          "tabImgColor": "#cc0e1b",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_wulfa",
+          "type": 10
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_wulfa_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo III: Berço das Eras]",
+                "CN": "完成主线任务：第一章 - 进程Ⅲ - 世代摇篮",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess III: Wiege der Generationen] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅲ: Cradle of the Ages]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus III : Berceau des millénaires]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅲ: Buaian Zaman]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione III: Culla dei secoli\"",
+                "JP": "メイン任務：第一章-プロセスⅢ「時代揺籠」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 III - 세대의 요람 완료",
+                "MX": "Completa la misión principal [Capítulo Ⅰ Proceso Ⅲ: Cuna de las Eras]",
+                "RU": "Завершите основную миссию: операция III главы I «Колыбель Веков»",
+                "TC": "完成主線任務：第一章 - 進度III - 世代搖籃",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 3: จุดกำเนิด​แห่ง​ยุคสมัย​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅰ – Tiến Trình III: Chiếc Nôi Cổ Đại]"
+              },
+              "jumpId": "jump_mission_main_chapter_1",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e2m8"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Progresso da missão principal atual: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Junte-se a uma garota com uma capa vermelha em busca de uma amostra perdida e da inocência esquecida de sua infância.",
+            "CN": "与赤红色的女孩一同寻找遗失的样本，还有被遗忘的童心。",
+            "DE": "Suche gemeinsam mit einem Mädchen mit rotem Umhang eine verlorene Probe und die vergessene Unschuld der Kindheit.",
+            "EN": "Join a girl with a red-cape to look for a lost sample and her forgotten childhood innocence.",
+            "FR": "Rejoignez la fille portant une cape rouge pour rechercher un échantillon perdu et retrouver l'innocence oubliée de son enfance.",
+            "ID": "Bergabunglah dengan seorang gadis berjubah merah untuk mencari sampel yang hilang dan kepolosan masa kecilnya yang terlupakan.",
+            "IT": "Unisciti a una ragazza dal mantello rosso per andare alla ricerca di un campione perduto e di un'innocenza infantile ormai dimenticata.",
+            "JP": "真紅の少女と共に、失われたサンプルと、いつの間にか忘れていた子ども心を探す旅へ――",
+            "KR": "붉은색의 소녀와 함께 잃어버린 표본을 찾기 위한 여정을 시작합니다. 언젠가 잊어버린 어린 시절의 순수함도 함께 말이죠.",
+            "MX": "Acompaña a una niña con una capa roja para buscar una muestra perdida y su inocencia infantil olvidada.",
+            "RU": "Отправьтесь на поиски пропавшего образца вместе с девушкой в красном плаще и вспомните, каково это — быть невинным ребенком.",
+            "TC": "與赤紅色的女孩一起尋找遺失的樣本，還有被遺忘的童心。",
+            "TH": "ร่วม​เดินทาง​ไป​กับ​เด็กสาว​ใน​ผ้าคลุม​สีแดง​เพื่อ​ตามหา​ตัวอย่าง​ที่​สูญหาย​ และ​ความไร้เดียงสา​ใน​วัยเด็ก​ที่​เธอ​หลงลืม​ไป",
+            "VN": "Cùng cô gái khoác áo đỏ đi tìm mẫu vật thất lạc và trái tim thơ bé bị chìm trong quên lãng."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_wulfa",
+          "id": "CharacterGuide_wulfa",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_wulfa",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "A Cavaleira Vermelha",
+            "CN": "红骑士",
+            "DE": "Die Rote Ritterin",
+            "EN": "The Red Knight",
+            "FR": "La chevalière vermeille",
+            "ID": "Kesatria Merah",
+            "IT": "La cavaliera rossa",
+            "JP": "赤騎士",
+            "KR": "적기사",
+            "MX": "La caballera roja",
+            "RU": "Красный рыцарь",
+            "TC": "紅騎士",
+            "TH": "อัศวิน​สีชา​ด",
+            "VN": "Kỵ Sĩ Đỏ"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "reward_CharacterGuide_wulfa",
+          "sortId": 3005,
+          "tabImg": "bg_activity_tab_char_guide_wulfa",
+          "tabImgColor": "#cc0e1b",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_wulfa",
+          "type": 10
+        },
+        "changed": {
+          "conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          }
+        }
+      },
+      "activity_level_rewards": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [],
+          "desc": {
+            "BR": "Aumente o Nível de Autoridade de Endministrator para resgatar recompensas generosas.",
+            "CN": "提升权限等阶，领取丰厚奖励。",
+            "DE": "Erhöhe das Autoritätslevel des Endministrators, um großzügige Belohnungen zu erhalten.",
+            "EN": "Raise the Endministrator's Authority Level to claim generous rewards.",
+            "FR": "Augmentez le niveau d'autorité de l'Endministrator pour obtenir de superbes récompenses.",
+            "ID": "Naikkan Level Otoritas Endministrator untuk mengambil imbalan besar.",
+            "IT": "Aumenta il livello di autorità dell'Endministrator per ottenere generose ricompense.",
+            "JP": "行動レベルをアップし、豪華報酬を獲得しよう。",
+            "KR": "권한 등급을 올려서 더 많은 보상을 획득하세요.",
+            "MX": "Aumenta el Nivel de autoridad del Endministrator para reclamar generosas recompensas.",
+            "RU": "Повысьте уровень влияния Эндминистратора и получите щедрые награды.",
+            "TC": "提升權限等階，領取豐厚獎勵。",
+            "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator เพื่อ​รับรางวัล​มากมาย",
+            "VN": "Nâng Cấp Đặc Quyền của Endministrator để nhận phần thưởng giá trị."
+          },
+          "detailJumpId": "",
+          "id": "activity_level_rewards",
+          "immediateClose": false,
+          "instructionId": "activity_level_rewards",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Recompensas do Nível de Autoridade",
+            "CN": "权限等阶奖励",
+            "DE": "Autoritätslevel-Belohnungen",
+            "EN": "Authority Level Rewards",
+            "FR": "Récompenses de niveau d'autorité",
+            "ID": "Imbalan Level Otoritas",
+            "IT": "Ricompense livello di autorità",
+            "JP": "行動レベル報酬",
+            "KR": "권한 등급 보상",
+            "MX": "Recompensas por nivel de autoridad",
+            "RU": "Награды за уровень влияния",
+            "TC": "權限等階獎勵",
+            "TH": "รางวัล​เล​เวล​ของ​เจ้าพนักงาน",
+            "VN": "Thưởng Cấp Đặc Quyền"
+          },
+          "panelId": "ActivityLevelRewards",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 10097,
+          "tabImg": "activity_tab_bg_level",
+          "tabImgColor": "#fff100",
+          "tabImgGender": true,
+          "tagIds": [
+            "activity_tag_novice"
+          ],
+          "themeColor": "",
+          "timeId": "time_activity_level_rewards",
+          "type": 3
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [],
+          "desc": {
+            "BR": "Aumente o Nível de Autoridade de Endministrator para resgatar recompensas generosas.",
+            "CN": "提升权限等阶，领取丰厚奖励。",
+            "DE": "Erhöhe das Autoritätslevel des Endministrators, um großzügige Belohnungen zu erhalten.",
+            "EN": "Raise the Endministrator's Authority Level to claim generous rewards.",
+            "FR": "Augmentez le niveau d'autorité de l'Endministrator pour obtenir de superbes récompenses.",
+            "ID": "Naikkan Level Otoritas Endministrator untuk mengambil imbalan besar.",
+            "IT": "Aumenta il livello di autorità dell'Endministrator per ottenere generose ricompense.",
+            "JP": "行動レベルをアップし、豪華報酬を獲得しよう。",
+            "KR": "권한 등급을 올려서 더 많은 보상을 획득하세요.",
+            "MX": "Aumenta el Nivel de autoridad del Endministrator para reclamar generosas recompensas.",
+            "RU": "Повысьте уровень влияния Эндминистратора и получите щедрые награды.",
+            "TC": "提升權限等階，領取豐厚獎勵。",
+            "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator เพื่อ​รับรางวัล​มากมาย",
+            "VN": "Nâng Cấp Đặc Quyền của Endministrator để nhận phần thưởng giá trị."
+          },
+          "detailJumpId": "",
+          "id": "activity_level_rewards",
+          "immediateClose": false,
+          "instructionId": "activity_level_rewards",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Recompensas do Nível de Autoridade",
+            "CN": "权限等阶奖励",
+            "DE": "Autoritätslevel-Belohnungen",
+            "EN": "Authority Level Rewards",
+            "FR": "Récompenses de niveau d'autorité",
+            "ID": "Imbalan Level Otoritas",
+            "IT": "Ricompense livello di autorità",
+            "JP": "行動レベル報酬",
+            "KR": "권한 등급 보상",
+            "MX": "Recompensas por nivel de autoridad",
+            "RU": "Награды за уровень влияния",
+            "TC": "權限等階獎勵",
+            "TH": "รางวัล​เล​เวล​ของ​เจ้าพนักงาน",
+            "VN": "Thưởng Cấp Đặc Quyền"
+          },
+          "panelId": "ActivityLevelRewards",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 10080,
+          "tabImg": "activity_tab_bg_level",
+          "tabImgColor": "#fff100",
+          "tabImgGender": true,
+          "tagIds": [
+            "activity_tag_novice"
+          ],
+          "themeColor": "",
+          "timeId": "time_activity_level_rewards",
+          "type": 3
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 10097,
+            "newValue": 10080
+          }
+        }
+      },
+      "CharacterGuide_yvonne": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_yvonne_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\"",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_CharacterGuide",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Depois de receber uma entrega atrasada, Yvonne convida você para uma viagem em busca de inspirações para criar o graffiti perfeito.",
+            "CN": "在收到一个迟来的包裹后，伊冯邀请你一起去收集灵感，创作出完美的涂鸦。",
+            "DE": "Nachdem ein Paket verspätet ankam, lädt Yvonne dich ein, Inspirationen für das perfekte Graffiti zu sammeln.",
+            "EN": "After receiving a delayed package delivery, Yvonne invites you on a trip for getting inspirations to create the perfect graffiti.",
+            "FR": "Après avoir reçu un colis en retard, Yvonne vous invite à l'accompagner dans ses voyages à la recherche d'inspiration pour créer le graffiti parfait.",
+            "ID": "Setelah menerima paket yang terlambat, Yvonne mengajakmu bepergian mencari inspirasi untuk membuat grafiti yang sempurna.",
+            "IT": "Dopo aver ricevuto un pacco con un certo ritardo, Yvonne ti invita ad accompagnarla in un viaggio alla ricerca dell'ispirazione per creare il graffito perfetto.",
+            "JP": "なかなか届かなかった荷物を受け取ったイヴォンヌ。完璧な「絵」を描くためのインスピレーションを探したいと言うが――",
+            "KR": "늦게 도착한 소포를 받은 이본은 관리자와 함께 영감을 찾아 완벽한 그라피티를 완성하고 싶어 합니다.",
+            "MX": "Tras recibir un paquete con retraso, Yvonne te invita a un viaje para inspirarse y crear el grafiti perfecto.",
+            "RU": "Получив запоздавшую посылку, Ивонна приглашает вас в путешествие, чтобы найти вдохновение для идеального рисунка.",
+            "TC": "在收到一個遲來的包裹後，伊馮邀請你一起去收集靈感，創作出完美的塗鴉。",
+            "TH": "หลังจาก​ได้รับ​พัสดุ​ที่​ส่ง​มา​ล่าช้า​ อี​วอน​จึง​เชิญ​คุณ​ไป​ท่องเที่ยว​เพื่อ​หา​แรงบันดาลใจ​ใน​การ​สร้าง​งาน​กราฟ​ฟิ​ตี​ที่​สมบูรณ์แบบ",
+            "VN": "Sau khi nhận được một gói hàng giao trễ, Yvonne mời bạn cùng tham gia chuyến đi tìm cảm hứng để sáng tạo nên bức graffiti hoàn hảo."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_yvonne",
+          "id": "CharacterGuide_yvonne",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_yvonne",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Amor, Gritos e o Protótipo",
+            "CN": "爱，呐喊和原型机",
+            "DE": "Liebe, Kreischen und der Prototyp",
+            "EN": "Love, Scream & The Prototype",
+            "FR": "Amour, cri et prototype",
+            "ID": "Cinta, Jeritan & Prototipe",
+            "IT": "Amore, urla e il prototipo",
+            "JP": "ラブ、スクリーム&試作モデル",
+            "KR": "러브, 스크림 & 프로토타입",
+            "MX": "Amor, grito y el prototipo",
+            "RU": "Любовь, вопли и прототип",
+            "TC": "愛，吶喊和原型機",
+            "TH": "ความรัก​ เสียง​กรีดร้อง​ และ​ต้นแบบ",
+            "VN": "Tình Yêu, Tiếng Thét Và Nguyên Mẫu"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_yvonne_reward",
+          "sortId": 3002,
+          "tabImg": "bg_activity_tab_char_guide_yvonne",
+          "tabImgColor": "#FF638C",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_yvonne",
+          "type": 10
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [
+            {
+              "compareOperator": 3,
+              "conditionId": "CharacterGuide_yvonne_unlock1",
+              "conditionType": 19,
+              "desc": {
+                "BR": "Conclua a missão principal [Capítulo I Processo IV: Conferência dos Quatro]",
+                "CN": "完成主线任务：第一章 - 进程IV - 四方会议",
+                "DE": "Schließe die Hauptmission [Kapitel I, Prozess IV: Konferenz der Vier] ab.",
+                "EN": "Complete the main mission [Chapter Ⅰ Process Ⅳ: Conference of the Four]",
+                "FR": "Terminer la mission principale [Chapitre I - Processus IV : Le conseil des quatre]",
+                "ID": "Selesaikan misi utama [Bab Ⅰ Proses Ⅳ: Konferensi Empat Pihak]",
+                "IT": "Completa la missione principale \"Capitolo I - Elaborazione IV: L'assemblea dei quattro\"",
+                "JP": "メイン任務：第一章-プロセスⅣ「四方会議」を完了する",
+                "KR": "메인 임무: 1장 - 프로세스 IV - 사방 회의 완료",
+                "MX": "Completa la misión principal [Capítulo I Proceso IV: Conferencia de los Cuatro]",
+                "RU": "Завершите основную миссию: операция IV главы I «Конференция четырех»",
+                "TC": "完成主線任務：第一章 - 進度IV - 四方會議",
+                "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 4: การประชุม​ของ​สี่​มหาอำนาจ​] ให้​สำเร็จ",
+                "VN": "Hoàn thành nhiệm vụ chính [Chương I – Tiến Trình Ⅳ: Hội Nghị Bốn Bên]"
+              },
+              "jumpId": "jump_mission_main_chapter_1",
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e4m1d5"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    3
+                  ],
+                  "valueIntList": [
+                    3
+                  ],
+                  "valueStringList": [
+                    "3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1,
+              "tips": {
+                "BR": "Missão principal atual em andamento: [%s]",
+                "CN": "当前主线任务进度：「%s」",
+                "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+                "EN": "Current main mission progress: [%s]",
+                "FR": "Progression de la mission principale en cours : [%s]",
+                "ID": "Progres misi utama saat ini: [%s]",
+                "IT": "Progressi missione principale attuale: %s",
+                "JP": "現在の任務進捗：「%s」",
+                "KR": "현재 메인 임무 진도: [%s]",
+                "MX": "Progreso actual de la misión principal: [%s]",
+                "RU": "Прогресс основной миссии: %s",
+                "TC": "目前主線任務進度：「%s」",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+                "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+              }
+            }
+          ],
+          "desc": {
+            "BR": "Depois de receber uma entrega atrasada, Yvonne convida você para uma viagem em busca de inspirações para criar o graffiti perfeito.",
+            "CN": "在收到一个迟来的包裹后，伊冯邀请你一起去收集灵感，创作出完美的涂鸦。",
+            "DE": "Nachdem ein Paket verspätet ankam, lädt Yvonne dich ein, Inspirationen für das perfekte Graffiti zu sammeln.",
+            "EN": "After receiving a delayed package delivery, Yvonne invites you on a trip for getting inspirations to create the perfect graffiti.",
+            "FR": "Après avoir reçu un colis en retard, Yvonne vous invite à l'accompagner dans ses voyages à la recherche d'inspiration pour créer le graffiti parfait.",
+            "ID": "Setelah menerima paket yang terlambat, Yvonne mengajakmu bepergian mencari inspirasi untuk membuat grafiti yang sempurna.",
+            "IT": "Dopo aver ricevuto un pacco con un certo ritardo, Yvonne ti invita ad accompagnarla in un viaggio alla ricerca dell'ispirazione per creare il graffito perfetto.",
+            "JP": "なかなか届かなかった荷物を受け取ったイヴォンヌ。完璧な「絵」を描くためのインスピレーションを探したいと言うが――",
+            "KR": "늦게 도착한 소포를 받은 이본은 관리자와 함께 영감을 찾아 완벽한 그라피티를 완성하고 싶어 합니다.",
+            "MX": "Tras recibir un paquete con retraso, Yvonne te invita a un viaje para inspirarse y crear el grafiti perfecto.",
+            "RU": "Получив запоздавшую посылку, Ивонна приглашает вас в путешествие, чтобы найти вдохновение для идеального рисунка.",
+            "TC": "在收到一個遲來的包裹後，伊馮邀請你一起去收集靈感，創作出完美的塗鴉。",
+            "TH": "หลังจาก​ได้รับ​พัสดุ​ที่​ส่ง​มา​ล่าช้า​ อี​วอน​จึง​เชิญ​คุณ​ไป​ท่องเที่ยว​เพื่อ​หา​แรงบันดาลใจ​ใน​การ​สร้าง​งาน​กราฟ​ฟิ​ตี​ที่​สมบูรณ์แบบ",
+            "VN": "Sau khi nhận được một gói hàng giao trễ, Yvonne mời bạn cùng tham gia chuyến đi tìm cảm hứng để sáng tạo nên bức graffiti hoàn hảo."
+          },
+          "detailJumpId": "jump_mission_activity_CharacterGuide_yvonne",
+          "id": "CharacterGuide_yvonne",
+          "immediateClose": true,
+          "instructionId": "CharacterGuide_yvonne",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Amor, Gritos e o Protótipo",
+            "CN": "爱，呐喊和原型机",
+            "DE": "Liebe, Kreischen und der Prototyp",
+            "EN": "Love, Scream & The Prototype",
+            "FR": "Amour, cri et prototype",
+            "ID": "Cinta, Jeritan & Prototipe",
+            "IT": "Amore, urla e il prototipo",
+            "JP": "ラブ、スクリーム&試作モデル",
+            "KR": "러브, 스크림 & 프로토타입",
+            "MX": "Amor, grito y el prototipo",
+            "RU": "Любовь, вопли и прототип",
+            "TC": "愛，吶喊和原型機",
+            "TH": "ความรัก​ เสียง​กรีดร้อง​ และ​ต้นแบบ",
+            "VN": "Tình Yêu, Tiếng Thét Và Nguyên Mẫu"
+          },
+          "panelId": "ActivityCharacterGuideLine",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "CharacterGuide_yvonne_reward",
+          "sortId": 3002,
+          "tabImg": "bg_activity_tab_char_guide_yvonne",
+          "tabImgColor": "#FF638C",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_story"
+          ],
+          "themeColor": "",
+          "timeId": "time_CharacterGuide_yvonne",
+          "type": 10
+        },
+        "changed": {
+          "conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          }
+        }
+      },
+      "activity_cultivation_refund": {
+        "oldValue": {
+          "bgImg": "activity_bg_develop_return",
+          "bgm": "",
+          "conditions": [],
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "detailJumpId": "",
+          "id": "activity_cultivation_refund",
+          "immediateClose": false,
+          "instructionId": "activity_cultivation_refund",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Potencializador de Progressão de Operador",
+            "CN": "干员培养助力",
+            "DE": "Booster für Operator-Fortschrittsmaterialien",
+            "EN": "Operator Progression Booster",
+            "FR": "Bonus de progression de l'opérateur",
+            "ID": "Booster Progresi Operator",
+            "IT": "Potenziamento sviluppo operatori",
+            "JP": "育成強化応援",
+            "KR": "오퍼레이터 육성 지원",
+            "MX": "Refuerzo de progresión de operadores",
+            "RU": "Ускоренное развитие оперативника",
+            "TC": "幹員培養助力",
+            "TH": "บู​สเตอ​ร์​ความก้าวหน้า​ของ​โอเปอเรเตอร์",
+            "VN": "Bổ Trợ Bồi Dưỡng Cán Viên"
+          },
+          "panelId": "ActivityDevelopReturn",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 10095,
+          "tabImg": "activity_tab_bg_develop_return",
+          "tabImgColor": "#fff100",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_novice"
+          ],
+          "themeColor": "",
+          "timeId": "time_activity_cultivation_refund",
+          "type": 27
+        },
+        "newValue": {
+          "bgImg": "activity_bg_develop_return",
+          "bgm": "",
+          "conditions": [],
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "detailJumpId": "",
+          "id": "activity_cultivation_refund",
+          "immediateClose": false,
+          "instructionId": "activity_cultivation_refund",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Potencializador de Progressão de Operador",
+            "CN": "干员培养助力",
+            "DE": "Booster für Operator-Fortschrittsmaterialien",
+            "EN": "Operator Progression Booster",
+            "FR": "Bonus de progression de l'opérateur",
+            "ID": "Booster Progresi Operator",
+            "IT": "Potenziamento sviluppo operatori",
+            "JP": "育成強化応援",
+            "KR": "오퍼레이터 육성 지원",
+            "MX": "Refuerzo de progresión de operadores",
+            "RU": "Ускоренное развитие оперативника",
+            "TC": "幹員培養助力",
+            "TH": "บู​สเตอ​ร์​ความก้าวหน้า​ของ​โอเปอเรเตอร์",
+            "VN": "Bổ Trợ Bồi Dưỡng Cán Viên"
+          },
+          "panelId": "ActivityDevelopReturn",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 10069,
+          "tabImg": "activity_tab_bg_develop_return",
+          "tabImgColor": "#fff100",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_novice"
+          ],
+          "themeColor": "",
+          "timeId": "time_activity_cultivation_refund",
+          "type": 27
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 10095,
+            "newValue": 10069
+          }
+        }
+      },
+      "activity_newplayer_benefits_display": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [],
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "detailJumpId": "",
+          "id": "activity_newplayer_benefits_display",
+          "immediateClose": false,
+          "instructionId": "activity_benefits_1",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Painel EXPO de Brindes da Novos Horizontes",
+            "CN": "启程福利展览板",
+            "DE": "Neue Horizonte: Geschenk-EXPO-Display",
+            "EN": "New Horizons Giveaway EXPO Panel",
+            "FR": "Panneau d'EXPO gratuit - Nouveaux horizons",
+            "ID": "Panel EKSPO Bingkisan Cakrawala Baru",
+            "IT": "Pannello EXPO della donazione Nuovi orizzonti",
+            "JP": "旅立ち掲示板",
+            "KR": "여정의 시작 혜택 안내전 게시판",
+            "MX": "Panel de EXPO de obsequios de Nuevos Horizontes",
+            "RU": "Выставка-раздача «Новые горизонты»",
+            "TC": "啟程福利展覽板",
+            "TH": "แถบ​มหกรรม​แจก​สินค้า​ขอบฟ้า​ใหม่",
+            "VN": "Bảng Triển Lãm Chương Trình Tặng Quà Chân Trời Mới"
+          },
+          "panelId": "ActivityBenefits",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 10096,
+          "tabImg": "activity_tab_bg_benefits",
+          "tabImgColor": "#fff078",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_benefits"
+          ],
+          "themeColor": "",
+          "timeId": "time_activity_benefits_display",
+          "type": 1
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "",
+          "conditions": [],
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "detailJumpId": "",
+          "id": "activity_newplayer_benefits_display",
+          "immediateClose": false,
+          "instructionId": "activity_benefits_1",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Painel EXPO de Brindes da Novos Horizontes",
+            "CN": "启程福利展览板",
+            "DE": "Neue Horizonte: Geschenk-EXPO-Display",
+            "EN": "New Horizons Giveaway EXPO Panel",
+            "FR": "Panneau d'EXPO gratuit - Nouveaux horizons",
+            "ID": "Panel EKSPO Bingkisan Cakrawala Baru",
+            "IT": "Pannello EXPO della donazione Nuovi orizzonti",
+            "JP": "旅立ち掲示板",
+            "KR": "여정의 시작 혜택 안내전 게시판",
+            "MX": "Panel de EXPO de obsequios de Nuevos Horizontes",
+            "RU": "Выставка-раздача «Новые горизонты»",
+            "TC": "啟程福利展覽板",
+            "TH": "แถบ​มหกรรม​แจก​สินค้า​ขอบฟ้า​ใหม่",
+            "VN": "Bảng Triển Lãm Chương Trình Tặng Quà Chân Trời Mới"
+          },
+          "panelId": "ActivityBenefits",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 10070,
+          "tabImg": "activity_tab_bg_benefits",
+          "tabImgColor": "#fff078",
+          "tabImgGender": false,
+          "tagIds": [
+            "activity_tag_benefits"
+          ],
+          "themeColor": "",
+          "timeId": "time_activity_benefits_display",
+          "type": 1
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 10096,
+            "newValue": 10070
+          }
+        }
+      }
+    }
+  }
+}

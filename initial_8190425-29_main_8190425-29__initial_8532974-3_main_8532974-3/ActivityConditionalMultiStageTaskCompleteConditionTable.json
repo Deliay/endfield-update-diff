@@ -1,0 +1,4901 @@
+{
+  "tableName": "ActivityConditionalMultiStageTaskCompleteConditionTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 46,
+    "removed": 0,
+    "changed": 29
+  },
+  "entries": {
+    "added": {
+      "activity_v1d4_01_returnback_new_2_task_4_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_4_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Coloque 1 Sonda de Mineração ou Bomba de Fluido",
+          "CN": "放置1个矿机或者水泵",
+          "DE": "Platziere 1 Abbauanlage oder Flüssigkeitspumpe.",
+          "EN": "Place 1 Mining Rig or Fluid Pump",
+          "FR": "Placer 1 plateforme d'extraction ou 1 pompe à fluide",
+          "ID": "Tempatkan 1 Rig Tambang atau Pompa Cairan",
+          "IT": "Posiziona 1 impianto di estrazione o pompa per liquidi",
+          "JP": "採鉱機または液体ポンプを1個設置する",
+          "KR": "채굴기 또는 양수기 1대 배치",
+          "MX": "Coloca 1 Plataforma de minería o una Bomba de fluido",
+          "RU": "Разместите 1 добывающую установку или гидронасос",
+          "TC": "擺放1個礦機或者水泵",
+          "TH": "วาง​ปั๊ม​ของเหลว​หรือ​แท่น​ขุด​เหมือง​ 1 เครื่อง",
+          "VN": "Đặt 1 Giàn Khai Thác hoặc Máy Bơm Chất Lỏng"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_FactoryNodePlaceCntByTemplateId"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "pump_1",
+              "pump_2",
+              "miner_1",
+              "miner_2",
+              "miner_3",
+              "miner_4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_1_task_8_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_8_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Acione Status Físicos/Explosões de Artes/Reações de Artes 5 vezes",
+          "CN": "累计触发5次物理异常/法术爆发/法术异常效果",
+          "DE": "Löse 5-mal Physische Zustände / Technikexplosionen / Technikreaktionen aus.",
+          "EN": "Trigger Physical Statuses / Arts Bursts / Arts Reactions 5 times",
+          "FR": "Appliquer 5 fois un statut physique / une explosion des Arts / une réaction aux Arts",
+          "ID": "Aktifkan Status Fisik/Arts Burst/Arts Reaction sebanyak 5 kali",
+          "IT": "Attiva stati fisici / Esplosioni delle Arti / Reazioni delle Arti 5 volte",
+          "JP": "物理異常/アーツ爆発/アーツ異常効果を計5回発動させる",
+          "KR": "물리 이상/아츠 폭발/아츠 이상 효과 누적 5회 발동",
+          "MX": "Activa estados físicos / Ráfagas de artes / Reacciones a artes 5 veces",
+          "RU": "Активируйте физические состояния, взрывы искусств или реакции искусств 5 раз",
+          "TC": "累計觸發5次物理異常/法術爆發/法術異常效果",
+          "TH": "กระตุ้น​ สถานะ​กายภาพ​ / ระเบิด​พลัง​เวท​ / ปฏิกิริยา​เวท​ 5 ครั้ง",
+          "VN": "Kích hoạt Trạng Thái Vật Lý/Bùng Nổ Thuật Pháp/Phản Ứng Thuật Pháp 5 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonBattleEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_CltBattleStatEventType_TriggerSIFire",
+              "E_CltBattleStatEventType_TriggerSIPulse",
+              "E_CltBattleStatEventType_TriggerSICryst",
+              "E_CltBattleStatEventType_TriggerSINatural",
+              "E_CltBattleStatEventType_TriggerPIAirborne",
+              "E_CltBattleStatEventType_TriggerPIKnockDown",
+              "E_CltBattleStatEventType_TriggerPIFracture",
+              "E_CltBattleStatEventType_TriggerPICrush",
+              "E_CltBattleStatEventType_TriggerSBFire",
+              "E_CltBattleStatEventType_TriggerSBPulse",
+              "E_CltBattleStatEventType_TriggerSBCryst",
+              "E_CltBattleStatEventType_TriggerSBNatural"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_taketwo_1_task_1_2_condition": {
+        "compareOperator": 3,
+        "conditionId": "activity_taketwo_1_task_1_2_condition",
+        "conditionType": 6059,
+        "desc": {
+          "BR": "Conclua todos os 8 estágios no Modo Normal",
+          "CN": "通关全部8个关卡的普通模式",
+          "DE": "Schließe alle 8 Phasen im Normal-Modus ab.",
+          "EN": "Complete all 8 stages in Normal Mode",
+          "FR": "Terminer les 8 niveaux en mode Normal",
+          "ID": "Selesaikan semua 8 stage dalam Mode Normal",
+          "IT": "Completa tutte le 8 fasi in modalità Normale",
+          "JP": "ノーマルモードのステージを8つクリアする",
+          "KR": "모든 스테이지 8개를 일반 모드로 완료",
+          "MX": "Completa los 8 escenarios en Modo Normal",
+          "RU": "Пройдите все 8 стадий в обычном режиме",
+          "TC": "通關全部8個關卡的普通模式",
+          "TH": "ผ่าน​ทั้ง​ 8 ด่าน​ใน​โหม​ด​ทั่วไป",
+          "VN": "Hoàn thành tất cả 8 màn ở Chế Độ Thường"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung01_takestwo001",
+              "dung01_takestwo002",
+              "dung01_takestwo003",
+              "dung01_takestwo004",
+              "dung01_takestwo005",
+              "dung01_takestwo006",
+              "dung01_takestwo007",
+              "dung01_takestwo008"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 8
+      },
+      "activity_racingdungeon_1_task_condition_3": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_3",
+        "conditionType": 5943,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 50
+      },
+      "activity_racingdungeon_1_task_condition_11": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_11",
+        "conditionType": 14002,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 100
+      },
+      "activity_v1d4_01_returnback_new_1_task_15_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_15_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Gaste 500 Pontos de Sanidade",
+          "CN": "累计消耗500点理智",
+          "DE": "Verbrauche 500 Verstandspunkte.",
+          "EN": "Spend 500 Sanity Points",
+          "FR": "Dépenser 500 points de lucidité",
+          "ID": "Pakai 500 Poin Sanity",
+          "IT": "Spendi 500 punti Lucidità",
+          "JP": "理性を500消費する",
+          "KR": "이성 누적 500 포인트 소모",
+          "MX": "Gasta 500 puntos de Cordura",
+          "RU": "Потратьте 500 оч. рассудка",
+          "TC": "累計消耗500點理智",
+          "TH": "ใช้​ค่า​สติ​ 500 คะแนน",
+          "VN": "Dùng 500 Điểm Tỉnh Táo"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonStaminaCost"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 500
+      },
+      "activity_v1d4_01_returnback_new_2_task_1_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_1_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Coloque 1 instalação da Fábrica do CAI",
+          "CN": "放置任意1个工厂建筑",
+          "DE": "Platziere 1 AIK-Fabrikanlage.",
+          "EN": "Place 1 AIC Factory facility",
+          "FR": "Placer 1 installation de l'usine du GIA",
+          "ID": "Tempatkan 1 fasilitas Pabrik AIC",
+          "IT": "Posiziona una struttura della fabbrica del SIA",
+          "JP": "設備を1個設置する",
+          "KR": "임의의 공장 건물 1개 배치",
+          "MX": "Coloca 1 instalación de la Fábrica del CAI",
+          "RU": "Разместите 1 сооружение АПК",
+          "TC": "擺放任意1個工廠建築",
+          "TH": "ติดตั้ง​สิ่งปลูกสร้าง​โรงงาน​ AIC 1 จุด",
+          "VN": "Đặt 1 công trình Nhà Máy Khu Phức Hợp"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_FactoryNodePlaceCnt"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_racingdungeon_1_task_condition_10": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_10",
+        "conditionType": 5943,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 100
+      },
+      "activity_taketwo_1_task_1_1_condition": {
+        "compareOperator": 3,
+        "conditionId": "activity_taketwo_1_task_1_1_condition",
+        "conditionType": 6059,
+        "desc": {
+          "BR": "Conclua quaisquer 4 estágios no Modo Normal",
+          "CN": "通关任意4个关卡的普通模式",
+          "DE": "Schließe 4 beliebige Phasen im Normal-Modus ab.",
+          "EN": "Complete any 4 stages in Normal Mode",
+          "FR": "Terminer 4 niveaux en mode Normal",
+          "ID": "Selesaikan 4 stage apa saja dalam Mode Normal",
+          "IT": "Completa 4 livelli qualsiasi in modalità Normale",
+          "JP": "ノーマルモードのステージを4つクリアする",
+          "KR": "임의의 스테이지 4개를 일반 모드로 완료",
+          "MX": "Completa 4 escenarios en Modo Normal",
+          "RU": "Пройдите любые 4 стадии в обычном режиме",
+          "TC": "通關任意4個關卡的普通模式",
+          "TH": "ผ่าน​ด่าน​ใด​ก็ได้​ 4 ด่าน​ใน​โหม​ด​ทั่วไป",
+          "VN": "Hoàn thành 4 màn bất kỳ ở Chế Độ Thường"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung01_takestwo001",
+              "dung01_takestwo002",
+              "dung01_takestwo003",
+              "dung01_takestwo004",
+              "dung01_takestwo005",
+              "dung01_takestwo006",
+              "dung01_takestwo007",
+              "dung01_takestwo008"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 4
+      },
+      "activity_v1d4_01_returnback_new_1_task_7_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_7_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Derrote 5 inimigos",
+          "CN": "累计击败任意5个敌人",
+          "DE": "Besiege 5 Gegner.",
+          "EN": "Defeat 5 enemies",
+          "FR": "Éliminer 5 ennemis",
+          "ID": "Kalahkan 5 musuh",
+          "IT": "Sconfiggi 5 nemici",
+          "JP": "敵を計5体倒す",
+          "KR": "임의의 적 누적 5명 처치",
+          "MX": "Derrota a 5 enemigos",
+          "RU": "Победите 5 врагов",
+          "TC": "累計擊敗任意5個敵人",
+          "TH": "กำจัด​ศัตรู​ 5 ตัว",
+          "VN": "Đánh bại 5 kẻ địch"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonMonsterKillNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_racingdungeon_1_task_condition_5": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_5",
+        "conditionType": 4513,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_SvrActionCustomStat"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatSvrActionCustomType_RacingDungeonBoxV1d4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 25
+      },
+      "activity_v1d4_01_returnback_new_2_task_2_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_2_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Negocie com qualquer posto avançado 1 vez",
+          "CN": "在任意据点进行1次货物交易",
+          "DE": "Treibe 1-mal mit einem beliebigen Außenposten Handel.",
+          "EN": "Trade with any outpost 1 time",
+          "FR": "Commercer 1 fois avec un avant-poste",
+          "ID": "Berdagang dengan pos depan mana saja sebanyak 1 kali",
+          "IT": "Scambia articoli con un avamposto qualsiasi 1 volta",
+          "JP": "拠点で商品を1回取引する",
+          "KR": "임의의 거점에서 화물 1회 거래",
+          "MX": "Comercia con cualquier puesto de avanzada 1 vez",
+          "RU": "Совершите торговую сделку с аванпостом 1 раз",
+          "TC": "在任意據點進行1次貨物交易",
+          "TH": "ทำการค้า​กับ​ด่าน​หน้า​ใด​ก็ได้​ 1 ครั้ง",
+          "VN": "Giao dịch với tiền đồn bất kỳ 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonSettlementSellItemCnt"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_tundra_1",
+              "stm_tundra_2",
+              "stm_tundra_3",
+              "stm_hongs_1",
+              "stm_hongs_2",
+              "stm_hongs_3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_racingdungeon_1_task_condition_9": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_9",
+        "conditionType": 5942,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 800
+      },
+      "activity_racingdungeon_1_task_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_1",
+        "conditionType": 5944,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3,
+              4,
+              5,
+              6
+            ],
+            "valueIntList": [
+              3,
+              4,
+              5,
+              6
+            ],
+            "valueStringList": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_racingdungeon_1_task_condition_12": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_12",
+        "conditionType": 5943,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 125
+      },
+      "activity_racingdungeon_1_task_condition_13": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_13",
+        "conditionType": 14002,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 125
+      },
+      "activity_racingdungeon_1_task_condition_14": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_14",
+        "conditionType": 5944,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              13
+            ],
+            "valueIntList": [
+              13
+            ],
+            "valueStringList": [
+              "13"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_racingdungeon_1_task_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_2",
+        "conditionType": 5942,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 200
+      },
+      "activity_racingdungeon_1_task_condition_4": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_4",
+        "conditionType": 14002,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 50
+      },
+      "activity_racingdungeon_1_task_condition_6": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_6",
+        "conditionType": 4513,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_SvrActionCustomStat"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatSvrActionCustomType_RacingDungeonPressureBoardV1d4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 25
+      },
+      "activity_v1d4_01_returnback_new_1_task_11_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_11_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Aumente o nível de um operador 1 vez",
+          "CN": "提升1次干员等级",
+          "DE": "Erhöhe das Level eines Operators 1-mal.",
+          "EN": "Level up an operator 1 time",
+          "FR": "Faire passer un opérateur au niveau supérieur 1 fois",
+          "ID": "Naikkan level operator sebanyak 1 kali",
+          "IT": "Fai salire di livello un operatore 1 volta",
+          "JP": "オペレーターを1回レベルアップする",
+          "KR": "오퍼레이터를 1회 업그레이드",
+          "MX": "Sube el nivel de un operador 1 vez",
+          "RU": "Повысьте уровень оперативника 1 раз",
+          "TC": "提升1次幹員等級",
+          "TH": "เพิ่ม​เล​เวล​โอเปอเรเตอร์​ 1 ครั้ง",
+          "VN": "Tăng cấp cho một cán viên 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonCharLevelUp"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_1_task_2_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_2_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Negocie com qualquer posto avançado 1 vez",
+          "CN": "在任意据点进行1次货物交易",
+          "DE": "Treibe 1-mal mit einem beliebigen Außenposten Handel.",
+          "EN": "Trade with any outpost 1 time",
+          "FR": "Commercer 1 fois avec un avant-poste",
+          "ID": "Berdagang dengan pos depan mana saja sebanyak 1 kali",
+          "IT": "Scambia articoli con un avamposto qualsiasi 1 volta",
+          "JP": "拠点で商品を1回取引する",
+          "KR": "임의의 거점에서 화물 1회 거래",
+          "MX": "Comercia con cualquier puesto de avanzada 1 vez",
+          "RU": "Совершите торговую сделку с аванпостом 1 раз",
+          "TC": "在任意據點進行1次貨物交易",
+          "TH": "ทำการค้า​กับ​ด่าน​หน้า​ใด​ก็ได้​ 1 ครั้ง",
+          "VN": "Giao dịch với tiền đồn bất kỳ 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonSettlementSellItemCnt"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_tundra_1",
+              "stm_tundra_2",
+              "stm_tundra_3",
+              "stm_hongs_1",
+              "stm_hongs_2",
+              "stm_hongs_3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_racingdungeon_1_task_condition_7": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_7",
+        "conditionType": 5944,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              12,
+              13,
+              14
+            ],
+            "valueIntList": [
+              12,
+              13,
+              14
+            ],
+            "valueStringList": [
+              "12",
+              "13",
+              "14"
+            ],
+            "valueType": 0,
+            "valueVector3": {
+              "x": 12,
+              "y": 13,
+              "z": 14
+            }
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_1_task_10_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_10_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Conclua qualquer desafio de RE-Crise 1 vez",
+          "CN": "任意危境再现通关1次",
+          "DE": "Schließe eine beliebige RE-Krise-Herausforderung 1-mal ab.",
+          "EN": "Complete any RE-Crisis challenge 1 time",
+          "FR": "Terminer 1 fois un défi « Crise X »",
+          "ID": "Selesaikan tantangan Krisis Ulangan mana saja sebanyak 1 kali",
+          "IT": "Completa una qualsiasi sfida RE-Crisi 1 volta",
+          "JP": "危境再現を1回クリアする",
+          "KR": "임의의 위험한 재현 1회 완료",
+          "MX": "Completa cualquier desafío de Re-crisis 1 vez",
+          "RU": "Пройдите «Реванш» 1 раз",
+          "TC": "通關任意危境再現1次",
+          "TH": "ทำการ​ท้าทาย​วิกฤต​หวนคืน​ให้​สำเร็จ​ 1 ครั้ง",
+          "VN": "Hoàn thành thử thách Tái Chiến bất kỳ 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_GameCategoryPassNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dungeon_bossrush"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_racingdungeon_1_task_condition_8": {
+        "compareOperator": 3,
+        "conditionId": "activity_racingdungeon_1_task_condition_8",
+        "conditionType": 5942,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_race001"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 500
+      },
+      "activity_v1d4_01_returnback_new_1_task_12_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_12_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Aumente o nível de uma arma 1 vez",
+          "CN": "提升1次武器等级",
+          "DE": "Erhöhe das Level einer Waffe 1-mal.",
+          "EN": "Level up a weapon 1 time",
+          "FR": "Faire passer une arme au niveau supérieur 1 fois",
+          "ID": "Naikkan level senjata sebanyak 1 kali",
+          "IT": "Fai salire di livello un'arma 1 volta",
+          "JP": "武器を1回レベルアップする",
+          "KR": "무기를 1회 업그레이드",
+          "MX": "Sube el nivel de un arma 1 vez",
+          "RU": "Повысьте уровень оружия 1 раз",
+          "TC": "提升1次武器等級",
+          "TH": "เพิ่ม​เล​เวล​อาวุธ​ 1 ครั้ง",
+          "VN": "Tăng cấp vũ khí 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonWeapeonLevelUp"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_1_task_13_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_13_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Realize o entalhe de essências 10 vezes",
+          "CN": "累计进行10次基质蚀刻",
+          "DE": "Führe 10-mal Essenz-Ätzen durch.",
+          "EN": "Perform essence etching 10 times",
+          "FR": "Procéder à 10 gravures d'essence",
+          "ID": "Lakukan pengukiran esensi sebanyak 10 kali",
+          "IT": "Effettua l'incisione di essenze 10 volte",
+          "JP": "基質食刻を10回完了する",
+          "KR": "기질 식각 누적 10회 진행",
+          "MX": "Realiza grabado de esencia 10 veces",
+          "RU": "Выполните гравировку эссенций 10 раз",
+          "TC": "累計進行10次基質蝕刻",
+          "TH": "ฝัง​รอย​แก่นแท้​ 10 ครั้ง",
+          "VN": "Thực hiện khắc tinh chất 10 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonGemEnhance"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 10
+      },
+      "activity_v1d4_01_returnback_new_1_task_14_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_14_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Faça a infusão de 1 essência roxa ou de qualidade superior em 1 arma",
+          "CN": "为任意1把武器注入1个紫色及以上的基质",
+          "DE": "Durchtränke 1 Waffe mit 1 Essenz in lilafarbener oder besserer Qualität.",
+          "EN": "Infuse 1 purple or better quality essence into 1 weapon",
+          "FR": "Imprégner une arme d'une essence violette ou de qualité supérieure",
+          "ID": "Infusikan 1 esensi berkualitas ungu atau lebih bagus ke dalam 1 senjata",
+          "IT": "Infondi un'essenza viola o di qualità migliore in un'arma",
+          "JP": "任意の武器に紫品質以上の基質を1個注入する",
+          "KR": "임의의 무기 1개에 보라색 혹은 그 이상의 기질 1개 주입",
+          "MX": "Infunde 1 esencia de calidad morada o superior en 1 arma",
+          "RU": "Вложите в 1 оружие 1 эссенцию фиолетового качества или лучше",
+          "TC": "為任意1把武器注入1個紫色及以上的基質",
+          "TH": "หลอม​รวม​แก่นแท้​ คุณภาพ​สีม่วง​ขึ้นไป​ 1 ชิ้น​ลง​ใน​อาวุธ​ 1 ชิ้น",
+          "VN": "Dung hợp 1 tinh chất có phẩm chất Tím trở lên vào 1 vũ khí"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonGemAttachNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              4,
+              5
+            ],
+            "valueIntList": [
+              4,
+              5
+            ],
+            "valueStringList": [
+              "4",
+              "5"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_1_task_1_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_1_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Coloque 1 instalação da Fábrica do CAI",
+          "CN": "放置任意1个工厂建筑",
+          "DE": "Platziere 1 AIK-Fabrikanlage.",
+          "EN": "Place 1 AIC Factory facility",
+          "FR": "Placer 1 installation de l'usine du GIA",
+          "ID": "Tempatkan 1 fasilitas Pabrik AIC",
+          "IT": "Posiziona una struttura della fabbrica del SIA",
+          "JP": "設備を1個設置する",
+          "KR": "임의의 공장 건물 1개 배치",
+          "MX": "Coloca 1 instalación de la Fábrica del CAI",
+          "RU": "Разместите 1 сооружение АПК",
+          "TC": "擺放任意1個工廠建築",
+          "TH": "ติดตั้ง​สิ่งปลูกสร้าง​โรงงาน​ AIC 1 จุด",
+          "VN": "Đặt 1 công trình Nhà Máy Khu Phức Hợp"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_FactoryNodePlaceCnt"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_1_task_3_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_3_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Monte 5 peças de equipamento de qualquer qualidade",
+          "CN": "制造5件任意品质的装备",
+          "DE": "Montiere 5 Ausrüstungsteile beliebiger Qualität.",
+          "EN": "Assemble 5 pieces of gear of any quality",
+          "FR": "Assembler 5 pièces d'équipement de n'importe quelle qualité",
+          "ID": "Rakit 5 kepingan gear dengan kualitas apa saja",
+          "IT": "Assembla 5 equipaggiamenti di qualsiasi qualità",
+          "JP": "装備を5個製造する",
+          "KR": "임의 품질의 장비 5개 제작",
+          "MX": "Ensambla 5 piezas de equipamiento de cualquier calidad",
+          "RU": "Соберите 5 предметов снаряжения любого качества",
+          "TC": "製造5件任意品質的裝備",
+          "TH": "ประกอบ​อุปกรณ์​จำนวน​ 5 ชิ้น​คุณภาพ​ใด​ก็ได้",
+          "VN": "Lắp ráp 5 món trang bị có chất bất kỳ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonTierLevelEquipProduceNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "valueIntList": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "valueStringList": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_v1d4_01_returnback_new_1_task_4_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_4_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Coloque 1 Sonda de Mineração ou Bomba de Fluido",
+          "CN": "放置1个矿机或者水泵",
+          "DE": "Platziere 1 Abbauanlage oder Flüssigkeitspumpe.",
+          "EN": "Place 1 Mining Rig or Fluid Pump",
+          "FR": "Placer 1 plateforme d'extraction ou 1 pompe à fluide",
+          "ID": "Tempatkan 1 Rig Tambang atau Pompa Cairan",
+          "IT": "Posiziona 1 impianto di estrazione o pompa per liquidi",
+          "JP": "採鉱機または液体ポンプを1個設置する",
+          "KR": "채굴기 또는 양수기 1대 배치",
+          "MX": "Coloca 1 Plataforma de minería o una Bomba de fluido",
+          "RU": "Разместите 1 добывающую установку или гидронасос",
+          "TC": "擺放1個礦機或者水泵",
+          "TH": "วาง​ปั๊ม​ของเหลว​หรือ​แท่น​ขุด​เหมือง​ 1 เครื่อง",
+          "VN": "Đặt 1 Giàn Khai Thác hoặc Máy Bơm Chất Lỏng"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_FactoryNodePlaceCntByTemplateId"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "pump_1",
+              "pump_2",
+              "miner_1",
+              "miner_2",
+              "miner_3",
+              "miner_4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_1_task_5_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_5_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Compre mercadorias na Redistribuição do Estoque 10 vezes",
+          "CN": "物资调度处累计购买10次物资",
+          "DE": "Kaufe 10-mal Güter bei der Vorratneuverteilung.",
+          "EN": "Purchase goods at Stock Redistribution 10 times",
+          "FR": "Réaliser 10 achats de fournitures au magasin de redistribution",
+          "ID": "Beli barang di Redistribusi Stok sebanyak 10 kali",
+          "IT": "Acquista merci alla ridistribuzione scorte 10 volte",
+          "JP": "商品取引で10回購入する",
+          "KR": "물자 관리에서 물자 누적 10회 구매",
+          "MX": "Compra mercancías en Redistribución de existencias 10 veces",
+          "RU": "Купите товары в системе перераспределения резервов 10 раз",
+          "TC": "物資調度處累計購買10次物資",
+          "TH": "ซื้อ​เสบียง​สิ่งของ​ที่​ศูนย์​กระจาย​ของ​ 10 ครั้ง",
+          "VN": "Mua hàng tại Điều Phối Vật Tư 10 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonDomainShopBuy"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "domainshop_map01",
+              "domainshop_map02"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 10
+      },
+      "activity_v1d4_01_returnback_new_2_task_13_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_13_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Realize o entalhe de essências 10 vezes",
+          "CN": "累计进行10次基质蚀刻",
+          "DE": "Führe 10-mal Essenz-Ätzen durch.",
+          "EN": "Perform essence etching 10 times",
+          "FR": "Procéder à 10 gravures d'essence",
+          "ID": "Lakukan pengukiran esensi sebanyak 10 kali",
+          "IT": "Effettua l'incisione di essenze 10 volte",
+          "JP": "基質食刻を10回完了する",
+          "KR": "기질 식각 누적 10회 진행",
+          "MX": "Realiza grabado de esencia 10 veces",
+          "RU": "Выполните гравировку эссенций 10 раз",
+          "TC": "累計進行10次基質蝕刻",
+          "TH": "ฝัง​รอย​แก่นแท้​ 10 ครั้ง",
+          "VN": "Thực hiện khắc tinh chất 10 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonGemEnhance"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 10
+      },
+      "activity_v1d4_01_returnback_new_1_task_6_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_6_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Conjure habilidades de batalha 5 vezes",
+          "CN": "累计施放5次战技",
+          "DE": "Wirke 5-mal Kampffertigkeiten.",
+          "EN": "Cast battle skills 5 times",
+          "FR": "Utiliser 5 fois une compétence de combat",
+          "ID": "Gunakan skill tarung sebanyak 5 kali",
+          "IT": "Usa le abilità di combattimento 5 volte",
+          "JP": "戦技を5回使用する",
+          "KR": "배틀 스킬 누적 5회 사용",
+          "MX": "Lanza habilidades de batalla 5 veces",
+          "RU": "Примените боевые навыки 5 раз",
+          "TC": "累計施放5次戰技",
+          "TH": "ใช้​ทักษะ​การต่อสู้​ 5 ครั้ง",
+          "VN": "Thi triển KN chiến đấu 5 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonBattleEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_CltBattleStatEventType_TriggerNormalSkill"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_v1d4_01_returnback_new_1_task_9_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_1_task_9_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Cause um total de 200 mil de DNO",
+          "CN": "累计造成200000点伤害",
+          "DE": "Füge Gegnern insgesamt 200k SDN zu.",
+          "EN": "Deal a total of 200K DMG",
+          "FR": "Infliger un total de 200 000 pts de DÉG",
+          "ID": "Timbulkan total DMG sebesar 200.000",
+          "IT": "Infliggi un totale di 200 mila danni",
+          "JP": "ダメージを計200,000与える",
+          "KR": "누적 200,000 포인트 피해 주기",
+          "MX": "Inflige un total de 200 mil de DAÑ",
+          "RU": "Нанесите 200 000 ед. УРН",
+          "TC": "累計造成200,000點傷害",
+          "TH": "ทำ​ DMG รวมทั้งหมด​ 200,000 หน่วย",
+          "VN": "Gây tổng cộng 200K ST"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonTotalDamage"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 200000
+      },
+      "activity_v1d4_01_returnback_new_2_task_10_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_10_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Conclua qualquer desafio de RE-Crise 1 vez",
+          "CN": "任意危境再现通关1次",
+          "DE": "Schließe eine beliebige RE-Krise-Herausforderung 1-mal ab.",
+          "EN": "Complete any RE-Crisis challenge 1 time",
+          "FR": "Terminer 1 fois un défi « Crise X »",
+          "ID": "Selesaikan tantangan Krisis Ulangan mana saja sebanyak 1 kali",
+          "IT": "Completa una qualsiasi sfida RE-Crisi 1 volta",
+          "JP": "危境再現を1回クリアする",
+          "KR": "임의의 위험한 재현 1회 완료",
+          "MX": "Completa cualquier desafío de Re-crisis 1 vez",
+          "RU": "Пройдите «Реванш» 1 раз",
+          "TC": "通關任意危境再現1次",
+          "TH": "ทำการ​ท้าทาย​วิกฤต​หวนคืน​ให้​สำเร็จ​ 1 ครั้ง",
+          "VN": "Hoàn thành thử thách Tái Chiến bất kỳ 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_GameCategoryPassNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dungeon_bossrush"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_2_task_11_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_11_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Aumente o nível de um operador 1 vez",
+          "CN": "提升1次干员等级",
+          "DE": "Erhöhe das Level eines Operators 1-mal.",
+          "EN": "Level up an operator 1 time",
+          "FR": "Faire passer un opérateur au niveau supérieur 1 fois",
+          "ID": "Naikkan level operator sebanyak 1 kali",
+          "IT": "Fai salire di livello un operatore 1 volta",
+          "JP": "オペレーターを1回レベルアップする",
+          "KR": "오퍼레이터를 1회 업그레이드",
+          "MX": "Sube el nivel de un operador 1 vez",
+          "RU": "Повысьте уровень оперативника 1 раз",
+          "TC": "提升1次幹員等級",
+          "TH": "เพิ่ม​เล​เวล​โอเปอเรเตอร์​ 1 ครั้ง",
+          "VN": "Tăng cấp cho một cán viên 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonCharLevelUp"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_2_task_12_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_12_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Aumente o nível de uma arma 1 vez",
+          "CN": "提升1次武器等级",
+          "DE": "Erhöhe das Level einer Waffe 1-mal.",
+          "EN": "Level up a weapon 1 time",
+          "FR": "Faire passer une arme au niveau supérieur 1 fois",
+          "ID": "Naikkan level senjata sebanyak 1 kali",
+          "IT": "Fai salire di livello un'arma 1 volta",
+          "JP": "武器を1回レベルアップする",
+          "KR": "무기를 1회 업그레이드",
+          "MX": "Sube el nivel de un arma 1 vez",
+          "RU": "Повысьте уровень оружия 1 раз",
+          "TC": "提升1次武器等級",
+          "TH": "เพิ่ม​เล​เวล​อาวุธ​ 1 ครั้ง",
+          "VN": "Tăng cấp vũ khí 1 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonWeapeonLevelUp"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_2_task_14_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_14_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Faça a infusão de 1 essência roxa ou de qualidade superior em 1 arma",
+          "CN": "为任意1把武器注入1个紫色及以上的基质",
+          "DE": "Durchtränke 1 Waffe mit 1 Essenz in lilafarbener oder besserer Qualität.",
+          "EN": "Infuse 1 purple or better quality essence into 1 weapon",
+          "FR": "Imprégner une arme d'une essence violette ou de qualité supérieure",
+          "ID": "Infusikan 1 esensi berkualitas ungu atau lebih bagus ke dalam 1 senjata",
+          "IT": "Infondi un'essenza viola o di qualità migliore in un'arma",
+          "JP": "任意の武器に紫品質以上の基質を1個注入する",
+          "KR": "임의의 무기 1개에 보라색 혹은 그 이상의 기질 1개 주입",
+          "MX": "Infunde 1 esencia de calidad morada o superior en 1 arma",
+          "RU": "Вложите в 1 оружие 1 эссенцию фиолетового качества или лучше",
+          "TC": "為任意1把武器注入1個紫色及以上的基質",
+          "TH": "หลอม​รวม​แก่นแท้​ คุณภาพ​สีม่วง​ขึ้นไป​ 1 ชิ้น​ลง​ใน​อาวุธ​ 1 ชิ้น",
+          "VN": "Dung hợp 1 tinh chất có phẩm chất Tím trở lên vào 1 vũ khí"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonGemAttachNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              4,
+              5
+            ],
+            "valueIntList": [
+              4,
+              5
+            ],
+            "valueStringList": [
+              "4",
+              "5"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_v1d4_01_returnback_new_2_task_15_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_15_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Gaste 500 Pontos de Sanidade",
+          "CN": "累计消耗500点理智",
+          "DE": "Verbrauche 500 Verstandspunkte.",
+          "EN": "Spend 500 Sanity Points",
+          "FR": "Dépenser 500 points de lucidité",
+          "ID": "Pakai 500 Poin Sanity",
+          "IT": "Spendi 500 punti Lucidità",
+          "JP": "理性を500消費する",
+          "KR": "이성 누적 500 포인트 소모",
+          "MX": "Gasta 500 puntos de Cordura",
+          "RU": "Потратьте 500 оч. рассудка",
+          "TC": "累計消耗500點理智",
+          "TH": "ใช้​ค่า​สติ​ 500 คะแนน",
+          "VN": "Dùng 500 Điểm Tỉnh Táo"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonStaminaCost"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 500
+      },
+      "activity_v1d4_01_returnback_new_2_task_3_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_3_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Monte 5 peças de equipamento de qualquer qualidade",
+          "CN": "制造5件任意品质的装备",
+          "DE": "Montiere 5 Ausrüstungsteile beliebiger Qualität.",
+          "EN": "Assemble 5 pieces of gear of any quality",
+          "FR": "Assembler 5 pièces d'équipement de n'importe quelle qualité",
+          "ID": "Rakit 5 kepingan gear dengan kualitas apa saja",
+          "IT": "Assembla 5 equipaggiamenti di qualsiasi qualità",
+          "JP": "装備を5個製造する",
+          "KR": "임의 품질의 장비 5개 제작",
+          "MX": "Ensambla 5 piezas de equipamiento de cualquier calidad",
+          "RU": "Соберите 5 предметов снаряжения любого качества",
+          "TC": "製造5件任意品質的裝備",
+          "TH": "ประกอบ​อุปกรณ์​จำนวน​ 5 ชิ้น​คุณภาพ​ใด​ก็ได้",
+          "VN": "Lắp ráp 5 món trang bị có chất bất kỳ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonTierLevelEquipProduceNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "valueIntList": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "valueStringList": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_v1d4_01_returnback_new_2_task_5_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_5_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Compre mercadorias na Redistribuição do Estoque 10 vezes",
+          "CN": "物资调度处累计购买10次物资",
+          "DE": "Kaufe 10-mal Güter bei der Vorratneuverteilung.",
+          "EN": "Purchase goods at Stock Redistribution 10 times",
+          "FR": "Réaliser 10 achats de fournitures au magasin de redistribution",
+          "ID": "Beli barang di Redistribusi Stok sebanyak 10 kali",
+          "IT": "Acquista merci alla ridistribuzione scorte 10 volte",
+          "JP": "商品取引で10回購入する",
+          "KR": "물자 관리에서 물자 누적 10회 구매",
+          "MX": "Compra mercancías en Redistribución de existencias 10 veces",
+          "RU": "Купите товары в системе перераспределения резервов 10 раз",
+          "TC": "物資調度處累計購買10次物資",
+          "TH": "ซื้อ​เสบียง​สิ่งของ​ที่​ศูนย์​กระจาย​ของ​ 10 ครั้ง",
+          "VN": "Mua hàng tại Điều Phối Vật Tư 10 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonDomainShopBuy"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "domainshop_map01",
+              "domainshop_map02"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 10
+      },
+      "activity_v1d4_01_returnback_new_2_task_6_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_6_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Conjure habilidades de batalha 5 vezes",
+          "CN": "累计施放5次战技",
+          "DE": "Wirke 5-mal Kampffertigkeiten.",
+          "EN": "Cast battle skills 5 times",
+          "FR": "Utiliser 5 fois une compétence de combat",
+          "ID": "Gunakan skill tarung sebanyak 5 kali",
+          "IT": "Usa le abilità di combattimento 5 volte",
+          "JP": "戦技を5回使用する",
+          "KR": "배틀 스킬 누적 5회 사용",
+          "MX": "Lanza habilidades de batalla 5 veces",
+          "RU": "Примените боевые навыки 5 раз",
+          "TC": "累計施放5次戰技",
+          "TH": "ใช้​ทักษะ​การต่อสู้​ 5 ครั้ง",
+          "VN": "Thi triển KN chiến đấu 5 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonBattleEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_CltBattleStatEventType_TriggerNormalSkill"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_v1d4_01_returnback_new_2_task_7_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_7_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Derrote 5 inimigos",
+          "CN": "累计击败任意5个敌人",
+          "DE": "Besiege 5 Gegner.",
+          "EN": "Defeat 5 enemies",
+          "FR": "Éliminer 5 ennemis",
+          "ID": "Kalahkan 5 musuh",
+          "IT": "Sconfiggi 5 nemici",
+          "JP": "敵を計5体倒す",
+          "KR": "임의의 적 누적 5명 처치",
+          "MX": "Derrota a 5 enemigos",
+          "RU": "Победите 5 врагов",
+          "TC": "累計擊敗任意5個敵人",
+          "TH": "กำจัด​ศัตรู​ 5 ตัว",
+          "VN": "Đánh bại 5 kẻ địch"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonMonsterKillNum"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_v1d4_01_returnback_new_2_task_8_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_8_completed",
+        "conditionType": 6512,
+        "desc": {
+          "BR": "Acione Status Físicos/Explosões de Artes/Reações de Artes 5 vezes",
+          "CN": "累计触发5次物理异常/法术爆发/法术异常效果",
+          "DE": "Löse 5-mal Physische Zustände / Technikexplosionen / Technikreaktionen aus.",
+          "EN": "Trigger Physical Statuses / Arts Bursts / Arts Reactions 5 times",
+          "FR": "Appliquer 5 fois un statut physique / une explosion des Arts / une réaction aux Arts",
+          "ID": "Aktifkan Status Fisik/Arts Burst/Arts Reaction sebanyak 5 kali",
+          "IT": "Attiva stati fisici / Esplosioni delle Arti / Reazioni delle Arti 5 volte",
+          "JP": "物理異常/アーツ爆発/アーツ異常効果を計5回発動させる",
+          "KR": "물리 이상/아츠 폭발/아츠 이상 효과 누적 5회 발동",
+          "MX": "Activa estados físicos / Ráfagas de artes / Reacciones a artes 5 veces",
+          "RU": "Активируйте физические состояния, взрывы искусств или реакции искусств 5 раз",
+          "TC": "累計觸發5次物理異常/法術爆發/法術異常效果",
+          "TH": "กระตุ้น​ สถานะ​กายภาพ​ / ระเบิด​พลัง​เวท​ / ปฏิกิริยา​เวท​ 5 ครั้ง",
+          "VN": "Kích hoạt Trạng Thái Vật Lý/Bùng Nổ Thuật Pháp/Phản Ứng Thuật Pháp 5 lần"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonBattleEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_CltBattleStatEventType_TriggerSIFire",
+              "E_CltBattleStatEventType_TriggerSIPulse",
+              "E_CltBattleStatEventType_TriggerSICryst",
+              "E_CltBattleStatEventType_TriggerSINatural",
+              "E_CltBattleStatEventType_TriggerPIAirborne",
+              "E_CltBattleStatEventType_TriggerPIKnockDown",
+              "E_CltBattleStatEventType_TriggerPIFracture",
+              "E_CltBattleStatEventType_TriggerPICrush",
+              "E_CltBattleStatEventType_TriggerSBFire",
+              "E_CltBattleStatEventType_TriggerSBPulse",
+              "E_CltBattleStatEventType_TriggerSBCryst",
+              "E_CltBattleStatEventType_TriggerSBNatural"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "activity_v1d4_01_returnback_new_2_task_9_completed": {
+        "compareOperator": 3,
+        "conditionId": "activity_v1d4_01_returnback_new_2_task_9_completed",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Cause um total de 200 mil de DNO",
+          "CN": "累计造成200000点伤害",
+          "DE": "Füge Gegnern insgesamt 200k SDN zu.",
+          "EN": "Deal a total of 200K DMG",
+          "FR": "Infliger un total de 200 000 pts de DÉG",
+          "ID": "Timbulkan total DMG sebesar 200.000",
+          "IT": "Infliggi un totale di 200 mila danni",
+          "JP": "ダメージを計200,000与える",
+          "KR": "누적 200,000 포인트 피해 주기",
+          "MX": "Inflige un total de 200 mil de DAÑ",
+          "RU": "Нанесите 200 000 ед. УРН",
+          "TC": "累計造成200,000點傷害",
+          "TH": "ทำ​ DMG รวมทั้งหมด​ 200,000 หน่วย",
+          "VN": "Gây tổng cộng 200K ST"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_BPSeasonTotalDamage"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 200000
+      }
+    },
+    "removed": {},
+    "changed": {
+      "SimulationTraining_task10_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task10_condition",
+          "conditionType": 4513,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleMaxMoneyGain"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 200000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task10_condition",
+          "conditionType": 4513,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleMaxMoneyGain"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 200000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task11_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task11_condition",
+          "conditionType": 6071,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "world_poi_simulation_training"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 2000000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task11_condition",
+          "conditionType": 6071,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "world_poi_simulation_training"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 2000000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task1_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task1_condition",
+          "conditionType": 4513,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleMaxMoneyGain"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 10000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task1_condition",
+          "conditionType": 4513,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleMaxMoneyGain"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 10000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task12_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task12_condition",
+          "conditionType": 6511,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 660000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task12_condition",
+          "conditionType": 6511,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 660000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_2_3_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_3_condition",
+          "conditionType": 5930,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 15
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_3_condition",
+          "conditionType": 5930,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 15
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task13_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task13_condition",
+          "conditionType": 6509,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleBustPlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1,
+                2
+              ],
+              "valueIntList": [
+                1,
+                2
+              ],
+              "valueStringList": [
+                "1",
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task13_condition",
+          "conditionType": 6509,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleBustPlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1,
+                2
+              ],
+              "valueIntList": [
+                1,
+                2
+              ],
+              "valueStringList": [
+                "1",
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task14_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task14_condition",
+          "conditionType": 4513,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task14_condition",
+          "conditionType": 4513,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task8_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task8_condition",
+          "conditionType": 4513,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleMaxMoneyGain"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 100000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task8_condition",
+          "conditionType": 4513,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleMaxMoneyGain"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 100000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_1_3_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_3_condition",
+          "conditionType": 5920,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_3_condition",
+          "conditionType": 5920,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task15_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task15_condition",
+          "conditionType": 6509,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleBustPlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1,
+                2
+              ],
+              "valueIntList": [
+                1,
+                2
+              ],
+              "valueStringList": [
+                "1",
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 3
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task15_condition",
+          "conditionType": 6509,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattleBustPlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1,
+                2
+              ],
+              "valueIntList": [
+                1,
+                2
+              ],
+              "valueStringList": [
+                "1",
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 3
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task16_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task16_condition",
+          "conditionType": 4513,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 3
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task16_condition",
+          "conditionType": 4513,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 3
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_2_2_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_2_condition",
+          "conditionType": 5930,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 10
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_2_condition",
+          "conditionType": 5930,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 10
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task2_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task2_condition",
+          "conditionType": 6511,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 60000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task2_condition",
+          "conditionType": 6511,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 60000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_1_6_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_6_condition",
+          "conditionType": 5920,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_6_condition",
+          "conditionType": 5920,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task3_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task3_condition",
+          "conditionType": 4513,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 3
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task3_condition",
+          "conditionType": 4513,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 3
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_1_1_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_1_condition",
+          "conditionType": 5920,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_1_condition",
+          "conditionType": 5920,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task4_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task4_condition",
+          "conditionType": 6511,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 160000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task4_condition",
+          "conditionType": 6511,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 160000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task5_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task5_condition",
+          "conditionType": 4513,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 6
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task5_condition",
+          "conditionType": 4513,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_GamblingBattlePlayCount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 6
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_1_4_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_4_condition",
+          "conditionType": 5920,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_4_condition",
+          "conditionType": 5920,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task6_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task6_condition",
+          "conditionType": 6511,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 360000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task6_condition",
+          "conditionType": 6511,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_ActivityGamblingBattleItemGainNum"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 360000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_1_2_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_2_condition",
+          "conditionType": 5920,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_2_condition",
+          "conditionType": 5920,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_3_2_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_3_2_condition",
+          "conditionType": 5919,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "activity_contingency_contract_0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 12
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_3_2_condition",
+          "conditionType": 5919,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "activity_contingency_contract_0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 12
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task7_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task7_condition",
+          "conditionType": 6071,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "world_poi_simulation_training"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 500000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task7_condition",
+          "conditionType": 6071,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "world_poi_simulation_training"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 500000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_1_5_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_5_condition",
+          "conditionType": 5920,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_5_condition",
+          "conditionType": 5920,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "SimulationTraining_task9_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task9_condition",
+          "conditionType": 6071,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "world_poi_simulation_training"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1000000
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "SimulationTraining_task9_condition",
+          "conditionType": 6071,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "world_poi_simulation_training"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1000000
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_1_7_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_7_condition",
+          "conditionType": 5920,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_1_7_condition",
+          "conditionType": 5920,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                1
+              ],
+              "valueIntList": [
+                1
+              ],
+              "valueStringList": [
+                "1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_2_1_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_1_condition",
+          "conditionType": 5930,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 5
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_1_condition",
+          "conditionType": 5930,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 5
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_2_4_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_4_condition",
+          "conditionType": 5930,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 20
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_2_4_condition",
+          "conditionType": 5930,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "indie_contract001"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 20
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      },
+      "activity_contingency_contract_0_task_3_1_condition": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_3_1_condition",
+          "conditionType": 6511,
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_MoneyAccumulateAmount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_activity_contract_gold_0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 8500
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "activity_contingency_contract_0_task_3_1_condition",
+          "conditionType": 6511,
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "E_StatType_MoneyAccumulateAmount"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "item_activity_contract_gold_0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 8500
+        },
+        "changed": {
+          "desc": {
+            "type": "value",
+            "newValue": {
+              "id": 0,
+              "text": ""
+            }
+          }
+        }
+      }
+    }
+  }
+}

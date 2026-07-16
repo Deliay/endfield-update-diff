@@ -1,0 +1,2479 @@
+{
+  "tableName": "QualitySubSettingTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 27
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "video_frame_rate": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_frame_rate",
+          "settingSortOrder": 0,
+          "settingText": {
+            "BR": "FPS",
+            "CN": "帧率",
+            "DE": "FPS",
+            "EN": "FPS",
+            "FR": "IPS",
+            "ID": "FPS",
+            "IT": "FPS",
+            "JP": "フレームレート",
+            "KR": "FPS",
+            "MX": "FPS",
+            "RU": "Частота кадров",
+            "TC": "FPS",
+            "TH": "FPS",
+            "VN": "FPS"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_frame_rate",
+          "settingSortOrder": 1000,
+          "settingText": {
+            "BR": "FPS",
+            "CN": "帧率",
+            "DE": "FPS",
+            "EN": "FPS",
+            "FR": "IPS",
+            "ID": "FPS",
+            "IT": "FPS",
+            "JP": "フレームレート",
+            "KR": "FPS",
+            "MX": "FPS",
+            "RU": "Частота кадров",
+            "TC": "FPS",
+            "TH": "FPS",
+            "VN": "FPS"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 0,
+            "newValue": 1000
+          }
+        }
+      },
+      "video_quality_dlss_mode": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_dlss_mode",
+          "settingSortOrder": 17,
+          "settingText": {
+            "BR": "Modo de Super Resolução DLSS",
+            "CN": "DLSS超分辨模式",
+            "DE": "DLSS-Superauflösungsmodus",
+            "EN": "DLSS Super Resolution Mode",
+            "FR": "Mode super résolution DLSS",
+            "ID": "Mode Super Resolusi DLSS",
+            "IT": "Modalità Super Risoluzione DLSS",
+            "JP": "DLSS超解像モード",
+            "KR": "DLSS 초해상도 모드",
+            "MX": "Modo de superresolución DLSS",
+            "RU": "Режим суперразрешения DLSS",
+            "TC": "DLSS超解析度",
+            "TH": "โหม​ด​ความ​ละเอียด​สูง​ DLSS",
+            "VN": "Chế Độ Siêu Phân Giải DLSS"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_dlss_mode",
+          "settingSortOrder": 1170,
+          "settingText": {
+            "BR": "Modo de Super Resolução DLSS",
+            "CN": "DLSS超分辨模式",
+            "DE": "DLSS-Superauflösungsmodus",
+            "EN": "DLSS Super Resolution Mode",
+            "FR": "Mode super résolution DLSS",
+            "ID": "Mode Super Resolusi DLSS",
+            "IT": "Modalità Super Risoluzione DLSS",
+            "JP": "DLSS超解像モード",
+            "KR": "DLSS 초해상도 모드",
+            "MX": "Modo de superresolución DLSS",
+            "RU": "Режим суперразрешения DLSS",
+            "TC": "DLSS超解析度",
+            "TH": "โหม​ด​ความ​ละเอียด​สูง​ DLSS",
+            "VN": "Chế Độ Siêu Phân Giải DLSS"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 17,
+            "newValue": 1170
+          }
+        }
+      },
+      "video_frame_rate_mobile": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_frame_rate_mobile",
+          "settingSortOrder": 0,
+          "settingText": {
+            "BR": "FPS",
+            "CN": "帧率",
+            "DE": "FPS",
+            "EN": "FPS",
+            "FR": "IPS",
+            "ID": "FPS",
+            "IT": "FPS",
+            "JP": "フレームレート",
+            "KR": "FPS",
+            "MX": "FPS",
+            "RU": "Частота кадров",
+            "TC": "FPS",
+            "TH": "FPS",
+            "VN": "FPS"
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_frame_rate_mobile",
+          "settingSortOrder": 1000,
+          "settingText": {
+            "BR": "FPS",
+            "CN": "帧率",
+            "DE": "FPS",
+            "EN": "FPS",
+            "FR": "IPS",
+            "ID": "FPS",
+            "IT": "FPS",
+            "JP": "フレームレート",
+            "KR": "FPS",
+            "MX": "FPS",
+            "RU": "Частота кадров",
+            "TC": "FPS",
+            "TH": "FPS",
+            "VN": "FPS"
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 0,
+            "newValue": 1000
+          }
+        }
+      },
+      "video_quality_volumetriccloud": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_volumetriccloud",
+          "settingSortOrder": 7,
+          "settingText": {
+            "BR": "Nuvem Volumétrica",
+            "CN": "体积云",
+            "DE": "Volumetrische Wolke",
+            "EN": "Volumetric Cloud",
+            "FR": "Nuage volumétrique",
+            "ID": "Awan Volumetrik",
+            "IT": "Nube volumetrica",
+            "JP": "ボリュームクラウド",
+            "KR": "볼류메트릭 클라우드",
+            "MX": "Nube volumétrica",
+            "RU": "Объемные облака",
+            "TC": "體積雲",
+            "TH": "เมฆ​โว​ลู​เมตริก",
+            "VN": "Mây Chiều Sâu"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_volumetriccloud",
+          "settingSortOrder": 1070,
+          "settingText": {
+            "BR": "Nuvem Volumétrica",
+            "CN": "体积云",
+            "DE": "Volumetrische Wolke",
+            "EN": "Volumetric Cloud",
+            "FR": "Nuage volumétrique",
+            "ID": "Awan Volumetrik",
+            "IT": "Nube volumetrica",
+            "JP": "ボリュームクラウド",
+            "KR": "볼류메트릭 클라우드",
+            "MX": "Nube volumétrica",
+            "RU": "Объемные облака",
+            "TC": "體積雲",
+            "TH": "เมฆ​โว​ลู​เมตริก",
+            "VN": "Mây Chiều Sâu"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 7,
+            "newValue": 1070
+          }
+        }
+      },
+      "video_quality_anisoLevel": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_anisoLevel",
+          "settingSortOrder": 8,
+          "settingText": {
+            "BR": "Amostragem Anisotrópica",
+            "CN": "各向异性采样",
+            "DE": "Anisotrope Filterung",
+            "EN": "Anisotropic Sampling",
+            "FR": "Filtrage anisotrope",
+            "ID": "Pengambilan Sampel Anisotropik",
+            "IT": "Campionamento anisotropico",
+            "JP": "異方性フィルタリング",
+            "KR": "이방성 필터링 샘플",
+            "MX": "Muestreo anisotrópico",
+            "RU": "Анизотропная фильтрация",
+            "TC": "各向異性過濾",
+            "TH": "การสุ่มตัวอย่าง​แบบ​แอน​ไอ​โซ​ทรอ​ปิก",
+            "VN": "Lấy Mẫu Dị Hướng"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_anisoLevel",
+          "settingSortOrder": 1080,
+          "settingText": {
+            "BR": "Amostragem Anisotrópica",
+            "CN": "各向异性采样",
+            "DE": "Anisotrope Filterung",
+            "EN": "Anisotropic Sampling",
+            "FR": "Filtrage anisotrope",
+            "ID": "Pengambilan Sampel Anisotropik",
+            "IT": "Campionamento anisotropico",
+            "JP": "異方性フィルタリング",
+            "KR": "이방성 필터링 샘플",
+            "MX": "Muestreo anisotrópico",
+            "RU": "Анизотропная фильтрация",
+            "TC": "各向異性過濾",
+            "TH": "การสุ่มตัวอย่าง​แบบ​แอน​ไอ​โซ​ทรอ​ปิก",
+            "VN": "Lấy Mẫu Dị Hướng"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 8,
+            "newValue": 1080
+          }
+        }
+      },
+      "video_quality_ao": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_ao",
+          "settingSortOrder": 9,
+          "settingText": {
+            "BR": "Oclusão Ambiental",
+            "CN": "环境光遮蔽",
+            "DE": "Umgebungsverdeckung",
+            "EN": "Ambient Occlusion",
+            "FR": "Occlusion ambiante",
+            "ID": "Oklusi Lingkungan",
+            "IT": "Occlusione ambientale",
+            "JP": "アンビエントオクルージョン",
+            "KR": "환경광 차폐",
+            "MX": "Oclusión ambiental",
+            "RU": "Окружающее затенение",
+            "TC": "環境光遮蔽",
+            "TH": "การจำลอง​แสง​เงา​ระหว่าง​วัตถุ",
+            "VN": "Đổ Bóng Môi Trường"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_ao",
+          "settingSortOrder": 1090,
+          "settingText": {
+            "BR": "Oclusão Ambiental",
+            "CN": "环境光遮蔽",
+            "DE": "Umgebungsverdeckung",
+            "EN": "Ambient Occlusion",
+            "FR": "Occlusion ambiante",
+            "ID": "Oklusi Lingkungan",
+            "IT": "Occlusione ambientale",
+            "JP": "アンビエントオクルージョン",
+            "KR": "환경광 차폐",
+            "MX": "Oclusión ambiental",
+            "RU": "Окружающее затенение",
+            "TC": "環境光遮蔽",
+            "TH": "การจำลอง​แสง​เงา​ระหว่าง​วัตถุ",
+            "VN": "Đổ Bóng Môi Trường"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 9,
+            "newValue": 1090
+          }
+        }
+      },
+      "video_quality_chromatic_aberration": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_chromatic_aberration",
+          "settingSortOrder": 13,
+          "settingText": {
+            "BR": "Aberração Cromática",
+            "CN": "色差",
+            "DE": "Chromatische Aberration",
+            "EN": "Chromatic Aberration",
+            "FR": "Aberration chromatique",
+            "ID": "Aberasi Kromatik",
+            "IT": "Aberrazione cromatica",
+            "JP": "色調整",
+            "KR": "색수차 효과",
+            "MX": "Aberración cromática",
+            "RU": "Хроматическая аберрация",
+            "TC": "色差",
+            "TH": "ความ​คลาด​สี",
+            "VN": "Hiện Tượng Quang Sai"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_chromatic_aberration",
+          "settingSortOrder": 1130,
+          "settingText": {
+            "BR": "Aberração Cromática",
+            "CN": "色差",
+            "DE": "Chromatische Aberration",
+            "EN": "Chromatic Aberration",
+            "FR": "Aberration chromatique",
+            "ID": "Aberasi Kromatik",
+            "IT": "Aberrazione cromatica",
+            "JP": "色調整",
+            "KR": "색수차 효과",
+            "MX": "Aberración cromática",
+            "RU": "Хроматическая аберрация",
+            "TC": "色差",
+            "TH": "ความ​คลาด​สี",
+            "VN": "Hiện Tượng Quang Sai"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 13,
+            "newValue": 1130
+          }
+        }
+      },
+      "video_quality_scene_detail": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_scene_detail",
+          "settingSortOrder": 10,
+          "settingText": {
+            "BR": "Detalhes da Cena",
+            "CN": "场景细节",
+            "DE": "Szenendetails",
+            "EN": "Scene Details",
+            "FR": "Qualité des détails de l'environnement",
+            "ID": "Detail Adegan",
+            "IT": "Dettagli scenario",
+            "JP": "オブジェクト品質",
+            "KR": "오브젝트 품질",
+            "MX": "Detalles de la escena",
+            "RU": "Детализация сцены",
+            "TC": "場景細節",
+            "TH": "รายละเอียด​ฉาก",
+            "VN": "Chi Tiết Khung Cảnh"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_scene_detail",
+          "settingSortOrder": 1100,
+          "settingText": {
+            "BR": "Detalhes da Cena",
+            "CN": "场景细节",
+            "DE": "Szenendetails",
+            "EN": "Scene Details",
+            "FR": "Qualité des détails de l'environnement",
+            "ID": "Detail Adegan",
+            "IT": "Dettagli scenario",
+            "JP": "オブジェクト品質",
+            "KR": "오브젝트 품질",
+            "MX": "Detalles de la escena",
+            "RU": "Детализация сцены",
+            "TC": "場景細節",
+            "TH": "รายละเอียด​ฉาก",
+            "VN": "Chi Tiết Khung Cảnh"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 1100
+          }
+        }
+      },
+      "video_quality_shadowmap": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_shadowmap",
+          "settingSortOrder": 4,
+          "settingText": {
+            "BR": "Qualidade da Sombra",
+            "CN": "阴影质量",
+            "DE": "Schattenqualität",
+            "EN": "Shadow Quality",
+            "FR": "Qualité des ombres",
+            "ID": "Kualitas Bayangan",
+            "IT": "Qualità ombre",
+            "JP": "影の品質",
+            "KR": "그림자 품질",
+            "MX": "Calidad de sombra",
+            "RU": "Качество теней",
+            "TC": "陰影品質",
+            "TH": "คุณภาพ​เงา",
+            "VN": "Chất Lượng Đổ Bóng"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_shadowmap",
+          "settingSortOrder": 1040,
+          "settingText": {
+            "BR": "Qualidade da Sombra",
+            "CN": "阴影质量",
+            "DE": "Schattenqualität",
+            "EN": "Shadow Quality",
+            "FR": "Qualité des ombres",
+            "ID": "Kualitas Bayangan",
+            "IT": "Qualità ombre",
+            "JP": "影の品質",
+            "KR": "그림자 품질",
+            "MX": "Calidad de sombra",
+            "RU": "Качество теней",
+            "TC": "陰影品質",
+            "TH": "คุณภาพ​เงา",
+            "VN": "Chất Lượng Đổ Bóng"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 4,
+            "newValue": 1040
+          }
+        }
+      },
+      "video_texture_quality": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_texture_quality",
+          "settingSortOrder": 5,
+          "settingText": {
+            "BR": "Qualidade da Textura",
+            "CN": "纹理质量",
+            "DE": "Texturqualität",
+            "EN": "Texture Quality",
+            "FR": "Qualité des textures",
+            "ID": "Kualitas Tekstur",
+            "IT": "Qualità texture",
+            "JP": "テクスチャ品質",
+            "KR": "텍스처 품질",
+            "MX": "Calidad de las texturas",
+            "RU": "Качество текстур",
+            "TC": "紋理品質",
+            "TH": "คุณภาพ​ของ​พื้นผิว",
+            "VN": "Chất Lượng Bề Mặt"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_texture_quality",
+          "settingSortOrder": 1050,
+          "settingText": {
+            "BR": "Qualidade da Textura",
+            "CN": "纹理质量",
+            "DE": "Texturqualität",
+            "EN": "Texture Quality",
+            "FR": "Qualité des textures",
+            "ID": "Kualitas Tekstur",
+            "IT": "Qualità texture",
+            "JP": "テクスチャ品質",
+            "KR": "텍스처 품질",
+            "MX": "Calidad de las texturas",
+            "RU": "Качество текстур",
+            "TC": "紋理品質",
+            "TH": "คุณภาพ​ของ​พื้นผิว",
+            "VN": "Chất Lượng Bề Mặt"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 5,
+            "newValue": 1050
+          }
+        }
+      },
+      "video_quality_contactshadow": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_contactshadow",
+          "settingSortOrder": 23,
+          "settingText": {
+            "BR": "Sombras de Contato",
+            "CN": "接触阴影",
+            "DE": "Kontaktschatten",
+            "EN": "Contact Shadows",
+            "FR": "Ombres de contact",
+            "ID": "Bayangan Kontak",
+            "IT": "Ombre di contatto",
+            "JP": "コンタクトシャドウ",
+            "KR": "접촉 그림자",
+            "MX": "Sombras de contacto",
+            "RU": "Контактные тени",
+            "TC": "接觸陰影",
+            "TH": "เงา​ตกกระ​ทบ",
+            "VN": "Bóng Tiếp Xúc"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_contactshadow",
+          "settingSortOrder": 1230,
+          "settingText": {
+            "BR": "Sombras de Contato",
+            "CN": "接触阴影",
+            "DE": "Kontaktschatten",
+            "EN": "Contact Shadows",
+            "FR": "Ombres de contact",
+            "ID": "Bayangan Kontak",
+            "IT": "Ombre di contatto",
+            "JP": "コンタクトシャドウ",
+            "KR": "접촉 그림자",
+            "MX": "Sombras de contacto",
+            "RU": "Контактные тени",
+            "TC": "接觸陰影",
+            "TH": "เงา​ตกกระ​ทบ",
+            "VN": "Bóng Tiếp Xúc"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 23,
+            "newValue": 1230
+          }
+        }
+      },
+      "video_quality_dlssg_mode": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_dlssg_mode",
+          "settingSortOrder": 21,
+          "settingText": {
+            "BR": "Geração de Quadros DLSS",
+            "CN": "DLSS帧生成模式",
+            "DE": "DLSS Frame Generation",
+            "EN": "DLSS Frame Generation",
+            "FR": "Génération d'images DLSS",
+            "ID": "Pembuatan Frame DLSS",
+            "IT": "Generazione di frame di NVIDIA DLSS",
+            "JP": "DLSSフレーム生成",
+            "KR": "DLSS 프레임 생성 모드",
+            "MX": "Generación de fotogramas DLSS",
+            "RU": "Генерация кадров DLSS",
+            "TC": "DLSS畫格生成",
+            "TH": "การ​สร้าง​เฟรม​ DLSS",
+            "VN": "Tạo Khung Hình DLSS"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_dlssg_mode",
+          "settingSortOrder": 1210,
+          "settingText": {
+            "BR": "Geração de Quadros DLSS",
+            "CN": "DLSS帧生成模式",
+            "DE": "DLSS Frame Generation",
+            "EN": "DLSS Frame Generation",
+            "FR": "Génération d'images DLSS",
+            "ID": "Pembuatan Frame DLSS",
+            "IT": "Generazione di frame di NVIDIA DLSS",
+            "JP": "DLSSフレーム生成",
+            "KR": "DLSS 프레임 생성 모드",
+            "MX": "Generación de fotogramas DLSS",
+            "RU": "Генерация кадров DLSS",
+            "TC": "DLSS畫格生成",
+            "TH": "การ​สร้าง​เฟรม​ DLSS",
+            "VN": "Tạo Khung Hình DLSS"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 21,
+            "newValue": 1210
+          }
+        }
+      },
+      "video_quality_environment_renderfeature": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_environment_renderfeature",
+          "settingSortOrder": 11,
+          "settingText": {
+            "BR": "Detalhes do Ambiente",
+            "CN": "环境细节",
+            "DE": "Umgebungsdetails",
+            "EN": "Ambient Details",
+            "FR": "Qualité des détails ambiants",
+            "ID": "Detail Lingkungan",
+            "IT": "Dettagli ambientali",
+            "JP": "環境表現",
+            "KR": "환경 표현",
+            "MX": "Detalles ambientales",
+            "RU": "Детализация окружения",
+            "TC": "環境細節",
+            "TH": "รายละเอียด​บรรยากาศ",
+            "VN": "Chi Tiết Môi Trường"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_environment_renderfeature",
+          "settingSortOrder": 1110,
+          "settingText": {
+            "BR": "Detalhes do Ambiente",
+            "CN": "环境细节",
+            "DE": "Umgebungsdetails",
+            "EN": "Ambient Details",
+            "FR": "Qualité des détails ambiants",
+            "ID": "Detail Lingkungan",
+            "IT": "Dettagli ambientali",
+            "JP": "環境表現",
+            "KR": "환경 표현",
+            "MX": "Detalles ambientales",
+            "RU": "Детализация окружения",
+            "TC": "環境細節",
+            "TH": "รายละเอียด​บรรยากาศ",
+            "VN": "Chi Tiết Môi Trường"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 1110
+          }
+        }
+      },
+      "video_quality_effect": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_effect",
+          "settingSortOrder": 2,
+          "settingText": {
+            "BR": "Qualidade dos Efeitos Especiais",
+            "CN": "特效质量",
+            "DE": "Spezialeffekt-Qualität",
+            "EN": "Special Effects Quality",
+            "FR": "Qualité des effets spéciaux",
+            "ID": "Kualitas Efek Spesial",
+            "IT": "Qualità effetti speciali",
+            "JP": "エフェクト品質",
+            "KR": "특수 효과 품질",
+            "MX": "Calidad de los efectos especiales",
+            "RU": "Качество спецэффектов",
+            "TC": "特效品質",
+            "TH": "คุณภาพ​เอฟเฟกต์​พิเศษ",
+            "VN": "Chất lượng hiệu ứng đặc biệt"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_effect",
+          "settingSortOrder": 1020,
+          "settingText": {
+            "BR": "Qualidade dos Efeitos Globais",
+            "CN": "全局特效质量",
+            "DE": "Allgemeine Effektqualität",
+            "EN": "Global Effects Quality",
+            "FR": "Qualité des effets généraux",
+            "ID": "Kualitas Efek Global",
+            "IT": "Qualità effetti globali",
+            "JP": "全体のエフェクト品質",
+            "KR": "전체 특수 효과 품질",
+            "MX": "Calidad de efectos globales",
+            "RU": "Общее качество эффектов",
+            "TC": "全域特效品質",
+            "TH": "คุณภาพ​เอฟเฟกต์​ครอบคลุม",
+            "VN": "Chất Lượng Hiệu Ứng Toàn Cầu"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 1020
+          },
+          "settingText": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Qualidade dos Efeitos Especiais",
+                "newText": "Qualidade dos Efeitos Globais"
+              },
+              "CN": {
+                "oldText": "特效质量",
+                "newText": "全局特效质量"
+              },
+              "DE": {
+                "oldText": "Spezialeffekt-Qualität",
+                "newText": "Allgemeine Effektqualität"
+              },
+              "EN": {
+                "oldText": "Special Effects Quality",
+                "newText": "Global Effects Quality"
+              },
+              "FR": {
+                "oldText": "Qualité des effets spéciaux",
+                "newText": "Qualité des effets généraux"
+              },
+              "ID": {
+                "oldText": "Kualitas Efek Spesial",
+                "newText": "Kualitas Efek Global"
+              },
+              "IT": {
+                "oldText": "Qualità effetti speciali",
+                "newText": "Qualità effetti globali"
+              },
+              "JP": {
+                "oldText": "エフェクト品質",
+                "newText": "全体のエフェクト品質"
+              },
+              "KR": {
+                "oldText": "특수 효과 품질",
+                "newText": "전체 특수 효과 품질"
+              },
+              "MX": {
+                "oldText": "Calidad de los efectos especiales",
+                "newText": "Calidad de efectos globales"
+              },
+              "RU": {
+                "oldText": "Качество спецэффектов",
+                "newText": "Общее качество эффектов"
+              },
+              "TC": {
+                "oldText": "特效品質",
+                "newText": "全域特效品質"
+              },
+              "TH": {
+                "oldText": "คุณภาพ​เอฟเฟกต์​พิเศษ",
+                "newText": "คุณภาพ​เอฟเฟกต์​ครอบคลุม"
+              },
+              "VN": {
+                "oldText": "Chất lượng hiệu ứng đặc biệt",
+                "newText": "Chất Lượng Hiệu Ứng Toàn Cầu"
+              }
+            }
+          }
+        }
+      },
+      "video_quality_screenspacereflection": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_screenspacereflection",
+          "settingSortOrder": 14,
+          "settingText": {
+            "BR": "Reflexões no Espaço da Tela",
+            "CN": "屏幕空间反射",
+            "DE": "Bildschirm-Spiegelungen",
+            "EN": "Screen Space Reflections",
+            "FR": "Reflets d'espace d'affichage",
+            "ID": "Refleksi Ruang Layar",
+            "IT": "Riflessi Screen Space",
+            "JP": "スクリーンスペースリフレクション",
+            "KR": "화면 공간 반사",
+            "MX": "Reflejos en espacio de pantalla",
+            "RU": "Отражения в экранном пространстве",
+            "TC": "螢幕空間反射",
+            "TH": "ภาพสะท้อน​ใน​พื้นที่​หน้าจอ",
+            "VN": "Phản Chiếu Không Gian Màn Hình"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_screenspacereflection",
+          "settingSortOrder": 1140,
+          "settingText": {
+            "BR": "Reflexões no Espaço da Tela",
+            "CN": "屏幕空间反射",
+            "DE": "Bildschirm-Spiegelungen",
+            "EN": "Screen Space Reflections",
+            "FR": "Reflets d'espace d'affichage",
+            "ID": "Refleksi Ruang Layar",
+            "IT": "Riflessi Screen Space",
+            "JP": "スクリーンスペースリフレクション",
+            "KR": "화면 공간 반사",
+            "MX": "Reflejos en espacio de pantalla",
+            "RU": "Отражения в экранном пространстве",
+            "TC": "螢幕空間反射",
+            "TH": "ภาพสะท้อน​ใน​พื้นที่​หน้าจอ",
+            "VN": "Phản Chiếu Không Gian Màn Hình"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 14,
+            "newValue": 1140
+          }
+        }
+      },
+      "video_quality_upscaler": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_upscaler",
+          "settingSortOrder": 16,
+          "settingText": {
+            "BR": "Aprimoramento de Imagem",
+            "CN": "画质提升",
+            "DE": "Bildoptimierung",
+            "EN": "Image Enhancement",
+            "FR": "Amélioration de l'image",
+            "ID": "Penguatan Gambar",
+            "IT": "Ottimizzazione immagini",
+            "JP": "画質向上",
+            "KR": "화질 향상",
+            "MX": "Mejora de imagen",
+            "RU": "Улучшение изображения",
+            "TC": "畫質提升",
+            "TH": "การปรับปรุง​ภาพ",
+            "VN": "Cải Thiện Hình Ảnh"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_upscaler",
+          "settingSortOrder": 1160,
+          "settingText": {
+            "BR": "Aprimoramento de Imagem",
+            "CN": "画质提升",
+            "DE": "Bildoptimierung",
+            "EN": "Image Enhancement",
+            "FR": "Amélioration de l'image",
+            "ID": "Penguatan Gambar",
+            "IT": "Ottimizzazione immagini",
+            "JP": "画質向上",
+            "KR": "화질 향상",
+            "MX": "Mejora de imagen",
+            "RU": "Улучшение изображения",
+            "TC": "畫質提升",
+            "TH": "การปรับปรุง​ภาพ",
+            "VN": "Cải Thiện Hình Ảnh"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 16,
+            "newValue": 1160
+          }
+        }
+      },
+      "video_quality_framegen": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_framegen",
+          "settingSortOrder": 19,
+          "settingText": {
+            "BR": "Geração de Quadros",
+            "CN": "帧生成",
+            "DE": "Frame Generation",
+            "EN": "Frame Generation",
+            "FR": "Génération d'images",
+            "ID": "Pembuatan Frame",
+            "IT": "Generazione di frame",
+            "JP": "フレーム生成",
+            "KR": "프레임 생성",
+            "MX": "Generación de fotogramas",
+            "RU": "Генерация кадров",
+            "TC": "畫格生成",
+            "TH": "การ​สร้าง​เฟรม",
+            "VN": "Tạo Khung Hình"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_framegen",
+          "settingSortOrder": 1200,
+          "settingText": {
+            "BR": "Geração de Quadros",
+            "CN": "帧生成",
+            "DE": "Frame Generation",
+            "EN": "Frame Generation",
+            "FR": "Génération d'images",
+            "ID": "Pembuatan Frame",
+            "IT": "Generazione di frame",
+            "JP": "フレーム生成",
+            "KR": "프레임 생성",
+            "MX": "Generación de fotogramas",
+            "RU": "Генерация кадров",
+            "TC": "畫格生成",
+            "TH": "การ​สร้าง​เฟรม",
+            "VN": "Tạo Khung Hình"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 19,
+            "newValue": 1200
+          }
+        }
+      },
+      "video_rendering_scale_mobile": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_rendering_scale_mobile",
+          "settingSortOrder": 1,
+          "settingText": {
+            "BR": "Escala de Renderização",
+            "CN": "渲染倍率",
+            "DE": "Rendering-Maßstab",
+            "EN": "Render Scale",
+            "FR": "Échelle",
+            "ID": "Skala Render",
+            "IT": "Scala di rendering",
+            "JP": "レンダリング倍率",
+            "KR": "렌더링 스케일",
+            "MX": "Escala de renderizado",
+            "RU": "Масштаб рендеринга",
+            "TC": "渲染比例",
+            "TH": "เรน​เดอร์ส​เกล",
+            "VN": "Tỷ lệ kết xuất"
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_rendering_scale_mobile",
+          "settingSortOrder": 1010,
+          "settingText": {
+            "BR": "Escala de Renderização",
+            "CN": "渲染倍率",
+            "DE": "Rendering-Maßstab",
+            "EN": "Render Scale",
+            "FR": "Échelle",
+            "ID": "Skala Render",
+            "IT": "Scala di rendering",
+            "JP": "レンダリング倍率",
+            "KR": "렌더링 스케일",
+            "MX": "Escala de renderizado",
+            "RU": "Масштаб рендеринга",
+            "TC": "渲染比例",
+            "TH": "เรน​เดอร์ส​เกล",
+            "VN": "Tỷ lệ kết xuất"
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 1010
+          }
+        }
+      },
+      "video_quality_framegen_mobile": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_framegen_mobile",
+          "settingSortOrder": 20,
+          "settingText": {
+            "BR": "Geração de Quadros",
+            "CN": "帧生成",
+            "DE": "Frame Generation",
+            "EN": "Frame Generation",
+            "FR": "Génération d'images",
+            "ID": "Pembuatan Frame",
+            "IT": "Generazione di frame",
+            "JP": "フレーム生成",
+            "KR": "프레임 생성",
+            "MX": "Generación de fotogramas",
+            "RU": "Генерация кадров",
+            "TC": "畫格生成",
+            "TH": "การ​สร้าง​เฟรม",
+            "VN": "Tạo Khung Hình"
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_framegen_mobile",
+          "settingSortOrder": 1200,
+          "settingText": {
+            "BR": "Geração de Quadros",
+            "CN": "帧生成",
+            "DE": "Frame Generation",
+            "EN": "Frame Generation",
+            "FR": "Génération d'images",
+            "ID": "Pembuatan Frame",
+            "IT": "Generazione di frame",
+            "JP": "フレーム生成",
+            "KR": "프레임 생성",
+            "MX": "Generación de fotogramas",
+            "RU": "Генерация кадров",
+            "TC": "畫格生成",
+            "TH": "การ​สร้าง​เฟรม",
+            "VN": "Tạo Khung Hình"
+          },
+          "validPlatform": [
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 20,
+            "newValue": 1200
+          }
+        }
+      },
+      "video_quality_ray_tracing": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_ray_tracing",
+          "settingSortOrder": 15,
+          "settingText": {
+            "BR": "Reflexão do Rastreamento de Raios BETA (somente para algumas cenas)",
+            "CN": "光线追踪反射beta 仅部分场景生效",
+            "DE": "Ray-Tracing-Spiegelungen BETA (nur für bestimmte Szenen)",
+            "EN": "Ray Tracing Reflection BETA (for certain scenes only)",
+            "FR": "Réflexion par Ray Tracing BÊTA (pour certaines scènes uniquement)",
+            "ID": "Refleksi Penelusuran Sinar BETA (untuk adegan tertentu saja)",
+            "IT": "BETA riflessi ray tracing (solo in alcune scene)",
+            "JP": "レイトレーシングの反射beta は一部のシーンでのみ有効です",
+            "KR": "레이 트레이싱 반사의 베타 버전은 일부 필드에서만 적용됩니다.",
+            "MX": "Reflejos con trazado de rayos BETA (solo para ciertas escenas)",
+            "RU": "Отражение с трассировкой лучей (BETA, только в некоторых сценах)",
+            "TC": "光線追蹤反射Beta 僅部分場景生效",
+            "TH": "ภาพสะท้อน​ Ray Tracing BETA (เฉพาะ​บาง​ฉาก​เท่านั้น​)",
+            "VN": "Phản Chiếu Dò Tia bản BETA (chỉ áp dụng cho một số cảnh nhất định)"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_ray_tracing",
+          "settingSortOrder": 1150,
+          "settingText": {
+            "BR": "Reflexão do Rastreamento de Raios BETA (somente para algumas cenas)",
+            "CN": "光线追踪反射beta 仅部分场景生效",
+            "DE": "Ray-Tracing-Spiegelungen BETA (nur für bestimmte Szenen)",
+            "EN": "Ray Tracing Reflection BETA (for certain scenes only)",
+            "FR": "Réflexion par Ray Tracing BÊTA (pour certaines scènes uniquement)",
+            "ID": "Refleksi Penelusuran Sinar BETA (untuk adegan tertentu saja)",
+            "IT": "BETA riflessi ray tracing (solo in alcune scene)",
+            "JP": "レイトレーシングの反射beta は一部のシーンでのみ有効です",
+            "KR": "레이 트레이싱 반사의 베타 버전은 일부 필드에서만 적용됩니다.",
+            "MX": "Reflejos con trazado de rayos BETA (solo para ciertas escenas)",
+            "RU": "Отражение с трассировкой лучей (BETA, только в некоторых сценах)",
+            "TC": "光線追蹤反射Beta 僅部分場景生效",
+            "TH": "ภาพสะท้อน​ Ray Tracing BETA (เฉพาะ​บาง​ฉาก​เท่านั้น​)",
+            "VN": "Phản Chiếu Dò Tia bản BETA (chỉ áp dụng cho một số cảnh nhất định)"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 15,
+            "newValue": 1150
+          }
+        }
+      },
+      "video_quality_fsr3_mode": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_fsr3_mode",
+          "settingSortOrder": 18,
+          "settingText": {
+            "BR": "Modo de Super Resolução FSR3",
+            "CN": "FSR3超分辨模式",
+            "DE": "FSR3 Super Resolution-Modus",
+            "EN": "FSR3 Super Resolution Mode",
+            "FR": "Mode Super Resolution FSR3",
+            "ID": "Mode Resolusi Super FSR3",
+            "IT": "Modalità Super Resolution FSR3",
+            "JP": "FSR3超解像モード",
+            "KR": "FSR3 초해상도 모드",
+            "MX": "Modo de superresolución FSR3",
+            "RU": "Режим суперразрешения FSR3",
+            "TC": "FSR 3超解析度模式",
+            "TH": "โหม​ด​ความ​ละเอียด​สูง​ FSR3",
+            "VN": "Chế Độ Siêu Phân Giải FSR3"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_fsr3_mode",
+          "settingSortOrder": 1180,
+          "settingText": {
+            "BR": "Modo de Super Resolução FSR3",
+            "CN": "FSR3超分辨模式",
+            "DE": "FSR3 Super Resolution-Modus",
+            "EN": "FSR3 Super Resolution Mode",
+            "FR": "Mode Super Resolution FSR3",
+            "ID": "Mode Resolusi Super FSR3",
+            "IT": "Modalità Super Resolution FSR3",
+            "JP": "FSR3超解像モード",
+            "KR": "FSR3 초해상도 모드",
+            "MX": "Modo de superresolución FSR3",
+            "RU": "Режим суперразрешения FSR3",
+            "TC": "FSR 3超解析度模式",
+            "TH": "โหม​ด​ความ​ละเอียด​สูง​ FSR3",
+            "VN": "Chế Độ Siêu Phân Giải FSR3"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 18,
+            "newValue": 1180
+          }
+        }
+      },
+      "video_quality_reflex": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_reflex",
+          "settingSortOrder": 22,
+          "settingText": {
+            "BR": "Latência Baixa NVIDIA Reflex",
+            "CN": "NVIDIA Reflex 低延迟",
+            "DE": "NVIDIA Reflex geringe Latenz",
+            "EN": "NVIDIA Reflex Low Latency",
+            "FR": "Faible latence NVIDIA Reflex",
+            "ID": "NVIDIA Reflex Latensi Rendah",
+            "IT": "NVIDIA Reflex a bassa latenza",
+            "JP": "NVIDIA Reflex 低遅延モード",
+            "KR": "NVIDIA Reflex 저지연",
+            "MX": "NVIDIA Reflex: baja latencia",
+            "RU": "NVIDIA Reflex Low Latency",
+            "TC": "NVIDIA Reflex 低延遲",
+            "TH": "โหม​ด​ความหน่วง​ต่ำ​ NVIDIA Reflex",
+            "VN": "NVIDIA Reflex Độ Trễ Thấp"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_reflex",
+          "settingSortOrder": 1220,
+          "settingText": {
+            "BR": "Latência Baixa NVIDIA Reflex",
+            "CN": "NVIDIA Reflex 低延迟",
+            "DE": "NVIDIA Reflex geringe Latenz",
+            "EN": "NVIDIA Reflex Low Latency",
+            "FR": "Faible latence NVIDIA Reflex",
+            "ID": "NVIDIA Reflex Latensi Rendah",
+            "IT": "NVIDIA Reflex a bassa latenza",
+            "JP": "NVIDIA Reflex 低遅延モード",
+            "KR": "NVIDIA Reflex 저지연",
+            "MX": "NVIDIA Reflex: baja latencia",
+            "RU": "NVIDIA Reflex Low Latency",
+            "TC": "NVIDIA Reflex 低延遲",
+            "TH": "โหม​ด​ความหน่วง​ต่ำ​ NVIDIA Reflex",
+            "VN": "NVIDIA Reflex Độ Trễ Thấp"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 22,
+            "newValue": 1220
+          }
+        }
+      },
+      "video_quality_grass_sparsity": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_grass_sparsity",
+          "settingSortOrder": 12,
+          "settingText": {
+            "BR": "Densidade da Vegetação",
+            "CN": "植被密度",
+            "DE": "Vegetationsdichte",
+            "EN": "Vegetation Density",
+            "FR": "Densité de la végétation",
+            "ID": "Kepadatan Vegetasi",
+            "IT": "Densità vegetazione",
+            "JP": "植物の密度",
+            "KR": "식생 밀도",
+            "MX": "Densidad de vegetación",
+            "RU": "Плотность растительности",
+            "TC": "植被密度",
+            "TH": "ความหนาแน่น​ของ​พืชพรรณ",
+            "VN": "Mật Độ Thảm Thực Vật"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_grass_sparsity",
+          "settingSortOrder": 1120,
+          "settingText": {
+            "BR": "Densidade da Vegetação",
+            "CN": "植被密度",
+            "DE": "Vegetationsdichte",
+            "EN": "Vegetation Density",
+            "FR": "Densité de la végétation",
+            "ID": "Kepadatan Vegetasi",
+            "IT": "Densità vegetazione",
+            "JP": "植物の密度",
+            "KR": "식생 밀도",
+            "MX": "Densidad de vegetación",
+            "RU": "Плотность растительности",
+            "TC": "植被密度",
+            "TH": "ความหนาแน่น​ของ​พืชพรรณ",
+            "VN": "Mật Độ Thảm Thực Vật"
+          },
+          "validPlatform": [
+            "OSXPlayer",
+            "WindowsPlayer",
+            "IPhonePlayer",
+            "Android"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 12,
+            "newValue": 1120
+          }
+        }
+      },
+      "video_quality_vsync_v2": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_vsync_v2",
+          "settingSortOrder": 3,
+          "settingText": {
+            "BR": "Sincronização Vertical",
+            "CN": "垂直同步",
+            "DE": "Vertikale Synchronisation",
+            "EN": "Vertical Sync",
+            "FR": "Synchro verticale",
+            "ID": "Sinkronisasi Vertikal",
+            "IT": "V-sync",
+            "JP": "垂直同期",
+            "KR": "수직 동기화",
+            "MX": "Sinc. vertical",
+            "RU": "Вертикальная синхронизация",
+            "TC": "垂直同步",
+            "TH": "การ​ซิงค์​แนวตั้ง",
+            "VN": "Đồng Bộ Dọc"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_vsync_v2",
+          "settingSortOrder": 1030,
+          "settingText": {
+            "BR": "Sincronização Vertical",
+            "CN": "垂直同步",
+            "DE": "Vertikale Synchronisation",
+            "EN": "Vertical Sync",
+            "FR": "Synchro verticale",
+            "ID": "Sinkronisasi Vertikal",
+            "IT": "V-sync",
+            "JP": "垂直同期",
+            "KR": "수직 동기화",
+            "MX": "Sinc. vertical",
+            "RU": "Вертикальная синхронизация",
+            "TC": "垂直同步",
+            "TH": "การ​ซิงค์​แนวตั้ง",
+            "VN": "Đồng Bộ Dọc"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 3,
+            "newValue": 1030
+          }
+        }
+      },
+      "video_quality_sharpness": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_sharpness",
+          "settingSortOrder": 19,
+          "settingText": {
+            "BR": "Nitidez",
+            "CN": "锐化程度",
+            "DE": "Schärfe",
+            "EN": "Sharpening",
+            "FR": "Accentuation",
+            "ID": "Penajaman",
+            "IT": "Nitidezza",
+            "JP": "シャープネス",
+            "KR": "샤프닝 강도",
+            "MX": "Afilado",
+            "RU": "Повышение резкости",
+            "TC": "銳化程度",
+            "TH": "ความคม​ชัด",
+            "VN": "Làm Nét"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_sharpness",
+          "settingSortOrder": 1190,
+          "settingText": {
+            "BR": "Nitidez",
+            "CN": "锐化程度",
+            "DE": "Schärfe",
+            "EN": "Sharpening",
+            "FR": "Accentuation",
+            "ID": "Penajaman",
+            "IT": "Nitidezza",
+            "JP": "シャープネス",
+            "KR": "샤프닝 강도",
+            "MX": "Afilado",
+            "RU": "Повышение резкости",
+            "TC": "銳化程度",
+            "TH": "ความคม​ชัด",
+            "VN": "Làm Nét"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 19,
+            "newValue": 1190
+          }
+        }
+      },
+      "video_quality_volumetricfog": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_volumetricfog",
+          "settingSortOrder": 6,
+          "settingText": {
+            "BR": "Névoa Volumétrica",
+            "CN": "体积雾",
+            "DE": "Volumetrischer Nebel",
+            "EN": "Volumetric Fog",
+            "FR": "Qualité du brouillard volumétrique",
+            "ID": "Kabut Volumetrik",
+            "IT": "Nebbia volumetrica",
+            "JP": "ボリュームフォグ",
+            "KR": "볼류메트릭 안개",
+            "MX": "Niebla volumétrica",
+            "RU": "Объемный туман",
+            "TC": "體積霧",
+            "TH": "ปริมาตร​หมอก",
+            "VN": "Sương Mù Thể Tích"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_quality_volumetricfog",
+          "settingSortOrder": 1060,
+          "settingText": {
+            "BR": "Névoa Volumétrica",
+            "CN": "体积雾",
+            "DE": "Volumetrischer Nebel",
+            "EN": "Volumetric Fog",
+            "FR": "Qualité du brouillard volumétrique",
+            "ID": "Kabut Volumetrik",
+            "IT": "Nebbia volumetrica",
+            "JP": "ボリュームフォグ",
+            "KR": "볼류메트릭 안개",
+            "MX": "Niebla volumétrica",
+            "RU": "Объемный туман",
+            "TC": "體積霧",
+            "TH": "ปริมาตร​หมอก",
+            "VN": "Sương Mù Thể Tích"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 6,
+            "newValue": 1060
+          }
+        }
+      },
+      "video_rendering_scale_pc": {
+        "oldValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_rendering_scale_pc",
+          "settingSortOrder": 1,
+          "settingText": {
+            "BR": "Escala de Renderização",
+            "CN": "渲染倍率",
+            "DE": "Rendering-Maßstab",
+            "EN": "Render Scale",
+            "FR": "Échelle",
+            "ID": "Skala Render",
+            "IT": "Scala di rendering",
+            "JP": "レンダリング倍率",
+            "KR": "렌더링 스케일",
+            "MX": "Escala de renderizado",
+            "RU": "Масштаб рендеринга",
+            "TC": "渲染比例",
+            "TH": "เรน​เดอร์ส​เกล",
+            "VN": "Tỷ lệ kết xuất"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "newValue": {
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "video_rendering_scale_pc",
+          "settingSortOrder": 1010,
+          "settingText": {
+            "BR": "Escala de Renderização",
+            "CN": "渲染倍率",
+            "DE": "Rendering-Maßstab",
+            "EN": "Render Scale",
+            "FR": "Échelle",
+            "ID": "Skala Render",
+            "IT": "Scala di rendering",
+            "JP": "レンダリング倍率",
+            "KR": "렌더링 스케일",
+            "MX": "Escala de renderizado",
+            "RU": "Масштаб рендеринга",
+            "TC": "渲染比例",
+            "TH": "เรน​เดอร์ส​เกล",
+            "VN": "Tỷ lệ kết xuất"
+          },
+          "validPlatform": [
+            "WindowsPlayer"
+          ]
+        },
+        "changed": {
+          "settingSortOrder": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 1010
+          }
+        }
+      }
+    }
+  }
+}

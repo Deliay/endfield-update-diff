@@ -1,0 +1,472 @@
+{
+  "tableName": "FacSTTLayerTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "tech_group_jinlong_acid": {
+        "oldValue": {
+          "blackboxIds": [
+            "dung_blackbox_liquidpurifier_1",
+            "dung_blackbox_mix_3",
+            "dung_blackbox_xiraniteoven_2"
+          ],
+          "containsTechCountIfTBD": 0,
+          "costItems": [
+            {
+              "costItemCount": 1,
+              "costItemId": "item_factech_jinlong_key"
+            }
+          ],
+          "desc": {
+            "BR": "Desbloqueie [CAI de Wuling III] no Plano da Fábrica do CAI para pesquisar a tecnologia necessária para ativar este projeto.",
+            "CN": "此蓝图所需激活的科技项处于【武陵工业三期】中，请先解锁该工业时期。",
+            "DE": "Schalte im AIK-Fabrikplan [Wuling-AIK III] frei, um die Technologie für die Aktivierung dieses Bauplans zu erforschen.",
+            "EN": "Unlock [Wuling AIC III] in the AIC Factory Plan to research the technology for activating this blueprint.",
+            "FR": "Débloquez l'élément [GIA de Wuling III] dans le plan industriel du GIA pour rechercher les technologies nécessaires pour activer ce plan.",
+            "ID": "Buka [AIC Wuling III] di Bagan Pabrik AIC untuk meneliti teknologi untuk mengaktifkan cetak biru ini.",
+            "IT": "Sblocca il SIA III di Wuling nel progetto del SIA per svolgere ricerche sulla tecnologia per l'attivazione di questo progetto.",
+            "JP": "この図面に使われている工業技術は【武陵工業Ⅲ】に含まれているため、先にその工業段階を解放してください。",
+            "KR": "해당 청사진을 활성화하려면 [무릉 공업 III]에 있는 과학기술을 해제해야 합니다.",
+            "MX": "Desbloquea [CAI III de Wuling] en el Plano de la Fábrica del CAI para investigar la tecnología que activa este plano.",
+            "RU": "Откройте АПК Улина III в производственном плане АПК, чтобы изучить технологию и активировать этот чертеж.",
+            "TC": "此藍圖所需啟動的科技處於【武陵工業三期】中，請先解鎖該工業時期。",
+            "TH": "ปลดล็อก​ [AIC อู่​หลิง​ III] ใน​แบบแปลน​โรงงาน​ AIC เพื่อ​วิจัย​เทคโนโลยี​สำหรับ​การ​เปิด​ใช้งาน​พิมพ์เขียว​นี้",
+            "VN": "Mở khóa [Khu Phức Hợp Võ Lăng III] trong Sơ Đồ Nhà Máy Khu Phức Hợp để nghiên cứu công nghệ kích hoạt bản vẽ này."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "icon_industrial_plan_hongs_3",
+          "isTBD": false,
+          "layerId": "tech_group_jinlong_acid",
+          "name": {
+            "BR": "CAI de Wuling III",
+            "CN": "武陵工业三期",
+            "DE": "Wuling-AIK III",
+            "EN": "Wuling AIC III",
+            "FR": "GIA de Wuling III",
+            "ID": "AIC Wuling III",
+            "IT": "SIA III di Wuling",
+            "JP": "武陵工業Ⅲ",
+            "KR": "무릉 공업 III",
+            "MX": "CAI III de Wuling",
+            "RU": "АПК Улина III",
+            "TC": "武陵工業三期",
+            "TH": "AIC อู่​หลิง​ III",
+            "VN": "Khu Phức Hợp Võ Lăng III"
+          },
+          "order": 3,
+          "preLayer": "tech_group_jinlong_copper",
+          "startPosY": 5,
+          "techIds": [
+            "tech_jinlong_3_pump_2",
+            "tech_jinlong_3_liquid_purifier_1",
+            "tech_jinlong_3_battle_rocket_1",
+            "tech_jinlong_3_battle_laser_2",
+            "tech_jinlong_3_battle_debuff_1",
+            "tech_jinlong_3_xiranite_enr_formula",
+            "tech_jinlong_3_udpipe_2",
+            "tech_jinlong_3_mix_2",
+            "tech_jinlong_3_xiranite_oven_amount_3"
+          ]
+        },
+        "newValue": {
+          "blackboxIds": [
+            "dung_blackbox_speedlimit_1",
+            "dung_blackbox_liquidpurifier_1",
+            "dung_blackbox_mix_3",
+            "dung_blackbox_vaporizer_1",
+            "dung_blackbox_xiraniteoven_3",
+            "dung_blackbox_gasreactor_1",
+            "dung_blackbox_xiraniteoven_2"
+          ],
+          "containsTechCountIfTBD": 0,
+          "costItems": [
+            {
+              "costItemCount": 1,
+              "costItemId": "item_factech_jinlong_key"
+            }
+          ],
+          "desc": {
+            "BR": "Desbloqueie [CAI de Wuling III] no Plano da Fábrica do CAI para pesquisar a tecnologia necessária para ativar este projeto.",
+            "CN": "此蓝图所需激活的科技项处于【武陵工业三期】中，请先解锁该工业时期。",
+            "DE": "Schalte im AIK-Fabrikplan [Wuling-AIK III] frei, um die Technologie für die Aktivierung dieses Bauplans zu erforschen.",
+            "EN": "Unlock [Wuling AIC III] in the AIC Factory Plan to research the technology for activating this blueprint.",
+            "FR": "Débloquez l'élément [GIA de Wuling III] dans le plan industriel du GIA pour rechercher les technologies nécessaires pour activer ce plan.",
+            "ID": "Buka [AIC Wuling III] di Bagan Pabrik AIC untuk meneliti teknologi untuk mengaktifkan cetak biru ini.",
+            "IT": "Sblocca il SIA III di Wuling nel progetto del SIA per svolgere ricerche sulla tecnologia per l'attivazione di questo progetto.",
+            "JP": "この図面に使われている工業技術は【武陵工業Ⅲ】に含まれているため、先にその工業段階を解放してください。",
+            "KR": "해당 청사진을 활성화하려면 [무릉 공업 III]에 있는 과학기술을 해제해야 합니다.",
+            "MX": "Desbloquea [CAI III de Wuling] en el Plano de la Fábrica del CAI para investigar la tecnología que activa este plano.",
+            "RU": "Откройте АПК Улина III в производственном плане АПК, чтобы изучить технологию и активировать этот чертеж.",
+            "TC": "此藍圖所需啟動的科技處於【武陵工業三期】中，請先解鎖該工業時期。",
+            "TH": "ปลดล็อก​ [AIC อู่​หลิง​ III] ใน​แบบแปลน​โรงงาน​ AIC เพื่อ​วิจัย​เทคโนโลยี​สำหรับ​การ​เปิด​ใช้งาน​พิมพ์เขียว​นี้",
+            "VN": "Mở khóa [Khu Phức Hợp Võ Lăng III] trong Sơ Đồ Nhà Máy Khu Phức Hợp để nghiên cứu công nghệ kích hoạt bản vẽ này."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "icon_industrial_plan_hongs_3",
+          "isTBD": false,
+          "layerId": "tech_group_jinlong_acid",
+          "name": {
+            "BR": "CAI de Wuling III",
+            "CN": "武陵工业三期",
+            "DE": "Wuling-AIK III",
+            "EN": "Wuling AIC III",
+            "FR": "GIA de Wuling III",
+            "ID": "AIC Wuling III",
+            "IT": "SIA III di Wuling",
+            "JP": "武陵工業Ⅲ",
+            "KR": "무릉 공업 III",
+            "MX": "CAI III de Wuling",
+            "RU": "АПК Улина III",
+            "TC": "武陵工業三期",
+            "TH": "AIC อู่​หลิง​ III",
+            "VN": "Khu Phức Hợp Võ Lăng III"
+          },
+          "order": 3,
+          "preLayer": "tech_group_jinlong_copper",
+          "startPosY": 5,
+          "techIds": [
+            "tech_jinlong_3_pump_2",
+            "tech_jinlong_4_conditioner_maxflow",
+            "tech_jinlong_4_vaporizer_1",
+            "tech_jinlong_3_liquid_purifier_1",
+            "tech_jinlong_3_battle_rocket_1",
+            "tech_jinlong_3_battle_debuff_1",
+            "tech_jinlong_3_battle_laser_2",
+            "tech_jinlong_3_xiranite_enr_formula",
+            "tech_jinlong_4_dumper_mode_1",
+            "tech_jinlong_3_udpipe_2",
+            "tech_jinlong_3_mix_2",
+            "tech_jinlong_4_gas_reactor_1",
+            "tech_jinlong_4_liquid_purifier_mode_1",
+            "tech_jinlong_4_battle_lightning_2",
+            "tech_jinlong_4_battle_turret_3",
+            "tech_jinlong_3_xiranite_oven_amount_3"
+          ]
+        },
+        "changed": {
+          "blackboxIds[0]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_liquidpurifier_1",
+            "newValue": "dung_blackbox_speedlimit_1"
+          },
+          "blackboxIds[1]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_mix_3",
+            "newValue": "dung_blackbox_liquidpurifier_1"
+          },
+          "blackboxIds[2]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_xiraniteoven_2",
+            "newValue": "dung_blackbox_mix_3"
+          },
+          "blackboxIds[3]": {
+            "type": "value",
+            "newValue": "dung_blackbox_vaporizer_1"
+          },
+          "blackboxIds[4]": {
+            "type": "value",
+            "newValue": "dung_blackbox_xiraniteoven_3"
+          },
+          "blackboxIds[5]": {
+            "type": "value",
+            "newValue": "dung_blackbox_gasreactor_1"
+          },
+          "blackboxIds[6]": {
+            "type": "value",
+            "newValue": "dung_blackbox_xiraniteoven_2"
+          },
+          "techIds[1]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_liquid_purifier_1",
+            "newValue": "tech_jinlong_4_conditioner_maxflow"
+          },
+          "techIds[2]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_rocket_1",
+            "newValue": "tech_jinlong_4_vaporizer_1"
+          },
+          "techIds[3]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_laser_2",
+            "newValue": "tech_jinlong_3_liquid_purifier_1"
+          },
+          "techIds[4]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_debuff_1",
+            "newValue": "tech_jinlong_3_battle_rocket_1"
+          },
+          "techIds[5]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_xiranite_enr_formula",
+            "newValue": "tech_jinlong_3_battle_debuff_1"
+          },
+          "techIds[6]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_udpipe_2",
+            "newValue": "tech_jinlong_3_battle_laser_2"
+          },
+          "techIds[7]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_mix_2",
+            "newValue": "tech_jinlong_3_xiranite_enr_formula"
+          },
+          "techIds[8]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_xiranite_oven_amount_3",
+            "newValue": "tech_jinlong_4_dumper_mode_1"
+          },
+          "techIds[9]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_udpipe_2"
+          },
+          "techIds[10]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_mix_2"
+          },
+          "techIds[11]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_gas_reactor_1"
+          },
+          "techIds[12]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_liquid_purifier_mode_1"
+          },
+          "techIds[13]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_battle_lightning_2"
+          },
+          "techIds[14]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_battle_turret_3"
+          },
+          "techIds[15]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_xiranite_oven_amount_3"
+          }
+        }
+      },
+      "tech_group_jinlong_copper": {
+        "oldValue": {
+          "blackboxIds": [
+            "dung_blackbox_miner_3",
+            "dung_blackbox_udpipe_1",
+            "dung_blackbox_liquidcleaner_1"
+          ],
+          "containsTechCountIfTBD": 0,
+          "costItems": [
+            {
+              "costItemCount": 1,
+              "costItemId": "item_factech_jinlong_key"
+            }
+          ],
+          "desc": {
+            "BR": "Desbloqueie [CAI de Wuling II] no Plano da Fábrica do CAI para pesquisar a tecnologia necessária para ativar este projeto.",
+            "CN": "此蓝图所需激活的科技项处于【武陵工业二期】中，请先解锁该工业时期。",
+            "DE": "Schalte im AIK-Fabrikplan [Wuling-AIK II] frei, um die Technologie für die Aktivierung dieses Bauplans zu erforschen.",
+            "EN": "Unlock [Wuling AIC II] in the AIC Factory Plan to research the technology for activating this blueprint.",
+            "FR": "Débloquez l'élément [GIA de Wuling II] dans le plan industriel du GIA pour rechercher les technologies nécessaires pour activer ce plan.",
+            "ID": "Buka [AIC Wuling II] di Bagan Pabrik AIC untuk meneliti teknologi untuk mengaktifkan cetak biru ini.",
+            "IT": "Sblocca il SIA II di Wuling nel progetto del SIA per svolgere ricerche sulla tecnologia per l'attivazione di questo progetto.",
+            "JP": "この図面に使われている工業技術は【武陵工業Ⅱ】に含まれているため、先にその工業段階を解放してください。",
+            "KR": "해당 청사진을 활성화하려면 [무릉 공업 II]에 있는 과학기술을 해제해야 합니다.",
+            "MX": "Desbloquea [CAI II de Wuling] en el Plano de la Fábrica del CAI para investigar la tecnología que activa este plano.",
+            "RU": "Откройте АПК Улина II в производственном плане АПК, чтобы изучить технологию и активировать этот чертеж.",
+            "TC": "此藍圖所需啟動的科技處於【武陵工業二期】中，請先解鎖該工業時期。",
+            "TH": "ปลดล็อก​ [AIC อู่​หลิง​ II] ใน​แปลน​โรงงาน​ AIC เพื่อ​วิจัย​เทคโนโลยี​สำหรับ​การ​เปิด​ใช้งาน​พิมพ์เขียว​นี้",
+            "VN": "Mở khóa [Khu Phức Hợp Võ Lăng II] trong Sơ Đồ Nhà Máy Khu Phức Hợp để nghiên cứu công nghệ kích hoạt bản vẽ này."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "icon_industrial_plan_hongs_2",
+          "isTBD": false,
+          "layerId": "tech_group_jinlong_copper",
+          "name": {
+            "BR": "CAI DE WULING II",
+            "CN": "武陵工业二期",
+            "DE": "WULING-AIK II",
+            "EN": "WULING AIC II",
+            "FR": "GIA DE WULING II",
+            "ID": "AIC WULING II",
+            "IT": "SIA II di Wuling",
+            "JP": "武陵工業Ⅱ",
+            "KR": "무릉 공업 II",
+            "MX": "CAI II DE WULING",
+            "RU": "АПК УЛИНА II",
+            "TC": "武陵工業二期",
+            "TH": "AIC อู่​หลิง​ II",
+            "VN": "KHU PHỨC HỢP VÕ LĂNG II"
+          },
+          "order": 2,
+          "preLayer": "tech_group_jinlong_liquid",
+          "startPosY": 3,
+          "techIds": [
+            "tech_jinlong_2_miner_4",
+            "tech_jinlong_2_udpipe_1",
+            "tech_jinlong_2_furnance_mode_1",
+            "tech_jinlong_2_battle_jet_1",
+            "tech_jinlong_2_liquid_cleaner_1",
+            "tech_jinlong_2_battle_trap_1",
+            "tech_jinlong_2_xiranite_oven_amount_2"
+          ]
+        },
+        "newValue": {
+          "blackboxIds": [
+            "dung_blackbox_miner_3",
+            "dung_blackbox_gaspump_1",
+            "dung_blackbox_udpipe_1",
+            "dung_blackbox_liquidcleaner_1",
+            "dung_blackbox_transmuter_1",
+            "dung_blackbox_transmuter_2",
+            "dung_blackbox_shaper_2"
+          ],
+          "containsTechCountIfTBD": 0,
+          "costItems": [
+            {
+              "costItemCount": 1,
+              "costItemId": "item_factech_jinlong_key"
+            }
+          ],
+          "desc": {
+            "BR": "Desbloqueie [CAI de Wuling II] no Plano da Fábrica do CAI para pesquisar a tecnologia necessária para ativar este projeto.",
+            "CN": "此蓝图所需激活的科技项处于【武陵工业二期】中，请先解锁该工业时期。",
+            "DE": "Schalte im AIK-Fabrikplan [Wuling-AIK II] frei, um die Technologie für die Aktivierung dieses Bauplans zu erforschen.",
+            "EN": "Unlock [Wuling AIC II] in the AIC Factory Plan to research the technology for activating this blueprint.",
+            "FR": "Débloquez l'élément [GIA de Wuling II] dans le plan industriel du GIA pour rechercher les technologies nécessaires pour activer ce plan.",
+            "ID": "Buka [AIC Wuling II] di Bagan Pabrik AIC untuk meneliti teknologi untuk mengaktifkan cetak biru ini.",
+            "IT": "Sblocca il SIA II di Wuling nel progetto del SIA per svolgere ricerche sulla tecnologia per l'attivazione di questo progetto.",
+            "JP": "この図面に使われている工業技術は【武陵工業Ⅱ】に含まれているため、先にその工業段階を解放してください。",
+            "KR": "해당 청사진을 활성화하려면 [무릉 공업 II]에 있는 과학기술을 해제해야 합니다.",
+            "MX": "Desbloquea [CAI II de Wuling] en el Plano de la Fábrica del CAI para investigar la tecnología que activa este plano.",
+            "RU": "Откройте АПК Улина II в производственном плане АПК, чтобы изучить технологию и активировать этот чертеж.",
+            "TC": "此藍圖所需啟動的科技處於【武陵工業二期】中，請先解鎖該工業時期。",
+            "TH": "ปลดล็อก​ [AIC อู่​หลิง​ II] ใน​แปลน​โรงงาน​ AIC เพื่อ​วิจัย​เทคโนโลยี​สำหรับ​การ​เปิด​ใช้งาน​พิมพ์เขียว​นี้",
+            "VN": "Mở khóa [Khu Phức Hợp Võ Lăng II] trong Sơ Đồ Nhà Máy Khu Phức Hợp để nghiên cứu công nghệ kích hoạt bản vẽ này."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "icon_industrial_plan_hongs_2",
+          "isTBD": false,
+          "layerId": "tech_group_jinlong_copper",
+          "name": {
+            "BR": "CAI DE WULING II",
+            "CN": "武陵工业二期",
+            "DE": "WULING-AIK II",
+            "EN": "WULING AIC II",
+            "FR": "GIA DE WULING II",
+            "ID": "AIC WULING II",
+            "IT": "SIA II di Wuling",
+            "JP": "武陵工業Ⅱ",
+            "KR": "무릉 공업 II",
+            "MX": "CAI II DE WULING",
+            "RU": "АПК УЛИНА II",
+            "TC": "武陵工業二期",
+            "TH": "AIC อู่​หลิง​ II",
+            "VN": "KHU PHỨC HỢP VÕ LĂNG II"
+          },
+          "order": 2,
+          "preLayer": "tech_group_jinlong_liquid",
+          "startPosY": 3,
+          "techIds": [
+            "tech_jinlong_2_miner_4",
+            "tech_jinlong_2_udpipe_1",
+            "tech_jinlong_4_transmuter_1",
+            "tech_jinlong_4_shaper_mode_2",
+            "tech_jinlong_2_furnance_mode_1",
+            "tech_jinlong_2_battle_jet_1",
+            "tech_jinlong_4_gas_pump_1",
+            "tech_jinlong_4_gas_storager_1",
+            "tech_jinlong_2_liquid_cleaner_1",
+            "tech_jinlong_4_transmuter_2",
+            "tech_jinlong_4_filling_and_dismantler_mode_2",
+            "tech_jinlong_2_battle_trap_1",
+            "tech_jinlong_2_xiranite_oven_amount_2"
+          ]
+        },
+        "changed": {
+          "blackboxIds[1]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_udpipe_1",
+            "newValue": "dung_blackbox_gaspump_1"
+          },
+          "blackboxIds[2]": {
+            "type": "value",
+            "oldValue": "dung_blackbox_liquidcleaner_1",
+            "newValue": "dung_blackbox_udpipe_1"
+          },
+          "blackboxIds[3]": {
+            "type": "value",
+            "newValue": "dung_blackbox_liquidcleaner_1"
+          },
+          "blackboxIds[4]": {
+            "type": "value",
+            "newValue": "dung_blackbox_transmuter_1"
+          },
+          "blackboxIds[5]": {
+            "type": "value",
+            "newValue": "dung_blackbox_transmuter_2"
+          },
+          "blackboxIds[6]": {
+            "type": "value",
+            "newValue": "dung_blackbox_shaper_2"
+          },
+          "techIds[2]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_furnance_mode_1",
+            "newValue": "tech_jinlong_4_transmuter_1"
+          },
+          "techIds[3]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_battle_jet_1",
+            "newValue": "tech_jinlong_4_shaper_mode_2"
+          },
+          "techIds[4]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_liquid_cleaner_1",
+            "newValue": "tech_jinlong_2_furnance_mode_1"
+          },
+          "techIds[5]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_battle_trap_1",
+            "newValue": "tech_jinlong_2_battle_jet_1"
+          },
+          "techIds[6]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_xiranite_oven_amount_2",
+            "newValue": "tech_jinlong_4_gas_pump_1"
+          },
+          "techIds[7]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_gas_storager_1"
+          },
+          "techIds[8]": {
+            "type": "value",
+            "newValue": "tech_jinlong_2_liquid_cleaner_1"
+          },
+          "techIds[9]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_transmuter_2"
+          },
+          "techIds[10]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_filling_and_dismantler_mode_2"
+          },
+          "techIds[11]": {
+            "type": "value",
+            "newValue": "tech_jinlong_2_battle_trap_1"
+          },
+          "techIds[12]": {
+            "type": "value",
+            "newValue": "tech_jinlong_2_xiranite_oven_amount_2"
+          }
+        }
+      }
+    }
+  }
+}

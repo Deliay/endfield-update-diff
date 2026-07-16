@@ -1,0 +1,607 @@
+{
+  "tableName": "GeneralAbilityTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 9
+  },
+  "entries": {
+    "added": {
+      "10": {
+        "banMap": [],
+        "gameVarName": "",
+        "generalAbilityType": 10,
+        "iconId": "icon_shu_rang",
+        "intervalTime": 0,
+        "name": {
+          "BR": "Nexus de Xiranita",
+          "CN": "枢壤仪",
+          "DE": "Xiranit-Nexus",
+          "EN": "Xiranite Nexus",
+          "FR": "Nexus en xiranite",
+          "ID": "Nexus Xiranite",
+          "IT": "Nexus di xiranite",
+          "JP": "枢壌儀",
+          "KR": "중추 식양 장치",
+          "MX": "Nexus de Xiranita",
+          "RU": "Ксиранитовый нексус",
+          "TC": "樞壤儀",
+          "TH": "เ​น็​ก​ซัส​ซี​เรน​ไนต์",
+          "VN": "Trung Tâm Xiranite"
+        },
+        "priority": 2,
+        "sortId": 15,
+        "unlockSystemType": 10000000,
+        "useItem": ""
+      }
+    },
+    "removed": {},
+    "changed": {
+      "0": {
+        "oldValue": {
+          "banMap": [],
+          "gameVarName": "general_ability_scan_time_stamp",
+          "generalAbilityType": 0,
+          "iconId": "icon_scan",
+          "intervalTime": 3,
+          "name": {
+            "BR": "Varredura",
+            "CN": "扫描",
+            "DE": "Scannen",
+            "EN": "Scan",
+            "FR": "Analyser",
+            "ID": "Pemindaian",
+            "IT": "Scansione",
+            "JP": "スキャン",
+            "KR": "스캔",
+            "MX": "Escaneo",
+            "RU": "Сканирование",
+            "TC": "掃描",
+            "TH": "สแกน",
+            "VN": "Quét"
+          },
+          "sortId": 1,
+          "unlockSystemType": 58,
+          "useItem": ""
+        },
+        "newValue": {
+          "banMap": [],
+          "gameVarName": "general_ability_scan_time_stamp",
+          "generalAbilityType": 0,
+          "iconId": "icon_scan",
+          "intervalTime": 3,
+          "name": {
+            "BR": "Varredura",
+            "CN": "扫描",
+            "DE": "Scannen",
+            "EN": "Scan",
+            "FR": "Analyser",
+            "ID": "Pemindaian",
+            "IT": "Scansione",
+            "JP": "スキャン",
+            "KR": "스캔",
+            "MX": "Escaneo",
+            "RU": "Сканирование",
+            "TC": "掃描",
+            "TH": "สแกน",
+            "VN": "Quét"
+          },
+          "priority": 0,
+          "sortId": 1,
+          "unlockSystemType": 58,
+          "useItem": ""
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "1": {
+        "oldValue": {
+          "banMap": [],
+          "gameVarName": "general_ability_bomb_time_stamp",
+          "generalAbilityType": 1,
+          "iconId": "icon_bomb",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Bomba",
+            "CN": "爆炸物",
+            "DE": "Bombe",
+            "EN": "Bomb",
+            "FR": "Bombe",
+            "ID": "Bom",
+            "IT": "Bomba",
+            "JP": "爆発物",
+            "KR": "폭발물",
+            "MX": "Bomba",
+            "RU": "Бомба",
+            "TC": "爆炸物",
+            "TH": "ระเบิด",
+            "VN": "Bom"
+          },
+          "sortId": 3,
+          "unlockSystemType": 62,
+          "useItem": "item_proc_bomb_1"
+        },
+        "newValue": {
+          "banMap": [],
+          "gameVarName": "general_ability_bomb_time_stamp",
+          "generalAbilityType": 1,
+          "iconId": "icon_bomb",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Bomba",
+            "CN": "爆炸物",
+            "DE": "Bombe",
+            "EN": "Bomb",
+            "FR": "Bombe",
+            "ID": "Bom",
+            "IT": "Bomba",
+            "JP": "爆発物",
+            "KR": "폭발물",
+            "MX": "Bomba",
+            "RU": "Бомба",
+            "TC": "爆炸物",
+            "TH": "ระเบิด",
+            "VN": "Bom"
+          },
+          "priority": 0,
+          "sortId": 3,
+          "unlockSystemType": 62,
+          "useItem": "item_proc_bomb_1"
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "banMap": [
+            "map01"
+          ],
+          "gameVarName": "general_ability_fluidinteract_time_stamp",
+          "generalAbilityType": 2,
+          "iconId": "icon_fluid_interact",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Encher",
+            "CN": "盛装",
+            "DE": "Füllen",
+            "EN": "Fill",
+            "FR": "Remplissage",
+            "ID": "Isi",
+            "IT": "Riempimento",
+            "JP": "充填",
+            "KR": "담기",
+            "MX": "Llenar",
+            "RU": "Наполнение",
+            "TC": "盛裝",
+            "TH": "เติม",
+            "VN": "Rót"
+          },
+          "sortId": 4,
+          "unlockSystemType": 63,
+          "useItem": ""
+        },
+        "newValue": {
+          "banMap": [
+            "map01"
+          ],
+          "gameVarName": "general_ability_fluidinteract_time_stamp",
+          "generalAbilityType": 2,
+          "iconId": "icon_fluid_filling",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Encher",
+            "CN": "盛装",
+            "DE": "Füllen",
+            "EN": "Fill",
+            "FR": "Remplissage",
+            "ID": "Isi",
+            "IT": "Riempimento",
+            "JP": "充填",
+            "KR": "담기",
+            "MX": "Llenar",
+            "RU": "Наполнение",
+            "TC": "盛裝",
+            "TH": "เติม",
+            "VN": "Rót"
+          },
+          "priority": 0,
+          "sortId": 4,
+          "unlockSystemType": 63,
+          "useItem": ""
+        },
+        "changed": {
+          "iconId": {
+            "type": "value",
+            "oldValue": "icon_fluid_interact",
+            "newValue": "icon_fluid_filling"
+          },
+          "priority": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "4": {
+        "oldValue": {
+          "banMap": [
+            "map01"
+          ],
+          "gameVarName": "",
+          "generalAbilityType": 4,
+          "iconId": "icon_fluid_spray",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Pulverizar",
+            "CN": "喷洒",
+            "DE": "Spray",
+            "EN": "Spray",
+            "FR": "Vaporisateur",
+            "ID": "Semprot",
+            "IT": "Spray",
+            "JP": "噴射",
+            "KR": "분사",
+            "MX": "Rociar",
+            "RU": "Спрей",
+            "TC": "噴灑",
+            "TH": "สเปรย์",
+            "VN": "Phun"
+          },
+          "sortId": 5,
+          "unlockSystemType": 71,
+          "useItem": ""
+        },
+        "newValue": {
+          "banMap": [
+            "map01"
+          ],
+          "gameVarName": "",
+          "generalAbilityType": 4,
+          "iconId": "icon_fluid_spray",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Pulverizar",
+            "CN": "喷洒",
+            "DE": "Spray",
+            "EN": "Spray",
+            "FR": "Vaporisateur",
+            "ID": "Semprot",
+            "IT": "Spray",
+            "JP": "噴射",
+            "KR": "분사",
+            "MX": "Rociar",
+            "RU": "Спрей",
+            "TC": "噴灑",
+            "TH": "สเปรย์",
+            "VN": "Phun"
+          },
+          "priority": 0,
+          "sortId": 5,
+          "unlockSystemType": 71,
+          "useItem": ""
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 5,
+          "iconId": "icon_snap_shot",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Câmera",
+            "CN": "拍照",
+            "DE": "Kamera",
+            "EN": "Camera",
+            "FR": "Photo",
+            "ID": "Kamera",
+            "IT": "Fotocamera",
+            "JP": "写真撮影",
+            "KR": "촬영",
+            "MX": "Cámara",
+            "RU": "Камера",
+            "TC": "拍照",
+            "TH": "กล้อง",
+            "VN": "Camera"
+          },
+          "sortId": 2,
+          "unlockSystemType": 72,
+          "useItem": ""
+        },
+        "newValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 5,
+          "iconId": "icon_snap_shot",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Câmera",
+            "CN": "拍照",
+            "DE": "Kamera",
+            "EN": "Camera",
+            "FR": "Photo",
+            "ID": "Kamera",
+            "IT": "Fotocamera",
+            "JP": "写真撮影",
+            "KR": "촬영",
+            "MX": "Cámara",
+            "RU": "Камера",
+            "TC": "拍照",
+            "TH": "กล้อง",
+            "VN": "Camera"
+          },
+          "priority": 0,
+          "sortId": 2,
+          "unlockSystemType": 72,
+          "useItem": ""
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "6": {
+        "oldValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 6,
+          "iconId": "icon_battle_boss",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Ferramentas de Combate e Apoio",
+            "CN": "战斗辅助工具",
+            "DE": "Kampf- & Unterstützungstools",
+            "EN": "Combat & Support Tools",
+            "FR": "Outils de combat et soutien",
+            "ID": "Alat Pertarungan & Dukungan",
+            "IT": "Strumenti di combattimento e supporto",
+            "JP": "戦闘サポート",
+            "KR": "전투 보조 도구",
+            "MX": "Herramientas de Combate y soporte",
+            "RU": "Инструменты боя и поддержки",
+            "TC": "戰鬥輔助工具",
+            "TH": "เครื่องมือ​การต่อสู้​และ​การ​สนับสนุน",
+            "VN": "Công Cụ Chiến Đấu & Hỗ Trợ"
+          },
+          "sortId": 11,
+          "unlockSystemType": 10000000,
+          "useItem": ""
+        },
+        "newValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 6,
+          "iconId": "icon_battle_boss",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Ferramentas de Combate e Apoio",
+            "CN": "战斗辅助工具",
+            "DE": "Kampf- & Unterstützungstools",
+            "EN": "Combat & Support Tools",
+            "FR": "Outils de combat et soutien",
+            "ID": "Alat Pertarungan & Dukungan",
+            "IT": "Strumenti di combattimento e supporto",
+            "JP": "戦闘サポート",
+            "KR": "전투 보조 도구",
+            "MX": "Herramientas de Combate y soporte",
+            "RU": "Инструменты боя и поддержки",
+            "TC": "戰鬥輔助工具",
+            "TH": "เครื่องมือ​การต่อสู้​และ​การ​สนับสนุน",
+            "VN": "Công Cụ Chiến Đấu & Hỗ Trợ"
+          },
+          "priority": 0,
+          "sortId": 11,
+          "unlockSystemType": 10000000,
+          "useItem": ""
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "7": {
+        "oldValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 7,
+          "iconId": "icon_fix",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Consertar",
+            "CN": "维护",
+            "DE": "Reparieren",
+            "EN": "Repair",
+            "FR": "Réparer",
+            "ID": "Perbaiki",
+            "IT": "Riparazione",
+            "JP": "整備",
+            "KR": "유지보수",
+            "MX": "Reparar",
+            "RU": "Ремонт",
+            "TC": "維護",
+            "TH": "ซ่อมแซม",
+            "VN": "Sửa chữa"
+          },
+          "sortId": 12,
+          "unlockSystemType": 10000000,
+          "useItem": ""
+        },
+        "newValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 7,
+          "iconId": "icon_fix",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Consertar",
+            "CN": "维护",
+            "DE": "Reparieren",
+            "EN": "Repair",
+            "FR": "Réparer",
+            "ID": "Perbaiki",
+            "IT": "Riparazione",
+            "JP": "整備",
+            "KR": "유지보수",
+            "MX": "Reparar",
+            "RU": "Ремонт",
+            "TC": "維護",
+            "TH": "ซ่อมแซม",
+            "VN": "Sửa chữa"
+          },
+          "priority": 1,
+          "sortId": 12,
+          "unlockSystemType": 10000000,
+          "useItem": ""
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 1
+          }
+        }
+      },
+      "8": {
+        "oldValue": {
+          "banMap": [],
+          "gameVarName": "general_ability_bomb_time_stamp",
+          "generalAbilityType": 8,
+          "iconId": "icon_bomb",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Bomba",
+            "CN": "爆炸物",
+            "DE": "Bombe",
+            "EN": "Bomb",
+            "FR": "Bombe",
+            "ID": "Bom",
+            "IT": "Bomba",
+            "JP": "爆発物",
+            "KR": "폭발물",
+            "MX": "Bomba",
+            "RU": "Взрывчатка",
+            "TC": "爆炸物",
+            "TH": "ระเบิด",
+            "VN": "Bom"
+          },
+          "sortId": 13,
+          "unlockSystemType": 10000000,
+          "useItem": "item_proc_bomb_1"
+        },
+        "newValue": {
+          "banMap": [],
+          "gameVarName": "general_ability_bomb_time_stamp",
+          "generalAbilityType": 8,
+          "iconId": "icon_bomb",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Bomba",
+            "CN": "爆炸物",
+            "DE": "Bombe",
+            "EN": "Bomb",
+            "FR": "Bombe",
+            "ID": "Bom",
+            "IT": "Bomba",
+            "JP": "爆発物",
+            "KR": "폭발물",
+            "MX": "Bomba",
+            "RU": "Взрывчатка",
+            "TC": "爆炸物",
+            "TH": "ระเบิด",
+            "VN": "Bom"
+          },
+          "priority": 2,
+          "sortId": 13,
+          "unlockSystemType": 10000000,
+          "useItem": "item_proc_bomb_1"
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 2
+          }
+        }
+      },
+      "9": {
+        "oldValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 9,
+          "iconId": "icon_fluid_spray",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Pulverizar",
+            "CN": "喷洒",
+            "DE": "Spray",
+            "EN": "Spray",
+            "FR": "Vaporisateur",
+            "ID": "Semprot",
+            "IT": "Spray",
+            "JP": "噴射",
+            "KR": "분사",
+            "MX": "Rociar",
+            "RU": "Спрей",
+            "TC": "噴灑",
+            "TH": "สเปรย์",
+            "VN": "Phun"
+          },
+          "sortId": 14,
+          "unlockSystemType": 10000000,
+          "useItem": ""
+        },
+        "newValue": {
+          "banMap": [],
+          "gameVarName": "",
+          "generalAbilityType": 9,
+          "iconId": "icon_fluid_spray",
+          "intervalTime": 0,
+          "name": {
+            "BR": "Pulverizar",
+            "CN": "喷洒",
+            "DE": "Spray",
+            "EN": "Spray",
+            "FR": "Vaporisateur",
+            "ID": "Semprot",
+            "IT": "Spray",
+            "JP": "噴射",
+            "KR": "분사",
+            "MX": "Rociar",
+            "RU": "Спрей",
+            "TC": "噴灑",
+            "TH": "สเปรย์",
+            "VN": "Phun"
+          },
+          "priority": 2,
+          "sortId": 14,
+          "unlockSystemType": 10000000,
+          "useItem": ""
+        },
+        "changed": {
+          "priority": {
+            "type": "value",
+            "newValue": 2
+          }
+        }
+      }
+    }
+  }
+}

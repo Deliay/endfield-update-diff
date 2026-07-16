@@ -1,0 +1,323 @@
+{
+  "tableName": "EquipPackFormulaTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {
+      "pack_parts_wuling00_t3.5": {
+        "itemList": [
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_body_01"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_body_02"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_body_03"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_hand_01"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_hand_02"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_hand_03"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_edc_01"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_edc_02"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling00_edc_03"
+          }
+        ]
+      },
+      "pack_parts_wuling02_t4": {
+        "itemList": [
+          {
+            "formulaId": "item_formu_t4_parts_wuling02_body_01"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling02_body_02"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling02_hand_01"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling02_hand_02"
+          },
+          {
+            "formulaId": "item_formu_t4_parts_wuling02_edc_01"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "pack_wuling_suit_fire_natr01": {
+        "oldValue": {
+          "itemList": [
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_body_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_body_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_03"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_body_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_body_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_04"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_04"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[8]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_fire_natr01_hand_04"
+            }
+          },
+          "itemList[9]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_fire_natr01_edc_04"
+            }
+          }
+        }
+      },
+      "pack_wuling_suit_heal01": {
+        "oldValue": {
+          "itemList": [
+            {
+              "formulaId": "item_formu_t4_suit_heal01_body_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_body_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_hand_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_hand_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_04"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_05"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "formulaId": "item_formu_t4_suit_heal01_body_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_body_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_hand_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_hand_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_04"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_edc_05"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_body_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_heal01_hand_03"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[9]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_heal01_body_03"
+            }
+          },
+          "itemList[10]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_heal01_hand_03"
+            }
+          }
+        }
+      },
+      "pack_wuling_suit_usp02": {
+        "oldValue": {
+          "itemList": [
+            {
+              "formulaId": "item_formu_t4_suit_usp02_body_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_hand_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_hand_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_edc_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_edc_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_edc_03"
+            }
+          ]
+        },
+        "newValue": {
+          "itemList": [
+            {
+              "formulaId": "item_formu_t4_suit_usp02_body_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_hand_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_hand_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_edc_01"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_edc_02"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_edc_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_body_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_body_04"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_hand_03"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_hand_04"
+            },
+            {
+              "formulaId": "item_formu_t4_suit_usp02_edc_04"
+            }
+          ]
+        },
+        "changed": {
+          "itemList[6]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_usp02_body_03"
+            }
+          },
+          "itemList[7]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_usp02_body_04"
+            }
+          },
+          "itemList[8]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_usp02_hand_03"
+            }
+          },
+          "itemList[9]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_usp02_hand_04"
+            }
+          },
+          "itemList[10]": {
+            "type": "value",
+            "newValue": {
+              "formulaId": "item_formu_t4_suit_usp02_edc_04"
+            }
+          }
+        }
+      }
+    }
+  }
+}

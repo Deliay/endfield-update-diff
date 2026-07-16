@@ -1,0 +1,473 @@
+{
+  "tableName": "SeasonTowerDungeonTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 24,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "indie_battletower001": {
+        "specialBuffDesc": {
+          "BR": " - Após aplicar <@ba.key>Inflição de Artes</> {dmg_cnt:0} vez(es), todos os operadores ganham DNO Final Causado <@ba.vup>+ {damage_up:0%}</>.",
+          "CN": " - 造成{dmg_cnt:0}次<@ba.key>法术附着</>后，干员造成的最终伤害<@ba.vup>+{damage_up:0%}</>。",
+          "DE": " – Nachdem {dmg_cnt:0}-mal <@ba.key>Technikkumulierung</> verursacht wurde, erhalten alle Operatoren zugefügten Finalen SDN <@ba.vup>+{damage_up:0%}</>.",
+          "EN": " - After applying <@ba.key>Arts Infliction</> {dmg_cnt:0} time(s), all operators gain Final DMG Dealt <@ba.vup>+{damage_up:0%}</>.",
+          "FR": " - Après avoir appliqué une <@ba.key>altération des Arts</> {dmg_cnt:0} fois, les DÉG finaux infligés par tous les opérateurs augmentent de <@ba.vup>{damage_up:0%}</>.",
+          "ID": " - Setelah mengakibatkan <@ba.key>Arts Infliction</> sebanyak {dmg_cnt:0} kali, semua operator akan mendapatkan Final DMG Dealt <@ba.vup>+{damage_up:0%}</>.",
+          "IT": " - Dopo aver applicato <@ba.key>Afflizione da Arti</> {dmg_cnt:0} volta/e, tutti gli operatori ottengono <@ba.vup>+{damage_up:0%}</> di danno finale.",
+          "JP": " - <@ba.key>アーツ付着</>を{dmg_cnt:0}回付与すると、オペレーターの与える最終ダメージ<@ba.vup>+{damage_up:0%}</>",
+          "KR": " - <@ba.key>아츠 부착</>을 {dmg_cnt:0}회 부여하면, 오퍼레이터가 주는 최종 피해가 <@ba.vup>+{damage_up:0%}</>.",
+          "MX": " - Tras aplicar <@ba.key>Imposición de artes</> {dmg_cnt:0} veces, todos los operadores obtienen DAÑ Final infligido <@ba.vup>+{damage_up:0%}</>.",
+          "RU": " - Если наложить <@ba.key>поражение искусствами</> {dmg_cnt:0} р., итоговый наносимый УРН всех оперативников увеличивается на <@ba.vup>{damage_up:0%}</>.",
+          "TC": " - 造成{dmg_cnt:0}次<@ba.key>法術附著</>後，幹員造成的最終傷害<@ba.vup>+{damage_up:0%}</>。",
+          "TH": " หลังจาก​ใช้​<@ba.key>​สถานะ​เวท​</>​ครบ​ {dmg_cnt:0} ครั้ง​ โอเปอเรเตอร์​ทั้งหมด​จะ​ได้รับ​ DMG สุดท้าย​ที่​สร้าง​เพิ่มขึ้น​ <@ba.vup>+{damage_up:0%}</>",
+          "VN": " - Sau khi áp dụng <@ba.key>Nhiễm Thuật Pháp</> {dmg_cnt:0} lần, tất cả các cán viên nhận <@ba.vup>+{damage_up:0%}</> ST Cuối Gây Ra."
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower001_ex": {
+        "specialBuffDesc": {
+          "BR": " - Após aplicar <@ba.key>Inflição de Artes</> {dmg_cnt:0} vez(es), todos os operadores ganham DNO Final Causado <@ba.vup>+ {damage_up:0%}</>.",
+          "CN": " - 造成{dmg_cnt:0}次<@ba.key>法术附着</>后，干员造成的最终伤害<@ba.vup>+{damage_up:0%}</>。",
+          "DE": " – Nachdem {dmg_cnt:0}-mal <@ba.key>Technikkumulierung</> verursacht wurde, erhalten alle Operatoren zugefügten Finalen SDN <@ba.vup>+{damage_up:0%}</>.",
+          "EN": " - After applying <@ba.key>Arts Infliction</> {dmg_cnt:0} time(s), all operators gain Final DMG Dealt <@ba.vup>+{damage_up:0%}</>.",
+          "FR": " - Après avoir appliqué une <@ba.key>altération des Arts</> {dmg_cnt:0} fois, les DÉG finaux infligés par tous les opérateurs augmentent de <@ba.vup>{damage_up:0%}</>.",
+          "ID": " - Setelah mengakibatkan <@ba.key>Arts Infliction</> sebanyak {dmg_cnt:0} kali, semua operator akan mendapatkan Final DMG Dealt <@ba.vup>+{damage_up:0%}</>.",
+          "IT": " - Dopo aver applicato <@ba.key>Afflizione da Arti</> {dmg_cnt:0} volta/e, tutti gli operatori ottengono <@ba.vup>+{damage_up:0%}</> di danno finale.",
+          "JP": " - <@ba.key>アーツ付着</>を{dmg_cnt:0}回付与すると、オペレーターの与える最終ダメージ<@ba.vup>+{damage_up:0%}</>",
+          "KR": " - <@ba.key>아츠 부착</>을 {dmg_cnt:0}회 부여하면, 오퍼레이터가 주는 최종 피해가 <@ba.vup>+{damage_up:0%}</>.",
+          "MX": " - Tras aplicar <@ba.key>Imposición de artes</> {dmg_cnt:0} veces, todos los operadores obtienen DAÑ Final infligido <@ba.vup>+{damage_up:0%}</>.",
+          "RU": " - Если наложить <@ba.key>поражение искусствами</> {dmg_cnt:0} р., итоговый наносимый УРН всех оперативников увеличивается на <@ba.vup>{damage_up:0%}</>.",
+          "TC": " - 造成{dmg_cnt:0}次<@ba.key>法術附著</>後，幹員造成的最終傷害<@ba.vup>+{damage_up:0%}</>。",
+          "TH": " หลังจาก​ใช้​<@ba.key>​สถานะ​เวท​</>​ครบ​ {dmg_cnt:0} ครั้ง​ โอเปอเรเตอร์​ทั้งหมด​จะ​ได้รับ​ DMG สุดท้าย​ที่​สร้าง​เพิ่มขึ้น​ <@ba.vup>+{damage_up:0%}</>",
+          "VN": " - Sau khi áp dụng <@ba.key>Nhiễm Thuật Pháp</> {dmg_cnt:0} lần, tất cả các cán viên nhận <@ba.vup>+{damage_up:0%}</> ST Cuối Gây Ra."
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower001_s": {
+        "specialBuffDesc": {
+          "BR": " - Após aplicar <@ba.key>Inflição de Artes</> {dmg_cnt:0} vez(es), todos os operadores ganham DNO Final Causado <@ba.vup>+ {damage_up:0%}</>.",
+          "CN": " - 造成{dmg_cnt:0}次<@ba.key>法术附着</>后，干员造成的最终伤害<@ba.vup>+{damage_up:0%}</>。",
+          "DE": " – Nachdem {dmg_cnt:0}-mal <@ba.key>Technikkumulierung</> verursacht wurde, erhalten alle Operatoren zugefügten Finalen SDN <@ba.vup>+{damage_up:0%}</>.",
+          "EN": " - After applying <@ba.key>Arts Infliction</> {dmg_cnt:0} time(s), all operators gain Final DMG Dealt <@ba.vup>+{damage_up:0%}</>.",
+          "FR": " - Après avoir appliqué une <@ba.key>altération des Arts</> {dmg_cnt:0} fois, les DÉG finaux infligés par tous les opérateurs augmentent de <@ba.vup>{damage_up:0%}</>.",
+          "ID": " - Setelah mengakibatkan <@ba.key>Arts Infliction</> sebanyak {dmg_cnt:0} kali, semua operator akan mendapatkan Final DMG Dealt <@ba.vup>+{damage_up:0%}</>.",
+          "IT": " - Dopo aver applicato <@ba.key>Afflizione da Arti</> {dmg_cnt:0} volta/e, tutti gli operatori ottengono <@ba.vup>+{damage_up:0%}</> di danno finale.",
+          "JP": " - <@ba.key>アーツ付着</>を{dmg_cnt:0}回付与すると、オペレーターの与える最終ダメージ<@ba.vup>+{damage_up:0%}</>",
+          "KR": " - <@ba.key>아츠 부착</>을 {dmg_cnt:0}회 부여하면, 오퍼레이터가 주는 최종 피해가 <@ba.vup>+{damage_up:0%}</>.",
+          "MX": " - Tras aplicar <@ba.key>Imposición de artes</> {dmg_cnt:0} veces, todos los operadores obtienen DAÑ Final infligido <@ba.vup>+{damage_up:0%}</>.",
+          "RU": " - Если наложить <@ba.key>поражение искусствами</> {dmg_cnt:0} р., итоговый наносимый УРН всех оперативников увеличивается на <@ba.vup>{damage_up:0%}</>.",
+          "TC": " - 造成{dmg_cnt:0}次<@ba.key>法術附著</>後，幹員造成的最終傷害<@ba.vup>+{damage_up:0%}</>。",
+          "TH": " หลังจาก​ใช้​<@ba.key>​สถานะ​เวท​</>​ครบ​ {dmg_cnt:0} ครั้ง​ โอเปอเรเตอร์​ทั้งหมด​จะ​ได้รับ​ DMG สุดท้าย​ที่​สร้าง​เพิ่มขึ้น​ <@ba.vup>+{damage_up:0%}</>",
+          "VN": " - Sau khi áp dụng <@ba.key>Nhiễm Thuật Pháp</> {dmg_cnt:0} lần, tất cả các cán viên nhận <@ba.vup>+{damage_up:0%}</> ST Cuối Gây Ra."
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower003_ex": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower002": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower002_s": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower002_ex": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower004_s": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower003": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower005_s": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower007": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower003_s": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower005_ex": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower004": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower006": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower004_ex": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower008": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower005": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower006_ex": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower006_s": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower008_s": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower007_ex": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower007_s": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      },
+      "indie_battletower008_ex": {
+        "specialBuffDesc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "specialBuffIcon": ""
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

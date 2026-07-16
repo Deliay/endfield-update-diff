@@ -1,0 +1,57 @@
+{
+  "tableName": "WikiCraftJumpTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 8,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_copper_jar": {
+        "blackboxId": "dung_blackbox_shaper_2",
+        "blueprintId": "sysbp_wuling_copperjar_01",
+        "itemId": "item_copper_jar"
+      },
+      "item_equip_script_4": {
+        "blackboxId": "dung_blackbox_xiraniteoven_1",
+        "blueprintId": "sysbp_wuling_equip_battery_starter_pack_1",
+        "itemId": "item_equip_script_4"
+      },
+      "item_filter_core": {
+        "blackboxId": "dung_blackbox_shaper_2",
+        "blueprintId": "sysbp_wuling_filter_01",
+        "itemId": "item_filter_core"
+      },
+      "item_port_gas_pump_1": {
+        "blackboxId": "dung_blackbox_gaspump_1",
+        "blueprintId": "",
+        "itemId": "item_port_gas_pump_1"
+      },
+      "item_port_phase_trans_2": {
+        "blackboxId": "dung_blackbox_transmuter_2",
+        "blueprintId": "sysbp_wuling_solid2gas_01",
+        "itemId": "item_port_phase_trans_2"
+      },
+      "item_port_gas_reactor_1": {
+        "blackboxId": "dung_blackbox_gasreactor_1",
+        "blueprintId": "sysbp_wuling_gas_copper_enr2_01",
+        "itemId": "item_port_gas_reactor_1"
+      },
+      "item_port_phase_trans_1": {
+        "blackboxId": "dung_blackbox_transmuter_1",
+        "blueprintId": "sysbp_wuling_liquid2gas_01",
+        "itemId": "item_port_phase_trans_1"
+      },
+      "item_port_vaporizer_1": {
+        "blackboxId": "dung_blackbox_vaporizer_1",
+        "blueprintId": "sysbp_wuling_gas_xiranite_enr_02",
+        "itemId": "item_port_vaporizer_1"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

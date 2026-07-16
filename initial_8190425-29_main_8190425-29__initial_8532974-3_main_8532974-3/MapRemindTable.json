@@ -1,0 +1,725 @@
+{
+  "tableName": "MapRemindTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 13
+  },
+  "entries": {
+    "added": {
+      "1400": {
+        "desc": {
+          "BR": "Novas saídas de gás disponíveis",
+          "CN": "有新气体矿点可开采",
+          "DE": "Neue Gasvorkommen verfügbar",
+          "EN": "New gas vents available",
+          "FR": "Nouvelles poches de gaz disponibles",
+          "ID": "Ventilasi gas baru telah tersedia",
+          "IT": "Nuovi sfiatatoi di gas disponibili",
+          "JP": "採掘可能な新しいガス採集スポットがあります",
+          "KR": "채집할 수 있는 새로운 기체 광산 지점 발견",
+          "MX": "Nuevos respiraderos de gas disponibles",
+          "RU": "Доступны новые точки выброса",
+          "TC": "有新氣體礦點可開採",
+          "TH": "ปล่อง​ก๊าซ​ใหม่​พร้อม​ใช้งาน​แล้ว",
+          "VN": "Đã có các lỗ thông khí mới"
+        },
+        "icon": "icon_map_mine_gas",
+        "remindType": 1400,
+        "sort": 2,
+        "tabType": 1
+      },
+      "1401": {
+        "desc": {
+          "BR": "Instalação para reserva",
+          "CN": "设备待收纳",
+          "DE": "Anlage zur Lagerung",
+          "EN": "Facility to stash",
+          "FR": "Installation à mettre de côté",
+          "ID": "Fasilitas yang akan disimpan",
+          "IT": "Struttura per stoccare la scorta",
+          "JP": "収納待ちの設備",
+          "KR": "수납 대기 중인 설비",
+          "MX": "Instalación de reserva",
+          "RU": "Сооружение для запасника",
+          "TC": "設備待收回",
+          "TH": "สิ่งปลูกสร้าง​ที่​ต้อง​เข้า​คลัง​เก็บ",
+          "VN": "Cơ sở lưu trữ"
+        },
+        "icon": "icon_map_settlement_terminal",
+        "remindType": 1401,
+        "sort": 1,
+        "tabType": 0
+      }
+    },
+    "removed": {},
+    "changed": {
+      "1": {
+        "oldValue": {
+          "desc": {
+            "BR": "Novos pontos de mineração disponíveis",
+            "CN": "有新矿点可开采",
+            "DE": "Neue Abbaustellen verfügbar",
+            "EN": "New mining spots available",
+            "FR": "Nouvelles zones d'extraction disponibles",
+            "ID": "Titik tambang baru tersedia",
+            "IT": "Nuovi punti di estrazione disponibili.",
+            "JP": "採掘可能な新しい鉱物スポットがあります",
+            "KR": "채굴할 수 있는 새로운 광산 지점 발견",
+            "MX": "Nuevos puntos de minería disponibles",
+            "RU": "Доступны новые места разработки",
+            "TC": "有新礦點可開採",
+            "TH": "มี​จุด​ขุด​แร่​ใหม่",
+            "VN": "Các điểm khai thác mới có sẵn"
+          },
+          "icon": "icon_map_mine",
+          "remindType": 1,
+          "tabType": 1
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Novos pontos de mineração disponíveis",
+            "CN": "有新矿点可开采",
+            "DE": "Neue Abbaustellen verfügbar",
+            "EN": "New mining spots available",
+            "FR": "Nouvelles zones d'extraction disponibles",
+            "ID": "Titik tambang baru tersedia",
+            "IT": "Nuovi punti di estrazione disponibili.",
+            "JP": "採掘可能な新しい鉱物スポットがあります",
+            "KR": "채굴할 수 있는 새로운 광산 지점 발견",
+            "MX": "Nuevos puntos de minería disponibles",
+            "RU": "Доступны новые места разработки",
+            "TC": "有新礦點可開採",
+            "TH": "มี​จุด​ขุด​แร่​ใหม่",
+            "VN": "Các điểm khai thác mới có sẵn"
+          },
+          "icon": "icon_map_mine",
+          "remindType": 1,
+          "sort": 1,
+          "tabType": 1
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 1
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "desc": {
+            "BR": "Alguns cultivos raros estão cheios",
+            "CN": "有稀有采集物达到储存上限",
+            "DE": "Einige seltene Rohstoffvorkommen sind voll",
+            "EN": "Some rare growths are full",
+            "FR": "Certaines cultures rares sont pleines",
+            "ID": "Beberapa pertumbuhan langka sudah penuh",
+            "IT": "Alcune crescite rare sono piene.",
+            "JP": "希少採集物は最大数に達しました",
+            "KR": "희귀 채집물 저장 최대치 도달",
+            "MX": "Algunos cultivos raros están llenos",
+            "RU": "Есть заполненные редкие места произрастания",
+            "TC": "有稀有採集物達到儲存上限",
+            "TH": "พืชพันธุ์​หายาก​บางส่วน​เต็ม​แล้ว",
+            "VN": "Một số tăng trưởng hiếm đã đầy"
+          },
+          "icon": "icon_map_special_plant",
+          "remindType": 2,
+          "tabType": 1
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Alguns cultivos raros estão cheios",
+            "CN": "有稀有采集物达到储存上限",
+            "DE": "Einige seltene Rohstoffvorkommen sind voll",
+            "EN": "Some rare growths are full",
+            "FR": "Certaines cultures rares sont pleines",
+            "ID": "Beberapa pertumbuhan langka sudah penuh",
+            "IT": "Alcune crescite rare sono piene.",
+            "JP": "希少採集物は最大数に達しました",
+            "KR": "희귀 채집물 저장 최대치 도달",
+            "MX": "Algunos cultivos raros están llenos",
+            "RU": "Есть заполненные редкие места произрастания",
+            "TC": "有稀有採集物達到儲存上限",
+            "TH": "พืชพันธุ์​หายาก​บางส่วน​เต็ม​แล้ว",
+            "VN": "Một số tăng trưởng hiếm đã đầy"
+          },
+          "icon": "icon_map_special_plant",
+          "remindType": 2,
+          "sort": 3,
+          "tabType": 1
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 3
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "desc": {
+            "BR": "Algumas formações de minérios raros estão cheias",
+            "CN": "有稀有矿物达到储存上限",
+            "DE": "Einige seltene Erzvorkommen sind voll",
+            "EN": "Some rare ore formations are full",
+            "FR": "Certaines formations de minerais rares sont pleines",
+            "ID": "Beberapa formasi bijih langka sudah penuh",
+            "IT": "Alcune formazioni minerali rare sono piene.",
+            "JP": "希少鉱物は最大数に達しました",
+            "KR": "희귀 광물 저장 최대치 도달",
+            "MX": "Algunas formaciones de mineral raro están llenas",
+            "RU": "Есть заполненные редкие залежи",
+            "TC": "有稀有礦物達到儲存上限",
+            "TH": "มี​แหล่ง​แร่​หายาก​บางแห่ง​เต็ม​แล้ว",
+            "VN": "Một số loại quặng hiếm đã đầy"
+          },
+          "icon": "icon_map_special_mine",
+          "remindType": 3,
+          "tabType": 1
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Algumas formações de minérios raros estão cheias",
+            "CN": "有稀有矿物达到储存上限",
+            "DE": "Einige seltene Erzvorkommen sind voll",
+            "EN": "Some rare ore formations are full",
+            "FR": "Certaines formations de minerais rares sont pleines",
+            "ID": "Beberapa formasi bijih langka sudah penuh",
+            "IT": "Alcune formazioni minerali rare sono piene.",
+            "JP": "希少鉱物は最大数に達しました",
+            "KR": "희귀 광물 저장 최대치 도달",
+            "MX": "Algunas formaciones de mineral raro están llenas",
+            "RU": "Есть заполненные редкие залежи",
+            "TC": "有稀有礦物達到儲存上限",
+            "TH": "มี​แหล่ง​แร่​หายาก​บางแห่ง​เต็ม​แล้ว",
+            "VN": "Một số loại quặng hiếm đã đầy"
+          },
+          "icon": "icon_map_special_mine",
+          "remindType": 3,
+          "sort": 4,
+          "tabType": 1
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 4
+          }
+        }
+      },
+      "4": {
+        "oldValue": {
+          "desc": {
+            "BR": "Algumas estações de reciclagem estão cheias",
+            "CN": "有回收站资源达到储存上限",
+            "DE": "Einige Recycling-Stationen sind voll",
+            "EN": "Some recycling stations are full",
+            "FR": "Certaines stations de recyclage sont pleines",
+            "ID": "Beberapa stasiun daur ulang sudah penuh",
+            "IT": "Alcune stazioni di riciclo sono piene.",
+            "JP": "資源回収所は保存上限に達しました",
+            "KR": "재활용센터 자원 저장 최대치 도달",
+            "MX": "Algunas estaciones de reciclaje están llenas",
+            "RU": "Есть заполненные станции переработки",
+            "TC": "有回收站資源達到儲存上限",
+            "TH": "มีส​ถา​นี​รีไซเคิล​บางแห่ง​เต็ม​แล้ว",
+            "VN": "Một số trạm tái chế đã đầy"
+          },
+          "icon": "icon_map_recycle",
+          "remindType": 4,
+          "tabType": 1
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Algumas estações de reciclagem estão cheias",
+            "CN": "有回收站资源达到储存上限",
+            "DE": "Einige Recycling-Stationen sind voll",
+            "EN": "Some recycling stations are full",
+            "FR": "Certaines stations de recyclage sont pleines",
+            "ID": "Beberapa stasiun daur ulang sudah penuh",
+            "IT": "Alcune stazioni di riciclo sono piene.",
+            "JP": "資源回収所は保存上限に達しました",
+            "KR": "재활용센터 자원 저장 최대치 도달",
+            "MX": "Algunas estaciones de reciclaje están llenas",
+            "RU": "Есть заполненные станции переработки",
+            "TC": "有回收站資源達到儲存上限",
+            "TH": "มีส​ถา​นี​รีไซเคิล​บางแห่ง​เต็ม​แล้ว",
+            "VN": "Một số trạm tái chế đã đầy"
+          },
+          "icon": "icon_map_recycle",
+          "remindType": 4,
+          "sort": 5,
+          "tabType": 1
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 5
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "desc": {
+            "BR": "Posto Avançado Enfrentando Incursão Iminente",
+            "CN": "据点面临入侵威胁",
+            "DE": "Außenposten steht Angriff bevor",
+            "EN": "Outpost Facing Imminent Incursion",
+            "FR": "Avant-poste menacé par une intrusion imminente",
+            "ID": "Pos Depan dalam Status Rawan Diserang",
+            "IT": "Avamposto minacciato da un'incursione imminente.",
+            "JP": "拠点が襲撃にさらされています",
+            "KR": "거점이 위협받는 중...",
+            "MX": "Puesto de avanzada ante una incursión inminente",
+            "RU": "Аванпосту грозит вторжение",
+            "TC": "據點面臨入侵威脅",
+            "TH": "ด่าน​หน้าที่​กำลัง​เผชิญ​กับ​การ​รุกราน",
+            "VN": "Tiền Đồn Sắp Bị Xâm Lược"
+          },
+          "icon": "icon_map_settlement_terminal",
+          "remindType": 5,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Posto Avançado Enfrentando Incursão Iminente",
+            "CN": "据点面临入侵威胁",
+            "DE": "Außenposten steht Angriff bevor",
+            "EN": "Outpost Facing Imminent Incursion",
+            "FR": "Avant-poste menacé par une intrusion imminente",
+            "ID": "Pos Depan dalam Status Rawan Diserang",
+            "IT": "Avamposto minacciato da un'incursione imminente.",
+            "JP": "拠点が襲撃にさらされています",
+            "KR": "거점이 위협받는 중...",
+            "MX": "Puesto de avanzada ante una incursión inminente",
+            "RU": "Аванпосту грозит вторжение",
+            "TC": "據點面臨入侵威脅",
+            "TH": "ด่าน​หน้าที่​กำลัง​เผชิญ​กับ​การ​รุกราน",
+            "VN": "Tiền Đồn Sắp Bị Xâm Lược"
+          },
+          "icon": "icon_map_settlement_terminal",
+          "remindType": 5,
+          "sort": 6,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 6
+          }
+        }
+      },
+      "6": {
+        "oldValue": {
+          "desc": {
+            "BR": "Câmara de Crescimento da Dijiang: Trabalho concluído",
+            "CN": "帝江号培养舱有培养完成待收取",
+            "DE": "Dijiang: Wachstumskammer: Aufgabe abgeschlossen",
+            "EN": "Dijiang Growth Chamber: Job done",
+            "FR": "Chambre de culture du Dijiang : tâche terminée",
+            "ID": "Ruang Pertumbuhan Dijiang: Tugas selesai",
+            "IT": "Camera di coltivazione della Dijiang: lavoro terminato.",
+            "JP": "培養室で受取可能なアイテムがあります",
+            "KR": "제강호 재배실: 육성 완료, 수령 대기",
+            "MX": "Cámara de crecimiento de la Dijiang: trabajo completado",
+            "RU": "Инкубационный отсек «Дицзян»: задание завершено",
+            "TC": "帝江號培養艙有培養完成，待收取",
+            "TH": "ตี้​เจียง​: ห้อง​เพาะเลี้ยง​: งาน​เสร็จ​เรียบร้อย​แล้ว",
+            "VN": "Buồng Phát Triển Dijiang: Xong nhiệm vụ"
+          },
+          "icon": "icon_map_room_growcabin",
+          "remindType": 6,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Câmara de Crescimento da Dijiang: Trabalho concluído",
+            "CN": "帝江号培养舱有培养完成待收取",
+            "DE": "Dijiang: Wachstumskammer: Aufgabe abgeschlossen",
+            "EN": "Dijiang Growth Chamber: Job done",
+            "FR": "Chambre de culture du Dijiang : tâche terminée",
+            "ID": "Ruang Pertumbuhan Dijiang: Tugas selesai",
+            "IT": "Camera di coltivazione della Dijiang: lavoro terminato.",
+            "JP": "培養室で受取可能なアイテムがあります",
+            "KR": "제강호 재배실: 육성 완료, 수령 대기",
+            "MX": "Cámara de crecimiento de la Dijiang: trabajo completado",
+            "RU": "Инкубационный отсек «Дицзян»: задание завершено",
+            "TC": "帝江號培養艙有培養完成，待收取",
+            "TH": "ตี้​เจียง​: ห้อง​เพาะเลี้ยง​: งาน​เสร็จ​เรียบร้อย​แล้ว",
+            "VN": "Buồng Phát Triển Dijiang: Xong nhiệm vụ"
+          },
+          "icon": "icon_map_room_growcabin",
+          "remindType": 6,
+          "sort": 9,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 9
+          }
+        }
+      },
+      "7": {
+        "oldValue": {
+          "desc": {
+            "BR": "Cabine MFT da Dijiang: Trabalho concluído",
+            "CN": "帝江号制造舱生产完成待收取",
+            "DE": "Dijiang-HS-Kabine: Aufgabe abgeschlossen",
+            "EN": "Dijiang MFG Cabin: Job done",
+            "FR": "Cabine FABR du Dijiang : tâche terminée",
+            "ID": "Kabin MFK Dijiang: Tugas selesai",
+            "IT": "Cabina PRDZ della Dijiang: lavoro terminato.",
+            "JP": "製造室で受取可能なアイテムがあります",
+            "KR": "제강호 제조실: 생산 완료, 수령 대기",
+            "MX": "Cabina de MAN. de la Dijiang: Trabajo completado",
+            "RU": "Производственный отсек «Дицзян»: задание завершено",
+            "TC": "帝江號製造艙生產完成，待收取",
+            "TH": "ห้อง​ผลิต​ตี้​เจียง​: งาน​เสร็จ​เรียบร้อย​แล้ว",
+            "VN": "Khoang SX Dijiang: Xong nhiệm vụ"
+          },
+          "icon": "icon_map_room_manufacturingstation",
+          "remindType": 7,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Cabine MFT da Dijiang: Trabalho concluído",
+            "CN": "帝江号制造舱生产完成待收取",
+            "DE": "Dijiang-HS-Kabine: Aufgabe abgeschlossen",
+            "EN": "Dijiang MFG Cabin: Job done",
+            "FR": "Cabine FABR du Dijiang : tâche terminée",
+            "ID": "Kabin MFK Dijiang: Tugas selesai",
+            "IT": "Cabina PRDZ della Dijiang: lavoro terminato.",
+            "JP": "製造室で受取可能なアイテムがあります",
+            "KR": "제강호 제조실: 생산 완료, 수령 대기",
+            "MX": "Cabina de MAN. de la Dijiang: Trabajo completado",
+            "RU": "Производственный отсек «Дицзян»: задание завершено",
+            "TC": "帝江號製造艙生產完成，待收取",
+            "TH": "ห้อง​ผลิต​ตี้​เจียง​: งาน​เสร็จ​เรียบร้อย​แล้ว",
+            "VN": "Khoang SX Dijiang: Xong nhiệm vụ"
+          },
+          "icon": "icon_map_room_manufacturingstation",
+          "remindType": 7,
+          "sort": 10,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 10
+          }
+        }
+      },
+      "8": {
+        "oldValue": {
+          "desc": {
+            "BR": "Cabine da Dijiang: Construção pronta",
+            "CN": "帝江号有舱室可以建造或升级",
+            "DE": "Dijiang-Kabine: Bau bereit",
+            "EN": "Dijiang Cabin: Construction ready",
+            "FR": "Cabine du Dijiang : construction disponible",
+            "ID": "Kabin Dijiang: Konstruksi siap",
+            "IT": "Cabina della Dijiang: costruzione pronta.",
+            "JP": "建造・レベルアップ可能な船室があります",
+            "KR": "제강호 선실: 건설/업그레이드 대기",
+            "MX": "Cabina de la Dijiang: Construcción lista",
+            "RU": "Отсек «Дицзян»: доступно строительство",
+            "TC": "帝江號有艙室可以建造或升級",
+            "TH": "ห้อง​ตี้​เจียง​: พร้อม​ก่อสร้าง​แล้ว",
+            "VN": "Khoang Dijiang: Sẵn sàng xây dựng"
+          },
+          "icon": "icon_map_room_empty",
+          "remindType": 8,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Cabine da Dijiang: Construção pronta",
+            "CN": "帝江号有舱室可以建造或升级",
+            "DE": "Dijiang-Kabine: Bau bereit",
+            "EN": "Dijiang Cabin: Construction ready",
+            "FR": "Cabine du Dijiang : construction disponible",
+            "ID": "Kabin Dijiang: Konstruksi siap",
+            "IT": "Cabina della Dijiang: costruzione pronta.",
+            "JP": "建造・レベルアップ可能な船室があります",
+            "KR": "제강호 선실: 건설/업그레이드 대기",
+            "MX": "Cabina de la Dijiang: Construcción lista",
+            "RU": "Отсек «Дицзян»: доступно строительство",
+            "TC": "帝江號有艙室可以建造或升級",
+            "TH": "ห้อง​ตี้​เจียง​: พร้อม​ก่อสร้าง​แล้ว",
+            "VN": "Khoang Dijiang: Sẵn sàng xây dựng"
+          },
+          "icon": "icon_map_room_empty",
+          "remindType": 8,
+          "sort": 7,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 7
+          }
+        }
+      },
+      "9": {
+        "oldValue": {
+          "desc": {
+            "BR": "Cabine da Dijiang: Nenhum operador atribuído",
+            "CN": "帝江号有舱室尚未进驻干员",
+            "DE": "Dijiang-Kabine: keine Operatoren zugewiesen",
+            "EN": "Dijiang Cabin: No operators assigned",
+            "FR": "Cabine du Dijiang : aucun opérateur assigné",
+            "ID": "Kabin Dijiang: Tidak ada operator yang ditugaskan",
+            "IT": "Cabina della Dijiang: nessun operatore assegnato.",
+            "JP": "オペレーター未配属の船室があります",
+            "KR": "제강호 선실: 오퍼레이터 배치 대기",
+            "MX": "Cabina de la Dijiang: no hay operadores asignados",
+            "RU": "Отсек «Дицзян»: не назначены оперативники",
+            "TC": "帝江號有艙室尚未進駐幹員",
+            "TH": "ห้อง​ตี้​เจียง​: ไม่มี​โอเปอเรเตอร์​ที่​ได้รับ​มอบหมาย​งาน",
+            "VN": "Khoang Dijiang: Không có cán viên được phân công"
+          },
+          "icon": "icon_map_room_empty",
+          "remindType": 9,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Cabine da Dijiang: Nenhum operador atribuído",
+            "CN": "帝江号有舱室尚未进驻干员",
+            "DE": "Dijiang-Kabine: keine Operatoren zugewiesen",
+            "EN": "Dijiang Cabin: No operators assigned",
+            "FR": "Cabine du Dijiang : aucun opérateur assigné",
+            "ID": "Kabin Dijiang: Tidak ada operator yang ditugaskan",
+            "IT": "Cabina della Dijiang: nessun operatore assegnato.",
+            "JP": "オペレーター未配属の船室があります",
+            "KR": "제강호 선실: 오퍼레이터 배치 대기",
+            "MX": "Cabina de la Dijiang: no hay operadores asignados",
+            "RU": "Отсек «Дицзян»: не назначены оперативники",
+            "TC": "帝江號有艙室尚未進駐幹員",
+            "TH": "ห้อง​ตี้​เจียง​: ไม่มี​โอเปอเรเตอร์​ที่​ได้รับ​มอบหมาย​งาน",
+            "VN": "Khoang Dijiang: Không có cán viên được phân công"
+          },
+          "icon": "icon_map_room_empty",
+          "remindType": 9,
+          "sort": 8,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 8
+          }
+        }
+      },
+      "11": {
+        "oldValue": {
+          "desc": {
+            "BR": "Upgrade de %s disponível",
+            "CN": "有%s可以升级",
+            "DE": "%s-Verbesserung verfügbar",
+            "EN": "%s upgrade available",
+            "FR": "Amélioration disponible : %s",
+            "ID": "%s upgrade tersedia",
+            "IT": "%s: potenziamento disponibile",
+            "JP": "ただいま%sがレベルアップ可能です",
+            "KR": "%s 업그레이드 가능",
+            "MX": "%s mejora disponible",
+            "RU": "%s: доступно улучшение",
+            "TC": "有%s可以升級",
+            "TH": "%s การ​อัป​เกรด​ที่​สามารถ​ดำเนินการ​ได้",
+            "VN": "có thể nâng cấp %s"
+          },
+          "icon": "icon_map_recycle",
+          "remindType": 11,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Upgrade de %s disponível",
+            "CN": "有%s可以升级",
+            "DE": "%s-Verbesserung verfügbar",
+            "EN": "%s upgrade available",
+            "FR": "Amélioration disponible : %s",
+            "ID": "%s upgrade tersedia",
+            "IT": "%s: potenziamento disponibile",
+            "JP": "ただいま%sがレベルアップ可能です",
+            "KR": "%s 업그레이드 가능",
+            "MX": "%s mejora disponible",
+            "RU": "%s: доступно улучшение",
+            "TC": "有%s可以升級",
+            "TH": "%s การ​อัป​เกรด​ที่​สามารถ​ดำเนินการ​ได้",
+            "VN": "có thể nâng cấp %s"
+          },
+          "icon": "icon_map_recycle",
+          "remindType": 11,
+          "sort": 11,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 11
+          }
+        }
+      },
+      "12": {
+        "oldValue": {
+          "desc": {
+            "BR": "%s pode ser desbloqueado",
+            "CN": "有%s可以解锁",
+            "DE": "%s kann freigeschaltet werden",
+            "EN": "%s can be unlocked",
+            "FR": "À débloquer : %s",
+            "ID": "%s bisa dibuka",
+            "IT": "%s: sbloccabile",
+            "JP": "ただいま%sが解放可能です",
+            "KR": "%s 잠금 해제 가능",
+            "MX": "%s se puede desbloquear",
+            "RU": "%s: можно открыть",
+            "TC": "有%s可以解鎖",
+            "TH": "%s ที่​ปลดล็อก​ได้",
+            "VN": "có thể mở khóa %s"
+          },
+          "icon": "icon_map_recycle",
+          "remindType": 12,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "%s pode ser desbloqueado",
+            "CN": "有%s可以解锁",
+            "DE": "%s kann freigeschaltet werden",
+            "EN": "%s can be unlocked",
+            "FR": "À débloquer : %s",
+            "ID": "%s bisa dibuka",
+            "IT": "%s: sbloccabile",
+            "JP": "ただいま%sが解放可能です",
+            "KR": "%s 잠금 해제 가능",
+            "MX": "%s se puede desbloquear",
+            "RU": "%s: можно открыть",
+            "TC": "有%s可以解鎖",
+            "TH": "%s ที่​ปลดล็อก​ได้",
+            "VN": "có thể mở khóa %s"
+          },
+          "icon": "icon_map_recycle",
+          "remindType": 12,
+          "sort": 12,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 12
+          }
+        }
+      },
+      "13": {
+        "oldValue": {
+          "desc": {
+            "BR": "Pista básica resgatável na Sala da Recepção",
+            "CN": "有会客室产出的基础线索可收取",
+            "DE": "Grundlegender Hinweis im Empfang abholbereit",
+            "EN": "Basic clue claimable at Reception Room",
+            "FR": "Indice de base à récupérer dans la salle de réception",
+            "ID": "Petunjuk dasar bisa diambil di Ruang Resepsionis",
+            "IT": "Indizio base ottenibile nella sala di ricevimento",
+            "JP": "応接室で受取可能な手がかりがあります",
+            "KR": "응접실: 기본 단서 수령 가능",
+            "MX": "Se puede reclamar una pista básica en la Sala de recepción",
+            "RU": "В приемной можно получить базовую зацепку",
+            "TC": "有會客室產出的基礎線索可收取",
+            "TH": "สามารถ​รับ​เบาะแส​พื้นฐาน​ได้ที่​ห้อง​รับรอง​แขก",
+            "VN": "Có thể nhận manh mối cơ bản tại Phòng Tiếp Khách"
+          },
+          "icon": "icon_map_room_reception",
+          "remindType": 13,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Pista básica resgatável na Sala da Recepção",
+            "CN": "有会客室产出的基础线索可收取",
+            "DE": "Grundlegender Hinweis im Empfang abholbereit",
+            "EN": "Basic clue claimable at Reception Room",
+            "FR": "Indice de base à récupérer dans la salle de réception",
+            "ID": "Petunjuk dasar bisa diambil di Ruang Resepsionis",
+            "IT": "Indizio base ottenibile nella sala di ricevimento",
+            "JP": "応接室で受取可能な手がかりがあります",
+            "KR": "응접실: 기본 단서 수령 가능",
+            "MX": "Se puede reclamar una pista básica en la Sala de recepción",
+            "RU": "В приемной можно получить базовую зацепку",
+            "TC": "有會客室產出的基礎線索可收取",
+            "TH": "สามารถ​รับ​เบาะแส​พื้นฐาน​ได้ที่​ห้อง​รับรอง​แขก",
+            "VN": "Có thể nhận manh mối cơ bản tại Phòng Tiếp Khách"
+          },
+          "icon": "icon_map_room_reception",
+          "remindType": 13,
+          "sort": 13,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 13
+          }
+        }
+      },
+      "14": {
+        "oldValue": {
+          "desc": {
+            "BR": "A biblioteca de pistas locais está cheia. A coleta automática de pistas parou.",
+            "CN": "自有线索库已满，无法自动收取线索",
+            "DE": "Bibliothek für lokale Hinweise voll. Automatisches Sammeln von Hinweisen deaktiviert.",
+            "EN": "Local clue library full. Auto-collection of clues has stopped.",
+            "FR": "Registre des indices locaux plein. Collecte automatique d'indices désactivée.",
+            "ID": "Pustaka petunjuk lokal sudah penuh. Pengambilan petunjuk otomatis dihentikan.",
+            "IT": "Raccolta di indizi locali piena. La raccolta automatica degli indizi è stata interrotta.",
+            "JP": "捜索分の手がかりがいっぱいです。自動で受け取れません",
+            "KR": "자유 단서 보관소 포화, 단서 자동 수령 불가",
+            "MX": "La Biblioteca de pistas locales está llena. La recolección automática de pistas se ha detenido.",
+            "RU": "Локальная библиотека зацепок заполнена. Автоматический сбор зацепок приостановлен.",
+            "TC": "自有線索庫已滿，無法自動收取線索",
+            "TH": "ห้องสมุด​เบาะแส​ใน​เขต​เต็ม​แล้ว​ การ​เก็บ​เบาะแส​อัตโนมัติ​ได้​หยุด​ลง",
+            "VN": "Thư viện manh mối cục bộ đã đầy. Đã dừng tự động thu thập manh mối."
+          },
+          "icon": "icon_map_room_reception",
+          "remindType": 14,
+          "tabType": 0
+        },
+        "newValue": {
+          "desc": {
+            "BR": "A biblioteca de pistas locais está cheia. A coleta automática de pistas parou.",
+            "CN": "自有线索库已满，无法自动收取线索",
+            "DE": "Bibliothek für lokale Hinweise voll. Automatisches Sammeln von Hinweisen deaktiviert.",
+            "EN": "Local clue library full. Auto-collection of clues has stopped.",
+            "FR": "Registre des indices locaux plein. Collecte automatique d'indices désactivée.",
+            "ID": "Pustaka petunjuk lokal sudah penuh. Pengambilan petunjuk otomatis dihentikan.",
+            "IT": "Raccolta di indizi locali piena. La raccolta automatica degli indizi è stata interrotta.",
+            "JP": "捜索分の手がかりがいっぱいです。自動で受け取れません",
+            "KR": "자유 단서 보관소 포화, 단서 자동 수령 불가",
+            "MX": "La Biblioteca de pistas locales está llena. La recolección automática de pistas se ha detenido.",
+            "RU": "Локальная библиотека зацепок заполнена. Автоматический сбор зацепок приостановлен.",
+            "TC": "自有線索庫已滿，無法自動收取線索",
+            "TH": "ห้องสมุด​เบาะแส​ใน​เขต​เต็ม​แล้ว​ การ​เก็บ​เบาะแส​อัตโนมัติ​ได้​หยุด​ลง",
+            "VN": "Thư viện manh mối cục bộ đã đầy. Đã dừng tự động thu thập manh mối."
+          },
+          "icon": "icon_map_room_reception",
+          "remindType": 14,
+          "sort": 14,
+          "tabType": 0
+        },
+        "changed": {
+          "sort": {
+            "type": "value",
+            "newValue": 14
+          }
+        }
+      }
+    }
+  }
+}

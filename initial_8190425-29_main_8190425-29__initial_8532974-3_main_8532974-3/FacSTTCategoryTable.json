@@ -1,0 +1,495 @@
+{
+  "tableName": "FacSTTCategoryTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 5
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "fac_team_jinlong_explore": {
+        "oldValue": {
+          "category": "fac_team_jinlong_explore",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Combate",
+            "CN": "战斗辅助",
+            "DE": "Kampf",
+            "EN": "Combat",
+            "FR": "Combat",
+            "ID": "Pertarungan",
+            "IT": "Combattim.",
+            "JP": "戦闘サポート",
+            "KR": "전투 보조",
+            "MX": "Combate",
+            "RU": "Бой",
+            "TC": "戰鬥輔助",
+            "TH": "ต่อสู้",
+            "VN": "Chiến Đấu"
+          },
+          "order": 4,
+          "startPosX": 6,
+          "techIds": [
+            "tech_jinlong_1_battle_cannon_2",
+            "tech_jinlong_1_battle_fog_1",
+            "tech_jinlong_2_battle_jet_1",
+            "tech_jinlong_2_battle_trap_1",
+            "tech_jinlong_3_battle_rocket_1",
+            "tech_jinlong_3_battle_laser_2",
+            "tech_jinlong_3_battle_debuff_1"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "newValue": {
+          "category": "fac_team_jinlong_explore",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Combate",
+            "CN": "战斗辅助",
+            "DE": "Kampf",
+            "EN": "Combat",
+            "FR": "Combat",
+            "ID": "Pertarungan",
+            "IT": "Combattim.",
+            "JP": "戦闘サポート",
+            "KR": "전투 보조",
+            "MX": "Combate",
+            "RU": "Бой",
+            "TC": "戰鬥輔助",
+            "TH": "ต่อสู้",
+            "VN": "Chiến Đấu"
+          },
+          "order": 4,
+          "startPosX": 9,
+          "techIds": [
+            "tech_jinlong_1_battle_cannon_2",
+            "tech_jinlong_1_battle_fog_1",
+            "tech_jinlong_2_battle_jet_1",
+            "tech_jinlong_2_battle_trap_1",
+            "tech_jinlong_3_battle_rocket_1",
+            "tech_jinlong_3_battle_debuff_1",
+            "tech_jinlong_3_battle_laser_2",
+            "tech_jinlong_4_battle_lightning_2",
+            "tech_jinlong_4_battle_turret_3"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "changed": {
+          "startPosX": {
+            "type": "value",
+            "oldValue": 6,
+            "newValue": 9
+          },
+          "techIds[5]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_laser_2",
+            "newValue": "tech_jinlong_3_battle_debuff_1"
+          },
+          "techIds[6]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_battle_debuff_1",
+            "newValue": "tech_jinlong_3_battle_laser_2"
+          },
+          "techIds[7]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_battle_lightning_2"
+          },
+          "techIds[8]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_battle_turret_3"
+          }
+        }
+      },
+      "fac_team_jinlong_processing": {
+        "oldValue": {
+          "category": "fac_team_jinlong_processing",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Processamento",
+            "CN": "材料加工",
+            "DE": "Verarbeitung",
+            "EN": "Processing",
+            "FR": "Traitement",
+            "ID": "Pemrosesan",
+            "IT": "Lavorazione",
+            "JP": "素材加工",
+            "KR": "재료 가공",
+            "MX": "Procesamiento",
+            "RU": "Обработка",
+            "TC": "材料加工",
+            "TH": "กำลัง​แปรรูป",
+            "VN": "Đang xử lý"
+          },
+          "order": 3,
+          "startPosX": 3,
+          "techIds": [
+            "tech_jinlong_1_dumper_1",
+            "tech_jinlong_1_mix_1",
+            "tech_jinlong_1_filling_mode_1",
+            "tech_jinlong_1_planter_mode_1",
+            "tech_jinlong_1_dismantler_1",
+            "tech_jinlong_2_mix_1_unlock_1",
+            "tech_jinlong_2_furnance_mode_1",
+            "tech_jinlong_2_liquid_cleaner_1",
+            "tech_jinlong_3_liquid_purifier_1",
+            "tech_jinlong_3_mix_2"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "newValue": {
+          "category": "fac_team_jinlong_processing",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Processamento",
+            "CN": "材料加工",
+            "DE": "Verarbeitung",
+            "EN": "Processing",
+            "FR": "Traitement",
+            "ID": "Pemrosesan",
+            "IT": "Lavorazione",
+            "JP": "素材加工",
+            "KR": "재료 가공",
+            "MX": "Procesamiento",
+            "RU": "Обработка",
+            "TC": "材料加工",
+            "TH": "กำลัง​แปรรูป",
+            "VN": "Đang xử lý"
+          },
+          "order": 3,
+          "startPosX": 4,
+          "techIds": [
+            "tech_jinlong_1_dumper_1",
+            "tech_jinlong_1_mix_1",
+            "tech_jinlong_1_filling_mode_1",
+            "tech_jinlong_1_planter_mode_1",
+            "tech_jinlong_1_dismantler_1",
+            "tech_jinlong_2_mix_1_unlock_1",
+            "tech_jinlong_4_transmuter_1",
+            "tech_jinlong_4_shaper_mode_2",
+            "tech_jinlong_2_furnance_mode_1",
+            "tech_jinlong_2_liquid_cleaner_1",
+            "tech_jinlong_4_transmuter_2",
+            "tech_jinlong_4_filling_and_dismantler_mode_2",
+            "tech_jinlong_4_vaporizer_1",
+            "tech_jinlong_3_liquid_purifier_1",
+            "tech_jinlong_3_mix_2",
+            "tech_jinlong_4_gas_reactor_1",
+            "tech_jinlong_4_liquid_purifier_mode_1"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "changed": {
+          "startPosX": {
+            "type": "value",
+            "oldValue": 3,
+            "newValue": 4
+          },
+          "techIds[6]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_furnance_mode_1",
+            "newValue": "tech_jinlong_4_transmuter_1"
+          },
+          "techIds[7]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_2_liquid_cleaner_1",
+            "newValue": "tech_jinlong_4_shaper_mode_2"
+          },
+          "techIds[8]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_liquid_purifier_1",
+            "newValue": "tech_jinlong_2_furnance_mode_1"
+          },
+          "techIds[9]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_mix_2",
+            "newValue": "tech_jinlong_2_liquid_cleaner_1"
+          },
+          "techIds[10]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_transmuter_2"
+          },
+          "techIds[11]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_filling_and_dismantler_mode_2"
+          },
+          "techIds[12]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_vaporizer_1"
+          },
+          "techIds[13]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_liquid_purifier_1"
+          },
+          "techIds[14]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_mix_2"
+          },
+          "techIds[15]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_gas_reactor_1"
+          },
+          "techIds[16]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_liquid_purifier_mode_1"
+          }
+        }
+      },
+      "fac_team_jinlong_logistics": {
+        "oldValue": {
+          "category": "fac_team_jinlong_logistics",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Logística",
+            "CN": "物流运输",
+            "DE": "Logistik",
+            "EN": "Logistics",
+            "FR": "Logistique",
+            "ID": "Logistik",
+            "IT": "Logistica",
+            "JP": "物流輸送",
+            "KR": "물류 운송",
+            "MX": "Logística",
+            "RU": "Логистика",
+            "TC": "物流運輸",
+            "TH": "โลจิสติกส์",
+            "VN": "Vận chuyển"
+          },
+          "order": 2,
+          "startPosX": 1,
+          "techIds": [
+            "tech_jinlong_1_pipe_1",
+            "tech_jinlong_1_conditioner_1",
+            "tech_jinlong_1_liquid_storager_1",
+            "tech_jinlong_1_splitter_connector_converger_1",
+            "tech_jinlong_2_squirter_1",
+            "tech_jinlong_2_udpipe_1",
+            "tech_jinlong_3_udpipe_2"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "newValue": {
+          "category": "fac_team_jinlong_logistics",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Logística",
+            "CN": "物流运输",
+            "DE": "Logistik",
+            "EN": "Logistics",
+            "FR": "Logistique",
+            "ID": "Logistik",
+            "IT": "Logistica",
+            "JP": "物流輸送",
+            "KR": "물류 운송",
+            "MX": "Logística",
+            "RU": "Логистика",
+            "TC": "物流運輸",
+            "TH": "โลจิสติกส์",
+            "VN": "Vận chuyển"
+          },
+          "order": 2,
+          "startPosX": 2,
+          "techIds": [
+            "tech_jinlong_1_pipe_1",
+            "tech_jinlong_1_conditioner_1",
+            "tech_jinlong_1_liquid_storager_1",
+            "tech_jinlong_1_splitter_connector_converger_1",
+            "tech_jinlong_2_squirter_1",
+            "tech_jinlong_2_udpipe_1",
+            "tech_jinlong_4_gas_storager_1",
+            "tech_jinlong_4_conditioner_maxflow",
+            "tech_jinlong_3_udpipe_2"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "changed": {
+          "startPosX": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 2
+          },
+          "techIds[6]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_udpipe_2",
+            "newValue": "tech_jinlong_4_gas_storager_1"
+          },
+          "techIds[7]": {
+            "type": "value",
+            "newValue": "tech_jinlong_4_conditioner_maxflow"
+          },
+          "techIds[8]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_udpipe_2"
+          }
+        }
+      },
+      "fac_team_jinlong_mining": {
+        "oldValue": {
+          "category": "fac_team_jinlong_mining",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Recursos",
+            "CN": "原料开采",
+            "DE": "Ressourcenabbau",
+            "EN": "Resourcing",
+            "FR": "Ressources",
+            "ID": "Cari Sumber Daya",
+            "IT": "Risorse",
+            "JP": "原料採掘",
+            "KR": "원료 채집",
+            "MX": "Abast.",
+            "RU": "Сбор ресурсов",
+            "TC": "原料開採",
+            "TH": "การ​หา​ทรัพยากร",
+            "VN": "Nguồn lực"
+          },
+          "order": 1,
+          "startPosX": 0,
+          "techIds": [
+            "tech_jinlong_1_pump_1",
+            "tech_jinlong_2_miner_4",
+            "tech_jinlong_3_pump_2"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "newValue": {
+          "category": "fac_team_jinlong_mining",
+          "defaultHidden": false,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Recursos",
+            "CN": "原料开采",
+            "DE": "Ressourcenabbau",
+            "EN": "Resourcing",
+            "FR": "Ressources",
+            "ID": "Cari Sumber Daya",
+            "IT": "Risorse",
+            "JP": "原料採掘",
+            "KR": "원료 채집",
+            "MX": "Abast.",
+            "RU": "Сбор ресурсов",
+            "TC": "原料開採",
+            "TH": "การ​หา​ทรัพยากร",
+            "VN": "Nguồn lực"
+          },
+          "order": 1,
+          "startPosX": 0,
+          "techIds": [
+            "tech_jinlong_1_pump_1",
+            "tech_jinlong_2_miner_4",
+            "tech_jinlong_4_gas_pump_1",
+            "tech_jinlong_3_pump_2"
+          ],
+          "unhiddenBgColor": ""
+        },
+        "changed": {
+          "techIds[2]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_pump_2",
+            "newValue": "tech_jinlong_4_gas_pump_1"
+          },
+          "techIds[3]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_pump_2"
+          }
+        }
+      },
+      "fac_team_jinlong_xiranite": {
+        "oldValue": {
+          "category": "fac_team_jinlong_xiranite",
+          "defaultHidden": true,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Indústria de Xiranita",
+            "CN": "息壤工业",
+            "DE": "Xiranit-Industrie",
+            "EN": "Xiranite Industry",
+            "FR": "Transformation de xiranite",
+            "ID": "Industri Xiranite",
+            "IT": "Industria di xiranite",
+            "JP": "息壌工業",
+            "KR": "식양 공업",
+            "MX": "Industria de Xiranita",
+            "RU": "Ксиранитовая промышленность",
+            "TC": "息壤工業",
+            "TH": "อุตสาหกรรม​ซี​เรน​ไนต์",
+            "VN": "Công Nghiệp Xiranite"
+          },
+          "order": 5,
+          "startPosX": 9,
+          "techIds": [
+            "tech_jinlong_1_power_pole_3_diffuser_2",
+            "tech_jinlong_1_xiranite_oven_1",
+            "tech_jinlong_1_log_hongs_bus_1",
+            "tech_jinlong_1_xiranite_oven_amount_1",
+            "tech_jinlong_2_xiranite_oven_amount_2",
+            "tech_jinlong_3_xiranite_enr_formula",
+            "tech_jinlong_3_xiranite_oven_amount_3"
+          ],
+          "unhiddenBgColor": "d8f5e5"
+        },
+        "newValue": {
+          "category": "fac_team_jinlong_xiranite",
+          "defaultHidden": true,
+          "groupId": "tech_group_jinlong",
+          "name": {
+            "BR": "Indústria de Xiranita",
+            "CN": "息壤工业",
+            "DE": "Xiranit-Industrie",
+            "EN": "Xiranite Industry",
+            "FR": "Transformation de xiranite",
+            "ID": "Industri Xiranite",
+            "IT": "Industria di xiranite",
+            "JP": "息壌工業",
+            "KR": "식양 공업",
+            "MX": "Industria de Xiranita",
+            "RU": "Ксиранитовая промышленность",
+            "TC": "息壤工業",
+            "TH": "อุตสาหกรรม​ซี​เรน​ไนต์",
+            "VN": "Công Nghiệp Xiranite"
+          },
+          "order": 5,
+          "startPosX": 11,
+          "techIds": [
+            "tech_jinlong_1_power_pole_3_diffuser_2",
+            "tech_jinlong_1_xiranite_oven_1",
+            "tech_jinlong_1_log_hongs_bus_1",
+            "tech_jinlong_1_xiranite_oven_amount_1",
+            "tech_jinlong_2_xiranite_oven_amount_2",
+            "tech_jinlong_3_xiranite_enr_formula",
+            "tech_jinlong_4_dumper_mode_1",
+            "tech_jinlong_3_xiranite_oven_amount_3"
+          ],
+          "unhiddenBgColor": "d8f5e5"
+        },
+        "changed": {
+          "startPosX": {
+            "type": "value",
+            "oldValue": 9,
+            "newValue": 11
+          },
+          "techIds[6]": {
+            "type": "value",
+            "oldValue": "tech_jinlong_3_xiranite_oven_amount_3",
+            "newValue": "tech_jinlong_4_dumper_mode_1"
+          },
+          "techIds[7]": {
+            "type": "value",
+            "newValue": "tech_jinlong_3_xiranite_oven_amount_3"
+          }
+        }
+      }
+    }
+  }
+}

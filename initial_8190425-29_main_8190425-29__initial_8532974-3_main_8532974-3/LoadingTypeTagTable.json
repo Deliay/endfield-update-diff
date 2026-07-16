@@ -1,0 +1,76 @@
+{
+  "tableName": "LoadingTypeTagTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "2": {
+        "oldValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1",
+            "bg_loading_map01_lv001_1",
+            "bg_loading_map01_lv002_1",
+            "bg_loading_map01_lv003_1",
+            "bg_loading_map01_lv005_1",
+            "bg_loading_map01_lv006_1",
+            "bg_loading_map01_lv007_1",
+            "bg_loading_map02_lv001_1",
+            "bg_loading_map02_lv001_2",
+            "bg_loading_map02_lv001_3",
+            "bg_loading_map02_lv002_1",
+            "bg_loading_map02_lv002_2",
+            "bg_loading_map02_lv003_1",
+            "bg_loading_map02_lv004_1",
+            "bg_loading_map02_lv005_1"
+          ],
+          "typeTag": 2
+        },
+        "newValue": {
+          "bgNameGroup": [
+            "bg_loading_default_1",
+            "bg_loading_map01_lv001_1",
+            "bg_loading_map01_lv002_1",
+            "bg_loading_map01_lv003_1",
+            "bg_loading_map01_lv005_1",
+            "bg_loading_map01_lv006_1",
+            "bg_loading_map01_lv007_1",
+            "bg_loading_map02_lv001_1",
+            "bg_loading_map02_lv001_2",
+            "bg_loading_map02_lv001_3",
+            "bg_loading_map02_lv002_1",
+            "bg_loading_map02_lv002_2",
+            "bg_loading_map02_lv003_1",
+            "bg_loading_map02_lv004_1",
+            "bg_loading_map02_lv005_1",
+            "bg_loading_map02_lv006_1",
+            "bg_loading_map02_lv007_1",
+            "bg_loading_map02_lv008_1"
+          ],
+          "typeTag": 2
+        },
+        "changed": {
+          "bgNameGroup[15]": {
+            "type": "value",
+            "newValue": "bg_loading_map02_lv006_1"
+          },
+          "bgNameGroup[16]": {
+            "type": "value",
+            "newValue": "bg_loading_map02_lv007_1"
+          },
+          "bgNameGroup[17]": {
+            "type": "value",
+            "newValue": "bg_loading_map02_lv008_1"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2300 @@
+{
+  "tableName": "BattlePassTaskTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 76,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "bp_05_task_weekly_6_6": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_condition_weekly_6_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "BR": "Atravesse 1.000 metros usando tirolesas",
+          "CN": "累计搭乘滑索超过1000米",
+          "DE": "Lege 1.000 Meter per Seilbahn zurück.",
+          "EN": "Traverse 1000 meters with ziplines",
+          "FR": "Parcourir 1 000 mètres en tyrolienne",
+          "ID": "Lintasi 1.000 meter dengan luncur gantung",
+          "IT": "Percorri 1000 metri usando le teleferiche.",
+          "JP": "ジップラインを1,000m以上利用する",
+          "KR": "집라인 탑승 거리 누적 1,000미터 이상 초과",
+          "MX": "Recorre 1000 metros con tirolesas",
+          "RU": "Преодолейте 1000 метров с помощью зиплайнов",
+          "TC": "累計搭乘滑索超過1000m",
+          "TH": "เดินทาง​ 1,000 เมตร​โดย​ใช้​ซิป​ไลน์",
+          "VN": "Di chuyển 1.000 mét bằng zipline"
+        },
+        "opType": 2,
+        "sortId": 156,
+        "taskId": "bp_05_task_weekly_6_6"
+      },
+      "bp_05_task_seasoncatchup_1_8": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_8"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "BR": "Recupere manualmente %d pontos de Sanidade (após a atualização da missão)",
+          "CN": "主动恢复%d点理智（自任务更新后）",
+          "DE": "Stelle manuell %d Punkte Verstand wieder her (nach Missionsupdate)",
+          "EN": "Manually recover %d points of Sanity (after mission update)",
+          "FR": "Récupérer %d points de lucidité manuellement (après la mise à jour de la mission)",
+          "ID": "Pulihkan %d poin Sanity secara manual (setelah pembaruan misi)",
+          "IT": "Recupera manualmente %d punto/i Lucidità (dopo l'aggiornamento missione).",
+          "JP": "アイテムで理性を%d回復する（解放後から開始）",
+          "KR": "이성 직접 %d 포인트 회복(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Recupera %d puntos de Cordura manualmente (después de la actualización de misión)",
+          "RU": "Восстановите %d оч. рассудка вручную (после обновления миссии)",
+          "TC": "主動恢復%d點理智（自任務更新後）",
+          "TH": "ฟื้นฟู​ค่า​สติ​ด้วย​ตนเอง​ %d คะแนน​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Hồi phục thủ công %d điểm Tỉnh Táo (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 219,
+        "taskId": "bp_05_task_seasoncatchup_1_8"
+      },
+      "bp_05_task_return_4": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "BR": "Na Dijiang, fabrique itens na Cabine de Manufatura %d vez(es)",
+          "CN": "在帝江号制造舱启动%d次生产",
+          "DE": "Stelle auf der Dijiang %d-mal Gegenstände in der Herstellungskabine her.",
+          "EN": "In Dijiang, manufacture items at the Manufacturing Cabin %d time(s)",
+          "FR": "À bord du Dijiang, fabriquer des objets dans la cabine de fabrication %d fois",
+          "ID": "Di Dijiang, buat item di Kabin Manufaktur sebanyak %d kali",
+          "IT": "Crea oggetti nella cabina di produzione della Dijiang %d volta/e.",
+          "JP": "帝江号の製造室で%d回製造する",
+          "KR": "제강호 제조실에서 생산 %d회 진행",
+          "MX": "En la Dijiang, fabrica objetos en la Cabina de manufactura %d veces",
+          "RU": "Произведите предметы в производственном отсеке «Дицзян» %d р.",
+          "TC": "在帝江號製造艙啟動%d次生產",
+          "TH": "ผลิต​สิ่งของ​ใน​ห้อง​ผลิต​ %d ครั้ง​ใน​ตี้​เจียง",
+          "VN": "Tại Dijiang, chế tạo vật phẩm trong Khoang Sản Xuất %d lần"
+        },
+        "opType": 1,
+        "sortId": 304,
+        "taskId": "bp_05_task_return_4"
+      },
+      "bp_05_task_return_5": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "BR": "Na Dijiang, cultive materiais na Câmara de Crescimento %d vez(es)",
+          "CN": "在帝江号培养舱启动%d次培养",
+          "DE": "Stelle auf der Dijiang %d-mal Wachstumsmaterialien in der Wachstumskammer her.",
+          "EN": "In Dijiang, grow materials at the Growth Chamber %d time(s)",
+          "FR": "À bord du Dijiang, fabriquer des matériaux dans la chambre de culture %d fois",
+          "ID": "Di Dijiang, kembangkan material di Ruang Pertumbuhan sebanyak %d kali",
+          "IT": "Coltiva materiali nella camera di coltivazione della Dijiang %d volta/e.",
+          "JP": "帝江号の培養室で%d回培養する",
+          "KR": "제강호 재배실에서 육성 %d회 진행",
+          "MX": "En la Dijiang, cultiva materiales en la Cámara de crecimiento %d veces",
+          "RU": "Вырастите материалы в инкубационном отсеке «Дицзян» %d р.",
+          "TC": "在帝江號培養艙啟動%d次培養",
+          "TH": "ปลูก​วัสดุ​ใน​ห้อง​เพาะเลี้ยง​ %d ครั้ง​ใน​ตี้​เจียง",
+          "VN": "Tại Dijiang, phát triển nguyên liệu tại Buồng Phát Triển %d lần"
+        },
+        "opType": 1,
+        "sortId": 305,
+        "taskId": "bp_05_task_return_5"
+      },
+      "bp_05_task_return_6": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "jump_payshop_credit",
+        "name": {
+          "BR": "Compre itens na Loja de Créditos %d vez(es)",
+          "CN": "于信用交易所进行%d次购买",
+          "DE": "Kaufe %d-mal Gegenstände im Credit-Laden.",
+          "EN": "Purchase items from the Credit Store %d time(s)",
+          "FR": "Acheter %d fois des objets à la boutique de crédits",
+          "ID": "Beli item dari Toko Kredit sebanyak %d kali",
+          "IT": "Acquista oggetti dal negozio Crediti %d volta/e.",
+          "JP": "FP商店で%d回購入する",
+          "KR": "크레딧 거래소에서 %d회 구매",
+          "MX": "Compra artículos en la Tienda de créditos %d veces",
+          "RU": "Купите предметы в магазине кредитов %d р.",
+          "TC": "於信用交易所進行%d次購買",
+          "TH": "ซื้อ​สินค้า​จาก​ร้าน​เครดิต​ %d ครั้ง",
+          "VN": "Mua vật phẩm từ CH Tín Dụng %d lần"
+        },
+        "opType": 1,
+        "sortId": 306,
+        "taskId": "bp_05_task_return_6"
+      },
+      "bp_05_task_return_7": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_7"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "jump_dungeon_char",
+        "name": {
+          "BR": "Conclua Espaços do Protocolo de progressão de operador ou de arma %d vez(es)",
+          "CN": "累计完成%d次干员和武器养成协议空间",
+          "DE": "Schließe %d-mal Operator- oder Waffenfortschritt-Protokoll-Dimensionen ab.",
+          "EN": "Complete operator or weapon progression Protocol Spaces %d time(s)",
+          "FR": "Terminer la progression des opérateurs ou des armes dans l'espace de Protocole %d fois",
+          "ID": "Selesaikan Dimensi Protokol progresi operator atau senjata sebanyak %d kali",
+          "IT": "Completa gli spazi protocollari di sviluppo operatori o armi %d volta/e.",
+          "JP": "人材育成と武器強化の協約空間を計%d回クリアする",
+          "KR": "오퍼레이터와 무기 육성 프로토콜 공간 누적 %d회 완료",
+          "MX": "Completa los Espacios de protocolo de progresión de operador o de arma %d veces",
+          "RU": "Пройдите протокольные разломы с развитием оперативника или оружия %d р.",
+          "TC": "累計完成%d次幹員和武器養成協議空間",
+          "TH": "ทำ​พื้นที่​โปร​โต​คอล​ความก้าวหน้า​ของ​โอเปอเรเตอร์​หรือ​อาวุธ​ให้​สำเร็จ​ %d ครั้ง",
+          "VN": "Hoàn thành Không Gian Giao Thức thăng cấp cán viên hoặc vũ khí %d lần"
+        },
+        "opType": 1,
+        "sortId": 307,
+        "taskId": "bp_05_task_return_7"
+      },
+      "bp_05_task_return_1": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "",
+        "name": {
+          "BR": "Faça login por %d dia(s)",
+          "CN": "累计登录%d天",
+          "DE": "Logge dich %d Tag(e) lang ein.",
+          "EN": "Log in for %d day(s)",
+          "FR": "Se connecter pendant %d jour(s)",
+          "ID": "Login selama %d hari",
+          "IT": "Accedi per %d giorno/i.",
+          "JP": "%d日間ログインする",
+          "KR": "누적 %d일 로그인",
+          "MX": "Inicia sesión durante %d día(s)",
+          "RU": "Входите в игру %d д.",
+          "TC": "累計登入%d天",
+          "TH": "เข้าสู่ระบบ​เป็นเวลา​ %d วัน",
+          "VN": "Đăng nhập trong %d ngày"
+        },
+        "opType": 1,
+        "sortId": 301,
+        "taskId": "bp_05_task_return_1"
+      },
+      "bp_05_task_weekly_5_6": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_05_condition_weekly_5_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_5",
+        "jumpId": "jump_kitestation_wuling",
+        "name": {
+          "BR": "Em Wuling, conclua o monitoramento ambiental %d vez(es)",
+          "CN": "于武陵地区的环境监测终端累计完成%d次环境监测委托",
+          "DE": "Schließe in Wuling %d-mal die Umwelt-Überwachung ab.",
+          "EN": "In Wuling, complete environment monitoring %d time(s)",
+          "FR": "À Wuling, terminer %d surveillance(s) de l'environnement",
+          "ID": "Di Wuling, selesaikan pemantauan lingkungan sebanyak %d kali",
+          "IT": "Completa il monitoraggio ambientale a Wuling %d volta/e.",
+          "JP": "武陵の環境観測端末で観測依頼を%d回完了する",
+          "KR": "무릉 지역의 환경 관측 단말기에서 환경 관측 의뢰 누적 %d회 완료",
+          "MX": "En Wuling, completa el Monitoreo ambiental %d veces",
+          "RU": "Выполните мониторинг окружающей среды в Улине %d р.",
+          "TC": "於武陵地區的環境監測終端累計完成%d次環境監測委託",
+          "TH": "ตรวจวัด​สิ่งแวดล้อม​ใน​อู่​หลิง​ให้​สำเร็จ​ %d ครั้ง",
+          "VN": "Tại Võ Lăng, hoàn thành quan trắc môi trường %d lần"
+        },
+        "opType": 1,
+        "sortId": 146,
+        "taskId": "bp_05_task_weekly_5_6"
+      },
+      "bp_05_task_weekly_5_7": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_condition_weekly_4_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_5",
+        "jumpId": "jump_equip_enhance",
+        "name": {
+          "BR": "Faça aprimoramento de equipamentos %d vez(es)",
+          "CN": "累计进行%d次装备精锻",
+          "DE": "Führe %d-mal Ausrüstungsveredelung durch.",
+          "EN": "Perform gear artificing %d time(s)",
+          "FR": "Procéder à %d renforcement(s) d'équipement",
+          "ID": "Lakukan penyempurnaan gear sebanyak %d kali",
+          "IT": "Cimentati nell'artificio di equipaggiamenti %d volta/e.",
+          "JP": "装備の精密加工を%d回行う",
+          "KR": "장비 정밀 단조 누적 %d회 진행",
+          "MX": "Realiza elaboración de equipamiento %d veces",
+          "RU": "Выполните доработку снаряжения %d р.",
+          "TC": "累計進行%d次裝備精鍛",
+          "TH": "อาร์​ติ​ไฟ​ซ์​อุปกรณ์​ %d ครั้ง",
+          "VN": "Thực hiện chế tác trang bị %d lần"
+        },
+        "opType": 1,
+        "sortId": 147,
+        "taskId": "bp_05_task_weekly_5_7"
+      },
+      "bp_05_task_activity_3_3": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_3_3_1",
+          "bp_05_condition_task_activity_3_3_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_activity_3",
+        "jumpId": "jump_center_activity_high_difficulty_v1d4",
+        "name": {
+          "BR": "Em [Monumento Umbral], conclua \"Rei do Penhasco\" e \"Visitantes de Qingbo\" no Modo Normal",
+          "CN": "在「影拓丰碑」中，通关普通模式“山犼争王”和\"清波访客\"",
+          "DE": "Schließe in [Schattenmonument] „König der Klippe“ und „Besucher von Qingbo“ im Normal-Modus ab.",
+          "EN": "In [Umbral Monument], complete \"King of the Crag\" and \"Visitors of Qingbo\" in Normal Mode",
+          "FR": "Dans [Monument de l'ombre], terminer « Roi du rocher » et « Visiteurs de Qingbo » en mode Normal",
+          "ID": "Di [Monumen Umbra], selesaikan “Raja Tebing” dan “Pengunjung Qingbo” dalam Mode Normal",
+          "IT": "Completa \"Re della rupe\" e \"Visitatori di Qingbo\" in [Monumento d'ombra] in modalità Normale",
+          "JP": "「映像の記念碑」で「決勝！山吼王」と「清波来たれり」をノーマルモードでクリアする",
+          "KR": "[그림자 이정표]에서 '하울러 전쟁'과 '청파의 방문객' 일반 모드를 완료",
+          "MX": "En [Monumento del Umbral], completa “Rey del peñasco” y “Visitantes de Qingbo” en Modo Normal",
+          "RU": "Пройдите «Сумрачный монумент: Король скал» и «Сумрачный монумент: Гости Циньбо» в обычном режиме",
+          "TC": "在「影拓豐碑」中，通關普通模式「山犼爭王」和「清波訪客」",
+          "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ผ่าน​ด่าน​ \"ราชา​แห่ง​ผา​หิน​\" และ​ \"ผู้มาเยือน​แห่ง​ชิง​ป๋อ​\" ทุก​ด่าน​ใน​โหม​ด​ทั่วไป",
+          "VN": "Trong [Đài Bóng Tối], hoàn thành \"Chúa Tể Vách Đá\" và [Lữ Khách Thanh Ba] ở Chế Độ Thường"
+        },
+        "opType": 1,
+        "sortId": 229,
+        "taskId": "bp_05_task_activity_3_3"
+      },
+      "bp_05_task_activity_3_2": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_3_2_1",
+          "bp_05_condition_task_activity_3_2_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_activity_3",
+        "jumpId": "jump_center_activity_high_difficulty_v1d4",
+        "name": {
+          "BR": "Em [Monumento Umbral], conclua \"Névoa Ardente Sísmica\" e \"Mutiladora e Amigos\" no Modo Normal",
+          "CN": "在「影拓丰碑」中，通关普通模式“撼山雾火”和\"兽群把戏\"",
+          "DE": "Schließe in [Schattenmonument] „Welterschütterndes Nebelfeuer“ und „Fetzbestie und Freunde“ im Normal-Modus ab.",
+          "EN": "In [Umbral Monument], complete \"Earthshaking Hazefyre\" and \"Mangler and Friends\" in Normal Mode",
+          "FR": "Dans [Monument de l'ombre], terminer « Ignibrume sismique » et « Ours à dents de sabre et compagnie » en mode Normal",
+          "ID": "Di [Monumen Umbra], selesaikan “Hazefyre Pengguncang Bumi” dan “Mangler dan Teman-Temannya” dalam Mode Normal",
+          "IT": "Completa \"Brumafiamma scuotiterra\" e \"Orso e amici\" in [Monumento d'ombra] in modalità Normale",
+          "JP": "「映像の記念碑」で「山震わす霧火」と「獣群戯画」をノーマルモードでクリアする",
+          "KR": "[그림자 이정표]에서 '산을 흔드는 안갯불'과 '비스트 무리의 유희' 일반 모드를 완료",
+          "MX": "En [Monumento del Umbral], completa “Bruma ardiente sacudetierras” y “La mutiladora y sus amigos” en Modo Normal",
+          "RU": "Пройдите «Сумрачный монумент: Сотрясающее тенепламя» и «Сумрачный монумент: Саблезуб и друзья» в обычном режиме",
+          "TC": "在「影拓豐碑」中，通關普通模式「撼山霧火」和「獸群把戲」",
+          "TH": "ใน​ [อนุสาวรีย์​แห่ง​เงามืด​] ทำ​ภารกิจ​ \"เฮ​ซ​ไฟร์​สะเทือน​พิภพ​\" และ​ \"แมง​เกลอ​ร์​และ​ผอง​เพื่อน​\" ให้​สำเร็จ​ใน​โหม​ด​ทั่วไป",
+          "VN": "Trong [Đài Bóng Tối], hoàn thành \"Hỏa Sương Chấn Địa\" và \"Cá Mú Và Hội Bạn Thú\" ở Chế Độ Thường"
+        },
+        "opType": 1,
+        "sortId": 228,
+        "taskId": "bp_05_task_activity_3_2"
+      },
+      "bp_05_task_activity_2_3": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_2_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_takestwo_1",
+        "name": {
+          "BR": "Em [FÚRIA TÉRMICA! MEGA-ARENA!], conclua %d estágio(s) no Modo Normal",
+          "CN": "在「炽燃！竞技大会！」中，通关任意%d个关卡的普通模式",
+          "DE": "Schließe %d Phase(n) im Normal-Modus in der [HITZEWUT! MEGA-ARENA!] ab.",
+          "EN": "In [HEAT RAGE! MEGA ARENA!], complete %d stage(s) in Normal Mode",
+          "FR": "Dans [COMBAT DOUBLE ! MÉGA ARÈNE !], terminer %d niveau(x) en mode Normal",
+          "ID": "Di [AMARAH MEMBARA! MEGAARENA!], selesaikan %d stage dalam Mode Normal",
+          "IT": "Completa %d fase/i in modalità Normale in [FURIA INCANDESCENTE! MEGA ARENA!]",
+          "JP": "「燃えよ！アリーナ！」でノーマルモードのステージを%d個クリアする",
+          "KR": "[타올라라! 경기 대회!]에서 임의의 스테이지 %d개를 일반 모드로 완료",
+          "MX": "En [¡FURIA ARDIENTE! ¡MEGA ARENA!], completa %d escenario(s) en Modo Normal",
+          "RU": "Пройдите стадии события «ЖАРКАЯ ЯРОСТЬ! МЕГА-АРЕНА!» в обычном режиме %d р.",
+          "TC": "在「熾燃！競技大會！」中，通關任意%d個關卡的普通模式",
+          "TH": "ใน​ [เพลิง​พิโรธ​! เมก้า​อารี​น่า​!] ผ่าน​ %d ด่าน​ใน​โหม​ด​ทั่วไป",
+          "VN": "Trong [NHIỆT HUYẾT SỤC SÔI! SIÊU ĐẤU TRƯỜNG!], hoàn thành %d màn ở Chế Độ Thường"
+        },
+        "opType": 1,
+        "sortId": 226,
+        "taskId": "bp_05_task_activity_2_3"
+      },
+      "bp_05_task_activity_2_2": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_2_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_takestwo_1",
+        "name": {
+          "BR": "Em [FÚRIA TÉRMICA! MEGA-ARENA!], conclua %d estágio(s) no Modo Normal",
+          "CN": "在「炽燃！竞技大会！」中，通关任意%d个关卡的普通模式",
+          "DE": "Schließe %d Phase(n) im Normal-Modus in der [HITZEWUT! MEGA-ARENA!] ab.",
+          "EN": "In [HEAT RAGE! MEGA ARENA!], complete %d stage(s) in Normal Mode",
+          "FR": "Dans [COMBAT DOUBLE ! MÉGA ARÈNE !], terminer %d niveau(x) en mode Normal",
+          "ID": "Di [AMARAH MEMBARA! MEGAARENA!], selesaikan %d stage dalam Mode Normal",
+          "IT": "Completa %d fase/i in modalità Normale in [FURIA INCANDESCENTE! MEGA ARENA!]",
+          "JP": "「燃えよ！アリーナ！」でノーマルモードのステージを%d個クリアする",
+          "KR": "[타올라라! 경기 대회!]에서 임의의 스테이지 %d개를 일반 모드로 완료",
+          "MX": "En [¡FURIA ARDIENTE! ¡MEGA ARENA!], completa %d escenario(s) en Modo Normal",
+          "RU": "Пройдите стадии события «ЖАРКАЯ ЯРОСТЬ! МЕГА-АРЕНА!» в обычном режиме %d р.",
+          "TC": "在「熾燃！競技大會！」中，通關任意%d個關卡的普通模式",
+          "TH": "ใน​ [เพลิง​พิโรธ​! เมก้า​อารี​น่า​!] ผ่าน​ %d ด่าน​ใน​โหม​ด​ทั่วไป",
+          "VN": "Trong [NHIỆT HUYẾT SỤC SÔI! SIÊU ĐẤU TRƯỜNG!], hoàn thành %d màn ở Chế Độ Thường"
+        },
+        "opType": 1,
+        "sortId": 225,
+        "taskId": "bp_05_task_activity_2_2"
+      },
+      "bp_05_task_seasoncatchup_1_6": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "jump_dungeon_enemy_spawner",
+        "name": {
+          "BR": "Conclua o Aluvião de Energia %d vez(es) (após a atualização da missão)",
+          "CN": "清理%d次能量淤积点（自任务更新后）",
+          "DE": "Säubere %d-mal ein Energie-Alluvium (nach Missionsupdate).",
+          "EN": "Clean Energy Alluvium %d time(s) (after mission update)",
+          "FR": "Terminer %d alluvion(s) d'énergie (après la mise à jour de la mission)",
+          "ID": "Singkirkan Aluvium Energi sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Risana un sedimento energetico %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "超域活性点を%d回処理する（解放後から開始）",
+          "KR": "에너지 응집점 %d회 제거(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Limpia el Aluvión energético %d veces (después de la actualización de misión)",
+          "RU": "Очистите аллювий энергии %d р. (после обновления миссии)",
+          "TC": "清理%d次能量淤積點（自任務更新後）",
+          "TH": "เคลียร์​อัล​ลู​เวีย​ม​พลังงาน​ %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Làm sạch Năng Lượng Bồi Tích %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 217,
+        "taskId": "bp_05_task_seasoncatchup_1_6"
+      },
+      "bp_05_task_return_3": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "jump_payshop_weapon",
+        "name": {
+          "BR": "Realize uma Distribuição de Arsenal %d vez(es)",
+          "CN": "累计进行%d次武库申领",
+          "DE": "Führe %d-mal Waffenausgabe durch.",
+          "EN": "Perform Arsenal Issue %d time(s)",
+          "FR": "Procéder à %d tirage(s) de l'arsenal",
+          "ID": "Lakukan Edisi Senjata sebanyak %d kali",
+          "IT": "Cimentati nella Distribuzione arsenale %d volta/e.",
+          "JP": "武庫申請を%d回完了する",
+          "KR": "무기고 신청 누적 %d회 진행",
+          "MX": "Ejecuta Solicitud de Arsenal %d veces",
+          "RU": "Выполните поставку арсенала %d р.",
+          "TC": "累計進行%d次武庫申領",
+          "TH": "ใช้​ตั๋ว​คลังแสง​ %d ครั้ง",
+          "VN": "Thực hiện Rút Kho Vũ Khí %d lần"
+        },
+        "opType": 1,
+        "sortId": 303,
+        "taskId": "bp_05_task_return_3"
+      },
+      "bp_05_task_return_2": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "jump_gacha",
+        "name": {
+          "BR": "Faça caça de talentos %d vez(es)",
+          "CN": "累计进行%d次寻访",
+          "DE": "Führe %d Rekrutierung(en) durch.",
+          "EN": "Perform headhunting %d time(s)",
+          "FR": "Lancer %d recrutement(s)",
+          "ID": "Lakukan headhunt sebanyak %d kali",
+          "IT": "Effettua la caccia ai talenti %d volta/e.",
+          "JP": "スカウトを%d回完了する",
+          "KR": "헤드헌팅 누적 %d회 진행",
+          "MX": "Realiza caza de reclutas %d veces",
+          "RU": "Выполните наем %d р.",
+          "TC": "累計尋訪%d次",
+          "TH": "ทำการ​สรรหา​ %d ครั้ง",
+          "VN": "Thực hiện chiêu mộ %d lần"
+        },
+        "opType": 1,
+        "sortId": 302,
+        "taskId": "bp_05_task_return_2"
+      },
+      "bp_05_task_return_8": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_task_return_8"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_return",
+        "jumpId": "",
+        "name": {
+          "BR": "Consuma um total de %d de Sanidade",
+          "CN": "累计消耗%d点理智",
+          "DE": "Verbrauche insgesamt %d Verstand.",
+          "EN": "Consume a total of %d Sanity",
+          "FR": "Consommer un total de %d points de lucidité",
+          "ID": "Pakai total %d Sanity",
+          "IT": "Consuma un totale di %d punto/i Lucidità.",
+          "JP": "理性を%d消費する",
+          "KR": "이성 누적 %d 포인트 소모",
+          "MX": "Consume un total de %d de Cordura",
+          "RU": "Потратьте %d оч. рассудка",
+          "TC": "累計消耗%d點理智",
+          "TH": "ใช้​ค่า​สติ​รวมทั้งหมด​ %d",
+          "VN": "Tiêu hao tổng cộng %d Tỉnh Táo"
+        },
+        "opType": 1,
+        "sortId": 308,
+        "taskId": "bp_05_task_return_8"
+      },
+      "bp_05_task_activity_3_1": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_3_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_3",
+        "jumpId": "jump_center_activity_high_difficulty_v1d4",
+        "name": {
+          "BR": "Participe de [Monumento Umbral] %d vez(es) (após a atualização da missão)",
+          "CN": "参与%d次「影拓丰碑」（自任务更新后）",
+          "DE": "Nimm %d-mal an [Schattenmonument] teil (nach Missionsupdate).",
+          "EN": "Take part in [Umbral Monument] %d time(s) (after mission update)",
+          "FR": "Participer à [Monument de l'ombre] %d fois (après la mise à jour de la mission)",
+          "ID": "Ikut serta dalam [Monumen Umbra] sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Partecipa a \"Monumento d'ombra\" %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "「映像の記念碑」に%d回参加する（解放後から開始）",
+          "KR": "[그림자 이정표] %d회 참여(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Participa en [Monumento del Umbral] %d veces (después de la actualización de misión)",
+          "RU": "Участвуйте в «Сумрачном монументе» %d р. (после обновления миссии)",
+          "TC": "參與%d次「影拓豐碑」（自任務更新後）",
+          "TH": "เข้าร่วม​ [อนุสาวรีย์​แห่ง​เงามืด​] %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tham gia [Đài Bóng Tối] %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 227,
+        "taskId": "bp_05_task_activity_3_1"
+      },
+      "bp_05_task_seasoncatchup_1_5": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "BR": "Em Wuling, alcance o rendimento de Peças de Pirrolita de %d/min",
+          "CN": "武陵的灼铜零件产率达到%d/分钟",
+          "DE": "Erreiche in Wuling einen Pyrrolit-Teil-Ertrag von %d/Min.",
+          "EN": "In Wuling, reach Pyrrolite Part yield of %d/min",
+          "FR": "À Wuling, atteindre un rendement de pièces en pyrrolite de %d/min",
+          "ID": "Di Wuling, capai hasil Bagian Pyrrolite sebesar %d/mnt",
+          "IT": "A Wuling, raggiungi una resa produttiva di parti di pirrolite pari a %d/min.",
+          "JP": "武陵の焔銅部品の生産効率を%d/分以上にする",
+          "KR": "무릉의 작동 부품 생산율 분당 %d개 달성",
+          "MX": "En Wuling, alcanza un rendimiento de Pieza de Pirrolita de %d/min",
+          "RU": "Повысьте производительность пирролитовых деталей в Улине до %d/мин.",
+          "TC": "武陵的灼銅零件產率達到%d/分鐘",
+          "TH": "เพิ่มผล​ผลิต​ชิ้นส่วน​ไพร์​โร​ไลท์​ถึง​ %d/​นาที​ใน​อู่​หลิง",
+          "VN": "Tại Võ Lăng, đạt năng suất Mảnh Nham Đồng %d/phút"
+        },
+        "opType": 1,
+        "sortId": 216,
+        "taskId": "bp_05_task_seasoncatchup_1_5"
+      },
+      "bp_05_task_weekly_2_7": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_05_condition_weekly_2_7"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "BR": "Na Zona de Exclusão do Norte de Wuling, coloque %d Relé(s) de Xiranita",
+          "CN": "于北部禁区累计放置%d个息壤中继器",
+          "DE": "Platziere in der Sperrzone Nord-Wuling %d Xiranit-Verteiler.",
+          "EN": "In North Wuling Exclusion Zone, place %d Xiranite Relay(s)",
+          "FR": "Dans la zone d'exclusion du nord de Wuling, placer %d relais de xiranite",
+          "ID": "Di Zona Eksklusi Wuling Utara, pasang %d Relai Xiranite",
+          "IT": "Posiziona %d ripetitore/i di xiranite nell'Area interdetta di Wuling Nord",
+          "JP": "北部封鎖区域で息壌中継タワーを%d個設置する",
+          "KR": "북쪽 금지 구역에서 식양 중계기 누적 %d대 배치",
+          "MX": "En la Zona de exclusión norte de Wuling, coloca %d Relé(s) de Xiranita",
+          "RU": "Разместите ксиранитовые вышки в зоне отчуждения северного Улина: %d",
+          "TC": "於北部禁區累計擺放%d個息壤中繼器",
+          "TH": "วาง​รี​เลย์​ซี​เรน​ไนต์​จำนวน​ %d ชิ้น​ใน​เขต​พิเศษ​อู่​หลิง​เหนือ",
+          "VN": "Tại Khu Cấm Bắc Võ Lăng, đặt %d Tiếp Điện Xiranite"
+        },
+        "opType": 1,
+        "sortId": 117,
+        "taskId": "bp_05_task_weekly_2_7"
+      },
+      "bp_05_task_weekly_2_6": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_05_condition_weekly_2_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_2",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "BR": "Na Dijiang, fabrique itens na Cabine de Manufatura %d vez(es) (após a atualização da missão)",
+          "CN": "在帝江号制造舱启动%d次生产（自任务更新后）",
+          "DE": "Stelle auf der Dijiang %d-mal Gegenstände in der Herstellungskabine her (nach Missionsupdate).",
+          "EN": "In Dijiang, manufacture items at the Manufacturing Cabin %d time(s) (after mission update)",
+          "FR": "À bord du Dijiang, fabriquer des objets dans la cabine de fabrication %d fois (après la mise à jour de la mission)",
+          "ID": "Di Dijiang, buat item di Kabin Manufaktur sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Crea oggetti nella cabina di produzione della Dijiang %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "帝江号の製造室で%d回製造する（解放後から開始）",
+          "KR": "제강호 제조실에서 생산 %d회 진행(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "En la Dijiang, fabrica objetos en la Cabina de manufactura %d veces (después de la actualización de misión)",
+          "RU": "Произведите предметы в производственном отсеке «Дицзян» %d р. (после обновления миссии)",
+          "TC": "在帝江號製造艙啟動%d次生產（自任務更新後）",
+          "TH": "ผลิต​สิ่งของ​ใน​ห้อง​ผลิต​ %d ครั้ง​ใน​ตี้​เจียง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tại Dijiang, chế tạo vật phẩm trong Khoang Sản Xuất %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 116,
+        "taskId": "bp_05_task_weekly_2_6"
+      },
+      "bp_05_task_seasoncatchup_1_9": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_9"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "BR": "Gaste %d Pontos de Sanidade (após a atualização da missão)",
+          "CN": "累计消耗%d点理智（自任务更新后）",
+          "DE": "Verbrauche %d Verstandspunkte (nach Missionsupdate).",
+          "EN": "Spend %d Sanity Points (after mission update)",
+          "FR": "Dépenser %d points de lucidité (après la mise à jour de la mission)",
+          "ID": "Pakai %d Poin Sanity (setelah pembaruan misi)",
+          "IT": "Spendi %d punti Lucidità (dopo l'aggiornamento missione).",
+          "JP": "理性を%d消費する（解放後から開始）",
+          "KR": "이성 누적 %d 포인트 소모(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Gasta %d Puntos de Cordura (después de la actualización de misión)",
+          "RU": "Потратьте %d оч. рассудка (после обновления миссии)",
+          "TC": "累計消耗%d點理智（自任務更新後）",
+          "TH": "ใช้​ค่า​สติ​ %d คะแนน​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tiêu hao %d Điểm Tỉnh Táo (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 220,
+        "taskId": "bp_05_task_seasoncatchup_1_9"
+      },
+      "bp_05_task_weekly_5_1": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_weekly_5_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_4",
+        "jumpId": "jump_shopstar",
+        "name": {
+          "BR": "Na Troca de Talosita, compre %d item(ns)",
+          "CN": "在塔晶集换购买任意%d个商品",
+          "DE": "Kaufe an der Talosit-Börse %d Gegenstand/Gegenstände.",
+          "EN": "At the Talosite Exchange, buy %d item(s)",
+          "FR": "À l'échange de talosite, acheter %d objet(s)",
+          "ID": "Di Bursa Talosite, beli %d item",
+          "IT": "Acquista %d elemento/i presso lo Scambio talosite",
+          "JP": "タロサイト交換でアイテムを%d個交換する",
+          "KR": "유령수정 교환에서 임의의 상품 %d개 구매",
+          "MX": "En el Intercambio de Talosita, compra %d objeto(s)",
+          "RU": "Купите предметы (%d) в обменнике талозита",
+          "TC": "在塔晶集換購買任意%d個商品",
+          "TH": "ซื้อ​ไอ​เทม​ %d ชิ้น​ที่​จุด​แลก​ทา​โล​ไซต์",
+          "VN": "Tại Trao Đổi Talosite, mua %d vật phẩm"
+        },
+        "opType": 1,
+        "sortId": 141,
+        "taskId": "bp_05_task_weekly_5_1"
+      },
+      "bp_05_task_weekly_3_6": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_weekly_3_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "BR": "Gaste %d Pontos de Sanidade (após a atualização da missão)",
+          "CN": "累计消耗%d点理智（自任务更新后）",
+          "DE": "Verbrauche %d Verstandspunkte (nach Missionsupdate).",
+          "EN": "Spend %d Sanity Points (after mission update)",
+          "FR": "Dépenser %d points de lucidité (après la mise à jour de la mission)",
+          "ID": "Pakai %d Poin Sanity (setelah pembaruan misi)",
+          "IT": "Spendi %d punti Lucidità (dopo l'aggiornamento missione).",
+          "JP": "理性を%d消費する（解放後から開始）",
+          "KR": "이성 누적 %d 포인트 소모(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Gasta %d Puntos de Cordura (después de la actualización de misión)",
+          "RU": "Потратьте %d оч. рассудка (после обновления миссии)",
+          "TC": "累計消耗%d點理智（自任務更新後）",
+          "TH": "ใช้​ค่า​สติ​ %d คะแนน​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tiêu hao %d Điểm Tỉnh Táo (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 126,
+        "taskId": "bp_05_task_weekly_3_6"
+      },
+      "bp_05_task_weekly_6_3": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_05_condition_weekly_6_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "BR": "Acione <#ba.physicalstatus>Status Físicos</>/<#ba.spellburst>Explosões de Artes</>/<#ba.spellstatus>Reações de Artes</> %d vez(es)",
+          "CN": "累计触发%d次<#ba.physicalstatus>物理异常</>/<#ba.spellburst>法术爆发</>/<#ba.spellstatus>法术异常</>效果",
+          "DE": "Löse %d-mal <#ba.physicalstatus>Physische Zustände</>/<#ba.spellburst>Technikexplosionen</>/<#ba.spellstatus>Technikreaktionen</> aus.",
+          "EN": "Trigger <#ba.physicalstatus>Physical Statuses</> / <#ba.spellburst>Arts Bursts</> / <#ba.spellstatus>Arts Reactions</> %d time(s)",
+          "FR": "Appliquer %d fois un <#ba.physicalstatus>statut physique</> / une <#ba.spellburst>explosion des Arts</> / une <#ba.spellstatus>réaction aux Arts</> ",
+          "ID": "Aktifkan <#ba.physicalstatus>Status Fisik</>/<#ba.spellburst>Arts Burst</>/<#ba.spellstatus>Arts Reaction</> sebanyak %d kali",
+          "IT": "Attiva <#ba.physicalstatus>stati fisici</> / <#ba.spellburst>Esplosioni delle Arti</> / <#ba.spellstatus>Reazioni delle Arti</> %d volta/e.",
+          "JP": "<#ba.physicalstatus>物理異常</>/<#ba.spellburst>アーツ爆発</>/<#ba.spellstatus>アーツ異常</>効果を計%d回発動させる",
+          "KR": "<#ba.physicalstatus>물리 이상</>/<#ba.spellburst>아츠 폭발</>/<#ba.spellstatus>아츠 이상</> 효과 누적 %d회 발동",
+          "MX": "Activa <#ba.physicalstatus>Estados físicos</> / <#ba.spellburst>Ráfagas de artes</> / <#ba.spellstatus>Reacciones a artes</> %d veces",
+          "RU": "Активируйте <#ba.physicalstatus>физические состояния</>, <#ba.spellburst>взрывы искусств</> или <#ba.spellstatus>реакции искусств</> %d р.",
+          "TC": "累計觸發%d次<#ba.physicalstatus>物理異常</>/<#ba.spellburst>法術爆發</>/<#ba.spellstatus>法術異常</>效果",
+          "TH": "ทำให้เกิด​<#ba.physicalstatus>​สถานะ​กายภาพ​</> / <#ba.spellburst>​ระเบิด​พลัง​เวท​</> / <#ba.spellstatus>​ปฏิกิริยา​เวท​</> %d ครั้ง",
+          "VN": "Kích hoạt <#ba.physicalstatus>Trạng Thái Vật Lý</>/<#ba.spellburst>Bùng Nổ Thuật Pháp</>/<#ba.spellstatus>Phản Ứng Thuật Pháp</> %d lần"
+        },
+        "opType": 1,
+        "sortId": 153,
+        "taskId": "bp_05_task_weekly_6_3"
+      },
+      "bp_05_task_weekly_6_2": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_03_condition_weekly_6_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_6",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "BR": "Receba presentes de operadores %d vez(es)",
+          "CN": "收取%d次干员礼物",
+          "DE": "Erhalte %d-mal Geschenke von Operatoren.",
+          "EN": "Receive gifts from operators %d time(s)",
+          "FR": "Recevoir des cadeaux d'opérateurs %d fois",
+          "ID": "Terima hadiah dari operator sebanyak %d kali",
+          "IT": "Ricevi regali dagli operatori %d volta/e.",
+          "JP": "オペレーターからプレゼントを%d回受け取る",
+          "KR": "오퍼레이터의 선물 %d회 수령",
+          "MX": "Recibe obsequios de operadores %d veces",
+          "RU": "Получите подарки от оперативников %d р.",
+          "TC": "收下%d次幹員禮物",
+          "TH": "รับ​ของขวัญ​จาก​โอเปอเรเตอร์​ %d ครั้ง",
+          "VN": "Nhận quà từ cán viên %d lần"
+        },
+        "opType": 1,
+        "sortId": 152,
+        "taskId": "bp_05_task_weekly_6_2"
+      },
+      "bp_05_task_weekly_1_4": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_1",
+        "jumpId": "jump_dungeon_char",
+        "name": {
+          "BR": "Conclua Espaços do Protocolo de progressão de operador ou de arma %d vez(es)",
+          "CN": "累计完成%d次干员和武器养成协议空间",
+          "DE": "Schließe %d-mal Operator- oder Waffenfortschritt-Protokoll-Dimensionen ab.",
+          "EN": "Complete operator or weapon progression Protocol Spaces %d time(s)",
+          "FR": "Terminer la progression des opérateurs ou des armes dans l'espace de Protocole %d fois",
+          "ID": "Selesaikan Dimensi Protokol progresi operator atau senjata sebanyak %d kali",
+          "IT": "Completa gli spazi protocollari di sviluppo operatori o armi %d volta/e.",
+          "JP": "人材育成と武器強化の協約空間を計%d回クリアする",
+          "KR": "오퍼레이터와 무기 육성 프로토콜 공간 누적 %d회 완료",
+          "MX": "Completa los Espacios de protocolo de progresión de operador o de arma %d veces",
+          "RU": "Пройдите протокольные разломы с развитием оперативника или оружия %d р.",
+          "TC": "累計完成%d次幹員和武器養成協議空間",
+          "TH": "ทำ​พื้นที่​โปร​โต​คอล​ความก้าวหน้า​ของ​โอเปอเรเตอร์​หรือ​อาวุธ​ให้​สำเร็จ​ %d ครั้ง",
+          "VN": "Hoàn thành Không Gian Giao Thức thăng cấp cán viên hoặc vũ khí %d lần"
+        },
+        "opType": 1,
+        "sortId": 104,
+        "taskId": "bp_05_task_weekly_1_4"
+      },
+      "bp_05_task_weekly_1_5": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_05_condition_weekly_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "BR": "Aplique <#ba.naturalinflict>Inflição da Natureza</> %d vez(es)",
+          "CN": "累计触发%d次<#ba.naturalinflict>自然附着</>",
+          "DE": "Belege einen Gegner %d-mal mit <#ba.naturalinflict>Natur</>.",
+          "EN": "Apply <#ba.naturalinflict>Nature Infliction</> %d time(s)",
+          "FR": "Appliquer %d fois une <#ba.naturalinflict>altération naturelle</>",
+          "ID": "Akibatkan <#ba.naturalinflict>Nature Infliction</> sebanyak %d kali",
+          "IT": "Applica <#ba.naturalinflict>Afflizione da natura</> %d volta/e.",
+          "JP": "<#ba.naturalinflict>自然付着</>を%d回発動させる",
+          "KR": "<#ba.naturalinflict>자연 부착</> 누적 %d회 발동",
+          "MX": "Aplica <#ba.naturalinflict>Imposición de naturaleza</> %d veces",
+          "RU": "Наложите <#ba.naturalinflict>поражение природой</> %d р.",
+          "TC": "累計觸發%d次<#ba.naturalinflict>自然附著</>",
+          "TH": "สร้าง​ <#ba.naturalinflict>​บาดแผล​จาก​ธรรมชาติ​</> %d ครั้ง",
+          "VN": "Áp dụng <#ba.naturalinflict>Nhiễm Tự Nhiên</> %d lần"
+        },
+        "opType": 1,
+        "sortId": 105,
+        "taskId": "bp_05_task_weekly_1_5"
+      },
+      "bp_05_task_season_1_6": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "BR": "Em Wuling, interaja com %d Registro(s) de Dados do Protocolo",
+          "CN": "于武陵累计收集%d个协议采录桩",
+          "DE": "Interagiere in Wuling mit %d Protokoll-Datenlogger(n).",
+          "EN": "In Wuling, interact with %d Protocol Datalogger(s)",
+          "FR": "À Wuling, interagir avec %d enregistreur(s) de données du Protocole",
+          "ID": "Di Wuling, berinteraksilah dengan %d Pencatat Datalog Protokol",
+          "IT": "Interagisci con %d registratore/i dati protocollare/i a Wuling",
+          "JP": "武陵で協約測定装置を%d個起動する",
+          "KR": "무릉에서 프로토콜 데이터 수집기 누적 %d대 수집",
+          "MX": "En Wuling, interactúa con %d Registrador(es) de datos de protocolo",
+          "RU": "Взаимодействуйте с протокольными регистраторами (%d) в Улине",
+          "TC": "於武陵累計收集%d個協議採錄樁",
+          "TH": "โต้ตอบ​กับ​เครื่อง​เก็บข้อมูล​โปร​โต​คอล​ %d เครื่องใน​อู่​หลิง",
+          "VN": "Tương tác với %d Thiết Bị Ghi Dữ Liệu Giao Thức tại Võ Lăng"
+        },
+        "opType": 1,
+        "sortId": 206,
+        "taskId": "bp_05_task_season_1_6"
+      },
+      "bp_05_task_weekly_6_4": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_05_condition_weekly_6_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "BR": "Adquira %d unidade(s) de Peças de Pirrolita",
+          "CN": "累计拥有%d个灼铜零件",
+          "DE": "Erhalte %d Einheit(en) eines Pyrrolit-Teils.",
+          "EN": "Acquire %d unit(s) of Pyrrolite Part",
+          "FR": "Obtenir %d pièce(s) en pyrrolite",
+          "ID": "Dapatkan %d unit Bagian Pyrrolite",
+          "IT": "Ottieni %d unità di parti di pirrolite.",
+          "JP": "焔銅部品を%d個入手する",
+          "KR": "작동 부품 누적 %d개 보유",
+          "MX": "Obtén %d unidad(es) de Pieza de Pirrolita",
+          "RU": "Получите пирролитовые детали: %d",
+          "TC": "累計擁有%d個灼銅零件",
+          "TH": "รับ​ชิ้นส่วน​ไพร์​โร​ไลท์​ %d ชิ้น",
+          "VN": "Nhận %d đơn vị Mảnh Nham Đồng"
+        },
+        "opType": 1,
+        "sortId": 154,
+        "taskId": "bp_05_task_weekly_6_4"
+      },
+      "bp_05_task_seasoncatchup_1_4": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "",
+        "name": {
+          "BR": "Na Passagem de Yinglung, ative %d Ponto(s) de TP",
+          "CN": "于应龙关激活%d个协议传送点",
+          "DE": "Aktiviere auf dem Yinglung-Pass %d TP-Punkt(e).",
+          "EN": "In Yinglung Pass, activate %d TP Point(s)",
+          "FR": "Dans le col de Yinglung, activer %d point(s) TP",
+          "ID": "Di Terusan Yinglung, aktifkan %d Titik TP",
+          "IT": "Attiva %d punto/i TP a Valico di Yinglung.",
+          "JP": "応龍関で協約転送ポイントを%d個解放する",
+          "KR": "응룡 관문에서 프로토콜 전송 지점을 %d개 활성화",
+          "MX": "En el Paso de Yinglung, activa %d Punto(s) de TP",
+          "RU": "Активируйте точки ТП на заставе «Инлуна»: %d",
+          "TC": "於應龍關啟用%d個協議傳送點",
+          "TH": "เปิด​ใช้งาน​จุด​ TP %d จุด​ใน​ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Tại Đèo Yinglung, kích hoạt %d Điểm Dịch Chuyển"
+        },
+        "opType": 1,
+        "sortId": 215,
+        "taskId": "bp_05_task_seasoncatchup_1_4"
+      },
+      "bp_05_task_season_1_7": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_7"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "BR": "Em Wuling, colete %d Talosita(s)",
+          "CN": "于武陵累计收集%d个塔晶",
+          "DE": "Sammle in Wuling %d Talosit(e).",
+          "EN": "In Wuling, gather %d Talosite(s)",
+          "FR": "À Wuling, récolter %d unité(s) de talosite",
+          "ID": "Di Wuling, kumpulkan %d Talosite",
+          "IT": "Raccogli %d talosite/i a Wuling",
+          "JP": "武陵でタロサイトを%d個集める",
+          "KR": "무릉에서 유령수정 누적 %d개 수집",
+          "MX": "En Wuling, reúne %d Talosita(s)",
+          "RU": "Соберите талозит в Улине: %d",
+          "TC": "於武陵累計收集%d個塔晶",
+          "TH": "รวบรวม​ทา​โล​ไซต์​ %d ชิ้น​ใน​อู่​หลิง",
+          "VN": "Thu thập %d Talosite tại Võ Lăng"
+        },
+        "opType": 1,
+        "sortId": 207,
+        "taskId": "bp_05_task_season_1_7"
+      },
+      "bp_05_task_activity_1_2": {
+        "addexp": 5000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_1_2_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_1",
+        "jumpId": "jump_center_activity_seasontower_0",
+        "name": {
+          "BR": "Em [Ecos da Guerra], conclua %d estágio(s) diferente(s) com pelo menos 1★",
+          "CN": "在「战争回响」中，以1星及以上评级通关任意%d个不同关卡",
+          "DE": "Schließe %d verschiedene Phase(n) in [Echos des Krieges] mit mindestens 1★ ab.",
+          "EN": "In [Echoes of War], complete %d different stage(s) with at least 1★",
+          "FR": "Dans [Échos guerriers], terminer %d niveau(x) différent(s) en obtenant au moins 1★",
+          "ID": "Di [Gema Perang], selesaikan %d stage berbeda dengan minimal 1★",
+          "IT": "Completa %d fase/i diversa/e con almeno 1★ in [Echi di guerra]",
+          "JP": "★1以上の評価で「戦争残響」のステージを%d個クリアする",
+          "KR": "[전쟁의 메아리]에서 임의의 다른 스테이지 %d개를 1성 및 그 이상 평가로 완료",
+          "MX": "En [Ecos de guerra], completa %d escenario(s) distinto(s) con al menos 1★",
+          "RU": "Пройдите стадии «Эха войны» с как минимум 1★ %d р.",
+          "TC": "在「戰爭迴響」中，以1星及以上評級通關任意%d個不同關卡",
+          "TH": "ผ่าน​ด่าน​ต่า​งๆ​ %d ด่าน​ โดย​ได้รับ​อย่างน้อย​ 1★ ใน​ [เสียงสะท้อน​แห่ง​สงคราม​]",
+          "VN": "Trong [Tiếng Vọng Nơi Chiến Trận], hoàn thành %d màn khác nhau với ít nhất 1★"
+        },
+        "opType": 1,
+        "sortId": 222,
+        "taskId": "bp_05_task_activity_1_2"
+      },
+      "bp_05_task_season_1_5": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "BR": "Em Wuling, alcance o Nível de Desenvolvimento Regional %d",
+          "CN": "武陵的地区建设等级提升至%d级",
+          "DE": "Erreiche in Wuling Regionsentwicklungslevel %d.",
+          "EN": "In Wuling, reach Regional Development Level %d",
+          "FR": "À Wuling, atteindre le niveau %d de développement régional",
+          "ID": "Di Wuling, capai Pengembangan Regional Level %d",
+          "IT": "Raggiungi il livello di sviluppo regionale %d a Wuling.",
+          "JP": "武陵の地域建設レベルを%dにする",
+          "KR": "무릉의 지역 건설 레벨을 %d레벨로 업그레이드",
+          "MX": "En Wuling, alcanza el Nivel de desarrollo regional %d",
+          "RU": "Достигните уровня развития региона %d в Улине",
+          "TC": "武陵的地區建設等級提升至%d級",
+          "TH": "เพิ่ม​ระดับ​การพัฒนา​ระดับ​ภูมิภาค​ถึง​เล​เวล​ %d ใน​อู่​หลิง",
+          "VN": "Tại Võ Lăng, đạt Cấp Phát Triển Khu Vực %d"
+        },
+        "opType": 1,
+        "sortId": 205,
+        "taskId": "bp_05_task_season_1_5"
+      },
+      "bp_05_task_activity_1_3": {
+        "addexp": 5000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_1_3_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_1",
+        "jumpId": "jump_center_activity_seasontower_0",
+        "name": {
+          "BR": "Em [Ecos da Guerra], conclua %d estágio(s) diferente(s) com pelo menos 1★",
+          "CN": "在「战争回响」中，以1星及以上评级通关任意%d个不同关卡",
+          "DE": "Schließe %d verschiedene Phase(n) in [Echos des Krieges] mit mindestens 1★ ab.",
+          "EN": "In [Echoes of War], complete %d different stage(s) with at least 1★",
+          "FR": "Dans [Échos guerriers], terminer %d niveau(x) différent(s) en obtenant au moins 1★",
+          "ID": "Di [Gema Perang], selesaikan %d stage berbeda dengan minimal 1★",
+          "IT": "Completa %d fase/i diversa/e con almeno 1★ in [Echi di guerra]",
+          "JP": "★1以上の評価で「戦争残響」のステージを%d個クリアする",
+          "KR": "[전쟁의 메아리]에서 임의의 다른 스테이지 %d개를 1성 및 그 이상 평가로 완료",
+          "MX": "En [Ecos de guerra], completa %d escenario(s) distinto(s) con al menos 1★",
+          "RU": "Пройдите стадии «Эха войны» с как минимум 1★ %d р.",
+          "TC": "在「戰爭迴響」中，以1星及以上評級通關任意%d個不同關卡",
+          "TH": "ผ่าน​ด่าน​ต่า​งๆ​ %d ด่าน​ โดย​ได้รับ​อย่างน้อย​ 1★ ใน​ [เสียงสะท้อน​แห่ง​สงคราม​]",
+          "VN": "Trong [Tiếng Vọng Nơi Chiến Trận], hoàn thành %d màn khác nhau với ít nhất 1★"
+        },
+        "opType": 1,
+        "sortId": 223,
+        "taskId": "bp_05_task_activity_1_3"
+      },
+      "bp_05_task_season_1_4": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "BR": "Faça recuperações com o aerorrecuperador %d vez(es)",
+          "CN": "累计使用浮空回收器回收%d次",
+          "DE": "Führe %d-mal Bergen mit dem Aero-Bergungsmodul durch.",
+          "EN": "Perform salvaging with the aero-salvager %d time(s)",
+          "FR": "Récupérer un objet avec l'aéro-récupérateur %d fois",
+          "ID": "Lakukan pengambilan dengan pengangkut layang sebanyak %d kali",
+          "IT": "Effettua l'operazione di recupero con l'aerorecuperatore %d volta/e.",
+          "JP": "空中回収装置で回収を%d回行う",
+          "KR": "부유식 회수기를 사용해 누적 %d회 회수",
+          "MX": "Realiza una recuperación con el Aerorrecuperador %d veces",
+          "RU": "Выполните эвакуацию с помощью аэроэвакуатора %d р.",
+          "TC": "累計使用浮空回收器回收%d次",
+          "TH": "ทำการ​กู้​ซาก​ด้วย​เครื่อง​กู้​ซาก​ทางอากาศ​ %d ครั้ง",
+          "VN": "Thực hiện thu hồi bằng thiết bị thu hồi trên không %d lần"
+        },
+        "opType": 1,
+        "sortId": 204,
+        "taskId": "bp_05_task_season_1_4"
+      },
+      "bp_05_task_activity_1_1": {
+        "addexp": 5000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_1_1_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_activity_1",
+        "jumpId": "jump_center_activity_seasontower_0",
+        "name": {
+          "BR": "Em [Ecos da Guerra], conclua 1 estágio com uma classificação mínima de 1 estrela",
+          "CN": "在「战争回响」中，以1星及以上评级通关任意1个关卡",
+          "DE": "Schließe 1 Phase mit einer Mindestbewertung von 1 Stern in [Echos des Krieges] ab.",
+          "EN": "In [Echoes of War], complete 1 stage with a minimum rating of 1 star",
+          "FR": "Dans [Échos guerriers], terminer 1 niveau avec au moins 1 étoile",
+          "ID": "Di [Gema Perang], selesaikan 1 stage dengan rating minimum 1 ★",
+          "IT": "In \"Echi di guerra\", completa 1 fase con un punteggio minimo di 1 stella.",
+          "JP": "★1以上の評価で「戦争残響」のステージを1個クリアする",
+          "KR": "[전쟁의 메아리]에서 임의의 스테이지 1개를 1성 및 그 이상 평가로 완료",
+          "MX": "En [Ecos de guerra], completa 1 fase con una puntuación mínima de 1 estrella",
+          "RU": "Пройдите 1 стадию «Эха войны» с рейтингом не менее 1 звезды",
+          "TC": "在「戰爭迴響」中，以1星及以上評級通關任意1個關卡",
+          "TH": "ใน​ [เสียงสะท้อน​แห่ง​สงคราม​] ผ่าน​ 1 ด่าน​ด้วย​คะแนน​อย่างน้อย​ 1 ดาว",
+          "VN": "Trong [Tiếng Vọng Nơi Chiến Trận], hoàn thành 1 màn với xếp hạng tối thiểu 1 sao"
+        },
+        "opType": 1,
+        "sortId": 221,
+        "taskId": "bp_05_task_activity_1_1"
+      },
+      "bp_05_task_season_1_9": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_9"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "jump_domain_settlement_hongs",
+        "name": {
+          "BR": "Em Wuling, negocie %d unidade(s) de mercadorias em qualquer posto avançado",
+          "CN": "于武陵的任意据点累计交易%d份货品",
+          "DE": "Handle in Wuling %d Einheit(en) Waren an einem beliebigen Außenposten.",
+          "EN": "In Wuling, trade %d unit(s) of goods at any outpost",
+          "FR": "Échanger %d unité(s) de marchandises dans n'importe quel avant-poste à Wuling",
+          "ID": "Di Wuling, perdagangkan %d unit barang di pos depan mana saja",
+          "IT": "Scambia %d unità di beni in qualsiasi avamposto di Wuling",
+          "JP": "武陵の拠点で計%d個の商品を取引する",
+          "KR": "무릉의 임의의 거점에서 상품을 누적 %d개 거래",
+          "MX": "En Wuling, intercambia %d unidad(es) de mercancía en cualquier Puesto de avanzada",
+          "RU": "Продайте %d ед. товаров на любом аванпосте Улина",
+          "TC": "於武陵的任意據點累計交易%d份貨品",
+          "TH": "ทำการค้า​ขาย​สินค้า​ที่​ด่าน​หน้า​ใด​ก็ได้​ใน​อู่​หลิง​ %d หน่วย",
+          "VN": "Tại Võ Lăng, trao đổi %d đơn vị hàng hóa tại tiền đồn bất kỳ"
+        },
+        "opType": 1,
+        "sortId": 210,
+        "taskId": "bp_05_task_season_1_9"
+      },
+      "bp_05_task_activity_2_1": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_2_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_2",
+        "jumpId": "jump_center_activity_takestwo_1",
+        "name": {
+          "BR": "Em [FÚRIA TÉRMICA! MEGA-ARENA!], conclua %d estágio(s) no Modo Normal",
+          "CN": "在「炽燃！竞技大会！」中，通关任意%d个关卡的普通模式",
+          "DE": "Schließe %d Phase(n) im Normal-Modus in der [HITZEWUT! MEGA-ARENA!] ab.",
+          "EN": "In [HEAT RAGE! MEGA ARENA!], complete %d stage(s) in Normal Mode",
+          "FR": "Dans [COMBAT DOUBLE ! MÉGA ARÈNE !], terminer %d niveau(x) en mode Normal",
+          "ID": "Di [AMARAH MEMBARA! MEGAARENA!], selesaikan %d stage dalam Mode Normal",
+          "IT": "Completa %d fase/i in modalità Normale in [FURIA INCANDESCENTE! MEGA ARENA!]",
+          "JP": "「燃えよ！アリーナ！」でノーマルモードのステージを%d個クリアする",
+          "KR": "[타올라라! 경기 대회!]에서 임의의 스테이지 %d개를 일반 모드로 완료",
+          "MX": "En [¡FURIA ARDIENTE! ¡MEGA ARENA!], completa %d escenario(s) en Modo Normal",
+          "RU": "Пройдите стадии события «ЖАРКАЯ ЯРОСТЬ! МЕГА-АРЕНА!» в обычном режиме %d р.",
+          "TC": "在「熾燃！競技大會！」中，通關任意%d個關卡的普通模式",
+          "TH": "ใน​ [เพลิง​พิโรธ​! เมก้า​อารี​น่า​!] ผ่าน​ %d ด่าน​ใน​โหม​ด​ทั่วไป",
+          "VN": "Trong [NHIỆT HUYẾT SỤC SÔI! SIÊU ĐẤU TRƯỜNG!], hoàn thành %d màn ở Chế Độ Thường"
+        },
+        "opType": 1,
+        "sortId": 224,
+        "taskId": "bp_05_task_activity_2_1"
+      },
+      "bp_05_task_season_1_1": {
+        "addexp": 5000,
+        "conditionIds": [
+          "bp_05_condition_season_1_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "jump_mission_main_chapter_2",
+        "name": {
+          "BR": "Conclua a missão principal [Capítulo II Processo VII – Romper Bravamente os Ventos Hostis]",
+          "CN": "完成主线任务「第二章 - 进程VII - 长风破浪」",
+          "DE": "Schließe die Hauptmission [Kapitel II, Prozess VII – Tapfer gegen die feindlichen Winde] ab.",
+          "EN": "Complete the main mission [Chapter Ⅱ Process VII - Bravely Breach the Hostile Winds]",
+          "FR": "Terminer la mission principale [Chapitre II - Processus VII : Du courage pour braver la tempête]",
+          "ID": "Selesaikan misi utama [Bab II Proses VII - Tak Gentar Terjang Angin Kejam]",
+          "IT": "Completa la missione principale \"Capitolo II - Elaborazione VII - Valorosa avanzata tra venti avversi\".",
+          "JP": "メイン任務：第二章-プロセスⅦ「荒波を越えて」を完了する",
+          "KR": "메인 임무 [2장 - 프로세스 VII - 파도를 가르는 거센 바람] 완료",
+          "MX": "Completa la misión principal [Capítulo II Proceso VII — Enfrenta con valentía los vientos hostiles]",
+          "RU": "Завершите основную миссию: операция VII главы II «Смело навстречу враждебным ветрам»",
+          "TC": "完成主線任務「第二章 - 進度VII - 長風破浪」",
+          "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 7 - ฝ่า​ลม​ร้าย​อย่างกล้าหาญ​] ให้​สำเร็จ",
+          "VN": "Hoàn thành nhiệm vụ chính [Chương II – Tiến Trình VII: Can Trường Xé Nghịch Phong]"
+        },
+        "opType": 1,
+        "sortId": 201,
+        "taskId": "bp_05_task_season_1_1"
+      },
+      "bp_05_task_season_1_10": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_10"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "BR": "Em Wuling, coloque %d Extrator(es) de Gás",
+          "CN": "于武陵累计放置%d个气体收集泵",
+          "DE": "Platziere in Wuling %d Gasextraktor(en).",
+          "EN": "In Wuling, place %d Gas Extractor(s)",
+          "FR": "À Wuling, placer %d extracteur(s) de gaz",
+          "ID": "Di Wuling, tempatkan %d Ekstraktor Gas",
+          "IT": "Posiziona %d estrattore/i di gas a Wuling",
+          "JP": "武陵でガス収集ポンプを%d個設置する",
+          "KR": "무릉에서 기체 수집기 누적 %d대 배치",
+          "MX": "En Wuling, coloca %d Extractor(es) de gas",
+          "RU": "Разместите газовые экстракторы в Улине: %d",
+          "TC": "於武陵累計擺放%d個氣體收集泵",
+          "TH": "วาง​เครื่อง​สกัด​ก๊าซ​ %d เครื่องใน​อู่​หลิง",
+          "VN": "Tại Võ Lăng, đặt %d Máy Tách Khí"
+        },
+        "opType": 1,
+        "sortId": 211,
+        "taskId": "bp_05_task_season_1_10"
+      },
+      "bp_05_task_season_1_2": {
+        "addexp": 5000,
+        "conditionIds": [
+          "bp_05_condition_season_1_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "jump_mission_main_chapter_2",
+        "name": {
+          "BR": "Conclua a missão principal [Capítulo II Processo VII – A Teimosia Persistente do Sol Poente]",
+          "CN": "完成主线任务「第二章 - 进程VII - 余晖未却 」",
+          "DE": "Schließe die Hauptmission [Kapitel II, Prozess VII – Hartnäckig verweilt die untergehende Sonne] ab.",
+          "EN": "Complete the main mission [Chapter Ⅱ Process VII - Stubbornly Lingers the Setting Sun]",
+          "FR": "Terminer la mission principale [Chapitre II - Processus VII : Le soleil refuse obstinément de se coucher]",
+          "ID": "Selesaikan misi utama [Bab II Proses VII - Matahari Masih Saja Terbenam]",
+          "IT": "Completa la missione principale \"Capitolo II - Elaborazione VII - Il sole calante persiste ostinatamente\".",
+          "JP": "メイン任務：第二章-プロセスⅦ「薄明、なお消えず」を完了する",
+          "KR": "메인 임무 [2장 - 프로세스 VII - 지지 않는 노을] 완료",
+          "MX": "Completa la misión principal [Capítulo II Proceso VII — El sol poniente se resiste a marchar]",
+          "RU": "Завершите основную миссию: операция VII главы II «Упрямые лучи заходящего солнца»",
+          "TC": "完成主線任務「第二章 - 進度VII - 餘暉未卻」",
+          "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 7 - อาทิตย์​อัสดง​มิ​ยอม​ลับ​ลา​] ให้​สำเร็จ",
+          "VN": "Hoàn thành nhiệm vụ chính [Chương II – Tiến Trình VII: Hoàng Hôn Còn Mãi Vấn Vương]"
+        },
+        "opType": 1,
+        "sortId": 202,
+        "taskId": "bp_05_task_season_1_2"
+      },
+      "bp_05_task_season_1_8": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_8"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "",
+        "name": {
+          "BR": "Na Passagem de Yinglung, recupere %d Caixote(s) de Gabarito de Equipamento",
+          "CN": "于应龙关累计收集%d个装备模板箱",
+          "DE": "Birg im Yinglung-Pass %d Kiste(n) mit Ausrüstungsvorlagen.",
+          "EN": "In Yinglung Pass, recover %d Gear Template Crate(s)",
+          "FR": "Dans le col de Yinglung, récupérer %d caisse(s) de modèles d'équipement",
+          "ID": "Di Terusan Yinglung, ambil %d Kerat Templat Gear",
+          "IT": "Recupera %d cassa/e con schema per l'equipaggiamento al Valico di Yinglung",
+          "JP": "応龍関で装備設計ボックスを%d個開ける",
+          "KR": "응룡 관문에서 장비 템플릿 상자 누적 %d개 수집",
+          "MX": "En Paso de Yinglung, recupera %d Caja(s) de molde de equipamiento",
+          "RU": "Получите ящики шаблонов снаряжения на заставе «Инлуна»: %d",
+          "TC": "於應龍關累計收集%d個裝備模板箱",
+          "TH": "กู้​คืน​ลัง​เทม​เพล​ต​อุปกรณ์​ %d ลัง​ใน​ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Tại Đèo Yinglung, khôi phục %d Thùng Mẫu Trang Bị"
+        },
+        "opType": 1,
+        "sortId": 208,
+        "taskId": "bp_05_task_season_1_8"
+      },
+      "bp_05_task_seasoncatchup_1_1": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "jump_dungeon_boss_rush",
+        "name": {
+          "BR": "Conclua [Reflexão de Crise: Alleikhreos] %d vez(es)",
+          "CN": "通关%d次「危境遗影·阿莱克琉斯」",
+          "DE": "Schließe [Krisenreflektion: Alleikhreos] %d-mal ab.",
+          "EN": "Complete [Crisis Reflection: Alleikhreos] %d time(s)",
+          "FR": "Terminer [Réflexion de crise : Alleikhreos] %d fois",
+          "ID": "Selesaikan [Refleksi Krisis: Alleikhreos] sebanyak %d kali",
+          "IT": "Completa [Crisi riflessa: Alleikhreos] %d volta/e.",
+          "JP": "「危機遺影・アレイクレウス」を%d回クリアする",
+          "KR": "[위험한 잔상 · 알레이크레오스] %d회 완료",
+          "MX": "Completa [Reflexión de crisis: Alleikhreos] %d veces",
+          "RU": "Пройдите «Надвигающийся кризис: Аллейхреос» %d р.",
+          "TC": "通關%d次「危境遺影·阿萊克琉斯」",
+          "TH": "ผ่าน​ [ภาพสะท้อน​ของ​วิกฤต​: อัล​เล​เคร​ออส​] %d ครั้ง",
+          "VN": "Hoàn thành [Nguy Cảnh Phản Chiếu: Alleikhreos] %d lần"
+        },
+        "opType": 1,
+        "sortId": 212,
+        "taskId": "bp_05_task_seasoncatchup_1_1"
+      },
+      "bp_05_task_weekly_2_1": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_05_condition_weekly_2_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "BR": "Na Passagem de Yinglung, abra %d caixote(s)",
+          "CN": "于应龙关累计开启任意%d个储藏箱",
+          "DE": "Öffne auf dem Yinglung-Pass %d Kiste(n).",
+          "EN": "In Yinglung Pass, open %d crate(s)",
+          "FR": "Dans le col de Yinglung, ouvrir %d caisse(s)",
+          "ID": "Di Terusan Yinglung, buka %d kerat",
+          "IT": "Al Valico di Yinglung, apri %d cassa/e di contenimento.",
+          "JP": "応龍関で資源箱を%d個開ける",
+          "KR": "응룡 관문에서 임의의 보물 상자 누적 %d개 개방",
+          "MX": "En el Paso de Yinglung, abre %d caja(s)",
+          "RU": "Откройте ящики на заставе «Инлуна»: %d",
+          "TC": "於應龍關累計開啟任意%d個儲藏箱",
+          "TH": "เปิด​ลัง​ %d ใบ​ใน​ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Tại Đèo Yinglung, mở %d thùng"
+        },
+        "opType": 1,
+        "sortId": 111,
+        "taskId": "bp_05_task_weekly_2_1"
+      },
+      "bp_05_task_seasoncatchup_1_3": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_3_1",
+          "bp_05_condition_task_seasoncatchup_1_3_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "jump_dungeon_enemy_spawner",
+        "name": {
+          "BR": "Na Passagem de Yinglung e na Zona de Exclusão do Norte de Wuling, conclua todo o Aluvião de Energia",
+          "CN": "清理应龙关和北部禁区的所有能量淤积点",
+          "DE": "Säubere sämtliches Energie-Alluvium auf dem Yinglung-Pass und in der Sperrzone Nord-Wuling.",
+          "EN": "In Yinglung Pass and North Wuling Exclusion Zone, clear all Energy Alluvium",
+          "FR": "Dans le col de Yinglung et la zone d'exclusion du nord de Wuling, terminer toutes les alluvions d'énergie",
+          "ID": "Di Terusan Yinglung dan Zona Eksklusi Wuling Utara, singkirkan semua Aluvium Energi",
+          "IT": "Rimuovi tutto il sedimento energetico al Valico di Yinglung e all'Area interdetta di Wuling Nord.",
+          "JP": "応龍関と北部封鎖区域にあるすべての超域活性点を処理する",
+          "KR": "응룡 관문과 북쪽 금지 구역의 모든 에너지 응집점 제거",
+          "MX": "En el Paso de Yinglung y la Zona de exclusión norte de Wuling, limpia todo el Aluvión energético",
+          "RU": "Очистите все аллювии энергии на заставе «Инлуна» и в зоне отчуждения северного Улина",
+          "TC": "清理應龍關和北部禁區的所有能量淤積點",
+          "TH": "กำจัด​อัล​ลู​เวีย​ม​พลังงาน​ทั้งหมด​ใน​ทางผ่าน​ห​ยิง​หลง​และ​เขต​พิเศษ​อู่​หลิง​เหนือ",
+          "VN": "Tại Đèo Yinglung và Khu Cấm Bắc Võ Lăng, xóa toàn bộ Năng Lượng Bồi Tích"
+        },
+        "opType": 1,
+        "sortId": 214,
+        "taskId": "bp_05_task_seasoncatchup_1_3"
+      },
+      "bp_05_task_seasoncatchup_1_7": {
+        "addexp": 4000,
+        "conditionIds": [
+          "bp_05_condition_task_seasoncatchup_1_7"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_catchup",
+        "jumpId": "jump_dungeon_char",
+        "name": {
+          "BR": "Conclua Espaços do Protocolo de progressão de operador ou de arma %d vez(es) (após a atualização da missão)",
+          "CN": "完成%d次干员和武器养成协议空间（自任务更新后）",
+          "DE": "Schließe %d-mal Operator- oder Waffenfortschritt-Protokoll-Dimensionen ab (nach Missionsupdate).",
+          "EN": "Complete operator or weapon progression Protocol Spaces %d time(s) (after mission update)",
+          "FR": "Terminer la progression des opérateurs ou des armes dans l'espace de Protocole (après la mise à jour de la mission) %d fois",
+          "ID": "Selesaikan Dimensi Protokol progresi operator atau senjata sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Completa gli spazi protocollari di sviluppo operatori o armi %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "人材育成と武器強化の協約空間を%d回クリアする（解放後から開始）",
+          "KR": "오퍼레이터와 무기 육성 프로토콜 공간 %d회 완료(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Completa los Espacios de protocolo de progresión de operador o de arma %d veces (después de la actualización de misión)",
+          "RU": "Пройдите протокольные разломы с развитием оперативника или оружия %d р. (после обновления миссии)",
+          "TC": "完成%d次幹員和武器養成協議空間（自任務更新後）",
+          "TH": "ทำ​พื้นที่​โปร​โต​คอล​ความก้าวหน้า​ของ​โอเปอเรเตอร์​หรือ​อาวุธ​ให้​สำเร็จ​ %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Hoàn thành Không Gian Giao Thức thăng cấp cán viên hoặc vũ khí %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 218,
+        "taskId": "bp_05_task_seasoncatchup_1_7"
+      },
+      "bp_05_task_weekly_1_1": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "BR": "Faça login por %d dia(s)",
+          "CN": "累计登录%d天",
+          "DE": "Logge dich %d Tag(e) lang ein.",
+          "EN": "Log in for %d day(s)",
+          "FR": "Se connecter pendant %d jour(s)",
+          "ID": "Login selama %d hari",
+          "IT": "Accedi per %d giorno/i.",
+          "JP": "%d日間ログインする",
+          "KR": "누적 %d일 로그인",
+          "MX": "Inicia sesión durante %d día(s)",
+          "RU": "Входите в игру %d д.",
+          "TC": "累計登入%d天",
+          "TH": "เข้าสู่ระบบ​เป็นเวลา​ %d วัน",
+          "VN": "Đăng nhập trong %d ngày"
+        },
+        "opType": 1,
+        "sortId": 101,
+        "taskId": "bp_05_task_weekly_1_1"
+      },
+      "bp_05_task_weekly_1_2": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_03_condition_weekly_1_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "BR": "Em Wuling, pegue coletáveis %d vez(es)",
+          "CN": "于武陵采集%d次",
+          "DE": "Hebe in Wuling %d-mal Sammelobjekte auf.",
+          "EN": "In Wuling, pick up gatherables %d time(s)",
+          "FR": "Ramasser %d objets récoltables à Wuling",
+          "ID": "Di Wuling, ambil item yang bisa dikumpulkan sebanyak %d kali",
+          "IT": "Raccogli risorse %d volta/e a Wuling.",
+          "JP": "武陵で%d回採集する",
+          "KR": "무릉에서 %d회 채집",
+          "MX": "En Wuling, recoge recolectables %d veces",
+          "RU": "Соберите трофеи в Улине %d р.",
+          "TC": "於武陵採集%d次",
+          "TH": "เก็บ​วัตถุดิบ​เก็บ​ได้​ใน​อู่​หลิง​ %d ครั้ง",
+          "VN": "Tại Võ Lăng, thu thập vật liệu %d lần"
+        },
+        "opType": 1,
+        "sortId": 102,
+        "taskId": "bp_05_task_weekly_1_2"
+      },
+      "bp_05_task_weekly_1_3": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "BR": "Conjure habilidades de batalha %d vez(es)",
+          "CN": "累计施放%d次战技",
+          "DE": "Wirke %d-mal eine Kampffertigkeit.",
+          "EN": "Cast battle skills %d time(s)",
+          "FR": "Utiliser une compétence de combat %d fois",
+          "ID": "Gunakan skill tarung sebanyak %d kali",
+          "IT": "Usa le abilità di combattimento %d volta/e.",
+          "JP": "戦技を%d回使用する",
+          "KR": "배틀 스킬 누적 %d회 사용",
+          "MX": "Lanza habilidades de batalla %d veces",
+          "RU": "Примените боевой навык %d р.",
+          "TC": "累計施放%d次戰技",
+          "TH": "ใช้​ทักษะ​การต่อสู้​ %d ครั้ง",
+          "VN": "Thi triển KN chiến đấu %d lần"
+        },
+        "opType": 1,
+        "sortId": 103,
+        "taskId": "bp_05_task_weekly_1_3"
+      },
+      "bp_05_task_weekly_1_6": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_4_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_1",
+        "jumpId": "",
+        "name": {
+          "BR": "Cause %d de DNO no total",
+          "CN": "累计造成%d点伤害",
+          "DE": "Verursache insgesamt %d SDN.",
+          "EN": "Deal %d DMG in total",
+          "FR": "Infliger %d points de DÉG au total",
+          "ID": "Timbulkan total %d DMG",
+          "IT": "Infliggi un totale di %d danni.",
+          "JP": "ダメージを計%d与える",
+          "KR": "피해 누적 %d 포인트 주기",
+          "MX": "Inflige %d de DAÑ en total",
+          "RU": "Нанесите в общей сложности %d ед. УРН",
+          "TC": "累計造成%d點傷害",
+          "TH": "สร้าง​ DMG ทั้งหมด​ %d หน่วย",
+          "VN": "Gây tổng cộng %d ST"
+        },
+        "opType": 1,
+        "sortId": 106,
+        "taskId": "bp_05_task_weekly_1_6"
+      },
+      "bp_05_task_weekly_1_7": {
+        "addexp": 1500,
+        "conditionIds": [
+          "bp_condition_weekly_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_1",
+        "jumpId": "jump_gacha",
+        "name": {
+          "BR": "Faça caça de talentos %d vez(es)",
+          "CN": "累计进行%d次寻访",
+          "DE": "Führe %d Rekrutierung(en) durch.",
+          "EN": "Perform headhunting %d time(s)",
+          "FR": "Lancer %d recrutement(s)",
+          "ID": "Lakukan headhunt sebanyak %d kali",
+          "IT": "Effettua la caccia ai talenti %d volta/e.",
+          "JP": "スカウトを%d回完了する",
+          "KR": "헤드헌팅 누적 %d회 진행",
+          "MX": "Realiza caza de reclutas %d veces",
+          "RU": "Выполните наем %d р.",
+          "TC": "累計尋訪%d次",
+          "TH": "ทำการ​สรรหา​ %d ครั้ง",
+          "VN": "Thực hiện chiêu mộ %d lần"
+        },
+        "opType": 1,
+        "sortId": 107,
+        "taskId": "bp_05_task_weekly_1_7"
+      },
+      "bp_05_task_weekly_2_2": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_condition_weekly_2_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_2",
+        "jumpId": "jump_equip_produce",
+        "name": {
+          "BR": "Monte %d peça(s) de equipamento de qualquer qualidade",
+          "CN": "制造%d件任意品质的装备",
+          "DE": "Montiere %d Ausrüstungsteil(e) beliebiger Qualität.",
+          "EN": "Assemble %d piece(s) of gear of any quality",
+          "FR": "Assembler %d pièce(s) d'équipement de n'importe quelle qualité",
+          "ID": "Rakit %d gear dengan kualitas apa saja",
+          "IT": "Assembla %d equipaggiamento/i di qualsiasi qualità.",
+          "JP": "装備を%d個製造する",
+          "KR": "임의 품질의 장비 %d개 제작",
+          "MX": "Ensambla %d pieza(s) de equipamiento de cualquier calidad",
+          "RU": "Соберите предметы снаряжения любого качества: %d",
+          "TC": "製造%d件任意品質的裝備",
+          "TH": "ประกอบ​อุปกรณ์​จำนวน​ %d ชิ้น​ คุณภาพ​ใด​ก็ได้",
+          "VN": "Lắp ráp %d mảnh trang bị có chất lượng bất kỳ"
+        },
+        "opType": 1,
+        "sortId": 112,
+        "taskId": "bp_05_task_weekly_2_2"
+      },
+      "bp_05_task_weekly_2_3": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_05_condition_weekly_2_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "BR": "Derrote %d inimigos (após a atualização da missão)",
+          "CN": "累计击败任意%d个敌人（自任务更新后）",
+          "DE": "Besiege %d Gegner (nach Missionsupdate).",
+          "EN": "Defeat %d enemies (after mission update)",
+          "FR": "Éliminer %d ennemis (après la mise à jour de la mission)",
+          "ID": "Kalahkan %d musuh (setelah pembaruan misi)",
+          "IT": "Sconfiggi %d nemici (dopo l'aggiornamento missione).",
+          "JP": "敵を%d体倒す（解放後から開始）",
+          "KR": "임의의 적 누적 %d명 처치(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Derrota a %d enemigos (después de la actualización de misión)",
+          "RU": "Победите врагов: %d (после обновления миссии)",
+          "TC": "累計擊敗任意%d個敵人（自任務更新後）",
+          "TH": "กำจัด​ศัตรู​ให้​ครบ​ %d ตัว​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tiêu diệt %d kẻ địch (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 113,
+        "taskId": "bp_05_task_weekly_2_3"
+      },
+      "bp_05_task_weekly_2_4": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_condition_weekly_2_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_2",
+        "jumpId": "jump_dungeon_enemy_spawner",
+        "name": {
+          "BR": "Conclua o Aluvião de Energia %d vez(es)",
+          "CN": "清理%d次能量淤积点",
+          "DE": "Säubere %d-mal ein Energie-Alluvium.",
+          "EN": "Clean Energy Alluvium %d time(s)",
+          "FR": "Terminer %d alluvion(s) d'énergie",
+          "ID": "Singkirkan Aluvium Energi sebanyak %d kali",
+          "IT": "Risana un sedimento energetico %d volta/e.",
+          "JP": "超域活性点を%d回処理する",
+          "KR": "에너지 응집점 %d회 제거",
+          "MX": "Limpia el Aluvión energético %d veces",
+          "RU": "Очистите аллювий энергии %d р.",
+          "TC": "清理%d次能量淤積點",
+          "TH": "เคลียร์​อัล​ลู​เวีย​ม​พลังงาน​ %d ครั้ง",
+          "VN": "Làm sạch Năng Lượng Bồi Tích %d lần"
+        },
+        "opType": 1,
+        "sortId": 114,
+        "taskId": "bp_05_task_weekly_2_4"
+      },
+      "bp_05_task_weekly_2_5": {
+        "addexp": 1750,
+        "conditionIds": [
+          "bp_05_condition_weekly_2_5"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_2",
+        "jumpId": "",
+        "name": {
+          "BR": "Conjure habilidades supremas %d vez(es) (após a atualização da missão)",
+          "CN": "累计施放%d次终结技（自任务更新后）",
+          "DE": "Wirke %d-mal eine Ultimative Fertigkeit (nach Missionsupdate).",
+          "EN": "Cast ultimates %d time(s) (after mission update)",
+          "FR": "Lancer un ultime %d fois (après la mise à jour de la mission)",
+          "ID": "Gunakan ultimate sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Attiva le abilità supreme %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "必殺技を%d回使用する（解放後から開始）",
+          "KR": "궁극기 누적 %d회 사용(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Activa máximas %d veces (después de la actualización de misión)",
+          "RU": "Примените супернавыки %d р. (после обновления миссии)",
+          "TC": "累計施放%d次終結技（自任務更新後）",
+          "TH": "ใช้​อัล​ติ​เมท​ %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Thi triển Tuyệt Kỹ %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 115,
+        "taskId": "bp_05_task_weekly_2_5"
+      },
+      "bp_05_task_weekly_3_1": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_condition_weekly_3_4"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "BR": "Gaste %d T-Creds",
+          "CN": "累计消耗%d折金票",
+          "DE": "Gib %d T-Kreditscheine aus.",
+          "EN": "Spend %d T-Creds",
+          "FR": "Dépenser %d crédits T",
+          "ID": "Pakai %d T-Cred",
+          "IT": "Spendi %d Crediti-T.",
+          "JP": "折金券を%d枚消費する",
+          "KR": "탈로시안 화폐 누적 %d 소모",
+          "MX": "Gasta %d T-Creds",
+          "RU": "Потратьте Т-креды: %d",
+          "TC": "累計消耗%d折金票",
+          "TH": "ใช้​ %d ที​-​เครดิต",
+          "VN": "Sử dụng %d T-Cred"
+        },
+        "opType": 1,
+        "sortId": 121,
+        "taskId": "bp_05_task_weekly_3_1"
+      },
+      "bp_05_task_weekly_3_2": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_weekly_3_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_3",
+        "jumpId": "jump_map_spaceship",
+        "name": {
+          "BR": "Na Dijiang, cultive materiais na Câmara de Crescimento %d vez(es) (após a atualização da missão)",
+          "CN": "在帝江号培养舱启动%d次培养（自任务更新后）",
+          "DE": "Stelle auf der Dijiang %d-mal Wachstumsmaterialien in der Wachstumskammer her (nach Missionsupdate).",
+          "EN": "In Dijiang, grow materials at the Growth Chamber %d time(s) (after mission update)",
+          "FR": "Fabriquer des matériaux de progression dans la chambre de culture (après la mise à jour de la mission) à bord du Dijiang %d fois",
+          "ID": "Di Dijiang, kembangkan material di Ruang Pertumbuhan sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Coltiva materiali nella camera di coltivazione della Dijiang %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "帝江号の培養室で%d回培養する（解放後から開始）",
+          "KR": "제강호 재배실에서 육성 %d회 진행(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "En la Dijiang, cultiva materiales en la Cámara de crecimiento %d veces (después de la actualización de misión)",
+          "RU": "Вырастите материалы в инкубационном отсеке «Дицзян» %d р. (после обновления миссии)",
+          "TC": "在帝江號培養艙啟動%d次培養（自任務更新後）",
+          "TH": "ปลูก​วัสดุ​ใน​ห้อง​เพาะเลี้ยง​ %d ครั้ง​ใน​ตี้​เจียง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tại Dijiang, phát triển nguyên liệu tại Buồng Phát Triển %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 122,
+        "taskId": "bp_05_task_weekly_3_2"
+      },
+      "bp_05_task_weekly_3_3": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_04_condition_weekly_3_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "BR": "Recupere manualmente %d pontos de Sanidade",
+          "CN": "主动恢复%d点理智",
+          "DE": "Stelle manuell %d Punkte Verstand wieder her.",
+          "EN": "Manually recover %d points of Sanity",
+          "FR": "Récupérer %d points de lucidité manuellement",
+          "ID": "Pulihkan %d poin Sanity secara manual",
+          "IT": "Recupera manualmente %d punto/i Lucidità.",
+          "JP": "アイテムで理性を%d回復する",
+          "KR": "이성 직접 %d 포인트 회복",
+          "MX": "Recupera %d puntos de Cordura manualmente",
+          "RU": "Восстановите %d оч. рассудка вручную",
+          "TC": "主動恢復%d點理智",
+          "TH": "ฟื้นฟู​ค่า​สติ​ด้วย​ตนเอง​ %d คะแนน",
+          "VN": "Hồi phục thủ công %d điểm Tỉnh Táo"
+        },
+        "opType": 1,
+        "sortId": 123,
+        "taskId": "bp_05_task_weekly_3_3"
+      },
+      "bp_05_task_weekly_3_4": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_weekly_3_4"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "BR": "Conjure combos de habilidades %d vez(es) (após a atualização da missão)",
+          "CN": "累计施放%d次连携技（自任务更新后）",
+          "DE": "Wirke %d-mal eine Kombofertigkeit (nach Missionsupdate).",
+          "EN": "Cast combo skills %d time(s) (after mission update)",
+          "FR": "Utiliser une compétence de combo %d fois (après la mise à jour de la mission)",
+          "ID": "Gunakan skill kombo sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Usa le abilità combo %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "連携技を%d回使用する（解放後から開始）",
+          "KR": "연계 스킬 누적 %d회 사용(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Lanza habilidades de combo %d veces (después de la actualización de misión)",
+          "RU": "Примените комбонавыки %d р. (после обновления миссии)",
+          "TC": "累計施放%d次連攜技（自任務更新後）",
+          "TH": "ใช้​ทักษะ​คอม​โบ​ %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Thi triển KN liên hoàn %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 124,
+        "taskId": "bp_05_task_weekly_3_4"
+      },
+      "bp_05_task_weekly_3_5": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_weekly_3_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "BR": "Adquira %d unidade(s) de Núcleo Separador",
+          "CN": "累计拥有%d个分离芯",
+          "DE": "Erhalte %d Separatorkern-Einheit(en).",
+          "EN": "Acquire %d unit(s) of Separator Core",
+          "FR": "Obtenir %d noyau(x) séparateur(s)",
+          "ID": "Dapatkan %d unit Inti Pemisah",
+          "IT": "Ottieni %d unità di nucleo separatore.",
+          "JP": "分離コアを%d個入手する",
+          "KR": "분리 필터 누적 %d개 보유",
+          "MX": "Obtén %d unidad(es) de Núcleo separador",
+          "RU": "Получите ядра сепаратора: %d",
+          "TC": "累計擁有%d個分離芯",
+          "TH": "รับ​แกน​ตัว​แยก​ %d แกน",
+          "VN": "Nhận %d đơn vị Lõi Phân Tách"
+        },
+        "opType": 1,
+        "sortId": 125,
+        "taskId": "bp_05_task_weekly_3_5"
+      },
+      "bp_05_task_weekly_3_7": {
+        "addexp": 2000,
+        "conditionIds": [
+          "bp_05_condition_weekly_3_7"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_3",
+        "jumpId": "",
+        "name": {
+          "BR": "Na Passagem de Yinglung, colete %d Aurileno(s)",
+          "CN": "于应龙关累计收集%d个醚质",
+          "DE": "Sammle auf dem Yinglung-Pass %d Aurylen(e).",
+          "EN": "In Yinglung Pass, gather %d Aurylene(s)",
+          "FR": "Dans le col de Yinglung, récolter %d échantillon(s) d'aurylène",
+          "ID": "Di Terusan Yinglung, kumpulkan %d Aurylene",
+          "IT": "Al Valico di Yinglung, raccogli %d Aurylene.",
+          "JP": "応龍関でオーリレンを%d個集める",
+          "KR": "응룡 관문에서 오리렌 누적 %d개 수집",
+          "MX": "En el Paso de Yinglung, recolecta %d Aurileno(s)",
+          "RU": "Соберите образцы аурилена на заставе «Инлуна»: %d",
+          "TC": "於應龍關累計收集%d個醚質",
+          "TH": "รวบรวม​ออ​ริ​ลีน​ %d ชิ้น​ใน​ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Tại Đèo Yinglung, thu thập %d Aurylene"
+        },
+        "opType": 1,
+        "sortId": 127,
+        "taskId": "bp_05_task_weekly_3_7"
+      },
+      "bp_05_task_weekly_4_1": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_weekly_4_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_4",
+        "jumpId": "",
+        "name": {
+          "BR": "Faça login por %d dia(s) (após a atualização da missão)",
+          "CN": "累计登录%d天（自任务更新后）",
+          "DE": "Logge dich %d Tag(e) lang ein (nach Missionsupdate).",
+          "EN": "Log in for %d day(s) (after mission update)",
+          "FR": "Se connecter pendant %d jour(s) (après la mise à jour de la mission)",
+          "ID": "Login selama %d hari (setelah pembaruan misi)",
+          "IT": "Accedi per %d giorno/i (dopo l'aggiornamento missione).",
+          "JP": "%d日間ログインする（解放後から開始）",
+          "KR": "누적 %d일 로그인(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Inicia sesión durante %d día(s) (después de la actualización de misión)",
+          "RU": "Входите в игру %d д. (после обновления миссии)",
+          "TC": "累計登入%d天（自任務更新後）",
+          "TH": "เข้าสู่ระบบ​เป็นเวลา​ %d วัน​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Đăng nhập trong %d ngày (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 131,
+        "taskId": "bp_05_task_weekly_4_1"
+      },
+      "bp_05_task_weekly_4_2": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_02_condition_weekly_1_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_5",
+        "jumpId": "jump_char_level_upgrade",
+        "name": {
+          "BR": "Aumente o nível de qualquer operador %d vez(es)",
+          "CN": "提升%d次干员等级",
+          "DE": "Erhöhe %d-mal das Level eines beliebigen Operators.",
+          "EN": "Level up any operator %d time(s)",
+          "FR": "Faire passer un opérateur au niveau supérieur %d fois",
+          "ID": "Naikkan level operator mana saja sebanyak %d kali",
+          "IT": "Fai salire di livello un operatore qualsiasi %d volta/e.",
+          "JP": "オペレーターを%d回レベルアップする",
+          "KR": "오퍼레이터를 %d회 업그레이드",
+          "MX": "Sube de nivel a cualquier operador %d veces",
+          "RU": "Повысьте уровень оперативника %d р.",
+          "TC": "提升%d次幹員等級",
+          "TH": "เพิ่ม​เล​เวล​โอเปอเรเตอร์​ใด​ก็ได้​ %d ครั้ง",
+          "VN": "Tăng cấp cho cán viên bất kỳ %d lần"
+        },
+        "opType": 1,
+        "sortId": 133,
+        "taskId": "bp_05_task_weekly_4_2"
+      },
+      "bp_05_task_weekly_4_3": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_weekly_4_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_4",
+        "jumpId": "",
+        "name": {
+          "BR": "Em Wuling, colete %d essência(s) de qualquer qualidade (após a atualização da missão)",
+          "CN": "于武陵地区获取任意%d个基质（自任务更新后）",
+          "DE": "Sammle in Wuling %d Essenz(en) beliebiger Qualität (nach Missionsupdate).",
+          "EN": "In Wuling, gather %d essence(s) of any quality (after mission update)",
+          "FR": "À Wuling, récolter %d essence(s) de n'importe quelle qualité (après la mise à jour de la mission)",
+          "ID": "Di Wuling, kumpulkan %d esensi dengan kualitas apa saja (setelah pembaruan misi)",
+          "IT": "Raccogli %d essenza/e di qualsiasi qualità a Wuling (dopo l'aggiornamento missione).",
+          "JP": "武陵で基質を%d個入手する（解放後から開始）",
+          "KR": "무릉 지역에서 임의의 기질 %d개 획득(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "En Wuling, recolecta %d esencia(s) de cualquier calidad (después de la actualización de misión)",
+          "RU": "Соберите эссенции любого качества в Улине: %d (после обновления миссии)",
+          "TC": "於武陵地區獲得任意%d個基質（自任務更新後）",
+          "TH": "รวบรวม​แก่นแท้​ %d ชิ้น​คุณภาพ​ใด​ก็ได้​ใน​อู่​หลิง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tại Võ Lăng, thu thập %d tinh chất có chất bất kỳ (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 134,
+        "taskId": "bp_05_task_weekly_4_3"
+      },
+      "bp_05_task_weekly_4_4": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_02_condition_weekly_6_2"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_4",
+        "jumpId": "jump_weapon",
+        "name": {
+          "BR": "Faça a infusão de %d essência(s) a armas",
+          "CN": "为任意武器注入%d个基质",
+          "DE": "Durchtränke Waffen mit %d Essenz(en).",
+          "EN": "Infuse %d essence(s) to weapons",
+          "FR": "Imprégner des armes avec %d essence(s)",
+          "ID": "Infusikan %d esensi pada senjata",
+          "IT": "Infondi %d essenza/e nelle armi.",
+          "JP": "任意の武器に基質を%d個注入する",
+          "KR": "임의의 무기에 기질 %d개 주입",
+          "MX": "Infunde %d esencia(s) en armas",
+          "RU": "Вложите эссенции (%d) в оружие",
+          "TC": "為任意武器注入%d個基質",
+          "TH": "หลอม​รวม​แก่นแท้​ %d ชิ้น​ลง​ใน​อาวุธ",
+          "VN": "Dung hợp %d tinh chất vào vũ khí"
+        },
+        "opType": 1,
+        "sortId": 136,
+        "taskId": "bp_05_task_weekly_4_4"
+      },
+      "bp_05_task_weekly_4_5": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_02_condition_weekly_2_1"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_5",
+        "jumpId": "jump_weapon",
+        "name": {
+          "BR": "Aumente o nível de qualquer arma %d vez(es)",
+          "CN": "提升%d次武器等级",
+          "DE": "Erhöhe %d-mal das Level einer beliebigen Waffe.",
+          "EN": "Level up any weapon %d time(s)",
+          "FR": "Améliorer une arme %d fois",
+          "ID": "Naikkan level senjata mana saja sebanyak %d kali",
+          "IT": "Fai salire di livello un'arma qualsiasi %d volta/e.",
+          "JP": "武器を%d回レベルアップする",
+          "KR": "무기를 %d회 업그레이드",
+          "MX": "Sube de nivel cualquier arma %d veces",
+          "RU": "Повысьте уровень оружия %d р.",
+          "TC": "提升%d次武器等級",
+          "TH": "เพิ่ม​เล​เวล​อาวุธ​ใด​ก็ได้​ %d ครั้ง",
+          "VN": "Tăng cấp cho vũ khí bất kỳ %d lần"
+        },
+        "opType": 1,
+        "sortId": 135,
+        "taskId": "bp_05_task_weekly_4_5"
+      },
+      "bp_05_task_weekly_4_6": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_weekly_4_6"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_4",
+        "jumpId": "jump_center_activity_seasontower_0",
+        "name": {
+          "BR": "Participe de [Ecos da Guerra] %d vez(es) (após a atualização da missão)",
+          "CN": "参与%d次「战争回响」（自任务更新后）",
+          "DE": "Nimm %d-mal an [Echos des Krieges] teil (nach Missionsupdate).",
+          "EN": "Take part in [Echoes of War] %d time(s) (after mission update)",
+          "FR": "Participer à [Échos guerriers] %d fois (après la mise à jour de la mission)",
+          "ID": "Ikut serta dalam [Gema Perang] sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Partecipa a \"Echi di guerra\" %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "「戦争残響」に%d回参加する（解放後から開始）",
+          "KR": "[전쟁의 메아리] %d회 참여(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Participa en [Ecos de guerra] %d veces (después de la actualización de misión)",
+          "RU": "Участвуйте в «Эхе войны» %d р. (после обновления миссии)",
+          "TC": "參與%d次「戰爭迴響」（自任務更新後）",
+          "TH": "เข้าร่วม​ [เสียงสะท้อน​แห่ง​สงคราม​] %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Tham gia [Tiếng Vọng Nơi Chiến Trận] %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 132,
+        "taskId": "bp_05_task_weekly_4_6"
+      },
+      "bp_05_task_weekly_4_7": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_weekly_4_7"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_4",
+        "jumpId": "",
+        "name": {
+          "BR": "Aplique <#ba.pulseinflict>Inflição Elétrica</> %d vez(es) (após a atualização da missão)",
+          "CN": "累计触发%d次<#ba.pulseinflict>电磁附着</>（自任务更新后）",
+          "DE": "Belege einen Gegner %d-mal mit <#ba.pulseinflict>Elektrik</> (nach Missionsupdate).",
+          "EN": "Apply <#ba.pulseinflict>Electric Infliction</> %d time(s) (after mission update)",
+          "FR": "Appliquer %d fois une <#ba.pulseinflict>altération électrique</> (après la mise à jour de la mission)",
+          "ID": "Akibatkan <#ba.pulseinflict>Electric Infliction</> sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Applica <#ba.pulseinflict>Afflizione da elettricità</> %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "<#ba.pulseinflict>電磁付着</>を%d回発動させる（解放後から開始）",
+          "KR": "<#ba.pulseinflict>자연 부착</> 누적 %d회 발동(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Aplica <#ba.pulseinflict>Imposición eléctrica</> %d veces (después de la actualización de la misión)",
+          "RU": "Наложите <#ba.pulseinflict>поражение электричеством</> %d р. (после обновления миссии)",
+          "TC": "累計觸發%d次<#ba.pulseinflict>電磁附著</>（自任務更新後）",
+          "TH": "สร้าง​ <#ba.pulseinflict>​บาดแผล​จาก​ไฟฟ้า​</> %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Áp dụng <#ba.pulseinflict>Nhiễm Điện</> %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 137,
+        "taskId": "bp_05_task_weekly_4_7"
+      },
+      "bp_05_task_weekly_5_2": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_condition_weekly_4_3"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_5",
+        "jumpId": "jump_payshop_weapon",
+        "name": {
+          "BR": "Realize uma Distribuição de Arsenal %d vez(es)",
+          "CN": "累计进行%d次武库申领",
+          "DE": "Führe %d-mal Waffenausgabe durch.",
+          "EN": "Perform Arsenal Issue %d time(s)",
+          "FR": "Procéder à %d tirage(s) de l'arsenal",
+          "ID": "Lakukan Edisi Senjata sebanyak %d kali",
+          "IT": "Cimentati nella Distribuzione arsenale %d volta/e.",
+          "JP": "武庫申請を%d回完了する",
+          "KR": "무기고 신청 누적 %d회 진행",
+          "MX": "Ejecuta Solicitud de Arsenal %d veces",
+          "RU": "Выполните поставку арсенала %d р.",
+          "TC": "累計進行%d次武庫申領",
+          "TH": "ใช้​ตั๋ว​คลังแสง​ %d ครั้ง",
+          "VN": "Thực hiện Rút Kho Vũ Khí %d lần"
+        },
+        "opType": 1,
+        "sortId": 142,
+        "taskId": "bp_05_task_weekly_5_2"
+      },
+      "bp_05_task_weekly_5_3": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_condition_weekly_4_5"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_5",
+        "jumpId": "jump_gem_enhance",
+        "name": {
+          "BR": "Realize o entalhe de essências %d vez(es)",
+          "CN": "累计进行%d次基质蚀刻",
+          "DE": "Führe %d-mal Essenzätzung durch.",
+          "EN": "Perform essence etching %d time(s)",
+          "FR": "Procéder à %d gravure(s) d'essence",
+          "ID": "Lakukan pengukiran esensi sebanyak %d kali",
+          "IT": "Effettua l'incisione di essenze %d volta/e.",
+          "JP": "基質食刻を%d回完了する",
+          "KR": "기질 식각 누적 %d회 진행",
+          "MX": "Realiza grabado de esencias %d veces",
+          "RU": "Выполните гравировку эссенций %d р.",
+          "TC": "累計進行%d次基質蝕刻",
+          "TH": "ฝัง​รอย​แก่นแท้​ %d ครั้ง",
+          "VN": "Thực hiện khắc tinh chất %d lần"
+        },
+        "opType": 1,
+        "sortId": 143,
+        "taskId": "bp_05_task_weekly_5_3"
+      },
+      "bp_05_task_weekly_5_4": {
+        "addexp": 2500,
+        "conditionIds": [
+          "bp_02_condition_weekly_5_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_5",
+        "jumpId": "jump_domain_shop_wuling",
+        "name": {
+          "BR": "Em Wuling, compre mercadorias nos locais de Redistribuição do Estoque %d vezes",
+          "CN": "于武陵地区调度处累计购买%d次物资",
+          "DE": "Kaufe in Wuling %d-mal Waren von Vorratneuverteilungsstandorten.",
+          "EN": "In Wuling, purchase goods from Stock Redistribution sites %d times",
+          "FR": "À Wuling, acheter des marchandises dans des magasins de redistribution %d fois",
+          "ID": "Di Wuling, beli barang dari lokasi Redistribusi Stok sebanyak %d kali",
+          "IT": "Acquista beni dai punti di ridistribuzione scorte di Wuling %d volte.",
+          "JP": "武陵商品取引で%d回購入する",
+          "KR": "무릉 지역 물자 관리에서 물자 누적 %d회 구매",
+          "MX": "En Wuling, compra mercancías en sitios de Redistribución de existencias %d veces",
+          "RU": "Купите товары на точках перераспределения резервов в Улине %d р.",
+          "TC": "於武陵地區調度處累計購買%d次物資",
+          "TH": "ซื้อ​สินค้า​จาก​ศูนย์​กระจาย​ของ​ %d ครั้ง​ใน​อู่​หลิง",
+          "VN": "Tại Võ Lăng, mua hàng từ các điểm Điều Phối Vật Tư %d lần"
+        },
+        "opType": 1,
+        "sortId": 144,
+        "taskId": "bp_05_task_weekly_5_4"
+      },
+      "bp_05_task_weekly_5_5": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_weekly_5_5"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_4",
+        "jumpId": "jump_domain_shop_wuling",
+        "name": {
+          "BR": "Em Wuling, venda %d unidade(s) de mercadorias elásticas (após atualização da missão)",
+          "CN": "于武陵弹性需求物资中卖出%d份货物（自任务更新后）",
+          "DE": "Verkaufe in Wuling %d Einheit(en) elastischer Waren (nach Missionsupdate).",
+          "EN": "In Wuling, sell %d unit(s) of elastic goods (after mission update)",
+          "FR": "À Wuling, vendre %d unité(s) de produits élastiques (après la mise à jour de la mission)",
+          "ID": "Di Wuling, jual %d unit barang fluktuatif (setelah pembaruan misi)",
+          "IT": "Vendi %d unità di beni elastici a Wuling (dopo l'aggiornamento missione).",
+          "JP": "武陵の時価商品で%d個販売する（解放後から開始）",
+          "KR": "무릉에서 변동 수요 물자 %d개 판매(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "En Wuling, vende %d unidad(es) de mercancía elástica (después de la actualización de misión)",
+          "RU": "Продайте в Улине %d ед. товаров с эластичным спросом (после обновления миссии)",
+          "TC": "於武陵彈性需求物資中賣出%d份貨物（自任務更新後）",
+          "TH": "ขาย​สินค้า​ยืดหยุ่น​ %d หน่วย​ใน​อู่​หลิง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Bán %d đơn vị vật tư biến động (sau khi cập nhật nhiệm vụ) tại Võ Lăng"
+        },
+        "opType": 1,
+        "sortId": 145,
+        "taskId": "bp_05_task_weekly_5_5"
+      },
+      "bp_05_task_weekly_6_1": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_05_condition_weekly_6_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_6",
+        "jumpId": "jump_payshop_credit",
+        "name": {
+          "BR": "Compre itens na Loja de Créditos %d vez(es) (após a atualização da missão)",
+          "CN": "于信用交易所进行%d次购买（自任务更新后）",
+          "DE": "Kaufe %d-mal Gegenstände im Credit-Laden (nach Missionsupdate).",
+          "EN": "Purchase items from the Credit Store %d time(s) (after mission update)",
+          "FR": "Acheter des objets à la boutique de crédits %d fois (après la mise à jour de la mission)",
+          "ID": "Beli item dari Toko Kredit sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Acquista oggetti dal negozio Crediti %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "FP商店で%d回購入する（解放後から開始）",
+          "KR": "크레딧 거래소에서 %d회 구매(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Compra objetos en la Tienda de créditos %d veces (después de la actualización de misión)",
+          "RU": "Купите предметы в магазине кредитов %d р. (после обновления миссии)",
+          "TC": "於信用交易所進行%d次購買（自任務更新後）",
+          "TH": "ซื้อ​สินค้า​จาก​ร้าน​เครดิต​ %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Mua vật phẩm từ CH Tín Dụng %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 151,
+        "taskId": "bp_05_task_weekly_6_1"
+      },
+      "bp_05_task_weekly_6_5": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_04_condition_weekly_6_6"
+        ],
+        "defaultEnable": true,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_6",
+        "jumpId": "",
+        "name": {
+          "BR": "Use projetos %d vez(es) no total",
+          "CN": "累计使用%d次蓝图",
+          "DE": "Nutze insgesamt %d-mal Baupläne.",
+          "EN": "Use blueprints a total of %d time(s)",
+          "FR": "Utiliser un total de %d plan(s)",
+          "ID": "Gunakan cetak biru sebanyak total %d kali",
+          "IT": "Usa i progetti %d volta/e in totale",
+          "JP": "図面を計%d回適用する",
+          "KR": "청사진을 누적 %d회 사용",
+          "MX": "Usa planos %d veces en total",
+          "RU": "Используйте чертежи %d р.",
+          "TC": "累計使用%d次藍圖",
+          "TH": "ใช้​พิมพ์เขียว​ทั้งหมด​ %d ครั้ง",
+          "VN": "Sử dụng bản vẽ tổng cộng %d lần"
+        },
+        "opType": 1,
+        "sortId": 155,
+        "taskId": "bp_05_task_weekly_6_5"
+      },
+      "bp_05_task_weekly_6_7": {
+        "addexp": 2750,
+        "conditionIds": [
+          "bp_05_condition_weekly_6_7"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_weekly_6",
+        "jumpId": "jump_manul_craft",
+        "name": {
+          "BR": "Confeccione %d vez(es) (após a atualização da missão)",
+          "CN": "累计进行%d次简易制作（自任务更新后）",
+          "DE": "Führe %d-mal Herstellung durch (nach Missionsupdate).",
+          "EN": "Perform crafting %d time(s) (after mission update)",
+          "FR": "Procéder à %d fabrication(s) (après la mise à jour de la mission)",
+          "ID": "Lakukan crafting sebanyak %d kali (setelah pembaruan misi)",
+          "IT": "Dedicati alla creazione %d volta/e (dopo l'aggiornamento missione).",
+          "JP": "道具製作を%d回完了する（解放後から開始）",
+          "KR": "간편 제작을 누적 %d회 진행(해당 임무 업데이트 후부터 집계됨)",
+          "MX": "Realiza fabricación %d veces (después de la actualización de misión)",
+          "RU": "Создайте предмет %d р. (после обновления миссии)",
+          "TC": "累計進行%d次簡易製作（自任務更新後）",
+          "TH": "ทำการ​สร้าง​ %d ครั้ง​ (หลังจาก​อัปเดต​ภารกิจ​)",
+          "VN": "Thực hiện chế tạo %d lần (sau khi cập nhật nhiệm vụ)"
+        },
+        "opType": 1,
+        "sortId": 157,
+        "taskId": "bp_05_task_weekly_6_7"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

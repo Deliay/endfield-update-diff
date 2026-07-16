@@ -1,0 +1,1076 @@
+{
+  "tableName": "ActivityLevelRewardsTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "activity_newplayer_mission_reward": {
+        "oldValue": {
+          "stageList": [
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_1",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Implante o NAP",
+                    "CN": "部署协议核心",
+                    "DE": "Platziere den PAK.",
+                    "EN": "Deploy the PAC",
+                    "FR": "Déployer le NAP",
+                    "ID": "Pasang PAC",
+                    "IT": "Schiera il NAP.",
+                    "JP": "協約核心を設置する",
+                    "KR": "프로토콜 코어를 배치하기",
+                    "MX": "Despliega el NAP",
+                    "RU": "Разверните ПБА",
+                    "TC": "部署協議核心",
+                    "TH": "ก่อตั้ง​ PAC",
+                    "VN": "Triển Khai Lõi Giao Thức"
+                  },
+                  "jumpId": "jump_mission_CharacterGuide",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m2_q#6"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo I: Reinicialização do Vale – Implante o NAP]",
+                    "CN": "完成「第一章 - 进程Ⅰ - 谷地重启 - 部署协议核心」",
+                    "DE": "Schließe [Kapitel I, Prozess I: Talfahrt – Platziere den PAK] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅰ: Valley Reboot - Deploy the PAC]",
+                    "FR": "Terminer le [Chapitre I - Processus I : Redémarrage de la vallée - Déployer le NAP]",
+                    "ID": "Selesaikan [Bab I Proses I: Memulai Ulang Lembah - Pasang PAC]",
+                    "IT": "Completa \"Capitolo I - Elaborazione I: Elettricità per la Valle - Schiera il NAP\".",
+                    "JP": "第一章プロセスⅠ「谷地再開 - 協約核心を設置する」を完了する",
+                    "KR": "[1장 - 프로세스 I - 협곡 재가동 - 프로토콜 코어를 배치하기] 완료",
+                    "MX": "Completa [Capítulo I Proceso I: El reinicio del valle – Despliega el NAP]",
+                    "RU": "Завершите операцию I главы I «Перезагрузка Долины» — разверните ПБА",
+                    "TC": "完成「第一章 - 進度I - 谷地重啟 - 部署協議核心」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 1: รี​บู​ต​หุบเขา​ – ก่อตั้ง​ PAC] ให้​เสร็จสิ้น",
+                    "VN": "Hoàn thành [Chương Ⅰ – Tiến Trình Ⅰ: Tái Khởi Động Thung Lũng - Triển Khai Lõi Giao Thức]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_1",
+              "stageId": 1,
+              "stageStrId": "activity_newplayer_mission_reward_stage1"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_2",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Investigue a fundo o Centro de Processamento de Subprodutos de Originium",
+                    "CN": "完成源石副产物中心的调查",
+                    "DE": "Schließe die Untersuchung der Verarbeitungsanlage für Originium-Nebenprodukte ab.",
+                    "EN": "Completely investigate the Originium Byproduct Processing Center",
+                    "FR": "Mener une enquête complète au centre de traitement des dérivés d'originium",
+                    "ID": "Selidiki Pusat Pemrosesan Produk Sampingan Originium secara menyeluruh",
+                    "IT": "Completa le indagini al Centro di lavorazione dei sottoprodotti di Originium.",
+                    "JP": "源石副産物センターの調査を完了する",
+                    "KR": "오리지늄 부산물 센터 조사 완료",
+                    "MX": "Investiga por completo el Centro de Procesamiento de subproductos de Originio",
+                    "RU": "Полностью обследуйте центр обработки побочного продукта ориджиния",
+                    "TC": "完成源石副產物中心的調查",
+                    "TH": "ตรวจสอบ​ศูนย์​แปรรูป​ผลพลอยได้​ออ​ริ​จิ​เนียม​ให้​สำเร็จ",
+                    "VN": "Điều tra toàn bộ Trung Tâm Xử Lý Sản Phẩm Phụ Của Originium"
+                  },
+                  "jumpId": "jump_mission_CharacterGuide",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m3_q#17"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo I: Reagrupar – Entregue os documentos e peças a Andre]",
+                    "CN": "完成「第一章 - 进程Ⅰ - 重整旗鼓 - 将资料和零件交给安德烈」",
+                    "DE": "Schließe [Kapitel I, Prozess I: Versammelt und vereint – Bringe André die Dokumente und die Teile] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅰ: Rally and Unite - Deliver the documents and parts to Andre]",
+                    "FR": "Terminer le [Chapitre I - Processus I : Rassembler et unir - Livrer les documents et les pièces à André]",
+                    "ID": "Selesaikan [Bab I Proses I: Berkumpul dan Bersatu - Antarkan dokumen dan paket kepada Andre]",
+                    "IT": "Completa \"Capitolo I - Elaborazione I: Mobilitazione - Consegna i documenti e i componenti ad Andre\".",
+                    "JP": "第一章プロセスⅠ「仕切り直し - 資料とパーツをアンドレイに渡す」を完了する",
+                    "KR": "[1장 - 프로세스 I - 재출발 - 자료와 부품을 안드레에게 제출하기] 완료",
+                    "MX": "Completa [Capítulo I Proceso I: Reúne y unifica – Entrega documentos y piezas a Andre]",
+                    "RU": "Завершите операцию I главы I «Единым фронтом» — доставьте детали и документы Андре",
+                    "TC": "完成「第一章 - 進度I - 重整旗鼓 - 將資料和零件交給安德烈」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 1: รวมพล​รวม​ใจ​ให้​เสร็จสิ้น​ – มอบ​เอกสาร​และ​ชิ้นส่วน​ให้​กับ​อัง​เดร​] ให้​สำเร็จ",
+                    "VN": "Hoàn thành [Chương Ⅰ – Tiến Trình Ⅰ: Tập Hợp và Đoàn Kết - Giao tài liệu và linh kiện cho Andre]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_2",
+              "stageId": 2,
+              "stageStrId": "activity_newplayer_mission_reward_stage2"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_3",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Entre na Garganta do Vale",
+                    "CN": "进入谷地通道",
+                    "DE": "Betritt den Talpass.",
+                    "EN": "Enter the Valley Pass",
+                    "FR": "Entrer dans le col de la Vallée",
+                    "ID": "Masuk ke Terusan Lembah",
+                    "IT": "Entra nel Passo della Valle.",
+                    "JP": "谷地通路に入る",
+                    "KR": "협곡길로 진입하기",
+                    "MX": "Entra a la Senda del valle",
+                    "RU": "Войдите в Перевал",
+                    "TC": "進入谷地通道",
+                    "TH": "เข้าสู่​ ทางผ่าน​หุบเขา",
+                    "VN": "Vào Đèo Thung Lũng"
+                  },
+                  "jumpId": "jump_mission_CharacterGuide",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m5_q#2"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo I: Santuário Seguro – Entre na Garganta do Vale]",
+                    "CN": "完成「第一章 - 进程Ⅰ - 庇护之所 - 进入谷地通道」",
+                    "DE": "Schließe [Kapitel I, Prozess I: Sicherung des Heiligtums – Betritt den Talpass] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅰ: Secure Sanctuary - Enter the Valley Pass]",
+                    "FR": "Terminer le [Chapitre I - Processus I : Havre de paix - Entrer dans le col de la Vallée]",
+                    "ID": "Selesaikan [Bab I Proses I: Suaka Aman - Masuk ke Terusan Lembah]",
+                    "IT": "Completa \"Capitolo I - Elaborazione I: Sicurezza del santuario - Entra nel Passo della Valle\".",
+                    "JP": "第一章プロセスⅠ「守る場所 - 谷地通路に入る」を完了する",
+                    "KR": "[1장 - 프로세스 I - 보호의 장소 - 협곡길로 진입하기] 완료",
+                    "MX": "Completa [Capítulo Ⅰ Proceso I: Asegura el santuario – Entra a la Senda del valle]",
+                    "RU": "Завершите операцию I главы I «Надежное убежище» — войдите в Перевал",
+                    "TC": "完成「第一章 - 進度I - 庇護之所 - 進入谷地通道」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 1: ปกป้อง​วิหาร​ – เข้าสู่​ทางผ่าน​หุบเขา​] ให้​เสร็จสิ้น",
+                    "VN": "Hoàn thành [Chương I – Tiến Trình I: Bảo vệ Thánh địa - Tiến vào Đèo Thung Lũng]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_3",
+              "stageId": 3,
+              "stageStrId": "activity_newplayer_mission_reward_stage3"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_4",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Alcance o Nível de Autoridade 15 e volte para a Dijiang",
+                    "CN": "提升权限等阶至15级，重返帝江号",
+                    "DE": "Erreiche Autoritätslevel 15 und kehre zur Dijiang zurück.",
+                    "EN": "Reach Authority Level 15 and return to Dijiang",
+                    "FR": "Atteindre le niveau d'autorité 15 et retourner au Dijiang",
+                    "ID": "Capai Otoritas Level 15 dan kembali ke Dijiang",
+                    "IT": "Raggiungi il livello di autorità 15 e torna sulla Dijiang.",
+                    "JP": "行動レベルを15までアップし、帝江号に戻る",
+                    "KR": "권한 등급을 15레벨까지 올리고, 제강호로 복귀",
+                    "MX": "Llega al Nivel de autoridad 15 y regresa a la Dijiang",
+                    "RU": "Получите уровень влияния 15 и вернитесь на «Дицзян»",
+                    "TC": "提升權限等階至15級，重返帝江號",
+                    "TH": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ให้​ถึง​เล​เวล​ 15 แล้ว​กลับ​ไป​ยัง​ตี้​เจียง",
+                    "VN": "Đạt Cấp Đặc Quyền 15 và trở về Dijiang"
+                  },
+                  "jumpId": "jump_mission_CharacterGuide",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m9d5_q#2"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo II: Preparação do Trabalho – Alcance o Nível de Autoridade 15]",
+                    "CN": "完成「第一章 - 进程Ⅱ - 准备工作 - 将权限等阶提升至15级」",
+                    "DE": "Schließe [Kapitel I Prozess II: Arbeitsvorbereitung – Erreiche Autoritätslevel 15] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅱ: Work Preparation - Reach Authority Level 15]",
+                    "FR": "Terminer le [Chapitre I - Processus II : Préparation au travail - Atteindre le niveau d'autorité 15]",
+                    "ID": "Selesaikan [Bab I Proses II: Persiapan Kerja - Capai Otoritas Level 15]",
+                    "IT": "Completa \"Capitolo I - Elaborazione II: Preparativi - Raggiungi il livello di autorità 15\".",
+                    "JP": "第一章プロセスⅡ「出立の準備 - 行動レベルを15までアップする」を完了する",
+                    "KR": "[1장 - 프로세스 II - 작업 준비 - 권한 등급을 15레벨까지 올리기] 완료",
+                    "MX": "Completa [Capítulo I Proceso II: Preparación para el trabajo – Alcanza el nivel de autoridad 15]",
+                    "RU": "Завершите операцию II главы I «Подготовка» — получите уровень влияния 15",
+                    "TC": "完成「第一章 - 進度II - 準備工作 - 將權限等階提升至15級」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 2: การ​เตรียม​ความพร้อม​เพื่อ​ปฏิบัติงาน​ – เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ให้​ถึง​เล​เวล​ 15] ให้​สำเร็จ",
+                    "VN": "Hoàn thành [Chương I – Tiến Trình II: Chuẩn Bị Công Việc - Đạt Cấp Đặc Quyền 15]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_4",
+              "stageId": 4,
+              "stageStrId": "activity_newplayer_mission_reward_stage4"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_5",
+                  "conditionType": 19,
+                  "desc": {
+                    "BR": "Alcance o Nível de Autoridade 18 e volte para o Parque Científico de Originium",
+                    "CN": "提升权限等阶至18级，前往源石研究园",
+                    "DE": "Erreiche Autoritätslevel 18 und kehre zum Originium-Wissenschaftspark zurück.",
+                    "EN": "Reach Authority Level 18 and return to the Originium Science Park",
+                    "FR": "Atteindre le niveau d'autorité 18 et retourner au parc des sciences de l'originium",
+                    "ID": "Capai Otoritas Level 18 dan kembali ke Taman Sains Originium",
+                    "IT": "Raggiungi il livello di autorità 18 e torna al Parco scientifico dell'Originium.",
+                    "JP": "行動レベルを18までアップし、源石研究パークに向かう",
+                    "KR": "권한 등급을 18레벨까지 올리고, 오리지늄 연구 구역으로 이동",
+                    "MX": "Alcanza el Nivel de autoridad 18 y regresa al Parque científico de Originio",
+                    "RU": "Получите уровень влияния 18 и вернитесь в Центр исследования ориджиния",
+                    "TC": "提升權限等階至18級，前往源石研究園",
+                    "TH": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ให้​ถึง​เล​เวล​ 18 แล้ว​กลับ​ไป​ยัง​สวน​วิทยาศาสตร์​ออ​ริ​จิ​เนียม",
+                    "VN": "Đạt Cấp Đặc Quyền 18 và trở về Công Viên Khoa Học Originium"
+                  },
+                  "jumpId": "jump_mission_CharacterGuide",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e2m1"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo III: A Missão Continua]",
+                    "CN": "完成「第一章 - 进程Ⅲ - 再度启程」",
+                    "DE": "Schließe [Kapitel I Prozess III: Die Mission geht weiter] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅲ: The Mission Continues]",
+                    "FR": "Terminer le [Chapitre I - Processus III : La mission continue]",
+                    "ID": "Selesaikan [Bab I Proses III: Misi Berlanjut]",
+                    "IT": "Completa \"Capitolo I - Elaborazione III: La missione continua\".",
+                    "JP": "第一章プロセスⅢ「任務継続」を完了する",
+                    "KR": "[1장 - 프로세스 III - 다시 출발] 완료",
+                    "MX": "Completa [Capítulo I Proceso III: La misión continúa]",
+                    "RU": "Завершите операцию III главы I «Продолжение миссии»",
+                    "TC": "完成「第一章 - 進度III - 再度啟程」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 3: ภารกิจ​ดำเนินต่อไป​] ให้​สำเร็จ",
+                    "VN": "Hoàn thành [Chương I – Tiến Trình Ⅲ: Nhiệm Vụ Tiếp Diễn]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_5",
+              "stageId": 5,
+              "stageStrId": "activity_newplayer_mission_reward_stage5"
+            }
+          ]
+        },
+        "newValue": {
+          "stageList": [
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_1",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Implante o NAP",
+                    "CN": "部署协议核心",
+                    "DE": "Platziere den PAK.",
+                    "EN": "Deploy the PAC",
+                    "FR": "Déployer le NAP",
+                    "ID": "Pasang PAC",
+                    "IT": "Schiera il NAP.",
+                    "JP": "協約核心を設置する",
+                    "KR": "프로토콜 코어를 배치하기",
+                    "MX": "Despliega el NAP",
+                    "RU": "Разверните ПБА",
+                    "TC": "部署協議核心",
+                    "TH": "ก่อตั้ง​ PAC",
+                    "VN": "Triển Khai Lõi Giao Thức"
+                  },
+                  "jumpId": "jump_mission_main_chapter_1",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m2_q#6"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo I: Reinicialização do Vale – Implante o NAP]",
+                    "CN": "完成「第一章 - 进程Ⅰ - 谷地重启 - 部署协议核心」",
+                    "DE": "Schließe [Kapitel I, Prozess I: Talfahrt – Platziere den PAK] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅰ: Valley Reboot - Deploy the PAC]",
+                    "FR": "Terminer le [Chapitre I - Processus I : Redémarrage de la vallée - Déployer le NAP]",
+                    "ID": "Selesaikan [Bab I Proses I: Memulai Ulang Lembah - Pasang PAC]",
+                    "IT": "Completa \"Capitolo I - Elaborazione I: Elettricità per la Valle - Schiera il NAP\".",
+                    "JP": "第一章プロセスⅠ「谷地再開 - 協約核心を設置する」を完了する",
+                    "KR": "[1장 - 프로세스 I - 협곡 재가동 - 프로토콜 코어를 배치하기] 완료",
+                    "MX": "Completa [Capítulo I Proceso I: El reinicio del valle – Despliega el NAP]",
+                    "RU": "Завершите операцию I главы I «Перезагрузка Долины» — разверните ПБА",
+                    "TC": "完成「第一章 - 進度I - 谷地重啟 - 部署協議核心」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 1: รี​บู​ต​หุบเขา​ – ก่อตั้ง​ PAC] ให้​เสร็จสิ้น",
+                    "VN": "Hoàn thành [Chương Ⅰ – Tiến Trình Ⅰ: Tái Khởi Động Thung Lũng - Triển Khai Lõi Giao Thức]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_1",
+              "stageId": 1,
+              "stageStrId": "activity_newplayer_mission_reward_stage1"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_2",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Investigue a fundo o Centro de Processamento de Subprodutos de Originium",
+                    "CN": "完成源石副产物中心的调查",
+                    "DE": "Schließe die Untersuchung der Verarbeitungsanlage für Originium-Nebenprodukte ab.",
+                    "EN": "Completely investigate the Originium Byproduct Processing Center",
+                    "FR": "Mener une enquête complète au centre de traitement des dérivés d'originium",
+                    "ID": "Selidiki Pusat Pemrosesan Produk Sampingan Originium secara menyeluruh",
+                    "IT": "Completa le indagini al Centro di lavorazione dei sottoprodotti di Originium.",
+                    "JP": "源石副産物センターの調査を完了する",
+                    "KR": "오리지늄 부산물 센터 조사 완료",
+                    "MX": "Investiga por completo el Centro de Procesamiento de subproductos de Originio",
+                    "RU": "Полностью обследуйте центр обработки побочного продукта ориджиния",
+                    "TC": "完成源石副產物中心的調查",
+                    "TH": "ตรวจสอบ​ศูนย์​แปรรูป​ผลพลอยได้​ออ​ริ​จิ​เนียม​ให้​สำเร็จ",
+                    "VN": "Điều tra toàn bộ Trung Tâm Xử Lý Sản Phẩm Phụ Của Originium"
+                  },
+                  "jumpId": "jump_mission_main_chapter_1",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m3_q#17"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo I: Reagrupar – Entregue os documentos e peças a Andre]",
+                    "CN": "完成「第一章 - 进程Ⅰ - 重整旗鼓 - 将资料和零件交给安德烈」",
+                    "DE": "Schließe [Kapitel I, Prozess I: Versammelt und vereint – Bringe André die Dokumente und die Teile] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅰ: Rally and Unite - Deliver the documents and parts to Andre]",
+                    "FR": "Terminer le [Chapitre I - Processus I : Rassembler et unir - Livrer les documents et les pièces à André]",
+                    "ID": "Selesaikan [Bab I Proses I: Berkumpul dan Bersatu - Antarkan dokumen dan paket kepada Andre]",
+                    "IT": "Completa \"Capitolo I - Elaborazione I: Mobilitazione - Consegna i documenti e i componenti ad Andre\".",
+                    "JP": "第一章プロセスⅠ「仕切り直し - 資料とパーツをアンドレイに渡す」を完了する",
+                    "KR": "[1장 - 프로세스 I - 재출발 - 자료와 부품을 안드레에게 제출하기] 완료",
+                    "MX": "Completa [Capítulo I Proceso I: Reúne y unifica – Entrega documentos y piezas a Andre]",
+                    "RU": "Завершите операцию I главы I «Единым фронтом» — доставьте детали и документы Андре",
+                    "TC": "完成「第一章 - 進度I - 重整旗鼓 - 將資料和零件交給安德烈」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 1: รวมพล​รวม​ใจ​ให้​เสร็จสิ้น​ – มอบ​เอกสาร​และ​ชิ้นส่วน​ให้​กับ​อัง​เดร​] ให้​สำเร็จ",
+                    "VN": "Hoàn thành [Chương Ⅰ – Tiến Trình Ⅰ: Tập Hợp và Đoàn Kết - Giao tài liệu và linh kiện cho Andre]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_2",
+              "stageId": 2,
+              "stageStrId": "activity_newplayer_mission_reward_stage2"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_3",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Entre na Garganta do Vale",
+                    "CN": "进入谷地通道",
+                    "DE": "Betritt den Talpass.",
+                    "EN": "Enter the Valley Pass",
+                    "FR": "Entrer dans le col de la Vallée",
+                    "ID": "Masuk ke Terusan Lembah",
+                    "IT": "Entra nel Passo della Valle.",
+                    "JP": "谷地通路に入る",
+                    "KR": "협곡길로 진입하기",
+                    "MX": "Entra a la Senda del valle",
+                    "RU": "Войдите в Перевал",
+                    "TC": "進入谷地通道",
+                    "TH": "เข้าสู่​ ทางผ่าน​หุบเขา",
+                    "VN": "Vào Đèo Thung Lũng"
+                  },
+                  "jumpId": "jump_mission_main_chapter_1",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m5_q#2"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo I: Santuário Seguro – Entre na Garganta do Vale]",
+                    "CN": "完成「第一章 - 进程Ⅰ - 庇护之所 - 进入谷地通道」",
+                    "DE": "Schließe [Kapitel I, Prozess I: Sicherung des Heiligtums – Betritt den Talpass] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅰ: Secure Sanctuary - Enter the Valley Pass]",
+                    "FR": "Terminer le [Chapitre I - Processus I : Havre de paix - Entrer dans le col de la Vallée]",
+                    "ID": "Selesaikan [Bab I Proses I: Suaka Aman - Masuk ke Terusan Lembah]",
+                    "IT": "Completa \"Capitolo I - Elaborazione I: Sicurezza del santuario - Entra nel Passo della Valle\".",
+                    "JP": "第一章プロセスⅠ「守る場所 - 谷地通路に入る」を完了する",
+                    "KR": "[1장 - 프로세스 I - 보호의 장소 - 협곡길로 진입하기] 완료",
+                    "MX": "Completa [Capítulo Ⅰ Proceso I: Asegura el santuario – Entra a la Senda del valle]",
+                    "RU": "Завершите операцию I главы I «Надежное убежище» — войдите в Перевал",
+                    "TC": "完成「第一章 - 進度I - 庇護之所 - 進入谷地通道」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 1: ปกป้อง​วิหาร​ – เข้าสู่​ทางผ่าน​หุบเขา​] ให้​เสร็จสิ้น",
+                    "VN": "Hoàn thành [Chương I – Tiến Trình I: Bảo vệ Thánh địa - Tiến vào Đèo Thung Lũng]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_3",
+              "stageId": 3,
+              "stageStrId": "activity_newplayer_mission_reward_stage3"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_4",
+                  "conditionType": 18,
+                  "desc": {
+                    "BR": "Faça upgrade do veículo para limpar o deslizamento de terra",
+                    "CN": "完成清障工程车的升级",
+                    "DE": "Verbessere das Fahrzeug, um den Erdrutsch zu beseitigen",
+                    "EN": "Upgrade the vehicle for clearing the landslide",
+                    "FR": "Améliorer le véhicule pour dégager le glissement de terrain",
+                    "ID": "Upgrade kendaraan untuk membersihkan tanah longsor",
+                    "IT": "Potenzia il veicolo per sgomberare la frana",
+                    "JP": "工事用車両の改造が完了する",
+                    "KR": "장애물 제거 공학 차량을 업그레이드",
+                    "MX": "Mejora el vehículo para despejar el deslizamiento de tierra",
+                    "RU": "Улучшите транспорт для расчистки оползня",
+                    "TC": "完成清障工程車的升級",
+                    "TH": "อัป​เกรด​ยานพาหนะ​สำหรับ​เคลียร์​ดิน​ถล่ม",
+                    "VN": "Nâng cấp phương tiện để dọn dẹp hiện trường sạt lở"
+                  },
+                  "jumpId": "jump_mission_main_chapter_1",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e1m9d5_q#2"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo II: Pavimentando o Caminho – Entregue as peças prontas a Andre]",
+                    "CN": "完成「第一章 - 进程Ⅱ - 开拓前路 - 向安德烈提交生产的零件」",
+                    "DE": "Schließe [Kapitel I, Prozess II: Den Weg freimachen – Gib André die fertigen Teile] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅱ: Paving the Way - Give Andre the completed parts]",
+                    "FR": "Terminer le [Chapitre I - Processus II : Ouvrir la voie - Remettre à André les pièces achevées]",
+                    "ID": "Selesaikan [Bab I Proses II: Membuka Jalan - Berikan bagian yang sudah selesai kepada Andre]",
+                    "IT": "Completa \"Capitolo I - Elaborazione II: Aprire la strada - Consegna le parti completate ad Andre\"",
+                    "JP": "第一章プロセスⅡ「前路開拓 - アンドレイに製造した部品を渡す」を完了する",
+                    "KR": "[1장 - 프로세스 II - 앞길 개척 - 안드레에게 생산된 부품을 제출하기] 완료",
+                    "MX": "Completa [Capítulo I Proceso II: Pavimentando el camino - Dale a Andre las piezas completas]",
+                    "RU": "Завершите операцию II главы I «Прокладывание пути» — отдайте Андре готовые детали",
+                    "TC": "完成「第一章 - 進度II - 開拓前路 - 向安德烈提交生產的零件」",
+                    "TH": "ทำ​ [บท​ที่​ 1 องก์​ 2: ถาง​เส้นทาง​ - มอบ​ชิ้นส่วน​ที่​สมบูรณ์​ให้​กับ​อัง​เดร​] ให้​เสร็จสิ้น",
+                    "VN": "Hoàn thành [Chương I Tiến Trình II: Mở Đường - Đưa Andre bộ trang bị đã hoàn thiện]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_4",
+              "stageId": 4,
+              "stageStrId": "activity_newplayer_mission_reward_stage4"
+            },
+            {
+              "activityId": "activity_newplayer_mission_reward",
+              "conditions": [
+                {
+                  "compareOperator": 3,
+                  "conditionId": "activity_newplayer_mission_reward_con_5",
+                  "conditionType": 19,
+                  "desc": {
+                    "BR": "Alcance o Nível de Autoridade 18 e volte para o Parque Científico de Originium",
+                    "CN": "提升权限等阶至18级，前往源石研究园",
+                    "DE": "Erreiche Autoritätslevel 18 und kehre zum Originium-Wissenschaftspark zurück.",
+                    "EN": "Reach Authority Level 18 and return to the Originium Science Park",
+                    "FR": "Atteindre le niveau d'autorité 18 et retourner au parc des sciences de l'originium",
+                    "ID": "Capai Otoritas Level 18 dan kembali ke Taman Sains Originium",
+                    "IT": "Raggiungi il livello di autorità 18 e torna al Parco scientifico dell'Originium.",
+                    "JP": "行動レベルを18までアップし、源石研究パークに向かう",
+                    "KR": "권한 등급을 18레벨까지 올리고, 오리지늄 연구 구역으로 이동",
+                    "MX": "Alcanza el Nivel de autoridad 18 y regresa al Parque científico de Originio",
+                    "RU": "Получите уровень влияния 18 и вернитесь в Центр исследования ориджиния",
+                    "TC": "提升權限等階至18級，前往源石研究園",
+                    "TH": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ให้​ถึง​เล​เวล​ 18 แล้ว​กลับ​ไป​ยัง​สวน​วิทยาศาสตร์​ออ​ริ​จิ​เนียม",
+                    "VN": "Đạt Cấp Đặc Quyền 18 và trở về Công Viên Khoa Học Originium"
+                  },
+                  "jumpId": "jump_mission_main_chapter_1",
+                  "parameters": [
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": null,
+                      "valueIntList": null,
+                      "valueStringList": [
+                        "e2m1"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        0
+                      ],
+                      "valueIntList": [
+                        0
+                      ],
+                      "valueStringList": [
+                        "0"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    },
+                    {
+                      "realType": 0,
+                      "valueBoolList": null,
+                      "valueFloatList": [
+                        3
+                      ],
+                      "valueIntList": [
+                        3
+                      ],
+                      "valueStringList": [
+                        "3"
+                      ],
+                      "valueType": 0,
+                      "valueVector3": null
+                    }
+                  ],
+                  "progressToCompare": 1,
+                  "tips": {
+                    "BR": "Conclua o [Capítulo I Processo III: A Missão Continua]",
+                    "CN": "完成「第一章 - 进程Ⅲ - 再度启程」",
+                    "DE": "Schließe [Kapitel I Prozess III: Die Mission geht weiter] ab.",
+                    "EN": "Complete [Chapter Ⅰ Process Ⅲ: The Mission Continues]",
+                    "FR": "Terminer le [Chapitre I - Processus III : La mission continue]",
+                    "ID": "Selesaikan [Bab I Proses III: Misi Berlanjut]",
+                    "IT": "Completa \"Capitolo I - Elaborazione III: La missione continua\".",
+                    "JP": "第一章プロセスⅢ「任務継続」を完了する",
+                    "KR": "[1장 - 프로세스 III - 다시 출발] 완료",
+                    "MX": "Completa [Capítulo I Proceso III: La misión continúa]",
+                    "RU": "Завершите операцию III главы I «Продолжение миссии»",
+                    "TC": "完成「第一章 - 進度III - 再度啟程」",
+                    "TH": "ดำเนิน​ [บท​ที่​ 1 องก์​ 3: ภารกิจ​ดำเนินต่อไป​] ให้​สำเร็จ",
+                    "VN": "Hoàn thành [Chương I – Tiến Trình Ⅲ: Nhiệm Vụ Tiếp Diễn]"
+                  }
+                }
+              ],
+              "rewardId": "reward_newplayer_mission_reward_5",
+              "stageId": 5,
+              "stageStrId": "activity_newplayer_mission_reward_stage5"
+            }
+          ]
+        },
+        "changed": {
+          "stageList[0].conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          },
+          "stageList[1].conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          },
+          "stageList[2].conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          },
+          "stageList[3].conditions[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Alcance o Nível de Autoridade 15 e volte para a Dijiang",
+                "newText": "Faça upgrade do veículo para limpar o deslizamento de terra"
+              },
+              "CN": {
+                "oldText": "提升权限等阶至15级，重返帝江号",
+                "newText": "完成清障工程车的升级"
+              },
+              "DE": {
+                "oldText": "Erreiche Autoritätslevel 15 und kehre zur Dijiang zurück.",
+                "newText": "Verbessere das Fahrzeug, um den Erdrutsch zu beseitigen"
+              },
+              "EN": {
+                "oldText": "Reach Authority Level 15 and return to Dijiang",
+                "newText": "Upgrade the vehicle for clearing the landslide"
+              },
+              "FR": {
+                "oldText": "Atteindre le niveau d'autorité 15 et retourner au Dijiang",
+                "newText": "Améliorer le véhicule pour dégager le glissement de terrain"
+              },
+              "ID": {
+                "oldText": "Capai Otoritas Level 15 dan kembali ke Dijiang",
+                "newText": "Upgrade kendaraan untuk membersihkan tanah longsor"
+              },
+              "IT": {
+                "oldText": "Raggiungi il livello di autorità 15 e torna sulla Dijiang.",
+                "newText": "Potenzia il veicolo per sgomberare la frana"
+              },
+              "JP": {
+                "oldText": "行動レベルを15までアップし、帝江号に戻る",
+                "newText": "工事用車両の改造が完了する"
+              },
+              "KR": {
+                "oldText": "권한 등급을 15레벨까지 올리고, 제강호로 복귀",
+                "newText": "장애물 제거 공학 차량을 업그레이드"
+              },
+              "MX": {
+                "oldText": "Llega al Nivel de autoridad 15 y regresa a la Dijiang",
+                "newText": "Mejora el vehículo para despejar el deslizamiento de tierra"
+              },
+              "RU": {
+                "oldText": "Получите уровень влияния 15 и вернитесь на «Дицзян»",
+                "newText": "Улучшите транспорт для расчистки оползня"
+              },
+              "TC": {
+                "oldText": "提升權限等階至15級，重返帝江號",
+                "newText": "完成清障工程車的升級"
+              },
+              "TH": {
+                "oldText": "เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ให้​ถึง​เล​เวล​ 15 แล้ว​กลับ​ไป​ยัง​ตี้​เจียง",
+                "newText": "อัป​เกรด​ยานพาหนะ​สำหรับ​เคลียร์​ดิน​ถล่ม"
+              },
+              "VN": {
+                "oldText": "Đạt Cấp Đặc Quyền 15 và trở về Dijiang",
+                "newText": "Nâng cấp phương tiện để dọn dẹp hiện trường sạt lở"
+              }
+            }
+          },
+          "stageList[3].conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          },
+          "stageList[3].conditions[0].tips": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua o [Capítulo I Processo II: Preparação do Trabalho – Alcance o Nível de Autoridade 15]",
+                "newText": "Conclua o [Capítulo I Processo II: Pavimentando o Caminho – Entregue as peças prontas a Andre]"
+              },
+              "CN": {
+                "oldText": "完成「第一章 - 进程Ⅱ - 准备工作 - 将权限等阶提升至15级」",
+                "newText": "完成「第一章 - 进程Ⅱ - 开拓前路 - 向安德烈提交生产的零件」"
+              },
+              "DE": {
+                "oldText": "Schließe [Kapitel I Prozess II: Arbeitsvorbereitung – Erreiche Autoritätslevel 15] ab.",
+                "newText": "Schließe [Kapitel I, Prozess II: Den Weg freimachen – Gib André die fertigen Teile] ab."
+              },
+              "EN": {
+                "oldText": "Complete [Chapter Ⅰ Process Ⅱ: Work Preparation - Reach Authority Level 15]",
+                "newText": "Complete [Chapter Ⅰ Process Ⅱ: Paving the Way - Give Andre the completed parts]"
+              },
+              "FR": {
+                "oldText": "Terminer le [Chapitre I - Processus II : Préparation au travail - Atteindre le niveau d'autorité 15]",
+                "newText": "Terminer le [Chapitre I - Processus II : Ouvrir la voie - Remettre à André les pièces achevées]"
+              },
+              "ID": {
+                "oldText": "Selesaikan [Bab I Proses II: Persiapan Kerja - Capai Otoritas Level 15]",
+                "newText": "Selesaikan [Bab I Proses II: Membuka Jalan - Berikan bagian yang sudah selesai kepada Andre]"
+              },
+              "IT": {
+                "oldText": "Completa \"Capitolo I - Elaborazione II: Preparativi - Raggiungi il livello di autorità 15\".",
+                "newText": "Completa \"Capitolo I - Elaborazione II: Aprire la strada - Consegna le parti completate ad Andre\""
+              },
+              "JP": {
+                "oldText": "第一章プロセスⅡ「出立の準備 - 行動レベルを15までアップする」を完了する",
+                "newText": "第一章プロセスⅡ「前路開拓 - アンドレイに製造した部品を渡す」を完了する"
+              },
+              "KR": {
+                "oldText": "[1장 - 프로세스 II - 작업 준비 - 권한 등급을 15레벨까지 올리기] 완료",
+                "newText": "[1장 - 프로세스 II - 앞길 개척 - 안드레에게 생산된 부품을 제출하기] 완료"
+              },
+              "MX": {
+                "oldText": "Completa [Capítulo I Proceso II: Preparación para el trabajo – Alcanza el nivel de autoridad 15]",
+                "newText": "Completa [Capítulo I Proceso II: Pavimentando el camino - Dale a Andre las piezas completas]"
+              },
+              "RU": {
+                "oldText": "Завершите операцию II главы I «Подготовка» — получите уровень влияния 15",
+                "newText": "Завершите операцию II главы I «Прокладывание пути» — отдайте Андре готовые детали"
+              },
+              "TC": {
+                "oldText": "完成「第一章 - 進度II - 準備工作 - 將權限等階提升至15級」",
+                "newText": "完成「第一章 - 進度II - 開拓前路 - 向安德烈提交生產的零件」"
+              },
+              "TH": {
+                "oldText": "ดำเนิน​ [บท​ที่​ 1 องก์​ 2: การ​เตรียม​ความพร้อม​เพื่อ​ปฏิบัติงาน​ – เก็บ​เล​เวล​ของ​เจ้าพนักงาน​ให้​ถึง​เล​เวล​ 15] ให้​สำเร็จ",
+                "newText": "ทำ​ [บท​ที่​ 1 องก์​ 2: ถาง​เส้นทาง​ - มอบ​ชิ้นส่วน​ที่​สมบูรณ์​ให้​กับ​อัง​เดร​] ให้​เสร็จสิ้น"
+              },
+              "VN": {
+                "oldText": "Hoàn thành [Chương I – Tiến Trình II: Chuẩn Bị Công Việc - Đạt Cấp Đặc Quyền 15]",
+                "newText": "Hoàn thành [Chương I Tiến Trình II: Mở Đường - Đưa Andre bộ trang bị đã hoàn thiện]"
+              }
+            }
+          },
+          "stageList[4].conditions[0].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_mission_main_chapter_1"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2850 @@
+{
+  "tableName": "SpaceshipSkillTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 32,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "spaceship_skill_chr_0032_lizhiyan_1_1": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 20%",
+          "CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +20 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 20 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +20%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita dei minerali rari.",
+          "JP": "培養室配属時、鉱物素材の培養速度+20%",
+          "KR": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +20 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 20%.",
+          "TC": "進駐培養艙時，礦物材料的培養速度提升20%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +20%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 20%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_chr_0032_lizhiyan_1_1",
+        "level": 1,
+        "name": {
+          "BR": "Arrancar a Montanha, Ferver o Mar β",
+          "CN": "摘山煮海·β",
+          "DE": "Pflück’ den Berg und koch’ das Meer β",
+          "EN": "Pluck the Mountain, Boil the Sea β",
+          "FR": "Gratter la montagne, faire bouillir la mer β",
+          "ID": "Pluck the Mountain, Boil the Sea β",
+          "IT": "Sradica la montagna, fai bollire il mare β",
+          "JP": "鋳山煮海・β",
+          "KR": "산을 따고, 바다를 끓여라! · β",
+          "MX": "Arrancar la montaña, hervir el mar β",
+          "RU": "Сквозь все препятствия β",
+          "TC": "摘山煮海·β",
+          "TH": "ถอน​ภูผา​ ต้ม​ทะเล​ β",
+          "VN": "Bạt Sơn Chử Hải β"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 101,
+        "talentName": {
+          "BR": "Arrancar a Montanha, Ferver o Mar",
+          "CN": "摘山煮海",
+          "DE": "Pflück’ den Berg und koch’ das Meer",
+          "EN": "Pluck the Mountain, Boil the Sea",
+          "FR": "Gratter la montagne, faire bouillir la mer",
+          "ID": "Pluck the Mountain, Boil the Sea",
+          "IT": "Sradica la montagna, fai bollire il mare",
+          "JP": "鋳山煮海",
+          "KR": "산을 따고, 바다를 끓여라!",
+          "MX": "Arrancar la montaña, hervir el mar",
+          "RU": "Сквозь все препятствия",
+          "TC": "摘山煮海",
+          "TH": "ถอน​ภูผา​ ต้ม​ทะเล",
+          "VN": "Bạt Sơn Chử Hải"
+        }
+      },
+      "spaceship_skill_chr_0032_lizhiyan_2_2": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de plantas vitrificadas + 30%",
+          "CN": "进驻培养舱时，晶植质料的培养速度提升30%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von In-vitro-Pflanzen um +30 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant vitrified plant growth rate +30%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des plantes vitrifiées de 30 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan tanaman hasil pemijaran akan meningkat sebesar +30%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita delle piante in vitro.",
+          "JP": "培養室配属時、晶植素材の培養速度+30%",
+          "KR": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 30% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de plantas vitrificadas del +30 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост кристаллизованных растений на 30%.",
+          "TC": "進駐培養艙時，晶植材料的培養速度提升30%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​พืช​ที่​กลายเป็น​ผลึก​ +30%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng cây trồng hóa đá thêm 30%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_flower",
+        "id": "spaceship_skill_chr_0032_lizhiyan_2_2",
+        "level": 2,
+        "name": {
+          "BR": "Botanófilo γ",
+          "CN": "多识草木·γ",
+          "DE": "Botanikexperte γ",
+          "EN": "Botanophile γ",
+          "FR": "Botanophilie γ",
+          "ID": "Botanophile γ",
+          "IT": "Botanofilia γ",
+          "JP": "草木熟知・γ",
+          "KR": "식물 박사 · γ",
+          "MX": "Botanófila γ",
+          "RU": "Ботанофилия γ",
+          "TC": "多識草木·γ",
+          "TH": "คนรัก​พฤกษา​ γ",
+          "VN": "Người Yêu Cây Cỏ γ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.3
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.30000000000000004"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 104,
+        "talentName": {
+          "BR": "Botanófilo",
+          "CN": "多识草木",
+          "DE": "Botanikexperte",
+          "EN": "Botanophile",
+          "FR": "Botanophilie",
+          "ID": "Botanophile",
+          "IT": "Botanofilia",
+          "JP": "草木熟知",
+          "KR": "식물 박사",
+          "MX": "Botanófila",
+          "RU": "Ботанофилия",
+          "TC": "多識草木",
+          "TH": "คนรัก​พฤกษา",
+          "VN": "Người Yêu Cây Cỏ"
+        }
+      },
+      "spaceship_skill_chr_0032_lizhiyan_1_2": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 30%",
+          "CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +30 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 30 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +30%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita dei minerali rari.",
+          "JP": "培養室配属時、鉱物素材の培養速度+30%",
+          "KR": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +30 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 30%.",
+          "TC": "進駐培養艙時，礦物材料的培養速度提升30%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +30%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 30%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_chr_0032_lizhiyan_1_2",
+        "level": 2,
+        "name": {
+          "BR": "Arrancar a Montanha, Ferver o Mar γ",
+          "CN": "摘山煮海·γ",
+          "DE": "Pflück’ den Berg und koch’ das Meer γ",
+          "EN": "Pluck the Mountain, Boil the Sea γ",
+          "FR": "Gratter la montagne, faire bouillir la mer γ",
+          "ID": "Pluck the Mountain, Boil the Sea γ",
+          "IT": "Sradica la montagna, fai bollire il mare γ",
+          "JP": "鋳山煮海・γ",
+          "KR": "산을 따고, 바다를 끓여라! · γ",
+          "MX": "Arrancar la montaña, hervir el mar γ",
+          "RU": "Сквозь все препятствия γ",
+          "TC": "摘山煮海·γ",
+          "TH": "ถอน​ภูผา​ ต้ม​ทะเล​ γ",
+          "VN": "Bạt Sơn Chử Hải γ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.3
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.30000000000000004"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 102,
+        "talentName": {
+          "BR": "Arrancar a Montanha, Ferver o Mar",
+          "CN": "摘山煮海",
+          "DE": "Pflück’ den Berg und koch’ das Meer",
+          "EN": "Pluck the Mountain, Boil the Sea",
+          "FR": "Gratter la montagne, faire bouillir la mer",
+          "ID": "Pluck the Mountain, Boil the Sea",
+          "IT": "Sradica la montagna, fai bollire il mare",
+          "JP": "鋳山煮海",
+          "KR": "산을 따고, 바다를 끓여라!",
+          "MX": "Arrancar la montaña, hervir el mar",
+          "RU": "Сквозь все препятствия",
+          "TC": "摘山煮海",
+          "TH": "ถอน​ภูผา​ ต้ม​ทะเล",
+          "VN": "Bạt Sơn Chử Hải"
+        }
+      },
+      "spaceship_skill_chr_0032_lizhiyan_2_1": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de plantas vitrificadas + 20%",
+          "CN": "进驻培养舱时，晶植质料的培养速度提升20%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von In-vitro-Pflanzen um +20 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant vitrified plant growth rate +20%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des plantes vitrifiées de 20 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan tanaman hasil pemijaran akan meningkat sebesar +20%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita delle piante in vitro.",
+          "JP": "培養室配属時、晶植素材の培養速度+20%",
+          "KR": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 20% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de plantas vitrificadas del +20 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост кристаллизованных растений на 20%.",
+          "TC": "進駐培養艙時，晶植材料的培養速度提升20%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​พืช​ที่​กลายเป็น​ผลึก​ +20%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng cây trồng hóa đá thêm 20%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_flower",
+        "id": "spaceship_skill_chr_0032_lizhiyan_2_1",
+        "level": 1,
+        "name": {
+          "BR": "Botanófilo β",
+          "CN": "多识草木·β",
+          "DE": "Botanikexperte β",
+          "EN": "Botanophile β",
+          "FR": "Botanophilie β",
+          "ID": "Botanophile β",
+          "IT": "Botanofilia β",
+          "JP": "草木熟知・β",
+          "KR": "식물 박사 · β",
+          "MX": "Botanófila β",
+          "RU": "Ботанофилия β",
+          "TC": "多識草木·β",
+          "TH": "คนรัก​พฤกษา​ β",
+          "VN": "Người Yêu Cây Cỏ β"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 103,
+        "talentName": {
+          "BR": "Botanófilo",
+          "CN": "多识草木",
+          "DE": "Botanikexperte",
+          "EN": "Botanophile",
+          "FR": "Botanophilie",
+          "ID": "Botanophile",
+          "IT": "Botanofilia",
+          "JP": "草木熟知",
+          "KR": "식물 박사",
+          "MX": "Botanófila",
+          "RU": "Ботанофилия",
+          "TC": "多識草木",
+          "TH": "คนรัก​พฤกษา",
+          "VN": "Người Yêu Cây Cỏ"
+        }
+      }
+    },
+    "removed": {
+      "spaceship_skill_acc_all_ps_recovery1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 0,
+        "icon": "facskill_spaceship_physical_power",
+        "id": "spaceship_skill_acc_all_ps_recovery1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.08
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.08"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 0,
+        "skillNamePostfix": "α",
+        "sortId": 1,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_all_ps_recovery1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 0,
+        "icon": "facskill_spaceship_physical_power",
+        "id": "spaceship_skill_acc_all_ps_recovery1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.12
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.12"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 0,
+        "skillNamePostfix": "β",
+        "sortId": 2,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_all_ps_recovery2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 0,
+        "icon": "facskill_spaceship_physical_power",
+        "id": "spaceship_skill_acc_all_ps_recovery2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.12
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.12"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 0,
+        "skillNamePostfix": "β",
+        "sortId": 3,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_gc_cost2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_plant_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_gc_cost2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.14
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.14"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 11,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_all_ps_recovery2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 0,
+        "icon": "facskill_spaceship_physical_power",
+        "id": "spaceship_skill_acc_all_ps_recovery2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.16
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.16"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 0,
+        "skillNamePostfix": "γ",
+        "sortId": 4,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_charmaterial_produce1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_fungus",
+        "id": "spaceship_skill_acc_charmaterial_produce1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.1
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "α",
+        "sortId": 21,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_charmaterial_produce1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_fungus",
+        "id": "spaceship_skill_acc_charmaterial_produce1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 22,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_gc_cost1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_plant_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_gc_cost1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.1
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "α",
+        "sortId": 9,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_charmaterial_produce2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_fungus",
+        "id": "spaceship_skill_acc_charmaterial_produce2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 23,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_gc_cost2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_plant_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_gc_cost2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.18
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.18"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 12,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_charmaterial_produce2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_fungus",
+        "id": "spaceship_skill_acc_charmaterial_produce2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.3
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 24,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_gc_produce1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_plant_efficient",
+        "id": "spaceship_skill_acc_room_gc_produce1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.08
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.08"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "α",
+        "sortId": 17,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_gc_produce1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_plant_efficient",
+        "id": "spaceship_skill_acc_room_gc_produce1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.16
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.16"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 18,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_gc_produce2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_plant_efficient",
+        "id": "spaceship_skill_acc_room_gc_produce2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.16
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.16"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 19,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_gc_produce2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_plant_efficient",
+        "id": "spaceship_skill_acc_room_gc_produce2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.24
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.24"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 20,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_skillmaterial_produce2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_flower",
+        "id": "spaceship_skill_acc_skillmaterial_produce2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.3
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 28,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_ms_produce1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_manufacture_efficiency",
+        "id": "spaceship_skill_acc_room_ms_produce1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.08
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.08"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "α",
+        "sortId": 13,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_ms_produce1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_manufacture_efficiency",
+        "id": "spaceship_skill_acc_room_ms_produce1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.16
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.16"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "β",
+        "sortId": 14,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_ms_produce2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_manufacture_efficiency",
+        "id": "spaceship_skill_acc_room_ms_produce2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.16
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.16"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "β",
+        "sortId": 15,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_room_ms_produce2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 2,
+        "icon": "facskill_spaceship_manufacture_efficiency",
+        "id": "spaceship_skill_acc_room_ms_produce2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.24
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.24"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "γ",
+        "sortId": 16,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_skillmaterial_produce1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_flower",
+        "id": "spaceship_skill_acc_skillmaterial_produce1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.1
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "α",
+        "sortId": 25,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_skillmaterial_produce1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_flower",
+        "id": "spaceship_skill_acc_skillmaterial_produce1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 26,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_skillmaterial_produce2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_flower",
+        "id": "spaceship_skill_acc_skillmaterial_produce2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 27,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_weaponmaterial_produce1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_acc_weaponmaterial_produce1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.1
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "α",
+        "sortId": 29,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_weaponmaterial_produce1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_acc_weaponmaterial_produce1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 30,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_weaponmaterial_produce2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_acc_weaponmaterial_produce2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 31,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_acc_weaponmaterial_produce2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_acc_weaponmaterial_produce2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.3
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 32,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_ms_cost1_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_manufacture_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_ms_cost1_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.1
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "α",
+        "sortId": 5,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_ms_cost1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_manufacture_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_ms_cost1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.14
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.14"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "β",
+        "sortId": 6,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_ms_cost2_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_manufacture_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_ms_cost2_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.18
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.18"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "γ",
+        "sortId": 8,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_gc_cost1_2": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_plant_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_gc_cost1_2",
+        "level": 2,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.14
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.14"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 10,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "spaceship_skill_reduce_room_ps_ms_cost2_1": {
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_manufacture_power_consume",
+        "id": "spaceship_skill_reduce_room_ps_ms_cost2_1",
+        "level": 1,
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.14
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.14"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 1,
+        "skillNamePostfix": "β",
+        "sortId": 7,
+        "talentName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      }
+    },
+    "changed": {}
+  }
+}

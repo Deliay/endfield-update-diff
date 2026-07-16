@@ -1,0 +1,82 @@
+{
+  "tableName": "KiteStationRewardTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "kitestation_004_1": {
+        "oldValue": {
+          "rewardList": [
+            {
+              "collectionCnt": 1,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_1"
+            },
+            {
+              "collectionCnt": 4,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_2"
+            },
+            {
+              "collectionCnt": 8,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_3"
+            },
+            {
+              "collectionCnt": 12,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_4"
+            }
+          ]
+        },
+        "newValue": {
+          "rewardList": [
+            {
+              "collectionCnt": 1,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_1"
+            },
+            {
+              "collectionCnt": 4,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_2"
+            },
+            {
+              "collectionCnt": 8,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_3"
+            },
+            {
+              "collectionCnt": 12,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_4"
+            },
+            {
+              "collectionCnt": 16,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_5"
+            }
+          ]
+        },
+        "changed": {
+          "rewardList[4]": {
+            "type": "value",
+            "newValue": {
+              "collectionCnt": 16,
+              "kiteStation": "kitestation_004_1",
+              "rewardId": "reward_kitestation_milestone_jinlong_004_5"
+            }
+          }
+        }
+      }
+    }
+  }
+}

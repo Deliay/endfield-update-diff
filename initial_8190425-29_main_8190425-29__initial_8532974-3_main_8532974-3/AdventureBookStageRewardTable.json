@@ -1,0 +1,320 @@
+{
+  "tableName": "AdventureBookStageRewardTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 6
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "4": {
+        "oldValue": {
+          "adventureBookStage": 4,
+          "rewardId": "reward_adventure_book_stage_4",
+          "taskIds": [
+            "ab_04_01",
+            "ab_04_02",
+            "ab_04_03",
+            "ab_04_04",
+            "ab_04_05",
+            "ab_04_06"
+          ]
+        },
+        "newValue": {
+          "adventureBookStage": 4,
+          "rewardId": "reward_adventure_book_stage_4",
+          "taskIds": [
+            "ab_04_01",
+            "ab_04_02",
+            "ab_04_02_map_02",
+            "ab_04_03",
+            "ab_04_04",
+            "ab_04_05",
+            "ab_04_06"
+          ]
+        },
+        "changed": {
+          "taskIds[2]": {
+            "type": "value",
+            "oldValue": "ab_04_03",
+            "newValue": "ab_04_02_map_02"
+          },
+          "taskIds[3]": {
+            "type": "value",
+            "oldValue": "ab_04_04",
+            "newValue": "ab_04_03"
+          },
+          "taskIds[4]": {
+            "type": "value",
+            "oldValue": "ab_04_05",
+            "newValue": "ab_04_04"
+          },
+          "taskIds[5]": {
+            "type": "value",
+            "oldValue": "ab_04_06",
+            "newValue": "ab_04_05"
+          },
+          "taskIds[6]": {
+            "type": "value",
+            "newValue": "ab_04_06"
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "adventureBookStage": 5,
+          "rewardId": "reward_adventure_book_stage_5",
+          "taskIds": [
+            "ab_05_01",
+            "ab_05_02",
+            "ab_05_03",
+            "ab_05_04",
+            "ab_05_05",
+            "ab_05_06"
+          ]
+        },
+        "newValue": {
+          "adventureBookStage": 5,
+          "rewardId": "reward_adventure_book_stage_5",
+          "taskIds": [
+            "ab_05_01",
+            "ab_05_02",
+            "ab_05_02_map_02",
+            "ab_05_03",
+            "ab_05_04",
+            "ab_05_05",
+            "ab_05_05_map_02",
+            "ab_05_06"
+          ]
+        },
+        "changed": {
+          "taskIds[2]": {
+            "type": "value",
+            "oldValue": "ab_05_03",
+            "newValue": "ab_05_02_map_02"
+          },
+          "taskIds[3]": {
+            "type": "value",
+            "oldValue": "ab_05_04",
+            "newValue": "ab_05_03"
+          },
+          "taskIds[4]": {
+            "type": "value",
+            "oldValue": "ab_05_05",
+            "newValue": "ab_05_04"
+          },
+          "taskIds[5]": {
+            "type": "value",
+            "oldValue": "ab_05_06",
+            "newValue": "ab_05_05"
+          },
+          "taskIds[6]": {
+            "type": "value",
+            "newValue": "ab_05_05_map_02"
+          },
+          "taskIds[7]": {
+            "type": "value",
+            "newValue": "ab_05_06"
+          }
+        }
+      },
+      "6": {
+        "oldValue": {
+          "adventureBookStage": 6,
+          "rewardId": "reward_adventure_book_stage_6",
+          "taskIds": [
+            "ab_06_01",
+            "ab_06_02",
+            "ab_06_03",
+            "ab_06_04",
+            "ab_06_05",
+            "ab_06_06"
+          ]
+        },
+        "newValue": {
+          "adventureBookStage": 6,
+          "rewardId": "reward_adventure_book_stage_6",
+          "taskIds": [
+            "ab_06_01",
+            "ab_06_02",
+            "ab_06_02_map_02",
+            "ab_06_03",
+            "ab_06_04",
+            "ab_06_04_map_02",
+            "ab_06_05",
+            "ab_06_05_map_02",
+            "ab_06_06",
+            "ab_06_06_map_02"
+          ]
+        },
+        "changed": {
+          "taskIds[2]": {
+            "type": "value",
+            "oldValue": "ab_06_03",
+            "newValue": "ab_06_02_map_02"
+          },
+          "taskIds[3]": {
+            "type": "value",
+            "oldValue": "ab_06_04",
+            "newValue": "ab_06_03"
+          },
+          "taskIds[4]": {
+            "type": "value",
+            "oldValue": "ab_06_05",
+            "newValue": "ab_06_04"
+          },
+          "taskIds[5]": {
+            "type": "value",
+            "oldValue": "ab_06_06",
+            "newValue": "ab_06_04_map_02"
+          },
+          "taskIds[6]": {
+            "type": "value",
+            "newValue": "ab_06_05"
+          },
+          "taskIds[7]": {
+            "type": "value",
+            "newValue": "ab_06_05_map_02"
+          },
+          "taskIds[8]": {
+            "type": "value",
+            "newValue": "ab_06_06"
+          },
+          "taskIds[9]": {
+            "type": "value",
+            "newValue": "ab_06_06_map_02"
+          }
+        }
+      },
+      "7": {
+        "oldValue": {
+          "adventureBookStage": 7,
+          "rewardId": "reward_adventure_book_stage_7",
+          "taskIds": [
+            "ab_07_01",
+            "ab_07_02",
+            "ab_07_03",
+            "ab_07_04",
+            "ab_07_05",
+            "ab_07_06"
+          ]
+        },
+        "newValue": {
+          "adventureBookStage": 7,
+          "rewardId": "reward_adventure_book_stage_7",
+          "taskIds": [
+            "ab_07_01",
+            "ab_07_02",
+            "ab_07_03",
+            "ab_07_04",
+            "ab_07_05",
+            "ab_07_06",
+            "ab_07_06_map_02"
+          ]
+        },
+        "changed": {
+          "taskIds[6]": {
+            "type": "value",
+            "newValue": "ab_07_06_map_02"
+          }
+        }
+      },
+      "8": {
+        "oldValue": {
+          "adventureBookStage": 8,
+          "rewardId": "reward_adventure_book_stage_8",
+          "taskIds": [
+            "ab_08_01",
+            "ab_08_02",
+            "ab_08_03",
+            "ab_08_04",
+            "ab_08_05",
+            "ab_08_06"
+          ]
+        },
+        "newValue": {
+          "adventureBookStage": 8,
+          "rewardId": "reward_adventure_book_stage_8",
+          "taskIds": [
+            "ab_08_01",
+            "ab_08_02",
+            "ab_08_03",
+            "ab_08_03_map_02",
+            "ab_08_04",
+            "ab_08_05",
+            "ab_08_06"
+          ]
+        },
+        "changed": {
+          "taskIds[3]": {
+            "type": "value",
+            "oldValue": "ab_08_04",
+            "newValue": "ab_08_03_map_02"
+          },
+          "taskIds[4]": {
+            "type": "value",
+            "oldValue": "ab_08_05",
+            "newValue": "ab_08_04"
+          },
+          "taskIds[5]": {
+            "type": "value",
+            "oldValue": "ab_08_06",
+            "newValue": "ab_08_05"
+          },
+          "taskIds[6]": {
+            "type": "value",
+            "newValue": "ab_08_06"
+          }
+        }
+      },
+      "9": {
+        "oldValue": {
+          "adventureBookStage": 9,
+          "rewardId": "reward_adventure_book_stage_9",
+          "taskIds": [
+            "ab_09_01",
+            "ab_09_02",
+            "ab_09_03",
+            "ab_09_04",
+            "ab_09_05",
+            "ab_09_06"
+          ]
+        },
+        "newValue": {
+          "adventureBookStage": 9,
+          "rewardId": "reward_adventure_book_stage_9",
+          "taskIds": [
+            "ab_09_01",
+            "ab_09_02",
+            "ab_09_03",
+            "ab_09_04",
+            "ab_09_04_map_02",
+            "ab_09_05",
+            "ab_09_06"
+          ]
+        },
+        "changed": {
+          "taskIds[4]": {
+            "type": "value",
+            "oldValue": "ab_09_05",
+            "newValue": "ab_09_04_map_02"
+          },
+          "taskIds[5]": {
+            "type": "value",
+            "oldValue": "ab_09_06",
+            "newValue": "ab_09_05"
+          },
+          "taskIds[6]": {
+            "type": "value",
+            "newValue": "ab_09_06"
+          }
+        }
+      }
+    }
+  }
+}

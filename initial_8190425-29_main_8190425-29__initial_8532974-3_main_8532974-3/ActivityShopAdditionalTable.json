@@ -1,0 +1,139 @@
+{
+  "tableName": "ActivityShopAdditionalTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "shop_activity_limited_formula_1": {
+        "oldValue": {
+          "activityId": "activity_limited_formula_1",
+          "activityMoneyId": "item_activity_relief_coupon",
+          "banner": "shop_banner_01",
+          "closeCdText": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "hasHelpComponent": false,
+          "hasSortComponent": true,
+          "shopGroupId": "shop_activity_limited_formula_1",
+          "showCloseCd": false,
+          "titleColor": "2C2C2C"
+        },
+        "newValue": {
+          "activityId": "activity_limited_formula_1",
+          "activityMoneyId": "item_activity_relief_coupon",
+          "banner": "shop_banner_01",
+          "closeCdText": {
+            "BR": "Troca de Mercadorias encerrando em: ",
+            "CN": "物资兑换处关闭倒计时：",
+            "DE": "Warentauschbörse schließt in: ",
+            "EN": "Goods Exchange closing in: ",
+            "FR": "La boutique de marchandises ferme dans : ",
+            "ID": "Bursa Barang akan ditutup dalam: ",
+            "IT": "Lo Scambio articoli chiude tra: ",
+            "JP": "物資交換所-終了まで：",
+            "KR": "물자 교환소 종료까지: ",
+            "MX": "El Intercambio de mercancías cierra en: ",
+            "RU": "Обменник товаров закрывается через: ",
+            "TC": "物資兌換處關閉倒數計時：",
+            "TH": "การแลก​เปลี่ยน​สินค้า​จะ​ปิด​ใน​: ",
+            "VN": "Đóng Điểm Giao Dịch Hàng sau: "
+          },
+          "hasHelpComponent": false,
+          "hasSortComponent": true,
+          "shopGroupId": "shop_activity_limited_formula_1",
+          "showCloseCd": true,
+          "titleColor": "2C2C2C"
+        },
+        "changed": {
+          "closeCdText": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": "Troca de Mercadorias encerrando em: "
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "物资兑换处关闭倒计时："
+              },
+              "DE": {
+                "oldText": "",
+                "newText": "Warentauschbörse schließt in: "
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Goods Exchange closing in: "
+              },
+              "FR": {
+                "oldText": "",
+                "newText": "La boutique de marchandises ferme dans : "
+              },
+              "ID": {
+                "oldText": "",
+                "newText": "Bursa Barang akan ditutup dalam: "
+              },
+              "IT": {
+                "oldText": "",
+                "newText": "Lo Scambio articoli chiude tra: "
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "物資交換所-終了まで："
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "물자 교환소 종료까지: "
+              },
+              "MX": {
+                "oldText": "",
+                "newText": "El Intercambio de mercancías cierra en: "
+              },
+              "RU": {
+                "oldText": "",
+                "newText": "Обменник товаров закрывается через: "
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "物資兌換處關閉倒數計時："
+              },
+              "TH": {
+                "oldText": "",
+                "newText": "การแลก​เปลี่ยน​สินค้า​จะ​ปิด​ใน​: "
+              },
+              "VN": {
+                "oldText": "",
+                "newText": "Đóng Điểm Giao Dịch Hàng sau: "
+              }
+            }
+          },
+          "showCloseCd": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          }
+        }
+      }
+    }
+  }
+}

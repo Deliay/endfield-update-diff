@@ -1,0 +1,154 @@
+{
+  "tableName": "ActivityGameEntranceSeriesTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "activity_puzzle_1": {
+        "oldValue": {
+          "introMissionId": "",
+          "seriesMap": {
+            "activity_puzzle_v1d0": {
+              "achieveId": "achv_event_tundra_challenge_dung",
+              "bgImg": "activity_bg_dungeon",
+              "bgPrefab": "ActivityChallengeDungeonBgV1D0",
+              "name": {
+                "BR": "Primeira Revelação Enigmática",
+                "CN": "密境初显",
+                "DE": "Kryptische Enthüllung",
+                "EN": "Cryptic First Revealed",
+                "FR": "Première découverte du mystère",
+                "ID": "Pengungkapan Pertama Teka-Teki",
+                "IT": "Prima soluzione",
+                "JP": "密境の兆し",
+                "KR": "숨겨진 구역의 전조",
+                "MX": "El primer críptico revelado",
+                "RU": "Первое появление загадки",
+                "TC": "密境初顯",
+                "TH": "โหม​ด​เผย​ความลึกลับ​ครั้งแรก",
+                "VN": "Bí Ẩn Đầu Tiên Được Tiết Lộ"
+              },
+              "sortId": 1
+            },
+            "activity_puzzle_v1d1": {
+              "achieveId": "achv_event_wuling_challenge_dung",
+              "bgImg": "activity_bg_dungeon",
+              "bgPrefab": "ActivityChallengeDungeonBgV1D1",
+              "name": {
+                "BR": "Levantamento da Gruta",
+                "CN": "行探险窟",
+                "DE": "Grottenstudium",
+                "EN": "Grotto Survey",
+                "FR": "Inspection de la grotte",
+                "ID": "Survei Groto",
+                "IT": "Indagine speleologica",
+                "JP": "危地探索",
+                "KR": "동굴 탐험",
+                "MX": "Exploración de la cueva",
+                "RU": "Осмотр гротов",
+                "TC": "行探險窟",
+                "TH": "สำรวจ​ถ้ำ",
+                "VN": "Khảo Sát Hang Động"
+              },
+              "sortId": 2
+            }
+          }
+        },
+        "newValue": {
+          "introMissionId": "",
+          "seriesMap": {
+            "activity_puzzle_v1d0": {
+              "achieveId": "achv_event_tundra_challenge_dung",
+              "bgImg": "activity_bg_dungeon",
+              "bgPrefab": "ActivityChallengeDungeonBgV1D0",
+              "name": {
+                "BR": "Primeira Revelação Enigmática",
+                "CN": "密境初显",
+                "DE": "Kryptische Enthüllung",
+                "EN": "Cryptic First Revealed",
+                "FR": "Première découverte du mystère",
+                "ID": "Pengungkapan Pertama Teka-Teki",
+                "IT": "Prima soluzione",
+                "JP": "密境の兆し",
+                "KR": "숨겨진 구역의 전조",
+                "MX": "El primer críptico revelado",
+                "RU": "Первое появление загадки",
+                "TC": "密境初顯",
+                "TH": "โหม​ด​เผย​ความลึกลับ​ครั้งแรก",
+                "VN": "Bí Ẩn Đầu Tiên Được Tiết Lộ"
+              },
+              "sortId": 1
+            },
+            "activity_puzzle_v1d1": {
+              "achieveId": "achv_event_wuling_challenge_dung",
+              "bgImg": "activity_bg_dungeon",
+              "bgPrefab": "ActivityChallengeDungeonBgV1D1",
+              "name": {
+                "BR": "Levantamento da Gruta",
+                "CN": "行探险窟",
+                "DE": "Grottenstudium",
+                "EN": "Grotto Survey",
+                "FR": "Inspection de la grotte",
+                "ID": "Survei Groto",
+                "IT": "Indagine speleologica",
+                "JP": "危地探索",
+                "KR": "동굴 탐험",
+                "MX": "Exploración de la cueva",
+                "RU": "Осмотр гротов",
+                "TC": "行探險窟",
+                "TH": "สำรวจ​ถ้ำ",
+                "VN": "Khảo Sát Hang Động"
+              },
+              "sortId": 2
+            },
+            "activity_puzzle_v1d4": {
+              "achieveId": "achv_event_wuling_challenge_dung_02",
+              "bgImg": "activity_bg_dungeon",
+              "bgPrefab": "ActivityChallengeDungeonBgV1D4",
+              "name": {
+                "BR": "Reino Artístico dos Seis Cardeais",
+                "CN": "六方巧境",
+                "DE": "Kunstvolles Reich der Sechs Kardinäle",
+                "EN": "Artful Realm of Six Cardinals",
+                "FR": "Royaume artistique des Six Cardinaux",
+                "ID": "Dunia Seni Enam Kardinal",
+                "IT": "Regno artistico dei sei cardinali",
+                "JP": "六方密境",
+                "KR": "여섯 방향의 기묘한 구역",
+                "MX": "El ingenioso reino de los seis cardenales",
+                "RU": "Обитель шести искусных измерений",
+                "TC": "六方巧境",
+                "TH": "แดน​ศิลป์​แห่ง​หก​ทิศ",
+                "VN": "Cõi Tinh Diệu Lục Phương"
+              },
+              "sortId": 3
+            }
+          }
+        },
+        "changed": {
+          "seriesMap.activity_puzzle_v1d4": {
+            "type": "value",
+            "newValue": {
+              "achieveId": "achv_event_wuling_challenge_dung_02",
+              "bgImg": "activity_bg_dungeon",
+              "bgPrefab": "ActivityChallengeDungeonBgV1D4",
+              "name": {
+                "id": "-1177206493420244590",
+                "text": ""
+              },
+              "sortId": 3
+            }
+          }
+        }
+      }
+    }
+  }
+}

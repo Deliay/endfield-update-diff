@@ -1,0 +1,55 @@
+{
+  "tableName": "ActivityTagTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_tag_skip_chapter": {
+        "name": {
+          "BR": "Evento de Desbloqueio Antecipado",
+          "CN": "先行解锁活动",
+          "DE": "Event zur frühen Freischaltung",
+          "EN": "Early Unlock Event",
+          "FR": "Événement de déblocage anticipé",
+          "ID": "Event Buka Lebih Awal",
+          "IT": "Evento sblocco anticipato",
+          "JP": "先行解放",
+          "KR": "선행 해제 이벤트",
+          "MX": "Evento de Desbloqueo anticipado",
+          "RU": "Событие раннего открытия",
+          "TC": "先行解鎖活動",
+          "TH": "กิจกรรม​ปลดล็อก​ล่วงหน้า",
+          "VN": "Sự Kiện Mở Khóa Sớm"
+        },
+        "tagId": "activity_tag_skip_chapter"
+      },
+      "activity_tag_racingdungeon": {
+        "name": {
+          "BR": "Evento de Diversão e Jogos",
+          "CN": "趣味活动",
+          "DE": "Spiel-und-Spaß-Event",
+          "EN": "Fun & Games Event",
+          "FR": "Événement de jeux et divertissements",
+          "ID": "Event Senang-Senang & Permainan",
+          "IT": "Evento giochi e svago",
+          "JP": "レジャー",
+          "KR": "흥미 이벤트",
+          "MX": "Evento: Diversión y juegos",
+          "RU": "Развлекательное событие",
+          "TC": "趣味活動",
+          "TH": "กิจกรรม​สนุก​ไป​กับ​เกม",
+          "VN": "Vui Chơi Có Thưởng"
+        },
+        "tagId": "activity_tag_racingdungeon"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

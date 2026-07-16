@@ -1,0 +1,164 @@
+{
+  "tableName": "FacSTTConditionTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "tech_jinlong_4_dumper_mode_1_1": {
+        "conditionId": "tech_jinlong_4_dumper_mode_1_1",
+        "conditionType": 18,
+        "desc": {
+          "BR": "Progresso da Missão: [Preenchimento e Grauteamento]",
+          "CN": "推进任务「填隙柱地」后可解锁",
+          "DE": "Missionsfortschritt: [Rissbruchfüllung und Bodenabdichtung]",
+          "EN": "Mission Progress: [Fissure Filling and Land Grouting]",
+          "FR": "Progression de la mission : [Combler la fissure et ragréer le sol]",
+          "ID": "Progres Misi: [Pengisian Retakan dan Penutupan Tanah]",
+          "IT": "Progressi missione: \"Riempimento della fenditura e consolidamento del terreno\"",
+          "JP": "任務「鎮裂」を進めて解放",
+          "KR": "[균열 봉합 지대] 임무를 진행하여 잠금 해제",
+          "MX": "Progreso de la misión: [Relleno e inyección de terreno]",
+          "RU": "Прогресс миссии «Заделка трещин и укрепление грунта»",
+          "TC": "推進任務「填隙柱地」後可解鎖",
+          "TH": "ความคืบหน้า​ภารกิจ​: [การอุด​รอยแยก​และ​การถม​ดิน​]",
+          "VN": "Tiến Trình Nhiệm Vụ: [Lấp Khe Nứt và Gia Cố Nền Đất]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "f1m32_q#SettlementTalk"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "techId": "tech_jinlong_4_dumper_mode_1"
+      },
+      "tech_jinlong_4_gas_reactor_1_1": {
+        "conditionId": "tech_jinlong_4_gas_reactor_1_1",
+        "conditionType": 18,
+        "desc": {
+          "BR": "Progresso da Missão: [Preenchimento e Grauteamento]",
+          "CN": "推进任务「填隙柱地」后可解锁",
+          "DE": "Missionsfortschritt: [Rissbruchfüllung und Bodenabdichtung]",
+          "EN": "Mission Progress: [Fissure Filling and Land Grouting]",
+          "FR": "Progression de la mission : [Combler la fissure et ragréer le sol]",
+          "ID": "Progres Misi: [Pengisian Retakan dan Penutupan Tanah]",
+          "IT": "Progressi missione: \"Riempimento della fenditura e consolidamento del terreno\"",
+          "JP": "任務「鎮裂」を進めて解放",
+          "KR": "[균열 봉합 지대] 임무를 진행하여 잠금 해제",
+          "MX": "Progreso de la misión: [Relleno e inyección de terreno]",
+          "RU": "Прогресс миссии «Заделка трещин и укрепление грунта»",
+          "TC": "推進任務「填隙柱地」後可解鎖",
+          "TH": "ความคืบหน้า​ภารกิจ​: [การอุด​รอยแยก​และ​การถม​ดิน​]",
+          "VN": "Tiến Trình Nhiệm Vụ: [Lấp Khe Nứt và Gia Cố Nền Đất]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "f1m32_q#SettlementTalk"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "techId": "tech_jinlong_4_gas_reactor_1"
+      },
+      "tech_jinlong_4_vaporizer_1_1": {
+        "conditionId": "tech_jinlong_4_vaporizer_1_1",
+        "conditionType": 18,
+        "desc": {
+          "BR": "Progresso da Missão: [Preenchimento e Grauteamento]",
+          "CN": "推进任务「填隙柱地」后可解锁",
+          "DE": "Missionsfortschritt: [Rissbruchfüllung und Bodenabdichtung]",
+          "EN": "Mission Progress: [Fissure Filling and Land Grouting]",
+          "FR": "Progression de la mission : [Combler la fissure et ragréer le sol]",
+          "ID": "Progres Misi: [Pengisian Retakan dan Penutupan Tanah]",
+          "IT": "Progressi missione: \"Riempimento della fenditura e consolidamento del terreno\"",
+          "JP": "任務「鎮裂」を進めて解放",
+          "KR": "[균열 봉합 지대] 임무를 진행하여 잠금 해제",
+          "MX": "Progreso de la misión: [Relleno e inyección de terreno]",
+          "RU": "Прогресс миссии «Заделка трещин и укрепление грунта»",
+          "TC": "推進任務「填隙柱地」後可解鎖",
+          "TH": "ความคืบหน้า​ภารกิจ​: [การอุด​รอยแยก​และ​การถม​ดิน​]",
+          "VN": "Tiến Trình Nhiệm Vụ: [Lấp Khe Nứt và Gia Cố Nền Đất]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "f1m32_q#SettlementTalk"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "techId": "tech_jinlong_4_vaporizer_1"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

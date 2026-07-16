@@ -1,0 +1,1388 @@
+{
+  "tableName": "EnemyTemplateDisplayInfoTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 9,
+    "removed": 0,
+    "changed": 6
+  },
+  "entries": {
+    "added": {
+      "eny_0121_klbud": {
+        "abilityDescIds": [
+          "eny_0121_klbud_ability_1"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de um Vanguarda da FTEY. Dominar as técnicas de combate corpo a corpo é apenas o requisito mais básico para os Yinglungs.",
+          "CN": "超域能量残余形成的实体，映照出了应龙前锋的形象。对应龙队员来说，高超的近身格斗技巧仅是基本功。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt eines Mitglieds einer Vorhut-Einheit der YSE angenommen hat. Die Beherrschung von Nahkampftechniken ist eine der grundlegendsten Anforderungen an die Yinglungs.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of a YSTF Vanguard. Mastering melee combat techniques is just the most basic requirement for the Yinglungs.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure d'un combattant d'avant-garde des FSY. La maîtrise des techniques de combat au corps-à-corps est absolument indispensable chez les Yinglungs.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud Garda Depan Satgassus Yinglung. Menguasai teknik tempur jarak dekat hanyalah persyaratan paling dasar bagi para Yinglung.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di un'avanguardia STEY. Padroneggiare le tecniche di combattimento in mischia è soltanto il requisito più basilare per gli Yinglung.",
+          "JP": "超域エネルギーの残滓で形成され、応龍先鋒の姿を映し出している残像。応龍隊員にとって、卓越した近接格闘術など、ただの基本に過ぎない。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 응룡 대원 · 선봉의 모습을 하고 있습니다. 응룡 대원에게 있어 뛰어난 근접 격투 실력은 단순한 기본기입니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de un miembro de vanguardia del EFEY. Dominar las técnicas de combate cuerpo a cuerpo no es más que el requisito más básico para los Yinglungs.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму бойца авангарда спецопергруппы «Инлун». Владение боевыми техниками ближнего боя — самое базовое требование для оперативников «Инлун».",
+          "TC": "超域能量殘餘形成的實體，映照出了應龍前鋒的形象。對應龍隊員來說，高超的近身格鬥技巧僅是基本功。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​แนวหน้า​ YSTF ออกมา​ สำหรับ​หน่วย​ห​ยิง​หลง​แล้ว​ การ​เชี่ยวชาญ​เทคนิค​การต่อสู้​ระยะ​ประชิด​เป็น​เพียง​ข้อกำหนด​ขั้นพื้นฐาน​ที่สุด​เท่านั้น",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của một ĐĐNY Tiên Phong. Với các Đặc Nhiệm, làm chủ kỹ thuật chiến đấu cận chiến mới chỉ là yêu cầu cơ bản nhất."
+        },
+        "displayType": 0,
+        "distributionIds": [
+          "distribution_map02_lv008",
+          "distribution_world_energy_point10",
+          "distribution_world_energy_point11"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Vanguarda da FTEY",
+          "CN": "蚀影应龙前锋",
+          "DE": "YSE-Vorhut-Verderbnisschatten",
+          "EN": "YSTF Vanguard Blightshade",
+          "FR": "Gangrénombre avant-garde des FSY",
+          "ID": "Bayang-bayang Hawar Garda Depan Satgassus Yinglung",
+          "IT": "Ombra contaminante di avanguardia STEY",
+          "JP": "応龍先鋒の蝕影",
+          "KR": "그림자에 물든 응룡 대원 · 선봉",
+          "MX": "Sombra contaminada de vanguardia del EFEY",
+          "RU": "Моротень авангарда спецопергруппы «Инлун»",
+          "TC": "蝕影應龍前鋒",
+          "TH": "เงา​เสื่อมโทรม​แนวหน้า​ YSTF",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Tiên Phong"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Vanguarda da FTEY",
+          "CN": "蚀影应龙前锋",
+          "DE": "YSE-Vorhut-Verderbnisschatten",
+          "EN": "YSTF Vanguard Blightshade",
+          "FR": "Gangrénombre avant-garde des FSY",
+          "ID": "Bayang-bayang Hawar Garda Depan Satgassus Yinglung",
+          "IT": "Ombra contaminante di avanguardia STEY",
+          "JP": "応龍先鋒の蝕影",
+          "KR": "그림자에 물든 응룡 대원 · 선봉",
+          "MX": "Sombra contaminada de vanguardia del EFEY",
+          "RU": "Моротень авангарда спецопергруппы «Инлун»",
+          "TC": "蝕影應龍前鋒",
+          "TH": "เงา​เสื่อมโทรม​แนวหน้า​ YSTF",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Tiên Phong"
+        },
+        "tags": [],
+        "templateId": "eny_0121_klbud"
+      },
+      "eny_0124_kltdcap": {
+        "abilityDescIds": [
+          "eny_0124_kltdcap_ability_1",
+          "eny_0124_kltdcap_ability_2"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de um Capitão da FTEY. Somente veteranos que demonstraram talento para comando, excepcional proeza em combate e verdadeira bravura em guerra terão a chance de se tornarem Capitães da FTEY.",
+          "CN": "超域能量残余形成的实体，映照出了应龙队长的形象。指挥能力、作战能力、战功……唯有百战之兵，才有成为应龙队长的机会。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt eines Hauptmannes der YSE angenommen hat. Nur Veteranen, die über ein Talent für die Befehlsgebung sowie exzellente Kampffertigkeiten verfügen und ihren Mut im Kampf unzählige Male beweisen, erhalten die Chance, zu einem Hauptmann der YSE aufzusteigen.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of a YSTF Captain. Only veterans who have demonstrated gifts for command, exceptional combat prowess, and achieved true valor in war will receive the chance of becoming a YSTF Captain.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure d'un capitaine des FSY. Seuls les vétérans qui ont démontré leurs talents de leader et se sont illustrés par leurs prouesses au combat et leur courage sur le champ de bataille peuvent accéder à ce titre.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud Kapten Satgassus Yinglung. Hanya para veteran yang telah menunjukkan bakat kepemimpinan, kemampuan tempur luar biasa, dan menunjukkan keberanian sejati dalam perang yang akan mendapat kesempatan untuk menjadi Kapten Satgassus Yinglung.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di un Capitano STEY. Soltanto i veterani che hanno dimostrato doti di comando, eccezionali capacità combattive e autentico valore in guerra avranno l'occasione di diventare un Capitano STEY.",
+          "JP": "超域エネルギーの残滓で形成され、応龍隊長の姿を映し出している残像。戦場指揮、作戦能力、そして数多の戦果……応龍隊長の座に就けるのは、歴戦の兵のみである。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 응룡 대장의 모습을 하고 있습니다. 지휘 능력, 전투 능력, 전장에서의 공헌까지... 수많은 전장을 거친 병사만이 응룡 대장이 될 자격을 얻습니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de un capitán del EFEY. Solo los veteranos que hayan demostrado dotes de mando, una destreza excepcional en combate y verdadero valor en la guerra recibirán la oportunidad de convertirse en capitanes del EFEY.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму капитана спецопергруппы «Инлун». Только ветераны, продемонстрировавшие умение командовать, выдающееся мастерство в бою и истинную доблесть на войне, получают шанс стать капитаном спецопергруппы «Инлун».",
+          "TC": "超域能量殘餘形成的實體，映照出了應龍隊長的形象。指揮能力、作戰能力、戰功……唯有百戰之兵，才有成為應龍隊長的機會。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​ผู้กอง​ YSTF ออกมา​ มี​เพียง​ทหารผ่านศึก​ที่​แสดงให้เห็น​ถึง​พรสวรรค์​ด้าน​การบังคับบัญชา​ ความสามารถ​ใน​การต่อสู้​อัน​โดดเด่น​ และ​พิสูจน์​ความกล้าหาญ​อย่างแท้จริง​ใน​สนามรบ​เท่านั้น​ จึง​จะ​ได้รับ​โอกาส​ก้าว​ขึ้น​เป็น​ผู้กอง​แห่ง​ YSTF ได้",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của một ĐĐNY Trưởng Nhóm. Chỉ những cựu binh đã chứng minh được tài năng chỉ huy, năng lực chiến đấu xuất chúng và lòng dũng cảm chân chính trên chiến trường mới có cơ hội trở thành ĐĐNY Trưởng Nhóm."
+        },
+        "displayType": 1,
+        "distributionIds": [
+          "distribution_world_energy_point11"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Capitão da FTEY",
+          "CN": "蚀影应龙队长",
+          "DE": "YSE-Hauptmann-Verderbnisschatten",
+          "EN": "YSTF Captain Blightshade",
+          "FR": "Gangrénombre capitaine des FSY",
+          "ID": "Bayang-bayang Hawar Kapten Satgassus Yinglung",
+          "IT": "Ombra contaminante Capitano STEY",
+          "JP": "応龍隊長の蝕影",
+          "KR": "그림자에 물든 응룡 대장",
+          "MX": "Sombra contaminada de capitán del EFEY",
+          "RU": "Моротень капитана спецопергруппы «Инлун»",
+          "TC": "蝕影應龍隊長",
+          "TH": "เงา​เสื่อมโทรม​ผู้กอง​ YSTF",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Trưởng Nhóm"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Capitão da FTEY",
+          "CN": "蚀影应龙队长",
+          "DE": "YSE-Hauptmann-Verderbnisschatten",
+          "EN": "YSTF Captain Blightshade",
+          "FR": "Gangrénombre capitaine des FSY",
+          "ID": "Bayang-bayang Hawar Kapten Satgassus Yinglung",
+          "IT": "Ombra contaminante Capitano STEY",
+          "JP": "応龍隊長の蝕影",
+          "KR": "그림자에 물든 응룡 대장",
+          "MX": "Sombra contaminada de capitán del EFEY",
+          "RU": "Моротень капитана спецопергруппы «Инлун»",
+          "TC": "蝕影應龍隊長",
+          "TH": "เงา​เสื่อมโทรม​ผู้กอง​ YSTF",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Trưởng Nhóm"
+        },
+        "tags": [],
+        "templateId": "eny_0124_kltdcap"
+      },
+      "eny_0120_klbear": {
+        "abilityDescIds": [
+          "eny_0120_klbear_ability_1",
+          "eny_0120_klbear_ability_2"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de Blitzcrash. A besta foi criada Tanjian Hall e costumava ser a melhor amiga de Li Zhiyan. Seu sombra da praga, no entanto, não retém nada além de seus instintos agressivos.",
+          "CN": "超域能量残余形成的实体，映照出了噪雷的形象。被寄养于谈剑堂的它曾是李织烟最好的朋友。此刻，这道“幻影”只有攻击的本能。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt von Blitzcrash angenommen hat. Diese Bestie wurde in der Tanjian-Halle aufgezogen und Li Zhiyan zählte sie einst zu ihren besten Freunden. Ihr Verderbnisschatten jedoch verfügt nur noch über seine Angriffsinstinkte.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of Blitzcrash. The beast was once raised at Tanjian Hall and used to be Li Zhiyan's best friend. Its blightshade, however, retains nothing but its instincts for aggression.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure de Fracas. Cette créature élevée dans la salle de Tanjian était la meilleure amie de Li Zhiyan. Cependant, sa Gangrénombre n'a conservé que ses instincts de prédateur.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud Blitzcrash. Hewan itu dulu dibesarkan di Balai Tanjian dan pernah menjadi sahabat Li Zhiyan. Tapi, bayang-bayang hawarnya hanya punya naluri agresifnya saja.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di Bottoblitz. Questa creatura veniva un tempo allevata presso l'Accademia Tanjian ed era la migliore amica di Li Zhiyan. La sua ombra contaminante, però, non conserva altro che istinti aggressivi.",
+          "JP": "超域エネルギーの残滓で形成され、噪雷の姿を映し出している残像。談剣堂で飼われていた噪雷は、かつてリ・チーエンにとって最も親しい友であった。だが今、この「幻影」に残されているのは、攻撃の本能だけである。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 진뢰의 모습을 하고 있습니다. 담검당에 맡겨져 지내던 존재로, 한때 이지연의 가장 소중한 친구였으나 이 환영은 그때의 기억이 없는... 공격 본능뿐인 환영입니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de Blitzcrash. La bestia fue criada en el Salón tanjian y solía ser la mejor amiga de Li Zhiyan. Sin embargo, su sombra contaminada no conserva nada más que sus instintos agresivos.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму Молнии. Когда-то этот зверь, выращенный в зале Таньцзянь, был лучшим другом Ли Чжиянь. Однако его моротень не сохранила ничего, кроме агрессивных инстинктов.",
+          "TC": "超域能量殘餘形成的實體，映照出了噪雷的形象。被寄養於談劍堂的牠曾是李織煙最好的朋友。此刻，這道「幻影」只有攻擊的本能。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​บ​ลิตซ์​แค​ร​ชอ​อก​มา​ สัตว์ร้าย​ตัว​นี้​เคย​ถูก​เลี้ยงดู​อยู่​ที่​หอ​ถัน​เจียน​ และ​เคย​เป็นเพื่อน​สนิท​ที่สุด​ของ​ห​ลี่​ ฉื่อ​หยา​น​ ทว่า​เงา​เสื่อมโทรม​ของ​มัน​กลับ​หลงเหลือ​ไว้​เพียง​สัญชาตญาณ​แห่ง​ความก้าวร้าว​เท่านั้น",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của Blitzcrash. Con thú này từng được nuôi dưỡng tại Đàm Kiếm Đường và từng là người bạn thân nhất của Li Zhiyan. Thế nhưng Bóng Nhiễm Khuẩn của nó chẳng còn giữ lại gì ngoài bản năng công kích."
+        },
+        "displayType": 4,
+        "distributionIds": [
+          "distribution_map02_lv008"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Blitzcrash",
+          "CN": "蚀影噪雷",
+          "DE": "Blitzcrashs Verderbnisschatten",
+          "EN": "Blitzcrash Blightshade",
+          "FR": "Gangrénombre de Fracas",
+          "ID": "Bayang-bayang Hawar Blitzcrash",
+          "IT": "Ombra contaminante di Bottoblitz",
+          "JP": "噪雷の蝕影",
+          "KR": "그림자에 물든 진뢰",
+          "MX": "Sombra contaminada de Blitzcrash",
+          "RU": "Моротень Молнии",
+          "TC": "蝕影噪雷",
+          "TH": "เงา​เสื่อมโทรม​บ​ลิตซ์​แค​ร​ช",
+          "VN": "Bóng Nhiễm Khuẩn Chớp Nhoáng"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Blitzcrash",
+          "CN": "蚀影噪雷",
+          "DE": "Blitzcrashs Verderbnisschatten",
+          "EN": "Blitzcrash Blightshade",
+          "FR": "Gangrénombre de Fracas",
+          "ID": "Bayang-bayang Hawar Blitzcrash",
+          "IT": "Ombra contaminante di Bottoblitz",
+          "JP": "噪雷の蝕影",
+          "KR": "그림자에 물든 진뢰",
+          "MX": "Sombra contaminada de Blitzcrash",
+          "RU": "Моротень Молнии",
+          "TC": "蝕影噪雷",
+          "TH": "เงา​เสื่อมโทรม​บ​ลิตซ์​แค​ร​ช",
+          "VN": "Bóng Nhiễm Khuẩn Chớp Nhoáng"
+        },
+        "tags": [],
+        "templateId": "eny_0120_klbear"
+      },
+      "eny_0118_klhog": {
+        "abilityDescIds": [
+          "eny_0118_klhog_ability_1"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de um penoso. Esse sombra da praga parece desferir ataques rolantes e saltitantes muito mais agressivos do que sua contraparte viva, embora isso possa ser apenas uma questão de imaginação.",
+          "CN": "超域能量残余形成的实体，映照出了球刺兽的形象。不知是否是错觉，它们滚动冲撞的姿态显得更为狂暴。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt eines Federbiests angenommen hat. Dieser Verderbnisschatten scheint sehr viel aggressivere Roll- und Sprungangriffe auszuführen als sein lebendiges Gegenstück, aber vielleicht ist das auch nur Einbildung.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of a quillbeast. This blightshade seems to exhibit far more aggressive rolling and bouncing attacks than its living counterpart, though it may just be a matter of imagination.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure d'une bêtaplume. Cette Gangrénombre qui saute et fond sur ses proies semble bien plus agressive que son modèle vivant, mais ce n'est peut-être qu'une impression.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud seekor quillbeast. Bayang-bayang hawar ini tampaknya melakukan serangan berguling dan melompat yang jauh lebih agresif daripada versi hidupnya, meskipun hal itu mungkin hanya sekadar khayalan belaka.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di una bestiaspina. Quest'ombra contaminante sembra esibire attacchi rotolanti e rimbalzanti molto più aggressivi della sua controparte vivente, anche se potrebbe essere solo questione di immaginazione.",
+          "JP": "超域エネルギーの残滓で形成され、球刺獣の姿を映し出している残像。錯覚だろうか？転がりながら突進してくるその姿は、いっそう獰猛に見える。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 프릭비스트의 모습을 하고 있습니다. 착각일수도 있습니다만, 돌진하는 모습이 한층 더 난폭한 것 같습니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de una bestia pluma. Esta sombra contaminada parece exhibir ataques giratorios y de rebote mucho más agresivos que su contraparte viva, aunque quizá solo sea cosa de la imaginación.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму колючего зверя. Кажется, эта моротень куда агрессивнее применяет атаки с перекатами и отскоками, чем ее живой прототип, хотя, возможно, это всего лишь игра воображения.",
+          "TC": "超域能量殘餘形成的實體，映照出了球刺獸的形象。不知是否是錯覺，牠們滾動衝撞的姿態顯得更為狂暴。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​ควิ​ล​ล์​บี​ส​ต์​ออกมา​ เงา​เสื่อมโทรม​ตน​นี้​ดูเหมือน​จะ​ใช้การ​โจมตี​ด้วย​การกลิ้ง​และ​กระเด้ง​อย่าง​ดุเดือด​กว่า​ตัวจริง​ที่​ยัง​มีชีวิต​อยู่​มาก​ แม้​อาจ​เป็น​เพียง​ความรู้สึก​ไป​เอง​ก็ตาม",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của một Quái Lông Nhọn. Bóng Nhiễm Khuẩn này có vẻ thể hiện những đòn tấn công lăn và bật nhảy hung hãn hơn nhiều so với bản thể còn sống, dù đó có lẽ cũng chỉ là ảo giác."
+        },
+        "displayType": 3,
+        "distributionIds": [
+          "distribution_map02_lv008",
+          "distribution_world_energy_point10"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Penoso",
+          "CN": "蚀影球刺兽",
+          "DE": "Federbiest-Verderbnisschatten",
+          "EN": "Quillbeast Blightshade",
+          "FR": "Gangrénombre bêtaplume",
+          "ID": "Bayang-bayang Hawar Quillbeast",
+          "IT": "Ombra contaminante di bestiaspina",
+          "JP": "球刺獣の蝕影",
+          "KR": "그림자에 물든 프릭비스트",
+          "MX": "Sombra contaminada de Bestia pluma",
+          "RU": "Моротень колючего зверя",
+          "TC": "蝕影球刺獸",
+          "TH": "เงา​เสื่อมโทรม​ควิ​ล​ล์​บี​ส​ต์",
+          "VN": "Bóng Nhiễm Khuẩn Quái Lông Nhọn"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Penoso",
+          "CN": "蚀影球刺兽",
+          "DE": "Federbiest-Verderbnisschatten",
+          "EN": "Quillbeast Blightshade",
+          "FR": "Gangrénombre bêtaplume",
+          "ID": "Bayang-bayang Hawar Quillbeast",
+          "IT": "Ombra contaminante di bestiaspina",
+          "JP": "球刺獣の蝕影",
+          "KR": "그림자에 물든 프릭비스트",
+          "MX": "Sombra contaminada de Bestia pluma",
+          "RU": "Моротень колючего зверя",
+          "TC": "蝕影球刺獸",
+          "TH": "เงา​เสื่อมโทรม​ควิ​ล​ล์​บี​ส​ต์",
+          "VN": "Bóng Nhiễm Khuẩn Quái Lông Nhọn"
+        },
+        "tags": [],
+        "templateId": "eny_0118_klhog"
+      },
+      "eny_0117_klhound": {
+        "abilityDescIds": [
+          "eny_0117_klhound_ability_1"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de uma besta carnívora. Embora seja apenas uma \"sombra persistente\", suas presas afiadas ainda são capazes de rasgar armaduras e equipamentos de proteção.",
+          "CN": "超域能量残余形成的实体，映照出了牙兽的形象。即便仅是一道“残影”，它们的尖牙利齿仍能撕裂防御装备。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt eines Reißbiests angenommen hat. Sie ist zwar nicht mehr als ein „verblassender Schatten“, aber ihre scharfen Reißzähne können dennoch Rüstungen und Schutzkleidung zerfetzen.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of a tuskbeast. Although this is but a \"lingering shadow\", its sharp fangs are still capable of tearing through armor and protective gear.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure d'un hyenard. Bien qu'il ne s'agisse que d'une « ombre persistante », ses crocs acérés sont capables de percer une armure ou un équipement de protection.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud tuskbeast. Meskipun ini hanyalah “bayangan yang tersisa”, taring tajamnya tetap mampu menembus zirah dan gear pelindung.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di una bestia feroce. Pur essendo solo un'\"ombra persistente\", le sue zanne affilate sono ancora capaci di lacerare armature ed equipaggiamento protettivo.",
+          "JP": "超域エネルギーの残滓で形成され、牙獣の姿を映し出している残像。ただの「残像」に過ぎないが、その鋭い牙はなお、防護装備を引き裂くことができる。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 터스크비스트의 모습을 하고 있습니다. '희미한 그림자'에 불과하지만, 그 날카로운 이빨과 발톱은 여전히 방어 장비를 파괴할 수 있는 위력을 갖고 있습니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de una bestia colmilluda. Aunque no es más que una “sombra persistente”, sus afilados colmillos aún son capaces de atravesar armaduras y equipamiento de protección.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму звероклыка. Это лишь «задержавшаяся тень», но ее острые клыки все еще способны пробивать броню и защитное снаряжение.",
+          "TC": "超域能量殘餘形成的實體，映照出了牙獸的形象。即便僅是一道「殘影」，牠們的尖牙利齒仍能撕裂防禦裝備。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​ทั​ส​ก์​บี​ส​ต์​ออกมา​ แม้​จะ​เป็น​เพียง​ \"เงา​ตกค้าง​\" แต่​เขี้ยว​อัน​แหลมคม​ของ​มัน​ก็​ยัง​สามารถ​ฉีก​ทะลุ​เกราะ​และ​อุปกรณ์​ป้องกัน​ได้​อยู่ดี",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của một Thú Ngà. Dù chỉ là một \"bóng hình vương lại\", cặp nanh sắc bén của nó vẫn đủ sức xé toạc giáp trụ và trang bị bảo hộ."
+        },
+        "displayType": 0,
+        "distributionIds": [
+          "distribution_map02_lv008",
+          "distribution_world_energy_point10",
+          "distribution_world_energy_point11"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Besta Carnívora",
+          "CN": "蚀影牙兽",
+          "DE": "Reißbiest-Verderbnisschatten",
+          "EN": "Tuskbeast Blightshade",
+          "FR": "Gangrénombre hyenard",
+          "ID": "Bayang-bayang Hawar Tuskbeast",
+          "IT": "Ombra contaminante di bestia feroce",
+          "JP": "牙獣の蝕影",
+          "KR": "그림자에 물든 터스크비스트",
+          "MX": "Sombra contaminada de Bestia colmilluda",
+          "RU": "Моротень звероклыка",
+          "TC": "蝕影牙獸",
+          "TH": "เงา​เสื่อมโทรม​ทั​ส​ก์​บี​ส​ต์",
+          "VN": "Bóng Nhiễm Khuẩn Thú Ngà"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Besta Carnívora",
+          "CN": "蚀影牙兽",
+          "DE": "Reißbiest-Verderbnisschatten",
+          "EN": "Tuskbeast Blightshade",
+          "FR": "Gangrénombre hyenard",
+          "ID": "Bayang-bayang Hawar Tuskbeast",
+          "IT": "Ombra contaminante di bestia feroce",
+          "JP": "牙獣の蝕影",
+          "KR": "그림자에 물든 터스크비스트",
+          "MX": "Sombra contaminada de Bestia colmilluda",
+          "RU": "Моротень звероклыка",
+          "TC": "蝕影牙獸",
+          "TH": "เงา​เสื่อมโทรม​ทั​ส​ก์​บี​ส​ต์",
+          "VN": "Bóng Nhiễm Khuẩn Thú Ngà"
+        },
+        "tags": [],
+        "templateId": "eny_0117_klhound"
+      },
+      "eny_0123_klcap": {
+        "abilityDescIds": [
+          "eny_0123_klcap_ability_1",
+          "eny_0123_klcap_ability_2"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de um Guja da FTEY. Esses Yinglungs são extremamente habilidosos em liderar assaltos e capturar posições defendidas. Os gládios que empunham são projetados para cortar Aggeloi com facilidade.",
+          "CN": "超域能量残余形成的实体，映照出了应龙破阵手的形象。极擅冲阵破障的应龙队员，其手中的长柄刀是为了高效斩碎天使而设计。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt eines Glefenträgers der YSE angenommen hat. Yinglungs mit dieser Spezialisierung sind extrem geschickt darin, Angriffe anzuführen und befestigte Stellungen einzunehmen. Die Glefen, die sie tragen, wurden so optimiert, dass sie Aggeloi mit Leichtigkeit in Stücke hauen können.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of a YSTF Glaiver. Such Yinglungs are extremely skilled in leading assaults and taking defended positions. The glaives they wield are designed to cleave through Aggeloi with ease.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure d'un lancier des FSY. Ces Yinglungs excellent dans l'assaut et la prise de positions fortifiées. Les lances qu'ils manient sont conçues pour transpercer les Aggeloi sans difficulté.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud Glaiver Satgassus Yinglung. Yinglung semacam itu sangat ahli memimpin penyerbuan dan merebut posisi yang dijaga. Glaive yang mereka pegang dirancang untuk menebas Aggelos dengan mudah.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di un Maestro di falcione STEY. Questi Yinglung sono estremamente abili nel guidare assalti e conquistare posizioni di difesa. I falcioni che brandiscono sono progettati per fendere gli Aggeloi con facilità.",
+          "JP": "超域エネルギーの残滓で形成され、応龍突撃兵の姿を映し出している残像。突撃や戦線突破を得意とする応龍隊員であり、その手にした長柄の大刀はアンゲロスをすばやく断ち砕くために造られている。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 응룡 대원 · 돌파의 모습을 하고 있습니다. 진형 돌파와 장애물 파괴에 능한 응룡 대원으로, 손에 든 긴 칼은 아겔로스를 효율적으로 베고 부숴 버리기 위해 설계되었습니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de un miembro del EFEY con guja. Estos Yinglungs son sumamente hábiles para dirigir asaltos y tomar posiciones defendidas. Las gujas que empuñan están diseñadas para partir Aggeloi con facilidad.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму бойца с глевией спецопергруппы «Инлун». Эти оперативники «Инлун» обладают огромным опытом в штурме укрепленных позиций. Их глевии позволяют с легкостью рассекать аггелов.",
+          "TC": "超域能量殘餘形成的實體，映照出了應龍破陣手的形象。極擅衝陣破障的應龍隊員，其手中的長柄刀是為了高效斬碎天使而設計。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​พล​ทวน​ง้าว​แห่ง​ YSTF ออกมา​ หน่วย​ห​ยิง​หลง​เหล่านี้​มี​ความ​เชี่ยวชาญ​อย่างยิ่ง​ใน​การนำ​การบุก​โจมตี​และ​ยึดครอง​พื้นที่​ที่​มี​การป้องกัน​ ทวน​ง้าว​ที่​พวกเขา​ใช้​ถูก​ออกแบบ​มา​เพื่อ​ผ่าเหล่า​แอง​เกลอ​ย​ได้​อย่างง่ายดาย",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của một ĐĐNY Đao Thủ. Những Đặc Nhiệm như họ cực kỳ tinh thông trong việc dẫn đầu xung kích và đánh chiếm các vị trí phòng thủ. Những thanh đao cán dài họ sử dụng được thiết kế để chém xuyên Aggeloi một cách dễ dàng."
+        },
+        "displayType": 1,
+        "distributionIds": [
+          "distribution_map02_lv008",
+          "distribution_world_energy_point11"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Guja da FTEY",
+          "CN": "蚀影应龙破阵手",
+          "DE": "YSE-Glefenträger-Verderbnisschatten",
+          "EN": "YSTF Glaiver Blightshade",
+          "FR": "Gangrénombre lancier des FSY",
+          "ID": "Bayang-bayang Hawar Glaiver Satgassus Yinglung",
+          "IT": "Ombra contaminante Maestro di falcione STEY",
+          "JP": "応龍突撃兵の蝕影",
+          "KR": "그림자에 물든 응룡 대원 · 돌파",
+          "MX": "Sombra contaminada con guja del EFEY",
+          "RU": "Моротень спецопергруппы «Инлун» с глевией",
+          "TC": "蝕影應龍破陣手",
+          "TH": "เงา​เสื่อมโทรม​พล​เกล​ฟ​ YSTF",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Đao Thủ"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Guja da FTEY",
+          "CN": "蚀影应龙破阵手",
+          "DE": "YSE-Glefenträger-Verderbnisschatten",
+          "EN": "YSTF Glaiver Blightshade",
+          "FR": "Gangrénombre lancier des FSY",
+          "ID": "Bayang-bayang Hawar Glaiver Satgassus Yinglung",
+          "IT": "Ombra contaminante Maestro di falcione STEY",
+          "JP": "応龍突撃兵の蝕影",
+          "KR": "그림자에 물든 응룡 대원 · 돌파",
+          "MX": "Sombra contaminada con guja del EFEY",
+          "RU": "Моротень спецопергруппы «Инлун» с глевией",
+          "TC": "蝕影應龍破陣手",
+          "TH": "เงา​เสื่อมโทรม​พล​เกล​ฟ​ YSTF",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Đao Thủ"
+        },
+        "tags": [],
+        "templateId": "eny_0123_klcap"
+      },
+      "eny_0119_kltiger": {
+        "abilityDescIds": [
+          "eny_0119_kltiger_ability_1",
+          "eny_0119_kltiger_ability_2"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de um rastejante. A pelagem com manchas em forma de olho parece mais fluida e destaca movimentos de ataque verdadeiramente aterrorizantes.",
+          "CN": "超域能量残余形成的实体，映照出了彪兽的形象。如无数只眼睛一般的花纹拥有了更强的流动感，腾挪之间足以摄人心魄。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt einer Wüstlingsbestie angenommen hat. Ihr geflecktes Fell wirkt flüssiger und ermöglicht es, wirklich fürchterliche Angriffe vorherzusehen.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of a rakerbeast. The eye-spotted coat seems more fluid and highlights attack moves that are truly terrifying to behold.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure d'un ratisseur. Sa robe tachetée se fond mieux dans l'environnement et ses techniques d'attaque sont tout bonnement terrifiantes.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud rakerbeast. Mantel bermotif bintik-bintik itu tampak lebih luwes dan menonjolkan serangan yang benar-benar menakutkan.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di una rastrobestia. La livrea ocellata sembra più fluida e mette in risalto movimenti d'attacco davvero terrificanti.",
+          "JP": "超域エネルギーの残滓で形成され、彪獣の姿を映し出している残像。無数の眼を思わせる模様は流れるように揺らめき、飛び回るその姿は、見る者の心を掻き乱す。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 레이커비스트의 모습을 하고 있습니다. 수많은 눈처럼 보이는 무늬가 더욱 압박감을 주고, 움직이는 것만으로도 보는 이가 압도됩니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de una bestia rastrera. El pelaje con manchas oculares parece más fluido y resalta movimientos de ataque verdaderamente aterradores.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму хитрого зверя. Его пятнистая шкура кажется более текучей и подчеркивает движения во время атак, что делает их еще более пугающими на вид.",
+          "TC": "超域能量殘餘形成的實體，映照出了彪獸的形象。如無數隻眼睛一般的花紋擁有了更強的流動感，挪動之間足以攝人心魄。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​เร​เกอร์​บี​ส​ต์​ออกมา​ ลวดลาย​คล้าย​ดวงตา​บน​ขนของ​มัน​ดู​พลิ้วไหว​มากขึ้น​ และ​ยิ่ง​ขับ​เน้น​ท่วงท่า​การ​โจมตี​ที่​น่าสะพรึงกลัว​ให้​เด่นชัด​ขึ้นไป​อีก",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của một Quái Cào. Bộ lông điểm hoa văn tựa đôi mắt của nó trông mềm lỏng hơn, càng làm nổi bật những đòn tấn công kinh hoàng đến rợn người."
+        },
+        "displayType": 1,
+        "distributionIds": [
+          "distribution_world_energy_point10"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Rastejante",
+          "CN": "蚀影彪兽",
+          "DE": "Wüstlingsbestie-Verderbnisschatten",
+          "EN": "Rakerbeast Blightshade",
+          "FR": "Gangrénombre ratisseur",
+          "ID": "Bayang-bayang Hawar Rakerbeast",
+          "IT": "Ombra contaminante di rastrobestia",
+          "JP": "彪獣の蝕影",
+          "KR": "그림자에 물든 레이커비스트",
+          "MX": "Sombra contaminada de Bestia rastrera",
+          "RU": "Моротень хитрого зверя",
+          "TC": "蝕影彪獸",
+          "TH": "เงา​เสื่อมโทรม​เร​เกอร์​บี​ส​ต์",
+          "VN": "Bóng Nhiễm Khuẩn Quái Cào"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Rastejante",
+          "CN": "蚀影彪兽",
+          "DE": "Wüstlingsbestie-Verderbnisschatten",
+          "EN": "Rakerbeast Blightshade",
+          "FR": "Gangrénombre ratisseur",
+          "ID": "Bayang-bayang Hawar Rakerbeast",
+          "IT": "Ombra contaminante di rastrobestia",
+          "JP": "彪獣の蝕影",
+          "KR": "그림자에 물든 레이커비스트",
+          "MX": "Sombra contaminada de Bestia rastrera",
+          "RU": "Моротень хитрого зверя",
+          "TC": "蝕影彪獸",
+          "TH": "เงา​เสื่อมโทรม​เร​เกอร์​บี​ส​ต์",
+          "VN": "Bóng Nhiễm Khuẩn Quái Cào"
+        },
+        "tags": [],
+        "templateId": "eny_0119_kltiger"
+      },
+      "eny_0122_kltdbud": {
+        "abilityDescIds": [
+          "eny_0122_kltdbud_ability_1"
+        ],
+        "description": {
+          "BR": "Uma manifestação de Energia do Æther residual que projeta a forma externa de um Elite da FTEY. Um Yinglung que dominou tanto as Artes de Originium quanto a espadomancia será considerado um Elite.",
+          "CN": "超域能量残余形成的实体，映照出了应龙尖兵的形象。在应龙之中，术剑皆通者，可称尖兵。",
+          "DE": "Eine Manifestation von Æther-Energie-Rückständen, die die Gestalt eines Mitglieds einer Eliteeinheit der YSE angenommen hat. Nur Yinglungs, die sowohl Originium-Techniken als auch die Schwertkunst gemeistert haben, dürfen sich zur Elite zählen.",
+          "EN": "A manifestation of residual Æther energy that projects the outward form of a YSTF Elite. An Yinglung who has mastered both the Originium Arts and swordmancy will be considered an elite.",
+          "FR": "Une manifestation d'énergie æthérique résiduelle reflétant l'apparence extérieure d'un combattant d'élite des FSY. Les Yinglungs qui maîtrisent à la fois les Arts de l'originium et la spadamancie sont considérés comme des élites.",
+          "ID": "Manifestasi sisa energi Æther yang memancarkan wujud Elite Satgassus Yinglung. Yinglung yang telah menguasai Originium Arts dan ilmu pedang akan dianggap seorang elite.",
+          "IT": "Manifestazione di energia dell'Æther residua che proietta la forma esteriore di un élite STEY. Uno Yinglung che padroneggia sia le Arti di Originium sia le arti della spada viene considerato come élite.",
+          "JP": "超域エネルギーの残滓で形成され、応龍精鋭先鋒の姿を映し出している残像。応龍において、アーツと剣、その両方を修めた者は、「精鋭」と称される。",
+          "KR": "초자연 에너지 잔류물이 실체화 한 존재, 응룡 대원 · 정예의 모습을 하고 있습니다. 응룡 중에서도 아츠와 검술을 모두 다루는 자만이 정예라 불릴 수 있습니다.",
+          "MX": "Una manifestación de energía residual de Éter que proyecta la forma externa de un miembro del EFEY de élite. Un Yinglung que haya dominado tanto las Artes de Originio como el arte de la espada será considerado de élite.",
+          "RU": "Проявление остаточной эфирной энергии, принимающее форму элитного бойца спецопергруппы «Инлун». Элитными считаются оперативники «Инлун», овладевшие как ориджиниевыми искусствами, так и мастерством владения мечом.",
+          "TC": "超域能量殘餘形成的實體，映照出了應龍尖兵的形象。在應龍之中，術劍皆通者，可稱尖兵。",
+          "TH": "ร่าง​จำแลง​ของ​พลังงาน​เอ​เทอร์​ที่​หลงเหลือ​อยู่​ ซึ่ง​ฉาย​ภาพ​รูปลักษณ์ภายนอก​ของ​ YSTF ระดับสูง​ออกมา​ หน่วย​ห​ยิง​หลง​ที่​เชี่ยวชาญ​ทั้ง​เวท​ออ​ริ​จิ​เนียม​และ​วิชาดา​บ​จะ​ได้รับการยกย่อง​ให้​เป็น​ทหาร​ระดับสูง",
+          "VN": "Hiện thân của năng lượng Æther tồn dư, phóng chiếu hình dạng bên ngoài của một ĐĐNY Tinh Anh. Một Đặc Nhiệm làm chủ cả Thuật Pháp Originium lẫn kiếm pháp sẽ được xem là tinh anh."
+        },
+        "displayType": 0,
+        "distributionIds": [
+          "distribution_map02_lv008",
+          "distribution_world_energy_point10",
+          "distribution_world_energy_point11"
+        ],
+        "name": {
+          "BR": "Sombra da Praga de Elite da FTEY",
+          "CN": "蚀影应龙尖兵",
+          "DE": "YSE-Elite-Verderbnisschatten",
+          "EN": "YSTF Elite Blightshade",
+          "FR": "Gangrénombre élite des FSY",
+          "ID": "Bayang-bayang Hawar Elite Satgassus Yinglung",
+          "IT": "Ombra contaminante élite STEY",
+          "JP": "応龍精鋭先鋒の蝕影",
+          "KR": "그림자에 물든 응룡 대원 · 정예",
+          "MX": "Sombra contaminada de élite del EFEY",
+          "RU": "Моротень элитного бойца спецопергруппы «Инлун»",
+          "TC": "蝕影應龍尖兵",
+          "TH": "เงา​เสื่อมโทรม​ YSTF ระดับสูง",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Tinh Anh"
+        },
+        "nickname": {
+          "BR": "Sombra da Praga de Elite da FTEY",
+          "CN": "蚀影应龙尖兵",
+          "DE": "YSE-Elite-Verderbnisschatten",
+          "EN": "YSTF Elite Blightshade",
+          "FR": "Gangrénombre élite des FSY",
+          "ID": "Bayang-bayang Hawar Elite Satgassus Yinglung",
+          "IT": "Ombra contaminante élite STEY",
+          "JP": "応龍精鋭先鋒の蝕影",
+          "KR": "그림자에 물든 응룡 대원 · 정예",
+          "MX": "Sombra contaminada de élite del EFEY",
+          "RU": "Моротень элитного бойца спецопергруппы «Инлун»",
+          "TC": "蝕影應龍尖兵",
+          "TH": "เงา​เสื่อมโทรม​ YSTF ระดับสูง",
+          "VN": "Bóng Nhiễm Khuẩn ĐĐNY Tinh Anh"
+        },
+        "tags": [],
+        "templateId": "eny_0122_kltdbud"
+      },
+      "eny_0125_fdcentur": {
+        "abilityDescIds": [
+          "eny_0125_fdcentur_ability_1",
+          "eny_0125_fdcentur_ability_2"
+        ],
+        "description": {
+          "BR": "Uma criação da Fundação e um veterano de inúmeras batalhas. Este Quiliarca vagou pelo Ætherside até recuperar sua espada perdida e abrir uma brecha para poder retornar.",
+          "CN": "基石的造物。这位身经百战的千夫长在超域中徘徊，直至失落的锋刃被再次寻得，直至撕开那得以回归的刹那。",
+          "DE": "Eine Schöpfung der Stiftung und Veteran zahlloser Kämpfe. Dieser Chiliarch hat die Ætherside durchwandert, bis er sein verlorenes Schwert wiedergefunden hatte und sich eine Möglichkeit zur Rückkehr freischneiden konnte.",
+          "EN": "A creation of the Foundation and a veteran of countless battles. This Chiliarch roamed the Ætherside until he recovered his lost sword and tore open a moment for his return.",
+          "FR": "Une création de la Fondation ayant livré d'innombrables combats. Ce Chiliarque qui errait dans le plan æthérique a retrouvé son épée perdue et déchiré l'espace-temps pour revenir dans notre réalité.",
+          "ID": "Ciptaan Fondasi dan veteran pertarungan yang tak terhitung banyaknya. Chiliarch ini berkelana di Ætherside hingga ia menemukan kembali pedangnya yang hilang dan menemukan waktu kembalinya.",
+          "IT": "Creazione dei Fondatori e veterano di innumerevoli battaglie. Questo Chiliarca vagava per l'Ætherspazio finché non ha recuperato la sua spada perduta e squarciato un varco per fare ritorno.",
+          "JP": "礎石の造物。百戦錬磨の千人隊長は超域をさまよい続ける――失われた刃が再び見出されるその時まで、回帰し得る刹那が引き裂かれるその瞬間まで。",
+          "KR": "파운데이션의 피조물. 백전노장인 이 천부장은 초자연 속을 떠돌고 있었습니다. 잃어버린 칼날이 다시 발견될 때까지, 그리고 귀환의 순간을 찢어 열 때까지.",
+          "MX": "Una creación de la Fundación y veterano de incontables batallas. Este quiliarca vagó por el Plano del éter hasta que recuperó su espada perdida y abrió por la fuerza un instante para su regreso.",
+          "RU": "Творение «Основы» и ветеран бесчисленных боев. Этот хилиарх странствовал по эфирному миру, пока не нашел свой утерянный меч и не вырвал с боем возможность вернуться.",
+          "TC": "基石的造物。這位身經百戰的千夫長在超域中徘徊，直至失落的鋒刃被再次尋得，直至撕開那得以回歸的剎那。",
+          "TH": "สิ่งมีชีวิต​ที่​เดอะ​ ฟาวน์​เด​ชัน​สร้าง​ขึ้น​ และ​เป็น​ทหาร​ผู้​ผ่านศึก​มา​นับ​ครั้ง​ไม่​ถ้วน​ ผู้​บังคับ​กองพัน​ผู้​นี้​พเนจร​อยู่​ใน​เอ​เทอร์​ไซด์​จนกระทั่ง​ได้​ดาบ​ที่​สูญหาย​กลับคืน​มา​ และ​ได้​เปิดทาง​ให้​ตนเอง​ได้​หวนคืน​กลับมา​อีกครั้ง",
+          "VN": "Một Tạo Vật của Nền Tảng, cũng là lão tướng từng kinh qua vô số trận chiến. Vị Thiên Phu Trưởng này đã lang bạt nơi Ætherside, cho đến khi tìm lại thanh kiếm thất lạc và xé mở khoảnh khắc để trở về."
+        },
+        "displayType": 2,
+        "distributionIds": [
+          "distribution_map02_lv008"
+        ],
+        "name": {
+          "BR": "Alleikhreos, Quiliarca",
+          "CN": "阿莱克琉斯，千夫长",
+          "DE": "Alleikhreos, Chiliarch",
+          "EN": "Alleikhreos, Chiliarch",
+          "FR": "Alleikhreos, Chiliarque",
+          "ID": "Alleikhreos, Chiliarch",
+          "IT": "Alleikhreos, Chiliarch",
+          "JP": "千人隊長アレイクレウス",
+          "KR": "알레이크레오스, 천부장",
+          "MX": "Alleikhreos, Quiliarca",
+          "RU": "Хилиарх Аллейхреос",
+          "TC": "阿萊克琉斯，千夫長",
+          "TH": "อัล​เล​เคร​ออส​, ผู้​บังคับ​กองพัน",
+          "VN": "Alleikhreos, Thiên Phu Trưởng"
+        },
+        "nickname": {
+          "BR": "Alleikhreos",
+          "CN": "阿莱克琉斯",
+          "DE": "Alleikhreos",
+          "EN": "Alleikhreos",
+          "FR": "Alleikhreos",
+          "ID": "Alleikhreos",
+          "IT": "Alleikhreos",
+          "JP": "アレイクレウス",
+          "KR": "알레이크레오스",
+          "MX": "Alleikhreos",
+          "RU": "Аллейхреос",
+          "TC": "阿萊克琉斯",
+          "TH": "อัล​เล​เคร​ออส",
+          "VN": "Alleikhreos"
+        },
+        "tags": [],
+        "templateId": "eny_0125_fdcentur"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "eny_0097_hsmino2": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0054_hsmino_ability_1",
+            "eny_0054_hsmino_ability_2"
+          ],
+          "description": {
+            "BR": "Um criminoso equipado com armamento pesado. A obliteração não é uma tarefa fácil. Somente os destruidores mais fortes, armados com lançadores de foguetes quádruplos, podem alcançar o título de Obliteradores de Nuvens.",
+            "CN": "装备了重型武器的非法武装人员。开天难成，一众背负四联装发射器的武装人员中，只有足够强者才能获得“开天”之名。\n",
+            "DE": "Ein schwer bewaffneter Verbrecher. Eine echte Vernichtung ist nicht leicht zu erreichen, weshalb nur die stärksten Kämpfer, die mit Vierfach-Raketenwerfern ausgerüstet sind, den Titel „Wolkenvernichter“ tragen dürfen.",
+            "EN": "A criminal equipped with heavy weaponry. Obliteration is no small feat. Only the strongest smashers armed with quadruple rocket launchers can achieve the title of Cloud Obliterator.",
+            "FR": "Un criminel équipé d'armes lourdes. Obtenir ce titre n'est pas un mince exploit. Seuls les écraseurs les plus forts, armés de lance-roquettes quadritubes, peuvent devenir des brise-nuées.",
+            "ID": "Penjahat yang menggunakan senjata berat. Penghancuran total bukanlah hal yang mudah. Hanya pemukul terkuat dengan peluncur roket empat laraslah yang pantas menyandang gelar Cloud Obliterator.",
+            "IT": "Un criminale equipaggiato con armi pesanti. L'obliterazione non è un'impresa semplice, solo i distruttori più forti armati di lanciarazzi quadrupli possono ricevere il titolo di oblitera-nubi.",
+            "JP": "重武器を装備した不法武装者。「開天」の名を得られるのは、背に四連発射装置を担ぐ武装兵の中でも、十分な実力を備えた者のみである。",
+            "KR": "중형 무기를 장착한 불법 무장 세력. 하늘을 여는 것은 아무나 쉽게 할 수 있는 일이 아닙니다. 사중 장착 발사기를 메고 있는 무장 인원 중에서 오직 충분히 강한 자만이 '하늘을 여는 자'라는 칭호를 얻을 수 있습니다.",
+            "MX": "Un criminal armado con armamento pesado. La destrucción no es cosa fácil, solo aquellos capaces de dominar el lanzacohetes cuádruple, pueden alcanzar el título de Destructor de nubes.",
+            "RU": "Преступник с тяжелым оружием. Всеобщее уничтожение — задача не из легких. Только сильнейшие бойцы, вооруженные счетверенными ракетными установками, могут заслужить звание облачного истребителя.",
+            "TC": "裝備了重型武器的非法武裝人員。開天難成，一眾背負四聯裝發射器的武裝人員中，只有足夠強者才能獲得「開天」之名。",
+            "TH": "อาชญากร​ที่​ติดอาวุธ​หนัก​ การกำ​จัด​ให้​สิ้นซาก​ไม่ใช่​เรื่องเล็ก​น้อย​ มี​เพียง​ผู้​ที่​สามารถ​บดขยี้​ได้​อย่าง​แข็งแกร่ง​ซึ่ง​ติดอาวุธ​จรวด​สี่​ลำกล้อง​เท่านั้น​ ที่​สามารถ​ได้รับ​สมญานาม​ว่า​ \"เครื่อง​ทำลาย​เมฆ​\"",
+            "VN": "Một tên tội phạm được trang bị vũ khí hạng nặng. Việc hủy diệt hắn không phải chuyện đơn giản. Chỉ những kẻ phá hủy mạnh mẽ nhất, được trang bị súng phóng lựu bốn nòng mới có thể đạt danh hiệu Khai Thiên Tướng."
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv006"
+          ],
+          "name": {
+            "BR": "Obliterador de Nuvens",
+            "CN": "开天将",
+            "DE": "Wolkenvernichter",
+            "EN": "Cloud Obliterator",
+            "FR": "Brise-nuées",
+            "ID": "Cloud Obliterator",
+            "IT": "Oblitera-nubi",
+            "JP": "開天将",
+            "KR": "개천장",
+            "MX": "Destructor de nubes",
+            "RU": "Облачный истребитель",
+            "TC": "開天將",
+            "TH": "เครื่อง​ทำลาย​เมฆ",
+            "VN": "Khai Thiên Tướng"
+          },
+          "nickname": {
+            "BR": "Obliterador de Nuvens",
+            "CN": "开天将",
+            "DE": "Wolkenvernichter",
+            "EN": "Cloud Obliterator",
+            "FR": "Brise-nuées",
+            "ID": "Cloud Obliterator",
+            "IT": "Oblitera-nubi",
+            "JP": "開天将",
+            "KR": "개천장",
+            "MX": "Destructor de nubes",
+            "RU": "Облачный истребитель",
+            "TC": "開天將",
+            "TH": "เครื่อง​ทำลาย​เมฆ",
+            "VN": "Khai Thiên Tướng"
+          },
+          "tags": [],
+          "templateId": "eny_0097_hsmino2"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0054_hsmino_ability_1",
+            "eny_0054_hsmino_ability_2"
+          ],
+          "description": {
+            "BR": "Um criminoso equipado com armamento pesado. A obliteração não é uma tarefa fácil. Somente os destruidores mais fortes, armados com lançadores de foguetes quádruplos, podem alcançar o título de Obliteradores de Nuvens.",
+            "CN": "装备了重型武器的非法武装人员。开天难成，一众背负四联装发射器的武装人员中，只有足够强者才能获得“开天”之名。\n",
+            "DE": "Ein schwer bewaffneter Verbrecher. Eine echte Vernichtung ist nicht leicht zu erreichen, weshalb nur die stärksten Kämpfer, die mit Vierfach-Raketenwerfern ausgerüstet sind, den Titel „Wolkenvernichter“ tragen dürfen.",
+            "EN": "A criminal equipped with heavy weaponry. Obliteration is no small feat. Only the strongest smashers armed with quadruple rocket launchers can achieve the title of Cloud Obliterator.",
+            "FR": "Un criminel équipé d'armes lourdes. Obtenir ce titre n'est pas un mince exploit. Seuls les écraseurs les plus forts, armés de lance-roquettes quadritubes, peuvent devenir des brise-nuées.",
+            "ID": "Penjahat yang menggunakan senjata berat. Penghancuran total bukanlah hal yang mudah. Hanya pemukul terkuat dengan peluncur roket empat laraslah yang pantas menyandang gelar Cloud Obliterator.",
+            "IT": "Un criminale equipaggiato con armi pesanti. L'obliterazione non è un'impresa semplice, solo i distruttori più forti armati di lanciarazzi quadrupli possono ricevere il titolo di oblitera-nubi.",
+            "JP": "重武器を装備した不法武装者。「開天」の名を得られるのは、背に四連発射装置を担ぐ武装兵の中でも、十分な実力を備えた者のみである。",
+            "KR": "중형 무기를 장착한 불법 무장 세력. 하늘을 여는 것은 아무나 쉽게 할 수 있는 일이 아닙니다. 사중 장착 발사기를 메고 있는 무장 인원 중에서 오직 충분히 강한 자만이 '하늘을 여는 자'라는 칭호를 얻을 수 있습니다.",
+            "MX": "Un criminal armado con armamento pesado. La destrucción no es cosa fácil, solo aquellos capaces de dominar el lanzacohetes cuádruple, pueden alcanzar el título de Destructor de nubes.",
+            "RU": "Преступник с тяжелым оружием. Всеобщее уничтожение — задача не из легких. Только сильнейшие бойцы, вооруженные счетверенными ракетными установками, могут заслужить звание облачного истребителя.",
+            "TC": "裝備了重型武器的非法武裝人員。開天難成，一眾背負四聯裝發射器的武裝人員中，只有足夠強者才能獲得「開天」之名。",
+            "TH": "อาชญากร​ที่​ติดอาวุธ​หนัก​ การกำ​จัด​ให้​สิ้นซาก​ไม่ใช่​เรื่องเล็ก​น้อย​ มี​เพียง​ผู้​ที่​สามารถ​บดขยี้​ได้​อย่าง​แข็งแกร่ง​ซึ่ง​ติดอาวุธ​จรวด​สี่​ลำกล้อง​เท่านั้น​ ที่​สามารถ​ได้รับ​สมญานาม​ว่า​ \"เครื่อง​ทำลาย​เมฆ​\"",
+            "VN": "Một tên tội phạm được trang bị vũ khí hạng nặng. Việc hủy diệt hắn không phải chuyện đơn giản. Chỉ những kẻ phá hủy mạnh mẽ nhất, được trang bị súng phóng lựu bốn nòng mới có thể đạt danh hiệu Khai Thiên Tướng."
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv003",
+            "distribution_map02_lv006"
+          ],
+          "name": {
+            "BR": "Obliterador de Nuvens",
+            "CN": "开天将",
+            "DE": "Wolkenvernichter",
+            "EN": "Cloud Obliterator",
+            "FR": "Brise-nuées",
+            "ID": "Cloud Obliterator",
+            "IT": "Oblitera-nubi",
+            "JP": "開天将",
+            "KR": "개천장",
+            "MX": "Destructor de nubes",
+            "RU": "Облачный истребитель",
+            "TC": "開天將",
+            "TH": "เครื่อง​ทำลาย​เมฆ",
+            "VN": "Khai Thiên Tướng"
+          },
+          "nickname": {
+            "BR": "Obliterador de Nuvens",
+            "CN": "开天将",
+            "DE": "Wolkenvernichter",
+            "EN": "Cloud Obliterator",
+            "FR": "Brise-nuées",
+            "ID": "Cloud Obliterator",
+            "IT": "Oblitera-nubi",
+            "JP": "開天将",
+            "KR": "개천장",
+            "MX": "Destructor de nubes",
+            "RU": "Облачный истребитель",
+            "TC": "開天將",
+            "TH": "เครื่อง​ทำลาย​เมฆ",
+            "VN": "Khai Thiên Tướng"
+          },
+          "tags": [],
+          "templateId": "eny_0097_hsmino2"
+        },
+        "changed": {
+          "distributionIds[0]": {
+            "type": "value",
+            "oldValue": "distribution_map02_lv006",
+            "newValue": "distribution_map02_lv003"
+          },
+          "distributionIds[1]": {
+            "type": "value",
+            "newValue": "distribution_map02_lv006"
+          }
+        }
+      },
+      "eny_0107_wgshoal2": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0091_wgshoal_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Genesklydan Dinedon\" (ID de arquivo: AGM321δ) é uma variante energizada do AGM321. Sua matéria constituinte encontra-se em um fluxo turbulento constante. Isso também explica sua forma particularmente aterradora quando aparece à noite.",
+            "CN": "“杰那克吕丹·狄涅同”（归档编号：AGM321δ），AGM321的激流种。内部构成物质流转激烈，在夜间出现时，其外形会显得尤为可怖。",
+            "DE": "Der „Genesklydan-Dinedon“ (Archiv-ID: AGM321δ) ist eine energetisierte Variante von AGM321. Seine Grundmaterie befindet sich in stetem, turbulentem Fluss. Das erklärt auch seine besonders schreckliche Form, wenn man ihm nachts begegnet.",
+            "EN": "The \"Genesklydan Dinedon\" (archive ID: AGM321δ) is an energized variant of AGM321. Its constituent matter is in a constant, turbulent flow. This also explains its particularly terrifying form when it appears at night.",
+            "FR": "Le « dinedon génesklydan » (ID d'archive : AGM321δ) est une variante énergisée de l'AGM321. La matière qui le constitue tourbillonne sans cesse dans un flux agité. Cela explique la forme particulièrement effrayante qu'il adopte la nuit.",
+            "ID": "“Genesklydan Dinedon” (ID arsip: AGM321δ) adalah varian AGM321 yang berisi energi. Materi penyusunnya selalu mengalir deras dan tanpa henti. Hal ini pulalah yang menyebabkan wujudnya tampak menyeramkan saat muncul pada malam hari.",
+            "IT": "Il \"Genesklydan Dinedon\" (ID archivio: AGM321δ) è una variante energizzata dell'AGM321. La sua materia costitutiva è bloccata in un flusso costante e turbolento, il che spiega il suo aspetto particolarmente spaventoso quando compare di notte.",
+            "JP": "「Genesklydan Dinedon」（整理番号：AGM321δ）、AGM321の激流種。内部の構成物質の流れが激しく、夜中に出現するとその外形はひときわ恐ろしい姿を見せる。",
+            "KR": "'제나크뤼단 · 다이네든'(보관 번호: AGM321δ), AGM321의 격류종, 내부 구성 물질의 흐름이 격렬하고 밤에 마주치면 그 모습이 평소보다 훨씬 더 무섭게 느껴집니다.",
+            "MX": "El “Genesklydan Dinedon” (ID de archivo: AGM321δ) es una variante energizada de AGM321. Su materia constitutiva está en un flujo constante y turbulento. Esto también explica su forma particularmente aterradora cuando aparece por la noche.",
+            "RU": "Генесклидан-динедон (ID: AGM321δ) — заряженная разновидность AGM321. Составляющее его вещество находится в состоянии постоянного бурного потока. Этим объясняется особенно пугающая форма, которую он принимает по ночам.",
+            "TC": "「傑那克呂丹·狄涅同」（歸檔編號：AGM321δ），AGM321的激流種。內部構成物質流轉激烈，在夜間出現時，其外形會顯得尤為恐怖。",
+            "TH": "\"จีน​สก​ลี​ดาน​ ได​เน​ดอน​\" (รหัส​คลัง​: AGM321δ) เป็น​รุ่น​ที่​มีพลัง​ของ​ AGM321 องค์ประกอบ​ของ​มัน​อยู่​ใน​สภาวะ​ไหลเวียน​ปั่นป่วน​ตลอดเวลา​ ซึ่ง​อธิบาย​ได้​ถึง​รูปลักษณ์​อัน​น่าสะพรึงกลัว​ของ​มัน​ โดยเฉพาะ​เมื่อ​มัน​ปรากฏตัว​ใน​ยามค่ำคืน",
+            "VN": "\"Genesklydan Dinedon\" (ID lưu trữ: AGM321δ) là biến thể có năng lượng của AGM321. Vật chất cấu thành của nó luôn ở trạng thái chảy hỗn loạn. Điều này cũng giải thích hình dạng đặc biệt đáng sợ của nó khi xuất hiện vào ban đêm."
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_world_energy_point07"
+          ],
+          "name": {
+            "BR": "Andarilho da Maré δ",
+            "CN": "潮行天使δ",
+            "DE": "Gezeitenwanderer δ",
+            "EN": "Tidewalker δ",
+            "FR": "Brise-marée δ",
+            "ID": "Tidewalker δ",
+            "IT": "Attraversamarea δ",
+            "JP": "潮進アンゲロスδ",
+            "KR": "조류아겔로스 · δ",
+            "MX": "Caminante de mareas δ",
+            "RU": "Волноход δ",
+            "TC": "潮行天使δ",
+            "TH": "นัก​เดิน​ทะเล​ δ",
+            "VN": "Kẻ Lướt Sóng δ"
+          },
+          "nickname": {
+            "BR": "Andarilho da Maré δ",
+            "CN": "潮行天使δ",
+            "DE": "Gezeitenwanderer δ",
+            "EN": "Tidewalker δ",
+            "FR": "Brise-marée δ",
+            "ID": "Tidewalker δ",
+            "IT": "Attraversamarea δ",
+            "JP": "潮進アンゲロスδ",
+            "KR": "조류아겔로스 · δ",
+            "MX": "Caminante de mareas δ",
+            "RU": "Волноход δ",
+            "TC": "潮行天使δ",
+            "TH": "นัก​เดิน​ทะเล​ δ",
+            "VN": "Kẻ Lướt Sóng δ"
+          },
+          "tags": [],
+          "templateId": "eny_0107_wgshoal2"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0091_wgshoal_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Genesklydan Dinedon\" (ID de arquivo: AGM321δ) é uma variante energizada do AGM321. Sua matéria constituinte encontra-se em um fluxo turbulento constante. Isso também explica sua forma particularmente aterradora quando aparece à noite.",
+            "CN": "“杰那克吕丹·狄涅同”（归档编号：AGM321δ），AGM321的激流种。内部构成物质流转激烈，在夜间出现时，其外形会显得尤为可怖。",
+            "DE": "Der „Genesklydan-Dinedon“ (Archiv-ID: AGM321δ) ist eine energetisierte Variante von AGM321. Seine Grundmaterie befindet sich in stetem, turbulentem Fluss. Das erklärt auch seine besonders schreckliche Form, wenn man ihm nachts begegnet.",
+            "EN": "The \"Genesklydan Dinedon\" (archive ID: AGM321δ) is an energized variant of AGM321. Its constituent matter is in a constant, turbulent flow. This also explains its particularly terrifying form when it appears at night.",
+            "FR": "Le « dinedon génesklydan » (ID d'archive : AGM321δ) est une variante énergisée de l'AGM321. La matière qui le constitue tourbillonne sans cesse dans un flux agité. Cela explique la forme particulièrement effrayante qu'il adopte la nuit.",
+            "ID": "“Genesklydan Dinedon” (ID arsip: AGM321δ) adalah varian AGM321 yang berisi energi. Materi penyusunnya selalu mengalir deras dan tanpa henti. Hal ini pulalah yang menyebabkan wujudnya tampak menyeramkan saat muncul pada malam hari.",
+            "IT": "Il \"Genesklydan Dinedon\" (ID archivio: AGM321δ) è una variante energizzata dell'AGM321. La sua materia costitutiva è bloccata in un flusso costante e turbolento, il che spiega il suo aspetto particolarmente spaventoso quando compare di notte.",
+            "JP": "「Genesklydan Dinedon」（整理番号：AGM321δ）、AGM321の激流種。内部の構成物質の流れが激しく、夜中に出現するとその外形はひときわ恐ろしい姿を見せる。",
+            "KR": "'제나크뤼단 · 다이네든'(보관 번호: AGM321δ), AGM321의 격류종, 내부 구성 물질의 흐름이 격렬하고 밤에 마주치면 그 모습이 평소보다 훨씬 더 무섭게 느껴집니다.",
+            "MX": "El “Genesklydan Dinedon” (ID de archivo: AGM321δ) es una variante energizada de AGM321. Su materia constitutiva está en un flujo constante y turbulento. Esto también explica su forma particularmente aterradora cuando aparece por la noche.",
+            "RU": "Генесклидан-динедон (ID: AGM321δ) — заряженная разновидность AGM321. Составляющее его вещество находится в состоянии постоянного бурного потока. Этим объясняется особенно пугающая форма, которую он принимает по ночам.",
+            "TC": "「傑那克呂丹·狄涅同」（歸檔編號：AGM321δ），AGM321的激流種。內部構成物質流轉激烈，在夜間出現時，其外形會顯得尤為恐怖。",
+            "TH": "\"จีน​สก​ลี​ดาน​ ได​เน​ดอน​\" (รหัส​คลัง​: AGM321δ) เป็น​รุ่น​ที่​มีพลัง​ของ​ AGM321 องค์ประกอบ​ของ​มัน​อยู่​ใน​สภาวะ​ไหลเวียน​ปั่นป่วน​ตลอดเวลา​ ซึ่ง​อธิบาย​ได้​ถึง​รูปลักษณ์​อัน​น่าสะพรึงกลัว​ของ​มัน​ โดยเฉพาะ​เมื่อ​มัน​ปรากฏตัว​ใน​ยามค่ำคืน",
+            "VN": "\"Genesklydan Dinedon\" (ID lưu trữ: AGM321δ) là biến thể có năng lượng của AGM321. Vật chất cấu thành của nó luôn ở trạng thái chảy hỗn loạn. Điều này cũng giải thích hình dạng đặc biệt đáng sợ của nó khi xuất hiện vào ban đêm."
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_map02_lv007",
+            "distribution_world_energy_point07"
+          ],
+          "name": {
+            "BR": "Andarilho da Maré δ",
+            "CN": "潮行天使δ",
+            "DE": "Gezeitenwanderer δ",
+            "EN": "Tidewalker δ",
+            "FR": "Brise-marée δ",
+            "ID": "Tidewalker δ",
+            "IT": "Attraversamarea δ",
+            "JP": "潮進アンゲロスδ",
+            "KR": "조류아겔로스 · δ",
+            "MX": "Caminante de mareas δ",
+            "RU": "Волноход δ",
+            "TC": "潮行天使δ",
+            "TH": "นัก​เดิน​ทะเล​ δ",
+            "VN": "Kẻ Lướt Sóng δ"
+          },
+          "nickname": {
+            "BR": "Andarilho da Maré δ",
+            "CN": "潮行天使δ",
+            "DE": "Gezeitenwanderer δ",
+            "EN": "Tidewalker δ",
+            "FR": "Brise-marée δ",
+            "ID": "Tidewalker δ",
+            "IT": "Attraversamarea δ",
+            "JP": "潮進アンゲロスδ",
+            "KR": "조류아겔로스 · δ",
+            "MX": "Caminante de mareas δ",
+            "RU": "Волноход δ",
+            "TC": "潮行天使δ",
+            "TH": "นัก​เดิน​ทะเล​ δ",
+            "VN": "Kẻ Lướt Sóng δ"
+          },
+          "tags": [],
+          "templateId": "eny_0107_wgshoal2"
+        },
+        "changed": {
+          "distributionIds[3]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point07",
+            "newValue": "distribution_map02_lv007"
+          },
+          "distributionIds[4]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point07"
+          }
+        }
+      },
+      "eny_0087_wgslime": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0087_wgslime_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Tholeroygran\" (ID do arquivo: ACM311) é o primeiro padrão fluido a ser descoberto. A morfologia da auréola é instável e a temperatura interna é tipicamente mais baixa do que a dos seus materiais constituintes.",
+            "CN": "“托雷格兰”（归档编号：ACM311），是人类发现的第一种使用液体的形成模式，光环的外观不稳定，内部温度通常比构成物质本身低。",
+            "DE": "Die „Tholeroygran“ (Archiv-ID: ACM311) ist das erste je entdeckte Muster, das auf Flüssigkeit basiert. Die Morphologie des Halos ist instabil, die interne Temperatur ist meist niedriger als die der einzelnen Materialien.",
+            "EN": "The \"Tholeroygran\" (archive ID: ACM311) is the first fluid-based pattern to be discovered. The morphology of the halo is unstable and the internal temperature is typically lower than its constituent materials.",
+            "FR": "Le « tholéroygran » (ID d'archive : ACM311) est le premier modèle à base fluide qu'on a découvert. La morphologie de son halo est instable et sa température interne est fondamentalement plus basse que les matériaux qui le constituent.",
+            "ID": "“Tholeroygran” (ID arsip: ACM311) adalah pola berbasis cairan yang pertama kali ditemukan. Bentuk halonya tidak stabil dan suhu internalnya biasanya lebih rendah daripada material penyusunnya.",
+            "IT": "Il \"Tholeroygran\" (ID archivio: ACM311) è la prima struttura a base liquida che sia stata scoperta. La morfologia della sua aureola è instabile e la temperatura interna è tipicamente più bassa dei suoi materiali costituenti.",
+            "JP": "「Tholeroygran」（整理番号：ACM311）、人類が発見した最初の液体を用いる形成パターンである。光輪の外観は不安定で、内部温度は構成物質自体よりも低いことが多い。",
+            "KR": "'토레이그란'(보관 번호: ACM311), 인류가 처음 발견한 액체를 사용한 형성 모델, 헤일로의 외형이 불안정하며, 일반적으로 내부 온도가 구성 물질보다 낮습니다.",
+            "MX": "El “Tholeroygran” (ID de archivo: ACM311) es el primer patrón fluido descubierto. La morfología de la aureola es inestable y la temperatura interna suele ser inferior a la de sus materiales constituyentes.",
+            "RU": "Толеройгран (ID: ACM311) — это первый открытый вид существ, которые состоят из жидкости. Ореол существа нестабилен, а внутренняя температура обычно ниже, чем у составляющих его материалов.",
+            "TC": "「托雷格蘭」（歸檔編號：ACM311），是人類發現的第一種使用液體的形成模式，光環的外觀不穩定，內部溫度通常比構成物質本身低。",
+            "TH": "\"โท​เล​รอย​แก​รน​\" (รหัส​คลัง​: ACM311) เป็น​รูปแบบ​ที่​ใช้​ของเหลว​รูปแบบ​แรก​ที่​ถูก​ค้นพบ​ ลักษณะ​ทาง​สัณฐาน​ของ​ฮา​โล​นั้น​ไม่​เสถียร​ และ​อุณหภูมิ​ภายใน​มักจะ​ต่ำกว่า​วัสดุ​ที่​ประกอบ​ขึ้น​เป็นมัน",
+            "VN": "\"Tholeroygran\" (ID lưu trữ: ACM311) là dạng sinh vật chất lỏng đầu tiên được phát hiện. Hình thái của vầng sáng lỏng này không ổn định và nhiệt độ bên trong thường thấp hơn các vật chất cấu thành."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_world_energy_point05"
+          ],
+          "name": {
+            "BR": "Lamacento",
+            "CN": "浊流天使",
+            "DE": "Schlammlawine",
+            "EN": "Mudflow",
+            "FR": "Coulifange",
+            "ID": "Mudflow",
+            "IT": "Fangoflutto",
+            "JP": "濁流アンゲロス",
+            "KR": "탁류아겔로스",
+            "MX": "Flujo de lodo",
+            "RU": "Мутноток",
+            "TC": "濁流天使",
+            "TH": "โคลน​ไหล",
+            "VN": "Dòng Chảy Bùn"
+          },
+          "nickname": {
+            "BR": "Lamacento",
+            "CN": "浊流天使",
+            "DE": "Schlammlawine",
+            "EN": "Mudflow",
+            "FR": "Coulifange",
+            "ID": "Mudflow",
+            "IT": "Fangoflutto",
+            "JP": "濁流アンゲロス",
+            "KR": "탁류아겔로스",
+            "MX": "Flujo de lodo",
+            "RU": "Мутноток",
+            "TC": "濁流天使",
+            "TH": "โคลน​ไหล",
+            "VN": "Dòng Chảy Bùn"
+          },
+          "tags": [],
+          "templateId": "eny_0087_wgslime"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0087_wgslime_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Tholeroygran\" (ID do arquivo: ACM311) é o primeiro padrão fluido a ser descoberto. A morfologia da auréola é instável e a temperatura interna é tipicamente mais baixa do que a dos seus materiais constituintes.",
+            "CN": "“托雷格兰”（归档编号：ACM311），是人类发现的第一种使用液体的形成模式，光环的外观不稳定，内部温度通常比构成物质本身低。",
+            "DE": "Die „Tholeroygran“ (Archiv-ID: ACM311) ist das erste je entdeckte Muster, das auf Flüssigkeit basiert. Die Morphologie des Halos ist instabil, die interne Temperatur ist meist niedriger als die der einzelnen Materialien.",
+            "EN": "The \"Tholeroygran\" (archive ID: ACM311) is the first fluid-based pattern to be discovered. The morphology of the halo is unstable and the internal temperature is typically lower than its constituent materials.",
+            "FR": "Le « tholéroygran » (ID d'archive : ACM311) est le premier modèle à base fluide qu'on a découvert. La morphologie de son halo est instable et sa température interne est fondamentalement plus basse que les matériaux qui le constituent.",
+            "ID": "“Tholeroygran” (ID arsip: ACM311) adalah pola berbasis cairan yang pertama kali ditemukan. Bentuk halonya tidak stabil dan suhu internalnya biasanya lebih rendah daripada material penyusunnya.",
+            "IT": "Il \"Tholeroygran\" (ID archivio: ACM311) è la prima struttura a base liquida che sia stata scoperta. La morfologia della sua aureola è instabile e la temperatura interna è tipicamente più bassa dei suoi materiali costituenti.",
+            "JP": "「Tholeroygran」（整理番号：ACM311）、人類が発見した最初の液体を用いる形成パターンである。光輪の外観は不安定で、内部温度は構成物質自体よりも低いことが多い。",
+            "KR": "'토레이그란'(보관 번호: ACM311), 인류가 처음 발견한 액체를 사용한 형성 모델, 헤일로의 외형이 불안정하며, 일반적으로 내부 온도가 구성 물질보다 낮습니다.",
+            "MX": "El “Tholeroygran” (ID de archivo: ACM311) es el primer patrón fluido descubierto. La morfología de la aureola es inestable y la temperatura interna suele ser inferior a la de sus materiales constituyentes.",
+            "RU": "Толеройгран (ID: ACM311) — это первый открытый вид существ, которые состоят из жидкости. Ореол существа нестабилен, а внутренняя температура обычно ниже, чем у составляющих его материалов.",
+            "TC": "「托雷格蘭」（歸檔編號：ACM311），是人類發現的第一種使用液體的形成模式，光環的外觀不穩定，內部溫度通常比構成物質本身低。",
+            "TH": "\"โท​เล​รอย​แก​รน​\" (รหัส​คลัง​: ACM311) เป็น​รูปแบบ​ที่​ใช้​ของเหลว​รูปแบบ​แรก​ที่​ถูก​ค้นพบ​ ลักษณะ​ทาง​สัณฐาน​ของ​ฮา​โล​นั้น​ไม่​เสถียร​ และ​อุณหภูมิ​ภายใน​มักจะ​ต่ำกว่า​วัสดุ​ที่​ประกอบ​ขึ้น​เป็นมัน",
+            "VN": "\"Tholeroygran\" (ID lưu trữ: ACM311) là dạng sinh vật chất lỏng đầu tiên được phát hiện. Hình thái của vầng sáng lỏng này không ổn định và nhiệt độ bên trong thường thấp hơn các vật chất cấu thành."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_map02_lv007",
+            "distribution_world_energy_point05"
+          ],
+          "name": {
+            "BR": "Lamacento",
+            "CN": "浊流天使",
+            "DE": "Schlammlawine",
+            "EN": "Mudflow",
+            "FR": "Coulifange",
+            "ID": "Mudflow",
+            "IT": "Fangoflutto",
+            "JP": "濁流アンゲロス",
+            "KR": "탁류아겔로스",
+            "MX": "Flujo de lodo",
+            "RU": "Мутноток",
+            "TC": "濁流天使",
+            "TH": "โคลน​ไหล",
+            "VN": "Dòng Chảy Bùn"
+          },
+          "nickname": {
+            "BR": "Lamacento",
+            "CN": "浊流天使",
+            "DE": "Schlammlawine",
+            "EN": "Mudflow",
+            "FR": "Coulifange",
+            "ID": "Mudflow",
+            "IT": "Fangoflutto",
+            "JP": "濁流アンゲロス",
+            "KR": "탁류아겔로스",
+            "MX": "Flujo de lodo",
+            "RU": "Мутноток",
+            "TC": "濁流天使",
+            "TH": "โคลน​ไหล",
+            "VN": "Dòng Chảy Bùn"
+          },
+          "tags": [],
+          "templateId": "eny_0087_wgslime"
+        },
+        "changed": {
+          "distributionIds[3]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point05",
+            "newValue": "distribution_map02_lv007"
+          },
+          "distributionIds[4]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point05"
+          }
+        }
+      },
+      "eny_0089_wgreflec": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0089_wgreflec_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Prismastagran\" (ID do arquivo: ASM316) é uma variante não padrão do ARM315. Ele é capaz de proteger Aggeloi próximos e é muito difícil de atingir, pois frequentemente se cerca de entidades ARM315.",
+            "CN": "“普里玛塔格兰”（归档编号：ASM316），ARM315的非模式种，能够为周围的天使提供保护，混杂在ARM315中时会很难击中它。",
+            "DE": "Das „Prismastagran“ (Archiv-ID: ASM316) ist eine Nicht-Modell-Variante von ARM315. Es kann andere Aggeloi in der Nähe beschützen und ist sehr schwer zu treffen, weil es sich oft mit ARM315 umgibt.",
+            "EN": "The \"Prismastagran\" (archive ID: ASM316) is a non-model variant of ARM315. It is capable of protecting nearby Aggeloi, and is very difficult to hit as it often surrounds itself with ARM315 entities.",
+            "FR": "Le « prismastagran » (ID d'archive : ASM316) est une variante sans modèle de l'ARM315. Il est capable de protéger les Aggeloi à proximité et s'entoure souvent d'entités ARM315, ce qui le rend très difficile à toucher.",
+            "ID": "“Prismastagran” (ID arsip: ASM316) adalah varian nonmodel dari ARM315. Makhluk ini mampu melindungi Aggelos di sekitarnya, dan sangat sulit diserang karena kerap dikelilingi oleh entitas ARM315.",
+            "IT": "Il \"Prismastagran\" (ID archivio: ASM316) è una variante non standard dell'ARM315. È in grado di proteggere gli Aggeloi vicini ed è molto difficile da colpire, dato che spesso si circonda di entità ARM315.",
+            "JP": "「Prismastagran」（整理番号：ASM316）、ARM315の非定型種。周囲のアンゲロスを防御する能力を持つ。ARM315に紛れている場合、命中させることは困難である。",
+            "KR": "'프리마타그란'(보관 번호: ASM316), ARM315의 비모델 생물류입니다. 주변 아겔로스에게 보호를 제공하며, ARM315에 섞여 있을 때 조준하기 어렵습니다.",
+            "MX": "El “Prismastagran” (ID de archivo: ASM316) es una variante no modelo del ARM315. Es capaz de proteger a los Aggeloi cercanos y es muy difícil de alcanzar, ya que suele rodearse de entidades del ARM315.",
+            "RU": "Призмастагран (ID: ASM316) — это нестандартная разновидность ARM315. Способен защищать находящихся поблизости аггелов. В него очень трудно попасть, поскольку он часто окружает себя существами типа ARM315.",
+            "TC": "「普里瑪塔格蘭」（歸檔編號：ASM316），ARM315的非模式種，能夠為周圍的天使提供保護，混雜在ARM315中時會很難擊中牠。",
+            "TH": "\"พริ​สมาส​ตาก​ราน​\" (รหัส​คลัง​: ASM316) เป็น​รุ่น​ที่​ไม่ใช่​รุ่น​มาตรฐาน​ของ​ ARM315 มัน​สามารถ​ปกป้อง​แอง​เกลอ​ย​ที่อยู่​ใกล้เคียง​ได้​ และ​ยาก​ที่จะ​โจมตี​ถูก​ เนื่องจาก​มัน​มักจะ​ล้อมรอบ​ตัวเอง​ด้วย​สิ่งมีชีวิต​ ARM315",
+            "VN": "\"Prismastagran\" (ID lưu trữ: ASM316) là một biến thể phi tiêu chuẩn của ARM315. Nó có khả năng bảo vệ các Aggeloi xung quanh, và rất khó bị tấn công vì thường được các thực thể ARM315 bao xung quanh."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_world_energy_point05",
+            "distribution_world_energy_point07"
+          ],
+          "name": {
+            "BR": "Prisma",
+            "CN": "棱镜天使",
+            "DE": "Prisma",
+            "EN": "Prism",
+            "FR": "Prisme",
+            "ID": "Prisma",
+            "IT": "Prisma",
+            "JP": "稜鏡アンゲロス",
+            "KR": "굴절아겔로스",
+            "MX": "Prisma",
+            "RU": "Призма",
+            "TC": "稜鏡天使",
+            "TH": "ปริซึม",
+            "VN": "Lăng Trụ"
+          },
+          "nickname": {
+            "BR": "Prisma",
+            "CN": "棱镜天使",
+            "DE": "Prisma",
+            "EN": "Prism",
+            "FR": "Prisme",
+            "ID": "Prisma",
+            "IT": "Prisma",
+            "JP": "稜鏡アンゲロス",
+            "KR": "굴절아겔로스",
+            "MX": "Prisma",
+            "RU": "Призма",
+            "TC": "稜鏡天使",
+            "TH": "ปริซึม",
+            "VN": "Lăng Trụ"
+          },
+          "tags": [],
+          "templateId": "eny_0089_wgreflec"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0089_wgreflec_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Prismastagran\" (ID do arquivo: ASM316) é uma variante não padrão do ARM315. Ele é capaz de proteger Aggeloi próximos e é muito difícil de atingir, pois frequentemente se cerca de entidades ARM315.",
+            "CN": "“普里玛塔格兰”（归档编号：ASM316），ARM315的非模式种，能够为周围的天使提供保护，混杂在ARM315中时会很难击中它。",
+            "DE": "Das „Prismastagran“ (Archiv-ID: ASM316) ist eine Nicht-Modell-Variante von ARM315. Es kann andere Aggeloi in der Nähe beschützen und ist sehr schwer zu treffen, weil es sich oft mit ARM315 umgibt.",
+            "EN": "The \"Prismastagran\" (archive ID: ASM316) is a non-model variant of ARM315. It is capable of protecting nearby Aggeloi, and is very difficult to hit as it often surrounds itself with ARM315 entities.",
+            "FR": "Le « prismastagran » (ID d'archive : ASM316) est une variante sans modèle de l'ARM315. Il est capable de protéger les Aggeloi à proximité et s'entoure souvent d'entités ARM315, ce qui le rend très difficile à toucher.",
+            "ID": "“Prismastagran” (ID arsip: ASM316) adalah varian nonmodel dari ARM315. Makhluk ini mampu melindungi Aggelos di sekitarnya, dan sangat sulit diserang karena kerap dikelilingi oleh entitas ARM315.",
+            "IT": "Il \"Prismastagran\" (ID archivio: ASM316) è una variante non standard dell'ARM315. È in grado di proteggere gli Aggeloi vicini ed è molto difficile da colpire, dato che spesso si circonda di entità ARM315.",
+            "JP": "「Prismastagran」（整理番号：ASM316）、ARM315の非定型種。周囲のアンゲロスを防御する能力を持つ。ARM315に紛れている場合、命中させることは困難である。",
+            "KR": "'프리마타그란'(보관 번호: ASM316), ARM315의 비모델 생물류입니다. 주변 아겔로스에게 보호를 제공하며, ARM315에 섞여 있을 때 조준하기 어렵습니다.",
+            "MX": "El “Prismastagran” (ID de archivo: ASM316) es una variante no modelo del ARM315. Es capaz de proteger a los Aggeloi cercanos y es muy difícil de alcanzar, ya que suele rodearse de entidades del ARM315.",
+            "RU": "Призмастагран (ID: ASM316) — это нестандартная разновидность ARM315. Способен защищать находящихся поблизости аггелов. В него очень трудно попасть, поскольку он часто окружает себя существами типа ARM315.",
+            "TC": "「普里瑪塔格蘭」（歸檔編號：ASM316），ARM315的非模式種，能夠為周圍的天使提供保護，混雜在ARM315中時會很難擊中牠。",
+            "TH": "\"พริ​สมาส​ตาก​ราน​\" (รหัส​คลัง​: ASM316) เป็น​รุ่น​ที่​ไม่ใช่​รุ่น​มาตรฐาน​ของ​ ARM315 มัน​สามารถ​ปกป้อง​แอง​เกลอ​ย​ที่อยู่​ใกล้เคียง​ได้​ และ​ยาก​ที่จะ​โจมตี​ถูก​ เนื่องจาก​มัน​มักจะ​ล้อมรอบ​ตัวเอง​ด้วย​สิ่งมีชีวิต​ ARM315",
+            "VN": "\"Prismastagran\" (ID lưu trữ: ASM316) là một biến thể phi tiêu chuẩn của ARM315. Nó có khả năng bảo vệ các Aggeloi xung quanh, và rất khó bị tấn công vì thường được các thực thể ARM315 bao xung quanh."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_map02_lv007",
+            "distribution_world_energy_point05",
+            "distribution_world_energy_point07"
+          ],
+          "name": {
+            "BR": "Prisma",
+            "CN": "棱镜天使",
+            "DE": "Prisma",
+            "EN": "Prism",
+            "FR": "Prisme",
+            "ID": "Prisma",
+            "IT": "Prisma",
+            "JP": "稜鏡アンゲロス",
+            "KR": "굴절아겔로스",
+            "MX": "Prisma",
+            "RU": "Призма",
+            "TC": "稜鏡天使",
+            "TH": "ปริซึม",
+            "VN": "Lăng Trụ"
+          },
+          "nickname": {
+            "BR": "Prisma",
+            "CN": "棱镜天使",
+            "DE": "Prisma",
+            "EN": "Prism",
+            "FR": "Prisme",
+            "ID": "Prisma",
+            "IT": "Prisma",
+            "JP": "稜鏡アンゲロス",
+            "KR": "굴절아겔로스",
+            "MX": "Prisma",
+            "RU": "Призма",
+            "TC": "稜鏡天使",
+            "TH": "ปริซึม",
+            "VN": "Lăng Trụ"
+          },
+          "tags": [],
+          "templateId": "eny_0089_wgreflec"
+        },
+        "changed": {
+          "distributionIds[3]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point05",
+            "newValue": "distribution_map02_lv007"
+          },
+          "distributionIds[4]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point07",
+            "newValue": "distribution_world_energy_point05"
+          },
+          "distributionIds[5]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point07"
+          }
+        }
+      },
+      "eny_0088_wgthorns": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0088_wgthorns_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Diaphaistagran\" (ID do arquivo: ARM315) é um padrão fluido com capacidade de projetar energia. Seu formato é de uma geometria complexa, porém simétrica. Seus ataques também podem sugar o calor de qualquer superfície com a qual entram em contato.",
+            "CN": "“戴法斯塔格兰”（归档编号：ARM315），投掷能量的液体形成模式，拥有复杂对称的几何外形，它的攻击会从接触面夺走热量。",
+            "DE": "Der „Diaphaistagran“ (Archiv-ID: ARM315) ist ein flüssigkeitsbasiertes Muster, das projizieren kann. Es hat eine komplexe, aber symmetrische Geometrie. Seine Angriffe können jeder Oberfläche, mit der sie in Kontakt kommen, Hitze entziehen.",
+            "EN": "The \"Diaphaistagran\" (archive ID: ARM315) is a fluid-based pattern with energy projecting capabilities. Its shape is that of a complex yet symmetrical geometry. Its attacks can also sap heat from any surface they come in contact with.",
+            "FR": "Le « diaphaïstagran » (ID d'archive : ARM315) est un modèle à base fluide capable de projeter de l'énergie. La géométrie de son agencement est complexe mais symétrique. Ses attaques peuvent également aspirer la chaleur de toute surface avec laquelle il entre en contact.",
+            "ID": "“Diaphaistagran” (ID arsip: ARM315) adalah pola berbasis cairan yang punya kemampuan proyeksi energi. Bentuknya berupa geometri rumit yang simetris. Serangannya juga bisa menyerap panas dari permukaan apa pun yang tersentuh olehnya.",
+            "IT": "Il \"Diaphaistagran\" (ID archivio: ARM315) è una struttura a base liquida in grado di proiettare l'energia. La sua sagoma ha una geometria complessa ma simmetrica. Inoltre, i suoi attacchi sono in grado di assorbire calore da qualsiasi superficie con cui entrino in contatto.",
+            "JP": "「Diaphaistagran」（整理番号：ARM315）、エネルギーを投射する液体型の形成パターンであり、複雑かつ対称的な幾何学模様を有する。その攻撃は接触面から熱を奪う。",
+            "KR": "'다이파스타그란'(보관 번호: ARM315), 에너지를 투척하는 액체 형성 모델, 복잡하고 대칭적인 기하학적 외형을 지녔으며, 공격하면 접촉한 면에서 열을 빼앗습니다.",
+            "MX": "El “Diaphaistagran” (ID de archivo: ARM315) es un patrón fluido con capacidad para proyectar energía. Su forma es de una geometría compleja pero simétrica. Sus ataques también pueden absorber calor de cualquier superficie con la que entre en contacto.",
+            "RU": "Диафайстагран (ID: ARM315) — это вид существ, состоящих из жидкости и способных излучать энергию. Отличаются сложной, но симметричной геометрической формой. Их атаки также могут поглощать тепло любой поверхности, с которой соприкасаются.",
+            "TC": "「戴法斯塔格蘭」（歸檔編號：ARM315），投擲能量的液體形成模式，擁有複雜對稱的幾何外形，牠的攻擊會從接觸面奪走熱量。",
+            "TH": "\"ได​อะ​เ​ฟิส​ทาก​ราน​\" (รหัส​คลัง​: ARM315) เป็น​รูปแบบ​ของเหลว​ ซึ่ง​มี​ความสามารถ​ใน​การปลดปล่อย​พลังงาน​ รูปร่าง​ของ​มัน​เป็น​รูปทรง​เรขาคณิต​ที่​ซับซ้อน​แต่​มี​ความ​สมมาตร​ การ​โจมตี​ของ​มัน​ยัง​สามารถ​ดูดซับ​ความร้อน​จาก​ทุก​พื้นผิว​ที่​สัมผัส​ได้",
+            "VN": "\"Diaphaistagran\" (ID lưu trữ: ARM315) là dạng sinh vật chất lỏng có khả năng phát xạ năng lượng. Hình dạng của nó là một cấu trúc hình học phức tạp nhưng cân xứng. Các đòn tấn công của nó cũng có thể rút nhiệt từ bất kỳ bề mặt nào mà nó tiếp xúc."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_world_energy_point05",
+            "distribution_world_energy_point07"
+          ],
+          "name": {
+            "BR": "Hedron",
+            "CN": "晶锥天使",
+            "DE": "Hedron",
+            "EN": "Hedron",
+            "FR": "Hédron",
+            "ID": "Hedron",
+            "IT": "Edro",
+            "JP": "錐晶アンゲロス",
+            "KR": "수정아겔로스",
+            "MX": "Hedron",
+            "RU": "Полиэдр",
+            "TC": "晶錐天使",
+            "TH": "เฮด​รอน",
+            "VN": "Khối Đa Diện"
+          },
+          "nickname": {
+            "BR": "Hedron",
+            "CN": "晶锥天使",
+            "DE": "Hedron",
+            "EN": "Hedron",
+            "FR": "Hédron",
+            "ID": "Hedron",
+            "IT": "Edro",
+            "JP": "錐晶アンゲロス",
+            "KR": "수정아겔로스",
+            "MX": "Hedron",
+            "RU": "Полиэдр",
+            "TC": "晶錐天使",
+            "TH": "เฮด​รอน",
+            "VN": "Khối Đa Diện"
+          },
+          "tags": [],
+          "templateId": "eny_0088_wgthorns"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0088_wgthorns_ability_1"
+          ],
+          "description": {
+            "BR": "O \"Diaphaistagran\" (ID do arquivo: ARM315) é um padrão fluido com capacidade de projetar energia. Seu formato é de uma geometria complexa, porém simétrica. Seus ataques também podem sugar o calor de qualquer superfície com a qual entram em contato.",
+            "CN": "“戴法斯塔格兰”（归档编号：ARM315），投掷能量的液体形成模式，拥有复杂对称的几何外形，它的攻击会从接触面夺走热量。",
+            "DE": "Der „Diaphaistagran“ (Archiv-ID: ARM315) ist ein flüssigkeitsbasiertes Muster, das projizieren kann. Es hat eine komplexe, aber symmetrische Geometrie. Seine Angriffe können jeder Oberfläche, mit der sie in Kontakt kommen, Hitze entziehen.",
+            "EN": "The \"Diaphaistagran\" (archive ID: ARM315) is a fluid-based pattern with energy projecting capabilities. Its shape is that of a complex yet symmetrical geometry. Its attacks can also sap heat from any surface they come in contact with.",
+            "FR": "Le « diaphaïstagran » (ID d'archive : ARM315) est un modèle à base fluide capable de projeter de l'énergie. La géométrie de son agencement est complexe mais symétrique. Ses attaques peuvent également aspirer la chaleur de toute surface avec laquelle il entre en contact.",
+            "ID": "“Diaphaistagran” (ID arsip: ARM315) adalah pola berbasis cairan yang punya kemampuan proyeksi energi. Bentuknya berupa geometri rumit yang simetris. Serangannya juga bisa menyerap panas dari permukaan apa pun yang tersentuh olehnya.",
+            "IT": "Il \"Diaphaistagran\" (ID archivio: ARM315) è una struttura a base liquida in grado di proiettare l'energia. La sua sagoma ha una geometria complessa ma simmetrica. Inoltre, i suoi attacchi sono in grado di assorbire calore da qualsiasi superficie con cui entrino in contatto.",
+            "JP": "「Diaphaistagran」（整理番号：ARM315）、エネルギーを投射する液体型の形成パターンであり、複雑かつ対称的な幾何学模様を有する。その攻撃は接触面から熱を奪う。",
+            "KR": "'다이파스타그란'(보관 번호: ARM315), 에너지를 투척하는 액체 형성 모델, 복잡하고 대칭적인 기하학적 외형을 지녔으며, 공격하면 접촉한 면에서 열을 빼앗습니다.",
+            "MX": "El “Diaphaistagran” (ID de archivo: ARM315) es un patrón fluido con capacidad para proyectar energía. Su forma es de una geometría compleja pero simétrica. Sus ataques también pueden absorber calor de cualquier superficie con la que entre en contacto.",
+            "RU": "Диафайстагран (ID: ARM315) — это вид существ, состоящих из жидкости и способных излучать энергию. Отличаются сложной, но симметричной геометрической формой. Их атаки также могут поглощать тепло любой поверхности, с которой соприкасаются.",
+            "TC": "「戴法斯塔格蘭」（歸檔編號：ARM315），投擲能量的液體形成模式，擁有複雜對稱的幾何外形，牠的攻擊會從接觸面奪走熱量。",
+            "TH": "\"ได​อะ​เ​ฟิส​ทาก​ราน​\" (รหัส​คลัง​: ARM315) เป็น​รูปแบบ​ของเหลว​ ซึ่ง​มี​ความสามารถ​ใน​การปลดปล่อย​พลังงาน​ รูปร่าง​ของ​มัน​เป็น​รูปทรง​เรขาคณิต​ที่​ซับซ้อน​แต่​มี​ความ​สมมาตร​ การ​โจมตี​ของ​มัน​ยัง​สามารถ​ดูดซับ​ความร้อน​จาก​ทุก​พื้นผิว​ที่​สัมผัส​ได้",
+            "VN": "\"Diaphaistagran\" (ID lưu trữ: ARM315) là dạng sinh vật chất lỏng có khả năng phát xạ năng lượng. Hình dạng của nó là một cấu trúc hình học phức tạp nhưng cân xứng. Các đòn tấn công của nó cũng có thể rút nhiệt từ bất kỳ bề mặt nào mà nó tiếp xúc."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map02_lv001",
+            "distribution_map02_lv002",
+            "distribution_map02_lv004",
+            "distribution_map02_lv007",
+            "distribution_world_energy_point05",
+            "distribution_world_energy_point07"
+          ],
+          "name": {
+            "BR": "Hedron",
+            "CN": "晶锥天使",
+            "DE": "Hedron",
+            "EN": "Hedron",
+            "FR": "Hédron",
+            "ID": "Hedron",
+            "IT": "Edro",
+            "JP": "錐晶アンゲロス",
+            "KR": "수정아겔로스",
+            "MX": "Hedron",
+            "RU": "Полиэдр",
+            "TC": "晶錐天使",
+            "TH": "เฮด​รอน",
+            "VN": "Khối Đa Diện"
+          },
+          "nickname": {
+            "BR": "Hedron",
+            "CN": "晶锥天使",
+            "DE": "Hedron",
+            "EN": "Hedron",
+            "FR": "Hédron",
+            "ID": "Hedron",
+            "IT": "Edro",
+            "JP": "錐晶アンゲロス",
+            "KR": "수정아겔로스",
+            "MX": "Hedron",
+            "RU": "Полиэдр",
+            "TC": "晶錐天使",
+            "TH": "เฮด​รอน",
+            "VN": "Khối Đa Diện"
+          },
+          "tags": [],
+          "templateId": "eny_0088_wgthorns"
+        },
+        "changed": {
+          "distributionIds[3]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point05",
+            "newValue": "distribution_map02_lv007"
+          },
+          "distributionIds[4]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point07",
+            "newValue": "distribution_world_energy_point05"
+          },
+          "distributionIds[5]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point07"
+          }
+        }
+      },
+      "eny_0102_hstiger2": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0102_hstiger2_ability_1",
+            "eny_0102_hstiger2_ability_2"
+          ],
+          "description": {
+            "BR": "Uma variante de rastejante com pelagem de cor diferente, vida útil mais curta, mas maior força. Seus olhos parecem brilhar como fogo líquido.",
+            "CN": "彪兽的特殊变异色型，寿命有所减少，但个体更为强壮。它的双眼之中仿佛存在着流动的火焰。",
+            "DE": "Eine Wüstlingsbestie mit andersfarbigem Fell, kürzerer Lebensdauer aber mehr Stärke. Die Augen wirken wie flüssiges Feuer.",
+            "EN": "A rakerbeast variant featuring a different colored coat, shorter lifespan, but greater strength. Its eyes seem to glow like liquid fire.",
+            "FR": "Une variante de ratisseur possédant un pelage d'une couleur différente ainsi qu'une durée de vie plus courte, mais une force accrue. Ses yeux semblent briller comme de la lave en fusion.",
+            "ID": "Varian rakerbeast dengan bulu yang warnanya berbeda, umur lebih pendek, tapi kekuatannya lebih besar. Matanya berpendar seperti lelehan api.",
+            "IT": "Una variante di rastrobestia che presenta un manto di colori diversi, un'aspettativa di vita più breve, ma una forza maggiore. I suoi occhi sembrano brillare come fiamme liquide.",
+            "JP": "彪獣の特殊な変異型で、寿命は短いが、より強い個体。その両眼には、まるで炎が揺らめいているかのようである。",
+            "KR": "레이커비스트의 특수 변이 색상형, 수명은 다소 짧아졌지만, 더 강해졌습니다. 두 눈 속에는 마치 흐르는 불꽃이 깃든 듯합니다.",
+            "MX": "Una variante de la bestia rastrera con un pelaje de distinto color, menor esperanza de vida, pero mayor fuerza. Sus ojos parecen brillar como el magma.",
+            "RU": "Разновидность хитрого зверя с другим окрасом. Живет меньше, но обладает большей силой. Его сияющие глаза напоминают жидкий огонь.",
+            "TC": "彪獸的特殊變異色型，壽命有所減少，但個體更為強壯。牠的雙眼之中彷彿存在著流動的火焰。",
+            "TH": "สายพันธุ์​หนึ่ง​ของ​เร​เกอร์​บี​ส​ต์​ที่​มี​ขน​สี​ต่าง​ออก​ไป​ มีอายุ​ขัย​สั้น​กว่า​ แต่​แข็งแกร่ง​กว่า​ ดวงตา​ของ​มัน​ดูเหมือน​เปล่งประกาย​ราวกับ​ไฟ​เหลว",
+            "VN": "Một biến thể quái cào với lớp da khác màu, tuổi thọ ngắn hơn nhưng mạnh hơn. Mắt của nó sáng rực như cơn sóng lửa."
+          },
+          "displayType": 1,
+          "distributionIds": [],
+          "name": {
+            "BR": "Rastejante Brilhante",
+            "CN": "怒目彪兽",
+            "DE": "Funkelnde Wüstlingsbestie",
+            "EN": "Glaring Rakerbeast",
+            "FR": "Ratisseur éblouissant",
+            "ID": "Rakerbeast Mencolok",
+            "IT": "Rastrobestia abbagliante",
+            "JP": "鋭目彪獣",
+            "KR": "분노의 레이커비스트",
+            "MX": "Bestia rastrera deslumbrante",
+            "RU": "Сверкающий хитрый зверь",
+            "TC": "怒目彪獸",
+            "TH": "เร​เกอร์​บี​ส​ต์​ลาย​จุด​เข้ม",
+            "VN": "Quái Cào Sáng Chói"
+          },
+          "nickname": {
+            "BR": "Rastejante Brilhante",
+            "CN": "怒目彪兽",
+            "DE": "Funkelnde Wüstlingsbestie",
+            "EN": "Glaring Rakerbeast",
+            "FR": "Ratisseur éblouissant",
+            "ID": "Rakerbeast Mencolok",
+            "IT": "Rastrobestia abbagliante",
+            "JP": "鋭目彪獣",
+            "KR": "분노의 레이커비스트",
+            "MX": "Bestia rastrera deslumbrante",
+            "RU": "Сверкающий хитрый зверь",
+            "TC": "怒目彪獸",
+            "TH": "เร​เกอร์​บี​ส​ต์​ลาย​จุด​เข้ม",
+            "VN": "Quái Cào Sáng Chói"
+          },
+          "tags": [],
+          "templateId": "eny_0102_hstiger2"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0102_hstiger2_ability_1",
+            "eny_0102_hstiger2_ability_2"
+          ],
+          "description": {
+            "BR": "Uma variante de rastejante com pelagem de cor diferente, vida útil mais curta, mas maior força. Seus olhos parecem brilhar como fogo líquido.",
+            "CN": "彪兽的特殊变异色型，寿命有所减少，但个体更为强壮。它的双眼之中仿佛存在着流动的火焰。",
+            "DE": "Eine Wüstlingsbestie mit andersfarbigem Fell, kürzerer Lebensdauer aber mehr Stärke. Die Augen wirken wie flüssiges Feuer.",
+            "EN": "A rakerbeast variant featuring a different colored coat, shorter lifespan, but greater strength. Its eyes seem to glow like liquid fire.",
+            "FR": "Une variante de ratisseur possédant un pelage d'une couleur différente ainsi qu'une durée de vie plus courte, mais une force accrue. Ses yeux semblent briller comme de la lave en fusion.",
+            "ID": "Varian rakerbeast dengan bulu yang warnanya berbeda, umur lebih pendek, tapi kekuatannya lebih besar. Matanya berpendar seperti lelehan api.",
+            "IT": "Una variante di rastrobestia che presenta un manto di colori diversi, un'aspettativa di vita più breve, ma una forza maggiore. I suoi occhi sembrano brillare come fiamme liquide.",
+            "JP": "彪獣の特殊な変異型で、寿命は短いが、より強い個体。その両眼には、まるで炎が揺らめいているかのようである。",
+            "KR": "레이커비스트의 특수 변이 색상형, 수명은 다소 짧아졌지만, 더 강해졌습니다. 두 눈 속에는 마치 흐르는 불꽃이 깃든 듯합니다.",
+            "MX": "Una variante de la bestia rastrera con un pelaje de distinto color, menor esperanza de vida, pero mayor fuerza. Sus ojos parecen brillar como el magma.",
+            "RU": "Разновидность хитрого зверя с другим окрасом. Живет меньше, но обладает большей силой. Его сияющие глаза напоминают жидкий огонь.",
+            "TC": "彪獸的特殊變異色型，壽命有所減少，但個體更為強壯。牠的雙眼之中彷彿存在著流動的火焰。",
+            "TH": "สายพันธุ์​หนึ่ง​ของ​เร​เกอร์​บี​ส​ต์​ที่​มี​ขน​สี​ต่าง​ออก​ไป​ มีอายุ​ขัย​สั้น​กว่า​ แต่​แข็งแกร่ง​กว่า​ ดวงตา​ของ​มัน​ดูเหมือน​เปล่งประกาย​ราวกับ​ไฟ​เหลว",
+            "VN": "Một biến thể quái cào với lớp da khác màu, tuổi thọ ngắn hơn nhưng mạnh hơn. Mắt của nó sáng rực như cơn sóng lửa."
+          },
+          "displayType": 1,
+          "distributionIds": [
+            "distribution_map02_lv002"
+          ],
+          "name": {
+            "BR": "Rastejante Brilhante",
+            "CN": "怒目彪兽",
+            "DE": "Funkelnde Wüstlingsbestie",
+            "EN": "Glaring Rakerbeast",
+            "FR": "Ratisseur éblouissant",
+            "ID": "Rakerbeast Mencolok",
+            "IT": "Rastrobestia abbagliante",
+            "JP": "鋭目彪獣",
+            "KR": "분노의 레이커비스트",
+            "MX": "Bestia rastrera deslumbrante",
+            "RU": "Сверкающий хитрый зверь",
+            "TC": "怒目彪獸",
+            "TH": "เร​เกอร์​บี​ส​ต์​ลาย​จุด​เข้ม",
+            "VN": "Quái Cào Sáng Chói"
+          },
+          "nickname": {
+            "BR": "Rastejante Brilhante",
+            "CN": "怒目彪兽",
+            "DE": "Funkelnde Wüstlingsbestie",
+            "EN": "Glaring Rakerbeast",
+            "FR": "Ratisseur éblouissant",
+            "ID": "Rakerbeast Mencolok",
+            "IT": "Rastrobestia abbagliante",
+            "JP": "鋭目彪獣",
+            "KR": "분노의 레이커비스트",
+            "MX": "Bestia rastrera deslumbrante",
+            "RU": "Сверкающий хитрый зверь",
+            "TC": "怒目彪獸",
+            "TH": "เร​เกอร์​บี​ส​ต์​ลาย​จุด​เข้ม",
+            "VN": "Quái Cào Sáng Chói"
+          },
+          "tags": [],
+          "templateId": "eny_0102_hstiger2"
+        },
+        "changed": {
+          "distributionIds[0]": {
+            "type": "value",
+            "newValue": "distribution_map02_lv002"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2375 @@
+{
+  "tableName": "GameMechanicConditionTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 38,
+    "removed": 3,
+    "changed": 4
+  },
+  "entries": {
+    "added": {
+      "dung_blackbox_speedlimit_1_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_speedlimit_1_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_speedlimit_1",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_blackbox_transmuter_2_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_transmuter_2_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_transmuter_2",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_3_normal_cond2": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_3_normal_cond2",
+        "conditionType": 4509,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_3_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "map02_lv007"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_lizhiyan_chartrain01_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_lizhiyan_chartrain01_condition_1",
+        "conditionType": 5265,
+        "desc": {
+          "BR": "Desbloqueie o Tutorial",
+          "CN": "解锁教学关",
+          "DE": "Schalte das Tutorial frei.",
+          "EN": "Unlock the Tutorial",
+          "FR": "Débloquer le didacticiel",
+          "ID": "Buka Tutorial",
+          "IT": "Sblocca il tutorial",
+          "JP": "ガイドステージ解放",
+          "KR": "가이드 스테이지 잠금 해제",
+          "MX": "Desbloquear el tutorial",
+          "RU": "Откройте обучение",
+          "TC": "解鎖教學關",
+          "TH": "ปลดล็อก​บท​ฝึกหัด",
+          "VN": "Mở Khóa Hướng Dẫn"
+        },
+        "gameMechanicsId": "dung_lizhiyan_chartrain01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "chr_0032_lizhiyan"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_minibossrush02_01_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_minibossrush02_01_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "dung02_minibossrush02_01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "e11m3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower007_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower007_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower007_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower007_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s6_02s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_02s",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio no Modo Normal para desbloquear",
+          "CN": "通关普通模式关卡后解锁",
+          "DE": "Schließe zum Freischalten die Phase auf „Normal“ ab.",
+          "EN": "Complete the stage at Normal mode to unlock",
+          "FR": "Terminez le niveau en mode Normal pour débloquer.",
+          "ID": "Selesaikan stage dalam mode Normal untuk membukanya",
+          "IT": "Completa il livello in modalità Normale per sbloccare.",
+          "JP": "ノーマルモードをクリアして解放",
+          "KR": "일반 모드 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase en modo Normal para desbloquear",
+          "RU": "Чтобы открыть, пройдите стадию в обычном режиме",
+          "TC": "通關普通模式關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ใน​โหม​ด​ทั่วไป​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành màn chơi ở chế độ Thường để mở khóa"
+        },
+        "gameMechanicsId": "indie_hard023_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard023"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s6_01s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_01s",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio no Modo Normal para desbloquear",
+          "CN": "通关普通模式关卡后解锁",
+          "DE": "Schließe zum Freischalten die Phase auf „Normal“ ab.",
+          "EN": "Complete the stage at Normal mode to unlock",
+          "FR": "Terminez le niveau en mode Normal pour débloquer.",
+          "ID": "Selesaikan stage dalam mode Normal untuk membukanya",
+          "IT": "Completa il livello in modalità Normale per sbloccare.",
+          "JP": "ノーマルモードをクリアして解放",
+          "KR": "일반 모드 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase en modo Normal para desbloquear",
+          "RU": "Чтобы открыть, пройдите стадию в обычном режиме",
+          "TC": "通關普通模式關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ใน​โหม​ด​ทั่วไป​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành màn chơi ở chế độ Thường để mở khóa"
+        },
+        "gameMechanicsId": "indie_hard022_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard022"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_2_normal_cond2": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_2_normal_cond2",
+        "conditionType": 4509,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_2_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "map02_lv007"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_2_normal_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_2_normal_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_2_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_3_1_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s6_01": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_01",
+        "conditionType": 5023,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "indie_hard022",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s6_02": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_02",
+        "conditionType": 5023,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "indie_hard023",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "indie_battletower003_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower003_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower003_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower003_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s6_03": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_03",
+        "conditionType": 5023,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "indie_hard024",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s6_03s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_03s",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio no Modo Normal para desbloquear",
+          "CN": "通关普通模式关卡后解锁",
+          "DE": "Schließe zum Freischalten die Phase auf „Normal“ ab.",
+          "EN": "Complete the stage at Normal mode to unlock",
+          "FR": "Terminez le niveau en mode Normal pour débloquer.",
+          "ID": "Selesaikan stage dalam mode Normal untuk membukanya",
+          "IT": "Completa il livello in modalità Normale per sbloccare.",
+          "JP": "ノーマルモードをクリアして解放",
+          "KR": "일반 모드 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase en modo Normal para desbloquear",
+          "RU": "Чтобы открыть, пройдите стадию в обычном режиме",
+          "TC": "通關普通模式關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ใน​โหม​ด​ทั่วไป​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành màn chơi ở chế độ Thường để mở khóa"
+        },
+        "gameMechanicsId": "indie_hard024_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard024"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "activity_high_difficulty_condition_s6_04": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_04",
+        "conditionType": 5023,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "indie_hard025",
+        "parameter": [],
+        "progressToCompare": 30
+      },
+      "activity_high_difficulty_condition_s6_04s": {
+        "compareOperator": 3,
+        "conditionId": "activity_high_difficulty_condition_s6_04s",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio no Modo Normal para desbloquear",
+          "CN": "通关普通模式关卡后解锁",
+          "DE": "Schließe zum Freischalten die Phase auf „Normal“ ab.",
+          "EN": "Complete the stage at Normal mode to unlock",
+          "FR": "Terminez le niveau en mode Normal pour débloquer.",
+          "ID": "Selesaikan stage dalam mode Normal untuk membukanya",
+          "IT": "Completa il livello in modalità Normale per sbloccare.",
+          "JP": "ノーマルモードをクリアして解放",
+          "KR": "일반 모드 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase en modo Normal para desbloquear",
+          "RU": "Чтобы открыть, пройдите стадию в обычном режиме",
+          "TC": "通關普通模式關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ใน​โหม​ด​ทั่วไป​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành màn chơi ở chế độ Thường để mở khóa"
+        },
+        "gameMechanicsId": "indie_hard025_s",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_hard025"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_blackbox_transmuter_1_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_transmuter_1_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_transmuter_1",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_1_auto_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_1_auto_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_1_auto",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_3_1_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower001_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower001_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower001_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower001_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_bossrush03_01_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_bossrush03_01_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "dung02_bossrush03_01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "e11m7"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_bossrush03_02_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_bossrush03_02_cond_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare.",
+          "JP": "1つ前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_bossrush03_02",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_bossrush03_01"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_bossrush03_03_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_bossrush03_03_cond_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare.",
+          "JP": "1つ前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_bossrush03_03",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_bossrush03_02"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_minibossrush02_02_cond_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_minibossrush02_02_cond_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare.",
+          "JP": "1つ前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_minibossrush02_02",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_minibossrush02_01"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_blackbox_gasreactor_1_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_gasreactor_1_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_gasreactor_1",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower004_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower004_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower004_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower004_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_2_auto_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_2_auto_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_2_auto",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_3_2_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_blackbox_gaspurifier_1_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_gaspurifier_1_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_gaspurifier_1",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_blackbox_gaspump_1_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_gaspump_1_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_gaspump_1",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower002_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower002_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower002_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower002_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_blackbox_shaper_2_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_shaper_2_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_shaper_2",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_blackbox_vaporizer_1_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_blackbox_vaporizer_1_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_vaporizer_1",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_lackbox_xiraniteoven_3_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_lackbox_xiraniteoven_3_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Nível de Autoridade Insuficiente. Avance pela história principal para desbloquear.",
+          "CN": "访问权限不足，推进剧情以解锁使用",
+          "DE": "Unzureichendes Autoritätslevel. Schreite zum Freischalten in der Haupthandlung voran.",
+          "EN": "Insufficient Authority Level. Progress through the main story to unlock.",
+          "FR": "Niveau d'autorité insuffisant. Progressez dans l'histoire principale pour débloquer ceci.",
+          "ID": "Level Otoritas tidak cukup. Tingkatkan progres cerita utama untuk membukanya.",
+          "IT": "Livello di autorità insufficiente. Avanza nella missione principale per sbloccare.",
+          "JP": "アクセス権限不足です。先にストーリーを進めましょう",
+          "KR": "접근 권한 부족, 스토리를 진행하여 해제해 주세요.",
+          "MX": "Nivel de autoridad insuficiente. Avanza en la historia principal para desbloquear.",
+          "RU": "Слишком низкий уровень влияния. Чтобы открыть, проходите основной сюжет.",
+          "TC": "權限不足，推進劇情以解鎖使用",
+          "TH": "เล​เวล​ของ​เจ้าพนักงาน​ไม่​เพียงพอ​ ดำเนิน​เนื้อเรื่อง​หลัก​เพื่อ​ปลดล็อก",
+          "VN": "Không Đủ Cấp Đặc Quyền. Vượt cốt truyện chính để mở khóa."
+        },
+        "gameMechanicsId": "dung_blackbox_xiraniteoven_3",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dm01m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower005_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower005_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower005_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower005_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower006_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower006_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower006_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower006_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower008_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower008_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower008_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower008_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_3_normal_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_3_normal_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_3_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_3_2_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_3_auto_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_3_auto_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_3_auto",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_3_3_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      }
+    },
+    "removed": {
+      "indie_levelcheck002_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "indie_levelcheck002_condition_2",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Conclua a missão anterior para desbloquear",
+          "CN": "完成前置任务后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Mission ab.",
+          "EN": "Complete previous mission to unlock",
+          "FR": "Terminer la mission précédente pour débloquer ceci",
+          "ID": "Selesaikan misi sebelumnya untuk membukanya",
+          "IT": "Completa la missione precedente per sbloccare",
+          "JP": "前の任務を完了して解放可能",
+          "KR": "이전 임무 완료 후 잠금 해제",
+          "MX": "Completa la misión anterior para desbloquear",
+          "RU": "Завершите предыдущую миссию, чтобы открыть",
+          "TC": "完成前置任務後解鎖",
+          "TH": "ทำ​ภารกิจ​ก่อนหน้า​ให้​สำเร็จ​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành nhiệm vụ trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_levelcheck002",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "m0m2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_levelcheck003_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "indie_levelcheck003_condition_2",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Conclua a missão anterior para desbloquear",
+          "CN": "完成前置任务后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Mission ab.",
+          "EN": "Complete previous mission to unlock",
+          "FR": "Terminer la mission précédente pour débloquer ceci",
+          "ID": "Selesaikan misi sebelumnya untuk membukanya",
+          "IT": "Completa la missione precedente per sbloccare",
+          "JP": "前の任務を完了して解放可能",
+          "KR": "이전 임무 완료 후 잠금 해제",
+          "MX": "Completa la misión anterior para desbloquear",
+          "RU": "Завершите предыдущую миссию, чтобы открыть",
+          "TC": "完成前置任務後解鎖",
+          "TH": "ทำ​ภารกิจ​ก่อนหน้า​ให้​สำเร็จ​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành nhiệm vụ trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_levelcheck003",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "m0m3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_levelcheck004_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "indie_levelcheck004_condition_2",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Conclua a missão anterior para desbloquear",
+          "CN": "完成前置任务后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Mission ab.",
+          "EN": "Complete previous mission to unlock",
+          "FR": "Terminer la mission précédente pour débloquer ceci",
+          "ID": "Selesaikan misi sebelumnya untuk membukanya",
+          "IT": "Completa la missione precedente per sbloccare",
+          "JP": "前の任務を完了して解放可能",
+          "KR": "이전 임무 완료 후 잠금 해제",
+          "MX": "Completa la misión anterior para desbloquear",
+          "RU": "Завершите предыдущую миссию, чтобы открыть",
+          "TC": "完成前置任務後解鎖",
+          "TH": "ทำ​ภารกิจ​ก่อนหน้า​ให้​สำเร็จ​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành nhiệm vụ trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_levelcheck004",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "m0m4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      }
+    },
+    "changed": {
+      "indie_levelcheck001_condition_1": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck001_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Avance na Missão Principal para desbloquear",
+            "CN": "推进主线任务以解锁",
+            "DE": "Schreite zum Freischalten in der Hauptmission voran.",
+            "EN": "Progress through the Main mission to unlock",
+            "FR": "Progresser dans la mission principale pour débloquer ceci",
+            "ID": "Tingkatkan progres misi Utama untuk membukanya",
+            "IT": "Progredisci nella missione principale per sbloccare.",
+            "JP": "メイン任務を進めて解放可能",
+            "KR": "메인 임무 진행 후 잠금 해제",
+            "MX": "Avanza en la misión principal para desbloquear",
+            "RU": "Продолжайте проходить основную миссию, чтобы открыть",
+            "TC": "推進主線任務以解鎖",
+            "TH": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+            "VN": "Hoàn thành Nhiệm Vụ Chính để mở khóa"
+          },
+          "gameMechanicsId": "indie_levelcheck001",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e2m8"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck001_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Aceite a missão [Além da Expansão dos Mundos I]",
+            "CN": "接取任务「跨过寰宇深处·一」",
+            "DE": "Nimm die Mission [Jenseits der Welten I] an.",
+            "EN": "Accept the mission [Beyond the Worlds' Expanse I]",
+            "FR": "Accepter la mission [Au-delà de l'étendue du monde I]",
+            "ID": "Terima misi [Melampaui Bentang Dunia I]",
+            "IT": "Accetta la missione [Oltre la vastità dei mondi I]",
+            "JP": "任務「宇宙の深淵を渡って・1」を引き受ける",
+            "KR": "임무 [우주의 심연을 넘어 · 1] 받기",
+            "MX": "Acepta la misión [Más allá de la Expansión de los mundos I]",
+            "RU": "Примите миссию «За гранью миров I»",
+            "TC": "接取任務「跨過寰宇深處·一」",
+            "TH": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ I]",
+            "VN": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La I]"
+          },
+          "gameMechanicsId": "indie_levelcheck001",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "m0m2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Avance na Missão Principal para desbloquear",
+                "newText": "Aceite a missão [Além da Expansão dos Mundos I]"
+              },
+              "CN": {
+                "oldText": "推进主线任务以解锁",
+                "newText": "接取任务「跨过寰宇深处·一」"
+              },
+              "DE": {
+                "oldText": "Schreite zum Freischalten in der Hauptmission voran.",
+                "newText": "Nimm die Mission [Jenseits der Welten I] an."
+              },
+              "EN": {
+                "oldText": "Progress through the Main mission to unlock",
+                "newText": "Accept the mission [Beyond the Worlds' Expanse I]"
+              },
+              "FR": {
+                "oldText": "Progresser dans la mission principale pour débloquer ceci",
+                "newText": "Accepter la mission [Au-delà de l'étendue du monde I]"
+              },
+              "ID": {
+                "oldText": "Tingkatkan progres misi Utama untuk membukanya",
+                "newText": "Terima misi [Melampaui Bentang Dunia I]"
+              },
+              "IT": {
+                "oldText": "Progredisci nella missione principale per sbloccare.",
+                "newText": "Accetta la missione [Oltre la vastità dei mondi I]"
+              },
+              "JP": {
+                "oldText": "メイン任務を進めて解放可能",
+                "newText": "任務「宇宙の深淵を渡って・1」を引き受ける"
+              },
+              "KR": {
+                "oldText": "메인 임무 진행 후 잠금 해제",
+                "newText": "임무 [우주의 심연을 넘어 · 1] 받기"
+              },
+              "MX": {
+                "oldText": "Avanza en la misión principal para desbloquear",
+                "newText": "Acepta la misión [Más allá de la Expansión de los mundos I]"
+              },
+              "RU": {
+                "oldText": "Продолжайте проходить основную миссию, чтобы открыть",
+                "newText": "Примите миссию «За гранью миров I»"
+              },
+              "TC": {
+                "oldText": "推進主線任務以解鎖",
+                "newText": "接取任務「跨過寰宇深處·一」"
+              },
+              "TH": {
+                "oldText": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+                "newText": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ I]"
+              },
+              "VN": {
+                "oldText": "Hoàn thành Nhiệm Vụ Chính để mở khóa",
+                "newText": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La I]"
+              }
+            }
+          },
+          "parameter[0].valueStringList[0]": {
+            "type": "value",
+            "oldValue": "e2m8",
+            "newValue": "m0m2"
+          }
+        }
+      },
+      "indie_levelcheck002_condition_1": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck002_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Avance na Missão Principal para desbloquear",
+            "CN": "推进主线任务以解锁",
+            "DE": "Schreite zum Freischalten in der Hauptmission voran.",
+            "EN": "Progress through the Main mission to unlock",
+            "FR": "Progresser dans la mission principale pour débloquer ceci",
+            "ID": "Tingkatkan progres misi Utama untuk membukanya",
+            "IT": "Progredisci nella missione principale per sbloccare.",
+            "JP": "メイン任務を進めて解放可能",
+            "KR": "메인 임무 진행 후 잠금 해제",
+            "MX": "Avanza en la misión principal para desbloquear",
+            "RU": "Продолжайте проходить основную миссию, чтобы открыть",
+            "TC": "推進主線任務以解鎖",
+            "TH": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+            "VN": "Hoàn thành Nhiệm Vụ Chính để mở khóa"
+          },
+          "gameMechanicsId": "indie_levelcheck002",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e3m6"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck002_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Aceite a missão [Além da Expansão dos Mundos II]",
+            "CN": "接取任务「跨过寰宇深处·二」",
+            "DE": "Nimm die Mission [Jenseits der Welten II] an.",
+            "EN": "Accept the mission [Beyond the Worlds' Expanse II]",
+            "FR": "Accepter la mission [Au-delà de l'étendue du monde II]",
+            "ID": "Terima misi [Melampaui Bentang Dunia II]",
+            "IT": "Accetta la missione [Oltre la vastità dei mondi II]",
+            "JP": "任務「宇宙の深淵を渡って・2」を引き受ける",
+            "KR": "임무 [우주의 심연을 넘어 · 2] 받기",
+            "MX": "Acepta la misión [Más allá de la Expansión de los mundos II]",
+            "RU": "Примите миссию «За гранью миров II»",
+            "TC": "接取任務「跨過寰宇深處·二」",
+            "TH": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ II]",
+            "VN": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La II]"
+          },
+          "gameMechanicsId": "indie_levelcheck002",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "m0m3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Avance na Missão Principal para desbloquear",
+                "newText": "Aceite a missão [Além da Expansão dos Mundos II]"
+              },
+              "CN": {
+                "oldText": "推进主线任务以解锁",
+                "newText": "接取任务「跨过寰宇深处·二」"
+              },
+              "DE": {
+                "oldText": "Schreite zum Freischalten in der Hauptmission voran.",
+                "newText": "Nimm die Mission [Jenseits der Welten II] an."
+              },
+              "EN": {
+                "oldText": "Progress through the Main mission to unlock",
+                "newText": "Accept the mission [Beyond the Worlds' Expanse II]"
+              },
+              "FR": {
+                "oldText": "Progresser dans la mission principale pour débloquer ceci",
+                "newText": "Accepter la mission [Au-delà de l'étendue du monde II]"
+              },
+              "ID": {
+                "oldText": "Tingkatkan progres misi Utama untuk membukanya",
+                "newText": "Terima misi [Melampaui Bentang Dunia II]"
+              },
+              "IT": {
+                "oldText": "Progredisci nella missione principale per sbloccare.",
+                "newText": "Accetta la missione [Oltre la vastità dei mondi II]"
+              },
+              "JP": {
+                "oldText": "メイン任務を進めて解放可能",
+                "newText": "任務「宇宙の深淵を渡って・2」を引き受ける"
+              },
+              "KR": {
+                "oldText": "메인 임무 진행 후 잠금 해제",
+                "newText": "임무 [우주의 심연을 넘어 · 2] 받기"
+              },
+              "MX": {
+                "oldText": "Avanza en la misión principal para desbloquear",
+                "newText": "Acepta la misión [Más allá de la Expansión de los mundos II]"
+              },
+              "RU": {
+                "oldText": "Продолжайте проходить основную миссию, чтобы открыть",
+                "newText": "Примите миссию «За гранью миров II»"
+              },
+              "TC": {
+                "oldText": "推進主線任務以解鎖",
+                "newText": "接取任務「跨過寰宇深處·二」"
+              },
+              "TH": {
+                "oldText": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+                "newText": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ II]"
+              },
+              "VN": {
+                "oldText": "Hoàn thành Nhiệm Vụ Chính để mở khóa",
+                "newText": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La II]"
+              }
+            }
+          },
+          "parameter[0].valueStringList[0]": {
+            "type": "value",
+            "oldValue": "e3m6",
+            "newValue": "m0m3"
+          }
+        }
+      },
+      "indie_levelcheck003_condition_1": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck003_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Avance na Missão Principal para desbloquear",
+            "CN": "推进主线任务以解锁",
+            "DE": "Schreite zum Freischalten in der Hauptmission voran.",
+            "EN": "Progress through the Main mission to unlock",
+            "FR": "Progresser dans la mission principale pour débloquer ceci",
+            "ID": "Tingkatkan progres misi Utama untuk membukanya",
+            "IT": "Progredisci nella missione principale per sbloccare.",
+            "JP": "メイン任務を進めて解放可能",
+            "KR": "메인 임무 진행 후 잠금 해제",
+            "MX": "Avanza en la misión principal para desbloquear",
+            "RU": "Продолжайте проходить основную миссию, чтобы открыть",
+            "TC": "推進主線任務以解鎖",
+            "TH": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+            "VN": "Hoàn thành Nhiệm Vụ Chính để mở khóa"
+          },
+          "gameMechanicsId": "indie_levelcheck003",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e5m3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck003_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Aceite a missão [Além da Expansão dos Mundos III]",
+            "CN": "接取任务「跨过寰宇深处·三」",
+            "DE": "Nimm die Mission [Jenseits der Welten III] an.",
+            "EN": "Accept the mission [Beyond the Worlds' Expanse III]",
+            "FR": "Accepter la mission [Au-delà de l'étendue du monde III]",
+            "ID": "Terima misi [Melampaui Bentang Dunia III]",
+            "IT": "Accetta la missione [Oltre la vastità dei mondi III]",
+            "JP": "任務「宇宙の深淵を渡って・3」を引き受ける",
+            "KR": "임무 [우주의 심연을 넘어 · 3] 받기",
+            "MX": "Acepta la misión [Más allá de la Expansión de los mundos III]",
+            "RU": "Примите миссию «За гранью миров III»",
+            "TC": "接取任務「跨過寰宇深處·三」",
+            "TH": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ III]",
+            "VN": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La III]"
+          },
+          "gameMechanicsId": "indie_levelcheck003",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "m0m4"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Avance na Missão Principal para desbloquear",
+                "newText": "Aceite a missão [Além da Expansão dos Mundos III]"
+              },
+              "CN": {
+                "oldText": "推进主线任务以解锁",
+                "newText": "接取任务「跨过寰宇深处·三」"
+              },
+              "DE": {
+                "oldText": "Schreite zum Freischalten in der Hauptmission voran.",
+                "newText": "Nimm die Mission [Jenseits der Welten III] an."
+              },
+              "EN": {
+                "oldText": "Progress through the Main mission to unlock",
+                "newText": "Accept the mission [Beyond the Worlds' Expanse III]"
+              },
+              "FR": {
+                "oldText": "Progresser dans la mission principale pour débloquer ceci",
+                "newText": "Accepter la mission [Au-delà de l'étendue du monde III]"
+              },
+              "ID": {
+                "oldText": "Tingkatkan progres misi Utama untuk membukanya",
+                "newText": "Terima misi [Melampaui Bentang Dunia III]"
+              },
+              "IT": {
+                "oldText": "Progredisci nella missione principale per sbloccare.",
+                "newText": "Accetta la missione [Oltre la vastità dei mondi III]"
+              },
+              "JP": {
+                "oldText": "メイン任務を進めて解放可能",
+                "newText": "任務「宇宙の深淵を渡って・3」を引き受ける"
+              },
+              "KR": {
+                "oldText": "메인 임무 진행 후 잠금 해제",
+                "newText": "임무 [우주의 심연을 넘어 · 3] 받기"
+              },
+              "MX": {
+                "oldText": "Avanza en la misión principal para desbloquear",
+                "newText": "Acepta la misión [Más allá de la Expansión de los mundos III]"
+              },
+              "RU": {
+                "oldText": "Продолжайте проходить основную миссию, чтобы открыть",
+                "newText": "Примите миссию «За гранью миров III»"
+              },
+              "TC": {
+                "oldText": "推進主線任務以解鎖",
+                "newText": "接取任務「跨過寰宇深處·三」"
+              },
+              "TH": {
+                "oldText": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+                "newText": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ III]"
+              },
+              "VN": {
+                "oldText": "Hoàn thành Nhiệm Vụ Chính để mở khóa",
+                "newText": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La III]"
+              }
+            }
+          },
+          "parameter[0].valueStringList[0]": {
+            "type": "value",
+            "oldValue": "e5m3",
+            "newValue": "m0m4"
+          }
+        }
+      },
+      "indie_levelcheck004_condition_1": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck004_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Avance na Missão Principal para desbloquear",
+            "CN": "推进主线任务以解锁",
+            "DE": "Schreite zum Freischalten in der Hauptmission voran.",
+            "EN": "Progress through the Main mission to unlock",
+            "FR": "Progresser dans la mission principale pour débloquer ceci",
+            "ID": "Tingkatkan progres misi Utama untuk membukanya",
+            "IT": "Progredisci nella missione principale per sbloccare.",
+            "JP": "メイン任務を進めて解放可能",
+            "KR": "메인 임무 진행 후 잠금 해제",
+            "MX": "Avanza en la misión principal para desbloquear",
+            "RU": "Продолжайте проходить основную миссию, чтобы открыть",
+            "TC": "推進主線任務以解鎖",
+            "TH": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+            "VN": "Hoàn thành Nhiệm Vụ Chính để mở khóa"
+          },
+          "gameMechanicsId": "indie_levelcheck004",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e6m5"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "indie_levelcheck004_condition_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Aceite a missão [Além da Expansão dos Mundos IV]",
+            "CN": "接取任务「跨过寰宇深处·四」",
+            "DE": "Nimm die Mission [Jenseits der Welten IV] an.",
+            "EN": "Accept the mission [Beyond the Worlds' Expanse IV]",
+            "FR": "Accepter la mission [Au-delà de l'étendue du monde IV]",
+            "ID": "Terima misi [Melampaui Bentang Dunia IV]",
+            "IT": "Accetta la missione [Oltre la vastità dei mondi IV]",
+            "JP": "任務「宇宙の深淵を渡って・4」を引き受ける",
+            "KR": "임무 [우주의 심연을 넘어 · 4] 받기",
+            "MX": "Acepta la misión [Más allá de la Expansión de los mundos IV]",
+            "RU": "Примите миссию «За гранью миров IV»",
+            "TC": "接取任務「跨過寰宇深處·四」",
+            "TH": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ IV]",
+            "VN": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La IV]"
+          },
+          "gameMechanicsId": "indie_levelcheck004",
+          "parameter": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "m0m5"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1
+        },
+        "changed": {
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Avance na Missão Principal para desbloquear",
+                "newText": "Aceite a missão [Além da Expansão dos Mundos IV]"
+              },
+              "CN": {
+                "oldText": "推进主线任务以解锁",
+                "newText": "接取任务「跨过寰宇深处·四」"
+              },
+              "DE": {
+                "oldText": "Schreite zum Freischalten in der Hauptmission voran.",
+                "newText": "Nimm die Mission [Jenseits der Welten IV] an."
+              },
+              "EN": {
+                "oldText": "Progress through the Main mission to unlock",
+                "newText": "Accept the mission [Beyond the Worlds' Expanse IV]"
+              },
+              "FR": {
+                "oldText": "Progresser dans la mission principale pour débloquer ceci",
+                "newText": "Accepter la mission [Au-delà de l'étendue du monde IV]"
+              },
+              "ID": {
+                "oldText": "Tingkatkan progres misi Utama untuk membukanya",
+                "newText": "Terima misi [Melampaui Bentang Dunia IV]"
+              },
+              "IT": {
+                "oldText": "Progredisci nella missione principale per sbloccare.",
+                "newText": "Accetta la missione [Oltre la vastità dei mondi IV]"
+              },
+              "JP": {
+                "oldText": "メイン任務を進めて解放可能",
+                "newText": "任務「宇宙の深淵を渡って・4」を引き受ける"
+              },
+              "KR": {
+                "oldText": "메인 임무 진행 후 잠금 해제",
+                "newText": "임무 [우주의 심연을 넘어 · 4] 받기"
+              },
+              "MX": {
+                "oldText": "Avanza en la misión principal para desbloquear",
+                "newText": "Acepta la misión [Más allá de la Expansión de los mundos IV]"
+              },
+              "RU": {
+                "oldText": "Продолжайте проходить основную миссию, чтобы открыть",
+                "newText": "Примите миссию «За гранью миров IV»"
+              },
+              "TC": {
+                "oldText": "推進主線任務以解鎖",
+                "newText": "接取任務「跨過寰宇深處·四」"
+              },
+              "TH": {
+                "oldText": "ดำเนิน​ภารกิจ​หลัก​เพื่อ​ปลดล็อก",
+                "newText": "ยอมรับ​ภารกิจ​ [เหนือ​ขอบฟ้า​แห่ง​โลก​ทั้งปวง​ IV]"
+              },
+              "VN": {
+                "oldText": "Hoàn thành Nhiệm Vụ Chính để mở khóa",
+                "newText": "Chấp nhận nhiệm vụ [Khám Phá Vũ Trụ Bao La IV]"
+              }
+            }
+          },
+          "parameter[0].valueStringList[0]": {
+            "type": "value",
+            "oldValue": "e6m5",
+            "newValue": "m0m5"
+          }
+        }
+      }
+    }
+  }
+}

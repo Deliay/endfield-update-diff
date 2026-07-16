@@ -1,0 +1,340 @@
+{
+  "tableName": "CashShopTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 4
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "Fest_pack": {
+        "oldValue": {
+          "cashGoodsIds": [
+            "seasonal_giftpack_lt_1_2_2",
+            "weapon_giftpack_1_2_2_1",
+            "weapon_giftpack_1_2_2_2",
+            "weapon_giftpack_1_2_2_3",
+            "weapon_giftpack_1_2_2_4"
+          ],
+          "cashShopId": "Fest_pack",
+          "shopName": {
+            "BR": "Pacotes Festival do Brilhantismo",
+            "CN": "辉光庆典组合包",
+            "DE": "„Feier der Exzellenz“-Pakete",
+            "EN": "Fest of Brilliance Packs",
+            "FR": "Lots du Festival de Radiance",
+            "ID": "Paket Festival Kegemilangan",
+            "IT": "Pacchetti Festival della lucentezza",
+            "JP": "輝きの祝典パック",
+            "KR": "찬란한 빛의 축제 조합 패키지",
+            "MX": "Paquetes de Festival del resplandor",
+            "RU": "Наборы «Сияние славы»",
+            "TC": "輝光慶典組合包",
+            "TH": "แพ็ก​เทศกาล​เจิด​จรัส",
+            "VN": "Gói Lễ Hội Rực Rỡ"
+          }
+        },
+        "newValue": {
+          "cashGoodsIds": [
+            "weapon_giftpack_1_2_2_1",
+            "weapon_giftpack_1_2_2_2",
+            "weapon_giftpack_1_2_2_3",
+            "weapon_giftpack_1_2_2_4",
+            "seasonal_giftpack_lt_1_2_2"
+          ],
+          "cashShopId": "Fest_pack",
+          "shopName": {
+            "BR": "Pacotes Festival do Brilhantismo",
+            "CN": "辉光庆典组合包",
+            "DE": "„Feier der Exzellenz“-Pakete",
+            "EN": "Fest of Brilliance Packs",
+            "FR": "Lots du Festival de Radiance",
+            "ID": "Paket Festival Kegemilangan",
+            "IT": "Pacchetti Festival della lucentezza",
+            "JP": "輝きの祝典パック",
+            "KR": "찬란한 빛의 축제 조합 패키지",
+            "MX": "Paquetes de Festival del resplandor",
+            "RU": "Наборы «Сияние славы»",
+            "TC": "輝光慶典組合包",
+            "TH": "แพ็ก​เทศกาล​เจิด​จรัส",
+            "VN": "Gói Lễ Hội Rực Rỡ"
+          }
+        },
+        "changed": {
+          "cashGoodsIds[0]": {
+            "type": "value",
+            "oldValue": "seasonal_giftpack_lt_1_2_2",
+            "newValue": "weapon_giftpack_1_2_2_1"
+          },
+          "cashGoodsIds[1]": {
+            "type": "value",
+            "oldValue": "weapon_giftpack_1_2_2_1",
+            "newValue": "weapon_giftpack_1_2_2_2"
+          },
+          "cashGoodsIds[2]": {
+            "type": "value",
+            "oldValue": "weapon_giftpack_1_2_2_2",
+            "newValue": "weapon_giftpack_1_2_2_3"
+          },
+          "cashGoodsIds[3]": {
+            "type": "value",
+            "oldValue": "weapon_giftpack_1_2_2_3",
+            "newValue": "weapon_giftpack_1_2_2_4"
+          },
+          "cashGoodsIds[4]": {
+            "type": "value",
+            "oldValue": "weapon_giftpack_1_2_2_4",
+            "newValue": "seasonal_giftpack_lt_1_2_2"
+          }
+        }
+      },
+      "Newbie_pack": {
+        "oldValue": {
+          "cashGoodsIds": [
+            "newbie_giftpack_6_special",
+            "newbie_giftpack_01",
+            "newbie_giftpack_02",
+            "channel_ps_giftpack_01",
+            "channel_ps_giftpack_02"
+          ],
+          "cashShopId": "Newbie_pack",
+          "shopName": {
+            "BR": "Pacote Horizontes",
+            "CN": "启程组合包",
+            "DE": "Horizonte-Paket",
+            "EN": "Horizons Bundle",
+            "FR": "Lot d'horizons",
+            "ID": "Bundel Cakrawala",
+            "IT": "Pacchetto Orizzonti",
+            "JP": "旅立ちパック",
+            "KR": "여정의 시작 조합 패키지",
+            "MX": "Paquete Horizontes",
+            "RU": "Набор «Горизонты»",
+            "TC": "啟程組合包",
+            "TH": "ชุด​รวม​สุด​ขอบฟ้า",
+            "VN": "Gói Chân Trời"
+          }
+        },
+        "newValue": {
+          "cashGoodsIds": [
+            "newbie_giftpack_6_special",
+            "newbie_giftpack_01",
+            "newbie_giftpack_02",
+            "channel_ps_giftpack_01",
+            "channel_ps_giftpack_02",
+            "channel_ps_plus_giftpack_01"
+          ],
+          "cashShopId": "Newbie_pack",
+          "shopName": {
+            "BR": "Pacote Horizontes",
+            "CN": "启程组合包",
+            "DE": "Horizonte-Paket",
+            "EN": "Horizons Bundle",
+            "FR": "Lot d'horizons",
+            "ID": "Bundel Cakrawala",
+            "IT": "Pacchetto Orizzonti",
+            "JP": "旅立ちパック",
+            "KR": "여정의 시작 조합 패키지",
+            "MX": "Paquete Horizontes",
+            "RU": "Набор «Горизонты»",
+            "TC": "啟程組合包",
+            "TH": "ชุด​รวม​สุด​ขอบฟ้า",
+            "VN": "Gói Chân Trời"
+          }
+        },
+        "changed": {
+          "cashGoodsIds[5]": {
+            "type": "value",
+            "newValue": "channel_ps_plus_giftpack_01"
+          }
+        }
+      },
+      "Permanent_pack": {
+        "oldValue": {
+          "cashGoodsIds": [
+            "monthly_giftpack_01",
+            "weekly_giftpack_01"
+          ],
+          "cashShopId": "Permanent_pack",
+          "shopName": {
+            "BR": "Pacote Padrão",
+            "CN": "标准组合包",
+            "DE": "Standard-Paket",
+            "EN": "Standard Bundle",
+            "FR": "Lot standard",
+            "ID": "Bundel Standar",
+            "IT": "Pacchetto standard",
+            "JP": "標準パック",
+            "KR": "일반 조합 패키지",
+            "MX": "Paquete base",
+            "RU": "Стандартный набор",
+            "TC": "標準組合包",
+            "TH": "ชุด​รวม​มาตรฐาน",
+            "VN": "Gói Tiêu Chuẩn"
+          }
+        },
+        "newValue": {
+          "cashGoodsIds": [
+            "monthly_giftpack_01",
+            "weekly_giftpack_01",
+            "resetid_giftpack_free_01",
+            "resetid_giftpack_free_02",
+            "resetid_giftpack_free_03",
+            "resetid_giftpack_free_04",
+            "resetid_giftpack_free_05",
+            "resetid_giftpack_pay_01",
+            "resetid_giftpack_pay_02",
+            "resetid_giftpack_pay_03",
+            "resetid_giftpack_pay_04",
+            "resetid_giftpack_pay_05"
+          ],
+          "cashShopId": "Permanent_pack",
+          "shopName": {
+            "BR": "Pacote Padrão",
+            "CN": "标准组合包",
+            "DE": "Standard-Paket",
+            "EN": "Standard Bundle",
+            "FR": "Lot standard",
+            "ID": "Bundel Standar",
+            "IT": "Pacchetto standard",
+            "JP": "標準パック",
+            "KR": "일반 조합 패키지",
+            "MX": "Paquete base",
+            "RU": "Стандартный набор",
+            "TC": "標準組合包",
+            "TH": "ชุด​รวม​มาตรฐาน",
+            "VN": "Gói Tiêu Chuẩn"
+          }
+        },
+        "changed": {
+          "cashGoodsIds[2]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_free_01"
+          },
+          "cashGoodsIds[3]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_free_02"
+          },
+          "cashGoodsIds[4]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_free_03"
+          },
+          "cashGoodsIds[5]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_free_04"
+          },
+          "cashGoodsIds[6]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_free_05"
+          },
+          "cashGoodsIds[7]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_pay_01"
+          },
+          "cashGoodsIds[8]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_pay_02"
+          },
+          "cashGoodsIds[9]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_pay_03"
+          },
+          "cashGoodsIds[10]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_pay_04"
+          },
+          "cashGoodsIds[11]": {
+            "type": "value",
+            "newValue": "resetid_giftpack_pay_05"
+          }
+        }
+      },
+      "Seasonal_Rec_pack": {
+        "oldValue": {
+          "cashGoodsIds": [
+            "seasonal_giftpack_combine",
+            "seasonal_giftpack_lt_01",
+            "seasonal_giftpack_lt_02",
+            "seasonal_giftpack_lt_03",
+            "seasonal_giftpack_lt_1_1_1",
+            "seasonal_giftpack_lt_1_1_2",
+            "seasonal_giftpack_lt_1_2_1",
+            "seasonal_crossover_lt_1_2_1",
+            "seasonal_giftpack_lt_1_3_1",
+            "seasonal_giftpack_lt_1_3_2"
+          ],
+          "cashShopId": "Seasonal_Rec_pack",
+          "shopName": {
+            "BR": "Pacote Limitado",
+            "CN": "限时组合包",
+            "DE": "Limitiertes Paket",
+            "EN": "Limited Bundle",
+            "FR": "Lot limité",
+            "ID": "Bundel Terbatas",
+            "IT": "Pacchetto limitato",
+            "JP": "時限パック",
+            "KR": "기간 한정 조합 패키지",
+            "MX": "Paquete limitado",
+            "RU": "Лимитированный набор",
+            "TC": "限時組合包",
+            "TH": "ชุด​รวม​ลิมิเต็ด",
+            "VN": "Gói Giới Hạn"
+          }
+        },
+        "newValue": {
+          "cashGoodsIds": [
+            "seasonal_giftpack_combine",
+            "seasonal_giftpack_lt_01",
+            "seasonal_giftpack_lt_02",
+            "seasonal_giftpack_lt_03",
+            "seasonal_giftpack_lt_1_1_1",
+            "seasonal_giftpack_lt_1_1_2",
+            "seasonal_giftpack_lt_1_2_1",
+            "seasonal_crossover_lt_1_2_1",
+            "seasonal_giftpack_lt_1_3_1",
+            "seasonal_giftpack_lt_1_3_2",
+            "seasonal_giftpack_lt_1_4_1",
+            "giftpack_lt_decorate_1_4",
+            "giftpack_lt_gacha_plus_1_4"
+          ],
+          "cashShopId": "Seasonal_Rec_pack",
+          "shopName": {
+            "BR": "Pacote Limitado",
+            "CN": "限时组合包",
+            "DE": "Limitiertes Paket",
+            "EN": "Limited Bundle",
+            "FR": "Lot limité",
+            "ID": "Bundel Terbatas",
+            "IT": "Pacchetto limitato",
+            "JP": "時限パック",
+            "KR": "기간 한정 조합 패키지",
+            "MX": "Paquete limitado",
+            "RU": "Лимитированный набор",
+            "TC": "限時組合包",
+            "TH": "ชุด​รวม​ลิมิเต็ด",
+            "VN": "Gói Giới Hạn"
+          }
+        },
+        "changed": {
+          "cashGoodsIds[10]": {
+            "type": "value",
+            "newValue": "seasonal_giftpack_lt_1_4_1"
+          },
+          "cashGoodsIds[11]": {
+            "type": "value",
+            "newValue": "giftpack_lt_decorate_1_4"
+          },
+          "cashGoodsIds[12]": {
+            "type": "value",
+            "newValue": "giftpack_lt_gacha_plus_1_4"
+          }
+        }
+      }
+    }
+  }
+}

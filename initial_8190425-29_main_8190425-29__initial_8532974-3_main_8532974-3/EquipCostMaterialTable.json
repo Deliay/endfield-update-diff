@@ -1,0 +1,142 @@
+{
+  "tableName": "EquipCostMaterialTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_equip_script_4": {
+        "availableScript": [],
+        "chainId": 4000,
+        "isRecommended": false,
+        "missionJumpId": "jump_mission_main",
+        "scriptItemId": "item_equip_script_4",
+        "scriptName": {
+          "BR": "Técnica de Xiranita",
+          "CN": "息壤工艺",
+          "DE": "Xiranit-Technik",
+          "EN": "Xiranite Technique",
+          "FR": "Technique de xiranite",
+          "ID": "Teknik Xiranite",
+          "IT": "Tecnica di xiranite",
+          "JP": "息壌工程",
+          "KR": "식양 기술",
+          "MX": "Técnica de Xiranita",
+          "RU": "Технология: ксиранит",
+          "TC": "息壤工藝",
+          "TH": "เทคนิค​ซี​เรน​ไนต์",
+          "VN": "Kỹ Thuật Xiranite"
+        },
+        "sortId": 1,
+        "unlockScriptMission": "e6m3",
+        "unlockScriptObtainWay": [
+          "item_obtain_noway_tech_winder_display",
+          "item_obtain_noway_tech_xiranite_display"
+        ]
+      },
+      "item_equip_script_4_3": {
+        "availableScript": [
+          "item_equip_script_4",
+          "item_equip_script_4_1",
+          "item_equip_script_4_2"
+        ],
+        "chainId": 4003,
+        "isRecommended": true,
+        "missionJumpId": "jump_mission_main",
+        "scriptItemId": "item_equip_script_4_3",
+        "scriptName": {
+          "BR": "Técnica de Pirrolita",
+          "CN": "灼铜工艺",
+          "DE": "Pyrrolit-Technik",
+          "EN": "Pyrrolite Technique",
+          "FR": "Technique de pyrrolite",
+          "ID": "Teknik Pyrrolite",
+          "IT": "Tecnica di pirrolite",
+          "JP": "焔銅工程",
+          "KR": "작동 기술",
+          "MX": "Técnica de Pirrolita",
+          "RU": "Технология: пирролит",
+          "TC": "灼銅工藝",
+          "TH": "เทคนิค​ไพร์​โร​ไลท์",
+          "VN": "Kỹ Thuật Nham Đồng"
+        },
+        "sortId": 4,
+        "unlockScriptMission": "e11m8",
+        "unlockScriptObtainWay": [
+          "item_obtain_noway_item_gas_inert_display",
+          "item_obtain_noway_tech_gas_reactor_1_display"
+        ]
+      },
+      "item_equip_script_4_1": {
+        "availableScript": [
+          "item_equip_script_4"
+        ],
+        "chainId": 4001,
+        "isRecommended": false,
+        "missionJumpId": "jump_mission_main",
+        "scriptItemId": "item_equip_script_4_1",
+        "scriptName": {
+          "BR": "Técnica de Cuprium",
+          "CN": "赤铜工艺",
+          "DE": "Cuprium-Technik",
+          "EN": "Cuprium Technique",
+          "FR": "Technique de cuprium",
+          "ID": "Teknik Cuprium",
+          "IT": "Tecnica di cuprium",
+          "JP": "赤銅工程",
+          "KR": "적동 기술",
+          "MX": "Técnica de Cuprio",
+          "RU": "Технология: куприй",
+          "TC": "赤銅工藝",
+          "TH": "เทคนิค​คู​เพ​รี​ยม",
+          "VN": "Kỹ Thuật Đồng"
+        },
+        "sortId": 2,
+        "unlockScriptMission": "e7m4",
+        "unlockScriptObtainWay": [
+          "item_obtain_noway_item_copper_display",
+          "item_obtain_noway_tech_furnance_mode_display"
+        ]
+      },
+      "item_equip_script_4_2": {
+        "availableScript": [
+          "item_equip_script_4",
+          "item_equip_script_4_1"
+        ],
+        "chainId": 4002,
+        "isRecommended": false,
+        "missionJumpId": "jump_mission_main",
+        "scriptItemId": "item_equip_script_4_2",
+        "scriptName": {
+          "BR": "Técnica de Hetonita",
+          "CN": "赫铜工艺",
+          "DE": "Hetonit-Technik",
+          "EN": "Hetonite Technique",
+          "FR": "Technique d'hétonite",
+          "ID": "Teknik Hetonite",
+          "IT": "Tecnica di etonite",
+          "JP": "緋銅工程",
+          "KR": "혁동 기술",
+          "MX": "Técnica de Hetonita",
+          "RU": "Технология: гетонит",
+          "TC": "赫銅工藝",
+          "TH": "เทคนิค​เฮ​โท​ไนต์",
+          "VN": "Kỹ Thuật Huyết Đồng"
+        },
+        "sortId": 3,
+        "unlockScriptMission": "e8m5",
+        "unlockScriptObtainWay": [
+          "item_obtain_noway_item_liquid_acid_display",
+          "item_obtain_noway_tech_liquid_purifier_display"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

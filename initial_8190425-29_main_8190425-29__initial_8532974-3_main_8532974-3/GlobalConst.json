@@ -1,0 +1,43 @@
+{
+  "tableName": "GlobalConst",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 5,
+    "removed": 2,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "depotDestroyMaxCountEquip": 100,
+      "depotDestroyMaxCountGem": 200,
+      "depotDestroyMaxCountWeapon": 200,
+      "enableSeasonTowerRecordDisplayToggle": false,
+      "maxDashEnergyLimit": 480
+    },
+    "removed": {
+      "depotDestroyMaxCount": 200,
+      "serverRefreshDataTime": "16725168000000000"
+    },
+    "changed": {
+      "appStoreRatingConditionCompleteMissionIds": {
+        "oldValue": [
+          "e6m3",
+          "e9m8"
+        ],
+        "newValue": [
+          "e6m3",
+          "e9m8",
+          "e11m8"
+        ],
+        "changed": {
+          "[2]": {
+            "type": "value",
+            "newValue": "e11m8"
+          }
+        }
+      }
+    }
+  }
+}

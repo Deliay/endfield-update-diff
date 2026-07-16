@@ -1,0 +1,63 @@
+{
+  "tableName": "SkillConditionTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "lizhiyan_will": {
+        "compareOp": 4,
+        "condId": "lizhiyan_will",
+        "condType": 14010,
+        "leftAttrType": 41,
+        "rightAttrType": 42,
+        "toastText": {
+          "BR": "<@gembox.num>Vontade ({floor:deck_will:0}) atual de Arcane ＞ Inteligência ({floor:deck_wisd:0})</>.\nAs habilidades de batalha dela foram trocadas para: Conjunto Arcane: VON.",
+          "CN": "诀当前<@gembox.num>意志值({floor:deck_will:0}) ＞ 智识值({floor:deck_wisd:0})</>，\n技能形态切换为：阵诀·意。",
+          "DE": "Arkans aktueller <@gembox.num>Wille ({floor:deck_will:0}) > Intellekt ({floor:deck_wisd:0})</>.\nIhre Fertigkeiten sind jetzt „Säulenreihen-Arkana: WILLE“.",
+          "EN": "Arcane's current <@gembox.num>Will ({floor:deck_will:0}) ＞ Intellect ({floor:deck_wisd:0})</>.\nHer skills have been switched to: Array Arcana: WILL.",
+          "FR": "<@gembox.num>Volonté ({floor:deck_will:0}) ＞ Intelligence ({floor:deck_wisd:0})</> d'Arcane actuellement.\nSes compétences sont passées en mode : Arcane de matrice : VOL.",
+          "ID": "<@gembox.num>Will ({floor:deck_will:0}) Arcane saat ini ＞ Intellect ({floor:deck_wisd:0})</>.\nSkill-nya telah dialihkan ke: Array Arcana: WILL.",
+          "IT": "Attualmente Arcana ha <@gembox.num>Volontà ({floor:deck_will:0}) ＞ Intelletto ({floor:deck_wisd:0})</>.\nLe sue abilità sono cambiate in: Schiera di Arcana: VOL.",
+          "JP": "オクギは現在<@gembox.num>意志（{floor:deck_will:0}）＞知性（{floor:deck_wisd:0}）</>\nスキル形態は「陣訣・意」",
+          "KR": "현재 결의 <@gembox.num>의지 수치({floor:deck_will:0}) ＞ 지능 수치({floor:deck_wisd:0})</>\n스킬 형태가 진결 · 의지로 전환됩니다.",
+          "MX": "La <@gembox.num>Voluntad actual de Arcane ({floor:deck_will:0}) ＞ Intelecto ({floor:deck_wisd:0})</>.\nSus habilidades cambiaron a: Arcano de matriz: VOL.",
+          "RU": "Текущая <@gembox.num>воля ({floor:deck_will:0}) Премудрости > интеллекта ({floor:deck_wisd:0})</>.\nЕе навык переключен на «Аркану построения: ВОЛЯ».",
+          "TC": "訣目前的<@gembox.num>意志值（{floor:deck_will:0}） ＞ 智識值（{floor:deck_wisd:0}）</>，\n技能形態切換為：陣訣·意。",
+          "TH": "ค่า​ปัจจุบัน​ของ​ปริศนา​ <@gembox.num>​ความมุ่งมั่น​ ({floor:deck_will:0}) ＞ สติปัญญา​ ({floor:deck_wisd:0})</>\nทักษะ​ของ​เธอ​ถูก​เปลี่ยนเป็น​: แนว​เสา​เวท​: WILL",
+          "VN": "<@gembox.num>Ý Chí ({floor:deck_will:0}) hiện tại của Arcane ＞ Trí Tuệ ({floor:deck_wisd:0})</>.\nKỹ năng của cô sẽ chuyển sang: Trận Huyền Thuật: Ý CHÍ."
+        }
+      },
+      "lizhiyan_wisd": {
+        "compareOp": 3,
+        "condId": "lizhiyan_wisd",
+        "condType": 14010,
+        "leftAttrType": 41,
+        "rightAttrType": 42,
+        "toastText": {
+          "BR": "<@gembox.num>Inteligência ({floor:deck_wisd:0}) atual de Arcane ≥ Vontade ({floor:deck_will:0})</>.\nAs habilidades de batalha dela foram trocadas para: Conjunto Arcane: INT.",
+          "CN": "诀当前<@gembox.num>智识值({floor:deck_wisd:0}) ≥ 意志值({floor:deck_will:0})</>，\n技能形态切换为：阵诀·智。",
+          "DE": "Arkans aktueller <@gembox.num>Intellekt ({floor:deck_wisd:0}) ≥ Wille ({floor:deck_will:0})</>.\nIhre Fertigkeiten sind jetzt „Säulenreihen-Arkana: INT“.",
+          "EN": "Arcane's current <@gembox.num>Intellect ({floor:deck_wisd:0}) ≥ Will ({floor:deck_will:0})</>.\nHer skills have been switched to: Array Arcana: INT.",
+          "FR": "<@gembox.num>Intelligence ({floor:deck_wisd:0}) ≥ Volonté ({floor:deck_will:0})</> d'Arcane actuellement.\nSes compétences sont passées en mode : Arcane de matrice : INT.",
+          "ID": "<@gembox.num>Intellect ({floor:deck_wisd:0}) Arcane saat ini ≥ Will ({floor:deck_will:0})</>.\nSkill-nya telah dialihkan ke: Array Arcana: INT.",
+          "IT": "Attualmente Arcana ha <@gembox.num>Intelletto ({floor:deck_wisd:0}) ≥ Volontà ({floor:deck_will:0})</>.\nLe sue abilità sono cambiate in: Schiera di Arcana: INT.",
+          "JP": "オクギは現在<@gembox.num>知性（{floor:deck_wisd:0}）≥意志（{floor:deck_will:0}）</>\nスキル形態は「陣訣・知」",
+          "KR": "현재 결의 <@gembox.num>지능 수치({floor:deck_wisd:0}) ≥ 의지 수치({floor:deck_will:0})</>\n스킬 형태가 진결 · 지혜로 전환됩니다.",
+          "MX": "El <@gembox.num>Intelecto ({floor:deck_wisd:0}) actual de Arcane ≥ Voluntad ({floor:deck_will:0})</>.\nSus habilidades cambiaron a: Arcano de matriz: INT.",
+          "RU": "Текущий <@gembox.num>интеллект ({floor:deck_wisd:0}) Премудрости ≥ воли ({floor:deck_will:0})</>.\nЕе навык переключен на «Аркану построения: ИНТ».",
+          "TC": "訣目前的<@gembox.num>智識值（{floor:deck_wisd:0}） ≥ 意志值（{floor:deck_will:0}）</>，\n技能形態切換為：陣訣·智。",
+          "TH": "ค่า​ปัจจุบัน​ของ​ปริศนา​ <@gembox.num>​สติปัญญา​ ({floor:deck_wisd:0}) ≥ ความมุ่งมั่น​ ({floor:deck_will:0})</>\nทักษะ​ของ​เธอ​ถูก​เปลี่ยนเป็น​: แนว​เสา​เวท​: INT",
+          "VN": "<@gembox.num>Trí Tuệ ({floor:deck_wisd:0}) hiện tại của Arcane ≥ Ý Chí ({floor:deck_will:0})</>.\nKỹ năng của cô sẽ chuyển sang: Trận Huyền Thuật: TRÍ TUỆ."
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

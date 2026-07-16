@@ -1,0 +1,113 @@
+{
+  "tableName": "FactoryBattleTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "battle_lightning_2": {
+        "attackCost": 100,
+        "attackRange": 18,
+        "attackRange1": 0,
+        "attackRangeEffect": "P_interactive_boundary_weapontower_01",
+        "attackRangeType": "circle",
+        "chargeInterval": 5,
+        "commonSkillId": "int_fac_battle_lightning_2_skill",
+        "energyChargeCount": 100,
+        "energyChargeMillSec": 1000,
+        "energyMax": 2400,
+        "id": "battle_lightning_2",
+        "minAttackRange": 0,
+        "normalDesc": {
+          "BR": "<b>ATQ</b>: <@ba.key>20.625</>\n<b>Intervalo de Ataque</b>: <@ba.key>5</> s\n<b>Modo de Ataque</b>: Lança arcos elétricos para atacar inimigos. O arco se propaga em cadeia para inimigos próximos (até 2) e causa <@ba.pulse>DNO Elétrico</>. O arco também deixa um orbe elétrico próximo ao inimigo. O orbe causa <@ba.pulse>DNO Elétrico</> continuamente aos inimigos próximos.",
+          "CN": "<b>攻击力</b>：<@ba.key>20625</>\n<b>攻击间隔</b>：<@ba.key>5</>秒\n<b>攻击方式</b>：释放电能攻击敌人，攻击会弹射到附近敌人（至多2次），造成<@ba.pulse>电磁伤害</>，并在敌人附近留下电球，持续对附近敌人造成<@ba.pulse>电磁伤害</>。",
+          "DE": "<b>ANG</b>: <@ba.key>20.625</>\n<b>Angriffsintervall</b>: <@ba.key>5</> Sek.\n<b>Angriffsmodus</b>: Erzeugt elektrische Entladungen, die Gegner angreifen. Die Ladung springt auf nahe Gegner (bis zu 2) über und verursacht <@ba.pulse>Elektrischen SDN</>. Die Ladung hinterlässt außerdem eine elektrische Kugel in der Nähe des Gegners. Die Kugel fügt allen Gegnern in der Nähe fortlaufend <@ba.pulse>Elektrischen SDN</> zu.",
+          "EN": "<b>ATK</b>: <@ba.key>20625</>\n<b>Attack Interval</b>: <@ba.key>5</>s\n<b>Mode of Attack</b>: Releases electrical arcs that attack enemies. The arc chains to nearby enemies (up to 2) and deals <@ba.pulse>Electric DMG</>. The arc also leaves an electric orb close to the enemy. The orb continuously deals <@ba.pulse>Electric DMG</> to nearby enemies.",
+          "FR": "<b>ATQ</b> : <@ba.key>20 625</> points\n<b>Intervalle d'attaque</b> : <@ba.key>5</> s\n<b>Mode d'attaque</b> : projette des arcs électriques pour attaquer les ennemis. L'arc se transmet à deux ennemis à proximité au maximum pour infliger des <@ba.pulse>DÉG électriques</>. Il laisse près de l'ennemi un orbe électrique qui inflige des <@ba.pulse>DÉG électriques</> en continu aux ennemis à proximité.",
+          "ID": "<b>ATK</b>: <@ba.key>20.625</>\n<b>Interval Serangan</b>: <@ba.key>5</> dtk\n<b>Mode Serangan</b>: Melepaskan energi listrik yang akan menyerang musuh. Energi ini akan menyambar musuh di sekitarnya secara berantai (maksimum 2) dan menimbulkan <@ba.pulse>Electric DMG</>. Energi ini juga akan meninggalkan bola listrik di dekat musuh. Bola itu akan terus-menerus menimbulkan <@ba.pulse>Electric DMG</> kepada musuh di dekatnya.",
+          "IT": "<b>ATT</b>: <@ba.key>20625</>\n<b>Intervallo di attacco</b>: <@ba.key>5</>s\n<b>Modalità di attacco</b>: scatena ondate elettriche per attaccare i nemici. Le ondate possono concatenarsi per colpire i nemici vicini (fino a 2) e infliggere <@ba.pulse>danni da elettricità</>. L'ondata rilascia inoltre una sfera elettrica nei pressi del nemico. La sfera infligge costantemente <@ba.pulse>danni da elettricità</> ai nemici nelle vicinanze.",
+          "JP": "<b>攻撃力</b>：<@ba.key>20625</>\n<b>攻撃間隔</b>：<@ba.key>5</>秒\n<b>攻撃方法</b>：敵に電力を放出して攻撃する。近くの敵に連鎖して（最大2回）<@ba.pulse>電磁ダメージ</>を与え、その付近に球電を残し、持続的に周囲の敵に<@ba.pulse>電磁ダメージ</>を与える。",
+          "KR": "<b>공격력</b>: <@ba.key>20625</>\n<b>공격 간격</b>: <@ba.key>5</>초\n<b>공격 방식</b>: 전기 에너지를 방출해 적을 공격하며, 최대 2회까지 주변의 적에게 튕기며 <@ba.pulse>전기 피해</>를 줍니다. 또한 적 근처에 전기 구체를 남겨 주변 적에게 지속적으로 <@ba.pulse>전기 피해</>를 줍니다.",
+          "MX": "<b>ATQ</b>: <@ba.key>20 625</>\n<b>Intervalo de ataque</b>: <@ba.key>5</> s\n<b>Modo de ataque</b>: Libera arcos eléctricos que atacan a los enemigos. El arco se encadena a enemigos cercanos (hasta 2) e inflige <@ba.pulse>DAÑ eléctrico</>. El arco también deja un orbe eléctrico cerca del enemigo. El orbe inflige <@ba.pulse>DAÑ eléctrico</> continuo a los enemigos cercanos.",
+          "RU": "<b>АТК</b>: <@ba.key>20 625</>\n<b>Интервал атаки</b>: <@ba.key>5</> сек.\n<b>Тип атаки</b>: атакует врагов, выпуская разряды по дуге. Дуга связывается с ближайшими врагами (макс. 2) и наносит <@ba.pulse>электрический УРН</>. Дуга также оставляет рядом с врагом электрическую сферу, которая непрерывно наносит <@ba.pulse>электрический УРН</> ближайшим врагам.",
+          "TC": "<b>攻擊力</b>：<@ba.key>20625</>\n<b>攻擊間隔</b>：<@ba.key>5</>秒\n<b>攻擊方式</b>：釋放電能攻擊敵人，攻擊會彈射到附近敵人（最多2次），造成<@ba.pulse>電磁傷害</>，並在敵人附近留下電球，持續對附近敵人造成<@ba.pulse>電磁傷害</>。",
+          "TH": "<b>ATK</b>: <@ba.key>20,625</>\n<b>​ช่วง​เว้น​การ​โจมตี​</b>: <@ba.key>5</> วินาที​\n<b>​โหม​ด​การ​โจมตี​</b>: ปล่อย​กระแสไฟฟ้า​เพื่อ​โจมตี​ศัตรู​ สายฟ้า​จะ​ช็อต​ลาม​ไป​ยัง​ศัตรู​ใกล้เคียง​ (สูงสุด​ 2 ตัว​) และ​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> สายฟ้า​จะ​ทิั้​ง​ลูกแก้ว​ไฟฟ้า​ไว้​ใกล้​กับ​ศัตรู​ ลูกแก้ว​จะ​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> อย่างต่อเนื่อง​ให้​กับ​ศัตรู​ใกล้เคียง",
+          "VN": "<b>Tấn Công</b>: <@ba.key>20.625</>\n<b>Thời Gian Giữa Các Đòn Tấn Công</b>: <@ba.key>5</> giây\n<b>Chế Độ Tấn Công</b>: Phóng tia điện tấn công kẻ địch. Tia điện sẽ lan ra kẻ địch xung quanh (tối đa 2) và gây <@ba.pulse>ST Điện</>. Tia điện cũng để lại một quả cầu điện gần kẻ địch. Quả cầu này liên tục gây <@ba.pulse>ST Điện</> lên kẻ địch ở gần."
+        },
+        "overloadDesc": {
+          "BR": "<b>ATQ</b>: <@ba.key>20.625</>\n<b>Intervalo de Ataque</b>: <@ba.key>5</> s\n<b>Modo de Ataque</b>: Lança arcos elétricos para atacar inimigos. O arco se propaga em cadeia para inimigos próximos (até 2) e causa <@ba.pulse>DNO Elétrico</>. O arco também deixa um orbe elétrico próximo ao inimigo. O orbe causa <@ba.pulse>DNO Elétrico</> continuamente aos inimigos próximos.",
+          "CN": "<b>攻击力</b>：<@ba.key>20625</>\n<b>攻击间隔</b>：<@ba.key>5</>秒\n<b>攻击方式</b>：释放电能攻击敌人，攻击会弹射到附近敌人（至多2次），造成<@ba.pulse>电磁伤害</>，并在敌人附近留下电球，持续对附近敌人造成<@ba.pulse>电磁伤害</>。",
+          "DE": "<b>ANG</b>: <@ba.key>20.625</>\n<b>Angriffsintervall</b>: <@ba.key>5</> Sek.\n<b>Angriffsmodus</b>: Erzeugt elektrische Entladungen, die Gegner angreifen. Die Ladung springt auf nahe Gegner (bis zu 2) über und verursacht <@ba.pulse>Elektrischen SDN</>. Die Ladung hinterlässt außerdem eine elektrische Kugel in der Nähe des Gegners. Die Kugel fügt allen Gegnern in der Nähe fortlaufend <@ba.pulse>Elektrischen SDN</> zu.",
+          "EN": "<b>ATK</b>: <@ba.key>20625</>\n<b>Attack Interval</b>: <@ba.key>5</>s\n<b>Mode of Attack</b>: Releases electrical arcs that attack enemies. The arc chains to nearby enemies (up to 2) and deals <@ba.pulse>Electric DMG</>. The arc also leaves an electric orb close to the enemy. The orb continuously deals <@ba.pulse>Electric DMG</> to nearby enemies.",
+          "FR": "<b>ATQ</b> : <@ba.key>20 625</> points\n<b>Intervalle d'attaque</b> : <@ba.key>5</> s\n<b>Mode d'attaque</b> : projette des arcs électriques pour attaquer les ennemis. L'arc se transmet à deux ennemis à proximité au maximum pour infliger des <@ba.pulse>DÉG électriques</>. Il laisse près de l'ennemi un orbe électrique qui inflige des <@ba.pulse>DÉG électriques</> en continu aux ennemis à proximité.",
+          "ID": "<b>ATK</b>: <@ba.key>20.625</>\n<b>Interval Serangan</b>: <@ba.key>5</> dtk\n<b>Mode Serangan</b>: Melepaskan energi listrik yang akan menyerang musuh. Energi ini akan menyambar musuh di sekitarnya secara berantai (maksimum 2) dan menimbulkan <@ba.pulse>Electric DMG</>. Energi ini juga akan meninggalkan bola listrik di dekat musuh. Bola itu akan terus-menerus menimbulkan <@ba.pulse>Electric DMG</> kepada musuh di dekatnya.",
+          "IT": "<b>ATT</b>: <@ba.key>20625</>\n<b>Intervallo di attacco</b>: <@ba.key>5</>s\n<b>Modalità di attacco</b>: scatena ondate elettriche per attaccare i nemici. Le ondate possono concatenarsi per colpire i nemici vicini (fino a 2) e infliggere <@ba.pulse>danni da elettricità</>. L'ondata rilascia inoltre una sfera elettrica nei pressi del nemico. La sfera infligge costantemente <@ba.pulse>danni da elettricità</> ai nemici nelle vicinanze.",
+          "JP": "<b>攻撃力</b>：<@ba.key>20625</>\n<b>攻撃間隔</b>：<@ba.key>5</>秒\n<b>攻撃方法</b>：敵に電力を放出して攻撃する。近くの敵に連鎖して（最大2回）<@ba.pulse>電磁ダメージ</>を与え、その付近に球電を残し、持続的に周囲の敵に<@ba.pulse>電磁ダメージ</>を与える。",
+          "KR": "<b>공격력</b>: <@ba.key>20625</>\n<b>공격 간격</b>: <@ba.key>5</>초\n<b>공격 방식</b>: 전기 에너지를 방출해 적을 공격하며, 최대 2회까지 주변의 적에게 튕기며 <@ba.pulse>전기 피해</>를 줍니다. 또한 적 근처에 전기 구체를 남겨 주변 적에게 지속적으로 <@ba.pulse>전기 피해</>를 줍니다.",
+          "MX": "<b>ATQ</b>: <@ba.key>20 625</>\n<b>Intervalo de ataque</b>: <@ba.key>5</> s\n<b>Modo de ataque</b>: Libera arcos eléctricos que atacan a los enemigos. El arco se encadena a enemigos cercanos (hasta 2) e inflige <@ba.pulse>DAÑ eléctrico</>. El arco también deja un orbe eléctrico cerca del enemigo. El orbe inflige <@ba.pulse>DAÑ eléctrico</> continuo a los enemigos cercanos.",
+          "RU": "<b>АТК</b>: <@ba.key>20 625</>\n<b>Интервал атаки</b>: <@ba.key>5</> сек.\n<b>Тип атаки</b>: атакует врагов, выпуская разряды по дуге. Дуга связывается с ближайшими врагами (макс. 2) и наносит <@ba.pulse>электрический УРН</>. Дуга также оставляет рядом с врагом электрическую сферу, которая непрерывно наносит <@ba.pulse>электрический УРН</> ближайшим врагам.",
+          "TC": "<b>攻擊力</b>：<@ba.key>20625</>\n<b>攻擊間隔</b>：<@ba.key>5</>秒\n<b>攻擊方式</b>：釋放電能攻擊敵人，攻擊會彈射到附近敵人（最多2次），造成<@ba.pulse>電磁傷害</>，並在敵人附近留下電球，持續對附近敵人造成<@ba.pulse>電磁傷害</>。",
+          "TH": "<b>ATK</b>: <@ba.key>20,625</>\n<b>​ช่วง​เว้น​การ​โจมตี​</b>: <@ba.key>5</> วินาที​\n<b>​โหม​ด​การ​โจมตี​</b>: ปล่อย​กระแสไฟฟ้า​เพื่อ​โจมตี​ศัตรู​ สายฟ้า​จะ​ช็อต​ลาม​ไป​ยัง​ศัตรู​ใกล้เคียง​ (สูงสุด​ 2 ตัว​) และ​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> สายฟ้า​จะ​ทิั้​ง​ลูกแก้ว​ไฟฟ้า​ไว้​ใกล้​กับ​ศัตรู​ ลูกแก้ว​จะ​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> อย่างต่อเนื่อง​ให้​กับ​ศัตรู​ใกล้เคียง",
+          "VN": "<b>Tấn Công</b>: <@ba.key>20.625</>\n<b>Thời Gian Giữa Các Đòn Tấn Công</b>: <@ba.key>5</> giây\n<b>Chế Độ Tấn Công</b>: Phóng tia điện tấn công kẻ địch. Tia điện sẽ lan ra kẻ địch xung quanh (tối đa 2) và gây <@ba.pulse>ST Điện</>. Tia điện cũng để lại một quả cầu điện gần kẻ địch. Quả cầu này liên tục gây <@ba.pulse>ST Điện</> lên kẻ địch ở gần."
+        },
+        "overloadSkillId": "int_fac_battle_lightning_2_skill",
+        "relateTempBuildingId": ""
+      },
+      "battle_turret_3": {
+        "attackCost": 10,
+        "attackRange": 18,
+        "attackRange1": 0,
+        "attackRangeEffect": "P_interactive_boundary_weapontower_01",
+        "attackRangeType": "circle",
+        "chargeInterval": 2,
+        "commonSkillId": "int_fac_battle_turret_3_skill",
+        "energyChargeCount": 100,
+        "energyChargeMillSec": 1000,
+        "energyMax": 2400,
+        "id": "battle_turret_3",
+        "minAttackRange": 0,
+        "normalDesc": {
+          "BR": "<b>ATQ</b>: <@ba.key>10.310</>\n<b>Intervalo de Ataque</b>: <@ba.key>2</> s\n<b>Modo de Ataque</b>: dispara continuamente raios de energia Mk III e um raio de energia potencializado a cada 6 ataques contra inimigos dentro do alcance. Os raios causam <@ba.phy>DNO Físico</>.",
+          "CN": "<b>攻击力</b>：<@ba.key>10310</>\n<b>攻击间隔</b>：<@ba.key>2</>秒\n<b>攻击方式</b>：持续发射Ⅲ级能量弹，对敌人造成<@ba.phy>物理伤害</>，每第6次攻击会发射强力能量弹对范围内的敌人造成<@ba.phy>物理伤害</>。",
+          "DE": "<b>ANG</b>: <@ba.key>10.310</>\n<b>Angriffsintervall</b>: <@ba.key>2</> Sek.\n<b>Angriffsmodus</b>: Verschießt kontinuierlich Mk-III-Energieblitze und bei jedem sechsten Angriff einen verstärkten Energieblitz auf Gegner in Reichweite. Die Blitze verursachen <@ba.phy>Physischen SDN</>.",
+          "EN": "<b>ATK</b>: <@ba.key>10310</>\n<b>Attack Interval</b>: <@ba.key>2</>s\n<b>Mode of Attack</b>: Continuously fires Mk Ⅲ energy bolts and an empowered energy bolt for every 6th attack at enemies within range. The bolts deal <@ba.phy>Physical DMG</>.",
+          "FR": "<b>ATQ</b> : <@ba.key>10 310</> points\n<b>Intervalle d'attaque</b> : <@ba.key>2</> s\n<b>Mode d'attaque</b> : projette en continu des éclairs d'énergie V3 et un éclair d'énergie chargé toutes les six attaques sur les ennemis à portée. Les éclairs infligent des <@ba.phy>DÉG physiques</>.",
+          "ID": "<b>ATK</b>: <@ba.key>10.310</>\n<b>Interval Serangan</b>: <@ba.key>2</>dtk\n<b>Mode Serangan</b>: Terus-menerus menembakkan sambaran energi Mk Ⅲ dan satu sambaran energi yang diperkuat pada setiap serangan ke-6 kepada musuh dalam jangkauan. Sambaran akan menimbulkan <@ba.phy>Physical DMG</>.",
+          "IT": "<b>ATT</b>: <@ba.key>10310</>\n<b>Intervallo di attacco</b>: <@ba.key>2</>s\n<b>Modalità di attacco</b>: spara ininterrottamente dardi di energia v3 e un dardo di energia potenziato ogni 6 attacchi ai nemici nel raggio d'azione. I dardi infliggono <@ba.phy>danni fisici</>.",
+          "JP": "<b>攻撃力</b>：<@ba.key>10310</>\n<b>攻撃間隔</b>：<@ba.key>2</>秒\n<b>攻撃方法</b>：敵にⅢ級エネルギー弾を持続的に発射し、<@ba.phy>物理ダメージ</>を与える。5回攻撃するごとに、次の攻撃で強力なエネルギー弾を発射し、範囲内の敵に<@ba.phy>物理ダメージ</>を与える。",
+          "KR": "<b>공격력</b>: <@ba.key>10310</>\n<b>공격 간격</b>: <@ba.key>2</>초\n<b>공격 방식</b>: 레벨 III 에너지 탄을 지속적으로 발사하여 적에게 <@ba.phy>물리 피해</>를 주고, 6회 공격할 때마다 강력한 에너지 탄을 발사하여 범위 내의 적에게 <@ba.phy>물리 피해</>를 줍니다.",
+          "MX": "<b>ATQ</b>: <@ba.key>10 310</>\n<b>Intervalo de ataque</b>: <@ba.key>2</> s\n<b>Modo de ataque</b>: Dispara continuamente rayos de energía Mk III y un proyectil de energía potenciado cada 6 ataques contra los enemigos dentro del alcance. Los rayos infligen <@ba.phy>DAÑ físico</>.",
+          "RU": "<b>АТК</b>: <@ba.key>10 310</>\n<b>Интервал атаки</b>: <@ba.key>2</> сек.\n<b>Тип атаки</b>: непрерывно стреляет во врагов в радиусе действия энергозарядами Mk III, а с каждой 6-й атакой выпускает усиленный энергозаряд. Заряды наносят <@ba.phy>физический УРН</>.",
+          "TC": "<b>攻擊力</b>：<@ba.key>10310</>\n<b>攻擊間隔</b>：<@ba.key>2</>秒\n<b>攻擊方式</b>：持續發射III級能量彈，對敵人造成<@ba.phy>物理傷害</>，每5次攻擊後，第6次攻擊會發射強力能量彈對範圍內的敵人造成<@ba.phy>物理傷害</>。",
+          "TH": "<b>ATK</b>: <@ba.key>10,310</>\n<b>​ช่วง​เว้น​การ​โจมตี​</b>: <@ba.key>2</> วินาที​\n<b>​รูปแบบ​การ​โจมตี​</b>: ยิง​กระสุน​พลังงาน​ Mk III ต่อเนื่อง​ และ​กระสุน​พลังงาน​เสริม​พลัง​ทุก​การ​โจมตี​ครั้ง​ที่​ 6 โจมตี​ศัตรู​ใน​ระยะ​การ​โจมตี​ กระสุน​สร้าง​ <@ba.phy>DMG กายภาพ​</>",
+          "VN": "<b>Tấn Công</b>: <@ba.key>10.310</>\n<b>Thời Gian Giữa Các Đòn Tấn Công</b>: <@ba.key>2</> giây\n<b>Chế Độ Tấn Công</b>: Liên hoàn bắn tia năng lượng Mk Ⅲ và một tia năng lượng tăng cường cho mỗi đòn thứ 6 vào kẻ địch trong phạm vi. Tia năng lượng gây <@ba.phy>ST Vật Lý</>."
+        },
+        "overloadDesc": {
+          "BR": "<b>ATQ</b>: <@ba.key>10.310</>\n<b>Intervalo de Ataque</b>: <@ba.key>2</> s\n<b>Modo de Ataque</b>: dispara continuamente raios de energia Mk III e um raio de energia potencializado a cada 6 ataques contra inimigos dentro do alcance. Os raios causam <@ba.phy>DNO Físico</>.",
+          "CN": "<b>攻击力</b>：<@ba.key>10310</>\n<b>攻击间隔</b>：<@ba.key>2</>秒\n<b>攻击方式</b>：持续发射Ⅲ级能量弹，对敌人造成<@ba.phy>物理伤害</>，每第6次攻击会发射强力能量弹对范围内的敌人造成<@ba.phy>物理伤害</>。",
+          "DE": "<b>ANG</b>: <@ba.key>10.310</>\n<b>Angriffsintervall</b>: <@ba.key>2</> Sek.\n<b>Angriffsmodus</b>: Verschießt kontinuierlich Mk-III-Energieblitze und bei jedem sechsten Angriff einen verstärkten Energieblitz auf Gegner in Reichweite. Die Blitze verursachen <@ba.phy>Physischen SDN</>.",
+          "EN": "<b>ATK</b>: <@ba.key>10310</>\n<b>Attack Interval</b>: <@ba.key>2</>s\n<b>Mode of Attack</b>: Continuously fires Mk Ⅲ energy bolts and an empowered energy bolt for every 6th attack at enemies within range. The bolts deal <@ba.phy>Physical DMG</>.",
+          "FR": "<b>ATQ</b> : <@ba.key>10 310</> points\n<b>Intervalle d'attaque</b> : <@ba.key>2</> s\n<b>Mode d'attaque</b> : projette en continu des éclairs d'énergie V3 et un éclair d'énergie chargé toutes les six attaques sur les ennemis à portée. Les éclairs infligent des <@ba.phy>DÉG physiques</>.",
+          "ID": "<b>ATK</b>: <@ba.key>10.310</>\n<b>Interval Serangan</b>: <@ba.key>2</>dtk\n<b>Mode Serangan</b>: Terus-menerus menembakkan sambaran energi Mk Ⅲ dan satu sambaran energi yang diperkuat pada setiap serangan ke-6 kepada musuh dalam jangkauan. Sambaran akan menimbulkan <@ba.phy>Physical DMG</>.",
+          "IT": "<b>ATT</b>: <@ba.key>10310</>\n<b>Intervallo di attacco</b>: <@ba.key>2</>s\n<b>Modalità di attacco</b>: spara ininterrottamente dardi di energia v3 e un dardo di energia potenziato ogni 6 attacchi ai nemici nel raggio d'azione. I dardi infliggono <@ba.phy>danni fisici</>.",
+          "JP": "<b>攻撃力</b>：<@ba.key>10310</>\n<b>攻撃間隔</b>：<@ba.key>2</>秒\n<b>攻撃方法</b>：敵にⅢ級エネルギー弾を持続的に発射し、<@ba.phy>物理ダメージ</>を与える。5回攻撃するごとに、次の攻撃で強力なエネルギー弾を発射し、範囲内の敵に<@ba.phy>物理ダメージ</>を与える。",
+          "KR": "<b>공격력</b>: <@ba.key>10310</>\n<b>공격 간격</b>: <@ba.key>2</>초\n<b>공격 방식</b>: 레벨 III 에너지 탄을 지속적으로 발사하여 적에게 <@ba.phy>물리 피해</>를 주고, 6회 공격할 때마다 강력한 에너지 탄을 발사하여 범위 내의 적에게 <@ba.phy>물리 피해</>를 줍니다.",
+          "MX": "<b>ATQ</b>: <@ba.key>10 310</>\n<b>Intervalo de ataque</b>: <@ba.key>2</> s\n<b>Modo de ataque</b>: Dispara continuamente rayos de energía Mk III y un proyectil de energía potenciado cada 6 ataques contra los enemigos dentro del alcance. Los rayos infligen <@ba.phy>DAÑ físico</>.",
+          "RU": "<b>АТК</b>: <@ba.key>10 310</>\n<b>Интервал атаки</b>: <@ba.key>2</> сек.\n<b>Тип атаки</b>: непрерывно стреляет во врагов в радиусе действия энергозарядами Mk III, а с каждой 6-й атакой выпускает усиленный энергозаряд. Заряды наносят <@ba.phy>физический УРН</>.",
+          "TC": "<b>攻擊力</b>：<@ba.key>10310</>\n<b>攻擊間隔</b>：<@ba.key>2</>秒\n<b>攻擊方式</b>：持續發射III級能量彈，對敵人造成<@ba.phy>物理傷害</>，每5次攻擊後，第6次攻擊會發射強力能量彈對範圍內的敵人造成<@ba.phy>物理傷害</>。",
+          "TH": "<b>ATK</b>: <@ba.key>10,310</>\n<b>​ช่วง​เว้น​การ​โจมตี​</b>: <@ba.key>2</> วินาที​\n<b>​รูปแบบ​การ​โจมตี​</b>: ยิง​กระสุน​พลังงาน​ Mk III ต่อเนื่อง​ และ​กระสุน​พลังงาน​เสริม​พลัง​ทุก​การ​โจมตี​ครั้ง​ที่​ 6 โจมตี​ศัตรู​ใน​ระยะ​การ​โจมตี​ กระสุน​สร้าง​ <@ba.phy>DMG กายภาพ​</>",
+          "VN": "<b>Tấn Công</b>: <@ba.key>10.310</>\n<b>Thời Gian Giữa Các Đòn Tấn Công</b>: <@ba.key>2</> giây\n<b>Chế Độ Tấn Công</b>: Liên hoàn bắn tia năng lượng Mk Ⅲ và một tia năng lượng tăng cường cho mỗi đòn thứ 6 vào kẻ địch trong phạm vi. Tia năng lượng gây <@ba.phy>ST Vật Lý</>."
+        },
+        "overloadSkillId": "int_fac_battle_turret_3_skill",
+        "relateTempBuildingId": ""
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

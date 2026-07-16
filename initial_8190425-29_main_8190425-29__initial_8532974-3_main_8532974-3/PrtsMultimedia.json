@@ -1,0 +1,2099 @@
+{
+  "tableName": "PrtsMultimedia",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 23
+  },
+  "entries": {
+    "added": {
+      "nar_media_map02_14008_1": {
+        "contentId": "radio_map02_lv007_14001",
+        "desc": {
+          "BR": "Será este o poder da Representante?",
+          "CN": "这就是代理人的能力吗？",
+          "DE": "Ist das die Macht des Proxy?",
+          "EN": "Is this the power of the Proxy?",
+          "FR": "C'est ça, le pouvoir de la mandataire ?",
+          "ID": "Inikah kekuatan Proksi?",
+          "IT": "È questo il potere della rappresentante?",
+          "JP": "これが代理人の力？",
+          "KR": "이게 바로 대리인의 능력인가요?",
+          "MX": "¿Este es el poder del Emisario?",
+          "RU": "Вот она — сила посредника?",
+          "TC": "這就是代理人的能力嗎？",
+          "TH": "นี่​คือ​พลัง​ของ​ตัวแทน​งั้น​หรือ​?",
+          "VN": "Đây có phải là sức mạnh của Toái Thể không?"
+        },
+        "firstLvId": "media_map02_14008",
+        "id": "nar_media_map02_14008_1",
+        "name": {
+          "BR": "Conversa Informal: Yinglungs",
+          "CN": "应龙队员们的闲聊",
+          "DE": "Geplauder: Yinglungs",
+          "EN": "Idle Chatter: Yinglungs",
+          "FR": "Bavardage : Yinglungs",
+          "ID": "Obrolan Tanpa Topik: Anggota Yinglung",
+          "IT": "Chiacchiere: Yinglung",
+          "JP": "応龍隊員たちの雑談",
+          "KR": "응룡 대원들의 잡담",
+          "MX": "Charla casual: Yinglungs",
+          "RU": "Болтовня: бойцы «Инлуна»",
+          "TC": "應龍隊員們的閒聊",
+          "TH": "บทสนทนา​เรื่อยเปื่อย​: หน่วย​ห​ยิง​หลง",
+          "VN": "Chuyện Phiếm: Đội Đặc Nhiệm"
+        },
+        "order": 1,
+        "overrideRadioId": "au_radio_map02_lv007_14001_stem",
+        "type": "multi_media"
+      },
+      "nar_media_map02_14032_1": {
+        "contentId": "radio_map02_lv008_14001",
+        "desc": {
+          "BR": "Um deles deve partir com as informações...",
+          "CN": "至少要有一个人带着情报逃出去……",
+          "DE": "Einer von denen muss sich mit den Informationen auf den Weg machen …",
+          "EN": "One of them must leave with the intel...",
+          "FR": "Il faut que quelqu'un parte avec les renseignements...",
+          "ID": "Salah satu dari mereka harus pergi membawa intelnya ....",
+          "IT": "Uno di loro deve ritirarsi con le informazioni raccolte...",
+          "JP": "どちらか1人だけでも、情報を持ち帰る……",
+          "KR": "누군가는 이 정보를 갖고 돌아가야 해...",
+          "MX": "Uno de ellos debe irse con la información...",
+          "RU": "Кто-то из них должен уйти с разведданными...",
+          "TC": "至少要有一個人帶著情報逃出去……",
+          "TH": "หนึ่ง​ใน​นั้น​ต้อง​นำ​ข้อมูล​กลับ​ออก​ไป​ให้​ได้​...",
+          "VN": "Một người trong số họ phải mang theo tin tình báo mà rời đi..."
+        },
+        "firstLvId": "media_map02_14032",
+        "id": "nar_media_map02_14032_1",
+        "name": {
+          "BR": "Memo: Um Yinglung que Não Resistiu",
+          "CN": "牺牲应龙的留声",
+          "DE": "Notiz: Ein Yinglung, der fiel",
+          "EN": "Memo: An Yinglung Who Fell",
+          "FR": "Note d'un membre des Yinglungs tombé au combat",
+          "ID": "Memo: Seorang Yinglung yang Gugur",
+          "IT": "Nota: Un Yinglung caduto",
+          "JP": "犠牲になった応龍隊員のメモ",
+          "KR": "전사한 응룡 대원이 남긴 음성",
+          "MX": "Nota: Un Yinglung caído",
+          "RU": "Записка: павший боец «Инлуна»",
+          "TC": "犧牲應龍的留聲",
+          "TH": "บันทึก​: ห​ยิง​หลง​ผู้​ล้ม​ลง",
+          "VN": "Ghi Chú: Một Đội Đặc Nhiệm Đã Ngã Xuống"
+        },
+        "order": 1,
+        "overrideRadioId": "au_radio_map02_lv008_14001_stem",
+        "type": "multi_media"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "nar_col_radio_5": {
+        "oldValue": {
+          "contentId": "radio_gm01m23_4",
+          "desc": {
+            "BR": "Monólogo de um Indivíduo Aprisionado",
+            "CN": "受困者在洞穴内录下的自白",
+            "DE": "Selbstgespräch einer eingesperrten Person",
+            "EN": "Monologue of a Trapped Individual",
+            "FR": "Monologue d'une personne en détresse",
+            "ID": "Monolog Seseorang yang Terjebak",
+            "IT": "Monologo di una persona intrappolata",
+            "JP": "遭難者が洞窟で記録した自白",
+            "KR": "동굴에 갇힌 조난자가 녹음한 고백",
+            "MX": "Monólogo de un individuo atrapado",
+            "RU": "Монолог попавшего в ловушку",
+            "TC": "受困者在洞穴內錄下的自白",
+            "TH": "เสียงพูด​คนเดียว​ของ​บุคคล​ที่​ติด​อยู่​ที่ไหน​สัก​แห่ง",
+            "VN": "Độc Thoại Của Kẻ Mắc Kẹt"
+          },
+          "firstLvId": "media_1",
+          "id": "nar_col_radio_5",
+          "name": {
+            "BR": "Registros dos Aprisionados",
+            "CN": "受困者的录音",
+            "DE": "Aufzeichnungen von Menschen in Not",
+            "EN": "Records of the Trapped",
+            "FR": "Enregistrements d'appel de détresse",
+            "ID": "Rekaman Orang yang Terjebak",
+            "IT": "Diari della prigionia",
+            "JP": "遭難者の録音",
+            "KR": "조난자의 녹음",
+            "MX": "Registros de los atrapados",
+            "RU": "Записи пострадавшего",
+            "TC": "受困者的錄音",
+            "TH": "บันทึก​ของ​ผู้​ที่​ติด​อยู่​ที่ไหน​สัก​แห่ง",
+            "VN": "Ghi Chép Về Những Người Bị Mắc Kẹt"
+          },
+          "order": 5,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_gm01m23_4",
+          "desc": {
+            "BR": "Monólogo de um Indivíduo Aprisionado",
+            "CN": "受困者在洞穴内录下的自白",
+            "DE": "Selbstgespräch einer eingesperrten Person",
+            "EN": "Monologue of a Trapped Individual",
+            "FR": "Monologue d'une personne en détresse",
+            "ID": "Monolog Seseorang yang Terjebak",
+            "IT": "Monologo di una persona intrappolata",
+            "JP": "遭難者が洞窟で記録した自白",
+            "KR": "동굴에 갇힌 조난자가 녹음한 고백",
+            "MX": "Monólogo de un individuo atrapado",
+            "RU": "Монолог попавшего в ловушку",
+            "TC": "受困者在洞穴內錄下的自白",
+            "TH": "เสียงพูด​คนเดียว​ของ​บุคคล​ที่​ติด​อยู่​ที่ไหน​สัก​แห่ง",
+            "VN": "Độc Thoại Của Kẻ Mắc Kẹt"
+          },
+          "firstLvId": "media_1",
+          "id": "nar_col_radio_5",
+          "name": {
+            "BR": "Registros dos Aprisionados",
+            "CN": "受困者的录音",
+            "DE": "Aufzeichnungen von Menschen in Not",
+            "EN": "Records of the Trapped",
+            "FR": "Enregistrements d'appel de détresse",
+            "ID": "Rekaman Orang yang Terjebak",
+            "IT": "Diari della prigionia",
+            "JP": "遭難者の録音",
+            "KR": "조난자의 녹음",
+            "MX": "Registros de los atrapados",
+            "RU": "Записи пострадавшего",
+            "TC": "受困者的錄音",
+            "TH": "บันทึก​ของ​ผู้​ที่​ติด​อยู่​ที่ไหน​สัก​แห่ง",
+            "VN": "Ghi Chép Về Những Người Bị Mắc Kẹt"
+          },
+          "order": 5,
+          "overrideRadioId": "au_prts_tape0006_stem_01",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": "au_prts_tape0006_stem_01"
+          }
+        }
+      },
+      "nar_media_map02_12148_1": {
+        "oldValue": {
+          "contentId": "radio_f1m19d2_9",
+          "desc": {
+            "BR": "-",
+            "CN": "-",
+            "DE": "-",
+            "EN": "-",
+            "FR": "-",
+            "ID": "-",
+            "IT": "-",
+            "JP": "-",
+            "KR": "-",
+            "MX": "-",
+            "RU": "-",
+            "TC": "-",
+            "TH": "-",
+            "VN": "-"
+          },
+          "firstLvId": "media_map02_12148",
+          "id": "nar_media_map02_12148_1",
+          "name": {
+            "BR": "Gravação de Áudio: Chuva Caindo",
+            "CN": "雨滴的留音",
+            "DE": "Audioaufzeichnung: Regenprasseln",
+            "EN": "Audio Recording: Falling Rain",
+            "FR": "Enregistrement : chute de pluie",
+            "ID": "Rekaman Audio: Suara Hujan",
+            "IT": "Registrazione audio: pioggia che cade",
+            "JP": "雨粒の音",
+            "KR": "빗방울의 음성 표본",
+            "MX": "Grabación de audio: Lluvia cayendo",
+            "RU": "Аудиозапись: шум дождя",
+            "TC": "雨滴的留音",
+            "TH": "บันทึกเสียง​: ฝน​พรำ",
+            "VN": "Bản Ghi Âm: Mưa Rơi"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_f1m19d2_9",
+          "desc": {
+            "BR": "-",
+            "CN": "-",
+            "DE": "-",
+            "EN": "-",
+            "FR": "-",
+            "ID": "-",
+            "IT": "-",
+            "JP": "-",
+            "KR": "-",
+            "MX": "-",
+            "RU": "-",
+            "TC": "-",
+            "TH": "-",
+            "VN": "-"
+          },
+          "firstLvId": "media_map02_12148",
+          "id": "nar_media_map02_12148_1",
+          "name": {
+            "BR": "Gravação de Áudio: Chuva Caindo",
+            "CN": "雨滴的留音",
+            "DE": "Audioaufzeichnung: Regenprasseln",
+            "EN": "Audio Recording: Falling Rain",
+            "FR": "Enregistrement : chute de pluie",
+            "ID": "Rekaman Audio: Suara Hujan",
+            "IT": "Registrazione audio: pioggia che cade",
+            "JP": "雨粒の音",
+            "KR": "빗방울의 음성 표본",
+            "MX": "Grabación de audio: Lluvia cayendo",
+            "RU": "Аудиозапись: шум дождя",
+            "TC": "雨滴的留音",
+            "TH": "บันทึกเสียง​: ฝน​พรำ",
+            "VN": "Bản Ghi Âm: Mưa Rơi"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_108_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv005_58",
+          "desc": {
+            "BR": "Diante do desastre repentino, os membros da equipe permaneceram firmes e determinados.",
+            "CN": "在突发的灾难面前，工人依旧坚定。",
+            "DE": "Die Crewmitglieder blieben im Angesicht der plötzlichen Katastrophe mutig und entschlossen.",
+            "EN": "In the face of the sudden disaster, the crew mates remained strong and determined.",
+            "FR": "Face à une catastrophe brutale, les membres sont restés déterminés et n'ont pas baissé les bras.",
+            "ID": "Saat menghadapi bencana yang datang tiba-tiba, para rekan kru tetap tegar dan bertekad kuat.",
+            "IT": "Davanti al disastro improvviso, i membri dell'USLT hanno reagito con forza e determinazione.",
+            "JP": "突然の災害に直面しても、作業員は揺るがなかった。",
+            "KR": "갑자기 발생한 재앙 앞에, 작업자들이 여전히 확고하다.",
+            "MX": "Ante el desastre repentino, los compañeros de tripulación se mantuvieron firmes y decididos.",
+            "RU": "Несмотря на ужасную катастрофу, сотрудники не потеряли боевой дух и решимость.",
+            "TC": "在突發的災難面前，工人依舊堅定。",
+            "TH": "แม้​จะ​เจอ​กับ​ภัยพิบัติ​ที่​จู่โจม​โดย​ไม่ทัน​ตั้งตัว​ ลูกเรือ​ก็​ยัง​ยืนหยัด​ไม่​ถอย",
+            "VN": "Đối mặt với thảm họa bất ngờ, các thành viên vẫn mạnh mẽ và quyết tâm."
+          },
+          "firstLvId": "media_map01_108",
+          "id": "nar_media_map01_108_1",
+          "name": {
+            "BR": "Gravação: Membro da Equipe Determinada",
+            "CN": "决然工人的留声",
+            "DE": "Aufzeichnung: Ein entschlossenes Crewmitglied",
+            "EN": "Recording: A Determined Crew Mate",
+            "FR": "Enregistrement : un membre résolu",
+            "ID": "Rekaman: Rekan Kru yang Bertekad Kuat",
+            "IT": "Registrazione: Membro del personale tenace",
+            "JP": "覚悟を決めた作業員の録音",
+            "KR": "결연한 작업자가 남긴 메시지",
+            "MX": "Grabación: Un tripulante decidido",
+            "RU": "Запись: решительный сотрудник",
+            "TC": "決然工人的留聲",
+            "TH": "การ​บันทึก​: ลูกเรือ​ที่​มุ่งมั่น",
+            "VN": "Bản Ghi: Thành Viên Công Đoàn Quyết Tâm"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv005_58",
+          "desc": {
+            "BR": "Diante do desastre repentino, os membros da equipe permaneceram firmes e determinados.",
+            "CN": "在突发的灾难面前，工人依旧坚定。",
+            "DE": "Die Crewmitglieder blieben im Angesicht der plötzlichen Katastrophe mutig und entschlossen.",
+            "EN": "In the face of the sudden disaster, the crew mates remained strong and determined.",
+            "FR": "Face à une catastrophe brutale, les membres sont restés déterminés et n'ont pas baissé les bras.",
+            "ID": "Saat menghadapi bencana yang datang tiba-tiba, para rekan kru tetap tegar dan bertekad kuat.",
+            "IT": "Davanti al disastro improvviso, i membri dell'USLT hanno reagito con forza e determinazione.",
+            "JP": "突然の災害に直面しても、作業員は揺るがなかった。",
+            "KR": "갑자기 발생한 재앙 앞에, 작업자들이 여전히 확고하다.",
+            "MX": "Ante el desastre repentino, los compañeros de tripulación se mantuvieron firmes y decididos.",
+            "RU": "Несмотря на ужасную катастрофу, сотрудники не потеряли боевой дух и решимость.",
+            "TC": "在突發的災難面前，工人依舊堅定。",
+            "TH": "แม้​จะ​เจอ​กับ​ภัยพิบัติ​ที่​จู่โจม​โดย​ไม่ทัน​ตั้งตัว​ ลูกเรือ​ก็​ยัง​ยืนหยัด​ไม่​ถอย",
+            "VN": "Đối mặt với thảm họa bất ngờ, các thành viên vẫn mạnh mẽ và quyết tâm."
+          },
+          "firstLvId": "media_map01_108",
+          "id": "nar_media_map01_108_1",
+          "name": {
+            "BR": "Gravação: Membro da Equipe Determinada",
+            "CN": "决然工人的留声",
+            "DE": "Aufzeichnung: Ein entschlossenes Crewmitglied",
+            "EN": "Recording: A Determined Crew Mate",
+            "FR": "Enregistrement : un membre résolu",
+            "ID": "Rekaman: Rekan Kru yang Bertekad Kuat",
+            "IT": "Registrazione: Membro del personale tenace",
+            "JP": "覚悟を決めた作業員の録音",
+            "KR": "결연한 작업자가 남긴 메시지",
+            "MX": "Grabación: Un tripulante decidido",
+            "RU": "Запись: решительный сотрудник",
+            "TC": "決然工人的留聲",
+            "TH": "การ​บันทึก​: ลูกเรือ​ที่​มุ่งมั่น",
+            "VN": "Bản Ghi: Thành Viên Công Đoàn Quyết Tâm"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_12133_1": {
+        "oldValue": {
+          "contentId": "radio_f1m19d2_6",
+          "desc": {
+            "BR": "É como uma brisa acariciando os campos de arroz, como o calor reconfortante do sol...",
+            "CN": "像微风拂过稻田，太阳落在心间",
+            "DE": "Es fühlt sich an wie ein Windhauch, der durch Reisfelder streift, wie der warme Kuss des Sonnenlichts …",
+            "EN": "It feels like a breeze brushing against fields of rice, like the heartfelt warmth of sunshine...",
+            "FR": "Cela rappelle la brise caressant les rizières, la chaleur vive du soleil...",
+            "ID": "Rasanya seperti angin sepoi yang menerpa ladang padi, seperti kehangatan matahari yang tulus ....",
+            "IT": "È come un misto tra la brezza che accarezza i campi di riso e il dolce calore del sole...",
+            "JP": "田んぼを撫でるそよ風みたい……胸の奥が温かくなるような……",
+            "KR": "마치 산들바람이 논밭을 스쳐 가고, 햇살이 가슴 속으로 스며드는 느낌이네요.",
+            "MX": "Se siente como una brisa rozando campos de arroz, como el cálido abrazo del sol...",
+            "RU": "Словно ветерок, шелестящий в рисовых полях, словно живое тепло солнечного света...",
+            "TC": "像微風拂過稻田，太陽落在心間",
+            "TH": "ราวกับ​สายลม​พัดผ่าน​ทุ่งนา​ และ​ไออุ่น​จาก​แสงแดด​ที่​สัมผัส​ถึง​จิตใจ​...",
+            "VN": "Cảm giác như gió nhẹ lướt qua đồng lúa, như ánh nắng ấm áp trải dài…"
+          },
+          "firstLvId": "media_map02_12133",
+          "id": "nar_media_map02_12133_1",
+          "name": {
+            "BR": "Gravação de Áudio: Escritório de Produção Tecnológica",
+            "CN": "技术生产办公室的留音",
+            "DE": "Audioaufzeichnung: Abteilung für technologische Produktion",
+            "EN": "Audio Recording: Technological Production Office",
+            "FR": "Enregistrement audio : bureau de production technologique",
+            "ID": "Rekaman Audio: Kantor Produksi Teknologi",
+            "IT": "Registrazione audio: Ufficio produzione tecnologica",
+            "JP": "技術生産室の音",
+            "KR": "기술 생산 사무소의 음성 표본",
+            "MX": "Grabación audio: Oficina de producción tecnológica",
+            "RU": "Аудиозапись: отдел технологий и производства",
+            "TC": "技術生產辦公室的留音",
+            "TH": "บันทึกเสียง​: สำนักงาน​การผลิต​เทคโนโลยี",
+            "VN": "Bản Ghi Âm: Phòng Sản Xuất Công Nghệ"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_f1m19d2_6",
+          "desc": {
+            "BR": "É como uma brisa acariciando os campos de arroz, como o calor reconfortante do sol...",
+            "CN": "像微风拂过稻田，太阳落在心间",
+            "DE": "Es fühlt sich an wie ein Windhauch, der durch Reisfelder streift, wie der warme Kuss des Sonnenlichts …",
+            "EN": "It feels like a breeze brushing against fields of rice, like the heartfelt warmth of sunshine...",
+            "FR": "Cela rappelle la brise caressant les rizières, la chaleur vive du soleil...",
+            "ID": "Rasanya seperti angin sepoi yang menerpa ladang padi, seperti kehangatan matahari yang tulus ....",
+            "IT": "È come un misto tra la brezza che accarezza i campi di riso e il dolce calore del sole...",
+            "JP": "田んぼを撫でるそよ風みたい……胸の奥が温かくなるような……",
+            "KR": "마치 산들바람이 논밭을 스쳐 가고, 햇살이 가슴 속으로 스며드는 느낌이네요.",
+            "MX": "Se siente como una brisa rozando campos de arroz, como el cálido abrazo del sol...",
+            "RU": "Словно ветерок, шелестящий в рисовых полях, словно живое тепло солнечного света...",
+            "TC": "像微風拂過稻田，太陽落在心間",
+            "TH": "ราวกับ​สายลม​พัดผ่าน​ทุ่งนา​ และ​ไออุ่น​จาก​แสงแดด​ที่​สัมผัส​ถึง​จิตใจ​...",
+            "VN": "Cảm giác như gió nhẹ lướt qua đồng lúa, như ánh nắng ấm áp trải dài…"
+          },
+          "firstLvId": "media_map02_12133",
+          "id": "nar_media_map02_12133_1",
+          "name": {
+            "BR": "Gravação de Áudio: Escritório de Produção Tecnológica",
+            "CN": "技术生产办公室的留音",
+            "DE": "Audioaufzeichnung: Abteilung für technologische Produktion",
+            "EN": "Audio Recording: Technological Production Office",
+            "FR": "Enregistrement audio : bureau de production technologique",
+            "ID": "Rekaman Audio: Kantor Produksi Teknologi",
+            "IT": "Registrazione audio: Ufficio produzione tecnologica",
+            "JP": "技術生産室の音",
+            "KR": "기술 생산 사무소의 음성 표본",
+            "MX": "Grabación audio: Oficina de producción tecnológica",
+            "RU": "Аудиозапись: отдел технологий и производства",
+            "TC": "技術生產辦公室的留音",
+            "TH": "บันทึกเสียง​: สำนักงาน​การผลิต​เทคโนโลยี",
+            "VN": "Bản Ghi Âm: Phòng Sản Xuất Công Nghệ"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_109_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv005_59",
+          "desc": {
+            "BR": "Há algumas boas ideias e algumas fantasias mirabolantes.",
+            "CN": "一些好思路，一些狂野的想法。",
+            "DE": "Da sind ein paar gute Ideen, aber auch einige absurde Fantasien dabei.",
+            "EN": "There are some good ideas, and some wild fantasies.",
+            "FR": "Quelques bonnes idées et... quelques idées folles.",
+            "ID": "Ada beberapa ide bagus, dan juga fantasi gila.",
+            "IT": "Ci sono buone idee e fantasie sfrenate.",
+            "JP": "いくつかの優れた発想と、いくつかの奔放な考え。",
+            "KR": "몇 가지 좋은 발상, 그리고 몇 가지 거침없는 아이디어.",
+            "MX": "Hay algunas buenas ideas y algunas fantasías descabelladas.",
+            "RU": "Есть как дельные мысли, так и несбыточные фантазии.",
+            "TC": "一些好思路，一些狂野的想法。",
+            "TH": "มี​ทั้ง​ไอเดีย​ที่​ดี​ และ​เพ้อฝัน​เกินไป",
+            "VN": "Có vài ý tưởng hay ho, và cũng có vài ảo tưởng điên rồ."
+          },
+          "firstLvId": "media_map01_109",
+          "id": "nar_media_map01_109_1",
+          "name": {
+            "BR": "Gravação: Um Cientista Agitado",
+            "CN": "激动研究者的留声",
+            "DE": "Aufzeichnung: Ein aufgeregter Wissenschaftler",
+            "EN": "Recording: An Agitated Scientist",
+            "FR": "Enregistrement : un scientifique perturbé",
+            "ID": "Rekaman: Ilmuwan yang Gelisah",
+            "IT": "Registrazione: Scienziato in agitazione",
+            "JP": "興奮した研究者の録音",
+            "KR": "흥분한 연구원이 남긴 메시지",
+            "MX": "Grabación: Un científico alterado",
+            "RU": "Запись: взволнованный ученый",
+            "TC": "激動研究者的留聲",
+            "TH": "การ​บันทึก​: นักวิทยาศาสตร์​ที่​กระวนกระวาย",
+            "VN": "Bản Ghi: Nhà Khoa Học Bồn Chồn"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv005_59",
+          "desc": {
+            "BR": "Há algumas boas ideias e algumas fantasias mirabolantes.",
+            "CN": "一些好思路，一些狂野的想法。",
+            "DE": "Da sind ein paar gute Ideen, aber auch einige absurde Fantasien dabei.",
+            "EN": "There are some good ideas, and some wild fantasies.",
+            "FR": "Quelques bonnes idées et... quelques idées folles.",
+            "ID": "Ada beberapa ide bagus, dan juga fantasi gila.",
+            "IT": "Ci sono buone idee e fantasie sfrenate.",
+            "JP": "いくつかの優れた発想と、いくつかの奔放な考え。",
+            "KR": "몇 가지 좋은 발상, 그리고 몇 가지 거침없는 아이디어.",
+            "MX": "Hay algunas buenas ideas y algunas fantasías descabelladas.",
+            "RU": "Есть как дельные мысли, так и несбыточные фантазии.",
+            "TC": "一些好思路，一些狂野的想法。",
+            "TH": "มี​ทั้ง​ไอเดีย​ที่​ดี​ และ​เพ้อฝัน​เกินไป",
+            "VN": "Có vài ý tưởng hay ho, và cũng có vài ảo tưởng điên rồ."
+          },
+          "firstLvId": "media_map01_109",
+          "id": "nar_media_map01_109_1",
+          "name": {
+            "BR": "Gravação: Um Cientista Agitado",
+            "CN": "激动研究者的留声",
+            "DE": "Aufzeichnung: Ein aufgeregter Wissenschaftler",
+            "EN": "Recording: An Agitated Scientist",
+            "FR": "Enregistrement : un scientifique perturbé",
+            "ID": "Rekaman: Ilmuwan yang Gelisah",
+            "IT": "Registrazione: Scienziato in agitazione",
+            "JP": "興奮した研究者の録音",
+            "KR": "흥분한 연구원이 남긴 메시지",
+            "MX": "Grabación: Un científico alterado",
+            "RU": "Запись: взволнованный ученый",
+            "TC": "激動研究者的留聲",
+            "TH": "การ​บันทึก​: นักวิทยาศาสตร์​ที่​กระวนกระวาย",
+            "VN": "Bản Ghi: Nhà Khoa Học Bồn Chồn"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_12135_1": {
+        "oldValue": {
+          "contentId": "radio_f1m19d2_8",
+          "desc": {
+            "BR": "Uma brisa suave, Xiranita verde e um céu todo saturado de azul.",
+            "CN": "轻的风，绿的息壤，蓝到浓郁的天空",
+            "DE": "Ein sanfter Windhauch, grünes Xiranit und ein so strahlend blauer Himmel.",
+            "EN": "A gentle breeze, green Xiranite, and a sky so saturated with blue.",
+            "FR": "Une brise légère, de la xiranite verte, et un ciel saturé de bleu.",
+            "ID": "Angin lembut, Xiranite hijau, dan langit biru pekat.",
+            "IT": "Una dolce brezza, della xiranite verde e un cielo azzurro come non mai.",
+            "JP": "柔らかな風、緑の息壌、青い空……",
+            "KR": "살랑이는 바람과 짙푸른 식양... 새파란하늘까지...",
+            "MX": "Una brisa suave, Xiranita verde y un cielo intensamente azul.",
+            "RU": "Легкий бриз, зеленый ксиранит и залитое синевой небо.",
+            "TC": "輕的風，綠的息壤，藍到濃郁的天空",
+            "TH": "สายลม​แผ่วเบา​ ซี​เรน​ไนต์​สีเขียว​ และ​ท้องฟ้า​ที่​เข้มข้น​ไป​ด้วย​สีคราม",
+            "VN": "Có gió nhẹ, Xiranite xanh biếc và bầu trời xanh thẳm."
+          },
+          "firstLvId": "media_map02_12135",
+          "id": "nar_media_map02_12135_1",
+          "name": {
+            "BR": "Gravação de Áudio: Conjunto de Pilares de Tianshi",
+            "CN": "天师桩阵列的留音",
+            "DE": "Audioaufzeichnung: Tianshi-Säulenreihe",
+            "EN": "Audio Recording: Tianshi Pillar Array",
+            "FR": "Enregistrement audio : matrice du pilier des Tianshi",
+            "ID": "Rekaman Audio: Susunan Pilar Tianshi",
+            "IT": "Registrazione audio: Schiera di colonne Tianshi",
+            "JP": "天師杭陣の音",
+            "KR": "천사장 배열의 음성 표본",
+            "MX": "Grabación audio: Conjunto de pilares de Tianshi",
+            "RU": "Аудиозапись: группа столбов Тяньши",
+            "TC": "天師樁陣列的留音",
+            "TH": "บันทึกเสียง​: แนว​เสา​เทียน​ซือ",
+            "VN": "Bản Ghi Âm: Trận Cột Thiên Sư"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_f1m19d2_8",
+          "desc": {
+            "BR": "Uma brisa suave, Xiranita verde e um céu todo saturado de azul.",
+            "CN": "轻的风，绿的息壤，蓝到浓郁的天空",
+            "DE": "Ein sanfter Windhauch, grünes Xiranit und ein so strahlend blauer Himmel.",
+            "EN": "A gentle breeze, green Xiranite, and a sky so saturated with blue.",
+            "FR": "Une brise légère, de la xiranite verte, et un ciel saturé de bleu.",
+            "ID": "Angin lembut, Xiranite hijau, dan langit biru pekat.",
+            "IT": "Una dolce brezza, della xiranite verde e un cielo azzurro come non mai.",
+            "JP": "柔らかな風、緑の息壌、青い空……",
+            "KR": "살랑이는 바람과 짙푸른 식양... 새파란하늘까지...",
+            "MX": "Una brisa suave, Xiranita verde y un cielo intensamente azul.",
+            "RU": "Легкий бриз, зеленый ксиранит и залитое синевой небо.",
+            "TC": "輕的風，綠的息壤，藍到濃郁的天空",
+            "TH": "สายลม​แผ่วเบา​ ซี​เรน​ไนต์​สีเขียว​ และ​ท้องฟ้า​ที่​เข้มข้น​ไป​ด้วย​สีคราม",
+            "VN": "Có gió nhẹ, Xiranite xanh biếc và bầu trời xanh thẳm."
+          },
+          "firstLvId": "media_map02_12135",
+          "id": "nar_media_map02_12135_1",
+          "name": {
+            "BR": "Gravação de Áudio: Conjunto de Pilares de Tianshi",
+            "CN": "天师桩阵列的留音",
+            "DE": "Audioaufzeichnung: Tianshi-Säulenreihe",
+            "EN": "Audio Recording: Tianshi Pillar Array",
+            "FR": "Enregistrement audio : matrice du pilier des Tianshi",
+            "ID": "Rekaman Audio: Susunan Pilar Tianshi",
+            "IT": "Registrazione audio: Schiera di colonne Tianshi",
+            "JP": "天師杭陣の音",
+            "KR": "천사장 배열의 음성 표본",
+            "MX": "Grabación audio: Conjunto de pilares de Tianshi",
+            "RU": "Аудиозапись: группа столбов Тяньши",
+            "TC": "天師樁陣列的留音",
+            "TH": "บันทึกเสียง​: แนว​เสา​เทียน​ซือ",
+            "VN": "Bản Ghi Âm: Trận Cột Thiên Sư"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_117_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv001_75",
+          "desc": {
+            "BR": "A emboscada foi repentina. Ninguém conseguiu escapar.",
+            "CN": "袭击极为突然，他们……没能逃出生天。",
+            "DE": "Der Hinterhalt geschah plötzlich. Niemandem gelang es … zu fliehen.",
+            "EN": "The ambush was sudden. Nobody managed to ... escape.",
+            "FR": "L'embuscade fut brutale. Personne... n'en a réchappé.",
+            "ID": "Penyergapan itu terjadi tiba-tiba. Tak ada yang berhasil ... melarikan diri.",
+            "IT": "L'imboscata è stata improvvisa. Nessuno è riuscito a... scappare.",
+            "JP": "襲撃はあまりにも突然で、彼らは……生き延びることができなかった。",
+            "KR": "습격이 너무 갑작스레 들이닥쳐서, 그들은 끝내 살아서 빠져나오지 못했다.",
+            "MX": "La emboscada fue repentina. Nadie logró... escapar.",
+            "RU": "Никто не ждал засады... Никто не спасся.",
+            "TC": "襲擊極其突然，他們……沒有能逃出生天。",
+            "TH": "การ​ซุ่ม​โจมตี​เกิดขึ้น​อย่างกะทันหัน​ ไม่มีใคร​ ... หนีรอด​ไป​ได้",
+            "VN": "Cuộc phục kích diễn ra bất ngờ. Không ai kịp... thoát được."
+          },
+          "firstLvId": "media_map01_117",
+          "id": "nar_media_map01_117_1",
+          "name": {
+            "BR": "Gravação: Vítima de um Ataque",
+            "CN": "遇袭者的留声",
+            "DE": "Aufzeichnung: Opfer eines Angriffs",
+            "EN": "Recording: Victim of an Attack",
+            "FR": "Enregistrement : victime d'une attaque",
+            "ID": "Rekaman: Korban Serangan",
+            "IT": "Registrazione: Vittima di un attacco",
+            "JP": "襲撃された人の録音",
+            "KR": "습격당한 사람들이 남긴 메시지",
+            "MX": "Grabación: Víctima de un ataque",
+            "RU": "Запись: жертва нападения",
+            "TC": "遇襲者的留聲",
+            "TH": "การ​บันทึก​: เหยื่อ​แห่ง​การ​จู่โจม",
+            "VN": "Bản Ghi: Nạn Nhân Của Cuộc Tấn Công"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv001_75",
+          "desc": {
+            "BR": "A emboscada foi repentina. Ninguém conseguiu escapar.",
+            "CN": "袭击极为突然，他们……没能逃出生天。",
+            "DE": "Der Hinterhalt geschah plötzlich. Niemandem gelang es … zu fliehen.",
+            "EN": "The ambush was sudden. Nobody managed to ... escape.",
+            "FR": "L'embuscade fut brutale. Personne... n'en a réchappé.",
+            "ID": "Penyergapan itu terjadi tiba-tiba. Tak ada yang berhasil ... melarikan diri.",
+            "IT": "L'imboscata è stata improvvisa. Nessuno è riuscito a... scappare.",
+            "JP": "襲撃はあまりにも突然で、彼らは……生き延びることができなかった。",
+            "KR": "습격이 너무 갑작스레 들이닥쳐서, 그들은 끝내 살아서 빠져나오지 못했다.",
+            "MX": "La emboscada fue repentina. Nadie logró... escapar.",
+            "RU": "Никто не ждал засады... Никто не спасся.",
+            "TC": "襲擊極其突然，他們……沒有能逃出生天。",
+            "TH": "การ​ซุ่ม​โจมตี​เกิดขึ้น​อย่างกะทันหัน​ ไม่มีใคร​ ... หนีรอด​ไป​ได้",
+            "VN": "Cuộc phục kích diễn ra bất ngờ. Không ai kịp... thoát được."
+          },
+          "firstLvId": "media_map01_117",
+          "id": "nar_media_map01_117_1",
+          "name": {
+            "BR": "Gravação: Vítima de um Ataque",
+            "CN": "遇袭者的留声",
+            "DE": "Aufzeichnung: Opfer eines Angriffs",
+            "EN": "Recording: Victim of an Attack",
+            "FR": "Enregistrement : victime d'une attaque",
+            "ID": "Rekaman: Korban Serangan",
+            "IT": "Registrazione: Vittima di un attacco",
+            "JP": "襲撃された人の録音",
+            "KR": "습격당한 사람들이 남긴 메시지",
+            "MX": "Grabación: Víctima de un ataque",
+            "RU": "Запись: жертва нападения",
+            "TC": "遇襲者的留聲",
+            "TH": "การ​บันทึก​: เหยื่อ​แห่ง​การ​จู่โจม",
+            "VN": "Bản Ghi: Nạn Nhân Của Cuộc Tấn Công"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_45_2": {
+        "oldValue": {
+          "contentId": "radio_map01_lv006_323",
+          "desc": {
+            "BR": "Seu ódio caiu sobre os Aggeloi, e assim começou o segundo capítulo de sua \"Ira\".",
+            "CN": "他的仇恨指向天使，这是他“愤怒”的第二部分。",
+            "DE": "Sein Hass traf die Aggeloi, und so begann das zweite Kapitel seines „Zorns“.",
+            "EN": "His hatred fell upon the Aggeloi, and so began the second chapter of his \"Wrath\".",
+            "FR": "Sa haine s'est abattue sur les Aggeloi, et c'est ainsi que commença le deuxième chapitre de sa « Fureur ».",
+            "ID": "Kebenciannya tertuju pada Aggelos, dan dari sanalah babak kedua “Amarahnya” dimulai.",
+            "IT": "Il suo odio si riversò sugli Aggeloi, e così iniziò il secondo capitolo della sua \"Collera\".",
+            "JP": "彼の憎悪は、アンゲロスに向けられている。それが、彼の「怒り」の第二節であった。",
+            "KR": "그의 증오는 아겔로스를 향했고, 이것이 그의 '분노'의 두 번째 부분이다.",
+            "MX": "Su odio recayó sobre los Aggeloi y así comenzó el segundo capítulo de su “Ira”.",
+            "RU": "Он обрушил ненависть на аггелов. Так появилась вторая глава «Гнева».",
+            "TC": "他的仇恨指向天使，這是他「憤怒」的第二部分。",
+            "TH": "ความเกลียดชัง​ของ​เขา​พุ่ง​ไป​ที่​แอง​เกลอ​ย​ และ​ \"ความ​พิโรธ​\" บท​สอง​ของ​เขา​ก็ได้​เริ่มต้น​ขึ้น",
+            "VN": "Lòng căm thù của hắn đổ lên Aggeloi, và đó là khởi đầu cho chương thứ hai của \"Cơn Thịnh Nộ\" của hắn."
+          },
+          "firstLvId": "media_map01_45",
+          "id": "nar_media_map01_45_2",
+          "name": {
+            "BR": "Gravação: Autor do Ódio (2)",
+            "CN": "仇恨书写者的录音·其二",
+            "DE": "Aufzeichnung: Schriftsteller von Hass (2)",
+            "EN": "Recording: Writer of Hatred (2)",
+            "FR": "Enregistrement : auteur de la haine (2)",
+            "ID": "Rekaman: Penulis Kebencian (2)",
+            "IT": "Registrazione: Scrittore di odio (2)",
+            "JP": "憎悪を書き記す人の録音（2）",
+            "KR": "증오가 가득한 자의 녹음(2)",
+            "MX": "Grabación: Autor del odio (2)",
+            "RU": "Запись: ненавистник (2)",
+            "TC": "仇恨書寫者的錄音·其二",
+            "TH": "การ​บันทึก​: นักเขียน​แห่ง​ความเกลียดชัง​ (2)",
+            "VN": "Bản Ghi: Người Viết Hận Thù (2)"
+          },
+          "order": 2,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv006_323",
+          "desc": {
+            "BR": "Seu ódio caiu sobre os Aggeloi, e assim começou o segundo capítulo de sua \"Ira\".",
+            "CN": "他的仇恨指向天使，这是他“愤怒”的第二部分。",
+            "DE": "Sein Hass traf die Aggeloi, und so begann das zweite Kapitel seines „Zorns“.",
+            "EN": "His hatred fell upon the Aggeloi, and so began the second chapter of his \"Wrath\".",
+            "FR": "Sa haine s'est abattue sur les Aggeloi, et c'est ainsi que commença le deuxième chapitre de sa « Fureur ».",
+            "ID": "Kebenciannya tertuju pada Aggelos, dan dari sanalah babak kedua “Amarahnya” dimulai.",
+            "IT": "Il suo odio si riversò sugli Aggeloi, e così iniziò il secondo capitolo della sua \"Collera\".",
+            "JP": "彼の憎悪は、アンゲロスに向けられている。それが、彼の「怒り」の第二節であった。",
+            "KR": "그의 증오는 아겔로스를 향했고, 이것이 그의 '분노'의 두 번째 부분이다.",
+            "MX": "Su odio recayó sobre los Aggeloi y así comenzó el segundo capítulo de su “Ira”.",
+            "RU": "Он обрушил ненависть на аггелов. Так появилась вторая глава «Гнева».",
+            "TC": "他的仇恨指向天使，這是他「憤怒」的第二部分。",
+            "TH": "ความเกลียดชัง​ของ​เขา​พุ่ง​ไป​ที่​แอง​เกลอ​ย​ และ​ \"ความ​พิโรธ​\" บท​สอง​ของ​เขา​ก็ได้​เริ่มต้น​ขึ้น",
+            "VN": "Lòng căm thù của hắn đổ lên Aggeloi, và đó là khởi đầu cho chương thứ hai của \"Cơn Thịnh Nộ\" của hắn."
+          },
+          "firstLvId": "media_map01_45",
+          "id": "nar_media_map01_45_2",
+          "name": {
+            "BR": "Gravação: Autor do Ódio (2)",
+            "CN": "仇恨书写者的录音·其二",
+            "DE": "Aufzeichnung: Schriftsteller von Hass (2)",
+            "EN": "Recording: Writer of Hatred (2)",
+            "FR": "Enregistrement : auteur de la haine (2)",
+            "ID": "Rekaman: Penulis Kebencian (2)",
+            "IT": "Registrazione: Scrittore di odio (2)",
+            "JP": "憎悪を書き記す人の録音（2）",
+            "KR": "증오가 가득한 자의 녹음(2)",
+            "MX": "Grabación: Autor del odio (2)",
+            "RU": "Запись: ненавистник (2)",
+            "TC": "仇恨書寫者的錄音·其二",
+            "TH": "การ​บันทึก​: นักเขียน​แห่ง​ความเกลียดชัง​ (2)",
+            "VN": "Bản Ghi: Người Viết Hận Thù (2)"
+          },
+          "order": 2,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_13005_1": {
+        "oldValue": {
+          "contentId": "radio_map02_lv006_13001",
+          "desc": {
+            "BR": "Gritos frenéticos de três Paliçados.",
+            "CN": "三个寨民的大声喊叫。",
+            "DE": "Hektisches Geschrei von drei Palisadeuren.",
+            "EN": "Frantic shouting of three Stockaders.",
+            "FR": "Cris affolés de trois palanquiens",
+            "ID": "Teriakan panik tiga orang Kampung.",
+            "IT": "Urla agitate di tre abitanti della Palizzata.",
+            "JP": "砦の住民3人が大声で叫んでいた。",
+            "KR": "청파채 주민 세 명의 비명이 담겼다.",
+            "MX": "Gritos frenéticos de tres Empalizadores.",
+            "RU": "Неистовые крики троих жителей лагеря Циньбо.",
+            "TC": "三個寨民的大聲喊叫。",
+            "TH": "เสียง​ตะโกน​บ้าคลั่ง​ของ​ชาว​ค่าย​ทั้ง​สาม",
+            "VN": "Tiếng hô hoán thất thanh của ba Dân Trại."
+          },
+          "firstLvId": "media_map02_13005",
+          "id": "nar_media_map02_13005_1",
+          "name": {
+            "BR": "Gravação: Indivíduos Aterrorizados",
+            "CN": "惊恐者的留声",
+            "DE": "Aufzeichnung: Verängstigte Personen",
+            "EN": "Recording: Terrified Individuals",
+            "FR": "Enregistrement : des individus terrifiés",
+            "ID": "Rekaman: Orang-orang yang Ketakutan",
+            "IT": "Registrazione: Persone terrorizzate",
+            "JP": "驚き怯える者の録音",
+            "KR": "공포에 사로잡힌 사람들의 녹음",
+            "MX": "Grabación: Individuos aterrorizados",
+            "RU": "Запись: напуганные люди",
+            "TC": "驚恐者的留聲",
+            "TH": "บันทึก​: ผู้คน​ที่​หวาดกลัว",
+            "VN": "Bản Ghi: Nhân Chứng Khiếp Sợ"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map02_lv006_13001",
+          "desc": {
+            "BR": "Gritos frenéticos de três Paliçados.",
+            "CN": "三个寨民的大声喊叫。",
+            "DE": "Hektisches Geschrei von drei Palisadeuren.",
+            "EN": "Frantic shouting of three Stockaders.",
+            "FR": "Cris affolés de trois palanquiens",
+            "ID": "Teriakan panik tiga orang Kampung.",
+            "IT": "Urla agitate di tre abitanti della Palizzata.",
+            "JP": "砦の住民3人が大声で叫んでいた。",
+            "KR": "청파채 주민 세 명의 비명이 담겼다.",
+            "MX": "Gritos frenéticos de tres Empalizadores.",
+            "RU": "Неистовые крики троих жителей лагеря Циньбо.",
+            "TC": "三個寨民的大聲喊叫。",
+            "TH": "เสียง​ตะโกน​บ้าคลั่ง​ของ​ชาว​ค่าย​ทั้ง​สาม",
+            "VN": "Tiếng hô hoán thất thanh của ba Dân Trại."
+          },
+          "firstLvId": "media_map02_13005",
+          "id": "nar_media_map02_13005_1",
+          "name": {
+            "BR": "Gravação: Indivíduos Aterrorizados",
+            "CN": "惊恐者的留声",
+            "DE": "Aufzeichnung: Verängstigte Personen",
+            "EN": "Recording: Terrified Individuals",
+            "FR": "Enregistrement : des individus terrifiés",
+            "ID": "Rekaman: Orang-orang yang Ketakutan",
+            "IT": "Registrazione: Persone terrorizzate",
+            "JP": "驚き怯える者の録音",
+            "KR": "공포에 사로잡힌 사람들의 녹음",
+            "MX": "Grabación: Individuos aterrorizados",
+            "RU": "Запись: напуганные люди",
+            "TC": "驚恐者的留聲",
+            "TH": "บันทึก​: ผู้คน​ที่​หวาดกลัว",
+            "VN": "Bản Ghi: Nhân Chứng Khiếp Sợ"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_118_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv001_76",
+          "desc": {
+            "BR": "Ele fez o melhor que pôde, mas os suprimentos não foram suficientes.",
+            "CN": "他已尽心竭力，但物资仍旧不足。",
+            "DE": "Er hat getan, was er konnte, doch die Vorräte reichten nicht aus.",
+            "EN": "He did his best, but the supplies weren't enough.",
+            "FR": "Il a fait de son mieux, mais avec trop peu de matériel.",
+            "ID": "Dia sudah berusaha sebaik mungkin, tapi pasokannya tak cukup.",
+            "IT": "Ha fatto del suo meglio, ma le provviste non erano sufficienti.",
+            "JP": "全力を尽くしたが、物資は依然として足りなかった。",
+            "KR": "온갖 방법을 다했지만, 물자는 여전히 부족했다.",
+            "MX": "Hizo todo lo que pudo, pero los suministros no fueron suficientes.",
+            "RU": "Он постарался сделать все возможное, но запасов не хватило.",
+            "TC": "他已盡心竭力，但物資仍舊不足。",
+            "TH": "เขา​ทำ​เต็มที่​แล้ว​ แต่​เสบียง​ไม่​เพียงพอ",
+            "VN": "Cậu ấy đã cố gắng hết sức, nhưng nguồn cung vẫn không đủ."
+          },
+          "firstLvId": "media_map01_118",
+          "id": "nar_media_map01_118_1",
+          "name": {
+            "BR": "Gravação: Um Cirurgião",
+            "CN": "医生的留声",
+            "DE": "Aufzeichnung: Ein Chirurg",
+            "EN": "Recording: A Surgeon",
+            "FR": "Enregistrement : un docteur",
+            "ID": "Rekaman: Ahli Bedah",
+            "IT": "Registrazione: Un chirurgo",
+            "JP": "医者の録音",
+            "KR": "의사가 남긴 메시지",
+            "MX": "Grabación: Un cirujano",
+            "RU": "Запись: хирург",
+            "TC": "醫生的留聲",
+            "TH": "การ​บันทึก​: ศัลยแพทย์",
+            "VN": "Bản Ghi: Bác Sĩ"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv001_76",
+          "desc": {
+            "BR": "Ele fez o melhor que pôde, mas os suprimentos não foram suficientes.",
+            "CN": "他已尽心竭力，但物资仍旧不足。",
+            "DE": "Er hat getan, was er konnte, doch die Vorräte reichten nicht aus.",
+            "EN": "He did his best, but the supplies weren't enough.",
+            "FR": "Il a fait de son mieux, mais avec trop peu de matériel.",
+            "ID": "Dia sudah berusaha sebaik mungkin, tapi pasokannya tak cukup.",
+            "IT": "Ha fatto del suo meglio, ma le provviste non erano sufficienti.",
+            "JP": "全力を尽くしたが、物資は依然として足りなかった。",
+            "KR": "온갖 방법을 다했지만, 물자는 여전히 부족했다.",
+            "MX": "Hizo todo lo que pudo, pero los suministros no fueron suficientes.",
+            "RU": "Он постарался сделать все возможное, но запасов не хватило.",
+            "TC": "他已盡心竭力，但物資仍舊不足。",
+            "TH": "เขา​ทำ​เต็มที่​แล้ว​ แต่​เสบียง​ไม่​เพียงพอ",
+            "VN": "Cậu ấy đã cố gắng hết sức, nhưng nguồn cung vẫn không đủ."
+          },
+          "firstLvId": "media_map01_118",
+          "id": "nar_media_map01_118_1",
+          "name": {
+            "BR": "Gravação: Um Cirurgião",
+            "CN": "医生的留声",
+            "DE": "Aufzeichnung: Ein Chirurg",
+            "EN": "Recording: A Surgeon",
+            "FR": "Enregistrement : un docteur",
+            "ID": "Rekaman: Ahli Bedah",
+            "IT": "Registrazione: Un chirurgo",
+            "JP": "医者の録音",
+            "KR": "의사가 남긴 메시지",
+            "MX": "Grabación: Un cirujano",
+            "RU": "Запись: хирург",
+            "TC": "醫生的留聲",
+            "TH": "การ​บันทึก​: ศัลยแพทย์",
+            "VN": "Bản Ghi: Bác Sĩ"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_120_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv003_20",
+          "desc": {
+            "BR": "Esses... cientistas estavam em pânico. Por quê?",
+            "CN": "他们——这些研究员十分慌张，为什么？",
+            "DE": "Diese … Wissenschaftler waren verängstigt. Wieso?",
+            "EN": "These ... scientists were panicking. Why?",
+            "FR": "Ces scientifiques... étaient en pleine crise de panique ? Mais pourquoi ?",
+            "ID": "Para ilmuwan ini ... panik. Kenapa?",
+            "IT": "Questi... scienziati erano in preda al panico. Perché?",
+            "JP": "彼ら――研究者たちはひどく慌てている。なぜだろう？",
+            "KR": "그들... 연구원들이 매우 당황한 거 같다. 무슨 일이 발생한 걸까?",
+            "MX": "Estos... científicos estaban entrando en pánico. ¿Por qué?",
+            "RU": "Ученые пришли в ужас... Но почему?",
+            "TC": "他們——這些研究員非常慌張，為什麼？",
+            "TH": "นักวิทยาศาสตร์​พวก​นั้น​ ... กำลัง​ตื่นตระหนก​ ทำไม​ล่ะ​?",
+            "VN": "Đám... nhà khoa học ấy hoảng loạn. Vì sao?"
+          },
+          "firstLvId": "media_map01_120",
+          "id": "nar_media_map01_120_1",
+          "name": {
+            "BR": "Gravação: Um Cientista",
+            "CN": "研究者的留声",
+            "DE": "Aufzeichnung: Ein Wissenschaftler",
+            "EN": "Recording: A Scientist",
+            "FR": "Enregistrement : un scientifique",
+            "ID": "Rekaman: Ilmuwan",
+            "IT": "Registrazione: Uno scienziato",
+            "JP": "研究者の録音",
+            "KR": "연구원이 남긴 메시지",
+            "MX": "Grabación: Un científico",
+            "RU": "Запись: ученый",
+            "TC": "研究者的留聲",
+            "TH": "การ​บันทึก​: นักวิทยาศาสตร์",
+            "VN": "Bản Ghi: Nhà Khoa Học"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv003_20",
+          "desc": {
+            "BR": "Esses... cientistas estavam em pânico. Por quê?",
+            "CN": "他们——这些研究员十分慌张，为什么？",
+            "DE": "Diese … Wissenschaftler waren verängstigt. Wieso?",
+            "EN": "These ... scientists were panicking. Why?",
+            "FR": "Ces scientifiques... étaient en pleine crise de panique ? Mais pourquoi ?",
+            "ID": "Para ilmuwan ini ... panik. Kenapa?",
+            "IT": "Questi... scienziati erano in preda al panico. Perché?",
+            "JP": "彼ら――研究者たちはひどく慌てている。なぜだろう？",
+            "KR": "그들... 연구원들이 매우 당황한 거 같다. 무슨 일이 발생한 걸까?",
+            "MX": "Estos... científicos estaban entrando en pánico. ¿Por qué?",
+            "RU": "Ученые пришли в ужас... Но почему?",
+            "TC": "他們——這些研究員非常慌張，為什麼？",
+            "TH": "นักวิทยาศาสตร์​พวก​นั้น​ ... กำลัง​ตื่นตระหนก​ ทำไม​ล่ะ​?",
+            "VN": "Đám... nhà khoa học ấy hoảng loạn. Vì sao?"
+          },
+          "firstLvId": "media_map01_120",
+          "id": "nar_media_map01_120_1",
+          "name": {
+            "BR": "Gravação: Um Cientista",
+            "CN": "研究者的留声",
+            "DE": "Aufzeichnung: Ein Wissenschaftler",
+            "EN": "Recording: A Scientist",
+            "FR": "Enregistrement : un scientifique",
+            "ID": "Rekaman: Ilmuwan",
+            "IT": "Registrazione: Uno scienziato",
+            "JP": "研究者の録音",
+            "KR": "연구원이 남긴 메시지",
+            "MX": "Grabación: Un científico",
+            "RU": "Запись: ученый",
+            "TC": "研究者的留聲",
+            "TH": "การ​บันทึก​: นักวิทยาศาสตร์",
+            "VN": "Bản Ghi: Nhà Khoa Học"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_81_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv007_44",
+          "desc": {
+            "BR": "A situação era urgente, então eles decidiram fazer uma aposta desesperada.",
+            "CN": "状况紧急，他们决定孤注一掷。",
+            "DE": "Die Situation duldete keinen Aufschub. Es schien aussichtslos, also gingen sie ein Wagnis ein.",
+            "EN": "The situation was urgent, and they decided to make a desperate gamble.",
+            "FR": "La situation était catastrophique, l'équipe a donc décidé de tenter un acte désespéré.",
+            "ID": "Situasinya mendesak, dan mereka memutuskan untuk mengambil keputusan nekat.",
+            "IT": "La situazione era stringente e hanno deciso di compiere un azzardo disperato.",
+            "JP": "緊急事態で、彼らは一か八かの決断を下した。",
+            "KR": "상황이 긴급해지자, 그들은 모든 것을 걸기로 결심했다.",
+            "MX": "La situación era urgente y decidieron hacer una apuesta desesperada.",
+            "RU": "Чрезвычайные обстоятельства вынудили пойти на отчаянный риск.",
+            "TC": "狀況緊急，他們決定孤注一擲。",
+            "TH": "สถานการณ์​คับขัน​ พวกเขา​จึง​เลือก​เดิมพัน​ครั้งสุดท้าย",
+            "VN": "Tình hình cấp bách, họ buộc phải liều mình đánh cược một phen thôi."
+          },
+          "firstLvId": "media_map01_81",
+          "id": "nar_media_map01_81_1",
+          "name": {
+            "BR": "Gravação: Equipe de Combate",
+            "CN": "作战小队的留声",
+            "DE": "Aufzeichnung: Kampfteam",
+            "EN": "Recording: Combat Team",
+            "FR": "Enregistrement : équipe de combat",
+            "ID": "Rekaman: Tim Tempur",
+            "IT": "Registrazione: Squadra di combattimento",
+            "JP": "作戦チームの録音",
+            "KR": "작전팀이 남긴 메시지",
+            "MX": "Grabación: Equipo de combate",
+            "RU": "Запись: боевая команда",
+            "TC": "作戰小隊的留聲",
+            "TH": "การ​บันทึก​: ทีม​การต่อสู้",
+            "VN": "Bản Ghi: Đội Chiến Đấu"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv007_44",
+          "desc": {
+            "BR": "A situação era urgente, então eles decidiram fazer uma aposta desesperada.",
+            "CN": "状况紧急，他们决定孤注一掷。",
+            "DE": "Die Situation duldete keinen Aufschub. Es schien aussichtslos, also gingen sie ein Wagnis ein.",
+            "EN": "The situation was urgent, and they decided to make a desperate gamble.",
+            "FR": "La situation était catastrophique, l'équipe a donc décidé de tenter un acte désespéré.",
+            "ID": "Situasinya mendesak, dan mereka memutuskan untuk mengambil keputusan nekat.",
+            "IT": "La situazione era stringente e hanno deciso di compiere un azzardo disperato.",
+            "JP": "緊急事態で、彼らは一か八かの決断を下した。",
+            "KR": "상황이 긴급해지자, 그들은 모든 것을 걸기로 결심했다.",
+            "MX": "La situación era urgente y decidieron hacer una apuesta desesperada.",
+            "RU": "Чрезвычайные обстоятельства вынудили пойти на отчаянный риск.",
+            "TC": "狀況緊急，他們決定孤注一擲。",
+            "TH": "สถานการณ์​คับขัน​ พวกเขา​จึง​เลือก​เดิมพัน​ครั้งสุดท้าย",
+            "VN": "Tình hình cấp bách, họ buộc phải liều mình đánh cược một phen thôi."
+          },
+          "firstLvId": "media_map01_81",
+          "id": "nar_media_map01_81_1",
+          "name": {
+            "BR": "Gravação: Equipe de Combate",
+            "CN": "作战小队的留声",
+            "DE": "Aufzeichnung: Kampfteam",
+            "EN": "Recording: Combat Team",
+            "FR": "Enregistrement : équipe de combat",
+            "ID": "Rekaman: Tim Tempur",
+            "IT": "Registrazione: Squadra di combattimento",
+            "JP": "作戦チームの録音",
+            "KR": "작전팀이 남긴 메시지",
+            "MX": "Grabación: Equipo de combate",
+            "RU": "Запись: боевая команда",
+            "TC": "作戰小隊的留聲",
+            "TH": "การ​บันทึก​: ทีม​การต่อสู้",
+            "VN": "Bản Ghi: Đội Chiến Đấu"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_12134_1": {
+        "oldValue": {
+          "contentId": "radio_f1m19d2_7",
+          "desc": {
+            "BR": "Uma sinfonia de motores industriais, uma força estabilizadora que canta.",
+            "CN": "就像工业的引擎在合奏，有一种稳定的力量",
+            "DE": "Eine Symphonie der Industriemaschinen, der Gesang einer stützenden Kraft.",
+            "EN": "A symphony of industrial engines, a stabilizing force that sings.",
+            "FR": "Une symphonie de moteurs industriels, le chant d'une force stabilisatrice.",
+            "ID": "Simfoni mesin industri, kekuatan penstabil yang bernyanyi.",
+            "IT": "Una sinfonia di motori industriali, una forza stabilizzatrice che intona il suo canto.",
+            "JP": "エンジンが合奏してるみたいで、力強い感じがする。",
+            "KR": "꼭... 공업을 이루는 엔진들이 합주하는 것만 같아요. 안정적이면서도, 든든한 힘이 느껴져요...",
+            "MX": "Una sinfonía de motores industriales, una fuerza estabilizadora que canta por sí sola.",
+            "RU": "Симфония промышленных двигателей, реквием стабилизирующей силы.",
+            "TC": "就像工業的引擎在合奏，有一種穩定的力量",
+            "TH": "บทเพลง​ประสานเสียง​แห่ง​เครื่องจักรกล​อุตสาหกรรม​ พลัง​แห่ง​ความมั่นคง​ที่​ขับ​ขาน​ออกมา",
+            "VN": "Một bản giao hưởng của động cơ công nghiệp, tiếng hát từ động lực ổn định."
+          },
+          "firstLvId": "media_map02_12134",
+          "id": "nar_media_map02_12134_1",
+          "name": {
+            "BR": "Gravação de Áudio: Área Central do CAI",
+            "CN": "集成核心区域的留音",
+            "DE": "Audioaufzeichnung: AIK-Kernbereich",
+            "EN": "Audio Recording: Core AIC Area",
+            "FR": "Enregistrement : zone principale du GIA",
+            "ID": "Rekaman Audio: Area AIC Inti",
+            "IT": "Registrazione audio: area centrale del SIA",
+            "JP": "集成工業エリアの音",
+            "KR": "통합 핵심 구역의 음성 표본",
+            "MX": "Grabación de audio: Área central del CAI",
+            "RU": "Аудиозапись: ключевая область АПК",
+            "TC": "集成核心區域的留音",
+            "TH": "บันทึกเสียง​: พื้นที่​ AIC แกน​หลัก",
+            "VN": "Bản Ghi Âm: Khu Phức Hợp Trung Tâm"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_f1m19d2_7",
+          "desc": {
+            "BR": "Uma sinfonia de motores industriais, uma força estabilizadora que canta.",
+            "CN": "就像工业的引擎在合奏，有一种稳定的力量",
+            "DE": "Eine Symphonie der Industriemaschinen, der Gesang einer stützenden Kraft.",
+            "EN": "A symphony of industrial engines, a stabilizing force that sings.",
+            "FR": "Une symphonie de moteurs industriels, le chant d'une force stabilisatrice.",
+            "ID": "Simfoni mesin industri, kekuatan penstabil yang bernyanyi.",
+            "IT": "Una sinfonia di motori industriali, una forza stabilizzatrice che intona il suo canto.",
+            "JP": "エンジンが合奏してるみたいで、力強い感じがする。",
+            "KR": "꼭... 공업을 이루는 엔진들이 합주하는 것만 같아요. 안정적이면서도, 든든한 힘이 느껴져요...",
+            "MX": "Una sinfonía de motores industriales, una fuerza estabilizadora que canta por sí sola.",
+            "RU": "Симфония промышленных двигателей, реквием стабилизирующей силы.",
+            "TC": "就像工業的引擎在合奏，有一種穩定的力量",
+            "TH": "บทเพลง​ประสานเสียง​แห่ง​เครื่องจักรกล​อุตสาหกรรม​ พลัง​แห่ง​ความมั่นคง​ที่​ขับ​ขาน​ออกมา",
+            "VN": "Một bản giao hưởng của động cơ công nghiệp, tiếng hát từ động lực ổn định."
+          },
+          "firstLvId": "media_map02_12134",
+          "id": "nar_media_map02_12134_1",
+          "name": {
+            "BR": "Gravação de Áudio: Área Central do CAI",
+            "CN": "集成核心区域的留音",
+            "DE": "Audioaufzeichnung: AIK-Kernbereich",
+            "EN": "Audio Recording: Core AIC Area",
+            "FR": "Enregistrement : zone principale du GIA",
+            "ID": "Rekaman Audio: Area AIC Inti",
+            "IT": "Registrazione audio: area centrale del SIA",
+            "JP": "集成工業エリアの音",
+            "KR": "통합 핵심 구역의 음성 표본",
+            "MX": "Grabación de audio: Área central del CAI",
+            "RU": "Аудиозапись: ключевая область АПК",
+            "TC": "集成核心區域的留音",
+            "TH": "บันทึกเสียง​: พื้นที่​ AIC แกน​หลัก",
+            "VN": "Bản Ghi Âm: Khu Phức Hợp Trung Tâm"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_128_1": {
+        "oldValue": {
+          "contentId": "radio_e1m1_2d7",
+          "desc": {
+            "BR": "Aconteceu muito rápido e de forma muito inesperada.",
+            "CN": "一切都发生得过于突然。",
+            "DE": "Es geschah zu schnell und unerwartet.",
+            "EN": "It happened too fast, and too unexpectedly.",
+            "FR": "C'est arrivé trop vite, sans qu'on s'y attende.",
+            "ID": "Kejadiannya terlalu cepat, dan tak terduga.",
+            "IT": "È successo troppo in fretta e troppo all'improvviso.",
+            "JP": "すべてはあまりにも突然に起きた。",
+            "KR": "모든 일이 너무 갑작스레 발생했다.",
+            "MX": "Ocurrió demasiado rápido y de forma demasiado inesperada.",
+            "RU": "Все произошло слишком быстро и внезапно.",
+            "TC": "一切都發生得過於突然。",
+            "TH": "ทุกอย่าง​เกิดขึ้น​เร็ว​และ​ไม่ทัน​ตั้งตัว​เลย​จริ​งๆ",
+            "VN": "Mọi chuyện xảy ra quá nhanh, và quá đột ngột."
+          },
+          "firstLvId": "media_map01_128",
+          "id": "nar_media_map01_128_1",
+          "name": {
+            "BR": "Gravação Ativada Acidentalmente",
+            "CN": "意外启动的录音",
+            "DE": "Versehentlich aktivierte Aufzeichnung",
+            "EN": "Accidentally Activated Recording",
+            "FR": "Enregistrement activé par erreur",
+            "ID": "Rekaman yang Tidak Sengaja Diaktifkan",
+            "IT": "Registrazione avviata per sbaglio",
+            "JP": "意図せず起動した録音",
+            "KR": "의도치 않게 플레이한 녹음",
+            "MX": "Grabación activada accidentalmente",
+            "RU": "Случайно запущенная запись",
+            "TC": "意外啟動的錄音",
+            "TH": "เสียง​บันทึก​ที่​เปิด​โดย​ไม่ได้ตั้งใจ",
+            "VN": "Bản Ghi Vô Tình Được Kích Hoạt"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_e1m1_2d7",
+          "desc": {
+            "BR": "Aconteceu muito rápido e de forma muito inesperada.",
+            "CN": "一切都发生得过于突然。",
+            "DE": "Es geschah zu schnell und unerwartet.",
+            "EN": "It happened too fast, and too unexpectedly.",
+            "FR": "C'est arrivé trop vite, sans qu'on s'y attende.",
+            "ID": "Kejadiannya terlalu cepat, dan tak terduga.",
+            "IT": "È successo troppo in fretta e troppo all'improvviso.",
+            "JP": "すべてはあまりにも突然に起きた。",
+            "KR": "모든 일이 너무 갑작스레 발생했다.",
+            "MX": "Ocurrió demasiado rápido y de forma demasiado inesperada.",
+            "RU": "Все произошло слишком быстро и внезапно.",
+            "TC": "一切都發生得過於突然。",
+            "TH": "ทุกอย่าง​เกิดขึ้น​เร็ว​และ​ไม่ทัน​ตั้งตัว​เลย​จริ​งๆ",
+            "VN": "Mọi chuyện xảy ra quá nhanh, và quá đột ngột."
+          },
+          "firstLvId": "media_map01_128",
+          "id": "nar_media_map01_128_1",
+          "name": {
+            "BR": "Gravação Ativada Acidentalmente",
+            "CN": "意外启动的录音",
+            "DE": "Versehentlich aktivierte Aufzeichnung",
+            "EN": "Accidentally Activated Recording",
+            "FR": "Enregistrement activé par erreur",
+            "ID": "Rekaman yang Tidak Sengaja Diaktifkan",
+            "IT": "Registrazione avviata per sbaglio",
+            "JP": "意図せず起動した録音",
+            "KR": "의도치 않게 플레이한 녹음",
+            "MX": "Grabación activada accidentalmente",
+            "RU": "Случайно запущенная запись",
+            "TC": "意外啟動的錄音",
+            "TH": "เสียง​บันทึก​ที่​เปิด​โดย​ไม่ได้ตั้งใจ",
+            "VN": "Bản Ghi Vô Tình Được Kích Hoạt"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_113_1": {
+        "oldValue": {
+          "contentId": "radio_map02_lv004_12001",
+          "desc": {
+            "BR": "A \"Chama\" que Chocou o Tianshi",
+            "CN": "天师们震惊于那道“火焰”",
+            "DE": "Die „Flamme“, die den Tianshi so erschrocken hat.",
+            "EN": "The \"Flame\" that Shocked the Tianshi",
+            "FR": "La « flamme » qui a choqué les Tianshi",
+            "ID": "“Nyala Api” yang Membuat Tianshi Terkejut",
+            "IT": "La \"fiamma\" che ha scioccato i Tianshi",
+            "JP": "天師たちは「炎」に驚かされた。",
+            "KR": "천사들은 그 '불꽃'에 충격을 받았어요.",
+            "MX": "La “Llama” que conmocionó a los Tianshi",
+            "RU": "Пламя, что потрясло Тяньши",
+            "TC": "天師們震驚於那道「火焰」",
+            "TH": "\"เปลวไฟ​\" ที่​ทำให้​เหล่า​เทียน​ซือ​ตกตะลึง",
+            "VN": "\"Ngọn Lửa\" khiến Thiên Sư chấn động"
+          },
+          "firstLvId": "media_map02_113",
+          "id": "nar_media_map02_113_1",
+          "name": {
+            "BR": "Gravação: Tianshi em Pânico",
+            "CN": "慌张天师的留声",
+            "DE": "Aufzeichnung: Panischer Tianshi",
+            "EN": "Recording: Panicking Tianshi",
+            "FR": "Enregistrement : Tianshi en panique",
+            "ID": "Rekaman: Tianshi yang Panik",
+            "IT": "Registrazione: Tianshi in preda al panico",
+            "JP": "慌てている天師のメッセージ",
+            "KR": "허둥대는 천사가 남긴 메시지",
+            "MX": "Grabación: Un Tianshi en pánico",
+            "RU": "Запись: паникующий Тяньши",
+            "TC": "慌張天師的留聲",
+            "TH": "บันทึก​ข้อมูล​: เทียน​ซือ​ตื่นตระหนก",
+            "VN": "Ghi Âm: Thiên Sư Hoảng Loạn"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map02_lv004_12001",
+          "desc": {
+            "BR": "A \"Chama\" que Chocou o Tianshi",
+            "CN": "天师们震惊于那道“火焰”",
+            "DE": "Die „Flamme“, die den Tianshi so erschrocken hat.",
+            "EN": "The \"Flame\" that Shocked the Tianshi",
+            "FR": "La « flamme » qui a choqué les Tianshi",
+            "ID": "“Nyala Api” yang Membuat Tianshi Terkejut",
+            "IT": "La \"fiamma\" che ha scioccato i Tianshi",
+            "JP": "天師たちは「炎」に驚かされた。",
+            "KR": "천사들은 그 '불꽃'에 충격을 받았어요.",
+            "MX": "La “Llama” que conmocionó a los Tianshi",
+            "RU": "Пламя, что потрясло Тяньши",
+            "TC": "天師們震驚於那道「火焰」",
+            "TH": "\"เปลวไฟ​\" ที่​ทำให้​เหล่า​เทียน​ซือ​ตกตะลึง",
+            "VN": "\"Ngọn Lửa\" khiến Thiên Sư chấn động"
+          },
+          "firstLvId": "media_map02_113",
+          "id": "nar_media_map02_113_1",
+          "name": {
+            "BR": "Gravação: Tianshi em Pânico",
+            "CN": "慌张天师的留声",
+            "DE": "Aufzeichnung: Panischer Tianshi",
+            "EN": "Recording: Panicking Tianshi",
+            "FR": "Enregistrement : Tianshi en panique",
+            "ID": "Rekaman: Tianshi yang Panik",
+            "IT": "Registrazione: Tianshi in preda al panico",
+            "JP": "慌てている天師のメッセージ",
+            "KR": "허둥대는 천사가 남긴 메시지",
+            "MX": "Grabación: Un Tianshi en pánico",
+            "RU": "Запись: паникующий Тяньши",
+            "TC": "慌張天師的留聲",
+            "TH": "บันทึก​ข้อมูล​: เทียน​ซือ​ตื่นตระหนก",
+            "VN": "Ghi Âm: Thiên Sư Hoảng Loạn"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_45_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv006_322",
+          "desc": {
+            "BR": "Seu ódio caiu sobre os Aggeloi, e assim começou o primeiro capítulo de sua \"Ira\".",
+            "CN": "他的仇恨指向天使，这是他“愤怒”的第一部分。",
+            "DE": "Sein Hass traf die Aggeloi, und so begann das erste Kapitel seines „Zorns“.",
+            "EN": "His hatred fell upon the Aggeloi, and so began the first chapter of his \"Wrath\".",
+            "FR": "Sa haine s'est abattue sur les Aggeloi, et c'est ainsi que commença le premier chapitre de sa « Fureur ».",
+            "ID": "Kebenciannya tertuju pada Aggelos, dan dari sanalah babak pertama dari “Amarah”-nya dimulai.",
+            "IT": "Il suo odio si riversò sugli Aggeloi, e così iniziò il primo capitolo della sua \"Collera\".",
+            "JP": "彼の憎悪は、アンゲロスに向けられている。それが、彼の「怒り」の第一節であった。",
+            "KR": "그의 증오는 아겔로스를 향했고, 이것이 그의 '분노'의 첫 번째 부분이다.",
+            "MX": "Su odio recayó sobre los Aggeloi, y así comenzó el primer capítulo de su “Ira”.",
+            "RU": "Он обрушил ненависть на аггелов. Так появилась первая глава «Гнева».",
+            "TC": "他的仇恨指向天使，這是他「憤怒」的第一部分。",
+            "TH": "ความเกลียดชัง​ของ​เขา​พุ่ง​ไป​ที่​แอง​เกลอ​ย​ และ​ \"ความ​พิโรธ​\" บท​แรก​ของ​เขา​ก็ได้​เริ่มต้น​ขึ้น",
+            "VN": "Lòng căm thù của hắn đổ lên Aggeloi, và đó là khởi đầu cho chương đầu tiên của \"Cơn Thịnh Nộ\" của hắn."
+          },
+          "firstLvId": "media_map01_45",
+          "id": "nar_media_map01_45_1",
+          "name": {
+            "BR": "Gravação: Autor do Ódio (1)",
+            "CN": "仇恨书写者的录音·其一",
+            "DE": "Aufzeichnung: Autor von Hass (1)",
+            "EN": "Recording: Author of Hatred (1)",
+            "FR": "Enregistrement : source de la haine (1)",
+            "ID": "Rekaman: Penulis Kebencian (1)",
+            "IT": "Registrazione: Autore di odio (1)",
+            "JP": "憎悪を書き記す人の録音（1）",
+            "KR": "증오가 가득한 자의 녹음(1)",
+            "MX": "Grabación: Autor del odio (1)",
+            "RU": "Запись: ненавистник (1)",
+            "TC": "仇恨書寫者的錄音·其一",
+            "TH": "การ​บันทึก​: ผู้สร้าง​ความเกลียดชัง​ (1)",
+            "VN": "Bản Ghi: Tác Giả Của Hận Thù (1)"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv006_322",
+          "desc": {
+            "BR": "Seu ódio caiu sobre os Aggeloi, e assim começou o primeiro capítulo de sua \"Ira\".",
+            "CN": "他的仇恨指向天使，这是他“愤怒”的第一部分。",
+            "DE": "Sein Hass traf die Aggeloi, und so begann das erste Kapitel seines „Zorns“.",
+            "EN": "His hatred fell upon the Aggeloi, and so began the first chapter of his \"Wrath\".",
+            "FR": "Sa haine s'est abattue sur les Aggeloi, et c'est ainsi que commença le premier chapitre de sa « Fureur ».",
+            "ID": "Kebenciannya tertuju pada Aggelos, dan dari sanalah babak pertama dari “Amarah”-nya dimulai.",
+            "IT": "Il suo odio si riversò sugli Aggeloi, e così iniziò il primo capitolo della sua \"Collera\".",
+            "JP": "彼の憎悪は、アンゲロスに向けられている。それが、彼の「怒り」の第一節であった。",
+            "KR": "그의 증오는 아겔로스를 향했고, 이것이 그의 '분노'의 첫 번째 부분이다.",
+            "MX": "Su odio recayó sobre los Aggeloi, y así comenzó el primer capítulo de su “Ira”.",
+            "RU": "Он обрушил ненависть на аггелов. Так появилась первая глава «Гнева».",
+            "TC": "他的仇恨指向天使，這是他「憤怒」的第一部分。",
+            "TH": "ความเกลียดชัง​ของ​เขา​พุ่ง​ไป​ที่​แอง​เกลอ​ย​ และ​ \"ความ​พิโรธ​\" บท​แรก​ของ​เขา​ก็ได้​เริ่มต้น​ขึ้น",
+            "VN": "Lòng căm thù của hắn đổ lên Aggeloi, và đó là khởi đầu cho chương đầu tiên của \"Cơn Thịnh Nộ\" của hắn."
+          },
+          "firstLvId": "media_map01_45",
+          "id": "nar_media_map01_45_1",
+          "name": {
+            "BR": "Gravação: Autor do Ódio (1)",
+            "CN": "仇恨书写者的录音·其一",
+            "DE": "Aufzeichnung: Autor von Hass (1)",
+            "EN": "Recording: Author of Hatred (1)",
+            "FR": "Enregistrement : source de la haine (1)",
+            "ID": "Rekaman: Penulis Kebencian (1)",
+            "IT": "Registrazione: Autore di odio (1)",
+            "JP": "憎悪を書き記す人の録音（1）",
+            "KR": "증오가 가득한 자의 녹음(1)",
+            "MX": "Grabación: Autor del odio (1)",
+            "RU": "Запись: ненавистник (1)",
+            "TC": "仇恨書寫者的錄音·其一",
+            "TH": "การ​บันทึก​: ผู้สร้าง​ความเกลียดชัง​ (1)",
+            "VN": "Bản Ghi: Tác Giả Của Hận Thù (1)"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map01_54_1": {
+        "oldValue": {
+          "contentId": "radio_map01_lv002_1",
+          "desc": {
+            "BR": "Ele deu a vida pela medicina que dominava.",
+            "CN": "他献出了自己的生命，就为了手中的那一份药剂。",
+            "DE": "Er ließ sein Leben, um die Medizin in seinem Besitz zu beschützen.",
+            "EN": "He laid down his life for the medicine he held.",
+            "FR": "Il a donné sa vie pour son remède.",
+            "ID": "Dia mengorbankan hidupnya demi obat yang digenggamnya.",
+            "IT": "Ha dato la vita per la medicina che trasportava.",
+            "JP": "彼は命を差し出した。手に握り締めたその薬のために。",
+            "KR": "그는 손에 쥔 약제를 지키기 위해 자신의 목숨을 바쳤다.",
+            "MX": "Dio su vida por la medicina que sostenía.",
+            "RU": "Он пожертвовал жизнью ради оставшегося у него лекарства.",
+            "TC": "他獻出了自己的生命，就為了手中的那一份藥劑。",
+            "TH": "เขา​ยอม​สละ​ชีวิต​เพื่อ​ยา​ที่​กำ​เอาไว้​ใน​มือ",
+            "VN": "Ông đã hy sinh mạng sống của mình vì loại thuốc mà ông nắm giữ."
+          },
+          "firstLvId": "media_map01_54",
+          "id": "nar_media_map01_54_1",
+          "name": {
+            "BR": "Gravação Final: Mark",
+            "CN": "马克的遗声",
+            "DE": "Finale Aufzeichnung: Mark",
+            "EN": "Final Recording: Mark",
+            "FR": "Dernier enregistrement : marque",
+            "ID": "Rekaman Terakhir: Mark",
+            "IT": "Registrazione finale: Mark",
+            "JP": "マークの遺言",
+            "KR": "마크의 유언",
+            "MX": "Grabación final: Mark",
+            "RU": "Последняя запись: Марк",
+            "TC": "馬克的遺聲",
+            "TH": "การ​บันทึก​สุดท้าย​: มาร์ค",
+            "VN": "Bản Ghi Cuối Cùng: Mark"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map01_lv002_1",
+          "desc": {
+            "BR": "Ele deu a vida pela medicina que dominava.",
+            "CN": "他献出了自己的生命，就为了手中的那一份药剂。",
+            "DE": "Er ließ sein Leben, um die Medizin in seinem Besitz zu beschützen.",
+            "EN": "He laid down his life for the medicine he held.",
+            "FR": "Il a donné sa vie pour son remède.",
+            "ID": "Dia mengorbankan hidupnya demi obat yang digenggamnya.",
+            "IT": "Ha dato la vita per la medicina che trasportava.",
+            "JP": "彼は命を差し出した。手に握り締めたその薬のために。",
+            "KR": "그는 손에 쥔 약제를 지키기 위해 자신의 목숨을 바쳤다.",
+            "MX": "Dio su vida por la medicina que sostenía.",
+            "RU": "Он пожертвовал жизнью ради оставшегося у него лекарства.",
+            "TC": "他獻出了自己的生命，就為了手中的那一份藥劑。",
+            "TH": "เขา​ยอม​สละ​ชีวิต​เพื่อ​ยา​ที่​กำ​เอาไว้​ใน​มือ",
+            "VN": "Ông đã hy sinh mạng sống của mình vì loại thuốc mà ông nắm giữ."
+          },
+          "firstLvId": "media_map01_54",
+          "id": "nar_media_map01_54_1",
+          "name": {
+            "BR": "Gravação Final: Mark",
+            "CN": "马克的遗声",
+            "DE": "Finale Aufzeichnung: Mark",
+            "EN": "Final Recording: Mark",
+            "FR": "Dernier enregistrement : marque",
+            "ID": "Rekaman Terakhir: Mark",
+            "IT": "Registrazione finale: Mark",
+            "JP": "マークの遺言",
+            "KR": "마크의 유언",
+            "MX": "Grabación final: Mark",
+            "RU": "Последняя запись: Марк",
+            "TC": "馬克的遺聲",
+            "TH": "การ​บันทึก​สุดท้าย​: มาร์ค",
+            "VN": "Bản Ghi Cuối Cùng: Mark"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_12144_1": {
+        "oldValue": {
+          "contentId": "radio_map02_lv005_12001",
+          "desc": {
+            "BR": "As melhorias na tecnologia de purificação de água são óbvias.",
+            "CN": "显然，净水技术有所进步。",
+            "DE": "Die Verbesserungen der Klärtechnologie sind offensichtlich.",
+            "EN": "Improvements to the water purification technology are obvious.",
+            "FR": "Les améliorations apportées à la technologie de purification de l'eau sont évidentes.",
+            "ID": "Peningkatan teknologi pemurnian air memang sudah jelas.",
+            "IT": "Le migliorie alla tecnologia di purificazione dell'acqua sono ovvie.",
+            "JP": "明らかなことに、浄水技術が進歩しているようだ。",
+            "KR": "분명 정수 기술이 한층 발전했네.",
+            "MX": "Las mejoras en la tecnología de purificación de agua son evidentes.",
+            "RU": "Улучшения в технологии рафинирования воды очевидны.",
+            "TC": "顯然，淨水技術有所進步。",
+            "TH": "เทคโนโลยี​ชำระ​พลัง​ได้รับ​การปรับปรุง​ให้​เห็นผล​อย่างชัดเจน",
+            "VN": "Công nghệ tinh lọc nước đã được cải tiến rõ rệt."
+          },
+          "firstLvId": "media_map02_12144",
+          "id": "nar_media_map02_12144_1",
+          "name": {
+            "BR": "Gravação: Uma Cientista de Purificação de Água",
+            "CN": "净水研究者的录音",
+            "DE": "Aufzeichnung: Fachkraft für Wasseraufbereitung",
+            "EN": "Recording: A Water Purification Scientist",
+            "FR": "Enregistrement : spécialiste de la purification de l'eau",
+            "ID": "Rekaman: Ilmuwan Pemurnian Air",
+            "IT": "Registrazione: Specialista della purificazione dell'acqua",
+            "JP": "浄水の研究者の録音",
+            "KR": "정수 연구원의 녹음",
+            "MX": "Grabación: Un científico de purificación de agua",
+            "RU": "Запись: ученый, занимающийся рафинированием воды",
+            "TC": "淨水研究者的錄音",
+            "TH": "บันทึก​ข้อมูล​: นักวิทยาศาสตร์​บำบัด​น้ำ",
+            "VN": "Ghi Âm: Một Nhà Khoa Học Thanh Lọc Nước"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map02_lv005_12001",
+          "desc": {
+            "BR": "As melhorias na tecnologia de purificação de água são óbvias.",
+            "CN": "显然，净水技术有所进步。",
+            "DE": "Die Verbesserungen der Klärtechnologie sind offensichtlich.",
+            "EN": "Improvements to the water purification technology are obvious.",
+            "FR": "Les améliorations apportées à la technologie de purification de l'eau sont évidentes.",
+            "ID": "Peningkatan teknologi pemurnian air memang sudah jelas.",
+            "IT": "Le migliorie alla tecnologia di purificazione dell'acqua sono ovvie.",
+            "JP": "明らかなことに、浄水技術が進歩しているようだ。",
+            "KR": "분명 정수 기술이 한층 발전했네.",
+            "MX": "Las mejoras en la tecnología de purificación de agua son evidentes.",
+            "RU": "Улучшения в технологии рафинирования воды очевидны.",
+            "TC": "顯然，淨水技術有所進步。",
+            "TH": "เทคโนโลยี​ชำระ​พลัง​ได้รับ​การปรับปรุง​ให้​เห็นผล​อย่างชัดเจน",
+            "VN": "Công nghệ tinh lọc nước đã được cải tiến rõ rệt."
+          },
+          "firstLvId": "media_map02_12144",
+          "id": "nar_media_map02_12144_1",
+          "name": {
+            "BR": "Gravação: Uma Cientista de Purificação de Água",
+            "CN": "净水研究者的录音",
+            "DE": "Aufzeichnung: Fachkraft für Wasseraufbereitung",
+            "EN": "Recording: A Water Purification Scientist",
+            "FR": "Enregistrement : spécialiste de la purification de l'eau",
+            "ID": "Rekaman: Ilmuwan Pemurnian Air",
+            "IT": "Registrazione: Specialista della purificazione dell'acqua",
+            "JP": "浄水の研究者の録音",
+            "KR": "정수 연구원의 녹음",
+            "MX": "Grabación: Un científico de purificación de agua",
+            "RU": "Запись: ученый, занимающийся рафинированием воды",
+            "TC": "淨水研究者的錄音",
+            "TH": "บันทึก​ข้อมูล​: นักวิทยาศาสตร์​บำบัด​น้ำ",
+            "VN": "Ghi Âm: Một Nhà Khoa Học Thanh Lọc Nước"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_64_1": {
+        "oldValue": {
+          "contentId": "radio_sm2l2m1_12",
+          "desc": {
+            "BR": "Gravação de um experimento deixada por um velho Tianshi cujo nome não foi divulgado.",
+            "CN": "一位不知名的老天师从前留下的实验录音。",
+            "DE": "Eine Aufzeichnung über ein Experiment, die von einem alten, unbekannten Tianshi zurückgelassen wurde.",
+            "EN": "An experiment recording left behind by an old, unnamed Tianshi.",
+            "FR": "L'enregistrement d'une expérience laissé derrière lui par un vieux Tianshi anonyme.",
+            "ID": "Rekaman eksperimen yang ditinggalkan oleh Tianshi tua tanpa nama.",
+            "IT": "Un esperimento registrato lasciato da un Tianshi anziano sconosciuto.",
+            "JP": "名も知らない老天師が残した、過去の実験の録音。",
+            "KR": "이름 모르는 나이 든 천사가 남긴 옛날의 실험 녹음이다.",
+            "MX": "Una grabación de experimento dejada por un Tianshi Mayor y sin nombre.",
+            "RU": "Запись об эксперименте, оставленная древним неизвестным Тяньши.",
+            "TC": "一位不知名的老天師從前留下的實驗錄音。",
+            "TH": "บันทึก​การทดลอง​ที่​เทียน​ซือ​ชรา​ผู้​ไร้​นาม​ทิ้ง​ไว้",
+            "VN": "Bản ghi thí nghiệm được lưu lại bởi một Lão Thiên Sư vô danh."
+          },
+          "firstLvId": "media_map02_64",
+          "id": "nar_media_map02_64_1",
+          "name": {
+            "BR": "Gravação de Experimento do Passado",
+            "CN": "从前的实验录音",
+            "DE": "Aufzeichnung über ein Experiment aus der Vergangenheit",
+            "EN": "Experiment Recording from the Past",
+            "FR": "Enregistrement d'une expérience passée",
+            "ID": "Rekaman Eksperimen dari Masa Lalu",
+            "IT": "Registrazione di esperimenti dal passato",
+            "JP": "過去の実験の録音",
+            "KR": "옛날의 실험 녹음",
+            "MX": "Grabación de experimento del pasado",
+            "RU": "Запись о прошлом эксперименте",
+            "TC": "從前的實驗錄音",
+            "TH": "บันทึก​การทดลอง​จาก​อดีต",
+            "VN": "Bản Ghi Thí Nghiệm Từ Quá Khứ"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_sm2l2m1_12",
+          "desc": {
+            "BR": "Gravação de um experimento deixada por um velho Tianshi cujo nome não foi divulgado.",
+            "CN": "一位不知名的老天师从前留下的实验录音。",
+            "DE": "Eine Aufzeichnung über ein Experiment, die von einem alten, unbekannten Tianshi zurückgelassen wurde.",
+            "EN": "An experiment recording left behind by an old, unnamed Tianshi.",
+            "FR": "L'enregistrement d'une expérience laissé derrière lui par un vieux Tianshi anonyme.",
+            "ID": "Rekaman eksperimen yang ditinggalkan oleh Tianshi tua tanpa nama.",
+            "IT": "Un esperimento registrato lasciato da un Tianshi anziano sconosciuto.",
+            "JP": "名も知らない老天師が残した、過去の実験の録音。",
+            "KR": "이름 모르는 나이 든 천사가 남긴 옛날의 실험 녹음이다.",
+            "MX": "Una grabación de experimento dejada por un Tianshi Mayor y sin nombre.",
+            "RU": "Запись об эксперименте, оставленная древним неизвестным Тяньши.",
+            "TC": "一位不知名的老天師從前留下的實驗錄音。",
+            "TH": "บันทึก​การทดลอง​ที่​เทียน​ซือ​ชรา​ผู้​ไร้​นาม​ทิ้ง​ไว้",
+            "VN": "Bản ghi thí nghiệm được lưu lại bởi một Lão Thiên Sư vô danh."
+          },
+          "firstLvId": "media_map02_64",
+          "id": "nar_media_map02_64_1",
+          "name": {
+            "BR": "Gravação de Experimento do Passado",
+            "CN": "从前的实验录音",
+            "DE": "Aufzeichnung über ein Experiment aus der Vergangenheit",
+            "EN": "Experiment Recording from the Past",
+            "FR": "Enregistrement d'une expérience passée",
+            "ID": "Rekaman Eksperimen dari Masa Lalu",
+            "IT": "Registrazione di esperimenti dal passato",
+            "JP": "過去の実験の録音",
+            "KR": "옛날의 실험 녹음",
+            "MX": "Grabación de experimento del pasado",
+            "RU": "Запись о прошлом эксперименте",
+            "TC": "從前的實驗錄音",
+            "TH": "บันทึก​การทดลอง​จาก​อดีต",
+            "VN": "Bản Ghi Thí Nghiệm Từ Quá Khứ"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_65_1": {
+        "oldValue": {
+          "contentId": "radio_map02_lv001_1",
+          "desc": {
+            "BR": "Senhorita, posso dizer que você tem uma vibe heroica... hum...",
+            "CN": "“这位小姐，我看您英气……欸……”",
+            "DE": "Fräulein, man sieht Ihnen den Heldenmut direkt an … ähm …",
+            "EN": "Miss, I can tell you have a heroic vibe ... um...",
+            "FR": "Mademoiselle, vous avez sans conteste une aura héroïque, et...",
+            "ID": "Nona, kau punya aura heroik ... ehm ....",
+            "IT": "Signorina, si vede che ha un che di eroico... Uhm...",
+            "JP": "「いや、えーっと……お嬢さん、あなたがあまりにも凛々しいお姿……あれっ……」",
+            "KR": "\"아주 기개가 넘치는 아가씨군요... 어라...\"",
+            "MX": "Señorita, se le nota un aire heroico... eh...",
+            "RU": "Мисс, по вам сразу видно, что вы смелый человек... Э-э...",
+            "TC": "「這位小姐，我看您英氣……欸……」",
+            "TH": "คุณหนู​ ฉัน​บอก​ให้​เลย​ว่า​เธอ​มี​ความ​เป็น​วีรชน​... อืม​...",
+            "VN": "Cô ơi, tôi thấy cô có khí chất anh hùng... ừm..."
+          },
+          "firstLvId": "media_map02_65",
+          "id": "nar_media_map02_65_1",
+          "name": {
+            "BR": "Gravação: Aqueles que Buscam Abrigo",
+            "CN": "避雨者们的留声",
+            "DE": "Aufzeichnung: Zufluchtsuchende",
+            "EN": "Recording: Those Seeking Shelter",
+            "FR": "Enregistrement : ceux qui cherchent un abri",
+            "ID": "Rekaman: Para Pencari Tempat Berlindung",
+            "IT": "Registrazione: Coloro che cercano rifugio",
+            "JP": "雨宿りする者たちの録音",
+            "KR": "비를 피하는 자들이 남긴 메시지",
+            "MX": "Grabación: Quienes buscan refugio",
+            "RU": "Запись: ищущие убежища",
+            "TC": "避雨者們的留聲",
+            "TH": "การ​บันทึก​: ผู้มอง​หา​ที่หลบภัย",
+            "VN": "Bản Ghi: Những Người Tìm Nơi Trú Ẩn"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map02_lv001_1",
+          "desc": {
+            "BR": "Senhorita, posso dizer que você tem uma vibe heroica... hum...",
+            "CN": "“这位小姐，我看您英气……欸……”",
+            "DE": "Fräulein, man sieht Ihnen den Heldenmut direkt an … ähm …",
+            "EN": "Miss, I can tell you have a heroic vibe ... um...",
+            "FR": "Mademoiselle, vous avez sans conteste une aura héroïque, et...",
+            "ID": "Nona, kau punya aura heroik ... ehm ....",
+            "IT": "Signorina, si vede che ha un che di eroico... Uhm...",
+            "JP": "「いや、えーっと……お嬢さん、あなたがあまりにも凛々しいお姿……あれっ……」",
+            "KR": "\"아주 기개가 넘치는 아가씨군요... 어라...\"",
+            "MX": "Señorita, se le nota un aire heroico... eh...",
+            "RU": "Мисс, по вам сразу видно, что вы смелый человек... Э-э...",
+            "TC": "「這位小姐，我看您英氣……欸……」",
+            "TH": "คุณหนู​ ฉัน​บอก​ให้​เลย​ว่า​เธอ​มี​ความ​เป็น​วีรชน​... อืม​...",
+            "VN": "Cô ơi, tôi thấy cô có khí chất anh hùng... ừm..."
+          },
+          "firstLvId": "media_map02_65",
+          "id": "nar_media_map02_65_1",
+          "name": {
+            "BR": "Gravação: Aqueles que Buscam Abrigo",
+            "CN": "避雨者们的留声",
+            "DE": "Aufzeichnung: Zufluchtsuchende",
+            "EN": "Recording: Those Seeking Shelter",
+            "FR": "Enregistrement : ceux qui cherchent un abri",
+            "ID": "Rekaman: Para Pencari Tempat Berlindung",
+            "IT": "Registrazione: Coloro che cercano rifugio",
+            "JP": "雨宿りする者たちの録音",
+            "KR": "비를 피하는 자들이 남긴 메시지",
+            "MX": "Grabación: Quienes buscan refugio",
+            "RU": "Запись: ищущие убежища",
+            "TC": "避雨者們的留聲",
+            "TH": "การ​บันทึก​: ผู้มอง​หา​ที่หลบภัย",
+            "VN": "Bản Ghi: Những Người Tìm Nơi Trú Ẩn"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_66_1": {
+        "oldValue": {
+          "contentId": "radio_map02_lv002_2",
+          "desc": {
+            "BR": "Deixe de lado o ódio e a vingança! Concentre-se em viver, meu amigo!",
+            "CN": "此时不必计较什么仇与恨，活下去！我的朋友！",
+            "DE": "Entsage dem Hass und der Rachsucht! Besinne dich darauf, zu leben!",
+            "EN": "Let go of hatred and vengeance! Focus on living, my friend!",
+            "FR": "Débarrasse-toi de la haine et de la vengeance ! Et concentre-toi sur la vie !",
+            "ID": "Buanglah kebencian dan dendam! Fokus pada kehidupan, Kawan!",
+            "IT": "Lascia andare l'odio e la vendetta! Concentrati sul vivere!",
+            "JP": "仇も憎しみも、どうでもいい。全員、生き残れ！",
+            "KR": "지금은 원한 따위를 따질 때가 아니야. 일단은 살아남아야 해!",
+            "MX": "¡Deja ir el odio y la venganza! ¡Concéntrate en vivir, amigo!",
+            "RU": "Не живи ненавистью и мщением! Живи для себя, друг!",
+            "TC": "此時不必計較什麼仇與恨，活下去！我的朋友！",
+            "TH": "ปล่อยวาง​ความ​ความแค้น​และ​ความเกลียดชัง​เสีย​! จง​มุ่งเน้น​ที่​การ​มีชีวิต​อยู่​ต่อไป​ เพื่อน​!",
+            "VN": "Hãy buông bỏ hận thù và báo thù đi! Tập trung vào việc sống nào, anh bạn!"
+          },
+          "firstLvId": "media_map02_66",
+          "id": "nar_media_map02_66_1",
+          "name": {
+            "BR": "Gravação: Tianshi Ocupado",
+            "CN": "匆忙天师们的留声",
+            "DE": "Aufzeichnung: Beschäftigte Tianshi",
+            "EN": "Recording: Busy Tianshi",
+            "FR": "Enregistrement : Tianshi très occupé",
+            "ID": "Rekaman: Tianshi yang Sibuk",
+            "IT": "Registrazione: Tianshi solerte",
+            "JP": "慌てている天師たちの録音",
+            "KR": "천사들이 황급히 남긴 메시지",
+            "MX": "Grabación: Tianshi ocupado",
+            "RU": "Запись: занятой Тяньши",
+            "TC": "匆忙天師們的留聲",
+            "TH": "การ​บันทึก​: เทียน​ซือ​จอม​ยุ่ง",
+            "VN": "Bản Ghi: Thiên Sư Bận Rộn"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map02_lv002_2",
+          "desc": {
+            "BR": "Deixe de lado o ódio e a vingança! Concentre-se em viver, meu amigo!",
+            "CN": "此时不必计较什么仇与恨，活下去！我的朋友！",
+            "DE": "Entsage dem Hass und der Rachsucht! Besinne dich darauf, zu leben!",
+            "EN": "Let go of hatred and vengeance! Focus on living, my friend!",
+            "FR": "Débarrasse-toi de la haine et de la vengeance ! Et concentre-toi sur la vie !",
+            "ID": "Buanglah kebencian dan dendam! Fokus pada kehidupan, Kawan!",
+            "IT": "Lascia andare l'odio e la vendetta! Concentrati sul vivere!",
+            "JP": "仇も憎しみも、どうでもいい。全員、生き残れ！",
+            "KR": "지금은 원한 따위를 따질 때가 아니야. 일단은 살아남아야 해!",
+            "MX": "¡Deja ir el odio y la venganza! ¡Concéntrate en vivir, amigo!",
+            "RU": "Не живи ненавистью и мщением! Живи для себя, друг!",
+            "TC": "此時不必計較什麼仇與恨，活下去！我的朋友！",
+            "TH": "ปล่อยวาง​ความ​ความแค้น​และ​ความเกลียดชัง​เสีย​! จง​มุ่งเน้น​ที่​การ​มีชีวิต​อยู่​ต่อไป​ เพื่อน​!",
+            "VN": "Hãy buông bỏ hận thù và báo thù đi! Tập trung vào việc sống nào, anh bạn!"
+          },
+          "firstLvId": "media_map02_66",
+          "id": "nar_media_map02_66_1",
+          "name": {
+            "BR": "Gravação: Tianshi Ocupado",
+            "CN": "匆忙天师们的留声",
+            "DE": "Aufzeichnung: Beschäftigte Tianshi",
+            "EN": "Recording: Busy Tianshi",
+            "FR": "Enregistrement : Tianshi très occupé",
+            "ID": "Rekaman: Tianshi yang Sibuk",
+            "IT": "Registrazione: Tianshi solerte",
+            "JP": "慌てている天師たちの録音",
+            "KR": "천사들이 황급히 남긴 메시지",
+            "MX": "Grabación: Tianshi ocupado",
+            "RU": "Запись: занятой Тяньши",
+            "TC": "匆忙天師們的留聲",
+            "TH": "การ​บันทึก​: เทียน​ซือ​จอม​ยุ่ง",
+            "VN": "Bản Ghi: Thiên Sư Bận Rộn"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_71_1": {
+        "oldValue": {
+          "contentId": "radio_map02_lv003_2",
+          "desc": {
+            "BR": "No entanto, existe uma alma que tenta quebrar o ciclo do ódio.",
+            "CN": "即便如此，仍有人试图斩断仇恨的循环。",
+            "DE": "Dennoch gibt es eine Seele, die versucht, den Kreislauf des Hasses zu durchbrechen.",
+            "EN": "Nevertheless, there is a soul that tries to break the cycle of hate.",
+            "FR": "Une âme tente néanmoins de briser le cycle de la haine.",
+            "ID": "Tapi, ada satu jiwa yang berusaha memutus lingkaran kebencian itu.",
+            "IT": "Nonostante tutto, c'è un'anima intenzionata a spezzare la spirale d'odio.",
+            "JP": "それでも、憎しみの連鎖を断ち切ろうとする者はいる。",
+            "KR": "그럼에도, 누군가는 증오의 고리를 끊어 내고자 했습니다.",
+            "MX": "Sin embargo, hay un alma que intenta romper el ciclo del odio.",
+            "RU": "Однако есть душа, которая пытается покончить с ненавистью.",
+            "TC": "即便如此，仍有人試圖斬斷仇恨的循環。",
+            "TH": "อย่างไรก็ตาม​ ยัง​มีด​วง​วิญญาณ​หนึ่ง​ที่​พยายาม​จะ​ทำลาย​วงจร​แห่ง​ความเกลียดชัง​นี้",
+            "VN": "Dẫu vậy, vẫn có một linh hồn đang cố gắng phá vỡ vòng lặp hận thù."
+          },
+          "firstLvId": "media_map02_71",
+          "id": "nar_media_map02_71_1",
+          "name": {
+            "BR": "Memo: Aquele Preso no Ódio",
+            "CN": "仇恨的留声",
+            "DE": "Notiz: Der im Hass Verfangene",
+            "EN": "Memo: The One Stuck in Hatred",
+            "FR": "Mémo : prison de haine",
+            "ID": "Memo: Orang yang Terperangkap dalam Kebencian",
+            "IT": "Nota: L'odio che intrappola",
+            "JP": "憎しみのこもったメッセージ",
+            "KR": "증오하는 사람이 남긴 메시지",
+            "MX": "Memorándum: El que está atrapado en el odio",
+            "RU": "Записка: в плену ненависти",
+            "TC": "仇恨的留聲",
+            "TH": "บันทึก​: ผู้​ติด​อยู่​ใน​ความแค้น",
+            "VN": "Ghi Chú: Kẻ Hận Thù"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map02_lv003_2",
+          "desc": {
+            "BR": "No entanto, existe uma alma que tenta quebrar o ciclo do ódio.",
+            "CN": "即便如此，仍有人试图斩断仇恨的循环。",
+            "DE": "Dennoch gibt es eine Seele, die versucht, den Kreislauf des Hasses zu durchbrechen.",
+            "EN": "Nevertheless, there is a soul that tries to break the cycle of hate.",
+            "FR": "Une âme tente néanmoins de briser le cycle de la haine.",
+            "ID": "Tapi, ada satu jiwa yang berusaha memutus lingkaran kebencian itu.",
+            "IT": "Nonostante tutto, c'è un'anima intenzionata a spezzare la spirale d'odio.",
+            "JP": "それでも、憎しみの連鎖を断ち切ろうとする者はいる。",
+            "KR": "그럼에도, 누군가는 증오의 고리를 끊어 내고자 했습니다.",
+            "MX": "Sin embargo, hay un alma que intenta romper el ciclo del odio.",
+            "RU": "Однако есть душа, которая пытается покончить с ненавистью.",
+            "TC": "即便如此，仍有人試圖斬斷仇恨的循環。",
+            "TH": "อย่างไรก็ตาม​ ยัง​มีด​วง​วิญญาณ​หนึ่ง​ที่​พยายาม​จะ​ทำลาย​วงจร​แห่ง​ความเกลียดชัง​นี้",
+            "VN": "Dẫu vậy, vẫn có một linh hồn đang cố gắng phá vỡ vòng lặp hận thù."
+          },
+          "firstLvId": "media_map02_71",
+          "id": "nar_media_map02_71_1",
+          "name": {
+            "BR": "Memo: Aquele Preso no Ódio",
+            "CN": "仇恨的留声",
+            "DE": "Notiz: Der im Hass Verfangene",
+            "EN": "Memo: The One Stuck in Hatred",
+            "FR": "Mémo : prison de haine",
+            "ID": "Memo: Orang yang Terperangkap dalam Kebencian",
+            "IT": "Nota: L'odio che intrappola",
+            "JP": "憎しみのこもったメッセージ",
+            "KR": "증오하는 사람이 남긴 메시지",
+            "MX": "Memorándum: El que está atrapado en el odio",
+            "RU": "Записка: в плену ненависти",
+            "TC": "仇恨的留聲",
+            "TH": "บันทึก​: ผู้​ติด​อยู่​ใน​ความแค้น",
+            "VN": "Ghi Chú: Kẻ Hận Thù"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "nar_media_map02_70_1": {
+        "oldValue": {
+          "contentId": "radio_map02_lv002_1",
+          "desc": {
+            "BR": "Um pouco de esperança a cada dia torna a vida mais feliz!",
+            "CN": "每日等待，每日好心情！",
+            "DE": "Ein wenig Hoffnung jeden Tag und das Leben lebt sich leichter!",
+            "EN": "A little hope each day makes life happier!",
+            "FR": "Un peu d'espoir quotidien, ça donne du pétillant à la vie !",
+            "ID": "Dengan sedikit harapan setiap hari, hidup jadi lebih bahagia!",
+            "IT": "Un po' di speranza ogni giorno rende la vita più piacevole!",
+            "JP": "待つ毎日、希望の毎日！",
+            "KR": "매일 기다리고, 항상 좋은 기분!",
+            "MX": "¡Un poco de esperanza cada día hace la vida más feliz!",
+            "RU": "С толикой надежды каждый день становится счастливее!",
+            "TC": "每日等待，每日好心情！",
+            "TH": "ความหวัง​เ​ล็​กๆ​ ใน​แต่ละวัน​ช่วย​ให้​ชีวิต​มีความสุข​มากขึ้น​!",
+            "VN": "Một chút hy vọng mỗi ngày sẽ khiến cuộc sống thêm vui!"
+          },
+          "firstLvId": "media_map02_70",
+          "id": "nar_media_map02_70_1",
+          "name": {
+            "BR": "Gravação: Aquele que Aguarda o Prêmio",
+            "CN": "等待大奖者的留声",
+            "DE": "Aufzeichnung: Jemand, der auf eine Auszeichnung wartet",
+            "EN": "Recording: The One Awaiting the Prize",
+            "FR": "Enregistrement : la personne qui attend sa récompense",
+            "ID": "Rekaman: Seorang yang Menanti Hadiah",
+            "IT": "Registrazione: In attesa del premio",
+            "JP": "当たりを待っている者の録音",
+            "KR": "당첨을 기다리는 자가 남긴 메시지",
+            "MX": "Grabación: El que espera el premio",
+            "RU": "Запись: в ожидании награды",
+            "TC": "等待大獎者的留聲",
+            "TH": "การ​บันทึก​: ผู้​เฝ้ารอ​รางวัล",
+            "VN": "Bản Ghi: Người Đang Chờ Giải Thưởng"
+          },
+          "order": 1,
+          "type": "multi_media"
+        },
+        "newValue": {
+          "contentId": "radio_map02_lv002_1",
+          "desc": {
+            "BR": "Um pouco de esperança a cada dia torna a vida mais feliz!",
+            "CN": "每日等待，每日好心情！",
+            "DE": "Ein wenig Hoffnung jeden Tag und das Leben lebt sich leichter!",
+            "EN": "A little hope each day makes life happier!",
+            "FR": "Un peu d'espoir quotidien, ça donne du pétillant à la vie !",
+            "ID": "Dengan sedikit harapan setiap hari, hidup jadi lebih bahagia!",
+            "IT": "Un po' di speranza ogni giorno rende la vita più piacevole!",
+            "JP": "待つ毎日、希望の毎日！",
+            "KR": "매일 기다리고, 항상 좋은 기분!",
+            "MX": "¡Un poco de esperanza cada día hace la vida más feliz!",
+            "RU": "С толикой надежды каждый день становится счастливее!",
+            "TC": "每日等待，每日好心情！",
+            "TH": "ความหวัง​เ​ล็​กๆ​ ใน​แต่ละวัน​ช่วย​ให้​ชีวิต​มีความสุข​มากขึ้น​!",
+            "VN": "Một chút hy vọng mỗi ngày sẽ khiến cuộc sống thêm vui!"
+          },
+          "firstLvId": "media_map02_70",
+          "id": "nar_media_map02_70_1",
+          "name": {
+            "BR": "Gravação: Aquele que Aguarda o Prêmio",
+            "CN": "等待大奖者的留声",
+            "DE": "Aufzeichnung: Jemand, der auf eine Auszeichnung wartet",
+            "EN": "Recording: The One Awaiting the Prize",
+            "FR": "Enregistrement : la personne qui attend sa récompense",
+            "ID": "Rekaman: Seorang yang Menanti Hadiah",
+            "IT": "Registrazione: In attesa del premio",
+            "JP": "当たりを待っている者の録音",
+            "KR": "당첨을 기다리는 자가 남긴 메시지",
+            "MX": "Grabación: El que espera el premio",
+            "RU": "Запись: в ожидании награды",
+            "TC": "等待大獎者的留聲",
+            "TH": "การ​บันทึก​: ผู้​เฝ้ารอ​รางวัล",
+            "VN": "Bản Ghi: Người Đang Chờ Giải Thưởng"
+          },
+          "order": 1,
+          "overrideRadioId": "",
+          "type": "multi_media"
+        },
+        "changed": {
+          "overrideRadioId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      }
+    }
+  }
+}

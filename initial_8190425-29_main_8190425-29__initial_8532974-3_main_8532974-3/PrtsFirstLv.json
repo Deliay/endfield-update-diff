@@ -1,0 +1,6661 @@
+{
+  "tableName": "PrtsFirstLv",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 43,
+    "removed": 0,
+    "changed": 53
+  },
+  "entries": {
+    "added": {
+      "document_v1d4_5": {
+        "categoryId": "document",
+        "firstLvId": "document_v1d4_5",
+        "icon": "prts_centralAchive_basic",
+        "itemIds": [
+          "nar_document_v1d4_5_1"
+        ],
+        "name": {
+          "BR": "Zona de Exclusão do Norte de Wuling",
+          "CN": "北部禁区",
+          "DE": "Sperrzone Nord-Wuling",
+          "EN": "North Wuling Exclusion Zone",
+          "FR": "Zone d'exclusion du nord de Wuling",
+          "ID": "Zona Eksklusi Wuling Utara",
+          "IT": "Area interdetta di Wuling Nord",
+          "JP": "武陵北部封鎖区域",
+          "KR": "북쪽 금지 구역",
+          "MX": "Zona de exclusión norte de Wuling",
+          "RU": "Зона отчуждения северного Улина",
+          "TC": "北部禁區",
+          "TH": "เขต​พิเศษ​อู่​หลิง​เหนือ",
+          "VN": "Khu Cấm Bắc Võ Lăng"
+        },
+        "order": 1040001,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14010": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14010",
+        "icon": "prts_read_pad",
+        "itemIds": [
+          "nar_digital_map02_14010_1"
+        ],
+        "name": {
+          "BR": "Memo: Um Yinglung",
+          "CN": "应龙的留言",
+          "DE": "Notiz: Ein Yinglung",
+          "EN": "Memo: An Yinglung",
+          "FR": "Mémo : Yinglung",
+          "ID": "Memo: Anggota Yinglung",
+          "IT": "Nota: Uno/a Yinglung",
+          "JP": "応龍のメッセージ",
+          "KR": "응룡의 메시지",
+          "MX": "Nota: Un Yinglung",
+          "RU": "Записка: боец «Инлуна»",
+          "TC": "應龍的留言",
+          "TH": "บันทึก​: หน่วย​ห​ยิง​หลง",
+          "VN": "Ghi Chú: Một Đặc Nhiệm Yinglung"
+        },
+        "order": 201040008,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "report_map02_research12_1": {
+        "categoryId": "report",
+        "firstLvId": "report_map02_research12_1",
+        "icon": "prts_read_document",
+        "itemIds": [
+          "nar_report_map02_research12_1_1"
+        ],
+        "name": {
+          "BR": "RI: Sobreviventes do Passado",
+          "CN": "关于旧日幸存者的调查报告",
+          "DE": "UB: Überlebende aus der Vergangenheit",
+          "EN": "IR: Survivors from the Past",
+          "FR": "RE sur les survivants du passé",
+          "ID": "LP: Penyintas dari Masa Lalu",
+          "IT": "RI: Sopravvissuti dal passato",
+          "JP": "かつての生存者に関する調査報告",
+          "KR": "옛 생존자에 관한 조사 보고서",
+          "MX": "I.I.: Sobrevivientes del pasado",
+          "RU": "Отчет: выжившие из прошлого",
+          "TC": "關於舊日倖存者的調查報告",
+          "TH": "IR: ผู้รอดชีวิต​จาก​อดีต",
+          "VN": "Báo Cáo Điều Tra: Những Người Sống Sót Từ Quá Khứ"
+        },
+        "order": 201043201,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14020": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14020",
+        "icon": "prts_read_letter",
+        "itemIds": [
+          "nar_paper_map02_14020_1"
+        ],
+        "name": {
+          "BR": "Carta Antiga: Não Entregue",
+          "CN": "未寄出的旧信",
+          "DE": "Alter Brief: Nicht zugestellt",
+          "EN": "Old Letter: Undelivered",
+          "FR": "Vieille lettre non remise",
+          "ID": "Surat Lama: Tidak Terkirim",
+          "IT": "Vecchia lettera: Non consegnata",
+          "JP": "出されなかった古い手紙",
+          "KR": "보내지 못한 편지",
+          "MX": "Carta antigua: Sin entregar",
+          "RU": "Старое неотправленное письмо",
+          "TC": "未寄出的舊信",
+          "TH": "จดหมาย​เก่า​: ยัง​ไม่​ถูก​ส่ง",
+          "VN": "Thư Cũ: Chưa Gửi"
+        },
+        "order": 201040018,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14019": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14019",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14019_1"
+        ],
+        "name": {
+          "BR": "Últimas Palavras: Por Alguém",
+          "CN": "某人的绝笔",
+          "DE": "Letzte Worte: Von jemandem",
+          "EN": "Last Words: By Someone",
+          "FR": "Derniers mots de quelqu'un",
+          "ID": "Kata-kata Terakhir: Dari Seseorang",
+          "IT": "Ultime parole: Di qualcuno",
+          "JP": "とある人物の最後の手記",
+          "KR": "어떤 이의 절필",
+          "MX": "Últimas palabras: escritas por alguien",
+          "RU": "Чьи-то последние слова",
+          "TC": "某人的絕筆",
+          "TH": "คำสั่ง​เสีย​สุดท้าย​: โดย​ใคร​บางคน",
+          "VN": "Di Ngôn: Của Một Ai Đó"
+        },
+        "order": 201040017,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_research7_13": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_research7_13",
+        "icon": "prts_read_file",
+        "itemIds": [
+          "nar_paper_map02_research7_13_1"
+        ],
+        "name": {
+          "BR": "Log da Equipe Macro: Megaoperação de Vigilância 4",
+          "CN": "宏小队-第四次大型作战行动记录",
+          "DE": "Logbuch des Makro-Teams: Große Aufklärungsmission 4",
+          "EN": "Log of Macro Team: Major Surveillance Op 4",
+          "FR": "Journal de l'équipe de Macro : grande opération de surveillance n° 4",
+          "ID": "Log Tim Macro: Operasi Pengawasan Besar 4",
+          "IT": "Registro della Squadra Macro: Operazione di sorveglianza su vasta scala 4",
+          "JP": "ヒロ小隊-第4次大規模作戦行動記録",
+          "KR": "홍 소대 - 제4차 대형 작전 기록",
+          "MX": "Registro del Equipo de Macro: Operación de vigilancia principal 4",
+          "RU": "Журнал команды Макро: крупная разведоперация 4",
+          "TC": "宏小隊-第四次大型作戰行動紀錄",
+          "TH": "บันทึก​ของ​ทีม​แมคโคร​: ปฏิบัติการ​เฝ้า​ระวัง​ครั้ง​ใหญ่​ 4",
+          "VN": "NK Đội Macro: Chiến Dịch Giám Sát Quy Mô Lớn 4"
+        },
+        "order": 201042202,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14030": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14030",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14030_1"
+        ],
+        "name": {
+          "BR": "Memo de Yinglung Rabiscado",
+          "CN": "潦草的应龙队员留言",
+          "DE": "Gekritzelte Yinglung-Notiz",
+          "EN": "Scribbled Yinglung Memo",
+          "FR": "Note griffonnée d'un membre des Yinglungs",
+          "ID": "Memo Yinglung yang Ditulis Tangan",
+          "IT": "Nota Yinglung abbozzata",
+          "JP": "乱雑に書かれた応龍隊員のメモ",
+          "KR": "휘갈겨 쓴 응룡 대원의 메시지",
+          "MX": "Nota garabateada de un Yinglung",
+          "RU": "Нацарапанная записка бойца «Инлуна»",
+          "TC": "潦草的應龍隊員留言",
+          "TH": "บันทึก​ห​ยิง​หลง​ที่​เขียน​ล​ว​กๆ",
+          "VN": "Ghi Chú Viết Vội Của Đội Đặc Nhiệm"
+        },
+        "order": 201040027,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14001": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14001",
+        "icon": "prts_read_pad",
+        "itemIds": [
+          "nar_digital_map02_14001_1",
+          "nar_digital_map02_14001_2",
+          "nar_digital_map02_14001_3"
+        ],
+        "name": {
+          "BR": "Notas: Discípulo Tianshi",
+          "CN": "天师学徒的笔记",
+          "DE": "Notizen: Tianshi-Schüler",
+          "EN": "Notes: Tianshi Disciple",
+          "FR": "Note : disciple Tianshi",
+          "ID": "Catatan: Murid Tianshi",
+          "IT": "Appunti: Discepolo/a Tianshi",
+          "JP": "見習い天師のメモ",
+          "KR": "천사 제자의 노트",
+          "MX": "Notas: Discípulo Tianshi",
+          "RU": "Заметки: последователь Тяньши",
+          "TC": "天師學徒的筆記",
+          "TH": "หมายเหตุ​: ศิษย์​เทียน​ซือ",
+          "VN": "Ghi Chú: Học Trò Thiên Sư"
+        },
+        "order": 201040002,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14002": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14002",
+        "icon": "prts_read_pad",
+        "itemIds": [
+          "nar_digital_map02_14002_1"
+        ],
+        "name": {
+          "BR": "Notas: Um Certo Discípulo Tianshi",
+          "CN": "某位天师学徒的笔记",
+          "DE": "Notizen: Ein gewisser Tianshi-Schüler",
+          "EN": "Notes: A Certain Tianshi Disciple",
+          "FR": "Note : un certain disciple Tianshi",
+          "ID": "Catatan: Seorang Murid Tianshi",
+          "IT": "Appunti: Un/a determinato/a discepolo/a Tianshi",
+          "JP": "ある見習い天師のメモ",
+          "KR": "어느 천사 제자의 노트",
+          "MX": "Notas: Cierto Discípulo Tianshi",
+          "RU": "Заметки: некий последователь Тяньши",
+          "TC": "某位天師學徒的筆記",
+          "TH": "บันทึก​: ศิษย์​เทียน​ซือ​คน​หนึ่ง",
+          "VN": "Ghi Chú: Một Học Trò Thiên Sư Nào Đó"
+        },
+        "order": 201040003,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14006": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14006",
+        "icon": "prts_read_pad",
+        "itemIds": [
+          "nar_digital_map02_14006_1"
+        ],
+        "name": {
+          "BR": "Conversa Informal: Yinglungs",
+          "CN": "应龙队员的闲谈",
+          "DE": "Geplauder: Yinglungs",
+          "EN": "Idle Chatter: Yinglungs",
+          "FR": "Bavardage : Yinglungs",
+          "ID": "Obrolan Tanpa Topik: Anggota Yinglung",
+          "IT": "Chiacchiere: Yinglung",
+          "JP": "応龍隊員の雑談",
+          "KR": "응룡 대원의 잡담",
+          "MX": "Charla casual: Yinglungs",
+          "RU": "Болтовня: бойцы «Инлуна»",
+          "TC": "應龍隊員的閒談",
+          "TH": "บทสนทนา​เรื่อยเปื่อย​: หน่วย​ห​ยิง​หลง",
+          "VN": "Chuyện Phiếm: Đội Đặc Nhiệm"
+        },
+        "order": 201040007,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14009": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14009",
+        "icon": "prts_read_pad",
+        "itemIds": [
+          "nar_digital_map02_14009_1"
+        ],
+        "name": {
+          "BR": "Log de Tarefas de Yinglung",
+          "CN": "应龙队员的执勤记录",
+          "DE": "Yinglung-Dienstprotokoll",
+          "EN": "Yinglung Duty Log",
+          "FR": "Journal de fonction Yinglung",
+          "ID": "Log Tugas Yinglung",
+          "IT": "Registro di lavoro di Yinglung",
+          "JP": "応龍隊員の勤務中の記録",
+          "KR": "응룡 대원의 근무 기록",
+          "MX": "Registro de deberes de Yinglung",
+          "RU": "Поручения «Инлуна»",
+          "TC": "應龍隊員的執勤紀錄",
+          "TH": "บันทึก​หน้าที่​ห​ยิง​หลง",
+          "VN": "Nhật Ký Nhiệm Vụ Yinglung"
+        },
+        "order": 201040001,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14011": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14011",
+        "icon": "prts_read_pad",
+        "itemIds": [
+          "nar_digital_map02_14011_1"
+        ],
+        "name": {
+          "BR": "Notas: Escritas por Alguém Misterioso",
+          "CN": "神秘人的笔记",
+          "DE": "Notizen: Von einer mysteriösen Person",
+          "EN": "Notes: Written by Someone Mysterious",
+          "FR": "Note rédigée par une personne inconnue",
+          "ID": "Catatan: Ditulis oleh Entah Siapa",
+          "IT": "Appunti: Scritti da anonimo",
+          "JP": "謎の人物のメモ",
+          "KR": "정체 모를 사람의 노트",
+          "MX": "Notas: Escritas por alguien misterioso",
+          "RU": "Заметки: таинственный автор",
+          "TC": "神秘人的筆記",
+          "TH": "หมายเหตุ​: เขียน​โดย​บุคคล​ลึกลับ",
+          "VN": "Ghi Chú: Do Một Người Bí Ẩn Viết"
+        },
+        "order": 201040011,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14016": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14016",
+        "icon": "prts_read_pad",
+        "itemIds": [
+          "nar_digital_map02_14016_1"
+        ],
+        "name": {
+          "BR": "Memo: Tianshi",
+          "CN": "天师的留言",
+          "DE": "Notiz: Tianshi",
+          "EN": "Memo: Tianshi",
+          "FR": "Mémo : Tianshi",
+          "ID": "Memo: Tianshi",
+          "IT": "Nota: Tianshi",
+          "JP": "天師のメッセージ",
+          "KR": "천사의 메시지",
+          "MX": "Nota: Tianshi",
+          "RU": "Записка: Тяньши",
+          "TC": "天師的留言",
+          "TH": "บันทึก​: เทียน​ซือ",
+          "VN": "Ghi Chú: Thiên Sư"
+        },
+        "order": 201040014,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "digital_map02_14024": {
+        "categoryId": "digital",
+        "firstLvId": "digital_map02_14024",
+        "icon": "prts_read_electronicscreen",
+        "itemIds": [
+          "nar_digital_map02_14024_1"
+        ],
+        "name": {
+          "BR": "Log de Comunicação: Um Sentimental",
+          "CN": "感慨者的通信",
+          "DE": "Kommunikationslog: Sentimentalität",
+          "EN": "Comm Log: A Sentimental One",
+          "FR": "Journal de communication : que d'émotions",
+          "ID": "Log Komunikasi: Orang yang Sentimental",
+          "IT": "Registro: Una questione sentimentale",
+          "JP": "感慨に浸る者の通信",
+          "KR": "감회에 젖은 이의 통신",
+          "MX": "Registro de comunicaciones: Mensaje sentimental",
+          "RU": "Сентиментальный журнал связи",
+          "TC": "感慨者的通訊",
+          "TH": "บันทึก​การสื่อสาร​: ฉบับ​ชวน​ซึ้ง",
+          "VN": "Nhật Ký Liên Lạc: Người Đa Cảm"
+        },
+        "order": 201040021,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14013": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14013",
+        "icon": "prts_read_note",
+        "itemIds": [
+          "nar_paper_map02_14013_1",
+          "nar_paper_map02_14013_2"
+        ],
+        "name": {
+          "BR": "Notas: Trabalhador Técnico",
+          "CN": "技术职工的笔记",
+          "DE": "Notizen: Technischer Arbeiter",
+          "EN": "Notes: Technical Laborer",
+          "FR": "Note : technicien",
+          "ID": "Catatan: Pekerja Teknis",
+          "IT": "Appunti: Operaio tecnico",
+          "JP": "技術スタッフのメモ",
+          "KR": "기술직 직원의 노트",
+          "MX": "Notas: Técnico obrero",
+          "RU": "Заметки: техник",
+          "TC": "技術職工的筆記",
+          "TH": "บันทึก​: แรงงาน​เทคนิค",
+          "VN": "Ghi Chú: Kỹ Thuật Viên"
+        },
+        "order": 201040012,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14007": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14007",
+        "icon": "prts_read_note",
+        "itemIds": [
+          "nar_paper_map02_14007_1"
+        ],
+        "name": {
+          "BR": "Log de Observação de Yinglung",
+          "CN": "应龙队员的望远记录",
+          "DE": "Yinglung-Überwachungs-Logbuch",
+          "EN": "Yinglung Observation Log",
+          "FR": "Journal d'observation Yinglung",
+          "ID": "Log Pengamatan Yinglung",
+          "IT": "Registro di osservazione di Yinglung",
+          "JP": "応龍隊員の遠望記録",
+          "KR": "응룡 대원의 망원 기록",
+          "MX": "Registro de observación Yinglung",
+          "RU": "Журнал наблюдений группы «Инлун»",
+          "TC": "應龍隊員的望遠紀錄",
+          "TH": "บันทึก​การ​สังเกตการณ์​หน่วย​ห​ยิง​หลง",
+          "VN": "Nhật Ký Quan Sát Yinglung"
+        },
+        "order": 201040009,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_10": {
+        "categoryId": "paper",
+        "firstLvId": "document_v1d4_10",
+        "icon": "prts_read_appliance",
+        "itemIds": [
+          "nar_document_v1d4_10_1"
+        ],
+        "name": {
+          "BR": "Log de Áudio: Danificado",
+          "CN": "受损的录音文件",
+          "DE": "Audio-Logbuch: Beschädigt",
+          "EN": "Audio Log: Damaged",
+          "FR": "Journal audio corrompu",
+          "ID": "Log Audio: Rusak",
+          "IT": "Registrazione audio danneggiata",
+          "JP": "破損した録音ファイル",
+          "KR": "손상된 녹음 파일",
+          "MX": "Registro de audio: Dañado",
+          "RU": "Аудиофайлы: повреждено",
+          "TC": "受損的錄音檔案",
+          "TH": "บันทึกเสียง​: เสียหาย",
+          "VN": "Nhật Ký Âm Thanh: Bị Hư Hại"
+        },
+        "order": 201042206,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_11": {
+        "categoryId": "paper",
+        "firstLvId": "document_v1d4_11",
+        "icon": "prts_c13m3_letter",
+        "itemIds": [
+          "nar_document_v1d4_11_1"
+        ],
+        "name": {
+          "BR": "Carta: Parece um Testamento",
+          "CN": "像是遗书的信件",
+          "DE": "Brief: Anscheinend ein Testament",
+          "EN": "Letter: Looks Like a Will",
+          "FR": "Lettre : semblant de testament",
+          "ID": "Surat: Seperti Wasiat",
+          "IT": "Lettera simile a un testamento",
+          "JP": "遺書のような手紙",
+          "KR": "유서로 보이는 편지",
+          "MX": "Carta: Parece un testamento",
+          "RU": "Письмо: похоже на завещание",
+          "TC": "像是遺書的信件",
+          "TH": "จดหมาย​: ดูเหมือน​พินัยกรรม",
+          "VN": "Bức Thư: Như Một Bức Di Thư"
+        },
+        "order": 201042207,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_2": {
+        "categoryId": "document",
+        "firstLvId": "document_v1d4_2",
+        "icon": "prts_centralAchive_new",
+        "itemIds": [
+          "nar_document_v1d4_2_1"
+        ],
+        "name": {
+          "BR": "Passagem de Yinglung",
+          "CN": "应龙关",
+          "DE": "Yinglung-Pass",
+          "EN": "Yinglung Pass",
+          "FR": "Col de Yinglung",
+          "ID": "Terusan Yinglung",
+          "IT": "Valico di Yinglung",
+          "JP": "応龍関",
+          "KR": "응룡 관문",
+          "MX": "Paso de Yinglung",
+          "RU": "Застава «Инлуна»",
+          "TC": "應龍關",
+          "TH": "ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Đèo Yinglung"
+        },
+        "order": 1040002,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_3": {
+        "categoryId": "document",
+        "firstLvId": "document_v1d4_3",
+        "icon": "prts_centralAchive_others",
+        "itemIds": [
+          "nar_document_v1d4_3_1"
+        ],
+        "name": {
+          "BR": "Sombras da Praga",
+          "CN": "蚀影",
+          "DE": "Verderbnisschatten",
+          "EN": "Blightshades",
+          "FR": "Les Gangrénombres",
+          "ID": "Bayang-bayang Hawar",
+          "IT": "Ombre contaminanti",
+          "JP": "蝕影",
+          "KR": "침식의 그림자",
+          "MX": "Sombras contaminadas",
+          "RU": "Моротени",
+          "TC": "蝕影",
+          "TH": "เงา​เสื่อมโทรม",
+          "VN": "Bóng Nhiễm Khuẩn"
+        },
+        "order": 1040003,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_4": {
+        "categoryId": "document",
+        "firstLvId": "document_v1d4_4",
+        "icon": "prts_centralAchive_basic",
+        "itemIds": [
+          "nar_document_v1d4_4_1"
+        ],
+        "name": {
+          "BR": "A Fundação",
+          "CN": "基石",
+          "DE": "Die Stiftung",
+          "EN": "The Foundation",
+          "FR": "La Fondation",
+          "ID": "Fondasi",
+          "IT": "I Fondatori",
+          "JP": "礎石",
+          "KR": "파운데이션",
+          "MX": "La Fundación",
+          "RU": "«Основа»",
+          "TC": "基石",
+          "TH": "เดอะ​ ฟาวน์​เด​ชัน",
+          "VN": "Nền Tảng"
+        },
+        "order": 1040004,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_6": {
+        "categoryId": "paper",
+        "firstLvId": "document_v1d4_6",
+        "icon": "prts_read_file",
+        "itemIds": [
+          "nar_document_v1d4_6_1"
+        ],
+        "name": {
+          "BR": "Log da Equipe Amber: Megaoperação de Vigilância 4",
+          "CN": "琥小队-第四次大型作战行动记录",
+          "DE": "Logbuch von Team Amber: Große Aufklärungsmission 4",
+          "EN": "Log of Amber Team: Major Surveillance Op 4",
+          "FR": "Journal de l'équipe d'Amber : grande opération de surveillance n° 4",
+          "ID": "Log Tim Amber: Operasi Pengawasan Besar 4",
+          "IT": "Registro della Squadra Amber: Operazione di sorveglianza su vasta scala 4",
+          "JP": "トラ小隊-第4次大規模作戦行動記録",
+          "KR": "호 소대 - 제4차 대형 작전 기록",
+          "MX": "Registro del Equipo de Amber: Operación de vigilancia principal 4",
+          "RU": "Журнал команды Янтарной: крупная разведоперация 4",
+          "TC": "琥小隊-第四次大型作戰行動紀錄",
+          "TH": "บันทึก​ของ​ทีม​แอม​เบอร์​: ปฏิบัติการ​เฝ้า​ระวัง​ครั้ง​ใหญ่​ 4",
+          "VN": "NK Đội Amber: Chiến Dịch Giám Sát Quy Mô Lớn 4"
+        },
+        "order": 201042201,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_7": {
+        "categoryId": "paper",
+        "firstLvId": "document_v1d4_7",
+        "icon": "prts_read_letter",
+        "itemIds": [
+          "nar_document_v1d4_7_1"
+        ],
+        "name": {
+          "BR": "Carta: Para a Família",
+          "CN": "给家人的信",
+          "DE": "Brief: An die Familie",
+          "EN": "Letter: For the Family",
+          "FR": "Lettre à ma famille",
+          "ID": "Surat: Untuk Keluarga",
+          "IT": "Lettera alla famiglia",
+          "JP": "家族への手紙",
+          "KR": "가족에게 보내는 편지",
+          "MX": "Carta: Para la familia",
+          "RU": "Письмо: для семьи",
+          "TC": "給家人的信",
+          "TH": "จดหมาย​: เพื่อ​ครอบครัว",
+          "VN": "Thư: Gửi Gia Đình"
+        },
+        "order": 201042203,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_8": {
+        "categoryId": "paper",
+        "firstLvId": "document_v1d4_8",
+        "icon": "prts_centralAchive_others",
+        "itemIds": [
+          "nar_document_v1d4_8_1"
+        ],
+        "name": {
+          "BR": "Log de Dados: Coordenadas do Pilar de Yinglung",
+          "CN": "应龙桩布设坐标记录",
+          "DE": "Datenspeicher: Koordinaten der Yinglung-Säulen",
+          "EN": "Data Log: Yinglung Pillar Coordinates",
+          "FR": "Journal de données : coordonnées du pilier des Yinglungs",
+          "ID": "Log Data: Koordinat Pilar Yinglung",
+          "IT": "Registro dati: Coordinate della colonna Yinglung",
+          "JP": "応龍杭設置座標記録",
+          "KR": "응룡장 배치 좌표 기록",
+          "MX": "Registro de datos: Coordenadas de los Pilares de Yinglung",
+          "RU": "Журнал данных: координаты столба «Инлуна»",
+          "TC": "應龍樁設置座標紀錄",
+          "TH": "บันทึก​ข้อมูล​: พิกัด​เสา​ห​ยิง​หลง",
+          "VN": "Nhật Ký Dữ Liệu: Tọa Độ Cột Đặc Nhiệm"
+        },
+        "order": 201042204,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "document_v1d4_9": {
+        "categoryId": "paper",
+        "firstLvId": "document_v1d4_9",
+        "icon": "prts_read_appliance",
+        "itemIds": [
+          "nar_document_v1d4_9_1"
+        ],
+        "name": {
+          "BR": "Log de Comunicação",
+          "CN": "通话记录",
+          "DE": "Kommunikationslog",
+          "EN": "Communication Log",
+          "FR": "Journal de communication",
+          "ID": "Log Komunikasi",
+          "IT": "Registro delle comunicazioni",
+          "JP": "通話履歴",
+          "KR": "통화 기록",
+          "MX": "Registro de comunicación",
+          "RU": "Журнал связи",
+          "TC": "通話紀錄",
+          "TH": "บันทึก​การสื่อสาร",
+          "VN": "Nhật Ký Liên Lạc"
+        },
+        "order": 201042205,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "media_map02_14008": {
+        "categoryId": "media",
+        "firstLvId": "media_map02_14008",
+        "icon": "prts_listen_record",
+        "itemIds": [
+          "nar_media_map02_14008_1"
+        ],
+        "name": {
+          "BR": "Conversa Informal: Yinglungs",
+          "CN": "应龙队员们的闲聊",
+          "DE": "Geplauder: Yinglungs",
+          "EN": "Idle Chatter: Yinglungs",
+          "FR": "Bavardage : Yinglungs",
+          "ID": "Obrolan Tanpa Topik: Anggota Yinglung",
+          "IT": "Chiacchiere: Yinglung",
+          "JP": "応龍隊員たちの雑談",
+          "KR": "응룡 대원들의 잡담",
+          "MX": "Charla casual: Yinglungs",
+          "RU": "Болтовня: бойцы «Инлуна»",
+          "TC": "應龍隊員們的閒聊",
+          "TH": "บทสนทนา​เรื่อยเปื่อย​: หน่วย​ห​ยิง​หลง",
+          "VN": "Chuyện Phiếm: Đội Đặc Nhiệm"
+        },
+        "order": 201040010,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "media_map02_14032": {
+        "categoryId": "media",
+        "firstLvId": "media_map02_14032",
+        "icon": "prts_listen_record",
+        "itemIds": [
+          "nar_media_map02_14032_1"
+        ],
+        "name": {
+          "BR": "Memo: Um Yinglung que Não Resistiu",
+          "CN": "牺牲应龙的留声",
+          "DE": "Notiz: Ein Yinglung, der fiel",
+          "EN": "Memo: An Yinglung Who Fell",
+          "FR": "Note d'un membre des Yinglungs tombé au combat",
+          "ID": "Memo: Seorang Yinglung yang Gugur",
+          "IT": "Nota: Un Yinglung caduto",
+          "JP": "犠牲になった応龍隊員のメモ",
+          "KR": "전사한 응룡 대원이 남긴 음성",
+          "MX": "Nota: Un Yinglung caído",
+          "RU": "Записка: павший боец «Инлуна»",
+          "TC": "犧牲應龍的留聲",
+          "TH": "บันทึก​: ห​ยิง​หลง​ผู้​ล้ม​ลง",
+          "VN": "Ghi Chú: Một Đội Đặc Nhiệm Đã Ngã Xuống"
+        },
+        "order": 201040029,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14031": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14031",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14031_1"
+        ],
+        "name": {
+          "BR": "Memo de Yinglung Ensanguentado",
+          "CN": "染血的应龙队员留言",
+          "DE": "Blutige Yinglung-Notiz",
+          "EN": "Bloodied Yinglung Memo",
+          "FR": "Note ensanglantée d'un membre des Yinglungs",
+          "ID": "Memo Yinglung yang Bernoda Darah",
+          "IT": "Nota Yinglung insanguinata",
+          "JP": "血に染まった応龍隊員のメモ",
+          "KR": "피로 물든 응룡 대원의 메시지",
+          "MX": "Nota ensangrentada de un Yinglung",
+          "RU": "Окровавленная записка бойца «Инлуна»",
+          "TC": "染血的應龍隊員留言",
+          "TH": "บันทึก​ห​ยิง​หลง​เปื้อน​เลือด",
+          "VN": "Ghi Chú Vấy Máu Của Đội Đặc Nhiệm"
+        },
+        "order": 201040028,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14014": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14014",
+        "icon": "prts_read_note",
+        "itemIds": [
+          "nar_paper_map02_14014_1"
+        ],
+        "name": {
+          "BR": "Notas: Tumu Tianshi",
+          "CN": "土木天师的记录",
+          "DE": "Notizen: Tumu Tianshi",
+          "EN": "Notes: Tumu Tianshi",
+          "FR": "Note : Tumu Tianshi",
+          "ID": "Catatan: Tianshi Tumu",
+          "IT": "Appunti: Tumu Tianshi",
+          "JP": "土木天師の記録",
+          "KR": "토목 천사의 기록",
+          "MX": "Notas: Tumu Tianshi",
+          "RU": "Заметки: инженер Тяньши",
+          "TC": "土木天師的紀錄",
+          "TH": "บันทึก​: ทู​มู่​ เทียน​ซือ",
+          "VN": "Ghi Chú: Thợ Mộc Thiên Sư"
+        },
+        "order": 201040013,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14027": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14027",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14027_1"
+        ],
+        "name": {
+          "BR": "Memo: Uma Pessoa Perdida",
+          "CN": "茫然者的留言",
+          "DE": "Notiz: Eine verlorene Person",
+          "EN": "Memo: A Lost Person",
+          "FR": "Note d'une personne perdue",
+          "ID": "Memo: Orang Hilang",
+          "IT": "Nota: Una persona dispersa",
+          "JP": "茫然とする者のメッセージ",
+          "KR": "망연하는 자가 남긴 메시지",
+          "MX": "Nota: Una persona perdida",
+          "RU": "Записка: потерявшийся",
+          "TC": "茫然者的留言",
+          "TH": "บันทึก​: คน​หลงทาง",
+          "VN": "Ghi Chép: Một Kẻ Lạc Lối"
+        },
+        "order": 201040024,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14026": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14026",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14026_1"
+        ],
+        "name": {
+          "BR": "Últimas Palavras: Um Sobrevivente",
+          "CN": "幸存者的绝笔",
+          "DE": "Letzte Worte: Ein Überlebender",
+          "EN": "Last Words: A Survivor",
+          "FR": "Derniers mots d'un survivant",
+          "ID": "Kata-kata Terakhir: Seorang Penyintas",
+          "IT": "Ultime parole: Un sopravvissuto",
+          "JP": "生存者の最後の手記",
+          "KR": "생존자의 절필",
+          "MX": "Últimas palabras: Un sobreviviente",
+          "RU": "Последние слова выжившего",
+          "TC": "倖存者的絕筆",
+          "TH": "คำสั่ง​เสีย​สุดท้าย​: ผู้รอดชีวิต​คน​หนึ่ง",
+          "VN": "Di Ngôn: Một Người Sống Sót"
+        },
+        "order": 201040023,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14021": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14021",
+        "icon": "prts_read_expensivebook",
+        "itemIds": [
+          "nar_paper_map02_14021_1"
+        ],
+        "name": {
+          "BR": "Antologia de Armas",
+          "CN": "武器名录",
+          "DE": "Waffen-Anthologie",
+          "EN": "Weapon Anthology",
+          "FR": "Recueil d'armes",
+          "ID": "Antologi Senjata",
+          "IT": "Compendio delle armi",
+          "JP": "武器名録",
+          "KR": "무기 명부",
+          "MX": "Antología de armas",
+          "RU": "Антология оружия",
+          "TC": "武器名錄",
+          "TH": "บันทึก​รวม​อาวุธ",
+          "VN": "Binh Khí Lục"
+        },
+        "order": 201040019,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14003": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14003",
+        "icon": "prts_read_note",
+        "itemIds": [
+          "nar_paper_map02_14003_1"
+        ],
+        "name": {
+          "BR": "Memo: Um Yinglung",
+          "CN": "应龙队员的备忘录",
+          "DE": "Notiz: Ein Yinglung",
+          "EN": "Memo: An Yinglung",
+          "FR": "Mémo : Yinglung",
+          "ID": "Memo: Anggota Yinglung",
+          "IT": "Nota: Uno/a Yinglung",
+          "JP": "応龍隊員のメモ帳",
+          "KR": "응룡 대원의 비망록",
+          "MX": "Nota: Un Yinglung",
+          "RU": "Записка: боец «Инлуна»",
+          "TC": "應龍隊員的備忘錄",
+          "TH": "บันทึก​: หน่วย​ห​ยิง​หลง",
+          "VN": "Ghi Chú: Một Đặc Nhiệm Yinglung"
+        },
+        "order": 201040004,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14004": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14004",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14004_1"
+        ],
+        "name": {
+          "BR": "Log de Operações: Equipe da FTEY",
+          "CN": "应龙特勤队的行动记录",
+          "DE": "Einsatz-Logbuch: YSE-Team",
+          "EN": "Operation Log: YSTF Team",
+          "FR": "Journal d'opération : équipe des FSY",
+          "ID": "Log Operasi: Tim Satgassus Yinglung",
+          "IT": "Registro operazione: Squadra STEY",
+          "JP": "応龍特殊部隊の行動記録",
+          "KR": "응룡 특수부대 작전 기록",
+          "MX": "Registro de operación: Equipo del EFEY",
+          "RU": "Журнал операций: отряд спецопергруппы «Инлун»",
+          "TC": "應龍特勤隊的行動紀錄",
+          "TH": "บันทึก​ปฏิบัติการ​: ทีม​ YSTF",
+          "VN": "Nhật Ký Tác Chiến: Đội ĐĐNY"
+        },
+        "order": 201040005,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14005": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14005",
+        "icon": "prts_read_note",
+        "itemIds": [
+          "nar_paper_map02_14005_1"
+        ],
+        "name": {
+          "BR": "Notas: Um Yinglung",
+          "CN": "应龙队员的笔记",
+          "DE": "Notizen: Ein Yinglung",
+          "EN": "Notes: An Yinglung",
+          "FR": "Note : Yinglung",
+          "ID": "Catatan: Anggota Yinglung",
+          "IT": "Appunti: Uno Yinglung",
+          "JP": "応龍隊員のメモ",
+          "KR": "응룡 대원의 노트",
+          "MX": "Notas: Un Yinglung",
+          "RU": "Заметки: боец «Инлуна»",
+          "TC": "應龍隊員的筆記",
+          "TH": "บันทึก​: หน่วย​ห​ยิง​หลง",
+          "VN": "Ghi Chú: Một Đặc Nhiệm"
+        },
+        "order": 201040006,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14017": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14017",
+        "icon": "prts_read_expensivebook",
+        "itemIds": [
+          "nar_paper_map02_14017_1"
+        ],
+        "name": {
+          "BR": "Revista de Entretenimento Antiga",
+          "CN": "陈旧的娱乐杂志",
+          "DE": "Altes Unterhaltungsmagazin",
+          "EN": "Old Entertainment Magazine",
+          "FR": "Vieux magazine de divertissement",
+          "ID": "Majalah Hiburan Tua",
+          "IT": "Vecchia rivista d'intrattenimento",
+          "JP": "古びた娯楽雑誌",
+          "KR": "오래된 오락 잡지",
+          "MX": "Revista de entretenimiento antigua",
+          "RU": "Старый развлекательный журнал",
+          "TC": "陳舊的娛樂雜誌",
+          "TH": "นิตยสาร​บันเทิง​เก่า",
+          "VN": "Tạp Chí Giải Trí Cũ"
+        },
+        "order": 201040015,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14018": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14018",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14018_1"
+        ],
+        "name": {
+          "BR": "Memo Antigo: Manchado e Sujo",
+          "CN": "脏污的旧留言",
+          "DE": "Alte Notiz: Befleckt und schmutzig",
+          "EN": "Old Memo: Stained and Dirty",
+          "FR": "Vieux mémo taché et sale",
+          "ID": "Memo Lama: Bernoda dan Kotor",
+          "IT": "Vecchia nota: Sporca e macchiata",
+          "JP": "汚れた古いメッセージ",
+          "KR": "때 묻은 오래된 메시지",
+          "MX": "Memorándum antiguo: Manchado y sucio",
+          "RU": "Старая грязная записка",
+          "TC": "髒汙的舊留言",
+          "TH": "บันทึก​เก่า​: เปื้อน​และ​สกปรก",
+          "VN": "Bản Ghi Chú Cũ: Vấy Bẩn và Lấm Lem"
+        },
+        "order": 201040016,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14023": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14023",
+        "icon": "prts_read_note",
+        "itemIds": [
+          "nar_paper_map02_14023_1"
+        ],
+        "name": {
+          "BR": "Memo: Para a Posteridade",
+          "CN": "予后来者书",
+          "DE": "Notiz: An die Nachwelt",
+          "EN": "Memo: For Posterity",
+          "FR": "Note pour la postérité",
+          "ID": "Memo: Untuk Generasi Mendatang",
+          "IT": "Nota: Ai posteri",
+          "JP": "後から来る者へ遺す書",
+          "KR": "후발자에게 남기는 글",
+          "MX": "Nota: A la posteridad",
+          "RU": "Записка для потомков",
+          "TC": "予後來者書",
+          "TH": "บันทึก​: เพื่อ​ชน​รุ่นหลัง",
+          "VN": "Ghi Chú: Lưu Cho Hậu Thế"
+        },
+        "order": 201040020,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14025": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14025",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14025_1",
+          "nar_paper_map02_14025_2",
+          "nar_paper_map02_14025_3"
+        ],
+        "name": {
+          "BR": "Log: Operação de Recuperação",
+          "CN": "回收整理备忘",
+          "DE": "Log: Bergungseinsatz",
+          "EN": "Log: Salvaging Op",
+          "FR": "Journal : opération de récupération",
+          "ID": "Log: Operasi Penyelamatan",
+          "IT": "Registro: Operazione di recupero",
+          "JP": "回収と整理に関するメモ",
+          "KR": "회수 정리 메모",
+          "MX": "Registro: Operación de recuperación",
+          "RU": "Журнал: операция по сбору вещей",
+          "TC": "回收整理備忘",
+          "TH": "บันทึก​: ปฏิบัติการ​เก็บ​กู้",
+          "VN": "Nhật Ký: Hoạt Động Thu Hồi"
+        },
+        "order": 201040022,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14028": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14028",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14028_1"
+        ],
+        "name": {
+          "BR": "Memo: Uma Pessoa Teimosa",
+          "CN": "固执者的留言",
+          "DE": "Notiz: Eine störrische Person",
+          "EN": "Memo: A Stubborn Person",
+          "FR": "Note d'une personne bornée",
+          "ID": "Memo: Orang yang Keras Kepala",
+          "IT": "Nota: Una persona testarda",
+          "JP": "頑固な者のメッセージ",
+          "KR": "고집스러운 자가 남긴 메시지",
+          "MX": "Nota: Una persona obstinada",
+          "RU": "Записка: стоик",
+          "TC": "固執者的留言",
+          "TH": "บันทึก​: คน​หัวดื้อ",
+          "VN": "Ghi Chú: Một Kẻ Cứng Đầu"
+        },
+        "order": 201040025,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "paper_map02_14029": {
+        "categoryId": "paper",
+        "firstLvId": "paper_map02_14029",
+        "icon": "prts_read_notebook",
+        "itemIds": [
+          "nar_paper_map02_14029_1"
+        ],
+        "name": {
+          "BR": "Lista Antiga",
+          "CN": "陈旧的清单",
+          "DE": "Alte Liste",
+          "EN": "Old List",
+          "FR": "Vieille liste",
+          "ID": "Daftar Lama",
+          "IT": "Vecchia lista",
+          "JP": "古びたリスト",
+          "KR": "낡은 목록",
+          "MX": "Lista antigua",
+          "RU": "Старый список",
+          "TC": "陳舊的清單",
+          "TH": "รายการ​เก่า",
+          "VN": "Danh Sách Cũ"
+        },
+        "order": 201040026,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "report_map02_research7_12": {
+        "categoryId": "report",
+        "firstLvId": "report_map02_research7_12",
+        "icon": "prts_centralAchive_basic",
+        "itemIds": [
+          "nar_report_map02_research7_12_1"
+        ],
+        "name": {
+          "BR": "Resumo das Descobertas: Caixas de Guerra de Yinglung",
+          "CN": "应龙战匣相关线索汇总",
+          "DE": "Zusammenfassender Bericht: Yinglung-Kriegshüllen",
+          "EN": "Summary of Findings: Yinglung War Cases",
+          "FR": "Résumé des conclusions : mallettes de guerre des Yinglungs",
+          "ID": "Ringkasan Temuan: Kotak Perang Yinglung",
+          "IT": "Rapporto sui ritrovamenti: casse belliche Yinglung",
+          "JP": "応龍の箱関連の手がかり",
+          "KR": "응룡 전갑 관련 단서 종합",
+          "MX": "Resumen de hallazgos: Estuches de guerra de Yinglung",
+          "RU": "Краткое описание находок: военные ящики «Инлуна»",
+          "TC": "應龍戰匣相關線索匯總",
+          "TH": "สรุปผล​การ​ค้นพบ​: หีบ​สงคราม​ห​ยิง​หลง",
+          "VN": "Tóm Tắt KQĐT: Hộp Hồ Sơ Chiến Tranh Yinglung"
+        },
+        "order": 201042208,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "report_map02_research9_1": {
+        "categoryId": "report",
+        "firstLvId": "report_map02_research9_1",
+        "icon": "prts_read_document",
+        "itemIds": [
+          "nar_report_map02_research9_1_1"
+        ],
+        "name": {
+          "BR": "RI: Passagem de Yinglung",
+          "CN": "关于应龙关的调查报告",
+          "DE": "UB: Yinglung-Pass",
+          "EN": "IR: Yinglung Pass",
+          "FR": "Rapport d'enquête sur le col de Yinglung",
+          "ID": "LP: Terusan Yinglung",
+          "IT": "RI: Valico di Yinglung",
+          "JP": "応龍関に関する調査報告",
+          "KR": "응룡 관문에 관한 조사 보고서",
+          "MX": "I.I.: Paso de Yinglung",
+          "RU": "Отчет: застава «Инлуна»",
+          "TC": "關於應龍關的調查報告",
+          "TH": "IR: ทางผ่าน​ห​ยิง​หลง",
+          "VN": "Báo Cáo Điều Tra: Đèo Yinglung"
+        },
+        "order": 201042601,
+        "subName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "document_v0d8_23": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_23",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_23_1"
+          ],
+          "name": {
+            "BR": "Wuling",
+            "CN": "武陵地区",
+            "DE": "Wuling",
+            "EN": "Wuling",
+            "FR": "Wuling",
+            "ID": "Wuling",
+            "IT": "Wuling",
+            "JP": "武陵地域",
+            "KR": "무릉 지역",
+            "MX": "Wuling",
+            "RU": "Улин",
+            "TC": "武陵地區",
+            "TH": "อู่​หลิง",
+            "VN": "Võ Lăng"
+          },
+          "order": 80021,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_23",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_23_1"
+          ],
+          "name": {
+            "BR": "Wuling",
+            "CN": "武陵地区",
+            "DE": "Wuling",
+            "EN": "Wuling",
+            "FR": "Wuling",
+            "ID": "Wuling",
+            "IT": "Wuling",
+            "JP": "武陵地域",
+            "KR": "무릉 지역",
+            "MX": "Wuling",
+            "RU": "Улин",
+            "TC": "武陵地區",
+            "TH": "อู่​หลิง",
+            "VN": "Võ Lăng"
+          },
+          "order": 80021,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_26": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_26",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_26_1"
+          ],
+          "name": {
+            "BR": "Endfield Industries",
+            "CN": "终末地工业",
+            "DE": "Endfield Industries",
+            "EN": "Endfield Industries",
+            "FR": "Industries Endfield",
+            "ID": "Endfield Industries",
+            "IT": "Endfield Industries",
+            "JP": "エンドフィールド工業",
+            "KR": "엔드필드 공업",
+            "MX": "Endfield Industries",
+            "RU": "Компания Endfield",
+            "TC": "終末地工業",
+            "TH": "Endfield อิน​ดัส​ทรี​ส์",
+            "VN": "Tập Đoàn Endfield"
+          },
+          "order": 80024,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_26",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_26_1"
+          ],
+          "name": {
+            "BR": "Endfield Industries",
+            "CN": "终末地工业",
+            "DE": "Endfield Industries",
+            "EN": "Endfield Industries",
+            "FR": "Industries Endfield",
+            "ID": "Endfield Industries",
+            "IT": "Endfield Industries",
+            "JP": "エンドフィールド工業",
+            "KR": "엔드필드 공업",
+            "MX": "Endfield Industries",
+            "RU": "Компания Endfield",
+            "TC": "終末地工業",
+            "TH": "Endfield อิน​ดัส​ทรี​ส์",
+            "VN": "Tập Đoàn Endfield"
+          },
+          "order": 80024,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_30": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_30",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_30_1"
+          ],
+          "name": {
+            "BR": "Dijiang",
+            "CN": "帝江号",
+            "DE": "Dijiang",
+            "EN": "Dijiang",
+            "FR": "Dijiang",
+            "ID": "Dijiang",
+            "IT": "Dijiang",
+            "JP": "帝江号",
+            "KR": "제강호",
+            "MX": "Dijiang",
+            "RU": "Дицзян",
+            "TC": "帝江號",
+            "TH": "ตี้​เจียง",
+            "VN": "Dijiang"
+          },
+          "order": 80028,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_30",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_30_1"
+          ],
+          "name": {
+            "BR": "Dijiang",
+            "CN": "帝江号",
+            "DE": "Dijiang",
+            "EN": "Dijiang",
+            "FR": "Dijiang",
+            "ID": "Dijiang",
+            "IT": "Dijiang",
+            "JP": "帝江号",
+            "KR": "제강호",
+            "MX": "Dijiang",
+            "RU": "Дицзян",
+            "TC": "帝江號",
+            "TH": "ตี้​เจียง",
+            "VN": "Dijiang"
+          },
+          "order": 80028,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_1": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_1",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_1_1"
+          ],
+          "name": {
+            "BR": "Força-Tarefa Especial de Yinglung",
+            "CN": "应龙特勤队",
+            "DE": "Yinglung-Sondereinheit",
+            "EN": "Yinglung Special Task Force",
+            "FR": "Forces spéciales de Yinglung",
+            "ID": "Satuan Tugas Khusus Yinglung",
+            "IT": "Squadra tattica d'élite di Yinglung",
+            "JP": "応龍特殊部隊",
+            "KR": "응룡 특수부대",
+            "MX": "Equipo de Fuerzas Especiales de Yinglung",
+            "RU": "Специальная оперативная группа «Инлун»",
+            "TC": "應龍特勤隊",
+            "TH": "หน่วย​ปฏิบัติการ​พิเศษ​ห​ยิง​หลง",
+            "VN": "Đội Đặc Nhiệm Yinglung"
+          },
+          "order": 1020001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_1",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_1_1"
+          ],
+          "name": {
+            "BR": "Força-Tarefa Especial de Yinglung",
+            "CN": "应龙特勤队",
+            "DE": "Yinglung-Sondereinheit",
+            "EN": "Yinglung Special Task Force",
+            "FR": "Forces spéciales de Yinglung",
+            "ID": "Satuan Tugas Khusus Yinglung",
+            "IT": "Squadra tattica d'élite di Yinglung",
+            "JP": "応龍特殊部隊",
+            "KR": "응룡 특수부대",
+            "MX": "Equipo de Fuerzas Especiales de Yinglung",
+            "RU": "Специальная оперативная группа «Инлун»",
+            "TC": "應龍特勤隊",
+            "TH": "หน่วย​ปฏิบัติการ​พิเศษ​ห​ยิง​หลง",
+            "VN": "Đội Đặc Nhiệm Yinglung"
+          },
+          "order": 1020001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "collection_sm1l5m4_1": {
+        "oldValue": {
+          "categoryId": "collection",
+          "firstLvId": "collection_sm1l5m4_1",
+          "icon": "prts_sm1l5m4_snack",
+          "itemIds": [],
+          "name": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "order": 116,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "collection",
+          "firstLvId": "collection_sm1l5m4_1",
+          "icon": "prts_sm1l5m4_snack",
+          "itemIds": [],
+          "name": {
+            "BR": "",
+            "CN": "桂花糕",
+            "DE": "",
+            "EN": "Osmanthus Cake",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "金木犀ケーキ",
+            "KR": "계화떡",
+            "MX": "",
+            "RU": "",
+            "TC": "桂花糕",
+            "TH": "",
+            "VN": ""
+          },
+          "order": 116,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "name": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "",
+                "newText": ""
+              },
+              "CN": {
+                "oldText": "",
+                "newText": "桂花糕"
+              },
+              "DE": {
+                "oldText": "",
+                "newText": ""
+              },
+              "EN": {
+                "oldText": "",
+                "newText": "Osmanthus Cake"
+              },
+              "FR": {
+                "oldText": "",
+                "newText": ""
+              },
+              "ID": {
+                "oldText": "",
+                "newText": ""
+              },
+              "IT": {
+                "oldText": "",
+                "newText": ""
+              },
+              "JP": {
+                "oldText": "",
+                "newText": "金木犀ケーキ"
+              },
+              "KR": {
+                "oldText": "",
+                "newText": "계화떡"
+              },
+              "MX": {
+                "oldText": "",
+                "newText": ""
+              },
+              "RU": {
+                "oldText": "",
+                "newText": ""
+              },
+              "TC": {
+                "oldText": "",
+                "newText": "桂花糕"
+              },
+              "TH": {
+                "oldText": "",
+                "newText": ""
+              },
+              "VN": {
+                "oldText": "",
+                "newText": ""
+              }
+            }
+          }
+        }
+      },
+      "document_v1d2_6": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_6",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_6_1"
+          ],
+          "name": {
+            "BR": "Yan",
+            "CN": "炎国",
+            "DE": "Yan",
+            "EN": "Yan",
+            "FR": "Yan",
+            "ID": "Yan",
+            "IT": "Yan",
+            "JP": "炎国",
+            "KR": "염국",
+            "MX": "Yan",
+            "RU": "Йен",
+            "TC": "炎國",
+            "TH": "หยา​น",
+            "VN": "Viêm Quốc"
+          },
+          "order": 1020006,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_6",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_6_1"
+          ],
+          "name": {
+            "BR": "Yan",
+            "CN": "炎国",
+            "DE": "Yan",
+            "EN": "Yan",
+            "FR": "Yan",
+            "ID": "Yan",
+            "IT": "Yan",
+            "JP": "炎国",
+            "KR": "염국",
+            "MX": "Yan",
+            "RU": "Йен",
+            "TC": "炎國",
+            "TH": "หยา​น",
+            "VN": "Viêm Quốc"
+          },
+          "order": 1020006,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_21": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_21",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_21_1"
+          ],
+          "name": {
+            "BR": "Fenda Gigante de Wuling (FG de Wuling)",
+            "CN": "武陵甚大裂隙",
+            "DE": "Riesiger Wuling-Riss (RWR)",
+            "EN": "Wuling Very Large Rift (Wuling VLR)",
+            "FR": "Faille immense de Wuling (FI de Wuling)",
+            "ID": "Celah Raksasa Wuling (CR Wuling)",
+            "IT": "Vasta spaccatura di Wuling (VS di Wuling)",
+            "JP": "武陵の巨大な裂け目",
+            "KR": "무릉 대균열",
+            "MX": "Grieta gigantesca de Wuling (GG de Wuling)",
+            "RU": "Огромный разлом под Улином (ОР Улина)",
+            "TC": "武陵甚大裂隙",
+            "TH": "รอยแยก​ขนาด​มึ​หา​ใต้​อู่​หลิง​ (อู่​หลิง​ VLR)",
+            "VN": "Khe Nứt Cực Lớn Võ Lăng (KNCL Võ Lăng)"
+          },
+          "order": 80020,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_21",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v0d8_21_1"
+          ],
+          "name": {
+            "BR": "Fenda Gigante de Wuling (FG de Wuling)",
+            "CN": "武陵甚大裂隙",
+            "DE": "Riesiger Wuling-Riss (RWR)",
+            "EN": "Wuling Very Large Rift (Wuling VLR)",
+            "FR": "Faille immense de Wuling (FI de Wuling)",
+            "ID": "Celah Raksasa Wuling (CR Wuling)",
+            "IT": "Vasta spaccatura di Wuling (VS di Wuling)",
+            "JP": "武陵の巨大な裂け目",
+            "KR": "무릉 대균열",
+            "MX": "Grieta gigantesca de Wuling (GG de Wuling)",
+            "RU": "Огромный разлом под Улином (ОР Улина)",
+            "TC": "武陵甚大裂隙",
+            "TH": "รอยแยก​ขนาด​มหึมา​ใต้​อู่​หลิง​ (อู่​หลิง​ VLR)",
+            "VN": "Khe Nứt Cực Lớn Võ Lăng (KNCL Võ Lăng)"
+          },
+          "order": 80020,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      },
+      "document_v0d8_33": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_33",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_33_1"
+          ],
+          "name": {
+            "BR": "Complexo Automatizado Industrial (CAI)",
+            "CN": "集成工业系统",
+            "DE": "Automatisierter Industriekomplex (AIK)",
+            "EN": "Automated Industry Complex (AIC)",
+            "FR": "Groupe industriel automatisé (GIA)",
+            "ID": "Area Industri Cerdas (AIC)",
+            "IT": "Sistema industriale automatizzato (SIA)",
+            "JP": "集成工業システム",
+            "KR": "통합 공업 시스템",
+            "MX": "Complejo de Automatización Industrial (CAI)",
+            "RU": "Автоматизированный промышленный комплекс (АПК)",
+            "TC": "集成工業系統",
+            "TH": "กลุ่ม​โรงงานอุตสาหกรรม​อัตโนมัติ​ (AIC)",
+            "VN": "Khu Phức Hợp Công Nghiệp Tự Động (KPH)"
+          },
+          "order": 80031,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_33",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_33_1"
+          ],
+          "name": {
+            "BR": "Complexo Automatizado Industrial (CAI)",
+            "CN": "集成工业系统",
+            "DE": "Automatisierter Industriekomplex (AIK)",
+            "EN": "Automated Industry Complex (AIC)",
+            "FR": "Groupe industriel automatisé (GIA)",
+            "ID": "Area Industri Cerdas (AIC)",
+            "IT": "Sistema industriale automatizzato (SIA)",
+            "JP": "集成工業システム",
+            "KR": "통합 공업 시스템",
+            "MX": "Complejo de Automatización Industrial (CAI)",
+            "RU": "Автоматизированный промышленный комплекс (АПК)",
+            "TC": "集成工業系統",
+            "TH": "กลุ่ม​โรงงานอุตสาหกรรม​อัตโนมัติ​ (AIC)",
+            "VN": "Khu Phức Hợp Công Nghiệp Tự Động (KPH)"
+          },
+          "order": 80031,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_7": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_7",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_7_1"
+          ],
+          "name": {
+            "BR": "Academia do Escritório Tianshi",
+            "CN": "天师府学院",
+            "DE": "Akademie der Tianshi-Behörde",
+            "EN": "Tianshi Bureau Academy",
+            "FR": "Académie des Tianshi",
+            "ID": "Akademi Biro Tianshi",
+            "IT": "Accademia Istituto Tianshi",
+            "JP": "天師府学院",
+            "KR": "천사부 학원",
+            "MX": "Academia de la Oficina de Tianshi",
+            "RU": "Академия бюро Тяньши",
+            "TC": "天師府學院",
+            "TH": "สถาบัน​สำนัก​เทียน​ซือ",
+            "VN": "Học Viện Cục Thiên Sư"
+          },
+          "order": 1020007,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_7",
+          "icon": "prts_centralAchive_others",
+          "itemIds": [
+            "nar_document_v1d2_7_1"
+          ],
+          "name": {
+            "BR": "Academia do Escritório Tianshi",
+            "CN": "天师府学院",
+            "DE": "Akademie der Tianshi-Behörde",
+            "EN": "Tianshi Bureau Academy",
+            "FR": "Académie des Tianshi",
+            "ID": "Akademi Biro Tianshi",
+            "IT": "Accademia Istituto Tianshi",
+            "JP": "天師府学院",
+            "KR": "천사부 학원",
+            "MX": "Academia de la Oficina de Tianshi",
+            "RU": "Академия бюро Тяньши",
+            "TC": "天師府學院",
+            "TH": "สถาบัน​สำนัก​เทียน​ซือ",
+            "VN": "Học Viện Cục Thiên Sư"
+          },
+          "order": 1020007,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_others"
+          }
+        }
+      },
+      "document_v0d8_7": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_7",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_7_1"
+          ],
+          "name": {
+            "BR": "Cinturão da Civilização",
+            "CN": "文明环带",
+            "DE": "Zivilisationsgürtel",
+            "EN": "Civilization Band",
+            "FR": "Ceinture civilisée",
+            "ID": "Sentrapolis",
+            "IT": "Cintura civilizzata",
+            "JP": "文明地帯",
+            "KR": "문명 밴드",
+            "MX": "Franja de la Civilización",
+            "RU": "Пояс Цивилизации",
+            "TC": "文明環帶",
+            "TH": "แถบ​อารยธรรม",
+            "VN": "Vành Đai Văn Minh"
+          },
+          "order": 80007,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_7",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_7_1"
+          ],
+          "name": {
+            "BR": "Cinturão da Civilização",
+            "CN": "文明环带",
+            "DE": "Zivilisationsgürtel",
+            "EN": "Civilization Band",
+            "FR": "Ceinture civilisée",
+            "ID": "Sentrapolis",
+            "IT": "Cintura civilizzata",
+            "JP": "文明地帯",
+            "KR": "문명 밴드",
+            "MX": "Franja de la Civilización",
+            "RU": "Пояс Цивилизации",
+            "TC": "文明環帶",
+            "TH": "แถบ​อารยธรรม",
+            "VN": "Vành Đai Văn Minh"
+          },
+          "order": 80007,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_1": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_1",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_1_1"
+          ],
+          "name": {
+            "BR": "Terra",
+            "CN": "泰拉",
+            "DE": "Terra",
+            "EN": "Terra",
+            "FR": "Terra",
+            "ID": "Terra",
+            "IT": "Terra",
+            "JP": "テラ",
+            "KR": "테라",
+            "MX": "Terra",
+            "RU": "Терра",
+            "TC": "泰拉",
+            "TH": "เทอร์​รา",
+            "VN": "Terra"
+          },
+          "order": 80001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_1",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_1_1"
+          ],
+          "name": {
+            "BR": "Terra",
+            "CN": "泰拉",
+            "DE": "Terra",
+            "EN": "Terra",
+            "FR": "Terra",
+            "ID": "Terra",
+            "IT": "Terra",
+            "JP": "テラ",
+            "KR": "테라",
+            "MX": "Terra",
+            "RU": "Терра",
+            "TC": "泰拉",
+            "TH": "เทอร์​รา",
+            "VN": "Terra"
+          },
+          "order": 80001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_8": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_8",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_8_1"
+          ],
+          "name": {
+            "BR": "Fonte Ancestral",
+            "CN": "祖泉",
+            "DE": "Ahnenquelle",
+            "EN": "Ancestral Spring",
+            "FR": "Source ancestrale",
+            "ID": "Mata Air Leluhur",
+            "IT": "Fonte ancestrale",
+            "JP": "祖泉",
+            "KR": "선조의 샘",
+            "MX": "Manantial ancestral",
+            "RU": "Родник предков",
+            "TC": "祖泉",
+            "TH": "น้ำพุ​แห่ง​บรรพบุรุษ",
+            "VN": "Suối Tiền Nhân"
+          },
+          "order": 1020008,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_8",
+          "icon": "prts_centralAchive_others",
+          "itemIds": [
+            "nar_document_v1d2_8_1"
+          ],
+          "name": {
+            "BR": "Fonte Ancestral",
+            "CN": "祖泉",
+            "DE": "Ahnenquelle",
+            "EN": "Ancestral Spring",
+            "FR": "Source ancestrale",
+            "ID": "Mata Air Leluhur",
+            "IT": "Fonte ancestrale",
+            "JP": "祖泉",
+            "KR": "선조의 샘",
+            "MX": "Manantial ancestral",
+            "RU": "Родник предков",
+            "TC": "祖泉",
+            "TH": "น้ำพุ​แห่ง​บรรพบุรุษ",
+            "VN": "Suối Tiền Nhân"
+          },
+          "order": 1020008,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_others"
+          }
+        }
+      },
+      "document_v1d2_10": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_10",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_10_1"
+          ],
+          "name": {
+            "BR": "Bureau dos Espadeiros",
+            "CN": "宏山选剑局",
+            "DE": "Schwertkämpfer-Behörde",
+            "EN": "Bureau of Swordmancers",
+            "FR": "Bureau des spadamanciens",
+            "ID": "Biro Swordmancer",
+            "IT": "Dipartimento degli Spadamanti",
+            "JP": "宏山選剣局",
+            "KR": "홍산 선검국",
+            "MX": "Agencia de Espadachines",
+            "RU": "Бюро мастеров меча",
+            "TC": "宏山選劍局",
+            "TH": "สำนัก​นัก​ดาบ​เวท",
+            "VN": "Cục Kiếm Sĩ Hongshan"
+          },
+          "order": 1020010,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_10",
+          "icon": "prts_centralAchive_others",
+          "itemIds": [
+            "nar_document_v1d2_10_1"
+          ],
+          "name": {
+            "BR": "Bureau dos Espadeiros",
+            "CN": "宏山选剑局",
+            "DE": "Schwertkämpfer-Behörde",
+            "EN": "Bureau of Swordmancers",
+            "FR": "Bureau des spadamanciens",
+            "ID": "Biro Swordmancer",
+            "IT": "Dipartimento degli Spadamanti",
+            "JP": "宏山選剣局",
+            "KR": "홍산 선검국",
+            "MX": "Agencia de Espadachines",
+            "RU": "Бюро мастеров меча",
+            "TC": "宏山選劍局",
+            "TH": "สำนัก​นัก​ดาบ​เวท",
+            "VN": "Cục Kiếm Sĩ Hongshan"
+          },
+          "order": 1020010,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_others"
+          }
+        }
+      },
+      "document_v1d2_11": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_11",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_11_1"
+          ],
+          "name": {
+            "BR": "Feranmut Sui",
+            "CN": "岁兽",
+            "DE": "Feranmut-Sui",
+            "EN": "Feranmut Sui",
+            "FR": "Feranmouth Sui",
+            "ID": "Feranmut Sui",
+            "IT": "Feranmut Sui",
+            "JP": "歳獣",
+            "KR": "쉐이",
+            "MX": "Sui de Feranmut",
+            "RU": "Феранмут Суи",
+            "TC": "歲獸",
+            "TH": "เฟ​ราน​มุ​ต​ ซุ้ย",
+            "VN": "Cự Thú Sui"
+          },
+          "order": 1020011,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_11",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_11_1"
+          ],
+          "name": {
+            "BR": "Feranmut Sui",
+            "CN": "岁兽",
+            "DE": "Feranmut-Sui",
+            "EN": "Feranmut Sui",
+            "FR": "Feranmouth Sui",
+            "ID": "Feranmut Sui",
+            "IT": "Feranmut Sui",
+            "JP": "歳獣",
+            "KR": "쉐이",
+            "MX": "Sui de Feranmut",
+            "RU": "Феранмут Суи",
+            "TC": "歲獸",
+            "TH": "เฟ​ราน​มุ​ต​ ซุ้ย",
+            "VN": "Cự Thú Sui"
+          },
+          "order": 1020011,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_10": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_10",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_10_1"
+          ],
+          "name": {
+            "BR": "Base Central",
+            "CN": "枢纽区基地",
+            "DE": "Hub-Basis",
+            "EN": "Hub Base",
+            "FR": "Base du Hub",
+            "ID": "Markas Hub",
+            "IT": "Base del Polo centrale",
+            "JP": "中枢基地",
+            "KR": "거점 지역 기지",
+            "MX": "La Base Central",
+            "RU": "База Центра",
+            "TC": "樞紐區基地",
+            "TH": "ฐาน​ฮับ",
+            "VN": "Căn Cứ Trung Tâm"
+          },
+          "order": 80010,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_10",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_10_1"
+          ],
+          "name": {
+            "BR": "Base Central",
+            "CN": "枢纽区基地",
+            "DE": "Hub-Basis",
+            "EN": "Hub Base",
+            "FR": "Base du Hub",
+            "ID": "Markas Hub",
+            "IT": "Base del Polo centrale",
+            "JP": "中枢基地",
+            "KR": "거점 지역 기지",
+            "MX": "La Base Central",
+            "RU": "База Центра",
+            "TC": "樞紐區基地",
+            "TH": "ฐาน​ฮับ",
+            "VN": "Căn Cứ Trung Tâm"
+          },
+          "order": 80010,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_11": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_11",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_11_1"
+          ],
+          "name": {
+            "BR": "Fornalhas",
+            "CN": "巢雕",
+            "DE": "Denstacks",
+            "EN": "Denstacks",
+            "FR": "Flambes",
+            "ID": "Denstack",
+            "IT": "Cataste",
+            "JP": "巣彫",
+            "KR": "지옥의 용광로",
+            "MX": "Denstacks",
+            "RU": "Гнилотрубы",
+            "TC": "巢雕",
+            "TH": "เดน​ส​แ​ท็​ค",
+            "VN": "Lò Đốt"
+          },
+          "order": 80011,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_11",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v0d8_11_1"
+          ],
+          "name": {
+            "BR": "Fornalhas",
+            "CN": "巢雕",
+            "DE": "Denstacks",
+            "EN": "Denstacks",
+            "FR": "Flambes",
+            "ID": "Denstack",
+            "IT": "Cataste",
+            "JP": "巣彫",
+            "KR": "지옥의 용광로",
+            "MX": "Denstacks",
+            "RU": "Гнилотрубы",
+            "TC": "巢雕",
+            "TH": "เดน​ส​แ​ท็​ค",
+            "VN": "Lò Đốt"
+          },
+          "order": 80011,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      },
+      "document_v0d8_12": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_12",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_12_1"
+          ],
+          "name": {
+            "BR": "Aburrey, a Heroína",
+            "CN": "英雄阿伯莉",
+            "DE": "Aburrey die Heldin",
+            "EN": "Aburrey the Hero",
+            "FR": "Aburrey l'héroïne",
+            "ID": "Aburrey sang Pahlawan",
+            "IT": "Aburrey l'eroina",
+            "JP": "英雄アブリー",
+            "KR": "영웅 아부레이",
+            "MX": "Aburrey la Heroína",
+            "RU": "Героиня Эберрей",
+            "TC": "英雄阿伯莉",
+            "TH": "วีรชน​อ​เบอร์​เรย์",
+            "VN": "Aburrey Anh Hùng"
+          },
+          "order": 80012,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_12",
+          "icon": "prts_centralAchive_others",
+          "itemIds": [
+            "nar_document_v0d8_12_1"
+          ],
+          "name": {
+            "BR": "Aburrey, a Heroína",
+            "CN": "英雄阿伯莉",
+            "DE": "Aburrey die Heldin",
+            "EN": "Aburrey the Hero",
+            "FR": "Aburrey l'héroïne",
+            "ID": "Aburrey sang Pahlawan",
+            "IT": "Aburrey l'eroina",
+            "JP": "英雄アブリー",
+            "KR": "영웅 아부레이",
+            "MX": "Aburrey la Heroína",
+            "RU": "Героиня Эберрей",
+            "TC": "英雄阿伯莉",
+            "TH": "วีรชน​อ​เบอร์​เรย์",
+            "VN": "Aburrey Anh Hùng"
+          },
+          "order": 80012,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_others"
+          }
+        }
+      },
+      "document_v0d8_13": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_13",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_13_1"
+          ],
+          "name": {
+            "BR": "Departamento de Segurança do STUT",
+            "CN": "联盟工团安全局",
+            "DE": "GBT-Sicherheitsbüro",
+            "EN": "UWST Security Bureau",
+            "FR": "Agence de sécurité du STUT",
+            "ID": "Biro Sekuriti UWST",
+            "IT": "Dipartimento di sicurezza dell'USLT",
+            "JP": "工業団連盟保安局",
+            "KR": "연맹 공단 안전국",
+            "MX": "Agencia de Seguridad del S.T.U.T.",
+            "RU": "Бюро безопасности СОРТ",
+            "TC": "聯盟工團安全局",
+            "TH": "สำนักงาน​รักษา​ความปลอดภัย​ UWST",
+            "VN": "Cục An Ninh Công Đoàn"
+          },
+          "order": 80013,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_13",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_13_1"
+          ],
+          "name": {
+            "BR": "Departamento de Segurança do STUT",
+            "CN": "联盟工团安全局",
+            "DE": "GBT-Sicherheitsbüro",
+            "EN": "UWST Security Bureau",
+            "FR": "Agence de sécurité du STUT",
+            "ID": "Biro Sekuriti UWST",
+            "IT": "Dipartimento di sicurezza dell'USLT",
+            "JP": "工業団連盟保安局",
+            "KR": "연맹 공단 안전국",
+            "MX": "Agencia de Seguridad del S.T.U.T.",
+            "RU": "Бюро безопасности СОРТ",
+            "TC": "聯盟工團安全局",
+            "TH": "สำนักงาน​รักษา​ความปลอดภัย​ UWST",
+            "VN": "Cục An Ninh Công Đoàn"
+          },
+          "order": 80013,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_14": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_14",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_14_1"
+          ],
+          "name": {
+            "BR": "Berço das Eras",
+            "CN": "世代摇篮",
+            "DE": "Wiege der Generationen",
+            "EN": "Cradle of the Ages",
+            "FR": "Berceau des millénaires",
+            "ID": "Buaian Zaman",
+            "IT": "Culla dei secoli",
+            "JP": "時代揺籠",
+            "KR": "세대의 요람",
+            "MX": "Cuna de las Eras",
+            "RU": "Колыбель Веков",
+            "TC": "世代搖籃",
+            "TH": "จุดกำเนิด​แห่ง​ยุคสมัย",
+            "VN": "Chiếc Nôi Cổ Đại"
+          },
+          "order": 80014,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_14",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v0d8_14_1"
+          ],
+          "name": {
+            "BR": "Berço das Eras",
+            "CN": "世代摇篮",
+            "DE": "Wiege der Generationen",
+            "EN": "Cradle of the Ages",
+            "FR": "Berceau des millénaires",
+            "ID": "Buaian Zaman",
+            "IT": "Culla dei secoli",
+            "JP": "時代揺籠",
+            "KR": "세대의 요람",
+            "MX": "Cuna de las Eras",
+            "RU": "Колыбель Веков",
+            "TC": "世代搖籃",
+            "TH": "จุดกำเนิด​แห่ง​ยุคสมัย",
+            "VN": "Chiếc Nôi Cổ Đại"
+          },
+          "order": 80014,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      },
+      "document_v0d8_15": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_15",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_15_1"
+          ],
+          "name": {
+            "BR": "Local de Teste do Æther",
+            "CN": "超域试验场",
+            "DE": "Æther-Testgelände",
+            "EN": "Æther Test Site",
+            "FR": "Site d'essais æthériques",
+            "ID": "Lokasi Uji Coba Æther",
+            "IT": "Area test dell'Æther",
+            "JP": "超域実験場",
+            "KR": "초자연 실험장",
+            "MX": "Zona de pruebas de éter",
+            "RU": "Лаборатория исследования эфира",
+            "TC": "超域實驗場",
+            "TH": "พื้นที่​ทดสอบ​เอ​เทอร์",
+            "VN": "Khu Thử Nghiệm Æther"
+          },
+          "order": 80015,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_15",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v0d8_15_1"
+          ],
+          "name": {
+            "BR": "Local de Teste do Æther",
+            "CN": "超域试验场",
+            "DE": "Æther-Testgelände",
+            "EN": "Æther Test Site",
+            "FR": "Site d'essais æthériques",
+            "ID": "Lokasi Uji Coba Æther",
+            "IT": "Area test dell'Æther",
+            "JP": "超域実験場",
+            "KR": "초자연 실험장",
+            "MX": "Zona de pruebas de éter",
+            "RU": "Лаборатория исследования эфира",
+            "TC": "超域實驗場",
+            "TH": "พื้นที่​ทดสอบ​เอ​เทอร์",
+            "VN": "Khu Thử Nghiệm Æther"
+          },
+          "order": 80015,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      },
+      "document_v0d8_16": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_16",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_16_1"
+          ],
+          "name": {
+            "BR": "Ordem de Utjug",
+            "CN": "烙铁指令",
+            "DE": "Utjug-Order",
+            "EN": "Utjug Order",
+            "FR": "Ordre d'Utjug",
+            "ID": "Perintah Utjug",
+            "IT": "Ordine di Utjug",
+            "JP": "烙鉄指令",
+            "KR": "인두 지령",
+            "MX": "Orden de Utjug",
+            "RU": "Приказ «Прижигание»",
+            "TC": "烙鐵指令",
+            "TH": "คำสั่ง​อุท​จุก",
+            "VN": "Chỉ Thị Utjug"
+          },
+          "order": 80016,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_16",
+          "icon": "prts_centralAchive_others",
+          "itemIds": [
+            "nar_document_v0d8_16_1"
+          ],
+          "name": {
+            "BR": "Ordem de Utjug",
+            "CN": "烙铁指令",
+            "DE": "Utjug-Order",
+            "EN": "Utjug Order",
+            "FR": "Ordre d'Utjug",
+            "ID": "Perintah Utjug",
+            "IT": "Ordine di Utjug",
+            "JP": "烙鉄指令",
+            "KR": "인두 지령",
+            "MX": "Orden de Utjug",
+            "RU": "Приказ «Прижигание»",
+            "TC": "烙鐵指令",
+            "TH": "คำสั่ง​อุท​จุก",
+            "VN": "Chỉ Thị Utjug"
+          },
+          "order": 80016,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_others"
+          }
+        }
+      },
+      "document_v0d8_17": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_17",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_17_1"
+          ],
+          "name": {
+            "BR": "Bosque dos Desgarrados e Ninfas do Bosque",
+            "CN": "迷踪林与竹林虫",
+            "DE": "Nachzüglerhain & Baumnymphen",
+            "EN": "Stragglers Grove & Grovenymphs",
+            "FR": "Bosquet des retardataires et nymphes sylvestres",
+            "ID": "Belukar Terhuyung & Grovenymph",
+            "IT": "Boschetto degli isolati e ninfe boschive",
+            "JP": "迷踪林と竹林虫",
+            "KR": "미종림과 죽림충",
+            "MX": "Arboleda de los Rezagados y Ninfas de arboleda",
+            "RU": "Роща Скитальцев и нимфы рощи",
+            "TC": "迷蹤林與竹林蟲",
+            "TH": "ร่มไม้​แห่ง​ผู้​พเนจร​และ​โกรฟ​นิม​ฟ์",
+            "VN": "Rừng Mơ Hồ Và Grovenymph"
+          },
+          "order": 80017,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_17",
+          "icon": "prts_centralAchive_others",
+          "itemIds": [
+            "nar_document_v0d8_17_1"
+          ],
+          "name": {
+            "BR": "Bosque dos Desgarrados e Ninfas do Bosque",
+            "CN": "迷踪林与竹林虫",
+            "DE": "Nachzüglerhain & Baumnymphen",
+            "EN": "Stragglers Grove & Grovenymphs",
+            "FR": "Bosquet des retardataires et nymphes sylvestres",
+            "ID": "Belukar Terhuyung & Grovenymph",
+            "IT": "Boschetto degli isolati e ninfe boschive",
+            "JP": "迷踪林と竹林虫",
+            "KR": "미종림과 죽림충",
+            "MX": "Arboleda de los Rezagados y Ninfas de arboleda",
+            "RU": "Роща Скитальцев и нимфы рощи",
+            "TC": "迷蹤林與竹林蟲",
+            "TH": "ร่มไม้​แห่ง​ผู้​พเนจร​และ​โกรฟ​นิม​ฟ์",
+            "VN": "Rừng Mơ Hồ Và Grovenymph"
+          },
+          "order": 80017,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_others"
+          }
+        }
+      },
+      "document_v0d8_18": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_18",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_18_1"
+          ],
+          "name": {
+            "BR": "Pilar de Tianshi",
+            "CN": "天师桩",
+            "DE": "Tianshi-Säule",
+            "EN": "Tianshi Pillar",
+            "FR": "Pilier des Tianshi",
+            "ID": "Pilar Tianshi",
+            "IT": "Colonna Tianshi",
+            "JP": "天師杭",
+            "KR": "천사장",
+            "MX": "Pilar de Tianshi",
+            "RU": "Столб Тяньши",
+            "TC": "天師樁",
+            "TH": "เสา​เทียน​ซือ",
+            "VN": "Cột Thiên Sư"
+          },
+          "order": 80018,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_18",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v0d8_18_1"
+          ],
+          "name": {
+            "BR": "Pilar de Tianshi",
+            "CN": "天师桩",
+            "DE": "Tianshi-Säule",
+            "EN": "Tianshi Pillar",
+            "FR": "Pilier des Tianshi",
+            "ID": "Pilar Tianshi",
+            "IT": "Colonna Tianshi",
+            "JP": "天師杭",
+            "KR": "천사장",
+            "MX": "Pilar de Tianshi",
+            "RU": "Столб Тяньши",
+            "TC": "天師樁",
+            "TH": "เสา​เทียน​ซือ",
+            "VN": "Cột Thiên Sư"
+          },
+          "order": 80018,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      },
+      "document_v0d8_19": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_19",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_19_1"
+          ],
+          "name": {
+            "BR": "Cidade de Wuling",
+            "CN": "武陵城",
+            "DE": "Wuling City",
+            "EN": "Wuling City",
+            "FR": "Ville de Wuling",
+            "ID": "Kota Wuling",
+            "IT": "Wuling City",
+            "JP": "武陵城",
+            "KR": "무릉성",
+            "MX": "Ciudad de Wuling",
+            "RU": "Улин",
+            "TC": "武陵城",
+            "TH": "เมือง​อู่​หลิง",
+            "VN": "Thành Phố Võ Lăng"
+          },
+          "order": 80019,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_19",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_19_1"
+          ],
+          "name": {
+            "BR": "Cidade de Wuling",
+            "CN": "武陵城",
+            "DE": "Wuling City",
+            "EN": "Wuling City",
+            "FR": "Ville de Wuling",
+            "ID": "Kota Wuling",
+            "IT": "Wuling City",
+            "JP": "武陵城",
+            "KR": "무릉성",
+            "MX": "Ciudad de Wuling",
+            "RU": "Улин",
+            "TC": "武陵城",
+            "TH": "เมือง​อู่​หลิง",
+            "VN": "Thành Phố Võ Lăng"
+          },
+          "order": 80019,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_2": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_2",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_2_1"
+          ],
+          "name": {
+            "BR": "Originium",
+            "CN": "源石",
+            "DE": "Originium",
+            "EN": "Originium",
+            "FR": "Originium",
+            "ID": "Originium",
+            "IT": "Originium",
+            "JP": "源石",
+            "KR": "오리지늄",
+            "MX": "Originio",
+            "RU": "Ориджиний",
+            "TC": "源石",
+            "TH": "ออ​ริ​จิ​เนียม",
+            "VN": "Originium"
+          },
+          "order": 80002,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_2",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_2_1"
+          ],
+          "name": {
+            "BR": "Originium",
+            "CN": "源石",
+            "DE": "Originium",
+            "EN": "Originium",
+            "FR": "Originium",
+            "ID": "Originium",
+            "IT": "Originium",
+            "JP": "源石",
+            "KR": "오리지늄",
+            "MX": "Originio",
+            "RU": "Ориджиний",
+            "TC": "源石",
+            "TH": "ออ​ริ​จิ​เนียม",
+            "VN": "Originium"
+          },
+          "order": 80002,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_24": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_24",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_24_1"
+          ],
+          "name": {
+            "BR": "Xiranita",
+            "CN": "息壤",
+            "DE": "Xiranit",
+            "EN": "Xiranite",
+            "FR": "Xiranite",
+            "ID": "Xiranite",
+            "IT": "Xiranite",
+            "JP": "息壌",
+            "KR": "식양",
+            "MX": "Xiranita",
+            "RU": "Ксиранит",
+            "TC": "息壤",
+            "TH": "ซี​เรน​ไนต์",
+            "VN": "Xiranite"
+          },
+          "order": 80022,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_24",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_24_1"
+          ],
+          "name": {
+            "BR": "Xiranita",
+            "CN": "息壤",
+            "DE": "Xiranit",
+            "EN": "Xiranite",
+            "FR": "Xiranite",
+            "ID": "Xiranite",
+            "IT": "Xiranite",
+            "JP": "息壌",
+            "KR": "식양",
+            "MX": "Xiranita",
+            "RU": "Ксиранит",
+            "TC": "息壤",
+            "TH": "ซี​เรน​ไนต์",
+            "VN": "Xiranite"
+          },
+          "order": 80022,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_25": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_25",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_25_1"
+          ],
+          "name": {
+            "BR": "Talos-II",
+            "CN": "塔卫二",
+            "DE": "Talos-II",
+            "EN": "Talos-II",
+            "FR": "Talos-II",
+            "ID": "Talos-II",
+            "IT": "Talos-II",
+            "JP": "タロⅡ",
+            "KR": "탈로스 II",
+            "MX": "Talos-II",
+            "RU": "Талос II",
+            "TC": "塔衛二",
+            "TH": "ทาล​อส​-II",
+            "VN": "Talos-II"
+          },
+          "order": 80023,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_25",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_25_1"
+          ],
+          "name": {
+            "BR": "Talos-II",
+            "CN": "塔卫二",
+            "DE": "Talos-II",
+            "EN": "Talos-II",
+            "FR": "Talos-II",
+            "ID": "Talos-II",
+            "IT": "Talos-II",
+            "JP": "タロⅡ",
+            "KR": "탈로스 II",
+            "MX": "Talos-II",
+            "RU": "Талос II",
+            "TC": "塔衛二",
+            "TH": "ทาล​อส​-II",
+            "VN": "Talos-II"
+          },
+          "order": 80023,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_27": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_27",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_27_1"
+          ],
+          "name": {
+            "BR": "Sindicatos dos Trabalhadores Unidos de Talos-II (STUT)",
+            "CN": "联盟工团",
+            "DE": "Gewerkschaftsbund von Talos-II (GBT)",
+            "EN": "United Workers' Syndicates of Talos II (UWST)",
+            "FR": "Syndicat des Travailleurs Unis de Talos-II (STUT)",
+            "ID": "United Workers’ Syndicates of Talos II (UWST)",
+            "IT": "Unione dei sindacati dei lavoratori di Talos-II (USLT)",
+            "JP": "工業団連盟",
+            "KR": "연맹 공단",
+            "MX": "Sindicatos de Trabajadores Unidos de Talos II (S.T.U.T.)",
+            "RU": "Синдикаты объединенных рабочих Талоса II (СОРТ)",
+            "TC": "聯盟工團",
+            "TH": "สหภาพ​แรงงาน​แห่ง​ทาล​อส​-II (UWST)",
+            "VN": "Đại Công Đoàn Talos II (UWST)"
+          },
+          "order": 80025,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_27",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_27_1"
+          ],
+          "name": {
+            "BR": "Sindicatos dos Trabalhadores Unidos de Talos-II (STUT)",
+            "CN": "联盟工团",
+            "DE": "Gewerkschaftsbund von Talos-II (GBT)",
+            "EN": "United Workers' Syndicates of Talos II (UWST)",
+            "FR": "Syndicat des Travailleurs Unis de Talos-II (STUT)",
+            "ID": "United Workers’ Syndicates of Talos II (UWST)",
+            "IT": "Unione dei sindacati dei lavoratori di Talos-II (USLT)",
+            "JP": "工業団連盟",
+            "KR": "연맹 공단",
+            "MX": "Sindicatos de Trabajadores Unidos de Talos II (S.T.U.T.)",
+            "RU": "Синдикаты объединенных рабочих Талоса II (СОРТ)",
+            "TC": "聯盟工團",
+            "TH": "สหภาพ​แรงงาน​แห่ง​ทาล​อส​-II (UWST)",
+            "VN": "Đại Công Đoàn Talos II (UWST)"
+          },
+          "order": 80025,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_28": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_28",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_28_1"
+          ],
+          "name": {
+            "BR": "Academia de Ciências de Hongshan (ACH)",
+            "CN": "宏山科学院",
+            "DE": "Hongshan-Akademie der Wissenschaften (HAW)",
+            "EN": "Hongshan Academy of Sciences (HAS)",
+            "FR": "Académie des sciences de Hongshan (ASH)",
+            "ID": "Hongshan Academy of Sciences (HAS)",
+            "IT": "Accademia scientifica di Hongshan (ASH)",
+            "JP": "宏山科学院",
+            "KR": "홍산 과학원",
+            "MX": "Academia Científica Hongshan (A.C.H.)",
+            "RU": "Академия наук Хуншаня (АНХ)",
+            "TC": "宏山科學院",
+            "TH": "สถาบัน​วิทยาศาสตร์​หง​ซาน​ (HAS)",
+            "VN": "Học Viện Khoa Học Hongshan (HAS)"
+          },
+          "order": 80026,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_28",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_28_1"
+          ],
+          "name": {
+            "BR": "Academia de Ciências de Hongshan (ACH)",
+            "CN": "宏山科学院",
+            "DE": "Hongshan-Akademie der Wissenschaften (HAW)",
+            "EN": "Hongshan Academy of Sciences (HAS)",
+            "FR": "Académie des sciences de Hongshan (ASH)",
+            "ID": "Hongshan Academy of Sciences (HAS)",
+            "IT": "Accademia scientifica di Hongshan (ASH)",
+            "JP": "宏山科学院",
+            "KR": "홍산 과학원",
+            "MX": "Academia Científica Hongshan (A.C.H.)",
+            "RU": "Академия наук Хуншаня (АНХ)",
+            "TC": "宏山科學院",
+            "TH": "สถาบัน​วิทยาศาสตร์​หง​ซาน​ (HAS)",
+            "VN": "Học Viện Khoa Học Hongshan (HAS)"
+          },
+          "order": 80026,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_29": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_29",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_29_1"
+          ],
+          "name": {
+            "BR": "Câmara Geral de Comércio de Talos-II (CGCT)",
+            "CN": "环塔商会",
+            "DE": "Talos-II Allgemeine Handelskammer (TAHK)",
+            "EN": "Talos-II General Chamber of Commerce (TGCC)",
+            "FR": "Chambre de commerce générale de Talos-II (CCGT)",
+            "ID": "Talos-II General Chamber of Commerce (TGCC)",
+            "IT": "Camera di commercio generale di Talos-II (CCGT)",
+            "JP": "環タロ商会",
+            "KR": "탈로스 II 상업연합회",
+            "MX": "Cámara General de Comercio de Talos-II (C.G.C.T.)",
+            "RU": "Генеральная торговая палата Талоса II (ГТПТ)",
+            "TC": "環塔商會",
+            "TH": "หอการค้า​ทั่วไป​ทาล​อส​-II (TGCC)",
+            "VN": "Phòng Thương Mại Tổng Hợp Talos-II (TGCC)"
+          },
+          "order": 80027,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_29",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_29_1"
+          ],
+          "name": {
+            "BR": "Câmara Geral de Comércio de Talos-II (CGCT)",
+            "CN": "环塔商会",
+            "DE": "Talos-II Allgemeine Handelskammer (TAHK)",
+            "EN": "Talos-II General Chamber of Commerce (TGCC)",
+            "FR": "Chambre de commerce générale de Talos-II (CCGT)",
+            "ID": "Talos-II General Chamber of Commerce (TGCC)",
+            "IT": "Camera di commercio generale di Talos-II (CCGT)",
+            "JP": "環タロ商会",
+            "KR": "탈로스 II 상업연합회",
+            "MX": "Cámara General de Comercio de Talos-II (C.G.C.T.)",
+            "RU": "Генеральная торговая палата Талоса II (ГТПТ)",
+            "TC": "環塔商會",
+            "TH": "หอการค้า​ทั่วไป​ทาล​อส​-II (TGCC)",
+            "VN": "Phòng Thương Mại Tổng Hợp Talos-II (TGCC)"
+          },
+          "order": 80027,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_3": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_3",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_3_1"
+          ],
+          "name": {
+            "BR": "Artes de Originium e Tecnologia",
+            "CN": "源石技艺和源石技术",
+            "DE": "Originium-Techniken und Technologie",
+            "EN": "Originium Arts and Technology",
+            "FR": "Arts de l'originium et technologie",
+            "ID": "Arts dan Teknologi Originium",
+            "IT": "Arti di Originium e tecnologia",
+            "JP": "源石アーツと源石技術",
+            "KR": "오리지늄 아츠와 오리지늄 기술",
+            "MX": "Artes de Originio y Tecnología",
+            "RU": "Ориджиниевые искусства и технологии",
+            "TC": "源石技藝和源石技術",
+            "TH": "เวท​ออ​ริ​จิ​เนียม​ และ​ เทคโนโลยี",
+            "VN": "Thuật Pháp Originium và Công Nghệ"
+          },
+          "order": 80003,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_3",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_3_1"
+          ],
+          "name": {
+            "BR": "Artes de Originium e Tecnologia",
+            "CN": "源石技艺和源石技术",
+            "DE": "Originium-Techniken und Technologie",
+            "EN": "Originium Arts and Technology",
+            "FR": "Arts de l'originium et technologie",
+            "ID": "Arts dan Teknologi Originium",
+            "IT": "Arti di Originium e tecnologia",
+            "JP": "源石アーツと源石技術",
+            "KR": "오리지늄 아츠와 오리지늄 기술",
+            "MX": "Artes de Originio y Tecnología",
+            "RU": "Ориджиниевые искусства и технологии",
+            "TC": "源石技藝和源石技術",
+            "TH": "เวท​ออ​ริ​จิ​เนียม​ และ​ เทคโนโลยี",
+            "VN": "Thuật Pháp Originium và Công Nghệ"
+          },
+          "order": 80003,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_31": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_31",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_31_1"
+          ],
+          "name": {
+            "BR": "Originium em Talos-II",
+            "CN": "源石在塔卫二",
+            "DE": "Originium in Talos-II",
+            "EN": "Originium in Talos-II",
+            "FR": "Originium de Talos-II",
+            "ID": "Originium di Talos-II",
+            "IT": "Originium su Talos-II",
+            "JP": "タロⅡにおける源石",
+            "KR": "탈로스 II의 오리지늄",
+            "MX": "Originio en Talos-II",
+            "RU": "Ориджиний на Талосе II",
+            "TC": "源石在塔衛二",
+            "TH": "ออ​ริ​จิ​เนียม​ใน​ทาล​อส​-II",
+            "VN": "Originium Ở Talos-II"
+          },
+          "order": 80029,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_31",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_31_1"
+          ],
+          "name": {
+            "BR": "Originium em Talos-II",
+            "CN": "源石在塔卫二",
+            "DE": "Originium in Talos-II",
+            "EN": "Originium in Talos-II",
+            "FR": "Originium de Talos-II",
+            "ID": "Originium di Talos-II",
+            "IT": "Originium su Talos-II",
+            "JP": "タロⅡにおける源石",
+            "KR": "탈로스 II의 오리지늄",
+            "MX": "Originio en Talos-II",
+            "RU": "Ориджиний на Талосе II",
+            "TC": "源石在塔衛二",
+            "TH": "ออ​ริ​จิ​เนียม​ใน​ทาล​อส​-II",
+            "VN": "Originium Ở Talos-II"
+          },
+          "order": 80029,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_32": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_32",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_32_1"
+          ],
+          "name": {
+            "BR": "Protocolo-Originium",
+            "CN": "协议源石",
+            "DE": "Protokoll-Originium",
+            "EN": "Protocol-Originium",
+            "FR": "Protocole d'originium",
+            "ID": "Protokol-Originium",
+            "IT": "Originium protocollare",
+            "JP": "協約源石",
+            "KR": "프로토콜 오리지늄",
+            "MX": "Protocolo de Originio",
+            "RU": "Протокольный ориджиний",
+            "TC": "協議源石",
+            "TH": "โปร​โต​คอล​-​ออ​ริ​จิ​เนียม",
+            "VN": "Giao Thức Originium"
+          },
+          "order": 80030,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_32",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_32_1"
+          ],
+          "name": {
+            "BR": "Protocolo-Originium",
+            "CN": "协议源石",
+            "DE": "Protokoll-Originium",
+            "EN": "Protocol-Originium",
+            "FR": "Protocole d'originium",
+            "ID": "Protokol-Originium",
+            "IT": "Originium protocollare",
+            "JP": "協約源石",
+            "KR": "프로토콜 오리지늄",
+            "MX": "Protocolo de Originio",
+            "RU": "Протокольный ориджиний",
+            "TC": "協議源石",
+            "TH": "โปร​โต​คอล​-​ออ​ริ​จิ​เนียม",
+            "VN": "Giao Thức Originium"
+          },
+          "order": 80030,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_34": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_34",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_34_1"
+          ],
+          "name": {
+            "BR": "Vale IV",
+            "CN": "四号谷地",
+            "DE": "Tal IV",
+            "EN": "Valley IV",
+            "FR": "Vallée-IV",
+            "ID": "Lembah IV",
+            "IT": "Valle IV",
+            "JP": "四号谷地",
+            "KR": "4번 협곡",
+            "MX": "Valle IV",
+            "RU": "Долина IV",
+            "TC": "四號谷地",
+            "TH": "หุบเขา​ IV",
+            "VN": "Thung Lũng IV"
+          },
+          "order": 80032,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_34",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_34_1"
+          ],
+          "name": {
+            "BR": "Vale IV",
+            "CN": "四号谷地",
+            "DE": "Tal IV",
+            "EN": "Valley IV",
+            "FR": "Vallée-IV",
+            "ID": "Lembah IV",
+            "IT": "Valle IV",
+            "JP": "四号谷地",
+            "KR": "4번 협곡",
+            "MX": "Valle IV",
+            "RU": "Долина IV",
+            "TC": "四號谷地",
+            "TH": "หุบเขา​ IV",
+            "VN": "Thung Lũng IV"
+          },
+          "order": 80032,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_35": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_35",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_35_1"
+          ],
+          "name": {
+            "BR": "Praga",
+            "CN": "侵蚀",
+            "DE": "Verderbnis",
+            "EN": "Blight",
+            "FR": "Gangrène",
+            "ID": "Hawar",
+            "IT": "Contaminazione",
+            "JP": "侵蝕",
+            "KR": "침식",
+            "MX": "Plaga",
+            "RU": "Мор",
+            "TC": "侵蝕",
+            "TH": "ไบ​ล​ท์",
+            "VN": "Nhiễm Khuẩn"
+          },
+          "order": 80033,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_35",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_35_1"
+          ],
+          "name": {
+            "BR": "Praga",
+            "CN": "侵蚀",
+            "DE": "Verderbnis",
+            "EN": "Blight",
+            "FR": "Gangrène",
+            "ID": "Hawar",
+            "IT": "Contaminazione",
+            "JP": "侵蝕",
+            "KR": "침식",
+            "MX": "Plaga",
+            "RU": "Мор",
+            "TC": "侵蝕",
+            "TH": "ไบ​ล​ท์",
+            "VN": "Nhiễm Khuẩn"
+          },
+          "order": 80033,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_37": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_37",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_37_1"
+          ],
+          "name": {
+            "BR": "Aggelos",
+            "CN": "天使",
+            "DE": "Aggelos",
+            "EN": "Aggelos",
+            "FR": "Aggelos",
+            "ID": "Aggelos",
+            "IT": "Aggelos",
+            "JP": "アンゲロス",
+            "KR": "아겔로스",
+            "MX": "Aggelos",
+            "RU": "Аггел",
+            "TC": "天使",
+            "TH": "แอง​เกลอ​ย",
+            "VN": "Aggeloi"
+          },
+          "order": 80034,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_37",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_37_1"
+          ],
+          "name": {
+            "BR": "Aggelos",
+            "CN": "天使",
+            "DE": "Aggelos",
+            "EN": "Aggelos",
+            "FR": "Aggelos",
+            "ID": "Aggelos",
+            "IT": "Aggelos",
+            "JP": "アンゲロス",
+            "KR": "아겔로스",
+            "MX": "Aggelos",
+            "RU": "Аггел",
+            "TC": "天使",
+            "TH": "แอง​เกลอ​ย",
+            "VN": "Aggeloi"
+          },
+          "order": 80034,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_38": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_38",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_38_1"
+          ],
+          "name": {
+            "BR": "Invasor de Terras",
+            "CN": "裂地者",
+            "DE": "Landbrecher",
+            "EN": "Landbreaker",
+            "FR": "Brise-Terres",
+            "ID": "Landbreaker",
+            "IT": "Fenditerra",
+            "JP": "ランドブレーカー",
+            "KR": "랜드브레이커",
+            "MX": "Rompesuelos",
+            "RU": "Землекрушитель",
+            "TC": "裂地者",
+            "TH": "แลนด์​เบรก​เกอร์",
+            "VN": "Landbreaker"
+          },
+          "order": 80035,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_38",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_38_1"
+          ],
+          "name": {
+            "BR": "Invasor de Terras",
+            "CN": "裂地者",
+            "DE": "Landbrecher",
+            "EN": "Landbreaker",
+            "FR": "Brise-Terres",
+            "ID": "Landbreaker",
+            "IT": "Fenditerra",
+            "JP": "ランドブレーカー",
+            "KR": "랜드브레이커",
+            "MX": "Rompesuelos",
+            "RU": "Землекрушитель",
+            "TC": "裂地者",
+            "TH": "แลนด์​เบรก​เกอร์",
+            "VN": "Landbreaker"
+          },
+          "order": 80035,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_39": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_39",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_39_1"
+          ],
+          "name": {
+            "BR": "Aurora de Talos-II",
+            "CN": "塔卫二的极光",
+            "DE": "Aurora von Talos-II",
+            "EN": "Aurora of Talos-II",
+            "FR": "Aurore de Talos-II",
+            "ID": "Aurora Talos-II",
+            "IT": "Aurora di Talos-II",
+            "JP": "タロⅡのオーロラ",
+            "KR": "탈로스 II의 오로라",
+            "MX": "Aurora de Talos-II",
+            "RU": "Сияние Талоса II",
+            "TC": "塔衛二的極光",
+            "TH": "ออ​โร​ร่า​แห่ง​ทาล​อส​-II",
+            "VN": "Aurora Talos-II"
+          },
+          "order": 80036,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_39",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_39_1"
+          ],
+          "name": {
+            "BR": "Aurora de Talos-II",
+            "CN": "塔卫二的极光",
+            "DE": "Aurora von Talos-II",
+            "EN": "Aurora of Talos-II",
+            "FR": "Aurore de Talos-II",
+            "ID": "Aurora Talos-II",
+            "IT": "Aurora di Talos-II",
+            "JP": "タロⅡのオーロラ",
+            "KR": "탈로스 II의 오로라",
+            "MX": "Aurora de Talos-II",
+            "RU": "Сияние Талоса II",
+            "TC": "塔衛二的極光",
+            "TH": "ออ​โร​ร่า​แห่ง​ทาล​อส​-II",
+            "VN": "Aurora Talos-II"
+          },
+          "order": 80036,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_4": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_4",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_4_1"
+          ],
+          "name": {
+            "BR": "Raça",
+            "CN": "种族",
+            "DE": "Spezies",
+            "EN": "Race",
+            "FR": "Espèce",
+            "ID": "Ras",
+            "IT": "Razza",
+            "JP": "種族",
+            "KR": "종족",
+            "MX": "Raza",
+            "RU": "Раса",
+            "TC": "種族",
+            "TH": "เผ่า",
+            "VN": "Chủng Tộc"
+          },
+          "order": 80004,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_4",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_4_1"
+          ],
+          "name": {
+            "BR": "Raça",
+            "CN": "种族",
+            "DE": "Spezies",
+            "EN": "Race",
+            "FR": "Espèce",
+            "ID": "Ras",
+            "IT": "Razza",
+            "JP": "種族",
+            "KR": "종족",
+            "MX": "Raza",
+            "RU": "Раса",
+            "TC": "種族",
+            "TH": "เผ่า",
+            "VN": "Chủng Tộc"
+          },
+          "order": 80004,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_40": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_40",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_40_1"
+          ],
+          "name": {
+            "BR": "Reconvocadores",
+            "CN": "再旅者",
+            "DE": "Wiederhersteller",
+            "EN": "Reconveners",
+            "FR": "Répliquants",
+            "ID": "Reconvener",
+            "IT": "Veicolanti",
+            "JP": "再旅者",
+            "KR": "리컨비너",
+            "MX": "Reconvocadores",
+            "RU": "Реверсии",
+            "TC": "再旅者",
+            "TH": "ผู้​เรียกคืน",
+            "VN": "Người Trở Về"
+          },
+          "order": 80037,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_40",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_40_1"
+          ],
+          "name": {
+            "BR": "Reconvocadores",
+            "CN": "再旅者",
+            "DE": "Wiederhersteller",
+            "EN": "Reconveners",
+            "FR": "Répliquants",
+            "ID": "Reconvener",
+            "IT": "Veicolanti",
+            "JP": "再旅者",
+            "KR": "리컨비너",
+            "MX": "Reconvocadores",
+            "RU": "Реверсии",
+            "TC": "再旅者",
+            "TH": "ผู้​เรียกคืน",
+            "VN": "Người Trở Về"
+          },
+          "order": 80037,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_5": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_5",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_5_1"
+          ],
+          "name": {
+            "BR": "Portão Cósmico",
+            "CN": "星门",
+            "DE": "Kosmisches Tor",
+            "EN": "Cosmic Gate",
+            "FR": "Portail cosmique",
+            "ID": "Gerbang Kosmis",
+            "IT": "Portale cosmico",
+            "JP": "星門",
+            "KR": "스타게이트",
+            "MX": "Puerta cósmica",
+            "RU": "Космические врата",
+            "TC": "星門",
+            "TH": "ประตู​จักรวาล",
+            "VN": "Cổng Không Gian"
+          },
+          "order": 80005,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_5",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_5_1"
+          ],
+          "name": {
+            "BR": "Portão Cósmico",
+            "CN": "星门",
+            "DE": "Kosmisches Tor",
+            "EN": "Cosmic Gate",
+            "FR": "Portail cosmique",
+            "ID": "Gerbang Kosmis",
+            "IT": "Portale cosmico",
+            "JP": "星門",
+            "KR": "스타게이트",
+            "MX": "Puerta cósmica",
+            "RU": "Космические врата",
+            "TC": "星門",
+            "TH": "ประตู​จักรวาล",
+            "VN": "Cổng Không Gian"
+          },
+          "order": 80005,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_6": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_6",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_6_1"
+          ],
+          "name": {
+            "BR": "A Primeira Guerra dos Aggeloi",
+            "CN": "第一次天使战争",
+            "DE": "Der Erste Aggeloi-Krieg",
+            "EN": "The First Aggeloi War",
+            "FR": "La Première guerre des Aggeloi",
+            "ID": "Perang Aggelos Pertama",
+            "IT": "La Prima guerra degli Aggeloi",
+            "JP": "第一次アンゲロス戦争",
+            "KR": "제1차 아겔로스 전쟁",
+            "MX": "La Primera guerra de Aggeloi",
+            "RU": "Первая война с аггелами",
+            "TC": "第一次天使戰爭",
+            "TH": "สงคราม​แอง​เกลอ​ย​ครั้ง​ที่หนึ่ง",
+            "VN": "Cuộc Chiến Aggeloi Đầu Tiên"
+          },
+          "order": 80006,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_6",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_6_1"
+          ],
+          "name": {
+            "BR": "A Primeira Guerra dos Aggeloi",
+            "CN": "第一次天使战争",
+            "DE": "Der Erste Aggeloi-Krieg",
+            "EN": "The First Aggeloi War",
+            "FR": "La Première guerre des Aggeloi",
+            "ID": "Perang Aggelos Pertama",
+            "IT": "La Prima guerra degli Aggeloi",
+            "JP": "第一次アンゲロス戦争",
+            "KR": "제1차 아겔로스 전쟁",
+            "MX": "La Primera guerra de Aggeloi",
+            "RU": "Первая война с аггелами",
+            "TC": "第一次天使戰爭",
+            "TH": "สงคราม​แอง​เกลอ​ย​ครั้ง​ที่หนึ่ง",
+            "VN": "Cuộc Chiến Aggeloi Đầu Tiên"
+          },
+          "order": 80006,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d1_1": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d1_1",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d1_1_1"
+          ],
+          "name": {
+            "BR": "Paliçada de Qingbo",
+            "CN": "清波寨",
+            "DE": "Qingbo-Palisade",
+            "EN": "Qingbo Stockade",
+            "FR": "Palanque de Qingbo",
+            "ID": "Kampung Benteng Qingbo",
+            "IT": "Palizzata di Qingbo",
+            "JP": "清波砦",
+            "KR": "청파채",
+            "MX": "Empalizada de Qingbo",
+            "RU": "Лагерь Циньбо",
+            "TC": "清波寨",
+            "TH": "ค่าย​ชิง​ป๋อ",
+            "VN": "Trại Thanh Ba"
+          },
+          "order": 1010001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d1_1",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v1d1_1_1"
+          ],
+          "name": {
+            "BR": "Paliçada de Qingbo",
+            "CN": "清波寨",
+            "DE": "Qingbo-Palisade",
+            "EN": "Qingbo Stockade",
+            "FR": "Palanque de Qingbo",
+            "ID": "Kampung Benteng Qingbo",
+            "IT": "Palizzata di Qingbo",
+            "JP": "清波砦",
+            "KR": "청파채",
+            "MX": "Empalizada de Qingbo",
+            "RU": "Лагерь Циньбо",
+            "TC": "清波寨",
+            "TH": "ค่าย​ชิง​ป๋อ",
+            "VN": "Trại Thanh Ba"
+          },
+          "order": 1010001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      },
+      "document_v0d8_8": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_8",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_8_1"
+          ],
+          "name": {
+            "BR": "Ætherside",
+            "CN": "超域",
+            "DE": "Ætherside",
+            "EN": "Ætherside",
+            "FR": "Plan æthérique",
+            "ID": "Ætherside",
+            "IT": "Ætherspazio",
+            "JP": "超域",
+            "KR": "초자연",
+            "MX": "Plano del éter",
+            "RU": "Эфирный мир",
+            "TC": "超域",
+            "TH": "เอ​เทอร์​ไซด์",
+            "VN": "Ætherside"
+          },
+          "order": 80008,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_8",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_8_1"
+          ],
+          "name": {
+            "BR": "Ætherside",
+            "CN": "超域",
+            "DE": "Ætherside",
+            "EN": "Ætherside",
+            "FR": "Plan æthérique",
+            "ID": "Ætherside",
+            "IT": "Ætherspazio",
+            "JP": "超域",
+            "KR": "초자연",
+            "MX": "Plano del éter",
+            "RU": "Эфирный мир",
+            "TC": "超域",
+            "TH": "เอ​เทอร์​ไซด์",
+            "VN": "Ætherside"
+          },
+          "order": 80008,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v0d8_9": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_9",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v0d8_9_1"
+          ],
+          "name": {
+            "BR": "Diretriz Zero",
+            "CN": "零号委托",
+            "DE": "Zeroth-Direktive",
+            "EN": "Zeroth Directive",
+            "FR": "Directive Zéro",
+            "ID": "Arahan Zeroth",
+            "IT": "Direttiva Zero",
+            "JP": "初号指令",
+            "KR": "미션 제로",
+            "MX": "Directiva de Zeroth",
+            "RU": "Директива Зерот",
+            "TC": "零號委託",
+            "TH": "คำสั่ง​ศูนย์",
+            "VN": "Mệnh Lệnh Số 0"
+          },
+          "order": 80009,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v0d8_9",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v0d8_9_1"
+          ],
+          "name": {
+            "BR": "Diretriz Zero",
+            "CN": "零号委托",
+            "DE": "Zeroth-Direktive",
+            "EN": "Zeroth Directive",
+            "FR": "Directive Zéro",
+            "ID": "Arahan Zeroth",
+            "IT": "Direttiva Zero",
+            "JP": "初号指令",
+            "KR": "미션 제로",
+            "MX": "Directiva de Zeroth",
+            "RU": "Директива Зерот",
+            "TC": "零號委託",
+            "TH": "คำสั่ง​ศูนย์",
+            "VN": "Mệnh Lệnh Số 0"
+          },
+          "order": 80009,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_12": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_12",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_12_1"
+          ],
+          "name": {
+            "BR": "Nexus de Xiranita",
+            "CN": "枢壤仪",
+            "DE": "Xiranit-Nexus",
+            "EN": "Xiranite Nexus",
+            "FR": "Nexus en xiranite",
+            "ID": "Nexus Xiranite",
+            "IT": "Nexus di xiranite",
+            "JP": "枢壌儀",
+            "KR": "중추 식양 장치",
+            "MX": "Nexus de Xiranita",
+            "RU": "Ксиранитовый нексус",
+            "TC": "樞壤儀",
+            "TH": "เ​น็​ก​ซัส​ซี​เรน​ไนต์",
+            "VN": "Trung Tâm Xiranite"
+          },
+          "order": 1020012,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_12",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_12_1"
+          ],
+          "name": {
+            "BR": "Nexus de Xiranita",
+            "CN": "枢壤仪",
+            "DE": "Xiranit-Nexus",
+            "EN": "Xiranite Nexus",
+            "FR": "Nexus en xiranite",
+            "ID": "Nexus Xiranite",
+            "IT": "Nexus di xiranite",
+            "JP": "枢壌儀",
+            "KR": "중추 식양 장치",
+            "MX": "Nexus de Xiranita",
+            "RU": "Ксиранитовый нексус",
+            "TC": "樞壤儀",
+            "TH": "เ​น็​ก​ซัส​ซี​เรน​ไนต์",
+            "VN": "Trung Tâm Xiranite"
+          },
+          "order": 1020012,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_2": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_2",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_2_1"
+          ],
+          "name": {
+            "BR": "Circuito Hannabit",
+            "CN": "众生长地",
+            "DE": "Hannabit-Zirkel",
+            "EN": "Hannabit Circuit",
+            "FR": "Circuit d'Hannabit",
+            "ID": "Hannabit Circuit",
+            "IT": "Circuito Hannabit",
+            "JP": "衆生長地",
+            "KR": "만물의 대지",
+            "MX": "Circuito Hannabit",
+            "RU": "Братство Ханнабит",
+            "TC": "眾生長地",
+            "TH": "วงจร​แฮน​นา​บิท",
+            "VN": "Trường Địa Hannabit"
+          },
+          "order": 1020002,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_2",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_2_1"
+          ],
+          "name": {
+            "BR": "Circuito Hannabit",
+            "CN": "众生长地",
+            "DE": "Hannabit-Zirkel",
+            "EN": "Hannabit Circuit",
+            "FR": "Circuit d'Hannabit",
+            "ID": "Hannabit Circuit",
+            "IT": "Circuito Hannabit",
+            "JP": "衆生長地",
+            "KR": "만물의 대지",
+            "MX": "Circuito Hannabit",
+            "RU": "Братство Ханнабит",
+            "TC": "眾生長地",
+            "TH": "วงจร​แฮน​นา​บิท",
+            "VN": "Trường Địa Hannabit"
+          },
+          "order": 1020002,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_3": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_3",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_3_1"
+          ],
+          "name": {
+            "BR": "Seš'qa",
+            "CN": "塞什卡",
+            "DE": "Seš’qa",
+            "EN": "Seš'qa",
+            "FR": "Seš'qa",
+            "ID": "Seš’qa",
+            "IT": "Seš'qa",
+            "JP": "セシュカ",
+            "KR": "세쉬카",
+            "MX": "Seš'qa",
+            "RU": "Сеш’ка",
+            "TC": "塞什卡",
+            "TH": "เซ​ช​กา",
+            "VN": "Seš'qa"
+          },
+          "order": 1020003,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_3",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_3_1"
+          ],
+          "name": {
+            "BR": "Seš'qa",
+            "CN": "塞什卡",
+            "DE": "Seš’qa",
+            "EN": "Seš'qa",
+            "FR": "Seš'qa",
+            "ID": "Seš’qa",
+            "IT": "Seš'qa",
+            "JP": "セシュカ",
+            "KR": "세쉬카",
+            "MX": "Seš'qa",
+            "RU": "Сеш’ка",
+            "TC": "塞什卡",
+            "TH": "เซ​ช​กา",
+            "VN": "Seš'qa"
+          },
+          "order": 1020003,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_4": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_4",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_4_1"
+          ],
+          "name": {
+            "BR": "Cabala da Tranquilidade",
+            "CN": "寂语修会",
+            "DE": "Orden der Stille",
+            "EN": "Cabal of Tranquility",
+            "FR": "Cabale de la Tranquillité",
+            "ID": "Cabal of Tranquility",
+            "IT": "Cabala della Tranquillità",
+            "JP": "静語伝道会",
+            "KR": "고요한 수도회",
+            "MX": "Cábala de la Tranquilidad",
+            "RU": "Секта умиротворения",
+            "TC": "寂語修會",
+            "TH": "ภาคี​วัจ​น​สันโดษ",
+            "VN": "Tu Hội Tĩnh Lặng"
+          },
+          "order": 1020004,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_4",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_4_1"
+          ],
+          "name": {
+            "BR": "Cabala da Tranquilidade",
+            "CN": "寂语修会",
+            "DE": "Orden der Stille",
+            "EN": "Cabal of Tranquility",
+            "FR": "Cabale de la Tranquillité",
+            "ID": "Cabal of Tranquility",
+            "IT": "Cabala della Tranquillità",
+            "JP": "静語伝道会",
+            "KR": "고요한 수도회",
+            "MX": "Cábala de la Tranquilidad",
+            "RU": "Секта умиротворения",
+            "TC": "寂語修會",
+            "TH": "ภาคี​วัจ​น​สันโดษ",
+            "VN": "Tu Hội Tĩnh Lặng"
+          },
+          "order": 1020004,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_5": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_5",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_5_1"
+          ],
+          "name": {
+            "BR": "Ordem do Juramento de Aço",
+            "CN": "铁誓军",
+            "DE": "Orden des Stahlschwurs",
+            "EN": "Order of Steel Oath",
+            "FR": "Ordre du serment d'acier",
+            "ID": "Order of Steel Oath",
+            "IT": "Ordine del Giuramento d'acciaio",
+            "JP": "鉄誓軍",
+            "KR": "철의 서약군",
+            "MX": "Orden del Juramento de acero",
+            "RU": "Орден Стальной клятвы",
+            "TC": "鐵誓軍",
+            "TH": "ภาคี​โล​ห​ปฏิญาณ",
+            "VN": "Hội Lời Thề Thép"
+          },
+          "order": 1020005,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_5",
+          "icon": "prts_centralAchive_basic",
+          "itemIds": [
+            "nar_document_v1d2_5_1"
+          ],
+          "name": {
+            "BR": "Ordem do Juramento de Aço",
+            "CN": "铁誓军",
+            "DE": "Orden des Stahlschwurs",
+            "EN": "Order of Steel Oath",
+            "FR": "Ordre du serment d'acier",
+            "ID": "Order of Steel Oath",
+            "IT": "Ordine del Giuramento d'acciaio",
+            "JP": "鉄誓軍",
+            "KR": "철의 서약군",
+            "MX": "Orden del Juramento de acero",
+            "RU": "Орден Стальной клятвы",
+            "TC": "鐵誓軍",
+            "TH": "ภาคี​โล​ห​ปฏิญาณ",
+            "VN": "Hội Lời Thề Thép"
+          },
+          "order": 1020005,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_basic"
+          }
+        }
+      },
+      "document_v1d2_9": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_9",
+          "icon": "prts_read_file",
+          "itemIds": [
+            "nar_document_v1d2_9_1"
+          ],
+          "name": {
+            "BR": "Pedra de Marcação",
+            "CN": "首墩",
+            "DE": "Grenzstein",
+            "EN": "Marker Stone",
+            "FR": "Pierre de marquage",
+            "ID": "Batu Penanda",
+            "IT": "Pietra di demarcazione",
+            "JP": "首礎",
+            "KR": "수돈",
+            "MX": "Piedra Marcadora",
+            "RU": "Межевой камень",
+            "TC": "首墩",
+            "TH": "หิน​นำทาง",
+            "VN": "Đá Ranh Giới"
+          },
+          "order": 1020009,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d2_9",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v1d2_9_1"
+          ],
+          "name": {
+            "BR": "Pedra de Marcação",
+            "CN": "首墩",
+            "DE": "Grenzstein",
+            "EN": "Marker Stone",
+            "FR": "Pierre de marquage",
+            "ID": "Batu Penanda",
+            "IT": "Pietra di demarcazione",
+            "JP": "首礎",
+            "KR": "수돈",
+            "MX": "Piedra Marcadora",
+            "RU": "Межевой камень",
+            "TC": "首墩",
+            "TH": "หิน​นำทาง",
+            "VN": "Đá Ranh Giới"
+          },
+          "order": 1020009,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_file",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      },
+      "document_v1d3_1": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d3_1",
+          "icon": "prts_read_pad",
+          "itemIds": [
+            "nar_document_v1d3_1_1"
+          ],
+          "name": {
+            "BR": "Herói de Qingbo",
+            "CN": "清波豪杰",
+            "DE": "Held der Qingbo",
+            "EN": "Qingbo Hero",
+            "FR": "Héros de Qingbo",
+            "ID": "Pahlawan Qingbo",
+            "IT": "Eroe di Qingbo",
+            "JP": "清波の豪傑",
+            "KR": "청파 호걸",
+            "MX": "Héroe de Qingbo",
+            "RU": "Герой Циньбо",
+            "TC": "清波豪傑",
+            "TH": "ฮีโร่​ของ​ชิง​ป๋อ",
+            "VN": "Người Hùng Thanh Ba"
+          },
+          "order": 1030001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d3_1",
+          "icon": "prts_centralAchive_others",
+          "itemIds": [
+            "nar_document_v1d3_1_1"
+          ],
+          "name": {
+            "BR": "Herói de Qingbo",
+            "CN": "清波豪杰",
+            "DE": "Held der Qingbo",
+            "EN": "Qingbo Hero",
+            "FR": "Héros de Qingbo",
+            "ID": "Pahlawan Qingbo",
+            "IT": "Eroe di Qingbo",
+            "JP": "清波の豪傑",
+            "KR": "청파 호걸",
+            "MX": "Héroe de Qingbo",
+            "RU": "Герой Циньбо",
+            "TC": "清波豪傑",
+            "TH": "ฮีโร่​ของ​ชิง​ป๋อ",
+            "VN": "Hào Kiệt Thanh Ba"
+          },
+          "order": 1030001,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_pad",
+            "newValue": "prts_centralAchive_others"
+          }
+        }
+      },
+      "document_v1d3_2": {
+        "oldValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d3_2",
+          "icon": "prts_read_pad",
+          "itemIds": [
+            "nar_document_v1d3_2_1"
+          ],
+          "name": {
+            "BR": "Vale do Cofre de Espadas",
+            "CN": "藏剑谷",
+            "DE": "Tal des Schwertverlieses",
+            "EN": "Sword Vault Dale",
+            "FR": "Val du caveau des lames",
+            "ID": "Lembah Benteng Pedang",
+            "IT": "Valletta di Voltaspada",
+            "JP": "蔵剣谷",
+            "KR": "장검 골짜기",
+            "MX": "Valle Ocultaespadas",
+            "RU": "Долина Залежи Клинков",
+            "TC": "藏劍谷",
+            "TH": "เดล​คลัง​ดาบ",
+            "VN": "Cốc Tàng Kiếm"
+          },
+          "order": 1030002,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "newValue": {
+          "categoryId": "document",
+          "firstLvId": "document_v1d3_2",
+          "icon": "prts_centralAchive_new",
+          "itemIds": [
+            "nar_document_v1d3_2_1"
+          ],
+          "name": {
+            "BR": "Vale do Cofre de Espadas",
+            "CN": "藏剑谷",
+            "DE": "Tal des Schwertverlieses",
+            "EN": "Sword Vault Dale",
+            "FR": "Val du caveau des lames",
+            "ID": "Lembah Benteng Pedang",
+            "IT": "Valletta di Voltaspada",
+            "JP": "蔵剣谷",
+            "KR": "장검 골짜기",
+            "MX": "Valle Ocultaespadas",
+            "RU": "Долина Залежи Клинков",
+            "TC": "藏劍谷",
+            "TH": "เดล​คลัง​ดาบ",
+            "VN": "Cốc Tàng Kiếm"
+          },
+          "order": 1030002,
+          "subName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          }
+        },
+        "changed": {
+          "icon": {
+            "type": "value",
+            "oldValue": "prts_read_pad",
+            "newValue": "prts_centralAchive_new"
+          }
+        }
+      }
+    }
+  }
+}

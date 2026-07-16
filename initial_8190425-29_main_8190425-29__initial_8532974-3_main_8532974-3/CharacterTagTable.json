@@ -1,0 +1,1715 @@
+{
+  "tableName": "CharacterTagTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 29
+  },
+  "entries": {
+    "added": {
+      "chr_0032_lizhiyan": {
+        "behaviourHateTagIds": [
+          "tag_hobby_fashion"
+        ],
+        "behaviourUnavailableTagIds": [
+          "tag_disposition_extrovert"
+        ],
+        "blocTagId": "tag_power_hongacademy",
+        "charId": "chr_0032_lizhiyan",
+        "dispositionTagIds": [
+          "tag_activity_universe",
+          "tag_activity_shanshantu"
+        ],
+        "expertTagIds": [
+          "tag_expert_combat",
+          "tag_expert_strong"
+        ],
+        "giftPreferTagId": [
+          "tag_giftperfer_wuling_5"
+        ],
+        "hobbyTagIds": [
+          "tag_hobby_nature",
+          "tag_hobby_charity"
+        ],
+        "raceTagId": "tag_race_bird"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "chr_0002_endminm": {
+        "oldValue": {
+          "behaviourHateTagIds": [],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0002_endminm",
+          "dispositionTagIds": [
+            "tag_disposition_secret"
+          ],
+          "expertTagIds": [
+            "tag_expert_secret"
+          ],
+          "giftPreferTagId": [],
+          "hobbyTagIds": [
+            "tag_hobby_secret"
+          ],
+          "raceTagId": "tag_race_unknown"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0002_endminm",
+          "dispositionTagIds": [
+            "tag_disposition_secret"
+          ],
+          "expertTagIds": [
+            "tag_expert_secret"
+          ],
+          "giftPreferTagId": [],
+          "hobbyTagIds": [
+            "tag_hobby_secret"
+          ],
+          "raceTagId": "tag_race_unknown"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0003_endminf": {
+        "oldValue": {
+          "behaviourHateTagIds": [],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0003_endminf",
+          "dispositionTagIds": [
+            "tag_disposition_secret"
+          ],
+          "expertTagIds": [
+            "tag_expert_secret"
+          ],
+          "giftPreferTagId": [],
+          "hobbyTagIds": [
+            "tag_hobby_secret"
+          ],
+          "raceTagId": "tag_race_unknown"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0003_endminf",
+          "dispositionTagIds": [
+            "tag_disposition_secret"
+          ],
+          "expertTagIds": [
+            "tag_expert_secret"
+          ],
+          "giftPreferTagId": [],
+          "hobbyTagIds": [
+            "tag_hobby_secret"
+          ],
+          "raceTagId": "tag_race_unknown"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0014_aurora": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_rhodes",
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0014_aurora",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_wild",
+            "tag_expert_medic"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_exercise",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_bear"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0014_aurora",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_wild",
+            "tag_expert_medic"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_exercise",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_bear"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_rhodes"
+          }
+        }
+      },
+      "chr_0025_ardelia": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_culture"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_rhodes",
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0025_ardelia",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_nature",
+            "tag_expert_adv"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_nature"
+          ],
+          "raceTagId": "tag_race_sheep"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_culture"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0025_ardelia",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_nature",
+            "tag_expert_adv"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_nature"
+          ],
+          "raceTagId": "tag_race_sheep"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_rhodes"
+          }
+        }
+      },
+      "chr_0004_pelica": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0004_pelica",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_team",
+            "tag_expert_oripow"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_bird"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0004_pelica",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_team",
+            "tag_expert_oripow"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_bird"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0018_dapan": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "",
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0018_dapan",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_cook",
+            "tag_expert_tools"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_bear"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0018_dapan",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_cook",
+            "tag_expert_tools"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_bear"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": ""
+          }
+        }
+      },
+      "chr_0005_chen": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0005_chen",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_erudit",
+            "tag_expert_flash"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_culture",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_long"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0005_chen",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_erudit",
+            "tag_expert_flash"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_culture",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_long"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0019_karin": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_art"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0019_karin",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_team",
+            "tag_expert_cook"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_charity",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_dog"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_art"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0019_karin",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_team",
+            "tag_expert_cook"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_charity",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_dog"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0006_wolfgd": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0006_wolfgd",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_sneak"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_wolf"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0006_wolfgd",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_sneak"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_wolf"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0016_laevat": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_rhodes",
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0016_laevat",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_oripow",
+            "tag_expert_sense"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_creativity",
+            "tag_hobby_life"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0016_laevat",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_oripow",
+            "tag_expert_sense"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_creativity",
+            "tag_hobby_life"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_rhodes"
+          }
+        }
+      },
+      "chr_0007_ikut": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_tribe",
+          "blocTagId": "tag_power_tribe",
+          "charId": "chr_0007_ikut",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_tools",
+            "tag_expert_nature"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_horse"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_tribe",
+          "charId": "chr_0007_ikut",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_tools",
+            "tag_expert_nature"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_horse"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_tribe"
+          }
+        }
+      },
+      "chr_0012_avywen": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocId": "power_commerce",
+          "blocTagId": "tag_power_commerce",
+          "charId": "chr_0012_avywen",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_street",
+            "tag_expert_agile"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_fashion"
+          ],
+          "raceTagId": "tag_race_rabbit"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocTagId": "tag_power_commerce",
+          "charId": "chr_0012_avywen",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_street",
+            "tag_expert_agile"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_fashion"
+          ],
+          "raceTagId": "tag_race_rabbit"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_commerce"
+          }
+        }
+      },
+      "chr_0013_aglina": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_rhodes",
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0013_aglina",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_adv",
+            "tag_expert_oripow"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_fashion",
+            "tag_hobby_culture"
+          ],
+          "raceTagId": "tag_race_fox"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0013_aglina",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_adv",
+            "tag_expert_oripow"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_fashion",
+            "tag_hobby_culture"
+          ],
+          "raceTagId": "tag_race_fox"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_rhodes"
+          }
+        }
+      },
+      "chr_0015_lifeng": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_art"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocId": "",
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0015_lifeng",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_agile",
+            "tag_expert_nature"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_exercise",
+            "tag_hobby_nature"
+          ],
+          "raceTagId": "tag_race_rootless"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_art"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0015_lifeng",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_agile",
+            "tag_expert_nature"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_exercise",
+            "tag_hobby_nature"
+          ],
+          "raceTagId": "tag_race_rootless"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": ""
+          }
+        }
+      },
+      "chr_0024_deepfin": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "",
+          "blocTagId": "tag_power_syndicates",
+          "charId": "chr_0024_deepfin",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_wild",
+            "tag_expert_tactic"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_culture",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_stoat"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_knowledge"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_syndicates",
+          "charId": "chr_0024_deepfin",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_wild",
+            "tag_expert_tactic"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_culture",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_stoat"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": ""
+          }
+        }
+      },
+      "chr_0009_azrila": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_life"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_army",
+          "blocTagId": "tag_power_army",
+          "charId": "chr_0009_azrila",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_strong"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_exercise",
+            "tag_hobby_tech"
+          ],
+          "raceTagId": "tag_race_angel"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_life"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_army",
+          "charId": "chr_0009_azrila",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_strong"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_exercise",
+            "tag_hobby_tech"
+          ],
+          "raceTagId": "tag_race_angel"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_army"
+          }
+        }
+      },
+      "chr_0031_mifu": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "",
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0031_mifu",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_strong",
+            "tag_expert_combat"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_4"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_exercise",
+            "tag_hobby_life"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0031_mifu",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_strong",
+            "tag_expert_combat"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_4"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": ""
+          },
+          "hobbyTagIds[0]": {
+            "type": "value",
+            "oldValue": "tag_hobby_exercise",
+            "newValue": "tag_hobby_life"
+          },
+          "hobbyTagIds[1]": {
+            "type": "value",
+            "oldValue": "tag_hobby_life",
+            "newValue": "tag_hobby_exercise"
+          }
+        }
+      },
+      "chr_0011_seraph": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocId": "power_monastery",
+          "blocTagId": "tag_power_monastery",
+          "charId": "chr_0011_seraph",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_erudit",
+            "tag_expert_info"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_tech",
+            "tag_hobby_knowledge"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocTagId": "tag_power_monastery",
+          "charId": "chr_0011_seraph",
+          "dispositionTagIds": [
+            "tag_activity_universe"
+          ],
+          "expertTagIds": [
+            "tag_expert_erudit",
+            "tag_expert_info"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_tech",
+            "tag_hobby_knowledge"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_monastery"
+          }
+        }
+      },
+      "chr_0021_whiten": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0021_whiten",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tactic",
+            "tag_expert_sneak"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_art",
+            "tag_hobby_knowledge"
+          ],
+          "raceTagId": "tag_race_cat"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0021_whiten",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tactic",
+            "tag_expert_sneak"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_art",
+            "tag_hobby_knowledge"
+          ],
+          "raceTagId": "tag_race_cat"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0017_yvonne": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0017_yvonne",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_flash",
+            "tag_expert_team"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_fashion",
+            "tag_hobby_tech"
+          ],
+          "raceTagId": "tag_race_dragon"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_exercise"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0017_yvonne",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_flash",
+            "tag_expert_team"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_fashion",
+            "tag_hobby_tech"
+          ],
+          "raceTagId": "tag_race_dragon"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0020_meurs": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0020_meurs",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tools",
+            "tag_expert_cook"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_dog"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0020_meurs",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tools",
+            "tag_expert_cook"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_life",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_dog"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0022_bounda": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_culture"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0022_bounda",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_wild",
+            "tag_expert_street"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_snake"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_culture"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0022_bounda",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_wild",
+            "tag_expert_street"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_snake"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0026_lastrite": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_life"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocId": "",
+          "blocTagId": "tag_power_sesqa",
+          "charId": "chr_0026_lastrite",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_strong"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_knowledge",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_life"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocTagId": "tag_power_sesqa",
+          "charId": "chr_0026_lastrite",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_strong"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_knowledge",
+            "tag_hobby_charity"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": ""
+          }
+        }
+      },
+      "chr_0023_antal": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_culture"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0023_antal",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tools",
+            "tag_expert_sense"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_knowledge",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_lizard"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_culture"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0023_antal",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tools",
+            "tag_expert_sense"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_tundra_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_knowledge",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_lizard"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0027_tangtang": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_art"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0027_tangtang",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_agile"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_cat"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_art"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0027_tangtang",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_combat",
+            "tag_expert_agile"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_creativity"
+          ],
+          "raceTagId": "tag_race_cat"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0028_wulfa": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocId": "power_endfield",
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0028_wulfa",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_sense",
+            "tag_expert_street"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_wolf"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_tech"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_introvert"
+          ],
+          "blocTagId": "tag_power_endfield",
+          "charId": "chr_0028_wulfa",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_sense",
+            "tag_expert_street"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_2"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_nature",
+            "tag_hobby_exercise"
+          ],
+          "raceTagId": "tag_race_wolf"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_endfield"
+          }
+        }
+      },
+      "chr_0029_pograni": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_life"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "power_rhodes",
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0029_pograni",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tactic",
+            "tag_expert_team"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_culture",
+            "tag_hobby_knowledge"
+          ],
+          "raceTagId": "tag_race_bird"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_life"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_rhodes",
+          "charId": "chr_0029_pograni",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_tactic",
+            "tag_expert_team"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_1"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_culture",
+            "tag_hobby_knowledge"
+          ],
+          "raceTagId": "tag_race_bird"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": "power_rhodes"
+          }
+        }
+      },
+      "chr_0030_zhuangfy": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocId": "",
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0030_zhuangfy",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_erudit",
+            "tag_expert_team"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_3"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_charity",
+            "tag_hobby_culture"
+          ],
+          "raceTagId": "tag_race_kilin"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_fashion"
+          ],
+          "behaviourUnavailableTagIds": [],
+          "blocTagId": "tag_power_hongacademy",
+          "charId": "chr_0030_zhuangfy",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_erudit",
+            "tag_expert_team"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_3"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_charity",
+            "tag_hobby_culture"
+          ],
+          "raceTagId": "tag_race_kilin"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": ""
+          }
+        }
+      },
+      "chr_0033_camille": {
+        "oldValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_nature"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocId": "",
+          "blocTagId": "tag_power_sesqa",
+          "charId": "chr_0033_camille",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_sense",
+            "tag_expert_agile"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_4"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_creativity",
+            "tag_hobby_tech"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "newValue": {
+          "behaviourHateTagIds": [
+            "tag_hobby_nature"
+          ],
+          "behaviourUnavailableTagIds": [
+            "tag_disposition_extrovert"
+          ],
+          "blocTagId": "tag_power_sesqa",
+          "charId": "chr_0033_camille",
+          "dispositionTagIds": [
+            "tag_activity_universe",
+            "tag_activity_shanshantu"
+          ],
+          "expertTagIds": [
+            "tag_expert_sense",
+            "tag_expert_agile"
+          ],
+          "giftPreferTagId": [
+            "tag_giftperfer_wuling_4"
+          ],
+          "hobbyTagIds": [
+            "tag_hobby_creativity",
+            "tag_hobby_tech"
+          ],
+          "raceTagId": "tag_race_deavil"
+        },
+        "changed": {
+          "blocId": {
+            "type": "value",
+            "oldValue": ""
+          }
+        }
+      }
+    }
+  }
+}

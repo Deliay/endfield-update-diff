@@ -1,0 +1,61 @@
+{
+  "tableName": "SpaceshipAlbumTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "explore_album_1": {
+        "albumId": "explore_album_1",
+        "albumName": {
+          "BR": "Álbum das Fronteiras",
+          "CN": "开拓专辑",
+          "DE": "Grenzgebiet-Album",
+          "EN": "Frontiers Album",
+          "FR": "Album des Confins",
+          "ID": "Album Perbatasan",
+          "IT": "Album della frontiera",
+          "JP": "探索アルバム",
+          "KR": "개척 앨범",
+          "MX": "Álbum de las Fronteras",
+          "RU": "Альбом «Колонист»",
+          "TC": "開拓專輯",
+          "TH": "อัลบั้ม​รูป​ชายแดน",
+          "VN": "Album Tiền Tuyến"
+        },
+        "effect": "P_fxint_s_interactive_musicplaye_explore_2501",
+        "icon": "icon_spaceship_musicplayer_explore",
+        "order": 1
+      },
+      "factory_album_1": {
+        "albumId": "factory_album_1",
+        "albumName": {
+          "BR": "Álbum do CAI",
+          "CN": "工业专辑",
+          "DE": "AIK-Album",
+          "EN": "AIC Album",
+          "FR": "Album du GIA",
+          "ID": "Album AIC",
+          "IT": "Album del SIA",
+          "JP": "工業アルバム",
+          "KR": "공업 앨범",
+          "MX": "Álbum del CAI",
+          "RU": "Альбом АПК",
+          "TC": "工業專輯",
+          "TH": "อัลบั้ม​รูป​ AIC",
+          "VN": "Album Khu Phức Hợp"
+        },
+        "effect": "P_fxint_s_interactive_musicplaye_factory_2501",
+        "icon": "icon_spaceship_musicplayer_fac",
+        "order": 2
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

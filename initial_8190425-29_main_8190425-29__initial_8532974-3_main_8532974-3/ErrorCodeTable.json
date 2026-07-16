@@ -1,0 +1,721 @@
+{
+  "tableName": "ErrorCodeTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 13,
+    "removed": 0,
+    "changed": 5
+  },
+  "entries": {
+    "added": {
+      "372": {
+        "text": {
+          "BR": "%s foi colocado no depósito",
+          "CN": "%s已被存入仓库",
+          "DE": "%s wurde im Depot platziert.",
+          "EN": "%s has been placed in the depot",
+          "FR": "%s a été transféré dans l'entrepôt",
+          "ID": "%s telah dimasukkan ke depot",
+          "IT": "%s è ora nel deposito.",
+          "JP": "%sは倉庫に保管されました",
+          "KR": "%s 창고에 보관되었습니다.",
+          "MX": "%s se colocó en el depósito",
+          "RU": "%s теперь находится на складе.",
+          "TC": "%s已被存入倉庫",
+          "TH": "%s ถูก​วาง​ไว้​ใน​คลัง​แล้ว",
+          "VN": "%s đã được đặt vào kho hàng"
+        }
+      },
+      "549": {
+        "text": {
+          "BR": "O modo da instalação foi bloqueado e não pode ser alterado",
+          "CN": "当前设备模式已被锁定，无法切换",
+          "DE": "Der Anlagenmodus wurde gesperrt und kann nicht gewechselt werden.",
+          "EN": "Facility mode has been locked and cannot be switched",
+          "FR": "Le mode Installation est verrouillé et ne peut pas être changé",
+          "ID": "Mode fasilitas telah dikunci dan tidak bisa diubah",
+          "IT": "La modalità della struttura è bloccata e non può essere cambiata.",
+          "JP": "設備のモードがロックされているため、切り替えられません",
+          "KR": "설비 모드 잠금 상태에서는 전환할 수 없습니다.",
+          "MX": "El modo de la instalación está bloqueado y no se puede cambiar",
+          "RU": "Режим сооружения закрыт и не подлежит изменению.",
+          "TC": "目前設備模式已被鎖定，無法切換",
+          "TH": "โหม​ด​ของ​สิ่งปลูกสร้าง​ถูก​ล็อก​ไว้​และ​ไม่​สามารถ​สลับ​ได้",
+          "VN": "Chế độ công trình đã khóa và không thể chuyển đổi"
+        }
+      },
+      "1084": {
+        "text": {
+          "BR": "O limite diário para envio de solicitações de amizade foi excedido. Tente novamente amanhã.",
+          "CN": "今日已达发送好友申请次数上限，请明日再尝试",
+          "DE": "Du hast das tägliche Limit für das Senden von Freundschaftsanfragen überschritten. Bitte versuche es morgen erneut.",
+          "EN": "Daily limit for sending friend requests has been exceeded. Please try again tomorrow.",
+          "FR": "La limite quotidienne d'envoi de demandes d'amis est dépassée. Veuillez réessayer demain.",
+          "ID": "Pengiriman permintaan pertemanan melebihi batas harian. Coba lagi besok.",
+          "IT": "È stato superato il limite giornaliero per l'invio di richieste di amicizia. Riprova domani.",
+          "JP": "本日のフレンド申請回数は上限に達しました。また明日に申請しましょう",
+          "KR": "오늘 보낼 수 있는 친구 신청 횟수 최대치에 도달했습니다. 내일 다시 시도해 주세요.",
+          "MX": "Se superó el límite diario para enviar solicitudes de amistad. Por favor, inténtalo de nuevo mañana.",
+          "RU": "Превышен дневной лимит запросов в друзья. Повторите попытку завтра.",
+          "TC": "今日傳送好友申請次數已達上限，請明天再試",
+          "TH": "เกิน​จำนวน​ครั้ง​สูงสุด​ใน​การ​ส่ง​คำขอ​เป็นเพื่อน​ต่อ​วัน​แล้ว​ โปรด​ลอง​อีกครั้ง​ใน​วันพรุ่งนี้",
+          "VN": "Đã vượt quá giới hạn gửi lời mời kết bạn hằng ngày. Vui lòng thử lại vào ngày mai."
+        }
+      },
+      "1085": {
+        "text": {
+          "BR": "O limite diário para compartilhamento de projetos com amigos foi excedido. Tente novamente amanhã.",
+          "CN": "今日已达好友间分享蓝图次数上限，请明日再尝试",
+          "DE": "Du hast das tägliche Limit für das Teilen von Bauplänen mit Freunden überschritten. Bitte versuche es morgen erneut.",
+          "EN": "Daily limit for sharing blueprints with friends has been exceeded. Please try again tomorrow.",
+          "FR": "La limite quotidienne de partage de plans entre amis est dépassée. Veuillez réessayer demain.",
+          "ID": "Pembagian cetak biru dengan teman melebihi batas harian. Coba lagi besok.",
+          "IT": "È stato superato il limite giornaliero per la condivisione di progetti con gli amici. Riprova domani.",
+          "JP": "本日のフレンド間図面共有回数は上限に達しました。また明日に共有しましょう",
+          "KR": "오늘 친구 청사진 공유 횟수 최대치에 도달했습니다. 내일 다시 시도해 주세요.",
+          "MX": "Se superó el límite diario para compartir Planos con amigos. Por favor, inténtalo de nuevo mañana.",
+          "RU": "Превышен дневной лимит обмена чертежами с друзьями. Повторите попытку завтра.",
+          "TC": "今日好友間分享藍圖次數已達上限，請明天再試",
+          "TH": "เกิน​จำนวน​ครั้ง​สูงสุด​ใน​การ​แชร์​พิมพ์เขียว​ให้​เพื่อน​ต่อ​วัน​แล้ว​ โปรด​ลอง​อีกครั้ง​ใน​วันพรุ่งนี้",
+          "VN": "Đã vượt quá giới hạn chia sẻ bản vẽ với bạn bè hằng ngày. Vui lòng thử lại vào ngày mai."
+        }
+      },
+      "1907": {
+        "text": {
+          "BR": "A área atual foi totalmente explorada",
+          "CN": "当前区域已全部探测",
+          "DE": "Das aktuelle Gebiet wurde vollständig erkundet.",
+          "EN": "Current area has been fully explored",
+          "FR": "La zone actuelle a été entièrement explorée.",
+          "ID": "Area saat ini telah sepenuhnya dijelajahi",
+          "IT": "L'area attuale è stata completamente esplorata",
+          "JP": "このエリアの探知はすべて完了しています",
+          "KR": "현재 구역을 모두 탐측하였습니다.",
+          "MX": "La zona actual se exploró por completo",
+          "RU": "Текущая область полностью исследована",
+          "TC": "目前區域已全部探測",
+          "TH": "สำรวจ​พื้นที่​ปัจจุบัน​ทั้งหมด​แล้ว",
+          "VN": "Khu vực hiện tại đã được khám phá hoàn toàn."
+        }
+      },
+      "2743": {
+        "text": {
+          "BR": "Tecnologia do CAI %1$s ainda não pesquisada; %2$s foi substituído por %3$s",
+          "CN": "由于%1$s工业计划未研究，%2$s已调整为%3$s",
+          "DE": "Die AIK-Technologie „%1$s“ wurde noch nicht erforscht. %2$s wurde durch %3$s ersetzt.",
+          "EN": "AIC technology %1$s not yet researched; %2$s has been replaced with %3$s",
+          "FR": "La technologie du GIA %1$s n'a pas encore été recherchée. %2$s a été remplacé par %3$s",
+          "ID": "Teknologi AIC %1$s belum diteliti; %2$s telah diganti oleh %3$s",
+          "IT": "Non sono ancora state effettuate ricerche sulla tecnologia del SIA %1$s. Sostituzione di %2$s con %3$s.",
+          "JP": "%1$sの工業計画は研究されていないため、%2$sは%3$sへと調整されました",
+          "KR": "%1$s 공업 계획이 연구되지 않아 %2$s이(가) %3$s(으)로 조정되었습니다.",
+          "MX": "Todavía no se ha investigado la Tecnología del CAI %1$s; %2$s se reemplazó por %3$s",
+          "RU": "Технология АПК «%1$s» еще не изучена; вместо технологии «%2$s» используется «%3$s».",
+          "TC": "由於%1$s工業計劃未研究，%2$s已調整為%3$s",
+          "TH": "ยัง​ไม่ได้​วิจัย​เทคโนโลยี​ AIC %1$s %2$s ถูก​แทนที่​ด้วย​ %3$s แล้ว",
+          "VN": "Công nghệ Khu Phức Hợp %1$s chưa được nghiên cứu; %2$s đã được thay thế bởi %3$s"
+        }
+      },
+      "2744": {
+        "text": {
+          "BR": "A tecnologia %s e outras tecnologias do CAI ainda não foram pesquisadas. Os modos de operação de diversas instalações foram alterados.",
+          "CN": "由于%s等工业计划未研究，多个设备的模式发生变化",
+          "DE": "„%s“ und andere AIK-Technologien wurden noch nicht erforscht. Die aktiven Modi einiger Anlagen wurden geändert.",
+          "EN": "%s and other AIC technologies are not yet researched. The working modes of a number of facilities have been changed.",
+          "FR": "%s et d'autres technologies du GIA n'ont pas encore été recherchées. Les modes de fonctionnement de plusieurs installations ont été modifiés.",
+          "ID": "%s dan teknologi AIC lain belum diteliti. Mode kerja sejumlah fasilitas telah diubah.",
+          "IT": "Non sono ancora state effettuate ricerche su %s e altre tecnologie del SIA. Le modalità operative di alcune strutture sono state modificate.",
+          "JP": "%sなどの工業計画は研究されていないため、複数設備のモードが変更されました",
+          "KR": "%s 등 공업 계획이 연구되지 않아 여러 설비의 모드가 변경되었습니다.",
+          "MX": "%s y otras Tecnologías del CAI todavía no se han investigado. Se cambiaron los modos de funcionamiento de varias instalaciones.",
+          "RU": "«%s» и другие технологии АПК еще не изучены. Рабочие режимы ряда сооружений изменены.",
+          "TC": "由於%s等工業計劃未研究，多個設備的模式發生變化",
+          "TH": "ยัง​ไม่ได้​วิจัย​ %s และ​เทคโนโลยี​ AIC อื่​นๆ​ โหม​ด​การทำงาน​ของ​สิ่งปลูกสร้าง​บางส่วน​จึง​ถูก​เปลี่ยน​แล้ว",
+          "VN": "%s và các công nghệ Khu Phức Hợp khác vẫn chưa được nghiên cứu. Chế độ hoạt động của một số công trình đã được thay đổi."
+        }
+      },
+      "2748": {
+        "text": {
+          "BR": "A tecnologia do CAI Ajuste na Taxa de Fluxo não foi pesquisada. Algumas funcionalidades das portas de controle estão inativas.",
+          "CN": "由于物流限速工业计划未研究，准入口部分功能未开启",
+          "DE": "Die AIK-Technologie-Flussrate-Anpassung wurde nicht erforscht. Bestimmte Funktionen der Steuerung sind inaktiv.",
+          "EN": "AIC technology Flow Rate Adjustment is not researched. Certain features of the control ports are inactive.",
+          "FR": "Le réglage du débit de la technologie du GIA n'est pas en cours de recherche. Certaines fonctionnalités des ports de contrôle sont indisponibles.",
+          "ID": "Penyesuaian Laju Aliran teknologi AIC belum diteliti. Fitur tertentu di porta kontrol tidak aktif.",
+          "IT": "Non sono state svolte ricerche sulla regolazione della portata della tecnologia del SIA. Alcune funzionalità delle porte di controllo sono inattive.",
+          "JP": "物流速度制限の工業計画がまだ研究されていないため、制御口の機能が一部制限されています",
+          "KR": "물류 속도 제한 공업 계획이 연구되지 않아, 컨트롤 포트의 일부 기능이 개방되지 않았습니다.",
+          "MX": "No se investigó la Tecnología del CAI Ajuste de la tasa de flujo. Ciertas funciones de los puertos de control están inactivas.",
+          "RU": "Технология АПК «Настройка скорости потока» еще не изучена. Некоторые функции портов проверки неактивны.",
+          "TC": "由於物流限速工業計劃未研究，准入口部分功能未開啟",
+          "TH": "ยัง​ไม่ได้​วิจัย​เทคโนโลยี​ AIC การ​ปรับ​อัตรา​การ​ไหล​ คุณสมบัติ​บางอย่าง​ของ​พอร์ต​ควบคุม​จึง​ยัง​ไม่​พร้อม​ใช้งาน",
+          "VN": "Chưa nghiên cứu công nghệ Khu Phức Hợp Điều Chỉnh Tốc Độ Chảy. Một số tính năng của cổng điều khiển hiện chưa hoạt động."
+        }
+      },
+      "2842": {
+        "text": {
+          "BR": "Não é possível entrar neste Espaço do Protocolo",
+          "CN": "无法进入该协议空间",
+          "DE": "Diese Protokoll-Dimension kann nicht betreten werden.",
+          "EN": "Cannot enter this Protocol Space",
+          "FR": "Impossible d'entrer dans cet espace de Protocole.",
+          "ID": "Tidak bisa memasuki Dimensi Protokol ini",
+          "IT": "Impossibile entrare in questo spazio protocollare.",
+          "JP": "この協約空間に入れません",
+          "KR": "해당 프로토콜 공간에 진입할 수 없습니다.",
+          "MX": "No se puede entrar a este Espacio de protocolo",
+          "RU": "Невозможно войти в протокольный разлом.",
+          "TC": "無法進入該協議空間",
+          "TH": "ไม่​สามารถ​เข้าสู่​พื้นที่​โปร​โต​คอล​นี้​ได้",
+          "VN": "Không thể vào Không Gian Giao Thức này"
+        }
+      },
+      "2902": {
+        "text": {
+          "BR": "Limite de armazenamento do recipiente atingido. Não é possível despejar fluido ou gás.",
+          "CN": "对应容器仓储数量已达上限，无法倾倒液体或气体",
+          "DE": "Behälterkapazität maximiert. Flüssigkeit oder Gas kann nicht gegossen werden.",
+          "EN": "Container storage maxed. Cannot pour fluid or gas.",
+          "FR": "Contenant plein. Impossible d'ajouter du fluide ou du gaz.",
+          "ID": "Penyimpanan kontainer sudah maks. Tidak bisa menuangkan cairan atau gas.",
+          "IT": "Stoccaggio dei contenitori al massimo. Impossibile versare fluidi o gas.",
+          "JP": "この容器の在庫数が上限に達したため、液体またはガスを放出できません",
+          "KR": "해당 용기의 저장고 수량이 가득 차 액체 혹은 기체 붓기를 진행할 수 없습니다.",
+          "MX": "Almacenamiento de contenedor al máximo. No se puede verter líquido ni gas.",
+          "RU": "Контейнер заполнен. Невозможно подать жидкость или газ.",
+          "TC": "對應容器倉儲數量已達上限，無法傾倒液體或氣體",
+          "TH": "พื้นที่​เก็บของ​เต็ม​แล้ว​ ไม่​สามารถ​เท​ของเหลว​หรือ​ก๊าซ​ได้",
+          "VN": "Thùng lưu trữ đã đạt giới hạn. Không thể đổ chất lỏng hoặc khí."
+        }
+      },
+      "2904": {
+        "text": {
+          "BR": "Não é possível trocar o modo",
+          "CN": "模式切换失败",
+          "DE": "Wechsel des Modus nicht möglich.",
+          "EN": "Cannot switch mode",
+          "FR": "Impossible de changer de mode",
+          "ID": "Tidak bisa beralih mode",
+          "IT": "Impossibile cambiare modalità",
+          "JP": "モードの切り替えが失敗しました",
+          "KR": "모드 전환 실패",
+          "MX": "No se puede cambiar de modo",
+          "RU": "Невозможно изменить режим.",
+          "TC": "模式切換失敗",
+          "TH": "ไม่​สามารถ​สลับ​โหม​ด​ได้",
+          "VN": "Không thể chuyển chế độ"
+        }
+      },
+      "2905": {
+        "text": {
+          "BR": "Há um número excessivo de portas de controle com a opção \"Ajustar Fluxo\" ativada. Desative essa função para algumas delas antes de tentar novamente.",
+          "CN": "准入口限速开启数量已达上限，请关闭部分限速功能后再进行尝试",
+          "DE": "Für zu viele Steuerungen ist die Durchfluss-Anpassung auf ON geschaltet. Schalte diese Funktion für einige Steuerungen auf OFF und versuche es dann erneut.",
+          "EN": "Too many control ports have Adjust Flow switched ON. Switch OFF this feature for some of them before trying again.",
+          "FR": "Le réglage du flux est activé sur de trop nombreux ports de contrôle. Désactivez cette fonction sur certains ports avant de réessayer.",
+          "ID": "Jumlah porta kontrol yang fitur Sesuaikan Alirannya menyala terlalu banyak. Matikan fitur ini pada beberapa porta kontrol sebelum mencoba lagi.",
+          "IT": "La regolazione della portata è stata attivata per troppe porte di controllo. Disattiva questa funzione per alcune di esse prima di riprovare.",
+          "JP": "速度制限を設定した制御口が数量上限に達しました。一部の制限を解除してから再試行してください",
+          "KR": "허용 입구 유속 제한 개방 수량이 최대치에 도달했습니다. 일부 유속 제한 기능을 해제한 후 다시 시도해 주세요.",
+          "MX": "Demasiados puertos de control tienen activada la función Ajustar flujo. Desactiva esta función en algunos de ellos antes de intentarlo de nuevo.",
+          "RU": "Функция «Настройка потока» включена у слишком большого числа портов проверки. Отключите ее у части портов и попробуйте снова.",
+          "TC": "准入口限速開啟數量已達上限，請關閉部分限速功能後再試",
+          "TH": "มีพ​อ​ร์​ต​ควบคุม​ที่​เปิด​ใช้งาน​การ​ปรับ​การ​ไหล​อยู่​มากเกินไป​ โปรด​ปิด​คุณสมบัติ​นี้​ใน​บาง​พอร์ต​ก่อน​แล้วจึง​ลอง​อีกครั้ง",
+          "VN": "Có quá nhiều Cổng Điều Khiển đang bật Điều Chỉnh Lưu Lượng. Hãy TẮT tính năng này ở một số cổng điều khiển trước khi thử lại."
+        }
+      },
+      "2906": {
+        "text": {
+          "BR": "Há um número excessivo de portas de controle com a opção \"Ajustar Fluxo\" ativada. O recurso não pode ser ativado em algumas portas de controle.",
+          "CN": "准入口限速开启数量已达上限，部分准入口限速功能未成功设置",
+          "DE": "Für zu viele Steuerungen ist die Durchfluss-Anpassung EINGESCHALTET. Diese Funktion kann für manche Steuerungen nicht EINGESCHALTET werden.",
+          "EN": "Too many control ports have Adjust Flow switched ON. The feature cannot be switched ON for some control ports.",
+          "FR": "Le réglage du flux est activé sur de trop nombreux ports de contrôle. Cette fonction ne peut pas être activée sur certains des ports de contrôle.",
+          "ID": "Jumlah porta kontrol yang fitur Sesuaikan Alirannya menyala terlalu banyak. Pada beberapa porta kontrol, fitur ini tidak bisa dinyalakan.",
+          "IT": "La regolazione della portata è stata attivata per troppe porte di controllo. La funzione non può essere attivata per alcune porte di controllo.",
+          "JP": "速度制限を設定した制御口が数量上限に達しました。一部速度制限が適用されていない制御口があります",
+          "KR": "허용 입구 유속 제한 개방 수량이 최대치에 도달하여, 일부 허용 입구의 유속 제한 기능이 설정되지 않았습니다.",
+          "MX": "Demasiados puertos de control tienen activada la función Ajustar flujo. La función no se puede activar en algunos puertos de control.",
+          "RU": "Функция «Настройка потока» включена у слишком большого числа портов проверки. У некоторых портов ее нельзя включить.",
+          "TC": "准入口限速開啟數量已達上限，部分准入口限速功能未成功設定",
+          "TH": "มีพ​อ​ร์​ต​ควบคุม​ที่​เปิด​ใช้งาน​การ​ปรับ​การ​ไหล​อยู่​มากเกินไป​ ไม่​สามารถ​เปิด​ใช้งาน​คุณสมบัติ​นี้​สำหรับ​พอร์ต​ควบคุม​บาง​พอร์ต​ได้",
+          "VN": "Có quá nhiều Cổng Điều Khiển đang bật Điều Chỉnh Lưu Lượng. Không thể BẬT tính năng này ở một số cổng điều khiển."
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "14": {
+        "oldValue": {
+          "text": {
+            "BR": "Não é possível executar esta ação no modo de jogo atual",
+            "CN": "当前游戏模式拒绝此操作",
+            "DE": "Diese Aktion kann im aktuellen Spielmodus nicht durchgeführt werden.",
+            "EN": "Cannot perform this action in current game mode",
+            "FR": "Action impossible dans le mode de jeu actuel.",
+            "ID": "Tidak bisa melakukan tindakan ini dalam mode game ini",
+            "IT": "Impossibile eseguire l'azione nella modalità di gioco attuale.",
+            "JP": "現在のモードでは操作できません",
+            "KR": "현재 게임 모드에서 해당 조작 불가",
+            "MX": "No se puede realizar esta acción en el modo de juego actual",
+            "RU": "Невозможно выполнить это действие в текущем режиме.",
+            "TC": "目前遊戲模式拒絕此動作",
+            "TH": "ดำเนินการ​เช่นนี้​ไม่ได้​ใน​โหม​ด​เกม​ปัจจุบัน",
+            "VN": "Không thể thực hiện hành động này ở chế độ đang chơi"
+          }
+        },
+        "newValue": {
+          "text": {
+            "BR": "Não é possível executar esta ação agora",
+            "CN": "当前无法进行该操作",
+            "DE": "Diese Aktion kann jetzt nicht durchgeführt werden.",
+            "EN": "Cannot perform this action right now",
+            "FR": "Impossible d'effectuer cette action actuellement.",
+            "ID": "Aksi ini tidak bisa dilakukan sekarang",
+            "IT": "Impossibile eseguire l'azione in questo momento.",
+            "JP": "現在この操作はできません",
+            "KR": "해당 조작을 진행할 수 없습니다.",
+            "MX": "No se puede realizar esta acción en este momento",
+            "RU": "Сейчас невозможно выполнить это действие.",
+            "TC": "目前無法進行該操作",
+            "TH": "ไม่​สามารถ​ดำเนินการ​นี้​ได้​ในขณะนี้",
+            "VN": "Không thể thực hiện hành động này ngay bây giờ"
+          }
+        },
+        "changed": {
+          "text": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Não é possível executar esta ação no modo de jogo atual",
+                "newText": "Não é possível executar esta ação agora"
+              },
+              "CN": {
+                "oldText": "当前游戏模式拒绝此操作",
+                "newText": "当前无法进行该操作"
+              },
+              "DE": {
+                "oldText": "Diese Aktion kann im aktuellen Spielmodus nicht durchgeführt werden.",
+                "newText": "Diese Aktion kann jetzt nicht durchgeführt werden."
+              },
+              "EN": {
+                "oldText": "Cannot perform this action in current game mode",
+                "newText": "Cannot perform this action right now"
+              },
+              "FR": {
+                "oldText": "Action impossible dans le mode de jeu actuel.",
+                "newText": "Impossible d'effectuer cette action actuellement."
+              },
+              "ID": {
+                "oldText": "Tidak bisa melakukan tindakan ini dalam mode game ini",
+                "newText": "Aksi ini tidak bisa dilakukan sekarang"
+              },
+              "IT": {
+                "oldText": "Impossibile eseguire l'azione nella modalità di gioco attuale.",
+                "newText": "Impossibile eseguire l'azione in questo momento."
+              },
+              "JP": {
+                "oldText": "現在のモードでは操作できません",
+                "newText": "現在この操作はできません"
+              },
+              "KR": {
+                "oldText": "현재 게임 모드에서 해당 조작 불가",
+                "newText": "해당 조작을 진행할 수 없습니다."
+              },
+              "MX": {
+                "oldText": "No se puede realizar esta acción en el modo de juego actual",
+                "newText": "No se puede realizar esta acción en este momento"
+              },
+              "RU": {
+                "oldText": "Невозможно выполнить это действие в текущем режиме.",
+                "newText": "Сейчас невозможно выполнить это действие."
+              },
+              "TC": {
+                "oldText": "目前遊戲模式拒絕此動作",
+                "newText": "目前無法進行該操作"
+              },
+              "TH": {
+                "oldText": "ดำเนินการ​เช่นนี้​ไม่ได้​ใน​โหม​ด​เกม​ปัจจุบัน",
+                "newText": "ไม่​สามารถ​ดำเนินการ​นี้​ได้​ในขณะนี้"
+              },
+              "VN": {
+                "oldText": "Không thể thực hiện hành động này ở chế độ đang chơi",
+                "newText": "Không thể thực hiện hành động này ngay bây giờ"
+              }
+            }
+          }
+        }
+      },
+      "364": {
+        "oldValue": {
+          "text": {
+            "BR": "Mochila e Depósito cheios. Descarte alguns itens e tente novamente.",
+            "CN": "背包和仓库已满无法收取，可丢弃部分物品再尝试收取",
+            "DE": "Der Rucksack und das Depot sind voll. Wirf einige Gegenstände weg und versuche es erneut.",
+            "EN": "Backpack and Depot are full. Discard some items and try again.",
+            "FR": "Votre sac à dos et votre entrepôt sont pleins. Veuillez abandonner certains objets et réessayer.",
+            "ID": "Ransel dan Depot sudah penuh. Buang sebagian item, lalu coba lagi.",
+            "IT": "Zaino e deposito pieni. Scarta degli oggetti e riprova.",
+            "JP": "道具箱と倉庫に空きがありません。アイテムを整理してから、もう一度お試しください",
+            "KR": "가방 및 창고가 가득 차서 더 이상 획득할 수 없습니다. 일부 아이템을 버린 후 다시 시도해 주세요.",
+            "MX": "La mochila y el depósito están llenos. Elimina algunos objetos y vuelve a intentarlo.",
+            "RU": "Рюкзак и склад заполнены. Выбросите часть предметов и повторите попытку.",
+            "TC": "背包和倉庫已滿無法收取，可丟棄部分物品再試試",
+            "TH": "กระเป๋า​และ​คลังสินค้า​เต็ม​ ทิ้ง​ไอ​เทม​บาง​ชิ้น​แล้ว​ลอง​อีกครั้ง",
+            "VN": "Túi và Kho Hàng đã đầy. Bỏ một số vật phẩm và thử lại."
+          }
+        },
+        "newValue": {
+          "text": {
+            "BR": "Mochila e Depósito cheios. Descarte alguns itens e tente novamente.",
+            "CN": "背包和仓库已满，可丢弃部分物品再尝试",
+            "DE": "Der Rucksack und das Depot sind voll. Wirf einige Gegenstände weg und versuche es erneut.",
+            "EN": "Backpack and Depot are full. Discard some items and try again.",
+            "FR": "Votre sac à dos et votre entrepôt sont pleins. Veuillez abandonner certains objets et réessayer.",
+            "ID": "Ransel dan Depot sudah penuh. Buang sebagian item, lalu coba lagi.",
+            "IT": "Zaino e deposito pieni. Scarta degli oggetti e riprova.",
+            "JP": "道具箱と倉庫に空きがないため、アイテムを整理してからもう一度お試しください",
+            "KR": "가방 및 창고가 가득 찼습니다. 일부 아이템을 버린 후 다시 시도해 주세요.",
+            "MX": "La mochila y el depósito están llenos. Elimina algunos objetos y vuelve a intentarlo.",
+            "RU": "Рюкзак и склад заполнены. Выбросите часть предметов и повторите попытку.",
+            "TC": "背包和倉庫已滿，可丟棄部分物品再嘗試",
+            "TH": "กระเป๋า​และ​คลังสินค้า​เต็ม​แล้ว​ ทิ้ง​ไอ​เทม​บาง​ชิ้น​แล้ว​ลอง​อีกครั้ง",
+            "VN": "Túi và Kho Hàng đã đầy. Bỏ một số vật phẩm và thử lại."
+          }
+        },
+        "changed": {
+          "text": {
+            "type": "i18n",
+            "changedLocales": {
+              "CN": {
+                "oldText": "背包和仓库已满无法收取，可丢弃部分物品再尝试收取",
+                "newText": "背包和仓库已满，可丢弃部分物品再尝试"
+              },
+              "JP": {
+                "oldText": "道具箱と倉庫に空きがありません。アイテムを整理してから、もう一度お試しください",
+                "newText": "道具箱と倉庫に空きがないため、アイテムを整理してからもう一度お試しください"
+              },
+              "KR": {
+                "oldText": "가방 및 창고가 가득 차서 더 이상 획득할 수 없습니다. 일부 아이템을 버린 후 다시 시도해 주세요.",
+                "newText": "가방 및 창고가 가득 찼습니다. 일부 아이템을 버린 후 다시 시도해 주세요."
+              },
+              "TC": {
+                "oldText": "背包和倉庫已滿無法收取，可丟棄部分物品再試試",
+                "newText": "背包和倉庫已滿，可丟棄部分物品再嘗試"
+              },
+              "TH": {
+                "oldText": "กระเป๋า​และ​คลังสินค้า​เต็ม​ ทิ้ง​ไอ​เทม​บาง​ชิ้น​แล้ว​ลอง​อีกครั้ง",
+                "newText": "กระเป๋า​และ​คลังสินค้า​เต็ม​แล้ว​ ทิ้ง​ไอ​เทม​บาง​ชิ้น​แล้ว​ลอง​อีกครั้ง"
+              }
+            }
+          }
+        }
+      },
+      "365": {
+        "oldValue": {
+          "text": {
+            "BR": "Contêiner cheio. Não é possível esvaziar fluido.",
+            "CN": "对应容器仓储数量已达上限，无法清空液体",
+            "DE": "Behälter ist voll. Flüssigkeit kann nicht hineingeschüttet werden.",
+            "EN": "Container full. Cannot empty fluid.",
+            "FR": "Le contenant est plein. Impossible d'y verser du fluide.",
+            "ID": "Wadah sudah penuh. Tidak bisa mengosongkan cairan.",
+            "IT": "Contenitore pieno. Impossibile versare i liquidi.",
+            "JP": "この容器の在庫数が上限に達したため、液体を空にできません",
+            "KR": "해당 용기의 저장고 수량이 가득 차 액체를 비울 수 없습니다.",
+            "MX": "El contenedor está lleno. No se puede drenar el líquido.",
+            "RU": "Контейнер заполнен. Нельзя вылить жидкость.",
+            "TC": "對應容器倉儲數量已達上限，無法清空液體",
+            "TH": "คอนเทนเนอร์​เต็ม​ เท​ของเหลว​ไม่ได้",
+            "VN": "Thùng đựng đầy. Không thể xả chất lỏng."
+          }
+        },
+        "newValue": {
+          "text": {
+            "BR": "Capacidade do contêiner atingida. Não é possível esvaziar o fluido ou o gás.",
+            "CN": "对应容器仓储数量已达上限，无法清空液体或气体",
+            "DE": "Behälterkapazität maximiert. Flüssigkeit oder Gas kann nicht geleert werden.",
+            "EN": "Container storage maxed. Cannot empty fluid or gas.",
+            "FR": "Contenant plein. Impossible d'ajouter du fluide ou du gaz.",
+            "ID": "Penyimpanan kontainer sudah maks. Tidak bisa mengosongkan cairan atau gas.",
+            "IT": "Stoccaggio dei contenitori al massimo. Impossibile svuotare fluidi o gas.",
+            "JP": "この容器の在庫数が上限に達したため、液体またはガスを空にできません",
+            "KR": "해당 용기의 저장고 수량이 가득 차 액체 혹은 기체를 비울 수 없습니다.",
+            "MX": "Almacenamiento de contenedor al máximo. No se puede vaciar fluido o gas.",
+            "RU": "Контейнер заполнен. Невозможно слить жидкость или газ.",
+            "TC": "對應容器倉儲數量已達上限，無法清空液體或氣體",
+            "TH": "ความจุ​คอนเทนเนอร์​เต็ม​แล้ว​ ไม่​สามารถ​เท​ของเหลว​หรือ​ก๊าซ​ออก​ได้",
+            "VN": "Thùng lưu trữ đã đạt giới hạn. Không thể xả chất lỏng hoặc khí."
+          }
+        },
+        "changed": {
+          "text": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Contêiner cheio. Não é possível esvaziar fluido.",
+                "newText": "Capacidade do contêiner atingida. Não é possível esvaziar o fluido ou o gás."
+              },
+              "CN": {
+                "oldText": "对应容器仓储数量已达上限，无法清空液体",
+                "newText": "对应容器仓储数量已达上限，无法清空液体或气体"
+              },
+              "DE": {
+                "oldText": "Behälter ist voll. Flüssigkeit kann nicht hineingeschüttet werden.",
+                "newText": "Behälterkapazität maximiert. Flüssigkeit oder Gas kann nicht geleert werden."
+              },
+              "EN": {
+                "oldText": "Container full. Cannot empty fluid.",
+                "newText": "Container storage maxed. Cannot empty fluid or gas."
+              },
+              "FR": {
+                "oldText": "Le contenant est plein. Impossible d'y verser du fluide.",
+                "newText": "Contenant plein. Impossible d'ajouter du fluide ou du gaz."
+              },
+              "ID": {
+                "oldText": "Wadah sudah penuh. Tidak bisa mengosongkan cairan.",
+                "newText": "Penyimpanan kontainer sudah maks. Tidak bisa mengosongkan cairan atau gas."
+              },
+              "IT": {
+                "oldText": "Contenitore pieno. Impossibile versare i liquidi.",
+                "newText": "Stoccaggio dei contenitori al massimo. Impossibile svuotare fluidi o gas."
+              },
+              "JP": {
+                "oldText": "この容器の在庫数が上限に達したため、液体を空にできません",
+                "newText": "この容器の在庫数が上限に達したため、液体またはガスを空にできません"
+              },
+              "KR": {
+                "oldText": "해당 용기의 저장고 수량이 가득 차 액체를 비울 수 없습니다.",
+                "newText": "해당 용기의 저장고 수량이 가득 차 액체 혹은 기체를 비울 수 없습니다."
+              },
+              "MX": {
+                "oldText": "El contenedor está lleno. No se puede drenar el líquido.",
+                "newText": "Almacenamiento de contenedor al máximo. No se puede vaciar fluido o gas."
+              },
+              "RU": {
+                "oldText": "Контейнер заполнен. Нельзя вылить жидкость.",
+                "newText": "Контейнер заполнен. Невозможно слить жидкость или газ."
+              },
+              "TC": {
+                "oldText": "對應容器倉儲數量已達上限，無法清空液體",
+                "newText": "對應容器倉儲數量已達上限，無法清空液體或氣體"
+              },
+              "TH": {
+                "oldText": "คอนเทนเนอร์​เต็ม​ เท​ของเหลว​ไม่ได้",
+                "newText": "ความจุ​คอนเทนเนอร์​เต็ม​แล้ว​ ไม่​สามารถ​เท​ของเหลว​หรือ​ก๊าซ​ออก​ได้"
+              },
+              "VN": {
+                "oldText": "Thùng đựng đầy. Không thể xả chất lỏng.",
+                "newText": "Thùng lưu trữ đã đạt giới hạn. Không thể xả chất lỏng hoặc khí."
+              }
+            }
+          }
+        }
+      },
+      "532": {
+        "oldValue": {
+          "text": {
+            "BR": "Não é possível despejar fluidos de tipos diferentes",
+            "CN": "不能倾倒不同类型的液体",
+            "DE": "Es können keine Flüssigkeiten verschiedener Arten eingefüllt werden.",
+            "EN": "Cannot pour fluids of different types",
+            "FR": "Impossible de verser des fluides différents.",
+            "ID": "Tidak bisa menuangkan cairan yang tipenya berbeda",
+            "IT": "Impossibile versare liquidi di tipi diversi.",
+            "JP": "異なる種類の液体は放出できません",
+            "KR": "다른 유형의 액체를 부을 수 없습니다.",
+            "MX": "No se pueden verter fluidos de distintos tipos",
+            "RU": "Нельзя залить жидкости разных типов.",
+            "TC": "不能傾倒不同類型的液體",
+            "TH": "เท​ของเหลว​ต่าง​ชนิด​ไม่ได้",
+            "VN": "Không thể rót các loại chất lỏng khác nhau"
+          }
+        },
+        "newValue": {
+          "text": {
+            "BR": "Não é possível despejar fluidos ou gases de tipos diferentes",
+            "CN": "不能倾倒不同类型的液体或气体",
+            "DE": "Flüssigkeiten oder Gase verschiedener Arten können nicht umgefüllt werden.",
+            "EN": "Cannot pour fluids or gases of different types",
+            "FR": "Impossible d'ajouter des fluides ou des gaz différents",
+            "ID": "Tidak bisa menuang cairan atau gas yang tipenya berbeda",
+            "IT": "Impossibile versare liquidi o gas di tipi diversi.",
+            "JP": "異なる種類の液体またはガスは放出できません",
+            "KR": "다른 유형의 액체 혹은 기체를 부을 수 없습니다.",
+            "MX": "No se pueden verter fluidos o gases de distintos tipos",
+            "RU": "Нельзя залить жидкости или газы разных типов.",
+            "TC": "不能傾倒不同類型的液體或氣體",
+            "TH": "ไม่​สามารถ​เท​ของเหลว​หรือ​ก๊าซ​คนละ​ชนิด​รวมกัน​ได้",
+            "VN": "Không thể rót các loại chất lỏng hoặc khí khác nhau"
+          }
+        },
+        "changed": {
+          "text": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Não é possível despejar fluidos de tipos diferentes",
+                "newText": "Não é possível despejar fluidos ou gases de tipos diferentes"
+              },
+              "CN": {
+                "oldText": "不能倾倒不同类型的液体",
+                "newText": "不能倾倒不同类型的液体或气体"
+              },
+              "DE": {
+                "oldText": "Es können keine Flüssigkeiten verschiedener Arten eingefüllt werden.",
+                "newText": "Flüssigkeiten oder Gase verschiedener Arten können nicht umgefüllt werden."
+              },
+              "EN": {
+                "oldText": "Cannot pour fluids of different types",
+                "newText": "Cannot pour fluids or gases of different types"
+              },
+              "FR": {
+                "oldText": "Impossible de verser des fluides différents.",
+                "newText": "Impossible d'ajouter des fluides ou des gaz différents"
+              },
+              "ID": {
+                "oldText": "Tidak bisa menuangkan cairan yang tipenya berbeda",
+                "newText": "Tidak bisa menuang cairan atau gas yang tipenya berbeda"
+              },
+              "IT": {
+                "oldText": "Impossibile versare liquidi di tipi diversi.",
+                "newText": "Impossibile versare liquidi o gas di tipi diversi."
+              },
+              "JP": {
+                "oldText": "異なる種類の液体は放出できません",
+                "newText": "異なる種類の液体またはガスは放出できません"
+              },
+              "KR": {
+                "oldText": "다른 유형의 액체를 부을 수 없습니다.",
+                "newText": "다른 유형의 액체 혹은 기체를 부을 수 없습니다."
+              },
+              "MX": {
+                "oldText": "No se pueden verter fluidos de distintos tipos",
+                "newText": "No se pueden verter fluidos o gases de distintos tipos"
+              },
+              "RU": {
+                "oldText": "Нельзя залить жидкости разных типов.",
+                "newText": "Нельзя залить жидкости или газы разных типов."
+              },
+              "TC": {
+                "oldText": "不能傾倒不同類型的液體",
+                "newText": "不能傾倒不同類型的液體或氣體"
+              },
+              "TH": {
+                "oldText": "เท​ของเหลว​ต่าง​ชนิด​ไม่ได้",
+                "newText": "ไม่​สามารถ​เท​ของเหลว​หรือ​ก๊าซ​คนละ​ชนิด​รวมกัน​ได้"
+              },
+              "VN": {
+                "oldText": "Không thể rót các loại chất lỏng khác nhau",
+                "newText": "Không thể rót các loại chất lỏng hoặc khí khác nhau"
+              }
+            }
+          }
+        }
+      },
+      "548": {
+        "oldValue": {
+          "text": {
+            "BR": "Em %1$s no momento, não é possível excluir instalações compartilhadas em uma região diferente",
+            "CN": "当前处于%1$s，无法跨地区删除他人共享设备",
+            "DE": "Befindet sich momentan in %1$s. Entfernen von geteilten Anlagen in einer anderen Region nicht möglich.",
+            "EN": "Currently in %1$s and unable to delete shared facilities in a different region",
+            "FR": "Actuellement à %1$s, impossible de supprimer des installations partagées d'une autre région.",
+            "ID": "Sedang berada di %1$s dan tidak bisa menghapus fasilitas kolektif di wilayah yang berbeda",
+            "IT": "Attualmente a %1$s. Non è possibile eliminare le strutture condivise in un'altra regione.",
+            "JP": "現在%1$sにいるため、地域を跨いで共有設備を削除できません",
+            "KR": "현재 %1$s 상태입니다. 지역간 공용 설비를 삭제할 수 없습니다.",
+            "MX": "Actualmente en %1$s y no puedes eliminar instalaciones compartidas en una región distinta",
+            "RU": "Местонахождение: %1$s, невозможно удалить общие сооружения в другом регионе",
+            "TC": "目前處於%1$s，無法跨地區刪除他人共享設備",
+            "TH": "ขณะนี้​อยู่​ใน​ %1$s และ​ไม่​สามารถ​ลบ​สิ่งปลูกสร้าง​ใช้​ร่วมกัน​ใน​ภูมิภาค​อื่น​ได้",
+            "VN": "Hiện đang ở %1$s và không thể xóa công trình chung ở khu vực khác"
+          }
+        },
+        "newValue": {
+          "text": {
+            "BR": "Em %1$s no momento e incapaz de armazenar na reserva ou remover itens de uma região diferente",
+            "CN": "当前处于%1$s，无法跨地区收纳或删除物品",
+            "DE": "Befindet sich momentan in %1$s. Entfernen oder Einlagern von Gegenständen in einer anderen Region nicht möglich.",
+            "EN": "Currently in %1$s and unable to stash or remove items of a different region",
+            "FR": "Actuellement à %1$s, impossible de stocker ou retirer des objets d'une autre région.",
+            "ID": "Sedang berada di %1$s dan tidak bisa menyimpan atau menghapus item dari wilayah yang berbeda",
+            "IT": "Attualmente a %1$s e non è possibile riporre o rimuovere elementi di un'altra regione",
+            "JP": "現在%1$sにいるため、地域を跨いでアイテムの収納や削除はできません",
+            "KR": "현재 %1$s 상태입니다. 지역간 수납 혹은 아에템을 삭제할 수 없습니다.",
+            "MX": "Actualmente en %1$s, no se pueden guardar ni retirar objetos de una región diferente",
+            "RU": "Местонахождение: %1$s, невозможно поместить в запасник или забрать предметы из другого региона.",
+            "TC": "目前處於%1$s，無法跨地區收回或刪除物品",
+            "TH": "ขณะนี้​อยู่​ใน​ %1$s และ​ไม่​สามารถ​เก็บ​หรือ​นำ​ไอ​เทม​ของ​ภูมิภาค​อื่น​ออก​ได้",
+            "VN": "Hiện đang ở %1$s và không thể lưu trữ hoặc gỡ bỏ vật phẩm thuộc khu vực khác"
+          }
+        },
+        "changed": {
+          "text": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Em %1$s no momento, não é possível excluir instalações compartilhadas em uma região diferente",
+                "newText": "Em %1$s no momento e incapaz de armazenar na reserva ou remover itens de uma região diferente"
+              },
+              "CN": {
+                "oldText": "当前处于%1$s，无法跨地区删除他人共享设备",
+                "newText": "当前处于%1$s，无法跨地区收纳或删除物品"
+              },
+              "DE": {
+                "oldText": "Befindet sich momentan in %1$s. Entfernen von geteilten Anlagen in einer anderen Region nicht möglich.",
+                "newText": "Befindet sich momentan in %1$s. Entfernen oder Einlagern von Gegenständen in einer anderen Region nicht möglich."
+              },
+              "EN": {
+                "oldText": "Currently in %1$s and unable to delete shared facilities in a different region",
+                "newText": "Currently in %1$s and unable to stash or remove items of a different region"
+              },
+              "FR": {
+                "oldText": "Actuellement à %1$s, impossible de supprimer des installations partagées d'une autre région.",
+                "newText": "Actuellement à %1$s, impossible de stocker ou retirer des objets d'une autre région."
+              },
+              "ID": {
+                "oldText": "Sedang berada di %1$s dan tidak bisa menghapus fasilitas kolektif di wilayah yang berbeda",
+                "newText": "Sedang berada di %1$s dan tidak bisa menyimpan atau menghapus item dari wilayah yang berbeda"
+              },
+              "IT": {
+                "oldText": "Attualmente a %1$s. Non è possibile eliminare le strutture condivise in un'altra regione.",
+                "newText": "Attualmente a %1$s e non è possibile riporre o rimuovere elementi di un'altra regione"
+              },
+              "JP": {
+                "oldText": "現在%1$sにいるため、地域を跨いで共有設備を削除できません",
+                "newText": "現在%1$sにいるため、地域を跨いでアイテムの収納や削除はできません"
+              },
+              "KR": {
+                "oldText": "현재 %1$s 상태입니다. 지역간 공용 설비를 삭제할 수 없습니다.",
+                "newText": "현재 %1$s 상태입니다. 지역간 수납 혹은 아에템을 삭제할 수 없습니다."
+              },
+              "MX": {
+                "oldText": "Actualmente en %1$s y no puedes eliminar instalaciones compartidas en una región distinta",
+                "newText": "Actualmente en %1$s, no se pueden guardar ni retirar objetos de una región diferente"
+              },
+              "RU": {
+                "oldText": "Местонахождение: %1$s, невозможно удалить общие сооружения в другом регионе",
+                "newText": "Местонахождение: %1$s, невозможно поместить в запасник или забрать предметы из другого региона."
+              },
+              "TC": {
+                "oldText": "目前處於%1$s，無法跨地區刪除他人共享設備",
+                "newText": "目前處於%1$s，無法跨地區收回或刪除物品"
+              },
+              "TH": {
+                "oldText": "ขณะนี้​อยู่​ใน​ %1$s และ​ไม่​สามารถ​ลบ​สิ่งปลูกสร้าง​ใช้​ร่วมกัน​ใน​ภูมิภาค​อื่น​ได้",
+                "newText": "ขณะนี้​อยู่​ใน​ %1$s และ​ไม่​สามารถ​เก็บ​หรือ​นำ​ไอ​เทม​ของ​ภูมิภาค​อื่น​ออก​ได้"
+              },
+              "VN": {
+                "oldText": "Hiện đang ở %1$s và không thể xóa công trình chung ở khu vực khác",
+                "newText": "Hiện đang ở %1$s và không thể lưu trữ hoặc gỡ bỏ vật phẩm thuộc khu vực khác"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

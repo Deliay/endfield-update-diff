@@ -1,0 +1,1472 @@
+{
+  "tableName": "MapMarkTypeTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 27
+  },
+  "entries": {
+    "added": {
+      "50": {
+        "category": 5,
+        "icon": "icon_map_balloon",
+        "markInfoType": 50,
+        "name": {
+          "BR": "Recuperável",
+          "CN": "待回收物品",
+          "DE": "Geeignet für die Bergung",
+          "EN": "Salvageable",
+          "FR": "Récupérable",
+          "ID": "Bisa Diambil",
+          "IT": "Recuperabile",
+          "JP": "未回収アイテム",
+          "KR": "회수 대기 아이템",
+          "MX": "Recuperable",
+          "RU": "Доступно для эвакуации",
+          "TC": "待回收物品",
+          "TH": "สามารถ​กู้​ซาก​ได้",
+          "VN": "Có thể thu hồi"
+        },
+        "sortId": 5,
+        "unlockSystemType": 803
+      }
+    },
+    "removed": {},
+    "changed": {
+      "0": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_storager_box",
+          "markInfoType": 0,
+          "name": {
+            "BR": "Reserva de Protocolo",
+            "CN": "协议储存箱",
+            "DE": "Protokolllager",
+            "EN": "Protocol Stash",
+            "FR": "Coffre de Protocole",
+            "ID": "Simpanan Protokol",
+            "IT": "Scorta protocollare",
+            "JP": "協約貯蔵箱",
+            "KR": "프로토콜 저장함",
+            "MX": "Reserva de protocolo",
+            "RU": "Протокольный запасник",
+            "TC": "協議儲存箱",
+            "TH": "คลัง​โปร​โต​คอล",
+            "VN": "Kho Lưu Trữ Giao Thức"
+          },
+          "sortId": 4
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_storager_box",
+          "markInfoType": 0,
+          "name": {
+            "BR": "Reserva de Protocolo",
+            "CN": "协议储存箱",
+            "DE": "Protokolllager",
+            "EN": "Protocol Stash",
+            "FR": "Coffre de Protocole",
+            "ID": "Simpanan Protokol",
+            "IT": "Scorta protocollare",
+            "JP": "協約貯蔵箱",
+            "KR": "프로토콜 저장함",
+            "MX": "Reserva de protocolo",
+            "RU": "Протокольный запасник",
+            "TC": "協議儲存箱",
+            "TH": "คลัง​โปร​โต​คอล",
+            "VN": "Kho Lưu Trữ Giao Thức"
+          },
+          "sortId": 4,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_travel_pole",
+          "markInfoType": 2,
+          "name": {
+            "BR": "Tirolesa",
+            "CN": "滑索",
+            "DE": "Seilbahn",
+            "EN": "Zipline",
+            "FR": "Tyrolienne",
+            "ID": "Luncur Gantung",
+            "IT": "Teleferica",
+            "JP": "ジップライン",
+            "KR": "집라인",
+            "MX": "Tirolesa",
+            "RU": "Зиплайн",
+            "TC": "滑索",
+            "TH": "ซิป​ไลน์",
+            "VN": "Trượt Zipline"
+          },
+          "sortId": 2
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_travel_pole",
+          "markInfoType": 2,
+          "name": {
+            "BR": "Tirolesa",
+            "CN": "滑索",
+            "DE": "Seilbahn",
+            "EN": "Zipline",
+            "FR": "Tyrolienne",
+            "ID": "Luncur Gantung",
+            "IT": "Teleferica",
+            "JP": "ジップライン",
+            "KR": "집라인",
+            "MX": "Tirolesa",
+            "RU": "Зиплайн",
+            "TC": "滑索",
+            "TH": "ซิป​ไลน์",
+            "VN": "Trượt Zipline"
+          },
+          "sortId": 2,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_terminal",
+          "markInfoType": 3,
+          "name": {
+            "BR": "Energia",
+            "CN": "供电设备",
+            "DE": "Energie",
+            "EN": "Power",
+            "FR": "Énergie",
+            "ID": "Daya",
+            "IT": "Elettricità",
+            "JP": "給電端末",
+            "KR": "전력 공급 설비",
+            "MX": "Energía",
+            "RU": "Энергия",
+            "TC": "供電設備",
+            "TH": "พลังงาน",
+            "VN": "Sức Mạnh"
+          },
+          "sortId": 1
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_terminal",
+          "markInfoType": 3,
+          "name": {
+            "BR": "Energia",
+            "CN": "供电设备",
+            "DE": "Energie",
+            "EN": "Power",
+            "FR": "Énergie",
+            "ID": "Daya",
+            "IT": "Elettricità",
+            "JP": "給電端末",
+            "KR": "전력 공급 설비",
+            "MX": "Energía",
+            "RU": "Энергия",
+            "TC": "供電設備",
+            "TH": "พลังงาน",
+            "VN": "Sức Mạnh"
+          },
+          "sortId": 1,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "12": {
+        "oldValue": {
+          "category": 4,
+          "icon": "icon_map_dungeon",
+          "markInfoType": 12,
+          "name": {
+            "BR": "Espaço do Protocolo",
+            "CN": "协议空间",
+            "DE": "Protokoll-Dimension",
+            "EN": "Protocol Space",
+            "FR": "Espace de Protocole",
+            "ID": "Dimensi Protokol",
+            "IT": "Spazio protocollare",
+            "JP": "協約空間",
+            "KR": "프로토콜 공간",
+            "MX": "Espacio de protocolo",
+            "RU": "Протокольный разлом",
+            "TC": "協議空間",
+            "TH": "พื้นที่​โปร​โต​คอล",
+            "VN": "Không Gian Giao Thức"
+          },
+          "sortId": 1
+        },
+        "newValue": {
+          "category": 4,
+          "icon": "icon_map_dungeon",
+          "markInfoType": 12,
+          "name": {
+            "BR": "Espaço do Protocolo",
+            "CN": "协议空间",
+            "DE": "Protokoll-Dimension",
+            "EN": "Protocol Space",
+            "FR": "Espace de Protocole",
+            "ID": "Dimensi Protokol",
+            "IT": "Spazio protocollare",
+            "JP": "協約空間",
+            "KR": "프로토콜 공간",
+            "MX": "Espacio de protocolo",
+            "RU": "Протокольный разлом",
+            "TC": "協議空間",
+            "TH": "พื้นที่​โปร​โต​คอล",
+            "VN": "Không Gian Giao Thức"
+          },
+          "sortId": 1,
+          "unlockSystemType": 52
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 52
+          }
+        }
+      },
+      "15": {
+        "oldValue": {
+          "category": 4,
+          "icon": "icon_map_enemyspawner",
+          "markInfoType": 15,
+          "name": {
+            "BR": "Aluvião de Energia",
+            "CN": "能量淤积点",
+            "DE": "Energie-Alluvium",
+            "EN": "Energy Alluvium",
+            "FR": "Alluvion d'énergie",
+            "ID": "Aluvium Energi",
+            "IT": "Sedimento energetico",
+            "JP": "超域活性点",
+            "KR": "에너지 응집점",
+            "MX": "Aluvión energético",
+            "RU": "Аллювий энергии",
+            "TC": "能量淤積點",
+            "TH": "อัล​ลู​เวีย​ม​พลังงาน",
+            "VN": "Năng Lượng Bồi Tích"
+          },
+          "sortId": 2
+        },
+        "newValue": {
+          "category": 4,
+          "icon": "icon_map_enemyspawner",
+          "markInfoType": 15,
+          "name": {
+            "BR": "Aluvião de Energia",
+            "CN": "能量淤积点",
+            "DE": "Energie-Alluvium",
+            "EN": "Energy Alluvium",
+            "FR": "Alluvion d'énergie",
+            "ID": "Aluvium Energi",
+            "IT": "Sedimento energetico",
+            "JP": "超域活性点",
+            "KR": "에너지 응집점",
+            "MX": "Aluvión energético",
+            "RU": "Аллювий энергии",
+            "TC": "能量淤積點",
+            "TH": "อัล​ลู​เวีย​ม​พลังงาน",
+            "VN": "Năng Lượng Bồi Tích"
+          },
+          "sortId": 2,
+          "unlockSystemType": 70
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 70
+          }
+        }
+      },
+      "16": {
+        "oldValue": {
+          "category": 4,
+          "icon": "icon_map_boss",
+          "markInfoType": 16,
+          "name": {
+            "BR": "RE-Crise",
+            "CN": "危境再现",
+            "DE": "RE-Krise",
+            "EN": "RE-Crisis",
+            "FR": "Crise X",
+            "ID": "Krisis Ulangan",
+            "IT": "RE-Crisi",
+            "JP": "危境再現",
+            "KR": "위험한 재현",
+            "MX": "RE-crisis",
+            "RU": "Реванш",
+            "TC": "危境再現",
+            "TH": "วิกฤต​หวนคืน",
+            "VN": "Tái Chiến"
+          },
+          "sortId": 3
+        },
+        "newValue": {
+          "category": 4,
+          "icon": "icon_map_boss",
+          "markInfoType": 16,
+          "name": {
+            "BR": "RE-Crise",
+            "CN": "危境再现",
+            "DE": "RE-Krise",
+            "EN": "RE-Crisis",
+            "FR": "Crise X",
+            "ID": "Krisis Ulangan",
+            "IT": "RE-Crisi",
+            "JP": "危境再現",
+            "KR": "위험한 재현",
+            "MX": "RE-crisis",
+            "RU": "Реванш",
+            "TC": "危境再現",
+            "TH": "วิกฤต​หวนคืน",
+            "VN": "Tái Chiến"
+          },
+          "sortId": 3,
+          "unlockSystemType": 52
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 52
+          }
+        }
+      },
+      "17": {
+        "oldValue": {
+          "category": 3,
+          "icon": "icon_map_mine",
+          "markInfoType": 17,
+          "name": {
+            "BR": "Leito de Minérios",
+            "CN": "集中矿点",
+            "DE": "Mineralien-vorkommen",
+            "EN": "Mineral Bed",
+            "FR": "Lit de minerais",
+            "ID": "Lapisan Mineral",
+            "IT": "Giacimento minerario",
+            "JP": "密集鉱物スポット",
+            "KR": "광산 지점",
+            "MX": "Yacimiento mineral",
+            "RU": "Залежи минералов",
+            "TC": "集中礦點",
+            "TH": "แนว​แร่ธาตุ",
+            "VN": "Vỉa Khoáng Sản"
+          },
+          "sortId": 1
+        },
+        "newValue": {
+          "category": 3,
+          "icon": "icon_map_mine",
+          "markInfoType": 17,
+          "name": {
+            "BR": "Leito de Minérios",
+            "CN": "集中矿点",
+            "DE": "Mineralien-vorkommen",
+            "EN": "Mineral Bed",
+            "FR": "Lit de minerais",
+            "ID": "Lapisan Mineral",
+            "IT": "Giacimento minerario",
+            "JP": "密集鉱物スポット",
+            "KR": "광산 지점",
+            "MX": "Yacimiento mineral",
+            "RU": "Залежи минералов",
+            "TC": "集中礦點",
+            "TH": "แนว​แร่ธาตุ",
+            "VN": "Vỉa Khoáng Sản"
+          },
+          "sortId": 1,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "18": {
+        "oldValue": {
+          "category": 3,
+          "icon": "icon_map_special_plant",
+          "markInfoType": 18,
+          "name": {
+            "BR": "Raros",
+            "CN": "稀有采集物",
+            "DE": "Seltene",
+            "EN": "Rares",
+            "FR": "Rares",
+            "ID": "Langka",
+            "IT": "Rarità",
+            "JP": "希少採集物",
+            "KR": "희귀 채집물",
+            "MX": "Raros",
+            "RU": "Редкости",
+            "TC": "稀有採集物",
+            "TH": "หายาก",
+            "VN": "Hiếm"
+          },
+          "sortId": 2
+        },
+        "newValue": {
+          "category": 3,
+          "icon": "icon_map_special_plant",
+          "markInfoType": 18,
+          "name": {
+            "BR": "Raros",
+            "CN": "稀有采集物",
+            "DE": "Seltene",
+            "EN": "Rares",
+            "FR": "Rares",
+            "ID": "Langka",
+            "IT": "Rarità",
+            "JP": "希少採集物",
+            "KR": "희귀 채집물",
+            "MX": "Raros",
+            "RU": "Редкости",
+            "TC": "稀有採集物",
+            "TH": "หายาก",
+            "VN": "Hiếm"
+          },
+          "sortId": 2,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "19": {
+        "oldValue": {
+          "category": 3,
+          "icon": "icon_map_special_mine",
+          "markInfoType": 19,
+          "name": {
+            "BR": "Mineral Raro",
+            "CN": "稀有矿物",
+            "DE": "Seltenes Mineral",
+            "EN": "Rare Mineral",
+            "FR": "Minerai rare",
+            "ID": "Mineral Langka",
+            "IT": "Minerale raro",
+            "JP": "希少鉱物",
+            "KR": "희귀 광물",
+            "MX": "Mineral raro",
+            "RU": "Редкий минерал",
+            "TC": "稀有礦物",
+            "TH": "แร่ธาตุ​หายาก",
+            "VN": "Khoáng Sản Quý Hiếm"
+          },
+          "sortId": 3
+        },
+        "newValue": {
+          "category": 3,
+          "icon": "icon_map_special_mine",
+          "markInfoType": 19,
+          "name": {
+            "BR": "Mineral Raro",
+            "CN": "稀有矿物",
+            "DE": "Seltenes Mineral",
+            "EN": "Rare Mineral",
+            "FR": "Minerai rare",
+            "ID": "Mineral Langka",
+            "IT": "Minerale raro",
+            "JP": "希少鉱物",
+            "KR": "희귀 광물",
+            "MX": "Mineral raro",
+            "RU": "Редкий минерал",
+            "TC": "稀有礦物",
+            "TH": "แร่ธาตุ​หายาก",
+            "VN": "Khoáng Sản Quý Hiếm"
+          },
+          "sortId": 3,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "20": {
+        "oldValue": {
+          "category": 3,
+          "icon": "icon_map_recycle",
+          "markInfoType": 20,
+          "name": {
+            "BR": "EST Reciclagem",
+            "CN": "资源回收站",
+            "DE": "Recycling-STN",
+            "EN": "Recycling STN",
+            "FR": "STN de recyclage",
+            "ID": "STN Daur Ulang",
+            "IT": "Stazione di riciclo",
+            "JP": "資源回収所",
+            "KR": "재활용센터",
+            "MX": "Est. de reciclaje",
+            "RU": "Стан. переработки",
+            "TC": "資源回收站",
+            "TH": "สถานี​รีไซเคิล",
+            "VN": "Trạm Tái Chế"
+          },
+          "sortId": 4
+        },
+        "newValue": {
+          "category": 3,
+          "icon": "icon_map_recycle",
+          "markInfoType": 20,
+          "name": {
+            "BR": "EST Reciclagem",
+            "CN": "资源回收站",
+            "DE": "Recycling-STN",
+            "EN": "Recycling STN",
+            "FR": "STN de recyclage",
+            "ID": "STN Daur Ulang",
+            "IT": "Stazione di riciclo",
+            "JP": "資源回収所",
+            "KR": "재활용센터",
+            "MX": "Est. de reciclaje",
+            "RU": "Стан. переработки",
+            "TC": "資源回收站",
+            "TH": "สถานี​รีไซเคิล",
+            "VN": "Trạm Tái Chế"
+          },
+          "sortId": 4,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "21": {
+        "oldValue": {
+          "category": 5,
+          "icon": "icon_map_blackbox",
+          "markInfoType": 21,
+          "name": {
+            "BR": "DL do Protocolo",
+            "CN": "协议采录桩",
+            "DE": "Protokoll-DL",
+            "EN": "Protocol DL",
+            "FR": "ED du Protocole",
+            "ID": "DL Protokol",
+            "IT": "RD protocollare",
+            "JP": "協約測定装置",
+            "KR": "프로토콜 데이터 수집기",
+            "MX": "Protocolo RD",
+            "RU": "Протокольный РД",
+            "TC": "協議採錄樁",
+            "TH": "โปร​โต​คอล​ DL",
+            "VN": "Giao Thức DL"
+          },
+          "sortId": 1
+        },
+        "newValue": {
+          "category": 5,
+          "icon": "icon_map_blackbox",
+          "markInfoType": 21,
+          "name": {
+            "BR": "DL do Protocolo",
+            "CN": "协议采录桩",
+            "DE": "Protokoll-DL",
+            "EN": "Protocol DL",
+            "FR": "ED du Protocole",
+            "ID": "DL Protokol",
+            "IT": "RD protocollare",
+            "JP": "協約測定装置",
+            "KR": "프로토콜 데이터 수집기",
+            "MX": "Protocolo RD",
+            "RU": "Протокольный РД",
+            "TC": "協議採錄樁",
+            "TH": "โปร​โต​คอล​ DL",
+            "VN": "Giao Thức DL"
+          },
+          "sortId": 1,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "22": {
+        "oldValue": {
+          "category": 5,
+          "icon": "icon_map_fixablerobot",
+          "markInfoType": 22,
+          "name": {
+            "BR": "Robô Delta",
+            "CN": "Delta型机器人",
+            "DE": "Delta-Bot",
+            "EN": "Delta Bot",
+            "FR": "Robot Delta",
+            "ID": "Bot Delta",
+            "IT": "Robot Delta",
+            "JP": "Deltaロボット",
+            "KR": "델타 로봇",
+            "MX": "Bot Delta",
+            "RU": "Дельта-бот",
+            "TC": "Delta型機器人",
+            "TH": "หุ่นยนต์​เดล​ต้า",
+            "VN": "Robot Delta"
+          },
+          "sortId": 3
+        },
+        "newValue": {
+          "category": 5,
+          "icon": "icon_map_fixablerobot",
+          "markInfoType": 22,
+          "name": {
+            "BR": "Robô Delta",
+            "CN": "Delta型机器人",
+            "DE": "Delta-Bot",
+            "EN": "Delta Bot",
+            "FR": "Robot Delta",
+            "ID": "Bot Delta",
+            "IT": "Robot Delta",
+            "JP": "Deltaロボット",
+            "KR": "델타 로봇",
+            "MX": "Bot Delta",
+            "RU": "Дельта-бот",
+            "TC": "Delta型機器人",
+            "TH": "หุ่นยนต์​เดล​ต้า",
+            "VN": "Robot Delta"
+          },
+          "sortId": 3,
+          "unlockSystemType": 801
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 801
+          }
+        }
+      },
+      "23": {
+        "oldValue": {
+          "category": 5,
+          "icon": "icon_map_pazzle",
+          "markInfoType": 23,
+          "name": {
+            "BR": "Lógica de Reparo",
+            "CN": "维修灵感点",
+            "DE": "Reparaturlogik",
+            "EN": "Repair Logic",
+            "FR": "Logique de réparation",
+            "ID": "Logika Perbaikan",
+            "IT": "Logica di riparazione",
+            "JP": "修理部品スポット",
+            "KR": "수리 영감 포인트",
+            "MX": "Lógica de reparación",
+            "RU": "Ремонтная схема",
+            "TC": "維修靈感點",
+            "TH": "เหตุผล​ของ​การซ่อมแซม",
+            "VN": "Cơ Chế Sửa Chữa"
+          },
+          "sortId": 4
+        },
+        "newValue": {
+          "category": 5,
+          "icon": "icon_map_pazzle",
+          "markInfoType": 23,
+          "name": {
+            "BR": "Lógica de Reparo",
+            "CN": "维修灵感点",
+            "DE": "Reparaturlogik",
+            "EN": "Repair Logic",
+            "FR": "Logique de réparation",
+            "ID": "Logika Perbaikan",
+            "IT": "Logica di riparazione",
+            "JP": "修理部品スポット",
+            "KR": "수리 영감 포인트",
+            "MX": "Lógica de reparación",
+            "RU": "Ремонтная схема",
+            "TC": "維修靈感點",
+            "TH": "เหตุผล​ของ​การซ่อมแซม",
+            "VN": "Cơ Chế Sửa Chữa"
+          },
+          "sortId": 4,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "25": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_combat_architecture",
+          "markInfoType": 25,
+          "name": {
+            "BR": "Inst. Combate",
+            "CN": "作战设备",
+            "DE": "Kampfanlage",
+            "EN": "Combat Fac.",
+            "FR": "Install. de combat",
+            "ID": "Fas. Tempur",
+            "IT": "Struttura di comb.",
+            "JP": "戦闘設備",
+            "KR": "작전 설비",
+            "MX": "Inst. de combate",
+            "RU": "Боевое сооруж.",
+            "TC": "作戰設備",
+            "TH": "FAC การต่อสู้",
+            "VN": "Công Trình Chiến Đấu."
+          },
+          "sortId": 3
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_combat_architecture",
+          "markInfoType": 25,
+          "name": {
+            "BR": "Inst. Combate",
+            "CN": "作战设备",
+            "DE": "Kampfanlage",
+            "EN": "Combat Fac.",
+            "FR": "Install. de combat",
+            "ID": "Fas. Tempur",
+            "IT": "Struttura di comb.",
+            "JP": "戦闘設備",
+            "KR": "작전 설비",
+            "MX": "Inst. de combate",
+            "RU": "Боевое сооруж.",
+            "TC": "作戰設備",
+            "TH": "FAC การต่อสู้",
+            "VN": "Công Trình Chiến Đấu."
+          },
+          "sortId": 3,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "26": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_general_architecture",
+          "markInfoType": 26,
+          "name": {
+            "BR": "Fábrica",
+            "CN": "工业设备",
+            "DE": "Fabrik",
+            "EN": "Factory",
+            "FR": "Usine",
+            "ID": "Pabrik",
+            "IT": "Fabbrica",
+            "JP": "工業設備",
+            "KR": "공업 설비",
+            "MX": "Fábrica",
+            "RU": "Завод",
+            "TC": "工業設備",
+            "TH": "โรงงาน",
+            "VN": "Nhà Máy"
+          },
+          "sortId": 5
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_general_architecture",
+          "markInfoType": 26,
+          "name": {
+            "BR": "Fábrica",
+            "CN": "工业设备",
+            "DE": "Fabrik",
+            "EN": "Factory",
+            "FR": "Usine",
+            "ID": "Pabrik",
+            "IT": "Fabbrica",
+            "JP": "工業設備",
+            "KR": "공업 설비",
+            "MX": "Fábrica",
+            "RU": "Завод",
+            "TC": "工業設備",
+            "TH": "โรงงาน",
+            "VN": "Nhà Máy"
+          },
+          "sortId": 5,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "27": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_water_supply",
+          "markInfoType": 27,
+          "name": {
+            "BR": "Infra. Fluidos",
+            "CN": "液体相关",
+            "DE": "Flüssigkeitsinfr.",
+            "EN": "Fluid Infra.",
+            "FR": "Install. de fluide",
+            "ID": "Infra. Cairan",
+            "IT": "Infrastrut. per liquidi",
+            "JP": "液体関連",
+            "KR": "액체 관련 정보",
+            "MX": "Infra. de fluidos",
+            "RU": "Инфрастр. жидкостей",
+            "TC": "液體相關",
+            "TH": "ระบบลำเลียง​ของเหลว",
+            "VN": "Cơ Sở Chất Lỏng."
+          },
+          "sortId": 9
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_water_supply",
+          "markInfoType": 27,
+          "name": {
+            "BR": "Infra. Fluidos",
+            "CN": "液体相关",
+            "DE": "Flüssigkeitsinfr.",
+            "EN": "Fluid Infra.",
+            "FR": "Install. de fluide",
+            "ID": "Infra. Cairan",
+            "IT": "Infrastrut. per liquidi",
+            "JP": "液体関連",
+            "KR": "액체 관련 정보",
+            "MX": "Infra. de fluidos",
+            "RU": "Инфрастр. жидкостей",
+            "TC": "液體相關",
+            "TH": "ระบบลำเลียง​ของเหลว",
+            "VN": "Cơ Sở Chất Lỏng."
+          },
+          "sortId": 9,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "33": {
+        "oldValue": {
+          "category": 5,
+          "icon": "icon_map_equipment_blueprints",
+          "markInfoType": 33,
+          "name": {
+            "BR": "Gabarito de Equipamento",
+            "CN": "装备模板箱",
+            "DE": "Ausrüstungsvorlage",
+            "EN": "Gear Template",
+            "FR": "Modèle d'équipement",
+            "ID": "Templat Gear",
+            "IT": "Schema per l'equipaggiamento",
+            "JP": "装備設計ボックス",
+            "KR": "장비 템플릿 상자",
+            "MX": "Molde de equipamiento",
+            "RU": "Шаблон снаряжения",
+            "TC": "裝備模板箱",
+            "TH": "เทม​เพล​ต​อุปกรณ์",
+            "VN": "Mẫu Trang Bị"
+          },
+          "sortId": 2
+        },
+        "newValue": {
+          "category": 5,
+          "icon": "icon_map_equipment_blueprints",
+          "markInfoType": 33,
+          "name": {
+            "BR": "Gabarito de Equipamento",
+            "CN": "装备模板箱",
+            "DE": "Ausrüstungsvorlage",
+            "EN": "Gear Template",
+            "FR": "Modèle d'équipement",
+            "ID": "Templat Gear",
+            "IT": "Schema per l'equipaggiamento",
+            "JP": "装備設計ボックス",
+            "KR": "장비 템플릿 상자",
+            "MX": "Molde de equipamiento",
+            "RU": "Шаблон снаряжения",
+            "TC": "裝備模板箱",
+            "TH": "เทม​เพล​ต​อุปกรณ์",
+            "VN": "Mẫu Trang Bị"
+          },
+          "sortId": 2,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "34": {
+        "oldValue": {
+          "category": 2,
+          "icon": "icon_map_region_warehouse",
+          "markInfoType": 34,
+          "name": {
+            "BR": "Nó de Depósito",
+            "CN": "仓储节点",
+            "DE": "Depotknoten",
+            "EN": "Depot Node",
+            "FR": "Nœud de dépôt",
+            "ID": "Nodus Depot",
+            "IT": "Nodo logistico",
+            "JP": "保管ボックス",
+            "KR": "저장고 노드",
+            "MX": "Nodo de depósito",
+            "RU": "Узел склада",
+            "TC": "倉儲節點",
+            "TH": "โหนด​คลัง​เก็บ",
+            "VN": "Nút Kho Hàng"
+          },
+          "sortId": 3
+        },
+        "newValue": {
+          "category": 2,
+          "icon": "icon_map_region_warehouse",
+          "markInfoType": 34,
+          "name": {
+            "BR": "Nó de Depósito",
+            "CN": "仓储节点",
+            "DE": "Depotknoten",
+            "EN": "Depot Node",
+            "FR": "Nœud de dépôt",
+            "ID": "Nodus Depot",
+            "IT": "Nodo logistico",
+            "JP": "保管ボックス",
+            "KR": "저장고 노드",
+            "MX": "Nodo de depósito",
+            "RU": "Узел склада",
+            "TC": "倉儲節點",
+            "TH": "โหนด​คลัง​เก็บ",
+            "VN": "Nút Kho Hàng"
+          },
+          "sortId": 3,
+          "unlockSystemType": 503
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 503
+          }
+        }
+      },
+      "35": {
+        "oldValue": {
+          "category": 4,
+          "icon": "icon_map_settlement_terminal",
+          "markInfoType": 35,
+          "name": {
+            "BR": "Terminal de AA",
+            "CN": "袭击预警终端",
+            "DE": "FW-Terminal",
+            "EN": "EW Terminal",
+            "FR": "Terminal AP",
+            "ID": "Terminal PD",
+            "IT": "Terminale AP",
+            "JP": "襲撃警備端末",
+            "KR": "습격 경보 단말기",
+            "MX": "Terminal de A.T.",
+            "RU": "Терминал РО",
+            "TC": "襲擊預警終端",
+            "TH": "สถานี​เตือนภัย​ตรวจ​พบ​การ​โจมตี​ใหม่",
+            "VN": "Trạm Cảnh Báo Sớm"
+          },
+          "sortId": 4
+        },
+        "newValue": {
+          "category": 4,
+          "icon": "icon_map_settlement_terminal",
+          "markInfoType": 35,
+          "name": {
+            "BR": "Terminal de AA",
+            "CN": "袭击预警终端",
+            "DE": "FW-Terminal",
+            "EN": "EW Terminal",
+            "FR": "Terminal AP",
+            "ID": "Terminal PD",
+            "IT": "Terminale AP",
+            "JP": "襲撃警備端末",
+            "KR": "습격 경보 단말기",
+            "MX": "Terminal de A.T.",
+            "RU": "Терминал РО",
+            "TC": "襲擊預警終端",
+            "TH": "สถานี​เตือนภัย​ล่วงหน้า",
+            "VN": "Trạm Cảnh Báo Sớm"
+          },
+          "sortId": 4,
+          "unlockSystemType": 504
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 504
+          }
+        }
+      },
+      "36": {
+        "oldValue": {
+          "category": 2,
+          "icon": "icon_map_mission_general",
+          "markInfoType": 36,
+          "name": {
+            "BR": "Missão",
+            "CN": "任务",
+            "DE": "Mission",
+            "EN": "Mission",
+            "FR": "Mission",
+            "ID": "Misi",
+            "IT": "Missione",
+            "JP": "任務",
+            "KR": "임무",
+            "MX": "Misión",
+            "RU": "Миссия",
+            "TC": "任務",
+            "TH": "ภารกิจ",
+            "VN": "Nhiệm Vụ"
+          },
+          "sortId": 1
+        },
+        "newValue": {
+          "category": 2,
+          "icon": "icon_map_mission_general",
+          "markInfoType": 36,
+          "name": {
+            "BR": "Missão",
+            "CN": "任务",
+            "DE": "Mission",
+            "EN": "Mission",
+            "FR": "Mission",
+            "ID": "Misi",
+            "IT": "Missione",
+            "JP": "任務",
+            "KR": "임무",
+            "MX": "Misión",
+            "RU": "Миссия",
+            "TC": "任務",
+            "TH": "ภารกิจ",
+            "VN": "Nhiệm Vụ"
+          },
+          "sortId": 1,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "38": {
+        "oldValue": {
+          "category": 2,
+          "icon": "icon_map_kite",
+          "markInfoType": 38,
+          "name": {
+            "BR": "Monitoramento AMB",
+            "CN": "环境监测终端",
+            "DE": "UMW-Überwachung",
+            "EN": "ENV Monitoring",
+            "FR": "Surveillance ENV",
+            "ID": "Pemantauan LING",
+            "IT": "Monitoraggio AMB",
+            "JP": "環境観測端末",
+            "KR": "환경 관측 단말기",
+            "MX": "Monitoreo AMB",
+            "RU": "Мониторинг ОС",
+            "TC": "環境監測終端",
+            "TH": "การตรวจวัด​สิ่งแวดล้อม",
+            "VN": "Quan Trắc Môi Trường"
+          },
+          "sortId": 4
+        },
+        "newValue": {
+          "category": 2,
+          "icon": "icon_map_kite",
+          "markInfoType": 38,
+          "name": {
+            "BR": "Monitoramento AMB",
+            "CN": "环境监测终端",
+            "DE": "UMW-Überwachung",
+            "EN": "ENV Monitoring",
+            "FR": "Surveillance ENV",
+            "ID": "Pemantauan LING",
+            "IT": "Monitoraggio AMB",
+            "JP": "環境観測端末",
+            "KR": "환경 관측 단말기",
+            "MX": "Monitoreo AMB",
+            "RU": "Мониторинг ОС",
+            "TC": "環境監測終端",
+            "TH": "การตรวจวัด​สิ่งแวดล้อม",
+            "VN": "Quan Trắc Môi Trường"
+          },
+          "sortId": 4,
+          "unlockSystemType": 511
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 511
+          }
+        }
+      },
+      "39": {
+        "oldValue": {
+          "category": 2,
+          "icon": "icon_map_region_shop",
+          "markInfoType": 39,
+          "name": {
+            "BR": "Redistribuição do Estoque",
+            "CN": "物资调度终端",
+            "DE": "Vorratneuvert.",
+            "EN": "Stock Redistrib.",
+            "FR": "Magasin de redistrib.",
+            "ID": "Redistrib. Stok",
+            "IT": "Ridistrib. scorte",
+            "JP": "商品取引端末",
+            "KR": "물자 관리 단말기",
+            "MX": "Redistrib. de existencias",
+            "RU": "Перераспр. резервов",
+            "TC": "物資調度終端",
+            "TH": "การก​ระ​จาย​สินค้า",
+            "VN": "Điều Phối Vật Tư."
+          },
+          "sortId": 2
+        },
+        "newValue": {
+          "category": 2,
+          "icon": "icon_map_region_shop",
+          "markInfoType": 39,
+          "name": {
+            "BR": "Redistribuição do Estoque",
+            "CN": "物资调度终端",
+            "DE": "Vorratneuvert.",
+            "EN": "Stock Redistrib.",
+            "FR": "Magasin de redistrib.",
+            "ID": "Redistrib. Stok",
+            "IT": "Ridistrib. scorte",
+            "JP": "商品取引端末",
+            "KR": "물자 관리 단말기",
+            "MX": "Redistrib. de existencias",
+            "RU": "Перераспр. резервов",
+            "TC": "物資調度終端",
+            "TH": "การก​ระ​จาย​สินค้า",
+            "VN": "Điều Phối Vật Tư."
+          },
+          "sortId": 2,
+          "unlockSystemType": 512
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 512
+          }
+        }
+      },
+      "40": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_beacon",
+          "markInfoType": 40,
+          "name": {
+            "BR": "Reserva Fácil",
+            "CN": "便捷存取站",
+            "DE": "Einfaches Lager",
+            "EN": "Easy Stash",
+            "FR": "Coffre partagé",
+            "ID": "Simpanan Mudah",
+            "IT": "Scorta facile",
+            "JP": "倉庫中継ボックス",
+            "KR": "간편 보관소",
+            "MX": "Reserva fácil",
+            "RU": "Легкий запасник",
+            "TC": "便利存取站",
+            "TH": "คลัง​สุด​สะดวก",
+            "VN": "Lưu Trữ Thuận Tiện"
+          },
+          "sortId": 6
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_beacon",
+          "markInfoType": 40,
+          "name": {
+            "BR": "Reserva Fácil",
+            "CN": "便捷存取站",
+            "DE": "Einfaches Lager",
+            "EN": "Easy Stash",
+            "FR": "Coffre partagé",
+            "ID": "Simpanan Mudah",
+            "IT": "Scorta facile",
+            "JP": "倉庫中継ボックス",
+            "KR": "간편 보관소",
+            "MX": "Reserva fácil",
+            "RU": "Легкий запасник",
+            "TC": "便利存取站",
+            "TH": "คลัง​สุด​สะดวก",
+            "VN": "Lưu Trữ Thuận Tiện"
+          },
+          "sortId": 6,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "41": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_message",
+          "markInfoType": 41,
+          "name": {
+            "BR": "Sinalizador de Mensagens",
+            "CN": "留言信标",
+            "DE": "Notiz-Hologramm",
+            "EN": "Memo Beacon",
+            "FR": "Balise mémo",
+            "ID": "Suar Pandu Memo",
+            "IT": "Segnalatore nota",
+            "JP": "伝言ビーコン",
+            "KR": "전언 신호기",
+            "MX": "Baliza de mensajes",
+            "RU": "Маячок с запиской",
+            "TC": "留言信標",
+            "TH": "สัญญาณ​บันทึก​ข้อความ",
+            "VN": "Đèn Tín Hiệu Ghi Nhớ"
+          },
+          "sortId": 7
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_message",
+          "markInfoType": 41,
+          "name": {
+            "BR": "Sinalizador de Mensagens",
+            "CN": "留言信标",
+            "DE": "Notiz-Hologramm",
+            "EN": "Memo Beacon",
+            "FR": "Balise mémo",
+            "ID": "Suar Pandu Memo",
+            "IT": "Segnalatore nota",
+            "JP": "伝言ビーコン",
+            "KR": "전언 신호기",
+            "MX": "Baliza de mensajes",
+            "RU": "Маячок с запиской",
+            "TC": "留言信標",
+            "TH": "สัญญาณ​บันทึก​ข้อความ",
+            "VN": "Đèn Tín Hiệu Ghi Nhớ"
+          },
+          "sortId": 7,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      },
+      "42": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_pipe_loader",
+          "markInfoType": 42,
+          "name": {
+            "BR": "Conduíte",
+            "CN": "暗管",
+            "DE": "Leitung",
+            "EN": "Conduit",
+            "FR": "Conduite",
+            "ID": "Konduit",
+            "IT": "Condotto",
+            "JP": "地下配管",
+            "KR": "암관",
+            "MX": "Conducto",
+            "RU": "Трубопровод",
+            "TC": "暗管",
+            "TH": "ท่อ​ส่ง",
+            "VN": "Ống Dẫn"
+          },
+          "sortId": 8
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_pipe_loader",
+          "markInfoType": 42,
+          "name": {
+            "BR": "Conduíte",
+            "CN": "暗管",
+            "DE": "Leitung",
+            "EN": "Conduit",
+            "FR": "Conduite",
+            "ID": "Konduit",
+            "IT": "Condotto",
+            "JP": "地下配管",
+            "KR": "암관",
+            "MX": "Conducto",
+            "RU": "Трубопровод",
+            "TC": "暗管",
+            "TH": "ท่อ​ส่ง",
+            "VN": "Ống Dẫn"
+          },
+          "sortId": 8,
+          "unlockSystemType": 115
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 115
+          }
+        }
+      },
+      "47": {
+        "oldValue": {
+          "category": 2,
+          "icon": "icon_map_simulation_training",
+          "markInfoType": 47,
+          "name": {
+            "BR": "Arena dos Desafios",
+            "CN": "演武平台",
+            "DE": "Prüfungsarena",
+            "EN": "Trial Arena",
+            "FR": "arène des épreuves",
+            "ID": "Arena Uji Coba",
+            "IT": "Arena delle prove",
+            "JP": "演武プラットフォーム",
+            "KR": "연무 플랫폼",
+            "MX": "Arena de pruebas",
+            "RU": "Арена испытаний",
+            "TC": "演武平台",
+            "TH": "อารี​น่า​ทดลอง",
+            "VN": "Đấu Trường Khảo Nghiệm"
+          },
+          "sortId": 5
+        },
+        "newValue": {
+          "category": 2,
+          "icon": "icon_map_simulation_training",
+          "markInfoType": 47,
+          "name": {
+            "BR": "Arena dos Desafios",
+            "CN": "演武平台",
+            "DE": "Prüfungsarena",
+            "EN": "Trial Arena",
+            "FR": "Arène des épreuves",
+            "ID": "Arena Uji Coba",
+            "IT": "Arena delle prove",
+            "JP": "演武プラットフォーム",
+            "KR": "연무 플랫폼",
+            "MX": "Arena de pruebas",
+            "RU": "Арена испытаний",
+            "TC": "演武平台",
+            "TH": "อารี​น่า​ทดลอง",
+            "VN": "Đấu Trường Khảo Nghiệm"
+          },
+          "sortId": 5,
+          "unlockSystemType": 73
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 73
+          }
+        }
+      },
+      "1210": {
+        "oldValue": {
+          "category": 0,
+          "icon": "icon_map_decorate",
+          "markInfoType": 1210,
+          "name": {
+            "BR": "Ornamento",
+            "CN": "装饰物品",
+            "DE": "Verzierung",
+            "EN": "Ornamental",
+            "FR": "Décoration",
+            "ID": "Ornamen",
+            "IT": "Ornamentale",
+            "JP": "装飾品",
+            "KR": "장식 아이템",
+            "MX": "Decorativo",
+            "RU": "Декоративный предмет",
+            "TC": "裝飾物品",
+            "TH": "ของ​ตกแต่ง",
+            "VN": "Đồ Trang Trí"
+          },
+          "sortId": 10
+        },
+        "newValue": {
+          "category": 0,
+          "icon": "icon_map_decorate",
+          "markInfoType": 1210,
+          "name": {
+            "BR": "Ornamento",
+            "CN": "装饰物品",
+            "DE": "Verzierung",
+            "EN": "Ornamental",
+            "FR": "Décoration",
+            "ID": "Ornamen",
+            "IT": "Ornamentale",
+            "JP": "装飾品",
+            "KR": "장식 아이템",
+            "MX": "Decorativo",
+            "RU": "Декоративный предмет",
+            "TC": "裝飾物品",
+            "TH": "ของ​ตกแต่ง",
+            "VN": "Đồ Trang Trí"
+          },
+          "sortId": 10,
+          "unlockSystemType": 10000000
+        },
+        "changed": {
+          "unlockSystemType": {
+            "type": "value",
+            "newValue": 10000000
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "tableName": "FactoryMachineCraftModeTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 5,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "gas": {
+        "iconId": "icon_port_gas",
+        "machineModeTypeDes": {
+          "BR": "O modo de gás de diversas instalações permite a extração e o processamento de gases, mas só pode ser usado em regiões autorizadas pela [Permissão de Mineração Industrial e Forrageamento].",
+          "CN": "设备的气体模式，仅能在拥有【工业开采许可证】的部分地区进行气体开采与加工",
+          "DE": "Der Gasmodus verschiedener Anlagen ermöglicht die Gasextraktion und -verarbeitung, kann jedoch nur in den durch die [Genehmigung für industriellen Abbau und Forstwirtschaft] zugelassenen Regionen eingesetzt werden.",
+          "EN": "The gas mode of various facilities allows gas extraction and processing, but can only be used in regions allowed by the [Industrial Mining and Foraging Permit].",
+          "FR": "Le mode Gaz d'une installation lui permet d'extraire et traiter des gaz. Ce mode ne peut être utilisé que dans les régions couvertes par le [permis de forage et d'extraction industriels].",
+          "ID": "Mode gas pada berbagai fasilitas bisa digunakan untuk mengekstrak dan memproses gas, tapi hanya bisa digunakan di wilayah-wilayah yang diizinkan oleh [Izin Penambangan dan Perambanan Industri].",
+          "IT": "La modalità gas di varie strutture consente di estrarre e lavorare i gas; tuttavia, è utilizzabile solo nelle regioni indicate nel [Permesso di estrazione e approvvigionamento industriale].",
+          "JP": "設備のガスモードは、「工業採取許可証」を持つ一部のエリアでのみガスの採集および加工ができる",
+          "KR": "설비의 기체 모드는 [공업 채굴 허가증]이 있는 일부 지역에서만 기체 채굴 및 가공할 수 있습니다.",
+          "MX": "El modo gas de varias instalaciones permite extraer y procesar gases, pero solo puede usarse en regiones permitidas por el [Permiso de minería industrial y recolección].",
+          "RU": "Режим газа позволяет различным сооружениям добывать и обрабатывать газы. Может применяться только в регионах, перечисленных в разрешении на промышленную добычу ископаемых и провианта.",
+          "TC": "設備的氣體模式，僅能在擁有【工業開採許可證】的部分地區進行氣體開採與加工",
+          "TH": "โหม​ด​ก๊าซ​ของ​สิ่งปลูกสร้าง​ต่า​งๆ​ ช่วย​ให้​สกัด​ก๊าซ​และ​แปรรูป​ได้​ แต่​สามารถ​ใช้ได้​เฉพาะ​ใน​เขต​ที่​ [ใบอนุญาต​การ​ทำ​เหมือง​และ​การ​หาอาหาร​ทางอุตสาหกรรม​อนุญาต​ไว้​เท่านั้น​]",
+          "VN": "Chế độ khí của nhiều công trình cho phép tách và xử lý khí, nhưng chỉ có thể dùng ở các khu vực được cấp [Giấy Phép Rèn và Khai Thác Công Nghiệp]."
+        },
+        "machineModeTypeName": {
+          "BR": "Modo de Gás",
+          "CN": "气体模式",
+          "DE": "Gasmodus",
+          "EN": "Gas Mode",
+          "FR": "Mode Gaz",
+          "ID": "Mode Gas",
+          "IT": "Modalità gas",
+          "JP": "ガスモード",
+          "KR": "기체 모드",
+          "MX": "Modo gas",
+          "RU": "Режим газа",
+          "TC": "氣體模式",
+          "TH": "โหม​ด​ก๊าซ",
+          "VN": "Chế Độ Khí"
+        },
+        "sortId": 3
+      },
+      "gasliquid": {
+        "iconId": "icon_port_gasliquid",
+        "machineModeTypeDes": {
+          "BR": "O Modo de Gás e Fluido de diversas instalações permite o processamento de gases e fluidos, mas só pode ser usado em regiões autorizadas pela [Permissão de Mineração Industrial e Forrageamento].",
+          "CN": "设备的气液模式，仅能在拥有【工业开采许可证】的部分地区同时进行气体与液体的加工",
+          "DE": "Der Gas- und Flüssigkeitsmodus verschiedener Anlagen ermöglicht die Gas- und Flüssigkeitsverarbeitung, kann jedoch nur in den durch die [Genehmigung für industriellen Abbau und Forstwirtschaft] zugelassenen Regionen eingesetzt werden.",
+          "EN": "The Gas & Fluid Mode of various facilities allows gas and fluid processing, but can only be used in regions allowed by the [Industrial Mining and Foraging Permit].",
+          "FR": "Le mode Gaz & Fluide d'une installation lui permet de traiter des gaz et des fluides. Ce mode ne peut être utilisé que dans les régions couvertes par le [permis de forage et d'extraction industriels].",
+          "ID": "Mode Gas & Cairan pada berbagai fasilitas bisa digunakan untuk memproses gas dan cairan, tapi hanya bisa digunakan di wilayah-wilayah yang diizinkan oleh [Izin Penambangan dan Perambanan Industri].",
+          "IT": "La Modalità gas e liquido di varie strutture consente di lavorare i gas e i liquidi; tuttavia, è utilizzabile solo nelle regioni indicate nel [Permesso di estrazione e approvvigionamento industriale].",
+          "JP": "設備のガス&液体モードは、「工業採取許可証」を持つ一部のエリアでのみガスと液体の採集および加工ができる",
+          "KR": "설비의 기체 · 액체 모드는 [공업 채굴 허가증]이 있는 일부 지역에서만 동시에 기체와 액체를 가공할 수 있습니다.",
+          "MX": "El Modo gas y fluido de varias instalaciones permite procesar gases y fluidos, pero solo puede usarse en regiones autorizadas por el [Permiso de minería industrial y recolección].",
+          "RU": "Газожидкостный режим позволяет различным сооружениям обрабатывать газы и жидкости. Может применяться только в регионах, перечисленных в разрешении на промышленную добычу ископаемых и провианта.",
+          "TC": "設備的氣液模式，僅能在擁有【工業開採許可證】的部分地區同時進行氣體與液體的加工",
+          "TH": "โหม​ด​ก๊าซ​และ​ของเหลว​ของ​สิ่งปลูกสร้าง​ต่า​งๆ​ ช่วย​ให้​แยก​ก๊าซ​และ​แปรรูป​ได้​ แต่​สามารถ​ใช้ได้​เฉพาะ​ใน​เขต​ที่​ [ใบอนุญาต​การ​ทำ​เหมือง​และ​การ​หาอาหาร​ทางอุตสาหกรรม​อนุญาต​ไว้​เท่านั้น​]",
+          "VN": "Chế Độ Khí & Lỏng của nhiều công trình cho phép chiết tách và xử lý khí và chất lỏng, nhưng chỉ có thể dùng ở các khu vực được cấp [Giấy Phép Rèn và Khai Thác Công Nghiệp]."
+        },
+        "machineModeTypeName": {
+          "BR": "Modo de Gás e Fluido",
+          "CN": "气液模式",
+          "DE": "Gas- und Flüssigkeitsmodus",
+          "EN": "Gas & Fluid Mode",
+          "FR": "Mode Gaz & Fluide",
+          "ID": "Mode Gas & Cairan",
+          "IT": "Modalità gas e liquido",
+          "JP": "ガス&液体モード",
+          "KR": "기체 · 액체 모드",
+          "MX": "Modo gas y fluido",
+          "RU": "Газожидкостный режим",
+          "TC": "氣液模式",
+          "TH": "โหม​ด​ก๊าซ​และ​ของเหลว",
+          "VN": "Chế Độ Khí & Lỏng"
+        },
+        "sortId": 4
+      },
+      "liquidtrans": {
+        "iconId": "icon_port_liquidtrans",
+        "machineModeTypeDes": {
+          "BR": "Adiciona o modo Fluidificar à instalação, permitindo que ela transmute matérias-primas para seu estado fluido.",
+          "CN": "设备的液体产出模式，可以将原料转化为对应的液体形态",
+          "DE": "Fügt der Anlage den Modus „Verflüssigen“ hinzu, wodurch sie Rohmaterialien in deren flüssigen Zustand verwandeln kann.",
+          "EN": "Adds the Fluidify mode to the facility, letting it transmute raw materials into their fluid state.",
+          "FR": "Ajoute le mode Fluidification à l'installation, afin qu'elle puisse transmuter des matières premières vers leur état fluide.",
+          "ID": "Menambahkan mode Cairkan pada fasilitas sehingga bisa mentransmutasi bahan baku menjadi wujud cairnya.",
+          "IT": "Aggiunge alla struttura la modalità Fluidificazione, così da consentire di trasmutare le materie prime nel loro stato liquido.",
+          "JP": "設備の液体生産モードは、素材を特定の液体に転換できる",
+          "KR": "설비의 액체 생산 모드입니다. 원료를 해당하는 액체 형태로 전환할 수 있습니다.",
+          "MX": "Añade el modo Fluidificar a la instalación, lo que le permite transmutar materias primas a su estado fluido.",
+          "RU": "Добавляет сооружению режим жидкостей и позволяет видоизменять исходные материалы в жидкую форму.",
+          "TC": "設備的液體產出模式，可以將原料轉化為對應的液體形態",
+          "TH": "เพิ่ม​โหม​ด​เปลี่ยนเป็น​ของเหลว​ให้​กับ​สิ่งปลูกสร้าง​ ทำให้​สามารถ​แปรสภาพ​วัตถุดิบ​เป็น​สถานะ​ของเหลว​ได้",
+          "VN": "Thêm chế độ Lỏng Hóa vào công trình, cho phép công trình chuyển hóa nguyên liệu thô sang trạng thái lỏng."
+        },
+        "machineModeTypeName": {
+          "BR": "Fluidificar",
+          "CN": "液体产出",
+          "DE": "Verflüssigen",
+          "EN": "Fluidify",
+          "FR": "Fluidification",
+          "ID": "Cairkan",
+          "IT": "Fluidificazione",
+          "JP": "液体生産",
+          "KR": "액체 생산",
+          "MX": "Fluidificar",
+          "RU": "Жидкость",
+          "TC": "液體產出",
+          "TH": "เปลี่ยนเป็น​ของเหลว",
+          "VN": "Lỏng Hóa"
+        },
+        "sortId": 6
+      },
+      "gastrans": {
+        "iconId": "icon_port_gastrans",
+        "machineModeTypeDes": {
+          "BR": "Adiciona o modo Gaseificar à instalação, permitindo que ela transmute matérias-primas para seu estado gasoso.",
+          "CN": "设备的气体产出模式，可以将原料转化为对应的气体形态",
+          "DE": "Fügt der Anlage den Modus „Gasförmig“ hinzu, wodurch sie Rohmaterialien in deren gasförmigen Zustand verwandeln kann.",
+          "EN": "Adds the Gasify mode to the facility, letting it transmute raw materials into their gas state.",
+          "FR": "Ajoute le mode Gazéification à l'installation, afin qu'elle puisse transmuter des matières premières vers leur état gazeux.",
+          "ID": "Menambahkan mode Ubah ke Gas pada fasilitas sehingga bisa mentransmutasi bahan baku menjadi wujud gasnya.",
+          "IT": "Aggiunge alla struttura la modalità Gassificazione, così da consentire di trasmutare le materie prime nel loro stato gassoso.",
+          "JP": "設備のガス生産モードは、素材を特定のガスに転換できる",
+          "KR": "설비의 기체 생산 모드입니다. 원료를 해당하는 기체 형태로 전환할 수 있습니다.",
+          "MX": "Añade el modo Gasificar a la instalación, lo que le permite transmutar materias primas a su estado gaseoso.",
+          "RU": "Добавляет сооружению режим газа и позволяет видоизменять исходные материалы в газообразную форму.",
+          "TC": "設備的氣體產出模式，可以將原料轉化為對應的氣體形態",
+          "TH": "เพิ่ม​โหม​ด​แปรสภาพ​เป็น​ก๊าซ​ให้​กับ​สิ่งปลูกสร้าง​ ทำให้​สามารถ​แปรสภาพ​วัตถุดิบ​เป็น​สถานะ​ก๊าซ​ได้",
+          "VN": "Thêm chế độ Khí Hóa vào công trình, cho phép công trình chuyển hóa nguyên liệu thô sang trạng thái khí."
+        },
+        "machineModeTypeName": {
+          "BR": "Gaseificar",
+          "CN": "气体产出",
+          "DE": "Gasförmig",
+          "EN": "Gasify",
+          "FR": "Gazéification",
+          "ID": "Ubah ke Gas",
+          "IT": "Gassificazione",
+          "JP": "ガス生産",
+          "KR": "기체 생산",
+          "MX": "Gasificar",
+          "RU": "Газ",
+          "TC": "氣體產出",
+          "TH": "แปรสภาพ​เป็น​ก๊าซ",
+          "VN": "Khí Hóa"
+        },
+        "sortId": 5
+      },
+      "solidtrans": {
+        "iconId": "icon_port_solidtrans",
+        "machineModeTypeDes": {
+          "BR": "Adiciona o modo Solidificar à instalação, permitindo que ela transmute matérias-primas para seu estado sólido.",
+          "CN": "设备的固体产出模式，可以将原料转化为对应的固体形态",
+          "DE": "Fügt der Anlage den Modus „Feststoff“ hinzu, wodurch sie Rohmaterialien in deren festen Zustand verwandeln kann.",
+          "EN": "Adds the Solidify mode to the facility, letting it transmute raw materials into their solid state.",
+          "FR": "Ajoute le mode Solidification à l'installation, afin qu'elle puisse transmuter des matières premières vers leur état solide.",
+          "ID": "Menambahkan mode Padatkan pada fasilitas sehingga bisa mentransmutasi bahan baku menjadi wujud padatnya.",
+          "IT": "Aggiunge alla struttura la modalità Solidificazione, così da consentire di trasmutare le materie prime nel loro stato solido.",
+          "JP": "設備の固体生産モードは、素材を特定の固体に転換できる",
+          "KR": "설비의 고체 생산 모드입니다. 원료를 해당하는 고체 형태로 전환할 수 있습니다.",
+          "MX": "Añade el modo Solidificar a la instalación, lo que le permite transmutar materias primas a su estado sólido.",
+          "RU": "Добавляет сооружению режим твердых тел и позволяет видоизменять исходные материалы в твердую форму.",
+          "TC": "設備的固體產出模式，可以將原料轉化為對應的固體形態",
+          "TH": "เพิ่ม​โหม​ด​แข็งตัว​ให้​กับ​สิ่งปลูกสร้าง​ ทำให้​สามารถ​แปรสภาพ​วัตถุดิบ​เป็น​สถานะ​ของแข็ง​ได้",
+          "VN": "Thêm chế độ Đông Cứng vào công trình, cho phép công trình chuyển hóa nguyên liệu thô sang trạng thái rắn."
+        },
+        "machineModeTypeName": {
+          "BR": "Solidificar",
+          "CN": "固体产出",
+          "DE": "Feststoff",
+          "EN": "Solidify",
+          "FR": "Solidification",
+          "ID": "Solidify",
+          "IT": "Solidificazione",
+          "JP": "固体生産",
+          "KR": "고체 생산",
+          "MX": "Solidificar",
+          "RU": "Твердое тело",
+          "TC": "固體產出",
+          "TH": "แข็งตัว",
+          "VN": "Đông Cứng"
+        },
+        "sortId": 7
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

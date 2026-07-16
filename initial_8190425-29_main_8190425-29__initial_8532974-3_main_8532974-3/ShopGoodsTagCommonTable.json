@@ -1,0 +1,164 @@
+{
+  "tableName": "ShopGoodsTagCommonTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 7,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "decoratebuilding": {
+        "goodsTagId": "decoratebuilding",
+        "sortId": 3,
+        "tagIcon": "shop_tag_icon_building",
+        "tagName": {
+          "BR": "Ornamento",
+          "CN": "装饰物品",
+          "DE": "Verzierung",
+          "EN": "Ornamental",
+          "FR": "Décoration",
+          "ID": "Ornamen",
+          "IT": "Ornamentale",
+          "JP": "装飾品",
+          "KR": "장식 아이템",
+          "MX": "Decorativo",
+          "RU": "Декоративный предмет",
+          "TC": "裝飾物品",
+          "TH": "ของ​ตกแต่ง",
+          "VN": "Đồ Trang Trí"
+        }
+      },
+      "portable": {
+        "goodsTagId": "portable",
+        "sortId": 1,
+        "tagIcon": "shop_tag_icon_carry",
+        "tagName": {
+          "BR": "Dispositivo Pessoal",
+          "CN": "随身装置",
+          "DE": "Persönliches Gerät",
+          "EN": "Personal Device",
+          "FR": "Dispositif personnel",
+          "ID": "Perangkat Pribadi",
+          "IT": "Dispositivo personale",
+          "JP": "携帯アイテム",
+          "KR": "휴대 장치",
+          "MX": "Dispositivo personal",
+          "RU": "Личное устройство",
+          "TC": "隨身裝置",
+          "TH": "อุปกรณ์​ส่วนตัว",
+          "VN": "Thiết Bị Cá Nhân"
+        }
+      },
+      "default": {
+        "goodsTagId": "default",
+        "sortId": 0,
+        "tagIcon": "shop_tag_icon_market",
+        "tagName": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        }
+      },
+      "equipformula": {
+        "goodsTagId": "equipformula",
+        "sortId": 2,
+        "tagIcon": "shop_tag_icon_equip",
+        "tagName": {
+          "BR": "Gabarito de Equipamento",
+          "CN": "装备制造模板",
+          "DE": "Ausrüstungsvorlage",
+          "EN": "Gear Template",
+          "FR": "Modèle d'équipement",
+          "ID": "Templat Gear",
+          "IT": "Schema per l'equipaggiamento",
+          "JP": "装備設計図",
+          "KR": "장비 제작 템플릿",
+          "MX": "Molde de equipamiento",
+          "RU": "Шаблон снаряжения",
+          "TC": "裝備製造模板",
+          "TH": "เทม​เพล​ต​อุปกรณ์",
+          "VN": "Mẫu Trang Bị"
+        }
+      },
+      "music": {
+        "goodsTagId": "music",
+        "sortId": 5,
+        "tagIcon": "shop_tag_icon_music",
+        "tagName": {
+          "BR": "Vinil",
+          "CN": "唱片",
+          "DE": "Schallplatte",
+          "EN": "Vinyl",
+          "FR": "Vinyle",
+          "ID": "Piringan Hitam",
+          "IT": "Vinile",
+          "JP": "レコード",
+          "KR": "음반",
+          "MX": "Vinilo",
+          "RU": "Пластинка",
+          "TC": "唱片",
+          "TH": "ไว​นิล",
+          "VN": "Đĩa Than"
+        }
+      },
+      "photoanim": {
+        "goodsTagId": "photoanim",
+        "sortId": 4,
+        "tagIcon": "shop_tag_icon_action",
+        "tagName": {
+          "BR": "Pose para a Câmera",
+          "CN": "拍照动作",
+          "DE": "Kamerapose",
+          "EN": "Camera Pose",
+          "FR": "Pose d'appareil photo",
+          "ID": "Pose Kamera",
+          "IT": "Posa fotografica",
+          "JP": "撮影ポーズ",
+          "KR": "촬영 포즈",
+          "MX": "Pose para la cámara",
+          "RU": "Поза для камеры",
+          "TC": "拍照動作",
+          "TH": "ท่า​โพส​กล้อง",
+          "VN": "Tư Thế Chụp Ảnh"
+        }
+      },
+      "soldOut": {
+        "goodsTagId": "soldOut",
+        "sortId": 999,
+        "tagIcon": "shop_tag_icon_daily_soldout",
+        "tagName": {
+          "BR": "Esgotado",
+          "CN": "已售罄",
+          "DE": "Ausverkauft",
+          "EN": "Sold Out",
+          "FR": "En rupture",
+          "ID": "Terjual Habis",
+          "IT": "Esaurito",
+          "JP": "完売",
+          "KR": "매진",
+          "MX": "Agotado",
+          "RU": "Распродано",
+          "TC": "已售完",
+          "TH": "ขาย​หมด​แล้ว",
+          "VN": "Đã bán hết"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

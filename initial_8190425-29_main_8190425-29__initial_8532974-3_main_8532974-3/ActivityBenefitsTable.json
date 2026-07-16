@@ -1,0 +1,1343 @@
+{
+  "tableName": "ActivityBenefitsTable",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "activity_newplayer_benefits_display": {
+        "oldValue": {
+          "stageList": [
+            {
+              "benefitId": "gachaPool",
+              "bigRewardId": "item_ticketgacha_beginner_ten",
+              "bigRewardStatement": {
+                "BR": "[Permissão para CT-10× da Novos Horizontes] × 4",
+                "CN": "十连启程寻访凭证×4",
+                "DE": "[10er-Neue-Horizonte-RK-Genehmigung] ×4",
+                "EN": "[New Horizons HH-10×Permit]×4",
+                "FR": "4 [permis REC Nouveaux horizons ×10]",
+                "ID": "[Surat Izin HH-10× Cakrawala Baru] ×4",
+                "IT": "4 permessi CT-10: Nuovi orizzonti",
+                "JP": "「旅立ち」10回スカウト券×4",
+                "KR": "여정의 시작 헤드헌팅 10회 허가증×4",
+                "MX": "[Permiso de C.R. de Nuevos horizontes x10]×4",
+                "RU": "Разрешение на наем х10 «Новые горизонты» х4",
+                "TC": "十連啟程尋訪憑證×4",
+                "TH": "[ใบอนุญาต​ HH ขอบฟ้า​ใหม่​-×10]×4",
+                "VN": "[Vé Chiêu Mộ Chân Trời Mới ×10]x4"
+              },
+              "desc": {
+                "BR": "Avance na missão principal para obter recompensas que incluem <@activitybenefits.originium>[Permissão para CT-10× da Novos Horizontes] × 4 e Suprimento de Armas Novos Horizontes</>.",
+                "CN": "推进主线任务，可获得<@activitybenefits.originium>十连启程寻访凭证×4、启程武器补给</>奖励。",
+                "DE": "Schreite in der Hauptmission voran, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>[10er-Neue-Horizonte-RK-Genehmigung] ×4 und Waffenvorrat: Neue Horizonte</>.",
+                "EN": "Progress through the main mission to acquire rewards that include <@activitybenefits.originium>[New Horizons HH-10×Permit]×4 and New Horizons Weapon Supply</>.",
+                "FR": "Progressez dans la mission principale pour obtenir des récompenses incluant <@activitybenefits.originium>4 [permis REC Nouveaux horizons ×10] et un approvisionnement en armes - Nouveaux horizons</>.",
+                "ID": "Tingkatkan progres misi utama untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Surat Izin HH-10× Cakrawala Baru] ×4 dan Suplai Senjata Cakrawala Baru</>.",
+                "IT": "Progredisci nella missione principale per ottenere ricompense come <@activitybenefits.originium>4 permessi CT-10: Nuovi orizzonti e una Scorta di armi Nuovi orizzonti</>.",
+                "JP": "メイン任務を進めると、<@activitybenefits.originium>「旅立ち」10回スカウト券×4と旅立ち武器補給</>を入手できます。",
+                "KR": "메인 임무를 진행하면 <@activitybenefits.originium>여정의 시작 헤드헌팅 10회 허가증×4, 여정의 시작 무기 보급</> 보상을 획득할 수 있습니다.",
+                "MX": "Avanza en la misión principal para obtener recompensas que incluyen <@activitybenefits.originium>[Permiso de C.R. de Nuevos horizontes x10]×4 y Suministro de armas de Nuevos horizontes</>.",
+                "RU": "Продолжайте проходить основную миссию, чтобы получить <@activitybenefits.originium>разрешение на наем х10 «Новые горизонты» х4 и ящик оружия «Новые горизонты»</>.",
+                "TC": "推進主線任務，可獲得<@activitybenefits.originium>十連啟程尋訪憑證×4、啟程武器補給</>獎勵。",
+                "TH": "เคลียร์​ภารกิจ​หลัก​แต่ละ​ภารกิจ​ให้​สำเร็จ​เพื่อ​รับรางวัล​ต่า​งๆ​ รวมถึง​ <@activitybenefits.originium>[ใบอนุญาต​ HH ขอบฟ้า​ใหม่​-×10]×4 และ​ เสบียง​อาวุธ​ขอบฟ้า​ใหม่​</>",
+                "VN": "Hoàn thành nhiệm vụ chính để nhận thưởng bao gồm <@activitybenefits.originium>[Vé Chiêu Mộ Chân Trời Mới ×10]x4 và Gói Vũ Khí Chân Trời Mới</>."
+              },
+              "iconId": "icon_rewardshow_gacha_beginner",
+              "jumpId": "jump_center_activity_gacha_beginner",
+              "rewardIdList": [
+                "item_ticketgacha_beginner_ten",
+                "item_case_wpn_selfselect_gacha_beginner"
+              ],
+              "sortId": 2,
+              "title": {
+                "BR": "Novos Horizontes",
+                "CN": "于此启程",
+                "DE": "Neue Horizonte",
+                "EN": "New Horizons",
+                "FR": "Nouveaux horizons",
+                "ID": "Cakrawala Baru",
+                "IT": "Nuovi orizzonti",
+                "JP": "旅立ち",
+                "KR": "가동 시작",
+                "MX": "Nuevos horizontes",
+                "RU": "Новые горизонты",
+                "TC": "於此啟程",
+                "TH": "ขอบฟ้า​ใหม่",
+                "VN": "Chân Trời Mới"
+              }
+            },
+            {
+              "benefitId": "checkIn",
+              "bigRewardId": "chr_0025_ardelia",
+              "bigRewardStatement": {
+                "BR": "Ardelia",
+                "CN": "艾尔黛拉",
+                "DE": "Ardelia",
+                "EN": "Ardelia",
+                "FR": "Ardelia",
+                "ID": "Ardelia",
+                "IT": "Ardelia",
+                "JP": "アルデリア",
+                "KR": "아델리아",
+                "MX": "Ardelia",
+                "RU": "Арделия",
+                "TC": "艾爾黛拉",
+                "TH": "อาร์​เด​เลีย",
+                "VN": "Ardelia"
+              },
+              "desc": {
+                "BR": "Participe de Login em Despertar para adquirir recompensas que incluem uma <@activitybenefits.originium>operadora 6★ Ardelia, uma arma 6★ Sonhos da Praia Estrelada e [Permissão para CT Privilegiada] × 12</>.",
+                "CN": "参与唤醒签到，可获得<@activitybenefits.originium>6星干员艾尔黛拉、6星武器沧溟星梦、特许寻访凭证×12</>等奖励。",
+                "DE": "Nimm an „Erwachen – Anmeldung“ teil, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>6★-Operator Ardelia, 6★-Waffe Träume vom Sternenstrand und [RK-Genehmigung: Priorisiert] ×12</>.",
+                "EN": "Take part in Awakening Sign-In to acquire rewards that include <@activitybenefits.originium>6★ operator Ardelia, 6★ weapon Dreams of the Starry Beach, and [Chartered HH Permit]×12</>.",
+                "FR": "Participez à Connexion d'Éveil pour obtenir des récompenses incluant <@activitybenefits.originium>l'opératrice 6★ Ardelia, l'arme 6★ Rêves de plage étoilée, et 12 [Permis REC certifié]</>.",
+                "ID": "Berpartisipasilah dalam Sign In Kebangkitan untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>operator 6★ Ardelia, senjata 6★ Dreams of the Starry Beach, dan [Surat Izin HH Khusus] ×12</>.",
+                "IT": "Partecipa ad Accesso Giorno del risveglio per ottenere ricompense come <@activitybenefits.originium>l'operatore da 6★ Ardelia, l'arma da 6★ Sogni di una spiaggia piena di stelle e 12 permessi CT certificata</>.",
+                "JP": "目覚めスタンプに参加すると、<@activitybenefits.originium>★6オペレーター「アルデリア」、★6武器「蒼星の囁き」、特別スカウト券×12</>などの報酬を入手できます。",
+                "KR": "각성 출석 체크에 참여하면 <@activitybenefits.originium>6성 오퍼레이터 아델리아, 6성 무기 바다와 별의 꿈, 특별 허가 헤드헌팅 허가증×12</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Participa en Inicio de sesión de Despertar para obtener recompensas que incluyen a la operadora de <@activitybenefits.originium>6★ Ardelia, el arma de 6★ Sueños de la playa estrellada y [Permiso de C.R. certificada]×12</>.",
+                "RU": "Участвуйте в событии входа «Пробуждение», чтобы получить награды, среди которых <@activitybenefits.originium>6★ оперативник Арделия, 6★ оружие «Мечта о звездном береге» и разрешение на специальный наем х12</>.",
+                "TC": "參與喚醒簽到，可獲得<@activitybenefits.originium>6星幹員艾爾黛拉、6星武器滄溟星夢、特許尋訪憑證×12</>等獎勵。",
+                "TH": "เข้าร่วม​การเข้าสู่​ระบบ​การตื่น​รู้​เพื่อ​รับรางวัล​ที่​ประกอบด้วย​<@activitybenefits.originium>​โอเปอเรเตอร์​ 6★ อาร์​เด​เลีย​ อาวุธ​ 6★ ความฝัน​แห่ง​ชายหาด​ที่​เต็มไปด้วย​ดวงดาว​ และ​ [ใบอนุญาต​ HH รับรอง​]×12</>",
+                "VN": "Tham gia Điểm Danh Tỉnh Thức để nhận thưởng gồm <@activitybenefits.originium>cán viên Ardelia 6★, vũ khí Giấc Mộng Biển Sao 6★ và [Vé Chiêu Mộ Đặc Quyền]×12</>."
+              },
+              "iconId": "icon_rewardshow_checkin",
+              "jumpId": "jump_center_activity_center_checkin",
+              "rewardIdList": [
+                "chr_0025_ardelia",
+                "wpn_funnel_0013",
+                "item_ticketgacha_special_single"
+              ],
+              "sortId": 1,
+              "title": {
+                "BR": "Login em Despertar",
+                "CN": "唤醒签到",
+                "DE": "Erwachen – Anmeldung",
+                "EN": "Awakening Sign-In",
+                "FR": "Connexion d'Éveil",
+                "ID": "Sign In Kebangkitan",
+                "IT": "Accesso Giorno del risveglio",
+                "JP": "目覚めスタンプ",
+                "KR": "각성 출석 체크",
+                "MX": "Inicio de sesión de Despertar",
+                "RU": "Вход «Пробуждение»",
+                "TC": "喚醒簽到",
+                "TH": "การเข้าสู่​ระบบ​การตื่น​รู้",
+                "VN": "Điểm Danh Tỉnh Thức"
+              }
+            },
+            {
+              "benefitId": "newplayer_mission",
+              "bigRewardId": "item_ticketgacha_special_single",
+              "bigRewardStatement": {
+                "BR": "[Permissão para CT Privilegiada] × 10",
+                "CN": "特许寻访凭证×10",
+                "DE": "[RK-Genehmigung: Priorisiert] ×10",
+                "EN": "[Chartered HH Permit]×10",
+                "FR": "10 [permis REC certifié]",
+                "ID": "[Surat Izin HH Khusus] ×10",
+                "IT": "10 permessi CT certificata",
+                "JP": "特別スカウト券×10",
+                "KR": "특별 허가 헤드헌팅 허가증×10",
+                "MX": "[Permiso de C.R. certificada]×10",
+                "RU": "Разрешение на специальный наем х10",
+                "TC": "特許尋訪憑證×10",
+                "TH": "[ใบอนุญาต​ HH รับรอง​]x10",
+                "VN": "[Vé Chiêu Mộ Đặc Quyền]×10"
+              },
+              "desc": {
+                "BR": "Participe do Tributo Privilegiado do Iniciante para receber uma recompensa de <@activitybenefits.originium>[Permissão para CT Privilegiada] × 10</>",
+                "CN": "参与新手特许赠礼，可获得<@activitybenefits.originium>特许寻访凭证×10</>奖励。",
+                "DE": "Nimm an „Rekrutierungstribut für Anfänger“ teil und sichere dir als Belohnung <@activitybenefits.originium>[RK-Genehmigung: Priorisiert] ×10</>",
+                "EN": "Take part in the Beginner's Chartered Tribute to receive a reward of <@activitybenefits.originium>[Chartered HH Permit]×10</>",
+                "FR": "Participez au Don certifié pour novices pour recevoir en récompense <@activitybenefits.originium>10 [permis REC certifié]</>.",
+                "ID": "Ikutlah dalam Persembahan Khusus Pemula untuk mendapatkan imbalan berupa <@activitybenefits.originium>[Surat Izin HH Khusus] ×10</>",
+                "IT": "Partecipa a Tributo certificato per principianti per ricevere <@activitybenefits.originium>10 permessi CT certificata</> come ricompensa.",
+                "JP": "旅立ち特別スカウト特典に参加すると、<@activitybenefits.originium>特別スカウト券×10</>を入手できます。",
+                "KR": "신입 특별 허가 선물에 참여하면 <@activitybenefits.originium>특별 허가 헤드헌팅 허가증×10</> 보상을 획득할 수 있습니다.",
+                "MX": "Participa en el Tributo certificado para principiantes para recibir como recompensa <@activitybenefits.originium>[Permiso de C.R. certificada]×10</>",
+                "RU": "Участвуйте в событии «Специальное подношение новичку», чтобы получить <@activitybenefits.originium>разрешение на специальный наем х10</>",
+                "TC": "參與新手特許贈禮，可獲得<@activitybenefits.originium>特許尋訪憑證×10</>獎勵。",
+                "TH": "เข้าร่วม​ใน​เครื่องบรรณาการ​รับรอง​ผู้เริ่มต้น​เพื่อ​รับรางวัล​ <@activitybenefits.originium>[ใบอนุญาต​ HH รับรอง​]x10</>",
+                "VN": "Tham gia Quà Tặng Tân Thủ Đặc Quyền để nhận thưởng <@activitybenefits.originium>[Vé Chiêu Mộ Đặc Quyền]×10.</>"
+              },
+              "iconId": "icon_rewardshow_newbiebonus",
+              "jumpId": "jump_center_activity_center_newplayer_mission",
+              "rewardIdList": [
+                "item_ticketgacha_special_single"
+              ],
+              "sortId": 3,
+              "title": {
+                "BR": "Tributo Privilegiado do Iniciante",
+                "CN": "新手特许赠礼",
+                "DE": "Rekrutierungstribut für Anfänger",
+                "EN": "Beginner's Chartered Tribute",
+                "FR": "Don certifié pour novices",
+                "ID": "Persembahan Khusus Pemula",
+                "IT": "Tributo certificato per principianti",
+                "JP": "旅立ち特別スカウト特典",
+                "KR": "신입 특별 허가 선물",
+                "MX": "Tributo certificado para principiantes",
+                "RU": "Специальное подношение новичку",
+                "TC": "新手特許贈禮",
+                "TH": "เครื่องบรรณาการ​รับรอง​ผู้เริ่มต้น",
+                "VN": "Quà Tặng Tân Thủ Đặc Quyền"
+              }
+            },
+            {
+              "benefitId": "levelRewards",
+              "bigRewardId": "item_case_wpn_selfselect_common_advlevel",
+              "bigRewardStatement": {
+                "BR": "Suprimento de Armas Selecionadas",
+                "CN": "臻选武器补给",
+                "DE": "Ausgewählter Waffenvorrat",
+                "EN": "Curated Weapon Supply",
+                "FR": "Approvisionnement en armes de choix",
+                "ID": "Suplai Senjata Hasil Kurasi",
+                "IT": "Scorta di armi selezionate",
+                "JP": "極選武器補給",
+                "KR": "특선 무기 보급",
+                "MX": "Suministro de armas seleccionadas",
+                "RU": "Ящик отборного оружия",
+                "TC": "臻選武器補給",
+                "TH": "เสบียง​อาวุธ​คัดสรร",
+                "VN": "Tiếp Tế Vũ Khí Chọn Lọc"
+              },
+              "desc": {
+                "BR": "Aumente o Nível de Autoridade de Endministrator para adquirir recompensas que incluem <@activitybenefits.originium>Suprimento de Armas Selecionadas, Certificado de Distribuição Voz Cósmica, [Permissão para CT Básica] × 40 e [Ourubis] × 4.000</>.",
+                "CN": "提升权限等阶，可获得<@activitybenefits.originium>臻选武器补给、星声申领凭证、基础寻访凭证×40、嵌晶玉×4000</>奖励。",
+                "DE": "Erhöhe das Autoritätslevel des Endministrators, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>Ausgewählter Waffenvorrat, „Kosmische Stimme“-Ausgabe-Zerti, [RK-Genehmigung: Einfach] ×40 und [Oro-Beryll] ×4.000</>.",
+                "EN": "Raise the Endministrator's Authority Level to acquire rewards that include <@activitybenefits.originium>Curated Weapon Supply, Cosmic Voice Issue Cert, [Basic HH Permit]×40, and [Oroberyl]×4000</>.",
+                "FR": "Faites progresser le niveau d'autorité de l'Endministrator pour obtenir des récompenses incluant un <@activitybenefits.originium>approvisionnement en armes de choix, un certificat de tirage de voix cosmique, 40 [permis REC de base] et 4 000 [orobéryls]</>.",
+                "ID": "Naikkan Level Otoritas Endministrator untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>Suplai Senjata Hasil Kurasi, Sertif Edisi Suara Kosmis, [Surat Izin HH Biasa] ×40, dan [Oroberyl] ×4.000</>.",
+                "IT": "Aumenta il livello di autorità dell'Endministrator per ottenere ricompense come <@activitybenefits.originium>scorte di armi selezionate, certificati di distribuzione: Voce cosmica, 40 permessi CT base e 4000 Oroberilli</>.",
+                "JP": "行動レベルを上げると、<@activitybenefits.originium>極選武器補給、星声・申請証、通常スカウト券×40、赤晶玉×4,000</>を入手できます。",
+                "KR": "권한 등급을 업그레이드하면 <@activitybenefits.originium>특선 무기 보급, 성음 신청 허가증, 기초 헤드헌팅 허가증×40, 오로베릴×4,000</> 보상을 획득할 수 있습니다.",
+                "MX": "Aumenta el Nivel de autoridad del Endministrator para obtener recompensas que incluyen <@activitybenefits.originium>Suministro de armas seleccionadas, Cert. de solicitud de Voz Cósmica, [Permiso de C.R. básica]×40 y [Oroberilio]×4000</>.",
+                "RU": "Повышайте уровень влияния Эндминистратора, чтобы получить награды, среди которых <@activitybenefits.originium>ящик отборного оружия, сертификат поставки «Космический голос», базовое разрешение на наем х40 и ороберил х4000</>.",
+                "TC": "提升權限等階，可獲得<@activitybenefits.originium>臻選武器補給、星聲申領憑證、基礎尋訪憑證×40、嵌晶玉×4000</>獎勵。",
+                "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator เพื่อ​รับรางวัล​ที่​ประกอบด้วย​ <@activitybenefits.originium>​เสบียง​อาวุธ​คัดสรร​ ใบรับรอง​ตั๋ว​เสียง​จักรวาล​ [ใบอนุญาต​ HH พื้นฐาน​]×40 และ​ [โอ​โร​เบ​ริล​]×4,000</>",
+                "VN": "Nâng Cấp Đặc Quyền của Endministrator để nhận thưởng bao gồm <@activitybenefits.originium>Tiếp Tế Vũ Khí Chọn Lọc, Chứng Nhận Gói Rút Tiếng Sao, [Vé Chiêu Mộ Cơ Bản]x40 và [Oroberyl]x4000</>."
+              },
+              "iconId": "icon_rewardshow_activity_level",
+              "jumpId": "jump_center_activity_level_rewards",
+              "rewardIdList": [
+                "item_case_wpn_selfselect_common_advlevel",
+                "item_ticketgacha_weaponbox_constant_2",
+                "item_ticketgacha_standard_single",
+                "item_diamond"
+              ],
+              "sortId": 4,
+              "title": {
+                "BR": "Recompensas do Nível de Autoridade",
+                "CN": "等阶活动奖励",
+                "DE": "Autoritätslevel-Belohnungen",
+                "EN": "Authority Level Rewards",
+                "FR": "Récompenses de niveau d'autorité",
+                "ID": "Imbalan Level Otoritas",
+                "IT": "Ricompense livello di autorità",
+                "JP": "行動レベルイベント報酬",
+                "KR": "권한 등급 이벤트 보상",
+                "MX": "Recompensas por nivel de autoridad",
+                "RU": "Награды за уровень влияния",
+                "TC": "等階活動獎勵",
+                "TH": "รางวัล​เล​เวล​ของ​เจ้าพนักงาน",
+                "VN": "Thưởng Cấp Đặc Quyền"
+              }
+            },
+            {
+              "benefitId": "mainline",
+              "bigRewardId": "item_originium_recharge",
+              "bigRewardStatement": {
+                "BR": "[Origeometria] × 70",
+                "CN": "衍质源石×70",
+                "DE": "[Origeometrie] ×70",
+                "EN": "[Origeometry]×70",
+                "FR": "70 [origéométries]",
+                "ID": "[Origeometri] ×70",
+                "IT": "70 Origeometrie",
+                "JP": "展延源石×70",
+                "KR": "파생 오리지늄×70",
+                "MX": "[Origeometría]×70",
+                "RU": "Ориджеметрий х70",
+                "TC": "衍質源石×70",
+                "TH": "[ออ​ริ​จี​โอ​เมท​รี​]×70",
+                "VN": "[Origeometry]x70"
+              },
+              "desc": {
+                "BR": "Avance na missão principal para obter recompensas que incluem os <@activitybenefits.originium>[Origeometria] × 70, bem como operadores 5★ Perlica, Chen Qianyu e Wulfgard</>.",
+                "CN": "推进主线任务，可获得<@activitybenefits.originium>衍质源石×70以及5星干员佩丽卡、陈千语、狼卫</>等奖励。",
+                "DE": "Schreite in der Hauptmission voran, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>[Origeometrie] ×70 sowie 5★-Operatoren Perlica, Chen Qianyu und Wulfgard</>.",
+                "EN": "Progress through the main mission to acquire rewards that include <@activitybenefits.originium>[Origeometry]×70 as well as 5★ operators Perlica, Chen Qianyu, and Wulfgard</>.",
+                "FR": "Progressez dans la mission principale pour obtenir des récompenses incluant <@activitybenefits.originium>70 [origéométries] ainsi que les opérateurs 5★ Perlica, Chen Qianyu et Wulfgard</>.",
+                "ID": "Tingkatkan progres misi utama untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Origeometri] ×70 serta operator 5★ yaitu Perlica, Chen Qianyu, dan Wulfgard</>.",
+                "IT": "Progredisci nella missione principale per ottenere ricompense come <@activitybenefits.originium>70 Origeometrie e gli operatori da 5★ Perlica, Chen Qianyu e Wulfgard</>.",
+                "JP": "メイン任務を進めると、<@activitybenefits.originium>展延源石×70、★5オペレーターペリカ、チェン・センユー、ウルフガード</>などの報酬を入手できます。",
+                "KR": "메인 임무를 진행하면 <@activitybenefits.originium>파생 오리지늄×70 및 5성 오퍼레이터 펠리카, 진천우, 울프가드</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Avanza en la misión principal para obtener recompensas que incluyen <@activitybenefits.originium>[Origeometría]×70, así como a los operadores 5★ Perlica, Chen Qianyu y Wulfgard</>.",
+                "RU": "Продолжайте проходить основную миссию, чтобы получить награды, среди которых <@activitybenefits.originium>ориджеметрий х70, а также 5★ оперативники Перлика, Чэнь Цяньюй и Вулфгард</>.",
+                "TC": "推進主線任務，可獲得<@activitybenefits.originium>衍質源石×70以及5星幹員佩麗卡、陳千語、狼衛</>等獎勵。",
+                "TH": "เคลียร์​ภารกิจ​หลัก​แต่ละ​ภารกิจ​ให้​สำเร็จ​เพื่อ​รับรางวัล​ที่​ประกอบด้วย​<@activitybenefits.originium>[ออ​ริ​จี​โอ​เมท​รี​]×70 รวมถึง​โอเปอเรเตอร์​ 5★ เพอ​ริ​กา​ เฉิน​ เชียน​ยู​ และ​วู​ล์​ฟ​การ์ด​</>",
+                "VN": "Hoàn thành nhiệm vụ chính để nhận thưởng bao gồm <@activitybenefits.originium>[Origeometry]x70 cũng như cán viên Perlica, Chen Qianyu và Wulfgard 5★</>."
+              },
+              "iconId": "icon_rewardshow_mainstory",
+              "jumpId": "jump_mission_CharacterGuide",
+              "rewardIdList": [
+                "item_originium_recharge",
+                "chr_0004_pelica",
+                "chr_0005_chen",
+                "chr_0006_wolfgd"
+              ],
+              "sortId": 6,
+              "title": {
+                "BR": "Missão Principal",
+                "CN": "主线任务",
+                "DE": "Hauptmission",
+                "EN": "Main Mission",
+                "FR": "Mission principale",
+                "ID": "Misi Utama",
+                "IT": "Missione principale",
+                "JP": "メイン任務",
+                "KR": "메인 임무",
+                "MX": "Misión principal",
+                "RU": "Основная миссия",
+                "TC": "主線任務",
+                "TH": "ภารกิจ​หลัก",
+                "VN": "Nhiệm Vụ Chính"
+              }
+            },
+            {
+              "benefitId": "adventureBook",
+              "bigRewardId": "item_diamond",
+              "bigRewardStatement": {
+                "BR": "[Ourubis] × 9.000",
+                "CN": "嵌晶玉×9000",
+                "DE": "[Oro-Beryll] ×9.000",
+                "EN": "[Oroberyl]×9000",
+                "FR": "9 000 [orobéryls]",
+                "ID": "[Oroberyl] ×9.000",
+                "IT": "9000 Oroberilli",
+                "JP": "赤晶玉×9,000",
+                "KR": "오로베릴×9,000",
+                "MX": "[Oroberilio]×9000",
+                "RU": "Ороберил х9000",
+                "TC": "嵌晶玉×9000",
+                "TH": "[โอ​โร​เบ​ริล​]×9,000",
+                "VN": "[Oroberyl]x9000"
+              },
+              "desc": {
+                "BR": "Conclua missões no Manual Operacional – Nó para aumentar rapidamente seu Nível de Autoridade e obter recompensas que incluem <@activitybenefits.originium>[Ourubis] × 9.000</>.",
+                "CN": "完成行动手册相关节点任务，可快速提升权限等阶，并可获得<@activitybenefits.originium>嵌晶玉×9000</>等奖励。",
+                "DE": "Schließe Missionen im Betriebshandbuch-Knotenpunkt ab, um dein Autoritätslevel schnell zu erhöhen und Belohnungen zu erhalten, darunter <@activitybenefits.originium>[Oro-Beryll] ×9.000</>.",
+                "EN": "Complete missions in Operational Manual - Node to quickly raise your Authority Level and acquire rewards that include <@activitybenefits.originium>[Oroberyl]×9000</>.",
+                "FR": "Terminez des missions du Manuel opérationnel - Nœud pour augmenter rapidement votre niveau d'autorité et obtenir des récompenses incluant <@activitybenefits.originium>9 000 [orobéryls]</>.",
+                "ID": "Selesaikan misi di Panduan Operasi - Nodus untuk mempercepat kenaikan Level Otoritas dan mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Oroberyl] ×9.000</>.",
+                "IT": "Completa le missioni in Manuale operativo - Nodo per aumentare rapidamente il tuo livello di autorità e ottenere ricompense come <@activitybenefits.originium>9000 Oroberilli</>.",
+                "JP": "案内所のフェーズを完了し、行動レベルを素早く上げることで、<@activitybenefits.originium>赤晶玉×9,000</>などの報酬を入手できます。",
+                "KR": "작전 매뉴얼 관련 노드 임무를 완료하면 권한 등급을 빠르게 올릴 수 있으며, <@activitybenefits.originium>오로베릴×9,000</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Completa misiones en el Manual operativo - Nodo para aumentar rápidamente tu Nivel de autoridad y obtener recompensas que incluyen <@activitybenefits.originium>[Oroberilio]×9000</>.",
+                "RU": "Выполняйте миссии в узлах руководства оперативника, чтобы быстро повысить уровень влияния и получить награды, среди которых <@activitybenefits.originium>ороберил х9000</>.",
+                "TC": "完成行動手冊相關節點任務，可快速提升權限等階，並可獲得<@activitybenefits.originium>嵌晶玉×9000</>等獎勵。",
+                "TH": "ทำ​ภารกิจ​โหนด​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​เพื่อ​เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​คุณ​อย่างรวดเร็ว​ และ​รับรางวัล​ซึ่ง​รวมถึง​ <@activitybenefits.originium>[โอ​โร​เบ​ริล​]×9,000</>",
+                "VN": "Hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành – Mốc để đẩy nhanh tiến độ tăng Cấp Đặc Quyền và nhận thưởng gồm <@activitybenefits.originium>[Oroberyl]×9000</>."
+              },
+              "iconId": "icon_rewardshow_manual",
+              "jumpId": "jump_activity_newplayer_benefits_AdventureBook",
+              "rewardIdList": [
+                "item_diamond",
+                "item_adventureexp"
+              ],
+              "sortId": 5,
+              "title": {
+                "BR": "Manual Operacional",
+                "CN": "行动手册",
+                "DE": "Betriebshandbuch",
+                "EN": "Operational Manual",
+                "FR": "Manuel opérationnel",
+                "ID": "Panduan Operasi",
+                "IT": "Manuale operativo",
+                "JP": "案内所",
+                "KR": "작전 매뉴얼",
+                "MX": "Manual operativo",
+                "RU": "Руководство оперативника",
+                "TC": "行動手冊",
+                "TH": "คู่มือ​ปฏิบัติการ",
+                "VN": "Cẩm Nang Vận Hành"
+              }
+            },
+            {
+              "benefitId": "domainDevelopment",
+              "bigRewardId": "item_ticketgacha_standard_single",
+              "bigRewardStatement": {
+                "BR": "[Permissão para CT Básica] × 23",
+                "CN": "基础寻访凭证×23",
+                "DE": "[RK-Genehmigung: Einfach] ×23",
+                "EN": "[Basic HH Permit]×23",
+                "FR": "23 [permis REC de base]",
+                "ID": "[Surat Izin HH Biasa] ×23",
+                "IT": "23 permessi CT base",
+                "JP": "通常スカウト券×23",
+                "KR": "기초 헤드헌팅 허가증×23",
+                "MX": "[Permiso de C.R. Básica]×23",
+                "RU": "Базовое разрешение на наем х23",
+                "TC": "基礎尋訪憑證×23",
+                "TH": "[ใบอนุญาต​ HH พื้นฐาน​]×23",
+                "VN": "[Vé Chiêu Mộ Cơ Bản]x23"
+              },
+              "desc": {
+                "BR": "Aumente os níveis de desenvolvimento regional para desbloquear/fazer upgrade do sistema de redistribuição do estoque e, em seguida, comprar Mercadorias Básicas para obter <@activitybenefits.originium>[Permissão para CT Básica] × 23 e [Ourubis] × 2.200</>.",
+                "CN": "提升地区建设等级，解锁升级物资调度系统，购买稳定需求物资，可获得<@activitybenefits.originium>基础寻访凭证×23、嵌晶玉×2200</>等奖励。",
+                "DE": "Erhöhe Regionsentwicklungslevel, um das Vorratneuverteilungs-System freizuschalten/zu verbessern, und kaufe dann gängige Waren, um <@activitybenefits.originium>[RK-Genehmigung: Einfach] ×23 und [Oro-Beryll] ×2.200</> zu erhalten.",
+                "EN": "Raise regional development levels to unlock/upgrade the stock redistribution system, then purchase Staple Goods to get <@activitybenefits.originium>[Basic HH Permit]×23 and [Oroberyl]×2200</>.",
+                "FR": "Augmentez les niveaux de développement régional pour débloquer/améliorer le système de redistribution, puis achetez des produits de première nécessité pour obtenir <@activitybenefits.originium>23 [permis REC de base] et 2 200 [orobéryls]</>.",
+                "ID": "Naikkan level pengembangan regional untuk membuka/meng-upgrade sistem redistribusi stok, lalu beli Barang Pokok untuk mendapatkan <@activitybenefits.originium>[Surat Izin HH Biasa] ×23 dan [Oroberyl] ×2.200</>.",
+                "IT": "Aumenta i livelli di sviluppo regionale e sblocca/potenzia il sistema di ridistribuzione scorte, dopodiché acquista beni di consumo per ottenere <@activitybenefits.originium>23 permessi CT base e 2200 Oroberilli</>.",
+                "JP": "地域建設レベルの向上、商品取引システムの解放およびレベルアップ、定価商品の購入で、<@activitybenefits.originium>通常スカウト券×23、赤晶玉×2,200</>などの報酬を入手できます。",
+                "KR": "지역 건설 레벨을 올려 물자 관리 시스템을 잠금 해제하거나 업그레이드하고, 안정 수요 물자를 구매하면 <@activitybenefits.originium>기초 헤드헌팅 허가증×23, 오로베릴×2200</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Aumenta los niveles de desarrollo regional para desbloquear/mejorar el sistema de redistribución de existencias, luego compra Mercancía básica para obtener <@activitybenefits.originium>[Permiso de C.R. Básica]×23 y [Oroberilio]×2200</>.",
+                "RU": "Повышайте уровни развития регионов, чтобы открыть/улучшить системы перераспределения резервов, затем купите основные товары и получите <@activitybenefits.originium>базовое разрешение на наем х23 и ороберил х2200</>.",
+                "TC": "提升地區建設等級，解鎖升級物資調度系統，購買穩定需求物資，可獲得<@activitybenefits.originium>基礎尋訪憑證×23、嵌晶玉×2200</>等獎勵。",
+                "TH": "เพิ่ม​ระดับ​การพัฒนา​ระดับ​ภูมิภาค​เพื่อ​ปลดล็อก​/​อัป​เกรด​ศูนย์​กระจาย​ของ​ จากนั้น​ซื้อ​สินค้าหลัก​เพื่อ​รับ​<@activitybenefits.originium>[ใบอนุญาต​ HH พื้นฐาน​]×23 และ​ [โอ​โร​เบ​ริล​]×2,200</>",
+                "VN": "Tăng cấp độ phát triển khu vực để mở khóa/nâng cấp hệ thống điều phối vật tư, sau đó mua Vật Tư Thiết Yếu để nhận <@activitybenefits.originium>[Vé Chiêu Mộ Cơ Bản]×23 và [Oroberyl]×2200</>."
+              },
+              "iconId": "icon_rewardshow_development",
+              "jumpId": "jump_activity_newplayer_benefits_Domain",
+              "rewardIdList": [
+                "item_ticketgacha_standard_single",
+                "item_diamond"
+              ],
+              "sortId": 7,
+              "title": {
+                "BR": "Desenvolvimento Regional do Vale",
+                "CN": "谷地地区建设",
+                "DE": "Tal-Regionsentwicklung",
+                "EN": "Valley Regional Development",
+                "FR": "Développement régional de la Vallée",
+                "ID": "Pengembangan Regional Lembah",
+                "IT": "Sviluppo regionale della Valle",
+                "JP": "谷地建設",
+                "KR": "협곡 지역 건설",
+                "MX": "Desarrollo regional del Valle",
+                "RU": "Развитие региона: Долина",
+                "TC": "谷地地區建設",
+                "TH": "การพัฒนา​ระดับ​ภูมิภาค​หุบเขา",
+                "VN": "Phát Triển Khu Vực Thung Lũng"
+              }
+            },
+            {
+              "benefitId": "levelRewardSystem",
+              "bigRewardId": "item_diamond",
+              "bigRewardStatement": {
+                "BR": "[Ourubis] × 4.500",
+                "CN": "嵌晶玉×4500",
+                "DE": "[Oro-Beryll] ×4.500",
+                "EN": "[Oroberyl]×4500",
+                "FR": "4 500 [orobéryls]",
+                "ID": "[Oroberyl] ×4.500",
+                "IT": "4500 Oroberilli",
+                "JP": "赤晶玉×4,500",
+                "KR": "오로베릴×4500",
+                "MX": "[Oroberilio]×4500",
+                "RU": "Ороберил х4500",
+                "TC": "嵌晶玉×4500",
+                "TH": "[โอ​โร​เบ​ริล​]×4,500",
+                "VN": "[Oroberyl]x4500"
+              },
+              "desc": {
+                "BR": "Aumente o Nível de Autoridade de Endministrator para ganhar <@activitybenefits.originium>[Ourubis] × 4.500</>.",
+                "CN": "提升权限等阶，可获得<@activitybenefits.originium>嵌晶玉×4500</>等奖励。",
+                "DE": "Erhöhe das Autoritätslevel des Endministrators, um <@activitybenefits.originium>[Oro-Beryll] ×4.500</> zu erhalten.",
+                "EN": "Raise the Endministrator's Authority Level to earn <@activitybenefits.originium>[Oroberyl]×4500</>.",
+                "FR": "Augmentez le niveau d'autorité de l'Endministrator pour obtenir <@activitybenefits.originium>4 500 [orobéryls]</>.",
+                "ID": "Naikkan Level Otoritas Endministrator untuk mendapatkan <@activitybenefits.originium>[Oroberyl] ×4.500</>.",
+                "IT": "Aumenta il livello di autorità dell'Endministrator per ottenere <@activitybenefits.originium>4500 Oroberilli</>.",
+                "JP": "行動レベルを上げると、<@activitybenefits.originium>赤晶玉×4,500</>などの報酬を入手できます。",
+                "KR": "권한 등급을 업그레이드하면 <@activitybenefits.originium>오로베릴×4500</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Aumenta el Nivel de autoridad del Endministrator para obtener <@activitybenefits.originium>[Oroberilio]×4500</>.",
+                "RU": "Повышайте уровень влияния Эндминистратора, чтобы заработать <@activitybenefits.originium>ороберил х4500</>.",
+                "TC": "提升權限等階，可獲得<@activitybenefits.originium>嵌晶玉×4500</>等獎勵。",
+                "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator เพื่อ​รับ​<@activitybenefits.originium>[โอ​โร​เบ​ริล​]×4,500</>",
+                "VN": "Nâng Cấp Đặc Quyền của Endministrator để nhận <@activitybenefits.originium>[Oroberyl]x4500</>."
+              },
+              "iconId": "icon_rewardshow_level",
+              "jumpId": "jump_activity_newplayer_benefits_level",
+              "rewardIdList": [
+                "item_diamond"
+              ],
+              "sortId": 8,
+              "title": {
+                "BR": "Aumento de Nível de Autoridade",
+                "CN": "等阶晋升奖励",
+                "DE": "Autoritätslevel-Aufstieg",
+                "EN": "Authority Level-Up",
+                "FR": "Augmentation du niveau d'autorité",
+                "ID": "Naik Level Otoritas",
+                "IT": "Aumento del livello di autorità",
+                "JP": "行動レベル上昇報酬",
+                "KR": "등급 돌파 보상",
+                "MX": "Aumento de nivel de autoridad",
+                "RU": "Повышение уровня влияния",
+                "TC": "等階晉升獎勵",
+                "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน",
+                "VN": "Tăng Cấp Đặc Quyền"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "stageList": [
+            {
+              "benefitId": "gachaPool",
+              "bigRewardId": "item_ticketgacha_beginner_ten",
+              "bigRewardStatement": {
+                "BR": "[Permissão para CT-10× da Novos Horizontes] × 4",
+                "CN": "十连启程寻访凭证×4",
+                "DE": "[10er-Neue-Horizonte-RK-Genehmigung] ×4",
+                "EN": "[New Horizons HH-10×Permit]×4",
+                "FR": "4 [permis REC Nouveaux horizons ×10]",
+                "ID": "[Surat Izin HH-10× Cakrawala Baru] ×4",
+                "IT": "4 permessi CT-10: Nuovi orizzonti",
+                "JP": "「旅立ち」10回スカウト券×4",
+                "KR": "여정의 시작 헤드헌팅 10회 허가증×4",
+                "MX": "[Permiso de C.R. de Nuevos horizontes x10]×4",
+                "RU": "Разрешение на наем х10 «Новые горизонты» х4",
+                "TC": "十連啟程尋訪憑證×4",
+                "TH": "[ใบอนุญาต​ HH ขอบฟ้า​ใหม่​-×10]×4",
+                "VN": "[Vé Chiêu Mộ Chân Trời Mới ×10]x4"
+              },
+              "desc": {
+                "BR": "Avance na missão principal para obter recompensas que incluem <@activitybenefits.originium>[Permissão para CT-10× da Novos Horizontes] × 4 e Suprimento de Armas Novos Horizontes</>.",
+                "CN": "推进主线任务，可获得<@activitybenefits.originium>十连启程寻访凭证×4、启程武器补给</>奖励。",
+                "DE": "Schreite in der Hauptmission voran, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>[10er-Neue-Horizonte-RK-Genehmigung] ×4 und Waffenvorrat: Neue Horizonte</>.",
+                "EN": "Progress through the main mission to acquire rewards that include <@activitybenefits.originium>[New Horizons HH-10×Permit]×4 and New Horizons Weapon Supply</>.",
+                "FR": "Progressez dans la mission principale pour obtenir des récompenses incluant <@activitybenefits.originium>4 [permis REC Nouveaux horizons ×10] et un approvisionnement en armes - Nouveaux horizons</>.",
+                "ID": "Tingkatkan progres misi utama untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Surat Izin HH-10× Cakrawala Baru] ×4 dan Suplai Senjata Cakrawala Baru</>.",
+                "IT": "Progredisci nella missione principale per ottenere ricompense come <@activitybenefits.originium>4 permessi CT-10: Nuovi orizzonti e una Scorta di armi Nuovi orizzonti</>.",
+                "JP": "メイン任務を進めると、<@activitybenefits.originium>「旅立ち」10回スカウト券×4と旅立ち武器補給</>を入手できます。",
+                "KR": "메인 임무를 진행하면 <@activitybenefits.originium>여정의 시작 헤드헌팅 10회 허가증×4, 여정의 시작 무기 보급</> 보상을 획득할 수 있습니다.",
+                "MX": "Avanza en la misión principal para obtener recompensas que incluyen <@activitybenefits.originium>[Permiso de C.R. de Nuevos horizontes x10]×4 y Suministro de armas de Nuevos horizontes</>.",
+                "RU": "Продолжайте проходить основную миссию, чтобы получить <@activitybenefits.originium>разрешение на наем х10 «Новые горизонты» х4 и ящик оружия «Новые горизонты»</>.",
+                "TC": "推進主線任務，可獲得<@activitybenefits.originium>十連啟程尋訪憑證×4、啟程武器補給</>獎勵。",
+                "TH": "เคลียร์​ภารกิจ​หลัก​แต่ละ​ภารกิจ​ให้​สำเร็จ​เพื่อ​รับรางวัล​ต่า​งๆ​ รวมถึง​ <@activitybenefits.originium>[ใบอนุญาต​ HH ขอบฟ้า​ใหม่​-×10]×4 และ​ เสบียง​อาวุธ​ขอบฟ้า​ใหม่​</>",
+                "VN": "Hoàn thành nhiệm vụ chính để nhận thưởng bao gồm <@activitybenefits.originium>[Vé Chiêu Mộ Chân Trời Mới ×10]x4 và Gói Vũ Khí Chân Trời Mới</>."
+              },
+              "iconId": "icon_rewardshow_gacha_beginner",
+              "jumpId": "jump_center_activity_gacha_beginner",
+              "rewardIdList": [
+                "item_ticketgacha_beginner_ten",
+                "item_case_wpn_selfselect_gacha_beginner"
+              ],
+              "sortId": 2,
+              "title": {
+                "BR": "Novos Horizontes",
+                "CN": "于此启程",
+                "DE": "Neue Horizonte",
+                "EN": "New Horizons",
+                "FR": "Nouveaux horizons",
+                "ID": "Cakrawala Baru",
+                "IT": "Nuovi orizzonti",
+                "JP": "旅立ち",
+                "KR": "가동 시작",
+                "MX": "Nuevos horizontes",
+                "RU": "Новые горизонты",
+                "TC": "於此啟程",
+                "TH": "ขอบฟ้า​ใหม่",
+                "VN": "Chân Trời Mới"
+              }
+            },
+            {
+              "benefitId": "checkIn",
+              "bigRewardId": "chr_0025_ardelia",
+              "bigRewardStatement": {
+                "BR": "Ardelia",
+                "CN": "艾尔黛拉",
+                "DE": "Ardelia",
+                "EN": "Ardelia",
+                "FR": "Ardelia",
+                "ID": "Ardelia",
+                "IT": "Ardelia",
+                "JP": "アルデリア",
+                "KR": "아델리아",
+                "MX": "Ardelia",
+                "RU": "Арделия",
+                "TC": "艾爾黛拉",
+                "TH": "อาร์​เด​เลีย",
+                "VN": "Ardelia"
+              },
+              "desc": {
+                "BR": "Participe de Login em Despertar para adquirir recompensas que incluem uma <@activitybenefits.originium>operadora 6★ Ardelia, uma arma 6★ Sonhos da Praia Estrelada e [Permissão para CT Privilegiada] × 12</>.",
+                "CN": "参与唤醒签到，可获得<@activitybenefits.originium>6星干员艾尔黛拉、6星武器沧溟星梦、特许寻访凭证×12</>等奖励。",
+                "DE": "Nimm an „Erwachen – Anmeldung“ teil, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>6★-Operator Ardelia, 6★-Waffe Träume vom Sternenstrand und [RK-Genehmigung: Priorisiert] ×12</>.",
+                "EN": "Take part in Awakening Sign-In to acquire rewards that include <@activitybenefits.originium>6★ operator Ardelia, 6★ weapon Dreams of the Starry Beach, and [Chartered HH Permit]×12</>.",
+                "FR": "Participez à Connexion d'Éveil pour obtenir des récompenses incluant <@activitybenefits.originium>l'opératrice 6★ Ardelia, l'arme 6★ Rêves de plage étoilée, et 12 [Permis REC certifié]</>.",
+                "ID": "Berpartisipasilah dalam Sign In Kebangkitan untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>operator 6★ Ardelia, senjata 6★ Dreams of the Starry Beach, dan [Surat Izin HH Khusus] ×12</>.",
+                "IT": "Partecipa ad Accesso Giorno del risveglio per ottenere ricompense come <@activitybenefits.originium>l'operatore da 6★ Ardelia, l'arma da 6★ Sogni di una spiaggia piena di stelle e 12 permessi CT certificata</>.",
+                "JP": "目覚めスタンプに参加すると、<@activitybenefits.originium>★6オペレーター「アルデリア」、★6武器「蒼星の囁き」、特別スカウト券×12</>などの報酬を入手できます。",
+                "KR": "각성 출석 체크 이벤트에 참여하면 <@activitybenefits.originium>6성 오퍼레이터 아델리아, 6성 무기 바다와 별의 꿈, 특별 허가 헤드헌팅 허가증×12</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Participa en Inicio de sesión de Despertar para obtener recompensas que incluyen a la operadora de <@activitybenefits.originium>6★ Ardelia, el arma de 6★ Sueños de la playa estrellada y [Permiso de C.R. certificada]×12</>.",
+                "RU": "Участвуйте в событии входа «Пробуждение», чтобы получить награды, среди которых <@activitybenefits.originium>6★ оперативник Арделия, 6★ оружие «Мечта о звездном береге» и разрешение на специальный наем х12</>.",
+                "TC": "參與喚醒簽到，可獲得<@activitybenefits.originium>6星幹員艾爾黛拉、6星武器滄溟星夢、特許尋訪憑證×12</>等獎勵。",
+                "TH": "เข้าร่วม​การเข้าสู่​ระบบ​การตื่น​รู้​เพื่อ​รับรางวัล​ที่​ประกอบด้วย​<@activitybenefits.originium>​โอเปอเรเตอร์​ 6★ อาร์​เด​เลีย​ อาวุธ​ 6★ ความฝัน​แห่ง​ชายหาด​ที่​เต็มไปด้วย​ดวงดาว​ และ​ [ใบอนุญาต​ HH รับรอง​]×12</>",
+                "VN": "Tham gia Điểm Danh Tỉnh Thức để nhận thưởng gồm <@activitybenefits.originium>cán viên Ardelia 6★, vũ khí Giấc Mộng Biển Sao 6★ và [Vé Chiêu Mộ Đặc Quyền]×12</>."
+              },
+              "iconId": "icon_rewardshow_checkin",
+              "jumpId": "jump_center_activity_center_checkin",
+              "rewardIdList": [
+                "chr_0025_ardelia",
+                "wpn_funnel_0013",
+                "item_ticketgacha_special_single"
+              ],
+              "sortId": 1,
+              "title": {
+                "BR": "Login em Despertar",
+                "CN": "唤醒签到",
+                "DE": "Erwachen – Anmeldung",
+                "EN": "Awakening Sign-In",
+                "FR": "Connexion d'Éveil",
+                "ID": "Sign In Kebangkitan",
+                "IT": "Accesso Giorno del risveglio",
+                "JP": "目覚めスタンプ",
+                "KR": "각성 출석 체크",
+                "MX": "Inicio de sesión de Despertar",
+                "RU": "Вход «Пробуждение»",
+                "TC": "喚醒簽到",
+                "TH": "การเข้าสู่​ระบบ​การตื่น​รู้",
+                "VN": "Điểm Danh Tỉnh Thức"
+              }
+            },
+            {
+              "benefitId": "newplayer_mission",
+              "bigRewardId": "item_ticketgacha_special_single",
+              "bigRewardStatement": {
+                "BR": "[Permissão para CT Privilegiada] × 10",
+                "CN": "特许寻访凭证×10",
+                "DE": "[RK-Genehmigung: Priorisiert] ×10",
+                "EN": "[Chartered HH Permit]×10",
+                "FR": "10 [permis REC certifié]",
+                "ID": "[Surat Izin HH Khusus] ×10",
+                "IT": "10 permessi CT certificata",
+                "JP": "特別スカウト券×10",
+                "KR": "특별 허가 헤드헌팅 허가증×10",
+                "MX": "[Permiso de C.R. certificada]×10",
+                "RU": "Разрешение на специальный наем х10",
+                "TC": "特許尋訪憑證×10",
+                "TH": "[ใบอนุญาต​ HH รับรอง​]x10",
+                "VN": "[Vé Chiêu Mộ Đặc Quyền]×10"
+              },
+              "desc": {
+                "BR": "Participe do Tributo Privilegiado do Iniciante para receber uma recompensa de <@activitybenefits.originium>[Permissão para CT Privilegiada] × 10</>",
+                "CN": "参与新手特许赠礼，可获得<@activitybenefits.originium>特许寻访凭证×10</>奖励。",
+                "DE": "Nimm an „Rekrutierungstribut für Anfänger“ teil und sichere dir als Belohnung <@activitybenefits.originium>[RK-Genehmigung: Priorisiert] ×10</>",
+                "EN": "Take part in the Beginner's Chartered Tribute to receive a reward of <@activitybenefits.originium>[Chartered HH Permit]×10</>",
+                "FR": "Participez au Don certifié pour novices pour recevoir en récompense <@activitybenefits.originium>10 [permis REC certifié]</>.",
+                "ID": "Ikutlah dalam Persembahan Khusus Pemula untuk mendapatkan imbalan berupa <@activitybenefits.originium>[Surat Izin HH Khusus] ×10</>",
+                "IT": "Partecipa a Tributo certificato per principianti per ricevere <@activitybenefits.originium>10 permessi CT certificata</> come ricompensa.",
+                "JP": "旅立ち特別スカウト特典に参加すると、<@activitybenefits.originium>特別スカウト券×10</>を入手できます。",
+                "KR": "신입 특별 허가 선물 이벤트에 참여하면 <@activitybenefits.originium>특별 허가 헤드헌팅 허가증×10</> 보상을 획득할 수 있습니다.",
+                "MX": "Participa en el Tributo certificado para principiantes para recibir como recompensa <@activitybenefits.originium>[Permiso de C.R. certificada]×10</>",
+                "RU": "Участвуйте в событии «Специальное подношение новичку», чтобы получить <@activitybenefits.originium>разрешение на специальный наем х10</>",
+                "TC": "參與新手特許贈禮，可獲得<@activitybenefits.originium>特許尋訪憑證×10</>獎勵。",
+                "TH": "เข้าร่วม​ใน​เครื่องบรรณาการ​รับรอง​ผู้เริ่มต้น​เพื่อ​รับรางวัล​ <@activitybenefits.originium>[ใบอนุญาต​ HH รับรอง​]x10</>",
+                "VN": "Tham gia Quà Tặng Tân Thủ Đặc Quyền để nhận thưởng <@activitybenefits.originium>[Vé Chiêu Mộ Đặc Quyền]×10.</>"
+              },
+              "iconId": "icon_rewardshow_newbiebonus",
+              "jumpId": "jump_center_activity_center_newplayer_mission",
+              "rewardIdList": [
+                "item_ticketgacha_special_single"
+              ],
+              "sortId": 3,
+              "title": {
+                "BR": "Tributo Privilegiado do Iniciante",
+                "CN": "新手特许赠礼",
+                "DE": "Rekrutierungstribut für Anfänger",
+                "EN": "Beginner's Chartered Tribute",
+                "FR": "Don certifié pour novices",
+                "ID": "Persembahan Khusus Pemula",
+                "IT": "Tributo certificato per principianti",
+                "JP": "旅立ち特別スカウト特典",
+                "KR": "신입 특별 허가 선물",
+                "MX": "Tributo certificado para principiantes",
+                "RU": "Специальное подношение новичку",
+                "TC": "新手特許贈禮",
+                "TH": "เครื่องบรรณาการ​รับรอง​ผู้เริ่มต้น",
+                "VN": "Quà Tặng Tân Thủ Đặc Quyền"
+              }
+            },
+            {
+              "benefitId": "levelRewards",
+              "bigRewardId": "item_case_wpn_selfselect_common_advlevel",
+              "bigRewardStatement": {
+                "BR": "Suprimento de Armas Selecionadas",
+                "CN": "臻选武器补给",
+                "DE": "Ausgewählter Waffenvorrat",
+                "EN": "Curated Weapon Supply",
+                "FR": "Approvisionnement en armes de choix",
+                "ID": "Suplai Senjata Hasil Kurasi",
+                "IT": "Scorta di armi selezionate",
+                "JP": "極選武器補給",
+                "KR": "특선 무기 보급",
+                "MX": "Suministro de armas seleccionadas",
+                "RU": "Ящик отборного оружия",
+                "TC": "臻選武器補給",
+                "TH": "เสบียง​อาวุธ​คัดสรร",
+                "VN": "Tiếp Tế Vũ Khí Chọn Lọc"
+              },
+              "desc": {
+                "BR": "Aumente o Nível de Autoridade de Endministrator para adquirir recompensas que incluem <@activitybenefits.originium>Suprimento de Armas Selecionadas, Certificado de Distribuição Voz Cósmica, [Permissão para CT Básica] × 40 e [Ourubis] × 4.000</>.",
+                "CN": "提升权限等阶，可获得<@activitybenefits.originium>臻选武器补给、星声申领凭证、基础寻访凭证×40、嵌晶玉×4000</>奖励。",
+                "DE": "Erhöhe das Autoritätslevel des Endministrators, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>Ausgewählter Waffenvorrat, „Kosmische Stimme“-Ausgabe-Zerti, [RK-Genehmigung: Einfach] ×40 und [Oro-Beryll] ×4.000</>.",
+                "EN": "Raise the Endministrator's Authority Level to acquire rewards that include <@activitybenefits.originium>Curated Weapon Supply, Cosmic Voice Issue Cert, [Basic HH Permit]×40, and [Oroberyl]×4000</>.",
+                "FR": "Faites progresser le niveau d'autorité de l'Endministrator pour obtenir des récompenses incluant un <@activitybenefits.originium>approvisionnement en armes de choix, un certificat de tirage de voix cosmique, 40 [permis REC de base] et 4 000 [orobéryls]</>.",
+                "ID": "Naikkan Level Otoritas Endministrator untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>Suplai Senjata Hasil Kurasi, Sertif Edisi Suara Kosmis, [Surat Izin HH Biasa] ×40, dan [Oroberyl] ×4.000</>.",
+                "IT": "Aumenta il livello di autorità dell'Endministrator per ottenere ricompense come <@activitybenefits.originium>scorte di armi selezionate, certificati di distribuzione: Voce cosmica, 40 permessi CT base e 4000 Oroberilli</>.",
+                "JP": "行動レベルを上げると、<@activitybenefits.originium>極選武器補給、星声・申請証、通常スカウト券×40、赤晶玉×4,000</>を入手できます。",
+                "KR": "권한 등급을 업그레이드하면 <@activitybenefits.originium>특선 무기 보급, 성음 신청 허가증, 기초 헤드헌팅 허가증×40, 오로베릴×4,000</> 보상을 획득할 수 있습니다.",
+                "MX": "Aumenta el Nivel de autoridad del Endministrator para obtener recompensas que incluyen <@activitybenefits.originium>Suministro de armas seleccionadas, Cert. de solicitud de Voz Cósmica, [Permiso de C.R. básica]×40 y [Oroberilio]×4000</>.",
+                "RU": "Повышайте уровень влияния Эндминистратора, чтобы получить награды, среди которых <@activitybenefits.originium>ящик отборного оружия, сертификат поставки «Космический голос», базовое разрешение на наем х40 и ороберил х4000</>.",
+                "TC": "提升權限等階，可獲得<@activitybenefits.originium>臻選武器補給、星聲申領憑證、基礎尋訪憑證×40、嵌晶玉×4000</>獎勵。",
+                "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator เพื่อ​รับรางวัล​ที่​ประกอบด้วย​ <@activitybenefits.originium>​เสบียง​อาวุธ​คัดสรร​ ใบรับรอง​ตั๋ว​เสียง​จักรวาล​ [ใบอนุญาต​ HH พื้นฐาน​]×40 และ​ [โอ​โร​เบ​ริล​]×4,000</>",
+                "VN": "Nâng Cấp Đặc Quyền của Endministrator để nhận thưởng bao gồm <@activitybenefits.originium>Tiếp Tế Vũ Khí Chọn Lọc, Chứng Nhận Gói Rút Tiếng Sao, [Vé Chiêu Mộ Cơ Bản]x40 và [Oroberyl]x4000</>."
+              },
+              "iconId": "icon_rewardshow_activity_level",
+              "jumpId": "jump_center_activity_level_rewards",
+              "rewardIdList": [
+                "item_case_wpn_selfselect_common_advlevel",
+                "item_ticketgacha_weaponbox_constant_2",
+                "item_ticketgacha_standard_single",
+                "item_diamond"
+              ],
+              "sortId": 4,
+              "title": {
+                "BR": "Recompensas do Nível de Autoridade",
+                "CN": "等阶活动奖励",
+                "DE": "Autoritätslevel-Belohnungen",
+                "EN": "Authority Level Rewards",
+                "FR": "Récompenses de niveau d'autorité",
+                "ID": "Imbalan Level Otoritas",
+                "IT": "Ricompense livello di autorità",
+                "JP": "行動レベルイベント報酬",
+                "KR": "권한 등급 이벤트 보상",
+                "MX": "Recompensas por nivel de autoridad",
+                "RU": "Награды за уровень влияния",
+                "TC": "等階活動獎勵",
+                "TH": "รางวัล​เล​เวล​ของ​เจ้าพนักงาน",
+                "VN": "Thưởng Cấp Đặc Quyền"
+              }
+            },
+            {
+              "benefitId": "adventureBook",
+              "bigRewardId": "item_diamond",
+              "bigRewardStatement": {
+                "BR": "[Ourubis] × 9.000",
+                "CN": "嵌晶玉×9000",
+                "DE": "[Oro-Beryll] ×9.000",
+                "EN": "[Oroberyl]×9000",
+                "FR": "9 000 [orobéryls]",
+                "ID": "[Oroberyl] ×9.000",
+                "IT": "9000 Oroberilli",
+                "JP": "赤晶玉×9,000",
+                "KR": "오로베릴×9,000",
+                "MX": "[Oroberilio]×9000",
+                "RU": "Ороберил х9000",
+                "TC": "嵌晶玉×9000",
+                "TH": "[โอ​โร​เบ​ริล​]×9,000",
+                "VN": "[Oroberyl]x9000"
+              },
+              "desc": {
+                "BR": "Conclua missões no Manual Operacional – Nó para aumentar rapidamente seu Nível de Autoridade e obter recompensas que incluem <@activitybenefits.originium>[Ourubis] × 9.000</>.",
+                "CN": "完成行动手册相关节点任务，可快速提升权限等阶，并可获得<@activitybenefits.originium>嵌晶玉×9000</>等奖励。",
+                "DE": "Schließe Missionen im Betriebshandbuch-Knotenpunkt ab, um dein Autoritätslevel schnell zu erhöhen und Belohnungen zu erhalten, darunter <@activitybenefits.originium>[Oro-Beryll] ×9.000</>.",
+                "EN": "Complete missions in Operational Manual - Node to quickly raise your Authority Level and acquire rewards that include <@activitybenefits.originium>[Oroberyl]×9000</>.",
+                "FR": "Terminez des missions du Manuel opérationnel - Nœud pour augmenter rapidement votre niveau d'autorité et obtenir des récompenses incluant <@activitybenefits.originium>9 000 [orobéryls]</>.",
+                "ID": "Selesaikan misi di Panduan Operasi - Nodus untuk mempercepat kenaikan Level Otoritas dan mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Oroberyl] ×9.000</>.",
+                "IT": "Completa le missioni in Manuale operativo - Nodo per aumentare rapidamente il tuo livello di autorità e ottenere ricompense come <@activitybenefits.originium>9000 Oroberilli</>.",
+                "JP": "案内所のフェーズを完了し、行動レベルを素早く上げることで、<@activitybenefits.originium>赤晶玉×9,000</>などの報酬を入手できます。",
+                "KR": "작전 매뉴얼 관련 노드 임무를 완료하면 권한 등급을 빠르게 올릴 수 있으며, <@activitybenefits.originium>오로베릴×9,000</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Completa misiones en el Manual operativo - Nodo para aumentar rápidamente tu Nivel de autoridad y obtener recompensas que incluyen <@activitybenefits.originium>[Oroberilio]×9000</>.",
+                "RU": "Выполняйте миссии в узлах руководства оперативника, чтобы быстро повысить уровень влияния и получить награды, среди которых <@activitybenefits.originium>ороберил х9000</>.",
+                "TC": "完成行動手冊相關節點任務，可快速提升權限等階，並可獲得<@activitybenefits.originium>嵌晶玉×9000</>等獎勵。",
+                "TH": "ทำ​ภารกิจ​โหนด​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​เพื่อ​เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​คุณ​อย่างรวดเร็ว​ และ​รับรางวัล​ซึ่ง​รวมถึง​ <@activitybenefits.originium>[โอ​โร​เบ​ริล​]×9,000</>",
+                "VN": "Hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành – Mốc để đẩy nhanh tiến độ tăng Cấp Đặc Quyền và nhận thưởng gồm <@activitybenefits.originium>[Oroberyl]×9000</>."
+              },
+              "iconId": "icon_rewardshow_manual",
+              "jumpId": "jump_activity_newplayer_benefits_AdventureBook",
+              "rewardIdList": [
+                "item_diamond",
+                "item_adventureexp"
+              ],
+              "sortId": 5,
+              "title": {
+                "BR": "Manual Operacional",
+                "CN": "行动手册",
+                "DE": "Betriebshandbuch",
+                "EN": "Operational Manual",
+                "FR": "Manuel opérationnel",
+                "ID": "Panduan Operasi",
+                "IT": "Manuale operativo",
+                "JP": "案内所",
+                "KR": "작전 매뉴얼",
+                "MX": "Manual operativo",
+                "RU": "Руководство оперативника",
+                "TC": "行動手冊",
+                "TH": "คู่มือ​ปฏิบัติการ",
+                "VN": "Cẩm Nang Vận Hành"
+              }
+            },
+            {
+              "benefitId": "levelRewardSystem",
+              "bigRewardId": "item_diamond",
+              "bigRewardStatement": {
+                "BR": "[Ourubis] × 4.500",
+                "CN": "嵌晶玉×4500",
+                "DE": "[Oro-Beryll] ×4.500",
+                "EN": "[Oroberyl]×4500",
+                "FR": "4 500 [orobéryls]",
+                "ID": "[Oroberyl] ×4.500",
+                "IT": "4500 Oroberilli",
+                "JP": "赤晶玉×4,500",
+                "KR": "오로베릴×4,500",
+                "MX": "[Oroberilio]×4500",
+                "RU": "Ороберил х4500",
+                "TC": "嵌晶玉×4500",
+                "TH": "[โอ​โร​เบ​ริล​]×4,500",
+                "VN": "[Oroberyl]x4500"
+              },
+              "desc": {
+                "BR": "Aumente o Nível de Autoridade de Endministrator para ganhar <@activitybenefits.originium>[Ourubis] × 4.500</>.",
+                "CN": "提升权限等阶，可获得<@activitybenefits.originium>嵌晶玉×4500</>等奖励。",
+                "DE": "Erhöhe das Autoritätslevel des Endministrators, um <@activitybenefits.originium>[Oro-Beryll] ×4.500</> zu erhalten.",
+                "EN": "Raise the Endministrator's Authority Level to earn <@activitybenefits.originium>[Oroberyl]×4500</>.",
+                "FR": "Augmentez le niveau d'autorité de l'Endministrator pour obtenir <@activitybenefits.originium>4 500 [orobéryls]</>.",
+                "ID": "Naikkan Level Otoritas Endministrator untuk mendapatkan <@activitybenefits.originium>[Oroberyl] ×4.500</>.",
+                "IT": "Aumenta il livello di autorità dell'Endministrator per ottenere <@activitybenefits.originium>4500 Oroberilli</>.",
+                "JP": "行動レベルを上げると、<@activitybenefits.originium>赤晶玉×4,500</>などの報酬を入手できます。",
+                "KR": "권한 등급을 업그레이드하면 <@activitybenefits.originium>오로베릴×4,500</> 등 보상을 획득할 수 있습니다.",
+                "MX": "Aumenta el Nivel de autoridad del Endministrator para obtener <@activitybenefits.originium>[Oroberilio]×4500</>.",
+                "RU": "Повышайте уровень влияния Эндминистратора, чтобы заработать <@activitybenefits.originium>ороберил х4500</>.",
+                "TC": "提升權限等階，可獲得<@activitybenefits.originium>嵌晶玉×4500</>等獎勵。",
+                "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator เพื่อ​รับ​<@activitybenefits.originium>[โอ​โร​เบ​ริล​]×4,500</>",
+                "VN": "Nâng Cấp Đặc Quyền của Endministrator để nhận <@activitybenefits.originium>[Oroberyl]x4500</>."
+              },
+              "iconId": "icon_rewardshow_level",
+              "jumpId": "jump_activity_newplayer_benefits_level",
+              "rewardIdList": [
+                "item_diamond"
+              ],
+              "sortId": 8,
+              "title": {
+                "BR": "Aumento de Nível de Autoridade",
+                "CN": "等阶晋升奖励",
+                "DE": "Autoritätslevel-Aufstieg",
+                "EN": "Authority Level-Up",
+                "FR": "Augmentation du niveau d'autorité",
+                "ID": "Naik Level Otoritas",
+                "IT": "Aumento del livello di autorità",
+                "JP": "行動レベル上昇報酬",
+                "KR": "등급 돌파 보상",
+                "MX": "Aumento de nivel de autoridad",
+                "RU": "Повышение уровня влияния",
+                "TC": "等階晉升獎勵",
+                "TH": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน",
+                "VN": "Tăng Cấp Đặc Quyền"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "stageList[4].benefitId": {
+            "type": "value",
+            "oldValue": "mainline",
+            "newValue": "adventureBook"
+          },
+          "stageList[4].bigRewardId": {
+            "type": "value",
+            "oldValue": "item_originium_recharge",
+            "newValue": "item_diamond"
+          },
+          "stageList[4].bigRewardStatement": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "[Origeometria] × 70",
+                "newText": "[Ourubis] × 9.000"
+              },
+              "CN": {
+                "oldText": "衍质源石×70",
+                "newText": "嵌晶玉×9000"
+              },
+              "DE": {
+                "oldText": "[Origeometrie] ×70",
+                "newText": "[Oro-Beryll] ×9.000"
+              },
+              "EN": {
+                "oldText": "[Origeometry]×70",
+                "newText": "[Oroberyl]×9000"
+              },
+              "FR": {
+                "oldText": "70 [origéométries]",
+                "newText": "9 000 [orobéryls]"
+              },
+              "ID": {
+                "oldText": "[Origeometri] ×70",
+                "newText": "[Oroberyl] ×9.000"
+              },
+              "IT": {
+                "oldText": "70 Origeometrie",
+                "newText": "9000 Oroberilli"
+              },
+              "JP": {
+                "oldText": "展延源石×70",
+                "newText": "赤晶玉×9,000"
+              },
+              "KR": {
+                "oldText": "파생 오리지늄×70",
+                "newText": "오로베릴×9,000"
+              },
+              "MX": {
+                "oldText": "[Origeometría]×70",
+                "newText": "[Oroberilio]×9000"
+              },
+              "RU": {
+                "oldText": "Ориджеметрий х70",
+                "newText": "Ороберил х9000"
+              },
+              "TC": {
+                "oldText": "衍質源石×70",
+                "newText": "嵌晶玉×9000"
+              },
+              "TH": {
+                "oldText": "[ออ​ริ​จี​โอ​เมท​รี​]×70",
+                "newText": "[โอ​โร​เบ​ริล​]×9,000"
+              },
+              "VN": {
+                "oldText": "[Origeometry]x70",
+                "newText": "[Oroberyl]x9000"
+              }
+            }
+          },
+          "stageList[4].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Avance na missão principal para obter recompensas que incluem os <@activitybenefits.originium>[Origeometria] × 70, bem como operadores 5★ Perlica, Chen Qianyu e Wulfgard</>.",
+                "newText": "Conclua missões no Manual Operacional – Nó para aumentar rapidamente seu Nível de Autoridade e obter recompensas que incluem <@activitybenefits.originium>[Ourubis] × 9.000</>."
+              },
+              "CN": {
+                "oldText": "推进主线任务，可获得<@activitybenefits.originium>衍质源石×70以及5星干员佩丽卡、陈千语、狼卫</>等奖励。",
+                "newText": "完成行动手册相关节点任务，可快速提升权限等阶，并可获得<@activitybenefits.originium>嵌晶玉×9000</>等奖励。"
+              },
+              "DE": {
+                "oldText": "Schreite in der Hauptmission voran, um Belohnungen zu erhalten, darunter <@activitybenefits.originium>[Origeometrie] ×70 sowie 5★-Operatoren Perlica, Chen Qianyu und Wulfgard</>.",
+                "newText": "Schließe Missionen im Betriebshandbuch-Knotenpunkt ab, um dein Autoritätslevel schnell zu erhöhen und Belohnungen zu erhalten, darunter <@activitybenefits.originium>[Oro-Beryll] ×9.000</>."
+              },
+              "EN": {
+                "oldText": "Progress through the main mission to acquire rewards that include <@activitybenefits.originium>[Origeometry]×70 as well as 5★ operators Perlica, Chen Qianyu, and Wulfgard</>.",
+                "newText": "Complete missions in Operational Manual - Node to quickly raise your Authority Level and acquire rewards that include <@activitybenefits.originium>[Oroberyl]×9000</>."
+              },
+              "FR": {
+                "oldText": "Progressez dans la mission principale pour obtenir des récompenses incluant <@activitybenefits.originium>70 [origéométries] ainsi que les opérateurs 5★ Perlica, Chen Qianyu et Wulfgard</>.",
+                "newText": "Terminez des missions du Manuel opérationnel - Nœud pour augmenter rapidement votre niveau d'autorité et obtenir des récompenses incluant <@activitybenefits.originium>9 000 [orobéryls]</>."
+              },
+              "ID": {
+                "oldText": "Tingkatkan progres misi utama untuk mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Origeometri] ×70 serta operator 5★ yaitu Perlica, Chen Qianyu, dan Wulfgard</>.",
+                "newText": "Selesaikan misi di Panduan Operasi - Nodus untuk mempercepat kenaikan Level Otoritas dan mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Oroberyl] ×9.000</>."
+              },
+              "IT": {
+                "oldText": "Progredisci nella missione principale per ottenere ricompense come <@activitybenefits.originium>70 Origeometrie e gli operatori da 5★ Perlica, Chen Qianyu e Wulfgard</>.",
+                "newText": "Completa le missioni in Manuale operativo - Nodo per aumentare rapidamente il tuo livello di autorità e ottenere ricompense come <@activitybenefits.originium>9000 Oroberilli</>."
+              },
+              "JP": {
+                "oldText": "メイン任務を進めると、<@activitybenefits.originium>展延源石×70、★5オペレーターペリカ、チェン・センユー、ウルフガード</>などの報酬を入手できます。",
+                "newText": "案内所のフェーズを完了し、行動レベルを素早く上げることで、<@activitybenefits.originium>赤晶玉×9,000</>などの報酬を入手できます。"
+              },
+              "KR": {
+                "oldText": "메인 임무를 진행하면 <@activitybenefits.originium>파생 오리지늄×70 및 5성 오퍼레이터 펠리카, 진천우, 울프가드</> 등 보상을 획득할 수 있습니다.",
+                "newText": "작전 매뉴얼 관련 노드 임무를 완료하면 권한 등급을 빠르게 올릴 수 있으며, <@activitybenefits.originium>오로베릴×9,000</> 등 보상을 획득할 수 있습니다."
+              },
+              "MX": {
+                "oldText": "Avanza en la misión principal para obtener recompensas que incluyen <@activitybenefits.originium>[Origeometría]×70, así como a los operadores 5★ Perlica, Chen Qianyu y Wulfgard</>.",
+                "newText": "Completa misiones en el Manual operativo - Nodo para aumentar rápidamente tu Nivel de autoridad y obtener recompensas que incluyen <@activitybenefits.originium>[Oroberilio]×9000</>."
+              },
+              "RU": {
+                "oldText": "Продолжайте проходить основную миссию, чтобы получить награды, среди которых <@activitybenefits.originium>ориджеметрий х70, а также 5★ оперативники Перлика, Чэнь Цяньюй и Вулфгард</>.",
+                "newText": "Выполняйте миссии в узлах руководства оперативника, чтобы быстро повысить уровень влияния и получить награды, среди которых <@activitybenefits.originium>ороберил х9000</>."
+              },
+              "TC": {
+                "oldText": "推進主線任務，可獲得<@activitybenefits.originium>衍質源石×70以及5星幹員佩麗卡、陳千語、狼衛</>等獎勵。",
+                "newText": "完成行動手冊相關節點任務，可快速提升權限等階，並可獲得<@activitybenefits.originium>嵌晶玉×9000</>等獎勵。"
+              },
+              "TH": {
+                "oldText": "เคลียร์​ภารกิจ​หลัก​แต่ละ​ภารกิจ​ให้​สำเร็จ​เพื่อ​รับรางวัล​ที่​ประกอบด้วย​<@activitybenefits.originium>[ออ​ริ​จี​โอ​เมท​รี​]×70 รวมถึง​โอเปอเรเตอร์​ 5★ เพอ​ริ​กา​ เฉิน​ เชียน​ยู​ และ​วู​ล์​ฟ​การ์ด​</>",
+                "newText": "ทำ​ภารกิจ​โหนด​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​เพื่อ​เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​คุณ​อย่างรวดเร็ว​ และ​รับรางวัล​ซึ่ง​รวมถึง​ <@activitybenefits.originium>[โอ​โร​เบ​ริล​]×9,000</>"
+              },
+              "VN": {
+                "oldText": "Hoàn thành nhiệm vụ chính để nhận thưởng bao gồm <@activitybenefits.originium>[Origeometry]x70 cũng như cán viên Perlica, Chen Qianyu và Wulfgard 5★</>.",
+                "newText": "Hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành – Mốc để đẩy nhanh tiến độ tăng Cấp Đặc Quyền và nhận thưởng gồm <@activitybenefits.originium>[Oroberyl]×9000</>."
+              }
+            }
+          },
+          "stageList[4].iconId": {
+            "type": "value",
+            "oldValue": "icon_rewardshow_mainstory",
+            "newValue": "icon_rewardshow_manual"
+          },
+          "stageList[4].jumpId": {
+            "type": "value",
+            "oldValue": "jump_mission_CharacterGuide",
+            "newValue": "jump_activity_newplayer_benefits_AdventureBook"
+          },
+          "stageList[4].rewardIdList[0]": {
+            "type": "value",
+            "oldValue": "item_originium_recharge",
+            "newValue": "item_diamond"
+          },
+          "stageList[4].rewardIdList[1]": {
+            "type": "value",
+            "oldValue": "chr_0004_pelica",
+            "newValue": "item_adventureexp"
+          },
+          "stageList[4].rewardIdList[2]": {
+            "type": "value",
+            "oldValue": "chr_0005_chen"
+          },
+          "stageList[4].rewardIdList[3]": {
+            "type": "value",
+            "oldValue": "chr_0006_wolfgd"
+          },
+          "stageList[4].sortId": {
+            "type": "value",
+            "oldValue": 6,
+            "newValue": 5
+          },
+          "stageList[4].title": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Missão Principal",
+                "newText": "Manual Operacional"
+              },
+              "CN": {
+                "oldText": "主线任务",
+                "newText": "行动手册"
+              },
+              "DE": {
+                "oldText": "Hauptmission",
+                "newText": "Betriebshandbuch"
+              },
+              "EN": {
+                "oldText": "Main Mission",
+                "newText": "Operational Manual"
+              },
+              "FR": {
+                "oldText": "Mission principale",
+                "newText": "Manuel opérationnel"
+              },
+              "ID": {
+                "oldText": "Misi Utama",
+                "newText": "Panduan Operasi"
+              },
+              "IT": {
+                "oldText": "Missione principale",
+                "newText": "Manuale operativo"
+              },
+              "JP": {
+                "oldText": "メイン任務",
+                "newText": "案内所"
+              },
+              "KR": {
+                "oldText": "메인 임무",
+                "newText": "작전 매뉴얼"
+              },
+              "MX": {
+                "oldText": "Misión principal",
+                "newText": "Manual operativo"
+              },
+              "RU": {
+                "oldText": "Основная миссия",
+                "newText": "Руководство оперативника"
+              },
+              "TC": {
+                "oldText": "主線任務",
+                "newText": "行動手冊"
+              },
+              "TH": {
+                "oldText": "ภารกิจ​หลัก",
+                "newText": "คู่มือ​ปฏิบัติการ"
+              },
+              "VN": {
+                "oldText": "Nhiệm Vụ Chính",
+                "newText": "Cẩm Nang Vận Hành"
+              }
+            }
+          },
+          "stageList[5].benefitId": {
+            "type": "value",
+            "oldValue": "adventureBook",
+            "newValue": "levelRewardSystem"
+          },
+          "stageList[5].bigRewardStatement": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "[Ourubis] × 9.000",
+                "newText": "[Ourubis] × 4.500"
+              },
+              "CN": {
+                "oldText": "嵌晶玉×9000",
+                "newText": "嵌晶玉×4500"
+              },
+              "DE": {
+                "oldText": "[Oro-Beryll] ×9.000",
+                "newText": "[Oro-Beryll] ×4.500"
+              },
+              "EN": {
+                "oldText": "[Oroberyl]×9000",
+                "newText": "[Oroberyl]×4500"
+              },
+              "FR": {
+                "oldText": "9 000 [orobéryls]",
+                "newText": "4 500 [orobéryls]"
+              },
+              "ID": {
+                "oldText": "[Oroberyl] ×9.000",
+                "newText": "[Oroberyl] ×4.500"
+              },
+              "IT": {
+                "oldText": "9000 Oroberilli",
+                "newText": "4500 Oroberilli"
+              },
+              "JP": {
+                "oldText": "赤晶玉×9,000",
+                "newText": "赤晶玉×4,500"
+              },
+              "KR": {
+                "oldText": "오로베릴×9,000",
+                "newText": "오로베릴×4,500"
+              },
+              "MX": {
+                "oldText": "[Oroberilio]×9000",
+                "newText": "[Oroberilio]×4500"
+              },
+              "RU": {
+                "oldText": "Ороберил х9000",
+                "newText": "Ороберил х4500"
+              },
+              "TC": {
+                "oldText": "嵌晶玉×9000",
+                "newText": "嵌晶玉×4500"
+              },
+              "TH": {
+                "oldText": "[โอ​โร​เบ​ริล​]×9,000",
+                "newText": "[โอ​โร​เบ​ริล​]×4,500"
+              },
+              "VN": {
+                "oldText": "[Oroberyl]x9000",
+                "newText": "[Oroberyl]x4500"
+              }
+            }
+          },
+          "stageList[5].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua missões no Manual Operacional – Nó para aumentar rapidamente seu Nível de Autoridade e obter recompensas que incluem <@activitybenefits.originium>[Ourubis] × 9.000</>.",
+                "newText": "Aumente o Nível de Autoridade de Endministrator para ganhar <@activitybenefits.originium>[Ourubis] × 4.500</>."
+              },
+              "CN": {
+                "oldText": "完成行动手册相关节点任务，可快速提升权限等阶，并可获得<@activitybenefits.originium>嵌晶玉×9000</>等奖励。",
+                "newText": "提升权限等阶，可获得<@activitybenefits.originium>嵌晶玉×4500</>等奖励。"
+              },
+              "DE": {
+                "oldText": "Schließe Missionen im Betriebshandbuch-Knotenpunkt ab, um dein Autoritätslevel schnell zu erhöhen und Belohnungen zu erhalten, darunter <@activitybenefits.originium>[Oro-Beryll] ×9.000</>.",
+                "newText": "Erhöhe das Autoritätslevel des Endministrators, um <@activitybenefits.originium>[Oro-Beryll] ×4.500</> zu erhalten."
+              },
+              "EN": {
+                "oldText": "Complete missions in Operational Manual - Node to quickly raise your Authority Level and acquire rewards that include <@activitybenefits.originium>[Oroberyl]×9000</>.",
+                "newText": "Raise the Endministrator's Authority Level to earn <@activitybenefits.originium>[Oroberyl]×4500</>."
+              },
+              "FR": {
+                "oldText": "Terminez des missions du Manuel opérationnel - Nœud pour augmenter rapidement votre niveau d'autorité et obtenir des récompenses incluant <@activitybenefits.originium>9 000 [orobéryls]</>.",
+                "newText": "Augmentez le niveau d'autorité de l'Endministrator pour obtenir <@activitybenefits.originium>4 500 [orobéryls]</>."
+              },
+              "ID": {
+                "oldText": "Selesaikan misi di Panduan Operasi - Nodus untuk mempercepat kenaikan Level Otoritas dan mendapatkan imbalan yang mencakup <@activitybenefits.originium>[Oroberyl] ×9.000</>.",
+                "newText": "Naikkan Level Otoritas Endministrator untuk mendapatkan <@activitybenefits.originium>[Oroberyl] ×4.500</>."
+              },
+              "IT": {
+                "oldText": "Completa le missioni in Manuale operativo - Nodo per aumentare rapidamente il tuo livello di autorità e ottenere ricompense come <@activitybenefits.originium>9000 Oroberilli</>.",
+                "newText": "Aumenta il livello di autorità dell'Endministrator per ottenere <@activitybenefits.originium>4500 Oroberilli</>."
+              },
+              "JP": {
+                "oldText": "案内所のフェーズを完了し、行動レベルを素早く上げることで、<@activitybenefits.originium>赤晶玉×9,000</>などの報酬を入手できます。",
+                "newText": "行動レベルを上げると、<@activitybenefits.originium>赤晶玉×4,500</>などの報酬を入手できます。"
+              },
+              "KR": {
+                "oldText": "작전 매뉴얼 관련 노드 임무를 완료하면 권한 등급을 빠르게 올릴 수 있으며, <@activitybenefits.originium>오로베릴×9,000</> 등 보상을 획득할 수 있습니다.",
+                "newText": "권한 등급을 업그레이드하면 <@activitybenefits.originium>오로베릴×4,500</> 등 보상을 획득할 수 있습니다."
+              },
+              "MX": {
+                "oldText": "Completa misiones en el Manual operativo - Nodo para aumentar rápidamente tu Nivel de autoridad y obtener recompensas que incluyen <@activitybenefits.originium>[Oroberilio]×9000</>.",
+                "newText": "Aumenta el Nivel de autoridad del Endministrator para obtener <@activitybenefits.originium>[Oroberilio]×4500</>."
+              },
+              "RU": {
+                "oldText": "Выполняйте миссии в узлах руководства оперативника, чтобы быстро повысить уровень влияния и получить награды, среди которых <@activitybenefits.originium>ороберил х9000</>.",
+                "newText": "Повышайте уровень влияния Эндминистратора, чтобы заработать <@activitybenefits.originium>ороберил х4500</>."
+              },
+              "TC": {
+                "oldText": "完成行動手冊相關節點任務，可快速提升權限等階，並可獲得<@activitybenefits.originium>嵌晶玉×9000</>等獎勵。",
+                "newText": "提升權限等階，可獲得<@activitybenefits.originium>嵌晶玉×4500</>等獎勵。"
+              },
+              "TH": {
+                "oldText": "ทำ​ภารกิจ​โหนด​ใน​คู่มือ​ปฏิบัติการ​ให้​เสร็จสิ้น​เพื่อ​เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​คุณ​อย่างรวดเร็ว​ และ​รับรางวัล​ซึ่ง​รวมถึง​ <@activitybenefits.originium>[โอ​โร​เบ​ริล​]×9,000</>",
+                "newText": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน​ของ​ Endministrator เพื่อ​รับ​<@activitybenefits.originium>[โอ​โร​เบ​ริล​]×4,500</>"
+              },
+              "VN": {
+                "oldText": "Hoàn thành nhiệm vụ trong Cẩm Nang Vận Hành – Mốc để đẩy nhanh tiến độ tăng Cấp Đặc Quyền và nhận thưởng gồm <@activitybenefits.originium>[Oroberyl]×9000</>.",
+                "newText": "Nâng Cấp Đặc Quyền của Endministrator để nhận <@activitybenefits.originium>[Oroberyl]x4500</>."
+              }
+            }
+          },
+          "stageList[5].iconId": {
+            "type": "value",
+            "oldValue": "icon_rewardshow_manual",
+            "newValue": "icon_rewardshow_level"
+          },
+          "stageList[5].jumpId": {
+            "type": "value",
+            "oldValue": "jump_activity_newplayer_benefits_AdventureBook",
+            "newValue": "jump_activity_newplayer_benefits_level"
+          },
+          "stageList[5].rewardIdList[1]": {
+            "type": "value",
+            "oldValue": "item_adventureexp"
+          },
+          "stageList[5].sortId": {
+            "type": "value",
+            "oldValue": 5,
+            "newValue": 8
+          },
+          "stageList[5].title": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Manual Operacional",
+                "newText": "Aumento de Nível de Autoridade"
+              },
+              "CN": {
+                "oldText": "行动手册",
+                "newText": "等阶晋升奖励"
+              },
+              "DE": {
+                "oldText": "Betriebshandbuch",
+                "newText": "Autoritätslevel-Aufstieg"
+              },
+              "EN": {
+                "oldText": "Operational Manual",
+                "newText": "Authority Level-Up"
+              },
+              "FR": {
+                "oldText": "Manuel opérationnel",
+                "newText": "Augmentation du niveau d'autorité"
+              },
+              "ID": {
+                "oldText": "Panduan Operasi",
+                "newText": "Naik Level Otoritas"
+              },
+              "IT": {
+                "oldText": "Manuale operativo",
+                "newText": "Aumento del livello di autorità"
+              },
+              "JP": {
+                "oldText": "案内所",
+                "newText": "行動レベル上昇報酬"
+              },
+              "KR": {
+                "oldText": "작전 매뉴얼",
+                "newText": "등급 돌파 보상"
+              },
+              "MX": {
+                "oldText": "Manual operativo",
+                "newText": "Aumento de nivel de autoridad"
+              },
+              "RU": {
+                "oldText": "Руководство оперативника",
+                "newText": "Повышение уровня влияния"
+              },
+              "TC": {
+                "oldText": "行動手冊",
+                "newText": "等階晉升獎勵"
+              },
+              "TH": {
+                "oldText": "คู่มือ​ปฏิบัติการ",
+                "newText": "เพิ่ม​เล​เวล​ของ​เจ้าพนักงาน"
+              },
+              "VN": {
+                "oldText": "Cẩm Nang Vận Hành",
+                "newText": "Tăng Cấp Đặc Quyền"
+              }
+            }
+          },
+          "stageList[6]": {
+            "type": "value",
+            "oldValue": {
+              "benefitId": "domainDevelopment",
+              "bigRewardId": "item_ticketgacha_standard_single",
+              "bigRewardStatement": {
+                "id": "7120032181445317701",
+                "text": ""
+              },
+              "desc": {
+                "id": "-1268738250285948234",
+                "text": ""
+              },
+              "iconId": "icon_rewardshow_development",
+              "jumpId": "jump_activity_newplayer_benefits_Domain",
+              "rewardIdList": [
+                "item_ticketgacha_standard_single",
+                "item_diamond"
+              ],
+              "sortId": 7,
+              "title": {
+                "id": "1084911425905970297",
+                "text": ""
+              }
+            }
+          },
+          "stageList[7]": {
+            "type": "value",
+            "oldValue": {
+              "benefitId": "levelRewardSystem",
+              "bigRewardId": "item_diamond",
+              "bigRewardStatement": {
+                "id": "6776297036728137544",
+                "text": ""
+              },
+              "desc": {
+                "id": "-6424368684538160081",
+                "text": ""
+              },
+              "iconId": "icon_rewardshow_level",
+              "jumpId": "jump_activity_newplayer_benefits_level",
+              "rewardIdList": [
+                "item_diamond"
+              ],
+              "sortId": 8,
+              "title": {
+                "id": "962191789000965336",
+                "text": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

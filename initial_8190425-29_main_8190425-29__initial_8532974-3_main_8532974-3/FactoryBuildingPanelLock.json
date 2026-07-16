@@ -1,0 +1,52 @@
+{
+  "tableName": "FactoryBuildingPanelLock",
+  "versionOld": "initial_8190425-29_main_8190425-29",
+  "versionNew": "initial_8532974-3_main_8532974-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "power_pole_2": {
+        "oldValue": {
+          "instKey": "power_pole_2",
+          "list": [
+            {
+              "args": [],
+              "endQuestId": "e1m2_q#14",
+              "lockType": 2,
+              "priority": 1,
+              "radioId": "radio_e1m2_3d5",
+              "startQuestId": "e1m2_q#7"
+            }
+          ]
+        },
+        "newValue": {
+          "instKey": "power_pole_2",
+          "list": [
+            {
+              "args": [],
+              "endQuestId": "e1m2_q#14",
+              "lockType": 2,
+              "priority": 1,
+              "radioId": "",
+              "startQuestId": "e1m2_q#7"
+            }
+          ]
+        },
+        "changed": {
+          "list[0].radioId": {
+            "type": "value",
+            "oldValue": "radio_e1m2_3d5",
+            "newValue": ""
+          }
+        }
+      }
+    }
+  }
+}
