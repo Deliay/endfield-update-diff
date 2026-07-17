@@ -1,0 +1,140 @@
+{
+  "tableName": "ActivityTable",
+  "versionOld": "initial_8532974-3_main_8532974-3",
+  "versionNew": "initial_8584931-4_main_8584931-4",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "activity_lottery_v1d4": {
+        "oldValue": {
+          "bgImg": "",
+          "bgm": "au_music_meta_ui_scratchoff_v1d4",
+          "conditions": [],
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "detailJumpId": "",
+          "id": "activity_lottery_v1d4",
+          "immediateClose": false,
+          "instructionId": "instru_activity_lottery",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Conecte e Vença da Fortuna",
+            "CN": "宏运连连乐",
+            "DE": "Verbinden-und-gewinnen: Vermögen",
+            "EN": "Fortune Connect-and-Win",
+            "FR": "Connexion gagnante de la chance",
+            "ID": "Sambung & Menang Keberuntungan",
+            "IT": "Connetti e tenta la sorte",
+            "JP": "幸運スクラッチ",
+            "KR": "대박 행운권",
+            "MX": "Conecta y gana de la fortuna",
+            "RU": "Моментальная лотерея",
+            "TC": "宏運連連樂",
+            "TH": "เชื่อมต่อ​แล้ว​ลุ้น​โชค",
+            "VN": "Kết Nối Và Chiến Thắng: Vận May"
+          },
+          "panelId": "ActivityScratchOffLottery",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 8311,
+          "tabImg": "activity_tab_bg_scratchofflottery",
+          "tabImgColor": "#fff078",
+          "tabImgGender": false,
+          "tagIds": [],
+          "themeColor": "",
+          "timeId": "time_activity_lottery_v1d4",
+          "type": 14
+        },
+        "newValue": {
+          "bgImg": "",
+          "bgm": "au_music_meta_ui_scratchoff_v1d4",
+          "conditions": [],
+          "desc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "detailJumpId": "",
+          "id": "activity_lottery_v1d4",
+          "immediateClose": false,
+          "instructionId": "instru_activity_lottery",
+          "introMissionJumpId": "",
+          "introMissionQuestId": "",
+          "name": {
+            "BR": "Conecte e Vença da Fortuna",
+            "CN": "宏运连连乐",
+            "DE": "Verbinden-und-gewinnen: Vermögen",
+            "EN": "Fortune Connect-and-Win",
+            "FR": "Connexion gagnante de la chance",
+            "ID": "Sambung & Menang Keberuntungan",
+            "IT": "Connetti e tenta la sorte",
+            "JP": "幸運スクラッチ",
+            "KR": "대박 행운권",
+            "MX": "Conecta y gana de la fortuna",
+            "RU": "Моментальная лотерея",
+            "TC": "宏運連連樂",
+            "TH": "เชื่อมต่อ​แล้ว​ลุ้น​โชค",
+            "VN": "Kết Nối Và Chiến Thắng: Vận May"
+          },
+          "panelId": "ActivityScratchOffLottery",
+          "popUpOnlyOnce": false,
+          "popUpPanelId": "",
+          "popUpSortId": -1,
+          "redDotName": "",
+          "rewardId": "",
+          "sortId": 8313,
+          "tabImg": "activity_tab_bg_scratchofflottery",
+          "tabImgColor": "#fff078",
+          "tabImgGender": false,
+          "tagIds": [],
+          "themeColor": "",
+          "timeId": "time_activity_lottery_v1d4",
+          "type": 14
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 8311,
+            "newValue": 8313
+          }
+        }
+      }
+    }
+  }
+}
