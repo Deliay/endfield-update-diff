@@ -1,0 +1,95 @@
+{
+  "tableName": "SnapshotIdentifyGroupTable",
+  "versionOld": "initial_8618533-5_main_8618533-5",
+  "versionNew": "initial_8764515-7_main_8764515-7",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "snapshot_m1m79_1": {
+        "oldValue": {
+          "id": "snapshot_m1m79_1",
+          "identifyIds": [
+            "m3_liexihuanying_1",
+            "sph_m1m79_1"
+          ]
+        },
+        "newValue": {
+          "id": "snapshot_m1m79_1",
+          "identifyIds": [
+            "sph_m1m79_1"
+          ]
+        },
+        "changed": {
+          "identifyIds[0]": {
+            "type": "value",
+            "oldValue": "m3_liexihuanying_1",
+            "newValue": "sph_m1m79_1"
+          },
+          "identifyIds[1]": {
+            "type": "value",
+            "oldValue": "sph_m1m79_1"
+          }
+        }
+      },
+      "snapshot_m1m77_1": {
+        "oldValue": {
+          "id": "snapshot_m1m77_1",
+          "identifyIds": [
+            "m3_liexihuanying_1",
+            "sph_m1m77_1"
+          ]
+        },
+        "newValue": {
+          "id": "snapshot_m1m77_1",
+          "identifyIds": [
+            "sph_m1m77_1"
+          ]
+        },
+        "changed": {
+          "identifyIds[0]": {
+            "type": "value",
+            "oldValue": "m3_liexihuanying_1",
+            "newValue": "sph_m1m77_1"
+          },
+          "identifyIds[1]": {
+            "type": "value",
+            "oldValue": "sph_m1m77_1"
+          }
+        }
+      },
+      "snapshot_m1m78_1": {
+        "oldValue": {
+          "id": "snapshot_m1m78_1",
+          "identifyIds": [
+            "m3_liexihuanying_1",
+            "sph_m1m78_1"
+          ]
+        },
+        "newValue": {
+          "id": "snapshot_m1m78_1",
+          "identifyIds": [
+            "sph_m1m78_1"
+          ]
+        },
+        "changed": {
+          "identifyIds[0]": {
+            "type": "value",
+            "oldValue": "m3_liexihuanying_1",
+            "newValue": "sph_m1m78_1"
+          },
+          "identifyIds[1]": {
+            "type": "value",
+            "oldValue": "sph_m1m78_1"
+          }
+        }
+      }
+    }
+  }
+}

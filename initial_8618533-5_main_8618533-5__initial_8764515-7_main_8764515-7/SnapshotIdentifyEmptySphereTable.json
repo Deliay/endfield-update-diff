@@ -1,0 +1,80 @@
+{
+  "tableName": "SnapshotIdentifyEmptySphereTable",
+  "versionOld": "initial_8618533-5_main_8618533-5",
+  "versionNew": "initial_8764515-7_main_8764515-7",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "sph_m1m79_1": {
+        "oldValue": {
+          "count": 1,
+          "id": "sph_m1m79_1",
+          "radius": 8,
+          "templateId": "int_snapshot_empty"
+        },
+        "newValue": {
+          "count": 1,
+          "id": "sph_m1m79_1",
+          "radius": 10,
+          "templateId": "int_snapshot_empty"
+        },
+        "changed": {
+          "radius": {
+            "type": "value",
+            "oldValue": 8,
+            "newValue": 10
+          }
+        }
+      },
+      "sph_m1m77_1": {
+        "oldValue": {
+          "count": 1,
+          "id": "sph_m1m77_1",
+          "radius": 8,
+          "templateId": "int_snapshot_empty"
+        },
+        "newValue": {
+          "count": 1,
+          "id": "sph_m1m77_1",
+          "radius": 10,
+          "templateId": "int_snapshot_empty"
+        },
+        "changed": {
+          "radius": {
+            "type": "value",
+            "oldValue": 8,
+            "newValue": 10
+          }
+        }
+      },
+      "sph_m1m78_1": {
+        "oldValue": {
+          "count": 1,
+          "id": "sph_m1m78_1",
+          "radius": 8,
+          "templateId": "int_snapshot_empty"
+        },
+        "newValue": {
+          "count": 1,
+          "id": "sph_m1m78_1",
+          "radius": 10,
+          "templateId": "int_snapshot_empty"
+        },
+        "changed": {
+          "radius": {
+            "type": "value",
+            "oldValue": 8,
+            "newValue": 10
+          }
+        }
+      }
+    }
+  }
+}
