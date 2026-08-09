@@ -1,0 +1,36 @@
+{
+  "tableName": "GemTagKeyToWeaponTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "attr_will+attr_heal+heal": {
+        "oldValue": {
+          "list": [
+            "wpn_funnel_0012"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wpn_funnel_0012",
+            "wpn_lance_0014"
+          ]
+        },
+        "changed": {
+          "list[1]": {
+            "type": "value",
+            "newValue": "wpn_lance_0014"
+          }
+        }
+      }
+    }
+  }
+}

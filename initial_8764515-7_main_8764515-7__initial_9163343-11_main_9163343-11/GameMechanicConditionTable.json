@@ -1,0 +1,53 @@
+{
+  "tableName": "GameMechanicConditionTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "dung_liino_chartrain01_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_liino_chartrain01_condition_1",
+        "conditionType": 5265,
+        "desc": {
+          "BR": "Desbloqueie o Tutorial",
+          "CN": "解锁教学关",
+          "DE": "Schalte das Tutorial frei.",
+          "EN": "Unlock the Tutorial",
+          "FR": "Débloquer le didacticiel",
+          "ID": "Buka Tutorial",
+          "IT": "Sblocca il tutorial",
+          "JP": "ガイドステージ解放",
+          "KR": "가이드 스테이지 잠금 해제",
+          "MX": "Desbloquear el tutorial",
+          "RU": "Откройте обучение",
+          "TC": "解鎖教學關",
+          "TH": "ปลดล็อก​บท​ฝึกหัด",
+          "VN": "Mở Khóa Hướng Dẫn"
+        },
+        "gameMechanicsId": "dung_liino_chartrain01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "chr_0035_liino"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "tableName": "RichTextStyleTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "qu.largenumdown": {
+        "id": "qu.largenumdown",
+        "postDef": [
+          "</color></size>",
+          "</color></size>",
+          "</color></size>"
+        ],
+        "preDef": [
+          "<size=54><color=#e74414>",
+          "<size=54><color=#e74414>",
+          "<size=54><color=#e74414>"
+        ]
+      },
+      "qu.numdown": {
+        "id": "qu.numdown",
+        "postDef": [
+          "</color>",
+          "</color>",
+          "</color>"
+        ],
+        "preDef": [
+          "<color=#e74414>",
+          "<color=#e74414>",
+          "<color=#e74414>"
+        ]
+      },
+      "qu.numup": {
+        "id": "qu.numup",
+        "postDef": [
+          "</color>",
+          "</color>",
+          "</color>"
+        ],
+        "preDef": [
+          "<color=#c7fe02>",
+          "<color=#c7fe02>",
+          "<color=#c7fe02>"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

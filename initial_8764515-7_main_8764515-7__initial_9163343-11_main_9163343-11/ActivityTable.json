@@ -1,0 +1,277 @@
+{
+  "tableName": "ActivityTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "CharacterGuide_liino": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [
+          {
+            "compareOperator": 3,
+            "conditionId": "CharacterGuide_liino_unlock1",
+            "conditionType": 19,
+            "desc": {
+              "BR": "Conclua a missão principal [Capítulo I Processo II: Progresso da Correção]",
+              "CN": "完成主线任务：第一章 - 进程Ⅱ - 修缮进展",
+              "DE": "Schließe die Hauptmission [Kapitel I, Prozess II: Sanierungsfortschritt] ab.",
+              "EN": "Complete the main mission [Chapter Ⅰ Process Ⅱ: Remediation Progress]",
+              "FR": "Terminer la mission principale [Chapitre I - Processus II : Progression de la restauration]",
+              "ID": "Selesaikan misi utama [Bab I Proses ⅠI: Progres Remediasi]",
+              "IT": "Completa la missione principale \"Capitolo Ⅰ - Elaborazione Ⅱ: Progressi di risanamento\".",
+              "JP": "メイン任務：第一章-プロセスⅡ「修繕の進捗」を完了する",
+              "KR": "메인 임무: 1장 - 프로세스 II - 수리 진행 상황을 완료",
+              "MX": "Completa la misión principal [Capítulo I Proceso II: Progreso de remediación]",
+              "RU": "Завершите основную миссию: операция II главы I «Прогресс восстановления»",
+              "TC": "完成主線任務：第一章 - 進度II - 修繕進展",
+              "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 1 องก์​ 2: ความคืบหน้า​การบูร​ณะ​] ให้​สำเร็จ",
+              "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅰ – Tiến Trình Ⅱ: Tiến Độ Khắc Phục]"
+            },
+            "jumpId": "jump_mission_main_chapter_1",
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "e1m10"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  0
+                ],
+                "valueIntList": [
+                  0
+                ],
+                "valueStringList": [
+                  "0"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  3
+                ],
+                "valueIntList": [
+                  3
+                ],
+                "valueStringList": [
+                  "3"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ],
+            "progressToCompare": 1,
+            "tips": {
+              "BR": "Progresso da missão principal atual: [%s]",
+              "CN": "当前主线任务进度：「%s」",
+              "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+              "EN": "Current main mission progress: [%s]",
+              "FR": "Progression de la mission principale en cours : [%s]",
+              "ID": "Progres misi utama saat ini: [%s]",
+              "IT": "Progressi missione principale attuale: %s",
+              "JP": "現在の任務進捗：「%s」",
+              "KR": "현재 메인 임무 진도: [%s]",
+              "MX": "Progreso actual de la misión principal: [%s]",
+              "RU": "Прогресс основной миссии: %s",
+              "TC": "目前主線任務進度：「%s」",
+              "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+              "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "A Câmara Geral de Comércio de Talos-II está organizando um show beneficente em Vale IV. Você vai até lá para assistir à apresentação, mas descobre que uma estrela popular chamada Liino desapareceu acidentalmente...",
+          "CN": "环塔商会即将在四号谷地举办一场义演。你前往观摩，却听闻偶像梨诺意外失踪……",
+          "DE": "Die Talos-II Allgemeine Handelskammer veranstaltet ein Benefizkonzert in Tal IV. Du willst dir den Auftritt ebenfalls ansehen, hörst jedoch, dass ein beliebter Popstar namens Liino vermisst wird …",
+          "EN": "The Talos-II General Chamber of Commerce is organizing a charity concert at Valley IV. You head over to watch the performance but hear that a popular idol named Liino has accidentally gone missing...",
+          "FR": "La Chambre de commerce générale de Talos-II organise un concert caritatif dans la Vallée-IV. Vous vous y rendez pour profiter du spectacle, mais vous apprenez qu'une icône populaire du nom de Liino est portée disparue...",
+          "ID": "Talos-II General Chamber of Commerce menyelenggarakan konser amal di Lembah IV. Kamu pergi ke sana untuk menonton pertunjukan itu, tapi justru mendapat kabar bahwa seorang idola populer bernama Liino secara tak sengaja hilang ....",
+          "IT": "La Camera di commercio generale di Talos-II sta organizzando un concerto di beneficenza alla Valle IV. Ti rechi lì per assistere allo spettacolo, ma scopri che una popolare idol di nome Liino è scomparsa accidentalmente...",
+          "JP": "環タロ商会が四号谷地でライブを開催するらしい。様子を見に訪れたところ、アイドル「リーノ」が行方不明になったという知らせを耳にする……",
+          "KR": "탈로스 II 상업연합회가 4번 협곡에서 자선 콘서트를 개최할 예정이라는 소식이 들려옵니다. 즐겁게 콘서트를 보러 간 관리자는 뜻밖에도 아이돌 리노가 실종되었다는 소식을 듣게 됩니다...",
+          "MX": "La Cámara General de Comercio de Talos-II está organizando un concierto benéfico en Valle IV. Vas a ver la presentación, pero escuchas que una popular idol llamada Liino desapareció accidentalmente...",
+          "RU": "Генеральная торговая палата Талоса II организует благотворительный концерт в Долине IV. Вы отправляетесь посмотреть выступление, но узнаете об исчезновении популярного айдола по имени Лиино...",
+          "TC": "環塔商會即將在四號谷地舉辦一場公益演出。你前往觀摩，卻聽聞偶像梨諾意外失蹤……",
+          "TH": "หอการค้า​ทั่วไป​ทาล​อส​-II กำลัง​จัด​คอนเสิร์ต​การกุศล​ที่​หุบเขา​ IV คุณ​เดินทาง​ไป​ชม​การแสดง​ แต่กลับ​ได้ยิน​ข่าว​ว่า​ไอดอล​ชื่อดัง​นาม​ว่า​หลี​นั่​ว​ได้​หายตัว​ไป​โดย​ไม่​คาดคิด​...",
+          "VN": "Phòng Thương Mại Tổng Hợp Talos-II đang tổ chức một buổi hòa nhạc từ thiện tại Thung Lũng IV. Bạn đến đó để xem biểu diễn, nhưng lại nghe tin một thần tượng nổi tiếng tên Liino đã vô tình mất tích..."
+        },
+        "detailJumpId": "jump_mission_activity_CharacterGuide_liino",
+        "id": "CharacterGuide_liino",
+        "immediateClose": true,
+        "instructionId": "CharacterGuide_liino",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Como uma Estrela Riscando as Fronteiras",
+          "CN": "如同流星飞越边界",
+          "DE": "Wie ein Stern ohne Grenzen",
+          "EN": "Like a Star Streaking Through the Boundaries",
+          "FR": "Telle une étoile qui file par-delà les frontières",
+          "ID": "Bagaikan Bintang Melesat Menembus Batas",
+          "IT": "Like a Star Streaking Through the Boundaries",
+          "JP": "Like a Shooting Star",
+          "KR": "경계를 넘어가는 유성",
+          "MX": "Como una estrella que atraviesa las fronteras",
+          "RU": "Словно звезда, пронзающая границы",
+          "TC": "如同流星飛越邊界",
+          "TH": "ดั่ง​ดวงดาว​ที่​โบยบิน​ข้ามพรมแดน",
+          "VN": "Như Ánh Sao Băng Qua Ranh Giới"
+        },
+        "panelId": "ActivityCharacterGuideLine",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_CharacterGuide_liino",
+        "sortId": 3008,
+        "tabImg": "bg_activity_tab_char_guide_liino",
+        "tabImgColor": "#ab38fc",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_story"
+        ],
+        "themeColor": "",
+        "timeId": "time_special_1_4_2",
+        "type": 10
+      },
+      "activity_char_trial_v1d4_2": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "detailJumpId": "",
+        "id": "activity_char_trial_v1d4_2",
+        "immediateClose": false,
+        "instructionId": "Char_Trial",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Treinamentos de Combate",
+          "CN": "作战演练",
+          "DE": "Kampfübungen",
+          "EN": "Combat Drills",
+          "FR": "Exercices de combat",
+          "ID": "Latihan Pertarungan",
+          "IT": "Esercitazioni di combattimento",
+          "JP": "作戦訓練",
+          "KR": "작전 훈련",
+          "MX": "Simulacros de combate",
+          "RU": "Боевые учения",
+          "TC": "作戰演練",
+          "TH": "การฝึกซ้อม​การต่อสู้",
+          "VN": "Huấn Luyện Chiến Đấu"
+        },
+        "panelId": "ActivityCharacterTrial",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "",
+        "popUpSortId": -1,
+        "redDotName": "",
+        "rewardId": "reward_activity_chartrial_liino_overview",
+        "sortId": 5001,
+        "tabImg": "activity_tab_character_trial_liino",
+        "tabImgColor": "#fff078",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_chartrial"
+        ],
+        "themeColor": "",
+        "timeId": "time_special_1_4_2",
+        "type": 9
+      },
+      "activity_checkin_liino": {
+        "bgImg": "",
+        "bgm": "",
+        "conditions": [],
+        "desc": {
+          "BR": "Continue fazendo login para adquirir recompensas valiosas, como [Permissão para CT Estrela do Alvorecer Deslumbrante] × 5.",
+          "CN": "参与签到累计可领取明耀晨星寻访凭证×5等丰富奖励。",
+          "DE": "Melde dich weiter an, um üppige Belohnungen wie [„Blendender Morgenstern“-RK-Genehmigung] ×5 zu erhalten.",
+          "EN": "Keep signing in to acquire rich rewards such as [Bedazzling Dawnstar HH Permit]×5.",
+          "FR": "Continuez à vous connecter pour obtenir des récompenses incluant 5 [permis REC Étoile du matin étincelante].",
+          "ID": "Terus lakukan sign in untuk mendapatkan imbalan berlimpah, misalnya [Surat Izin HH Bintang Fajar Gemerlap] ×5.",
+          "IT": "Continua ad accedere per guadagnare laute ricompense, come 5 permessi CT: Stella del mattino abbagliante.",
+          "JP": "スタンプラリーに参加すると、累計で「煌めく明星」スカウト券×5などの豪華報酬を獲得できます。",
+          "KR": "출석 체크에 참여하면 찬란한 샛별 헤드헌팅 허가증×5 등 다양한 보상을 획득할 수 있습니다.",
+          "MX": "Sigue iniciando sesión para obtener abundantes recompensas, como [Permiso de C.R. de Estrella del amanecer deslumbrante]×5.",
+          "RU": "Продолжайте входить в игру, чтобы получить щедрые награды, среди которых разрешение на наем «Ослепительная утренняя звезда» х5.",
+          "TC": "參與簽到累計可領取明耀晨星尋訪憑證×5等豐富獎勵。",
+          "TH": "ลงชื่อ​เข้าสู่ระบบ​อย่างต่อเนื่อง​เพื่อ​รับรางวัล​มากมาย​ เช่น​ [ใบอนุญาต​ HH ดาวรุ่ง​เจิด​จรัส​]×5",
+          "VN": "Tiếp tục điểm danh để nhận thưởng lớn như [Vé Chiêu Mộ Ánh Sao Mai Lộng Lẫy]×5."
+        },
+        "detailJumpId": "",
+        "id": "activity_checkin_liino",
+        "immediateClose": false,
+        "instructionId": "instru_checkin_liino",
+        "introMissionJumpId": "",
+        "introMissionQuestId": "",
+        "name": {
+          "BR": "Login em Estrela do Alvorecer Deslumbrante",
+          "CN": "明耀晨星签到",
+          "DE": "Blendender Morgenstern – Anmeldung",
+          "EN": "Bedazzling Dawnstar Sign-In",
+          "FR": "Connexion - Étoile du matin étincelante",
+          "ID": "Sign In Bintang Fajar Gemerlap",
+          "IT": "Accesso: Stella del mattino abbagliante",
+          "JP": "煌めく明星スタンプ",
+          "KR": "찬란한 샛별 출석 체크",
+          "MX": "Inicio de sesión de Estrella del amanecer deslumbrante",
+          "RU": "Событие входа «Ослепительная утренняя звезда»",
+          "TC": "明耀晨星簽到",
+          "TH": "ลงชื่อ​เข้าสู่ระบบ​ดาวรุ่ง​เจิด​จรัส",
+          "VN": "Điểm Danh Ánh Sao Mai Lộng Lẫy"
+        },
+        "panelId": "ActivityCharSignCommon",
+        "popUpOnlyOnce": false,
+        "popUpPanelId": "ActivityCharSignCommonPopUp",
+        "popUpSortId": 3,
+        "redDotName": "",
+        "rewardId": "",
+        "sortId": 8313,
+        "tabImg": "bg_activity_tab_char_sign_liino",
+        "tabImgColor": "#AB38FC",
+        "tabImgGender": false,
+        "tagIds": [
+          "activity_tag_checkin_time"
+        ],
+        "themeColor": "",
+        "timeId": "time_special_1_4_2",
+        "type": 2
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

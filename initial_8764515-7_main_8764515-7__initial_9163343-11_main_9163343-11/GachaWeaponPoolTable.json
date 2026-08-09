@@ -1,0 +1,87 @@
+{
+  "tableName": "GachaWeaponPoolTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "weponbox_1_4_2": {
+        "clientTopTimeId": "time_special_1_4_2",
+        "doublePoolNodeUIPrefab": "",
+        "finalIndex": 12,
+        "id": "weponbox_1_4_2",
+        "index": 10,
+        "intervalAutoRewardIds": [
+          "reward_payshop_item_case_wpn_selfselect_gahca_1_4_2",
+          "reward_payshop_wpn_lance_0014"
+        ],
+        "loopRewardShowTag": {
+          "BR": "Tributo Deslumbrante",
+          "CN": "明曜赠礼",
+          "DE": "Blendend-Tribut",
+          "EN": "Bedazzled Tribute",
+          "FR": "Don éblouissant",
+          "ID": "Persembahan Terpesona",
+          "IT": "Tributo abbagliante",
+          "JP": "明星・特典",
+          "KR": "찬란 선물",
+          "MX": "Tributo de Deslumbrante",
+          "RU": "Подношение «Ослепление»",
+          "TC": "明曜贈禮",
+          "TH": "เครื่องบรรณาการ​เจิด​จรัส",
+          "VN": "Quà Tặng Chói Rạng"
+        },
+        "loopRewardShowTitle": {
+          "BR": "Tributo Deslumbrante Conquistado",
+          "CN": "明曜赠礼达成",
+          "DE": "Blendend-Tribut verdient",
+          "EN": "Bedazzled Tribute Earned",
+          "FR": "Don éblouissant obtenu",
+          "ID": "Persembahan Terpesona Didapatkan",
+          "IT": "Tributo abbagliante ottenuto",
+          "JP": "明星・特典達成",
+          "KR": "찬란 선물 달성",
+          "MX": "Tributo de Deslumbrante obtenido",
+          "RU": "Получено подношение «Ослепление»",
+          "TC": "明曜贈禮達成",
+          "TH": "ได้รับ​เครื่องบรรณาการ​เจิด​จรัส​แล้ว",
+          "VN": "Quà Tặng Chói Rạng Kiếm Được"
+        },
+        "name": {
+          "BR": "Distribuição Deslumbrante",
+          "CN": "明曜申领",
+          "DE": "Blendend-Ausgabe",
+          "EN": "Bedazzled Issue",
+          "FR": "Tirage éblouissant",
+          "ID": "Edisi Terpesona",
+          "IT": "Distribuzione abbagliante",
+          "JP": "明星・申請",
+          "KR": "찬란 신청",
+          "MX": "Solicitud de Deslumbrante",
+          "RU": "Поставка «Ослепление»",
+          "TC": "明曜申領",
+          "TH": "ตั๋ว​ระยิบระยับ",
+          "VN": "Gói Rút Chói Rạng"
+        },
+        "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_4_2",
+        "smallPoolIcon": "icon_shop_weaponbox_small_1_4_2",
+        "smallPoolIconFar": "",
+        "sortId": 12,
+        "ticketGachaTenLt": "",
+        "type": 0,
+        "upWeaponDoublePoolIcon": "",
+        "upWeaponIcon": "",
+        "upWeaponIds": [
+          "wpn_lance_0014"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

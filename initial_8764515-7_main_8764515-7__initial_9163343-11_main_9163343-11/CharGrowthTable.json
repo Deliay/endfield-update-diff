@@ -1,0 +1,3411 @@
+{
+  "tableName": "CharGrowthTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0035_liino": {
+        "charBreakCostMap": {
+          "charBreak20": {
+            "breakStage": 1,
+            "charId": "chr_0035_liino",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 40",
+              "CN": "激活后，将干员等级上限提升至40级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 40 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 40",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 40.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 40",
+              "IT": "Attiva per aumentare a 40 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が40までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 40레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 40",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 40.",
+              "TC": "解鎖後，將幹員等級上限提升至40級",
+              "TH": "เปิด​ใช้งาน​สิ่ง​นี้​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​ให้​เป็น​เล​เวล​ 40",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 40"
+            },
+            "equipTierLimit": 2,
+            "name": {
+              "BR": "Promoção I",
+              "CN": "精英化·一",
+              "DE": "Beförderung I",
+              "EN": "Promotion I",
+              "FR": "Promotion I",
+              "ID": "Promosi I",
+              "IT": "Promozione I",
+              "JP": "昇進・Ⅰ",
+              "KR": "정예화 I",
+              "MX": "Ascenso I",
+              "RU": "Повышение I",
+              "TC": "精英化I",
+              "TH": "การ​เลื่อนขั้น​ I",
+              "VN": "Thăng Bậc I"
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "breakStage": 2,
+            "charId": "chr_0035_liino",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 60",
+              "CN": "激活后，将干员等级上限提升至60级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 60 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 60",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 60.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 60",
+              "IT": "Attiva per aumentare a 60 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が60までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 60레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 60",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 60.",
+              "TC": "解鎖後，將幹員等級上限提升至60級",
+              "TH": "เปิด​ใช้งาน​สิ่ง​นี้​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​ให้​เป็น​เล​เวล​ 60",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 60"
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "BR": "Promoção II",
+              "CN": "精英化·二",
+              "DE": "Beförderung II",
+              "EN": "Promotion II",
+              "FR": "Promotion II",
+              "ID": "Promosi II",
+              "IT": "Promozione II",
+              "JP": "昇進・Ⅱ",
+              "KR": "정예화 II",
+              "MX": "Ascenso II",
+              "RU": "Повышение II",
+              "TC": "精英化II",
+              "TH": "การ​เลื่อนขั้น​ II",
+              "VN": "Thăng Bậc II"
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "breakStage": 3,
+            "charId": "chr_0035_liino",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 80",
+              "CN": "激活后，将干员等级上限提升至80级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 80 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 80",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 80.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 80",
+              "IT": "Attiva per aumentare a 80 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が80までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 80레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 80",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 80.",
+              "TC": "解鎖後，將幹員等級上限提升至80級",
+              "TH": "เปิด​ใช้งาน​สิ่ง​นี้​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​ให้​เป็น​เล​เวล​ 80",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 80"
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "BR": "Promoção III",
+              "CN": "精英化·三",
+              "DE": "Beförderung III",
+              "EN": "Promotion III",
+              "FR": "Promotion III",
+              "ID": "Promosi III",
+              "IT": "Promozione III",
+              "JP": "昇進・Ⅲ",
+              "KR": "정예화 III",
+              "MX": "Ascenso III",
+              "RU": "Повышение III",
+              "TC": "精英化III",
+              "TH": "การ​เลื่อนขั้น​ III",
+              "VN": "Thăng Bậc III"
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "breakStage": 4,
+            "charId": "chr_0035_liino",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 90",
+              "CN": "激活后，将干员等级上限提升至90级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 90 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 90",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 90.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 90",
+              "IT": "Attiva per aumentare a 90 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が90までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 90레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 90",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 90.",
+              "TC": "解鎖後，將幹員等級上限提升至90級",
+              "TH": "เปิด​ใช้งาน​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​เป็น​ 90",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 90"
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "BR": "Promoção IV",
+              "CN": "精英化·四",
+              "DE": "Beförderung IV",
+              "EN": "Promotion IV",
+              "FR": "Promotion IV",
+              "ID": "Promosi IV",
+              "IT": "Promozione IV",
+              "JP": "昇進・Ⅳ",
+              "KR": "정예화 IV",
+              "MX": "Ascenso IV",
+              "RU": "Повышение IV",
+              "TC": "精英化IV",
+              "TH": "การ​เลื่อนขั้น​ IV",
+              "VN": "Thăng Bậc IV"
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_3"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "breakStage": 1,
+            "charId": "chr_0035_liino",
+            "description": {
+              "BR": "Ative para permitir que o operador use equipamento de qualidade azul",
+              "CN": "激活后，允许干员穿戴蓝色品质装备",
+              "DE": "Aktivieren, damit der Operator Ausrüstung in blauer Qualität ausrüsten kann.",
+              "EN": "Activate this to let the operator equip blue quality gear",
+              "FR": "Activez ceci pour permettre à votre opérateur d'utiliser de l'équipement de qualité bleue.",
+              "ID": "Aktifkan agar operator bisa dipasangi gear berkualitas biru",
+              "IT": "Attiva per permettere all'operatore di utilizzare equipaggiamenti di qualità blu.",
+              "JP": "解放後、青品質の装備を着用できる",
+              "KR": "활성화 후, 파란색 품질 장비 착용 가능",
+              "MX": "Activa esto para que el operador pueda usar equipamiento de calidad azul",
+              "RU": "Активируйте, чтобы оперативник мог использовать синее снаряжение.",
+              "TC": "解鎖後，允許幹員穿戴藍色品質裝備",
+              "TH": "เปิด​ใช้งาน​สิ่ง​นี้​เพื่อ​ทำให้​โอเปอเรเตอร์​สามารถ​สวมใส่​อุปกรณ์​คุณภาพ​สีน้ำเงิน​ได้",
+              "VN": "Kích hoạt tính năng này để cán viên có thể mặc trang bị chất lượng xanh lam"
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "BR": "Seleção do Melhor Equipamento I",
+              "CN": "装备适配·一",
+              "DE": "Einkleiden I",
+              "EN": "Outfitting I",
+              "FR": "Fourniment I",
+              "ID": "Perlengkapan I",
+              "IT": "Equipaggiamento strategico I",
+              "JP": "装備適正・Ⅰ",
+              "KR": "장비 조합 I",
+              "MX": "Equipamiento I",
+              "RU": "Экипировка I",
+              "TC": "裝備適用I",
+              "TH": "การจัดเตรียม​อุปกรณ์​ I",
+              "VN": "Trang Bị I"
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "breakStage": 3,
+            "charId": "chr_0035_liino",
+            "description": {
+              "BR": "Ative para permitir que o operador use equipamento de qualidade ouro",
+              "CN": "激活后，允许干员穿戴金色品质装备",
+              "DE": "Aktivieren, damit der Operator Ausrüstung in goldener Qualität ausrüsten kann.",
+              "EN": "Activate this to let the operator equip gold quality gear",
+              "FR": "Activez ceci pour permettre à votre opérateur d'utiliser de l'équipement de qualité or.",
+              "ID": "Aktifkan agar operator bisa dipasangi gear berkualitas emas",
+              "IT": "Attiva per permettere all'operatore di utilizzare equipaggiamenti di qualità oro.",
+              "JP": "解放後、金品質の装備を着用できる",
+              "KR": "활성화 후, 노란색 품질 장비 착용 가능",
+              "MX": "Activa esto para que el operador pueda usar equipamiento de calidad dorada",
+              "RU": "Активируйте, чтобы оперативник мог использовать золотое снаряжение.",
+              "TC": "解鎖後，允許幹員穿戴金色品質裝備",
+              "TH": "เปิด​ใช้งาน​สิ่ง​นี้​เพื่อ​ทำให้​โอเปอเรเตอร์​สามารถ​สวมใส่​อุปกรณ์​คุณภาพ​สีทอง​ได้",
+              "VN": "Kích hoạt tính năng này để cán viên có thể mặc trang bị chất lượng vàng"
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "BR": "Seleção do Melhor Equipamento III",
+              "CN": "装备适配·三",
+              "DE": "Einkleiden III",
+              "EN": "Outfitting III",
+              "FR": "Fourniment III",
+              "ID": "Perlengkapan III",
+              "IT": "Equipaggiamento strategico III",
+              "JP": "装備適正・Ⅲ",
+              "KR": "장비 조합 III",
+              "MX": "Equipamiento III",
+              "RU": "Экипировка III",
+              "TC": "裝備適用III",
+              "TH": "การจัดเตรียม​อุปกรณ์​ III",
+              "VN": "Trang Bị III"
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "breakStage": 2,
+            "charId": "chr_0035_liino",
+            "description": {
+              "BR": "Ative para permitir que o operador use equipamento de qualidade roxa",
+              "CN": "激活后，允许干员穿戴紫色品质装备",
+              "DE": "Aktivieren, damit der Operator Ausrüstung in lila Qualität ausrüsten kann.",
+              "EN": "Activate this to let the operator equip purple quality gear",
+              "FR": "Activez ceci pour permettre à votre opérateur d'utiliser de l'équipement de qualité violette.",
+              "ID": "Aktifkan agar operator bisa dipasangi gear berkualitas ungu",
+              "IT": "Attiva per permettere all'operatore di utilizzare equipaggiamenti di qualità viola.",
+              "JP": "解放後、紫品質の装備を着用できる",
+              "KR": "활성화 후, 보라색 품질 장비 착용 가능",
+              "MX": "Activa esto para que el operador pueda usar equipamiento de calidad púrpura",
+              "RU": "Активируйте, чтобы оперативник мог использовать фиолетовое снаряжение.",
+              "TC": "解鎖後，允許幹員穿戴紫色品質裝備",
+              "TH": "เปิด​ใช้งาน​สิ่ง​นี้​เพื่อ​ทำให้​โอเปอเรเตอร์​สามารถ​สวมใส่​อุปกรณ์​คุณภาพ​สีม่วง​ได้",
+              "VN": "Kích hoạt tính năng này để cán viên có thể mặc trang bị chất lượng tím"
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "BR": "Seleção do Melhor Equipamento II",
+              "CN": "装备适配·二",
+              "DE": "Einkleiden II",
+              "EN": "Outfitting II",
+              "FR": "Fourniment II",
+              "ID": "Perlengkapan II",
+              "IT": "Equipaggiamento strategico II",
+              "JP": "装備適正・Ⅱ",
+              "KR": "장비 조합 II",
+              "MX": "Equipamiento II",
+              "RU": "Экипировка II",
+              "TC": "裝備適用II",
+              "TH": "การจัดเตรียม​อุปกรณ์​ II",
+              "VN": "Trang Bị II"
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "charId": "chr_0035_liino",
+        "charTypeId": "Pulse",
+        "defaultWeaponId": "wpn_lance_0009",
+        "engName": "Liino",
+        "mainAttrType": 42,
+        "name": {
+          "BR": "Liino",
+          "CN": "梨诺",
+          "DE": "Liino",
+          "EN": "Liino",
+          "FR": "Liino",
+          "ID": "Liino",
+          "IT": "Liino",
+          "JP": "リーノ",
+          "KR": "리노",
+          "MX": "Liino",
+          "RU": "Лиино",
+          "TC": "梨諾",
+          "TH": "หลี​นั่​ว",
+          "VN": "Liino"
+        },
+        "profession": 4,
+        "rarity": 6,
+        "skillGroupMap": {
+          "chr_0035_liino_ComboSkill": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "ACIONADOR DO COMBO: Enquanto a <@ba.key>Postura da Vocalista</> está ativa, uma <#ba.spellstatus>Reação de Artes</> é <#ba.consume>consumida</> ou aplicada a um inimigo.\nLiino causa <@ba.pulse>DNO Elétrico</> aos inimigos, concede <@ba.heal>Tratamento de PV</> ao operador controlado e ganha Energia Suprema adicional.\nConjurar o combo de habilidades <@ba.key>Harmonia Encantadora</> não interrompe a <@ba.key>Postura da Vocalista</>.",
+              "CN": "<@ba.key>演唱姿态</>期间，当有敌人被施加<#ba.spellstatus>法术异常</>或<#ba.spellstatus>法术异常</>被<#ba.consume>消耗</>时可以发动。\n对敌人造成<@ba.pulse>电磁伤害</>，<@ba.heal>治疗</>主控干员，并额外获得终结技能量。\n施放连携技<@ba.key>悦心音调</>，不会打断<@ba.key>演唱姿态</>。",
+              "DE": "KOMBOAUSLÖSER: Während die <@ba.key>Vokalist-Haltung</> aktiv ist oder wenn ein Gegner mit einer <#ba.spellstatus>Technikreaktion</> belegt oder diese <#ba.consume>verbraucht</> wird.\nLiino fügt Gegnern <@ba.pulse>Elektrischen SDN</> zu, gewährt dem gesteuerten Operator <@ba.heal>LP-Behandlung</> und erhält zusätzliche ultimative Energie.\nDas Wirken der Kombofertigkeit <@ba.key>Entzückende Schwingungen</> unterbricht nicht die <@ba.key>Vokalist-Haltung</>.",
+              "EN": "COMBO TRIGGER: While <@ba.key>Vocalist Stance</> is active, an <#ba.spellstatus>Arts Reaction</> is <#ba.consume>consumed</> or is applied on an enemy.\nLiino deals <@ba.pulse>Electric DMG</> to enemies, grants <@ba.heal>HP Treatment</> to the controlled operator, and gains additional Ultimate Energy.\nCasting the combo skill <@ba.key>Delightful Harmonics</> does not interrupt <@ba.key>Vocalist Stance</>.",
+              "FR": "DÉCLENCHEMENT DE COMBO : lorsque la <@ba.key>posture Chanteuse</> est active et qu'une <#ba.spellstatus>réaction aux Arts</> est <#ba.consume>consommée</> ou appliquée à un ennemi.\nLiino inflige des <@ba.pulse>DÉG électriques</> aux ennemis, <@ba.heal>soigne</> l'opérateur contrôlé et gagne de l'énergie d'ultime supplémentaire.\nL'utilisation de la compétence de combo <@ba.key>Harmonie ravissante</> n'interrompt pas la <@ba.key>posture Chanteuse</>.",
+              "ID": "PEMICU KOMBO: Selagi <@ba.key>Vocalist Stance</> masih aktif, <#ba.spellstatus>Arts Reaction</> akan <#ba.consume>dipakai</> atau diakibatkan kepada musuh.\nLiino akan menimbulkan <@ba.pulse>Electric DMG</> kepada musuh, memberikan <@ba.heal>HP Treatment</> kepada operator terkontrol, dan mendapatkan tambahan Energi Ultimate.\nPenggunaan skill kombo <@ba.key>Delightful Harmonics</> tidak akan menyela <@ba.key>Vocalist Stance</>.",
+              "IT": "ATTIVAZIONE COMBO: mentre la <@ba.key>Posa da cantante</> è attiva, una <#ba.spellstatus>Reazione delle Arti</> viene <#ba.consume>consumata</> o applicata a un nemico.\nLiino infligge <@ba.pulse>danni da elettricità</> ai nemici, conferisce <@ba.heal>Cura PS</> all'operatore controllato e acquisisce ulteriore energia suprema.\nLanciare l'abilità combo <@ba.key>Incantevole armonia</> non interrompe la <@ba.key>Posa da cantante</>.",
+              "JP": "<@ba.key>ライブモード</>期間中、敵が<#ba.spellstatus>アーツ異常</>を受けるか<#ba.spellstatus>アーツ異常</>が<#ba.consume>消費</>されたときに発動可能。\n敵に<@ba.pulse>電磁ダメージ</>を与え、操作オペレーターを<@ba.heal>治療</>し、さらに必殺チャージを追加で回復する。\n連携技<@ba.key>「ときめきメロディー」</>を発動しても<@ba.key>ライブモード</>は中断されない。",
+              "KR": "<@ba.key>라이브 모드</>의 지속 시간 동안, 적이 <#ba.spellstatus>아츠 이상</>을 부여받거나 <#ba.spellstatus>아츠 이상</>이 <#ba.consume>소모</>됐을 때 발동할 수 있습니다.\n적에게 <@ba.pulse>전기 피해</>를 주고, 메인 컨트롤 오퍼레이터를 <@ba.heal>치유</>하며, 추가로 궁극기 에너지를 획득합니다.\n연계 스킬 <@ba.key>기쁨의 멜로디</>를 사용하면 <@ba.key>라이브 모드</>가 중단되지 않습니다.",
+              "MX": "ACTIVACIÓN DE COMBO: Mientras <@ba.key>Postura de vocalista</> está activa, se <#ba.spellstatus>consume</> una <#ba.consume>Reacción a artes</> o se aplica una a un enemigo.\nLiino inflige <@ba.pulse>DAÑ eléctrico</> a los enemigos, otorga <@ba.heal>Tratamiento de PV</> al operador controlado y obtiene Energía máxima adicional.\nLanzar la habilidad de combo <@ba.key>Armónicos deleitables</> no interrumpe <@ba.key>Postura de vocalista</>.",
+              "RU": "ТРИГГЕР КОМБО: во время действия <@ba.key>Стойки певицы</> <#ba.spellstatus>реакция искусств</> <#ba.consume>поглощается</> или применяется к врагу.\nЛиино наносит <@ba.pulse>электрический УРН</> врагам, <@ba.heal>лечит</> управляемого оперативника и получает дополнительную суперэнергию.\nПрименение комбонавыка <@ba.key>Дивные ритмы</> не прерывает действие <@ba.key>Стойки певицы</>.",
+              "TC": "<@ba.key>演唱姿態</>期間，當有敵人被施加<#ba.spellstatus>法術異常</>或<#ba.spellstatus>法術異常</>被<#ba.consume>消耗</>時可以發動。\n對敵人造成<@ba.pulse>電磁傷害</>，<@ba.heal>治療</>主控幹員，並額外獲得終結技能量。\n施放連攜技<@ba.key>悅心音調</>，不會打斷<@ba.key>演唱姿態</>。",
+              "TH": "กระตุ้น​คอม​โบ​: ขณะที่​ <@ba.key>​ท่า​เตรียม​นักร้อง​</> ทำงาน​ <#ba.spellstatus>​ปฏิกิริยา​เวท​</> จะ​ <#ba.consume>​ใช้งาน​</> หรือ​มอบ​สถานะ​ให้​กับ​ศัตรู​\nหลี​นั่​ว​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> แก่​ศัตรู​ มอบ​ <@ba.heal>​การรักษา​ HP</> ให้​กับ​โอเปอเรเตอร์​ที่​ควบคุม​ และ​ได้รับ​พลังงาน​อัล​ติ​เมท​เพิ่มเติม​\nร่าย​ทักษะ​คอม​โบ​<@ba.key>​ฮาร์​โม​นี​แสน​รื่นรมย์​</> จะ​ไม่​ขัดขวาง​ <@ba.key>​ท่า​เตรียม​นักร้อง​</>",
+              "VN": "KÍCH HOẠT LIÊN HOÀN: Khi <@ba.key>Tư Thế Ca Sĩ</> đang kích hoạt, một <#ba.spellstatus>Phản Ứng Thuật Pháp</> bị <#ba.consume>tiêu hao</> hoặc được áp dụng lên kẻ địch.\nLiino gây <@ba.pulse>ST Điện</> lên kẻ địch, cấp <@ba.heal>Hồi Phục HP</> cho cán viên đang điều khiển, đồng thời nhận thêm Năng Lượng Tuyệt Kỹ.\nThi triển KN liên hoàn <@ba.key>Hòa Âm Vui Tươi</> sẽ không gián đoạn <@ba.key>Tư Thế Ca Sĩ</>."
+            },
+            "icon": "icon_combo_skill_liino_01",
+            "name": {
+              "BR": "Harmonia Encantadora",
+              "CN": "悦心音调",
+              "DE": "Entzückende Schwingungen",
+              "EN": "Delightful Harmonics",
+              "FR": "Harmonie ravissante",
+              "ID": "Delightful Harmonics",
+              "IT": "Incantevole armonia",
+              "JP": "ときめきメロディー",
+              "KR": "기쁨의 멜로디",
+              "MX": "Armónicos deleitables",
+              "RU": "Дивные ритмы",
+              "TC": "悅心音調",
+              "TH": "ฮาร์​โม​นี​แสน​รื่นรมย์",
+              "VN": "Hòa Âm Vui Tươi"
+            },
+            "skillGroupId": "chr_0035_liino_ComboSkill",
+            "skillGroupType": 3,
+            "skillIdList": [
+              "chr_0035_liino_combo_skill"
+            ]
+          },
+          "chr_0035_liino_NormalAttack": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "ATAQUE BÁSICO: \nUm ataque em até 5 sequências que causa <@ba.pulse>DNO Elétrico</>. Como o operador controlado, o <#ba.lastcombo>Golpe Final</> também causa <@ba.poise>{poise:0}</> de Desorientação. \n\nATAQUE DE MERGULHO: \nO ataque básico realizado no ar se torna um ataque de mergulho que causa <@ba.pulse>DNO Elétrico</> aos inimigos nas proximidades. \n\nFINALIZADOR: \nO ataque básico realizado próximo a um inimigo Desorientado torna-se um finalizador que causa uma enorme quantidade de <@ba.pulse>DNO Elétrico</> e recupera PH.",
+              "CN": "普通攻击：\n对敌人进行至多5段攻击，造成<@ba.pulse>电磁伤害</>。作为主控干员时，<#ba.lastcombo>重击</>会造成<@ba.poise>{poise:0}</>点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成<@ba.pulse>电磁伤害</>。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量<@ba.pulse>电磁伤害</>并恢复一定技力。",
+              "DE": "STANDARDANGRIFF: \nEin Angriff mit bis zu 5 Sequenzen, der <@ba.pulse>Elektrischen SDN</> zufügt. Mit dem gesteuerten Operator fügt der <#ba.lastcombo>Abschlussangriff</> außerdem <@ba.poise>{poise:0}</> Taumeln zu. \n\nSTURZANGRIFF: \nStandardangriffe, die in der Luft durchgeführt werden, werden zu Sturzangriffen, die Gegnern in der Nähe <@ba.pulse>Elektrischen SDN</> zufügen. \n\nWUCHTSCHLAG: \nStandardangriffe, die nahe einem Taumelnden Gegner durchgeführt werden, werden zu Wuchtschlägen, die massiven <@ba.pulse>Elektrischen SDN</> zufügen und ein wenig FP wiederherstellen.",
+              "EN": "BASIC ATTACK: \nAn attack with up to 5 sequences that deals <@ba.pulse>Electric DMG</>. As the controlled operator, <#ba.lastcombo>Final Strike</> also deals <@ba.poise>{poise:0}</> Stagger. \n\nDIVE ATTACK: \nBasic attack performed in mid-air becomes a dive attack that deals <@ba.pulse>Electric DMG</> to nearby enemies. \n\nFINISHER: \nBasic attack performed near a Staggered enemy becomes a finisher that deals massive <@ba.pulse>Electric DMG</> and recovers some SP.",
+              "FR": "ATTAQUE DE BASE : \nUne attaque comprenant jusqu'à 5 séquences qui inflige des <@ba.pulse>DÉG électriques</>. Si vous contrôlez l'opérateur, le <#ba.lastcombo>Coup final</> inflige également Déséquilibre <@ba.poise>{poise:0}</> fois. \n\nATTAQUE PLONGEANTE : \nUne attaque de base lancée depuis les airs devient une attaque plongeante, qui inflige des <@ba.pulse>DÉG électriques</> aux ennemis à proximité. \n\nCOUP FATAL : \nUne attaque de base lancée près d'un ennemi déséquilibré devient un coup fatal, qui inflige de lourds <@ba.pulse>DÉG électriques</> et restaure quelques PC.",
+              "ID": "SERANGAN DASAR: \nSerangan dengan maksimum 5 tahap yang akan menimbulkan <@ba.pulse>Electric DMG</>. Jika digunakan oleh operator terkontrol, <#ba.lastcombo>Final Strike</> juga akan menimbulkan <@ba.poise>{poise:0}</> Stagger. \n\nSERANGAN MENUKIK: \nSerangan dasar yang dilancarkan sambil melayang akan menjadi serangan menukik yang akan menimbulkan <@ba.pulse>Electric DMG</> kepada musuh di sekitar. \n\nPENUNTAS: \nSerangan dasar yang dilancarkan di dekat musuh yang terkena Staggered akan menjadi penuntas yang akan menimbulkan <@ba.pulse>Electric DMG</> sangat besar dan memulihkan sebagian SP.",
+              "IT": "ATTACCO BASE: \nsequenza di massimo 5 attacchi che infliggono <@ba.pulse>danni da elettricità</>. In caso di operatore controllato, il <#ba.lastcombo>colpo finale</> infligge anche <@ba.poise>{poise:0}</> di Vacillamento. \n\nATTACCO DALL'ALTO: \ngli attacchi base eseguiti a mezz'aria diventano attacchi dall'alto che infliggono <@ba.pulse>danni da elettricità</> ai nemici nelle vicinanze. \n\nMOSSA LETALE: \ngli attacchi base eseguiti vicino a un nemico Vacillante diventano mosse letali che infliggono ingenti <@ba.pulse>danni da elettricità</> e ripristinano parzialmente i PA.",
+              "JP": "通常攻撃：\n最大5段の攻撃で敵に<@ba.pulse>電磁ダメージ</>を与える。操作中のオペレーターの場合、<#ba.lastcombo>重攻撃</>はブレイク値<@ba.poise>{poise:0}</>を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に<@ba.pulse>電磁ダメージ</>を与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い<@ba.pulse>電磁ダメージ</>を与えてSPを一定量回復する。",
+              "KR": "일반 공격:\n적에게 최대 5단 공격을 하여 <@ba.pulse>전기 피해</>를 줍니다. 메인 컨트롤 오퍼레이터라면 <#ba.lastcombo>강력한 일격</>이 <@ba.poise>{poise:0}</>포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 <@ba.pulse>전기 피해</>를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 <@ba.pulse>전기 피해</>를 주고 일정량의 스킬 게이지를 회복합니다.",
+              "MX": "ATAQUE BÁSICO: \nUn ataque de hasta 5 secuencias que inflige <@ba.pulse>DAÑ eléctrico</>. Como operador controlado, <#ba.lastcombo>Golpe final</> también inflige <@ba.poise>{poise:0}</> de Tambaleo. \n\nATAQUE DE INMERSIÓN: \nUn ataque básico realizado en el aire se convierte en un ataque de inmersión que inflige <@ba.pulse>DAÑ eléctrico</> a los enemigos cercanos. \n\nREMATE: \nUn ataque básico realizado cerca de un enemigo Tambaleado se convierte en un remate que inflige <@ba.pulse>DAÑ eléctrico</> masivo y recupera algo de PH.",
+              "RU": "БАЗОВАЯ АТАКА\nАтака максимум из 5 тактов, наносящая <@ba.pulse>электрический УРН</>. При выполнении управляемым оперативником <#ba.lastcombo>последнего удара</> также накладывает <@ba.poise>{poise:0}</> ошеломления.\n\nАТАКА С ВОЗДУХА\nБазовая атака, выполненная в воздухе, становится атакой с воздуха и наносит <@ba.pulse>электрический УРН</> ближайшим врагам.\n\nДОБИВАНИЕ\nБазовая атака, выполненная рядом с ошеломленным врагом, становится добивающей атакой, которая наносит огромный <@ba.pulse>электрический УРН</> и восстанавливает немного ОН.",
+              "TC": "普通攻擊：\n對敵人進行最多5段攻擊，造成<@ba.pulse>電磁傷害</>。作為主控幹員時，<#ba.lastcombo>重擊</>會造成<@ba.poise>{poise:0}</>點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成<@ba.pulse>電磁傷害</>。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量<@ba.pulse>電磁傷害</>並回復一定技力。",
+              "TH": "การ​โจมตี​พื้นฐาน​: \nการ​โจมตี​สูงสุด​ 5 กระบวน​ท่า​ ที่​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> ใน​ฐานะ​โอเปอเรเตอร์​ที่​ควบคุม​อยู่​ <#ba.lastcombo>​โจมตี​พิฆาต​</>​จะ​ทำให้​ศัตรู​เซ​ไป​เซ​มา​ <@ba.poise>{poise:0}</> หน่วย​ \n\nการ​โจมตี​แบบ​ดิ่ง​: \nการ​โจมตี​พื้นฐาน​ที่​ใช้​กลางอากาศ​จะ​กลายเป็น​การ​โจมตี​แบบ​ดิ่ง​ที่​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</>​ให้​กับ​ศัตรู​รอ​บๆ​ \n\nท่า​ไม้ตาย​: \nการ​โจมตี​พื้นฐาน​ที่​ใช้​ใกล้​กับ​ศัตรู​ที่​เซ​ไป​เซ​มา​จะ​กลายเป็น​ท่า​ไม้ตาย​ที่​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</>​มหาศาล​และ​ฟื้นฟู​ SP จำนวน​หนึ่ง",
+              "VN": "ĐÒN ĐÁNH THƯỜNG: \nMột đòn tấn công gồm tối đa 5 chuỗi gây <@ba.pulse>ST Điện</>. Với cán viên đang điều khiển, <#ba.lastcombo>Đòn Dứt Điểm</> cũng gây <@ba.poise>{poise:0}</> Suy Sụp. \n\nĐÒN BỔ NHÀO: \nĐòn Đánh Thường thi triển trên không trở thành đòn bổ nhào gây <@ba.pulse>ST Điện</> cho kẻ địch gần đó. \n\nKẾT LIỄU: \nĐòn Đánh Thường thi triển lên kẻ địch bị Suy Sụp trở thành tấn công kết liễu gây lượng lớn <@ba.pulse>ST Điện</> và hồi một phần Điểm KN."
+            },
+            "icon": "icon_attack_lance",
+            "name": {
+              "BR": "Palpitação Estelar",
+              "CN": "怦然星动",
+              "DE": "Sternhelles Herzklopfen",
+              "EN": "Starry Heart Throb",
+              "FR": "Battement de cœur scintillant",
+              "ID": "Starry Heart Throb",
+              "IT": "Rubacuori stellato",
+              "JP": "キラめきハート",
+              "KR": "반짝이는 하트",
+              "MX": "Latido estelar",
+              "RU": "Трепет звездного сердца",
+              "TC": "怦然星動",
+              "TH": "หัวใจ​เต้น​แรง​ใต้​แสงดาว",
+              "VN": "Rung Động Tinh Quang"
+            },
+            "skillGroupId": "chr_0035_liino_NormalAttack",
+            "skillGroupType": 0,
+            "skillIdList": [
+              "chr_0035_liino_attack1",
+              "chr_0035_liino_attack2",
+              "chr_0035_liino_attack3",
+              "chr_0035_liino_attack4",
+              "chr_0035_liino_attack5",
+              "chr_0035_liino_power_attack",
+              "chr_0035_liino_plunging_attack_end"
+            ]
+          },
+          "chr_0035_liino_NormalSkill": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "Liino causa <@ba.pulse>DNO Elétrico</> aos inimigos e, em seguida, entra em sua <@ba.key>Postura da Vocalista</>. Enquanto essa postura estiver ativa, se houver inimigos por perto, Liino realizará regularmente um ATQ Adicional (que causa <@ba.pulse>DNO Elétrico</> aos inimigos).\n<@ba.key>Postura da Vocalista</>: enquanto essa postura está ativa, Liino concede Potencialização ATQ à equipe inteira. Após entrar em batalha, Liino também concede continuamente <@ba.heal>Tratamento de PV</> aos operadores dentro do alcance.\n<@ba.info>Durante a Postura da Vocalista, sua habilidade de batalha é substituída por Encerrar Postura. Conjurá-la encerrará a Postura da Vocalista mais cedo sem consumir PH algum, e sua habilidade de batalha entrará em um rápido tempo de recarga.</>",
+              "CN": "对敌人造成<@ba.pulse>电磁伤害</>，随后进入<@ba.key>演唱姿态</>，期间若附近有敌人，则每隔一段时间追加攻击，对敌人造成<@ba.pulse>电磁伤害</>。\n<@ba.key>演唱姿态</>：持续期间提升全队攻击力，并在进入战斗后持续<@ba.heal>治疗</>范围内干员。\n<@ba.info>持续期间战技替换为姿态中止，施放将提前结束演唱姿态且不消耗技力，战技进入短暂冷却。</>",
+              "DE": "Liino fügt Gegnern <@ba.pulse>Elektrischen SDN</> zu und nimmt dann ihre <@ba.key>Vokalist-Haltung</> ein. Wenn Gegner in der Nähe sind, solange diese Haltung aktiv ist, führt Liino regelmäßig einen zusätzlichen ANG (der Gegnern <@ba.pulse>Elektrischen SDN</> zufügt) aus.\n<@ba.key>Vokalist-Haltung</>: Liino gewährt dem gesamten Team während dieser Haltung einen ANG-Boost. Nachdem Liino den Kampf betritt, gewährt sie Operatoren in Reichweite auch kontinuierlich <@ba.heal>LP-Behandlung</>.\n<@ba.info>In der Vokalist-Haltung wird ihre Kampffertigkeit durch die Ende-Haltung ersetzt. Das Wirken beendet die Vokalist-Haltung vorzeitig, ohne FP zu verbrauchen. Die Kampffertigkeit bekommt dann eine kurze Abklingzeit.</>",
+              "EN": "Liino deals <@ba.pulse>Electric DMG</> to enemies and then enters her <@ba.key>Vocalist Stance</>. While this stance is active, if there are enemies nearby, Liino will perform an Additional ATK (that deals <@ba.pulse>Electric DMG</> to enemies) on a regular basis.\n<@ba.key>Vocalist Stance</>: While this stance is active, Liino grants the entire team an ATK Boost. After entering battle, Liino will also grant continuous <@ba.heal>HP Treatment</> to operators within range.\n<@ba.info>During Vocalist Stance, her battle skill is replaced with End Stance. Casting this will end her Vocalist Stance early without consuming any SP, after which the battle skill will enter a short cooldown.</>",
+              "FR": "Liino inflige des <@ba.pulse>DÉG électriques</> aux ennemis et adopte la <@ba.key>posture Chanteuse</>. Lorsque cette posture est active, si des ennemis sont à proximité, Liino lance régulièrement une ATQ supplémentaire (qui inflige des <@ba.pulse>DÉG électriques</> aux ennemis).\n<@ba.key>Posture Chanteuse</> : lorsque cette posture est active, Liino octroie un bonus d'ATQ à toute l'équipe. Une fois le combat commencé, Liino <@ba.heal>soigne</> également en continu les opérateurs à portée.\n<@ba.info>Lorsque la posture Chanteuse est active, sa compétence de combat est remplacée par la posture Fin. L'utiliser interrompt prématurément la posture Chanteuse et ne consomme pas de PC, après quoi la compétence de combat connaîtra un court temps de recharge.</>",
+              "ID": "Liino akan menimbulkan <@ba.pulse>Electric DMG</> kepada musuh, lalu masuk ke kondisi <@ba.key>Vocalist Stance</>. Selagi kondisi ini aktif, jika ada musuh di sekitarnya, Liino akan melancarkan ATK Tambahan (yang akan menimbulkan <@ba.pulse>Electric DMG</> kepada musuh) secara berkala.\n<@ba.key>Vocalist Stance</>: Selagi kondisi ini aktif, Liino akan memberikan ATK Boost kepada seluruh tim. Setelah masuk ke pertarungan, Liino juga akan memberikan <@ba.heal>HP Treatment</> terus-menerus kepada operator dalam jangkauan.\n<@ba.info>Selama Vocalist Stance, skill tarungnya akan digantikan dengan End Stance. Jika digunakan, Vocalist Stance akan berakhir lebih awal tanpa memakai SP, kemudian skill tarung akan masuk ke cooldown singkat.</>",
+              "IT": "Liino infligge <@ba.pulse>danni da elettricità</> ai nemici e poi assume la sua <@ba.key>Posa da cantante</>. Mentre questa posa è attiva, se ci sono nemici vicini, Liino esegue regolarmente un ATT aggiuntivo (che infligge <@ba.pulse>danni da elettricità</> ai nemici).\n<@ba.key>Posa da cantante</>: mentre questa posa è attiva, Liino conferisce a tutta la squadra un potenziamento dell'ATT. Dopo essere entrata in battaglia, Liino fornisce inoltre <@ba.heal>Cura PS</> continua agli operatori nel raggio d'azione.\n<@ba.info>Durante la Posa da cantante, la sua abilità di combattimento è sostituita con la Posa di termine. Usarla fa terminare anticipatamente la Posa da cantante senza consumare PA, dopodiché l'abilità di combattimento entrerà in un breve tempo di recupero.</>",
+              "JP": "敵に<@ba.pulse>電磁ダメージ</>を与え、その後<@ba.key>ライブモード</>に入る。期間中、近くに敵がいる場合、一定時間ごとに追加攻撃を行い、敵に<@ba.pulse>電磁ダメージ</>を与える。\n<@ba.key>ライブモード</>：持続期間中、チーム全員の攻撃力をアップし、戦闘状態に入ると範囲内のオペレーターを<@ba.heal>治療</>し続ける。\n<@ba.info>持続期間中、戦技は「ライブモード停止」に切り替わり、発動するとその時点でライブモードは終了する。その際、SPは消費されず、戦技は短時間のクールタイムに入る。</>",
+              "KR": "적에게 <@ba.pulse>전기 피해</>를 주고, <@ba.key>라이브 모드</>로 진입합니다. 이 기간 동안 근처에 적이 있으면 일정 시간마다 추가 공격을 하여 적에게 <@ba.pulse>전기 피해</>를 줍니다.\n<@ba.key>라이브 모드</>: 지속 시간 동안 팀 전체의 공격력을 증가시키고, 전투에 들어간 후에는 범위 내의 오퍼레이터를 지속적으로 <@ba.heal>치유</>합니다.\n<@ba.info>지속 시간 동안 배틀 스킬이 모드 중단으로 대체되며, 모드 중단 사용 시 라이브 모드가 조기에 종료됩니다. 이때 스킬 게이지를 소모하지 않고, 배틀 스킬이 잠깐의 쿨타임에 들어갑니다.</>",
+              "MX": "Liino inflige <@ba.pulse>DAÑ eléctrico</> a los enemigos y luego entra en su <@ba.key>Postura de vocalista</>. Mientras esta postura está activa, si hay enemigos cerca, Liino realizará un ATQ adicional que inflige <@ba.pulse>DAÑ eléctrico</> a los enemigos periódicamente.\n<@ba.key>Postura de vocalista</>: Mientras esta postura está activa, Liino otorga un Refuerzo de ATQ a todo el equipo. Tras entrar en combate, Liino también otorgará <@ba.heal>Tratamiento de PV</> continuo a los operadores dentro del alcance.\n<@ba.info>Durante la Postura de vocalista, su habilidad de batalla se reemplaza por Postura final. Al lanzar esta habilidad, la Postura de vocalista terminará antes de tiempo sin consumir PH, después la habilidad de batalla entrará en un breve tiempo de enfriamiento.</>",
+              "RU": "Лиино наносит <@ba.pulse>электрический УРН</> врагам и принимает <@ba.key>Стойку певицы</>. Пока стойка активна и поблизости есть враги, Лиино постоянно выполняет дополнительную АТК, наносящую врагам <@ba.pulse>электрический УРН</>.\n<@ba.key>Стойка певицы</>: пока активна, Лиино дает всей команде увеличение АТК. После вступления в бой Лиино непрерывно <@ba.heal>лечит</> оперативников в радиусе действия.\n<@ba.info>Во время действия «Стойки певицы» ее боевой навык заменяется на «Стойку прерывания». Ее применение досрочно завершает «Стойку певицы», не расходуя ОН, после чего запускает короткую перезарядку.</>",
+              "TC": "對敵人造成<@ba.pulse>電磁傷害</>，隨後進入<@ba.key>演唱姿態</>，期間若附近有敵人，則每隔一段時間追加攻擊，對敵人造成<@ba.pulse>電磁傷害</>。\n<@ba.key>演唱姿態</>：持續期間提升全隊攻擊力，並在進入戰鬥後持續<@ba.heal>治療</>範圍內幹員。\n<@ba.info>持續期間戰技替換為姿態中止，施放將提前結束演唱姿態且不消耗技力，戰技進入短暫冷卻。</>",
+              "TH": "หลี​นั่​ว​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> ให้​กับ​ศัตรู​ จากนั้น​เข้าสู่​ <@ba.key>​ท่า​เตรียม​นักร้อง​</> ขณะที่​อยู่​ใน​ท่า​เตรียม​ทำงาน​ หาก​มี​ศัตรู​อยู่​ข้างเคียง​ หลี​นั่​ว​จะ​ทำ​ ATK เพิ่มเติม​ (สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> ให้​กับ​ศัตรู​) ตามปกติ​\n<@ba.key>​ท่า​เตรียม​นักร้อง​</>: ขณะที่​ท่า​เตรียม​นี้​ทำงาน​ หลี​นั่​ว​จะ​มอบ​ เพิ่ม​ ATK ให้​กับ​ทั้งที​ม​ หลังจาก​เข้าสู่​การต่อสู้​ หลี​นั่​ว​จะ​มอบ​ <@ba.heal>​รักษา​ HP</> อย่างต่อเนื่อง​ให้​กับ​โอเปอเรเตอร์​ที่อยู่​ใน​ระยะ​\n<@ba.info>​ระหว่าง​ที่อยู่​ใน​ท่า​เตรียม​นักร้อง​ ทักษะ​การต่อสู้​ของ​เธอ​จะ​ถูก​แทนที่​ด้วย​ สิ้นสุด​ท่า​เตรียม​ เมื่อ​ใช้​ทักษะ​นี้​ จะ​สิ้นสุด​ท่า​เตรียม​นักร้อง​ของ​เธอ​ก่อนกำหนด​โดย​ไม่​ใช้​ SP หลังจากนั้น​ทักษะ​การต่อสู้​จะ​เข้าสู่​ช่วง​คูล​ดาวน์​สั้​นๆ​</>",
+              "VN": "Liino gây <@ba.pulse>ST Điện</> lên kẻ địch, sau đó vào <@ba.key>Tư Thế Ca Sĩ</>. Khi tư thế này đang có hiệu lực, nếu có kẻ địch ở gần, Liino sẽ định kỳ thực hiện Đòn Tấn Công Bổ Sung, gây <@ba.pulse>ST Điện</> lên kẻ địch.\n<@ba.key>Tư Thế Ca Sĩ</>: Khi tư thế này đang có hiệu lực, Liino ban Tăng Cường Tấn Công cho toàn đội. Sau khi vào trận, Liino cũng sẽ liên tục cung cấp <@ba.heal>Hồi Phục HP</> cho cán viên trong phạm vi.\n<@ba.info>Trong thời gian Tư Thế Ca Sĩ đang kích hoạt, KN chiến đấu của cô sẽ được thay bằng Kết Thúc Tư Thế. Thi triển kỹ năng này sẽ kết thúc Tư Thế Ca Sĩ sớm mà không tiêu hao Điểm Kỹ Năng, sau đó KN chiến đấu sẽ bước vào thời gian hồi chiêu ngắn.</>"
+            },
+            "icon": "icon_skill_liino_01",
+            "name": {
+              "BR": "Foco Deslumbrante",
+              "CN": "闪耀焦点",
+              "DE": "Extremer Fokus",
+              "EN": "Dazzling Focus",
+              "FR": "Concentration fulgurante",
+              "ID": "Dazzling Focus",
+              "IT": "Concentrazione abbagliante",
+              "JP": "キラキラフォーカス",
+              "KR": "스포트라이트",
+              "MX": "Enfoque deslumbrante",
+              "RU": "Ослепительная фокусировка",
+              "TC": "閃耀焦點",
+              "TH": "โฟกัส​เจิด​จรัส",
+              "VN": "Tiêu Điểm Chói Rạng"
+            },
+            "skillGroupId": "chr_0035_liino_NormalSkill",
+            "skillGroupType": 1,
+            "skillIdList": [
+              "chr_0035_liino_normal_skill",
+              "chr_0035_liino_normal_skill_end",
+              "chr_0035_liino_normal_skill_combo"
+            ]
+          },
+          "chr_0035_liino_UltimateSkill": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "Liino concede <@ba.heal>Tratamento de PV</> para a equipe inteira, entra em sua <@ba.key>Postura Voz Cósmica</> ao mesmo tempo, libera uma exibição contínua de Pirotecnia de Palco que causa <@ba.pulse>DNO Elétrico</> e, em seguida, aciona uma <@ba.key>Extravagância Eletrizante</> que causa <@ba.pulse>DNO Elétrico</> e aplica <#ba.conduct>Eletrificação</> à força a inimigos em uma grande área de efeito (ADE).\n<@ba.key>Postura Voz Cósmica</>: essa postura substitui a <@ba.key>Postura da Vocalista</> de Liino. Enquanto ativa, a postura concede <#ba.pulseenhance>Amp Elétrica</> e <#ba.naturalenhance>Amp Natureza</> à equipe inteira (os efeitos são aumentados ainda mais pelo atributo de Vontade), bem como uma Potencialização ATQ. As batidas da canção de Liino também causam <@ba.pulse>DNO Elétrico</> aos inimigos na ADE e concedem <@ba.heal>Tratamento de PV</> contínuo aos operadores aliados na ADE. Ao término da postura, causa 3 vezes a quantidade de DNO de uma única batida aos inimigos na ADE e concede 3 vezes a quantidade de Tratamento de PV de uma única batida à equipe inteira. Esse efeito não é aplicado se a postura terminou mais cedo. \nDurante a postura, sua habilidade de batalha é substituída por Encerrar Postura. <@ba.info>Conjurar a habilidade de batalha durante a Postura Voz Cósmica a encerra mais cedo e não consome PH algum.</>",
+              "CN": "<@ba.heal>治疗</>全队，同时进入<@ba.key>高歌姿态</>，持续释放舞台焰火造成<@ba.pulse>电磁伤害</>，随后引发<@ba.key>华彩爆点</>，对大范围内的敌人造成<@ba.pulse>电磁伤害</>，并强制施加<#ba.conduct>导电</>。\n<@ba.key>高歌姿态</>：代替<@ba.key>演唱姿态</>，持续期间提升全队攻击力，并施加受意志提升的<#ba.pulseenhance>电磁增幅</>和<#ba.naturalenhance>自然增幅</>。歌声对范围内的敌人持续造成<@ba.pulse>电磁伤害</>，并持续<@ba.heal>治疗</>范围内的友方干员。结束时，对范围内敌人造成3倍单次歌声伤害，并为全队回复3倍单次治疗量的生命值，提前结束时该效果不会生效。\n<@ba.info>持续期间战技替换为姿态中止，施放将提前结束高歌姿态且不消耗技力。</>",
+              "DE": "Liino gewährt dem gesamten Team eine <@ba.heal>LP-Behandlung</>, wechselt gleichzeitig in die <@ba.key>„Stimme des Kosmos“-Haltung</>, entfesselt ein anhaltendes Feuerwerk aus Phasen-Pyrotechnik, das <@ba.pulse>Elektrischen SDN</> verursacht, und löst ein <@ba.key>Elektrifizierendes Spektakel</> aus, das <@ba.pulse>Elektrischen SDN</> verursacht, und belegt Gegner in einem großen Wirkungsbereich gewaltsam mit <#ba.conduct>Elektrifizierung</>.\n<@ba.key>„Stimme des Kosmos“-Haltung</>: Diese Haltung ersetzt Liinos <@ba.key>Vokalist-Haltung</>. Solange die Haltung aktiv ist, gewährt sie dem gesamten Team <#ba.pulseenhance>Elektrik-Verstärkung</> und <#ba.naturalenhance>Natur-Verstärkung</> (Effekte werden durch das Attribut Wille beeinflusst) sowie einen ANG-Boost. Die Beats von Liinos Song fügen Gegnern im Wirkungsbereich außerdem <@ba.pulse>Elektrischen SDN</> zu und gewähren verbündeten Operatoren im Wirkungsbereich <@ba.heal>LP-Behandlung</>. Wenn die Haltung endet, fügt sie Gegnern im Wirkungsbereich den 3-fachen SDN durch einen einzelnen Beat zu und gewährt dem gesamten Team im Wirkungsbereich die 3-fache LP-Behandlung durch einen Einzel-Beat. Dieser Effekt wird nicht ausgelöst, wenn die Haltung frühzeitig endet. \nIhre Kampffertigkeit wird während der Haltung durch die Ende-Haltung ersetzt. <@ba.info>Wird die Kampffertigkeit in der „Stimme des Kosmos“-Haltung gewirkt, wird diese vorzeitig beendet und verbraucht keine FP.</>",
+              "EN": "Liino grants <@ba.heal>HP Treatment</> to the entire team, enters her <@ba.key>Cosmovoice Stance</> at the same time, unleashes a continuous display of Stage Pyrotechnics that deals <@ba.pulse>Electric DMG</>, and then triggers an <@ba.key>Electrifying Extravaganza</> that deals <@ba.pulse>Electric DMG</> and forcibly applies <#ba.conduct>Electrification</> to enemies in a large area of effect (AOE).\n<@ba.key>Cosmovoice Stance</>: This stance replaces Liino's <@ba.key>Vocalist Stance</>. While active, the stance grants the entire team <#ba.pulseenhance>Electric Amp</> and <#ba.naturalenhance>Nature Amp</> (effects are further increased by the attribute of Will) as well as an ATK Boost. The beats of Liino's song also deal <@ba.pulse>Electric DMG</> to enemies in the AOE and grant continuous <@ba.heal>HP Treatment</> to allied operators in the AOE. When the stance ends, deals 3 times the DMG from a single beat to enemies in the AOE, and grants 3 times the HP treatment from a single beat to the entire team. This effect does not trigger if the stance is ended early. \nDuring the stance, her battle skill is replaced with End Stance. <@ba.info>Casting the battle skill during Cosmovoice Stance ends it early and does not consume any SP.</>",
+              "FR": "Liino <@ba.heal>soigne</> toute l'équipe, active en même temps sa <@ba.key>posture Cosmovoix</>, déverse un déluge continu de Pyrotechnie scénique qui inflige des <@ba.pulse>DÉG électriques</>, et déclenche une <@ba.key>Extravagance électrifiante</> qui inflige des <@ba.pulse>DÉG électriques</> et applique de force <#ba.conduct>Électrification</> aux ennemis dans une large zone.\n<@ba.key>Posture Cosmovoix</> : cette posture remplace la <@ba.key>posture Chanteuse</> de Liino. Lorsqu'elle est active, elle octroie une <#ba.pulseenhance>amplification électrique</> et une <#ba.naturalenhance>amplification naturelle</> à toute l'équipe (les effets sont renforcés par le trait Volonté), ainsi qu'un bonus ATQ accrue. Le rythme de la chanson de Liino inflige également des <@ba.pulse>DÉG électriques</> aux ennemis dans la zone d'effet et <@ba.heal>soignent</> en continu les opérateurs alliés dans la zone d'effet. Lorsque cette posture prend fin, les ennemis dans la zone d'effet subissent 3 fois les dégâts d'un seul temps de ce rythme et l'équipe reçoit 3 fois les soins d'un seul temps de ce rythme. Cet effet ne se déclenche pas si la posture est interrompue prématurément. \nPendant la posture, sa compétence de combat est remplacée par la posture Fin. <@ba.info>Si la compétence de combat est utilisée pendant la posture Cosmovoix, cette dernière s'interrompt prématurément et la compétence ne consomme pas de PC.</>",
+              "ID": "Liino akan memberikan <@ba.heal>HP Treatment</> kepada seluruh tim, masuk ke kondisi <@ba.key>Cosmovoice Stance</> pada saat bersamaan, melepaskan pertunjukan Stage Pyrotechnics terus-menerus yang akan menimbulkan <@ba.pulse>Electric DMG</>, lalu mengaktifkan <@ba.key>Electrifying Extravaganza</> yang akan menimbulkan <@ba.pulse>Electric DMG</> dan mengakibatkan <#ba.conduct>Electrification</> secara paksa kepada musuh di dalam area efek (AOE) besar.\n<@ba.key>Cosmovoice Stance</>: Kondisi ini akan menggantikan kondisi <@ba.key>Vocalist Stance</> Liino. Selagi aktif, kondisi ini akan memberikan <#ba.pulseenhance>Electric Amp</> dan <#ba.naturalenhance>Nature Amp</> kepada seluruh tim (efek akan ditingkatkan lagi oleh atribut Will) serta ATK Boost. Irama lagu Liino juga akan menimbulkan <@ba.pulse>Electric DMG</> kepada musuh di dalam AOE dan memberikan <@ba.heal>HP Treatment</> terus-menerus kepada operator rekan di dalam AOE. Saat berakhir, kondisi ini akan menimbulkan DMG 3 kali lipat dari satu irama saja kepada musuh di dalam AOE dan memberikan HP Treatment 3 kali lipat dari satu irama saja kepada seluruh tim. Efek ini tidak akan aktif jika kondisi berakhir lebih awal. \nSelama kondisi ini, skill tarungnya akan digantikan dengan End Stance. <@ba.info>Jika skill tarung digunakan selama kondisi Cosmovoice Stance, kondisi ini akan berakhir lebih awal dan tidak akan memakai SP.</>",
+              "IT": "Liino conferisce <@ba.heal>Cura PS</> a tutta la squadra, allo stesso tempo assume la sua <@ba.key>Posa cosmovoce</>, scatena una dimostrazione ininterrotta di effetti pirotecnici che infliggono <@ba.pulse>danni da elettricità</>, quindi attiva uno <@ba.key>Spettacolo elettrizzante</> che infligge <@ba.pulse>danni da elettricità</> e applica <#ba.conduct>Elettrificazione</> forzata ai nemici in un ampio raggio d'azione.\n<@ba.key>Posa cosmovoce</>: questa posa sostituisce <@ba.key>Posa da cantante</> di Liino. Mentre è attiva, la posa conferisce a tutta la squadra <#ba.pulseenhance>Amplificazione elettrica</>, <#ba.naturalenhance>Amplificazione naturale</> (gli effetti sono aumentati ulteriormente dall'attributo della Volontà) e potenziamento dell'ATT. I battiti della canzone di Liino infliggono anche <@ba.pulse>danni da elettricità</> ai nemici nel raggio d'azione e conferiscono <@ba.heal>Cura PS</> continua agli operatori alleati nel raggio d'azione. Quando la posa termina, infligge 3 volte la quantità di danni ai nemici da un singolo battito nel raggio d'azione e conferisce 3 volte la quantità di Cura PS a tutta la squadra da un singolo battito. Questo effetto non si attiva se la posa finisce in anticipo. \nDurante la posa, la sua abilità di combattimento è sostituita con la Posa di termine. <@ba.info>Usando l'abilità di combattimento durante Posa cosmovoce fa terminare anticipatamente la posa e non consuma PA.</>",
+              "JP": "チーム全員を<@ba.heal>治療</>し、同時に<@ba.key>パフォーマンスモード</>に入る。ステージ花火を持続的に放ち、<@ba.pulse>電磁ダメージ</>を与える。その後<@ba.key>クライマックス最高潮</>を引き起こし、広範囲の敵に<@ba.pulse>電磁ダメージ</>を与え、強制的に<#ba.conduct>感電</>状態にする。\n<@ba.key>パフォーマンスモード</>：<@ba.key>ライブモード</>は上書きされる。持続期間中、チーム全員の攻撃力をアップし、意志の値に応じて<#ba.pulseenhance>電磁増幅</>と<#ba.naturalenhance>自然増幅</>を付与する。歌唱は範囲内の敵に<@ba.pulse>電磁ダメージ</>を与え続け、さらに範囲内の味方オペレーターを<@ba.heal>治療</>し続ける。終了時、範囲内の敵に歌唱1回の3倍のダメージを与え、さらにチーム全員のHPを回復1回の3倍分回復する。途中で停止した場合、この効果は発動しない。\n<@ba.info>持続期間中、戦技は「モード停止」に切り替わり、発動するとその時点でパフォーマンスモードは終了する。その際、SPは消費しない。</>",
+              "KR": "팀 전체를 <@ba.heal>치유</>함과 동시에, <@ba.key>보컬 모드</>에 진입하여 지속적으로 무대 위 특수 효과를 사용해 <@ba.pulse>전기 피해</>를 주고, 이어서 <@ba.key>클라이맥스</>를 구성해 넓은 범위 내의 적에게 <@ba.pulse>전기 피해</>를 주며, 강제로 <#ba.conduct>감전</>을 부여합니다.\n<@ba.key>보컬 모드</>: <@ba.key>라이브 모드</>를 대체하며, 지속 시간 동안 팀 전체의 공격력을 증가시키고, 의지에 따라 증가하는 <#ba.pulseenhance>전기 증폭</>과 <#ba.naturalenhance>자연 증폭</>을 부여합니다. 노랫소리가 범위 내의 적에게 지속적으로 <@ba.pulse>전기 피해</>를 주고, 범위 내의 아군 오퍼레이터를 지속적으로 <@ba.heal>치유</>합니다. 종료 시, 범위 내의 적에게 단일 노랫소리 피해의 3배에 해당하는 피해를 주고, 팀 전체에게 단일 치유량의 3배에 해당하는 생명력을 회복시킵니다. 조기 종료 시 해당 효과는 발동하지 않습니다.\n<@ba.info>지속 시간 동안 배틀 스킬이 모드 중단으로 대체되며, 모드 중단 사용 시 보컬 모드가 조기에 종료됩니다. 이때 스킬 게이지를 소모하지 않습니다.</>",
+              "MX": "Liino otorga <@ba.heal>Tratamiento de PV</> a todo el equipo, entra al mismo tiempo en su <@ba.key>Postura de cosmovoz</>, desata un espectáculo continuo de Pirotecnia escénica que inflige <@ba.pulse>DAÑ eléctrico</> y luego activa una <@ba.key>Extravaganza electrizante</> que inflige <@ba.pulse>DAÑ eléctrico</> y aplica <#ba.conduct>Electrificación</> forzada a los enemigos en un área de efecto (ADE) grande.\n<@ba.key>Postura de cosmovoz</>: Esta postura reemplaza la <@ba.key>Postura de vocalista</> de Liino. Mientras está activa, la postura otorga a todo el equipo <#ba.pulseenhance>Amp eléctrica</> y <#ba.naturalenhance>Amp de naturaleza</> (los efectos también aumentan más por el atributo Voluntad), además de un Refuerzo de ATQ. Los pulsos de la canción de Liino también infligen <@ba.pulse>DAÑ eléctrico</> a los enemigos en el ADE y otorgan <@ba.heal>Tratamiento de PV</> continuo a los operadores aliados en el ADE. Cuando la postura termina, inflige a los enemigos en el ADE 3 veces el DAÑ de un solo pulso y otorga a todo el equipo 3 veces el Tratamiento de PV de un solo pulso. Este efecto no se activa si la postura termina antes de tiempo. \nDurante la postura, su habilidad de batalla se reemplaza por Postura final. <@ba.info>Lanzar la habilidad de batalla durante la Postura de cosmovoz la termina antes de tiempo y no consume ningún PH.</>",
+              "RU": "Лиино <@ba.heal>лечит</> всю команду, в то же время принимает <@ba.key>Стойку космоголоса</>, непрерывно запускает «Сценическую пиротехнику», которая наносит <@ba.pulse>электрический УРН</>, затем активирует <@ba.key>Электризующую феерию</>, которая наносит <@ba.pulse>электрический УРН</> и принудительно накладывает <#ba.conduct>электризацию</> на врагов в большой области действия.\n<@ba.key>Стойка космоголоса</> заменяет <@ba.key>Стойку певицы</> Лиино. Пока стойка активна, она дает всей команде <#ba.pulseenhance>усиление электричества</> и <#ba.naturalenhance>усиление природы</> (показатель воли усиливает эффекты), а также увеличение АТК. Такты песен Лиино также наносят <@ba.pulse>электрический УРН</> врагам в области действия и непрерывно <@ba.heal>лечат</> союзных оперативников в области действия. Когда стойка заканчивается, один такт песни наносит тройной УРН врагам в области действия и втрое сильнее лечит всю команду. Эффект не срабатывает при досрочном завершении стойки. \nВо время действия стойки ее боевой навык заменяется на «Стойку прерывания». <@ba.info>Применение боевого навыка во время действия «Стойки космоголоса» не расходует ОН и досрочно завершает стойку.</>",
+              "TC": "<@ba.heal>治療</>全隊，同時進入<@ba.key>高歌姿態</>，持續釋放舞台焰火造成<@ba.pulse>電磁傷害</>，隨後引發<@ba.key>華彩爆點</>，對大範圍內的敵人造成<@ba.pulse>電磁傷害</>，並強制施加<#ba.conduct>導電</>。\n<@ba.key>高歌姿態</>：代替<@ba.key>演唱姿態</>，持續期間提升全隊攻擊力，並施加受意志提升的<#ba.pulseenhance>電磁增幅</>和<#ba.naturalenhance>自然增幅</>。歌聲對範圍內的敵人持續造成<@ba.pulse>電磁傷害</>，並持續<@ba.heal>治療</>範圍內的友方幹員。結束時，對範圍內敵人造成3倍單次歌聲傷害，並為全隊回復3倍單次治療量的生命值，提前結束時該效果不會生效。\n<@ba.info>持續期間戰技替換為姿態中止，施放將提前結束高歌姿態且不消耗技力。</>",
+              "TH": "หลี​นั่​ว​<@ba.heal>​ฟื้นฟู​ HP</> ให้​ทั้งที​ม​ พร้อม​เข้าสู่​<@ba.key>​ท่า​เตรียม​เสียง​คอส​โม​</>​ในเวลาเดียวกัน​ จากนั้น​ปลดปล่อย​เทคนิค​แสงสี​เวที​อย่างต่อเนื่อง​เพื่อ​สร้าง​<@ba.pulse>DMG ไฟฟ้า​</> และ​ปิดท้าย​ด้วย​<@ba.key>​อลังการ​ตระการตา​</> ซึ่ง​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> และ​ <#ba.conduct>​ช็อต​ไฟฟ้า​</> ศัตรู​ทั้งหมด​ภายใน​พื้นที่​ขนาดใหญ่​\n<@ba.key>​ท่า​เตรียม​เสียง​คอส​โม​</>: ท่า​เตรียม​นี้​จะ​แทนที่​ <@ba.key>​ท่า​เตรียม​นักร้อง​</> ของ​หลี​นั่​ว​ ขณะที่​ทำงาน​ ท่า​เตรียม​จะ​มอบ​ <#ba.pulseenhance>​การ​เพิ่ม​พลังไฟฟ้า​</> และ​ <#ba.naturalenhance>​ขยาย​พลัง​ธรรมชาติ​</> ให้​กับ​ทั้งที​ม​ (เอฟเฟกต์​จะ​เพิ่มขึ้น​อีก​ตาม​คุณสมบัติ​ความมุ่งมั่น​) และ​เพิ่ม​ ATK จังหวะ​ของ​หลี​นั่​ว​ยัง​สร้าง​ <@ba.pulse>DMG ไฟฟ้า​</> แก่​ศัตรู​ภายใน​พื้นที่​ขนาดใหญ่​ และ​ <@ba.heal>​ฟื้นฟู​ HP</> อย่างต่อเนื่อง​ให้​แก่​โอเปอเรเตอร์​ฝ่าย​เดียวกัน​ภายใน​พื้นที่​ขนาดใหญ่​อีกด้วย​ เมื่อ​สถานะ​นี้​สิ้นสุดลง​ จะ​สร้าง​ DMG 3 เท่า​ของ​ DMG จาก​จังหวะ​ 1 ครั้ง​แก่​ศัตรู​ภายใน​พื้นที่​ขนาดใหญ่​ และ​ฟื้นฟู​ HP ให้​ทั้งที​ม​เป็น​จำนวน​ 3 เท่า​ของ​การรักษา​จาก​จังหวะ​ 1 ครั้ง​ เอฟเฟกต์​นี้​จะ​ไม่ทำงาน​หาก​ท่า​สิ้นสุด​ก่อนกำหนด​ \nระหว่าง​ที่อยู่​ใน​ท่า​ ทักษะ​การต่อสู้​ของ​เธอ​จะ​ถูก​แทนที่​ด้วย​ สิ้นสุด​ท่า​เตรียม​ <@ba.info>​การ​ใช้​ทักษะ​การต่อสู้​ระหว่าง​อยู่​ใน​ท่า​เตรียม​เสียง​คอส​โม​จะ​ทำให้​ท่า​เตรียม​สิ้นสุดลง​ก่อนเวลา​ และ​ไม่​ใช้​ SP ใ​ดๆ​</>",
+              "VN": "Liino <@ba.heal>Hồi Phục HP</> cho toàn đội, đồng thời vào <@ba.key>Tư Thế Giọng Ca Vũ Trụ</>, tung ra chuỗi Pháo Hoa Sân Khấu liên tục gây <@ba.pulse>ST Điện</>, sau đó kích hoạt <@ba.key>Đại Tiệc Điện Quang</> gây <@ba.pulse>ST Điện</> và cưỡng chế áp dụng <#ba.conduct>Điện Hóa</> lên kẻ địch trong phạm vi hiệu ứng (AOE) lớn.\n<@ba.key>Tư Thế Giọng Ca Vũ Trụ</>: Tư thế này thay thế <@ba.key>Tư Thế Ca Sĩ</> của Liino. Khi đang kích hoạt, tư thế này cho toàn đội <#ba.pulseenhance>Tăng ST Điện</> và <#ba.naturalenhance>Tăng ST Tự Nhiên</>, với hiệu quả được tăng thêm bởi thuộc tính Ý Chí, cũng như Tăng Cường Tấn Công. Nhịp điệu trong bài hát của Liino cũng gây <@ba.pulse>ST Điện</> lên kẻ địch trong phạm vi hiệu ứng và liên tục cấp <@ba.heal>Hồi Phục HP</> cho cán viên đồng minh trong phạm vi hiệu ứng. Khi Tư Thế Giọng Ca Vũ Trụ kết thúc, gây lượng ST gấp 3 lần một nhịp lên kẻ địch trong phạm vi hiệu ứng, đồng thời cấp lượng Hồi Phục HP gấp 3 lần một nhịp cho toàn đội. Hiệu ứng này không kích hoạt nếu tư thế kết thúc sớm. \nTrong thời gian duy trì tư thế, KN chiến đấu của cô được thay bằng Kết Thúc Tư Thế. <@ba.info>Thi triển KN chiến đấu trong thời gian duy trì Tư Thế Giọng Ca Vũ Trụ sẽ kết thúc tư thế sớm và không tiêu hao Điểm Kỹ Năng.</>"
+            },
+            "icon": "icon_ultimate_skill_liino_01",
+            "name": {
+              "BR": "Show da Estrela do Alvorecer",
+              "CN": "晨星的协奏曲",
+              "DE": "Morgenstern-Concerto",
+              "EN": "Dawnstar Concerto",
+              "FR": "Concerto de l'étoile du matin",
+              "ID": "Dawnstar Concerto",
+              "IT": "Concerto della stella del mattino",
+              "JP": "綺羅星コンチェルト",
+              "KR": "샛별의 협주곡",
+              "MX": "Concierto de Estrella del amanecer",
+              "RU": "Концерт утренней звезды",
+              "TC": "晨星的協奏曲",
+              "TH": "คอน​เซอร์​โต​ดารา​พรายแสง",
+              "VN": "Hòa Tấu Sao Mai"
+            },
+            "skillGroupId": "chr_0035_liino_UltimateSkill",
+            "skillGroupType": 2,
+            "skillIdList": [
+              "chr_0035_liino_ultimate_skill"
+            ]
+          }
+        },
+        "skillLevelUp": [
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0035_liino_NormalSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0035_liino_UltimateSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0035_liino_ComboSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_1"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_1"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0035_liino_NormalAttack"
+          }
+        ],
+        "subAttrType": 40,
+        "talentNodeMap": {
+          "charBreak20": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0035_liino_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 4,
+              "index": 1,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0035_liino_1_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 20000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_3"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0035_liino_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 3,
+              "index": 0,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0035_liino_0_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 8000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0035_liino_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 2,
+              "index": 1,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0035_liino_1_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 3000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 42,
+                  "attrValue": 10,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 1,
+              "customIcon": "",
+              "desc": {
+                "BR": "Vontade do Operador + 10.",
+                "CN": "干员意志能力值提升10。",
+                "DE": "Operator-Wille +10.",
+                "EN": "Operator Will +10.",
+                "FR": "Volonté de l'opérateur +10.",
+                "ID": "Will Operator +10.",
+                "IT": "Volontà operatore +10.",
+                "JP": "意志が10アップする",
+                "KR": "오퍼레이터 의지 능력치 10 증가",
+                "MX": "Voluntad del operador +10.",
+                "RU": "Воля оперативника +10.",
+                "TC": "幹員意志能力值提升10。",
+                "TH": "ความมุ่งมั่น​ของ​โอเปอเรเตอร์​ +10",
+                "VN": "Ý Chí Cán Viên +10."
+              },
+              "favorability": 60,
+              "title": {
+                "BR": "Inabalável",
+                "CN": "守誓",
+                "DE": "Unerschütterlich",
+                "EN": "Stalwart",
+                "FR": "Pilier",
+                "ID": "Stalwart",
+                "IT": "Convinzione",
+                "JP": "守誓",
+                "KR": "맹세",
+                "MX": "Inquebrantable",
+                "RU": "Выдержка",
+                "TC": "守誓",
+                "TH": "ทรหดอดทน",
+                "VN": "Kiên Cường"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_1",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 5,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_passive_skill_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_passive_skill_1_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 3,
+              "iconId": "icon_talent_liino_02",
+              "index": 1,
+              "level": 2,
+              "name": {
+                "BR": "Impulso Estelar de 1ª Grandeza",
+                "CN": "一等星的鼓舞",
+                "DE": "Sternen-Boost der ersten Güte",
+                "EN": "Starry Boost of 1st Magnitude",
+                "FR": "Super boost étoilé",
+                "ID": "Starry Boost of 1st Magnitude",
+                "IT": "Potenziamento stellato di magnitudine 1",
+                "JP": "一等星の応援",
+                "KR": "일등성의 격려",
+                "MX": "Impulso estelar de 1.ª magnitud",
+                "RU": "Звездное усиление первой величины",
+                "TC": "一等星的鼓舞",
+                "TH": "บู​ส​ต์​แห่ง​ดวงดาว​ระดับ​ 1",
+                "VN": "Tinh Quang Hạng Nhất"
+              },
+              "talentEffectId": "chr_0035_liino_talent_2_2"
+            },
+            "requiredItem": [
+              {
+                "count": 28,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 24000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_3": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 42,
+                  "attrValue": 15,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 2,
+              "customIcon": "",
+              "desc": {
+                "BR": "Vontade do Operador + 15.",
+                "CN": "干员意志能力值提升15。",
+                "DE": "Operator-Wille +15.",
+                "EN": "Operator Will +15.",
+                "FR": "Volonté de l'opérateur +15.",
+                "ID": "Will Operator +15.",
+                "IT": "Volontà operatore +15.",
+                "JP": "意志が15アップする",
+                "KR": "오퍼레이터 의지 능력치 15 증가",
+                "MX": "Voluntad del operador +15.",
+                "RU": "Воля оперативника +15.",
+                "TC": "幹員意志能力值提升15。",
+                "TH": "ความมุ่งมั่น​ของ​โอเปอเรเตอร์​ +15",
+                "VN": "Ý Chí Cán Viên +15."
+              },
+              "favorability": 150,
+              "title": {
+                "BR": "Inabalável",
+                "CN": "守誓",
+                "DE": "Unerschütterlich",
+                "EN": "Stalwart",
+                "FR": "Pilier",
+                "ID": "Stalwart",
+                "IT": "Convinzione",
+                "JP": "守誓",
+                "KR": "맹세",
+                "MX": "Inquebrantable",
+                "RU": "Выдержка",
+                "TC": "守誓",
+                "TH": "ทรหดอดทน",
+                "VN": "Kiên Cường"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_3",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1800,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_7": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 42,
+                  "attrValue": 20,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 4,
+              "customIcon": "",
+              "desc": {
+                "BR": "Vontade do Operador + 20.",
+                "CN": "干员意志能力值提升20。",
+                "DE": "Operator-Wille +20.",
+                "EN": "Operator Will +20.",
+                "FR": "Volonté de l'opérateur +20.",
+                "ID": "Will Operator +20.",
+                "IT": "Volontà operatore +20.",
+                "JP": "意志が20アップする",
+                "KR": "오퍼레이터 의지 능력치 20 증가",
+                "MX": "Voluntad del operador +20.",
+                "RU": "Воля оперативника +20.",
+                "TC": "幹員意志能力值提升20。",
+                "TH": "ความมุ่งมั่น​ของ​โอเปอเรเตอร์​ +20",
+                "VN": "Ý Chí Cán Viên +20."
+              },
+              "favorability": 300,
+              "title": {
+                "BR": "Inabalável",
+                "CN": "守誓",
+                "DE": "Unerschütterlich",
+                "EN": "Stalwart",
+                "FR": "Pilier",
+                "ID": "Stalwart",
+                "IT": "Convinzione",
+                "JP": "守誓",
+                "KR": "맹세",
+                "MX": "Inquebrantable",
+                "RU": "Выдержка",
+                "TC": "守誓",
+                "TH": "ทรหดอดทน",
+                "VN": "Kiên Cường"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_7",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 12000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_5": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 42,
+                  "attrValue": 15,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 3,
+              "customIcon": "",
+              "desc": {
+                "BR": "Vontade do Operador + 15.",
+                "CN": "干员意志能力值提升15。",
+                "DE": "Operator-Wille +15.",
+                "EN": "Operator Will +15.",
+                "FR": "Volonté de l'opérateur +15.",
+                "ID": "Will Operator +15.",
+                "IT": "Volontà operatore +15.",
+                "JP": "意志が15アップする",
+                "KR": "오퍼레이터 의지 능력치 15 증가",
+                "MX": "Voluntad del operador +15.",
+                "RU": "Воля оперативника +15.",
+                "TC": "幹員意志能力值提升15。",
+                "TH": "ความมุ่งมั่น​ของ​โอเปอเรเตอร์​ +15",
+                "VN": "Ý Chí Cán Viên +15."
+              },
+              "favorability": 300,
+              "title": {
+                "BR": "Inabalável",
+                "CN": "守誓",
+                "DE": "Unerschütterlich",
+                "EN": "Stalwart",
+                "FR": "Pilier",
+                "ID": "Stalwart",
+                "IT": "Convinzione",
+                "JP": "守誓",
+                "KR": "맹세",
+                "MX": "Inquebrantable",
+                "RU": "Выдержка",
+                "TC": "守誓",
+                "TH": "ทรหดอดทน",
+                "VN": "Kiên Cường"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_5",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_passive_skill_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_passive_skill_0_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 1,
+              "iconId": "icon_talent_liino_01",
+              "index": 0,
+              "level": 1,
+              "name": {
+                "BR": "Zona da Ídolo",
+                "CN": "偶像领域",
+                "DE": "Idol-Zone",
+                "EN": "Idol Zone",
+                "FR": "Présence d'idole",
+                "ID": "Idol Zone",
+                "IT": "Zona idol",
+                "JP": "アイドルゾーン",
+                "KR": "아이돌 영역",
+                "MX": "Zona de ídolos",
+                "RU": "Зона айдола",
+                "TC": "偶像領域",
+                "TH": "โซน​ไอดอล",
+                "VN": "Khu Thần Tượng"
+              },
+              "talentEffectId": "chr_0035_liino_talent_1_1"
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2400,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_passive_skill_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_passive_skill_0_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 2,
+              "iconId": "icon_talent_liino_01",
+              "index": 0,
+              "level": 2,
+              "name": {
+                "BR": "Zona da Ídolo",
+                "CN": "偶像领域",
+                "DE": "Idol-Zone",
+                "EN": "Idol Zone",
+                "FR": "Présence d'idole",
+                "ID": "Idol Zone",
+                "IT": "Zona idol",
+                "JP": "アイドルゾーン",
+                "KR": "아이돌 영역",
+                "MX": "Zona de ídolos",
+                "RU": "Зона айдола",
+                "TC": "偶像領域",
+                "TH": "โซน​ไอดอล",
+                "VN": "Khu Thần Tượng"
+              },
+              "talentEffectId": "chr_0035_liino_talent_1_2"
+            },
+            "requiredItem": [
+              {
+                "count": 40,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 8600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0035_liino_passive_skill_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0035_liino_passive_skill_1_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 2,
+              "iconId": "icon_talent_liino_02",
+              "index": 1,
+              "level": 1,
+              "name": {
+                "BR": "Impulso Estelar de 1ª Grandeza",
+                "CN": "一等星的鼓舞",
+                "DE": "Sternen-Boost der ersten Güte",
+                "EN": "Starry Boost of 1st Magnitude",
+                "FR": "Super boost étoilé",
+                "ID": "Starry Boost of 1st Magnitude",
+                "IT": "Potenziamento stellato di magnitudine 1",
+                "JP": "一等星の応援",
+                "KR": "일등성의 격려",
+                "MX": "Impulso estelar de 1.ª magnitud",
+                "RU": "Звездное усиление первой величины",
+                "TC": "一等星的鼓舞",
+                "TH": "บู​ส​ต์​แห่ง​ดวงดาว​ระดับ​ 1",
+                "VN": "Tinh Quang Hạng Nhất"
+              },
+              "talentEffectId": "chr_0035_liino_talent_2_1"
+            },
+            "requiredItem": [
+              {
+                "count": 48,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 10000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0035_liino_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 1,
+              "index": 0,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0035_liino_0_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "weaponType": 5
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

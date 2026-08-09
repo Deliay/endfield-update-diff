@@ -1,0 +1,227 @@
+{
+  "tableName": "BattlePassTaskTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 7,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "bp_05_task_activity_4_2": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_4_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_4",
+        "jumpId": "jump_center_activity_racingdungeon_1",
+        "name": {
+          "BR": "Em [O Reino Enraizado], ganhe %d pontos de Jornada Enraizada",
+          "CN": "在「根脉奇境」中，获得%d根脉历程积分",
+          "DE": "Verdiene in [Das Geerdete Reich] %d „Geerdete Reise“-Punkte",
+          "EN": "In [The Rooted Realm], earn %d Rooted Journey points",
+          "FR": "Dans [Le royaume enraciné], gagner %d points de Voyage enraciné",
+          "ID": "Di [Buana Akar], dapatkan %d Poin Perjalanan Akar",
+          "IT": "Ottieni %d punti Viaggio radicato in [Il Regno radicato]",
+          "JP": "「根脈奇景」で遍歴ポイントを%d獲得する",
+          "KR": "[미지의 구역]에서 미지의 여정 점수 %d포인트 획득",
+          "MX": "En [El Reino Arraigado], obtén %d puntos de Viaje Arraigado",
+          "RU": "Заработайте в «Царстве корней» %d оч. путешествия «Путь к корням»",
+          "TC": "在「根脈奇境」中，獲得%d根脈歷程積分",
+          "TH": "ใน​ [ดินแดน​หยั่งราก​] รับ​คะแนน​การ​เดินทาง​หยั่งราก​ %d คะแนน",
+          "VN": "Trong [Vùng Đất Khởi Nguyên], nhận %d điểm Hành Trình Khởi Nguyên"
+        },
+        "opType": 1,
+        "sortId": 232,
+        "taskId": "bp_05_task_activity_4_2"
+      },
+      "bp_05_task_activity_5_2": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_task_activity_5_2"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_5",
+        "jumpId": "jump_center_activity_puzzle_1",
+        "name": {
+          "BR": "Em [Explorador do Enigmático], conclua %d Espaço(s) do Protocolo de Reino Artístico dos Seis Cardeais",
+          "CN": "在「密境行者」中，通关任意%d个六方巧境协议空间",
+          "DE": "Schließe in [Erforschung kryptischer Nachrichten] %d „Kunstvolles Reich der Sechs Kardinäle“-Protokoll-Dimension(en) ab.",
+          "EN": "In [Delver of the Cryptic], complete %d Artful Realm of Six Cardinals Protocol Space(s)",
+          "FR": "Dans [Exploration du mystère], terminer %d espace(s) de Protocole du royaume artistique des Six Cardinaux",
+          "ID": "Di [Penggali Teka-Teki], selesaikan %d Dimensi Protokol Dunia Seni Enam Kardinal",
+          "IT": "Completa %d spazio/i protocollare/i di Regno artistico dei sei cardinali in [Esplorazione del mistero]",
+          "JP": "「密境の探索者」で「六方密境」のステージを%d個クリアする",
+          "KR": "[숨겨진 구역의 여행자]에서 임의의 여섯 방향의 기묘한 구역 프로토콜 공간 %d개 완료",
+          "MX": "En [Explorador de lo críptico], completa %d Espacio(s) de protocolo de El ingenioso reino de los seis cardenales",
+          "RU": "Пройдите протокольные разломы «Обители шести искусных измерений» в «Исследовании загадок» %d р.",
+          "TC": "在「密境行者」中，通關任意%d個六方巧境協議空間",
+          "TH": "ใน​ [นัก​ขุดคุ้ย​เรื่องลึกลับ​] ผ่าน​พื้นที่​โปร​โต​คอล​แดน​ศิลป์​แห่ง​หก​ทิศ​ %d พื้นที่",
+          "VN": "Trong [Hành Giả Bí Ẩn], hoàn thành %d Không Gian Giao Thức Cõi Tinh Diệu Lục Phương"
+        },
+        "opType": 1,
+        "sortId": 235,
+        "taskId": "bp_05_task_activity_5_2"
+      },
+      "bp_05_task_activity_5_3": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_task_activity_5_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_5",
+        "jumpId": "jump_center_activity_puzzle_1",
+        "name": {
+          "BR": "Em [Explorador do Enigmático], conclua %d Espaço(s) do Protocolo de Reino Artístico dos Seis Cardeais",
+          "CN": "在「密境行者」中，通关任意%d个六方巧境协议空间",
+          "DE": "Schließe in [Erforschung kryptischer Nachrichten] %d „Kunstvolles Reich der Sechs Kardinäle“-Protokoll-Dimension(en) ab.",
+          "EN": "In [Delver of the Cryptic], complete %d Artful Realm of Six Cardinals Protocol Space(s)",
+          "FR": "Dans [Exploration du mystère], terminer %d espace(s) de Protocole du royaume artistique des Six Cardinaux",
+          "ID": "Di [Penggali Teka-Teki], selesaikan %d Dimensi Protokol Dunia Seni Enam Kardinal",
+          "IT": "Completa %d spazio/i protocollare/i di Regno artistico dei sei cardinali in [Esplorazione del mistero]",
+          "JP": "「密境の探索者」で「六方密境」のステージを%d個クリアする",
+          "KR": "[숨겨진 구역의 여행자]에서 임의의 여섯 방향의 기묘한 구역 프로토콜 공간 %d개 완료",
+          "MX": "En [Explorador de lo críptico], completa %d Espacio(s) de protocolo de El ingenioso reino de los seis cardenales",
+          "RU": "Пройдите протокольные разломы «Обители шести искусных измерений» в «Исследовании загадок» %d р.",
+          "TC": "在「密境行者」中，通關任意%d個六方巧境協議空間",
+          "TH": "ใน​ [นัก​ขุดคุ้ย​เรื่องลึกลับ​] ผ่าน​พื้นที่​โปร​โต​คอล​แดน​ศิลป์​แห่ง​หก​ทิศ​ %d พื้นที่",
+          "VN": "Trong [Hành Giả Bí Ẩn], hoàn thành %d Không Gian Giao Thức Cõi Tinh Diệu Lục Phương"
+        },
+        "opType": 1,
+        "sortId": 236,
+        "taskId": "bp_05_task_activity_5_3"
+      },
+      "bp_05_task_activity_5_1": {
+        "addexp": 2250,
+        "conditionIds": [
+          "bp_05_condition_task_activity_5_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_5",
+        "jumpId": "jump_center_activity_puzzle_1",
+        "name": {
+          "BR": "Em [Explorador do Enigmático], conclua %d Espaço(s) do Protocolo de Reino Artístico dos Seis Cardeais",
+          "CN": "在「密境行者」中，通关任意%d个六方巧境协议空间",
+          "DE": "Schließe in [Erforschung kryptischer Nachrichten] %d „Kunstvolles Reich der Sechs Kardinäle“-Protokoll-Dimension(en) ab.",
+          "EN": "In [Delver of the Cryptic], complete %d Artful Realm of Six Cardinals Protocol Space(s)",
+          "FR": "Dans [Exploration du mystère], terminer %d espace(s) de Protocole du royaume artistique des Six Cardinaux",
+          "ID": "Di [Penggali Teka-Teki], selesaikan %d Dimensi Protokol Dunia Seni Enam Kardinal",
+          "IT": "Completa %d spazio/i protocollare/i di Regno artistico dei sei cardinali in [Esplorazione del mistero]",
+          "JP": "「密境の探索者」で「六方密境」のステージを%d個クリアする",
+          "KR": "[숨겨진 구역의 여행자]에서 임의의 여섯 방향의 기묘한 구역 프로토콜 공간 %d개 완료",
+          "MX": "En [Explorador de lo críptico], completa %d Espacio(s) de protocolo de El ingenioso reino de los seis cardenales",
+          "RU": "Пройдите протокольные разломы «Обители шести искусных измерений» в «Исследовании загадок» %d р.",
+          "TC": "在「密境行者」中，通關任意%d個六方巧境協議空間",
+          "TH": "ใน​ [นัก​ขุดคุ้ย​เรื่องลึกลับ​] ผ่าน​พื้นที่​โปร​โต​คอล​แดน​ศิลป์​แห่ง​หก​ทิศ​ %d พื้นที่",
+          "VN": "Trong [Hành Giả Bí Ẩn], hoàn thành %d Không Gian Giao Thức Cõi Tinh Diệu Lục Phương"
+        },
+        "opType": 1,
+        "sortId": 234,
+        "taskId": "bp_05_task_activity_5_1"
+      },
+      "bp_05_task_season_1_3": {
+        "addexp": 3500,
+        "conditionIds": [
+          "bp_05_condition_season_1_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "",
+        "formatType": false,
+        "groupId": "bp_05_taskgroup_season",
+        "jumpId": "jump_mission_activity_CharacterGuide_liino",
+        "name": {
+          "BR": "Conclua a missão secundária [Como uma Estrela Riscando as Fronteiras]",
+          "CN": "完成支线任务「如同流星飞越边界」",
+          "DE": "Schließe die Nebenmission [Wie ein Stern ohne Grenzen] ab.",
+          "EN": "Complete the side mission [Like a Star Streaking Through the Boundaries]",
+          "FR": "Terminer la mission annexe [Telle une étoile qui file par-delà les frontières]",
+          "ID": "Selesaikan misi sampingan [Bagaikan Bintang Melesat Menembus Batas]",
+          "IT": "Completa la missione secondaria \"Like a Star Streaking Through the Boundaries\"",
+          "JP": "サブ任務「Like a Shooting Star」を完了する",
+          "KR": "서브 임무 [경계를 넘어가는 유성] 완료",
+          "MX": "Completa la misión secundaria [Como una estrella que atraviesa las fronteras]",
+          "RU": "Завершите побочную миссию «Словно звезда, пронзающая границы»",
+          "TC": "完成支線任務「如同流星飛越邊界」",
+          "TH": "ทำ​ภารกิจ​เสริม​ [ดั่ง​ดวงดาว​ที่​โบยบิน​ข้ามพรมแดน​] ให้​สำเร็จ",
+          "VN": "Hoàn thành nhiệm vụ phụ [Như Ánh Sao Băng Qua Ranh Giới]"
+        },
+        "opType": 1,
+        "sortId": 203,
+        "taskId": "bp_05_task_season_1_3"
+      },
+      "bp_05_task_activity_4_3": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_4_3"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_4",
+        "jumpId": "jump_center_activity_racingdungeon_1",
+        "name": {
+          "BR": "Em [O Reino Enraizado], ganhe %d pontos de Jornada Enraizada",
+          "CN": "在「根脉奇境」中，获得%d根脉历程积分",
+          "DE": "Verdiene in [Das Geerdete Reich] %d „Geerdete Reise“-Punkte",
+          "EN": "In [The Rooted Realm], earn %d Rooted Journey points",
+          "FR": "Dans [Le royaume enraciné], gagner %d points de Voyage enraciné",
+          "ID": "Di [Buana Akar], dapatkan %d Poin Perjalanan Akar",
+          "IT": "Ottieni %d punti Viaggio radicato in [Il Regno radicato]",
+          "JP": "「根脈奇景」で遍歴ポイントを%d獲得する",
+          "KR": "[미지의 구역]에서 미지의 여정 점수 %d포인트 획득",
+          "MX": "En [El Reino Arraigado], obtén %d puntos de Viaje Arraigado",
+          "RU": "Заработайте в «Царстве корней» %d оч. путешествия «Путь к корням»",
+          "TC": "在「根脈奇境」中，獲得%d根脈歷程積分",
+          "TH": "ใน​ [ดินแดน​หยั่งราก​] รับ​คะแนน​การ​เดินทาง​หยั่งราก​ %d คะแนน",
+          "VN": "Trong [Vùng Đất Khởi Nguyên], nhận %d điểm Hành Trình Khởi Nguyên"
+        },
+        "opType": 1,
+        "sortId": 233,
+        "taskId": "bp_05_task_activity_4_3"
+      },
+      "bp_05_task_activity_4_1": {
+        "addexp": 3000,
+        "conditionIds": [
+          "bp_05_condition_task_activity_4_1"
+        ],
+        "defaultEnable": false,
+        "forecastTipId": "forecasttip_activity_common",
+        "formatType": true,
+        "groupId": "bp_05_taskgroup_activity_4",
+        "jumpId": "jump_center_activity_racingdungeon_1",
+        "name": {
+          "BR": "Em [O Reino Enraizado], ganhe %d pontos de Jornada Enraizada",
+          "CN": "在「根脉奇境」中，获得%d根脉历程积分",
+          "DE": "Verdiene in [Das Geerdete Reich] %d „Geerdete Reise“-Punkte",
+          "EN": "In [The Rooted Realm], earn %d Rooted Journey points",
+          "FR": "Dans [Le royaume enraciné], gagner %d points de Voyage enraciné",
+          "ID": "Di [Buana Akar], dapatkan %d Poin Perjalanan Akar",
+          "IT": "Ottieni %d punti Viaggio radicato in [Il Regno radicato]",
+          "JP": "「根脈奇景」で遍歴ポイントを%d獲得する",
+          "KR": "[미지의 구역]에서 미지의 여정 점수 %d포인트 획득",
+          "MX": "En [El Reino Arraigado], obtén %d puntos de Viaje Arraigado",
+          "RU": "Заработайте в «Царстве корней» %d оч. путешествия «Путь к корням»",
+          "TC": "在「根脈奇境」中，獲得%d根脈歷程積分",
+          "TH": "ใน​ [ดินแดน​หยั่งราก​] รับ​คะแนน​การ​เดินทาง​หยั่งราก​ %d คะแนน",
+          "VN": "Trong [Vùng Đất Khởi Nguyên], nhận %d điểm Hành Trình Khởi Nguyên"
+        },
+        "opType": 1,
+        "sortId": 231,
+        "taskId": "bp_05_task_activity_4_1"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

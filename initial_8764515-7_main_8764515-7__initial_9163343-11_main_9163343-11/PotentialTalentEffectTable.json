@@ -1,0 +1,1582 @@
+{
+  "tableName": "PotentialTalentEffectTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 9,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0035_liino_talent_1_2": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "talent_a",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter",
+              "floatValue": -0.2,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "healtaken_rate",
+              "floatValue": 0.2,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter_duration",
+              "floatValue": 3,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "talent_a",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter",
+              "floatValue": -0.2,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "healtaken_rate",
+              "floatValue": 0.2,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter_duration",
+              "floatValue": 3,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Durante a <@ba.key>Postura da Vocalista</> ou a <@ba.key>Postura Voz Cósmica</>, os operadores na área de efeito (ADE) ganham Bônus de Tratamento Recebido <@ba.vup>+ {healtaken_rate:0%}</> e DNO Recebido <@ba.vup>{shelter:0%}</>. Esses efeitos persistem por {shelter_duration:0} s após saírem da ADE.",
+          "CN": "<@ba.key>演唱姿态</>和<@ba.key>高歌姿态</>持续期间，范围内的干员受治疗加成<@ba.vup>+{healtaken_rate:0%}</>，受到的伤害<@ba.vup>{shelter:0%}</>, 离开范围后该效果持续{shelter_duration:0}秒。",
+          "DE": "Befindest du dich in der <@ba.key>Vokalist-Haltung</> oder der <@ba.key>„Stimme des Kosmos“-Haltung</>, erhalten Operatoren im Wirkungsbereich einen Bonus für Erhaltene Behandlung <@ba.vup>+{healtaken_rate:0%}</> und Erlittener SDN <@ba.vup>{shelter:0%}</>. Diese Effekte bleiben nach Verlassen des Wirkungsbereichs {shelter_duration:0} Sek. lang bestehen.",
+          "EN": "During <@ba.key>Vocalist Stance</> or <@ba.key>Cosmovoice Stance</>, operators within the area of effect (AOE) gain Treatment Received Bonus <@ba.vup>+{healtaken_rate:0%}</> and DMG Taken <@ba.vup>{shelter:0%}</>. These effects persist for {shelter_duration:0}s after leaving the AOE.",
+          "FR": "Lorsque la <@ba.key>posture Chanteuse</> ou la <@ba.key>posture Cosmovoix</> est activée, les opérateurs dans la zone d'effet obtiennent un bonus de soins reçus de <@ba.vup>{healtaken_rate:0%}</> et les DÉG subis augmentent de <@ba.vup>{shelter:0%}</>. Ces effets perdurent pendant {shelter_duration:0} s après avoir quitté la zone d'effet.",
+          "ID": "Selama <@ba.key>Vocalist Stance</> atau <@ba.key>Cosmovoice Stance</>, operator di dalam area efek (AOE) akan mendapatkan Bonus Treatment yang Diterima <@ba.vup>+{healtaken_rate:0%}</> dan DMG Taken <@ba.vup>{shelter:0%}</>. Efek ini bertahan selama {shelter_duration:0} dtk setelah keluar dari AOE.",
+          "IT": "Durante la <@ba.key>Posa da cantante</> o la <@ba.key>Posa cosmovoce</>, gli operatori nel raggio d'azione ottengono <@ba.vup>+{healtaken_rate:0%}</> di bonus Cura ricevuta e <@ba.vup>{shelter:0%}</> di danni subiti. Questi effetti durano per {shelter_duration:0} s dopo aver lasciato il raggio d'azione.",
+          "JP": "<@ba.key>ライブモード</>と<@ba.key>パフォーマンスモード</>の持続中、範囲内のオペレーターが受ける回復効率<@ba.vup>+{healtaken_rate:0%}</>、受けるダメージ<@ba.vup>{shelter:0%}</>\nこの効果は範囲を離れてからも{shelter_duration:0}秒間持続する",
+          "KR": "<@ba.key>라이브 모드</> 및 <@ba.key>보컬 모드</> 지속 시간 동안, 범위 내 오퍼레이터가 받는 치유량 보너스 <@ba.vup>+{healtaken_rate:0%}</>, 받는 피해 <@ba.vup>{shelter:0%}</>. 범위를 벗어난 후에도 해당 효과는 {shelter_duration:0}초 동안 지속됩니다.",
+          "MX": "Durante <@ba.key>Postura de vocalista</> o <@ba.key>Postura de cosmovoz</>, los operadores dentro del área de efecto (ADE) obtienen Bonificación de tratamiento recibido <@ba.vup>+{healtaken_rate:0%}</> y DAÑ recibido <@ba.vup>{shelter:0%}</>. Estos efectos permanecen durante {shelter_duration:0} s después de salir del ADE.",
+          "RU": "Во время действия <@ba.key>Стойки певицы</> или <@ba.key>Стойки космоголоса</> оперативники в области действия получают <@ba.vup>{healtaken_rate:0%}</> к бонусу получаемого лечения и <@ba.vup>{shelter:0%}</> получаемого УРН. Эффекты сохраняются в течение {shelter_duration:0} сек. после выхода из области действия.",
+          "TC": "<@ba.key>演唱姿態</>和<@ba.key>高歌姿態</>持續期間，範圍內的幹員受治療加成<@ba.vup>+{healtaken_rate:0%}</>，受到的傷害<@ba.vup>{shelter:0%}</>，離開範圍後該效果持續{shelter_duration:0}秒。",
+          "TH": "ระหว่าง​ <@ba.key>​ท่า​เตรียม​นักร้อง​</> หรือ​ <@ba.key>​ท่า​เตรียม​เสียง​คอส​โม​</> โอเปอเรเตอร์​ภายใน​พื้นที่​ส่งผล​ จะ​ได้รับ​โบนัส​การรักษา​ที่​ได้รับ​ <@ba.vup>+{healtaken_rate:0%}</> และ​ DMG ที่​ได้รับ​ <@ba.vup>{shelter:0%}</> ผล​ของ​เอฟเฟกต์​จะ​คงอยู่​ {shelter_duration:0} วินาที​หลังจาก​ออกจาก​พื้นที่​เอฟเฟกต์",
+          "VN": "Trong thời gian duy trì <@ba.key>Tư Thế Ca Sĩ</> hoặc <@ba.key>Tư Thế Giọng Ca Vũ Trụ</>, cán viên trong khu vực ảnh hưởng nhận Thưởng Nhận Điều Trị <@ba.vup>+{healtaken_rate:0%}</> và <@ba.vup>{shelter:0%}</> ST Gánh Chịu. Các hiệu ứng này duy trì trong {shelter_duration:0} giây sau khi rời khỏi khu vực ảnh hưởng."
+        },
+        "id": "chr_0035_liino_talent_1_2"
+      },
+      "chr_0035_liino_potential_4": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 2,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 2,
+              "paramType": 1,
+              "paramValue": 0.85,
+              "skillId": "chr_0035_liino_ultimate_skill"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Habilidade suprema <@ba.key>Show da Estrela do Alvorecer</> aprimorada: custo de Energia Suprema <@ba.vup>- {1-costvalue:0%}</>.",
+          "CN": "终结技<@ba.key>晨星的协奏曲</>所需的终结技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "DE": "Ultimative Fertigkeit <@ba.key>Morgenstern-Concerto</> verbessert: Ultimative Energiekosten <@ba.vup>-{1-costvalue:0%}</>.",
+          "EN": "Ultimate <@ba.key>Dawnstar Concerto</> improved: Ultimate Energy cost <@ba.vup>-{1-costvalue:0%}</>.",
+          "FR": "Amélioration de l'ultime <@ba.key>Concerto de l'étoile du matin</> : coût en énergie d'ultime <@ba.vup>-{1-costvalue:0%}</>.",
+          "ID": "Ultimate <@ba.key>Dawnstar Concerto</> meningkat: Biaya Energi Ultimate <@ba.vup>-{1-costvalue:0%}</>.",
+          "IT": "Abilità suprema <@ba.key>Concerto della stella del mattino</> migliorata: <@ba.vup>-{1-costvalue:0%}</> al costo di energia suprema.",
+          "JP": "必殺技<@ba.key>「綺羅星コンチェルト」</>に必要な必殺チャージ<@ba.vup>-{1-costvalue:0%}</>",
+          "KR": "궁극기 <@ba.key>샛별의 협주곡</>의 사용에 필요한 궁극기 에너지 <@ba.vup>-{1-costvalue:0%}</>",
+          "MX": "Máxima <@ba.key>Concierto de Estrella del amanecer</> mejorada: costo de Energía máxima <@ba.vup>-{1-costvalue:0%}</>.",
+          "RU": "Улучшает супернавык <@ba.key>Концерт утренней звезды</>: расход суперэнергии <@ba.vup>-{1-costvalue:0%}</>.",
+          "TC": "終結技<@ba.key>晨星的協奏曲</>所需的終結技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "TH": "อัล​ติ​เมท​ <@ba.key>​คอน​เซอร์​โต​ดารา​พรายแสง​</> ได้รับ​การ​เสริม​ประสิทธิภาพ​: การ​ใช้​พลังงาน​อัล​ติ​เมท​ <@ba.vup>-{1-costvalue:0%}</>",
+          "VN": "Tuyệt Kỹ <@ba.key>Hòa Tấu Sao Mai</> được cường hóa: Tiêu hao Năng Lượng Tuyệt Kỹ <@ba.vup>-{1-costvalue:0%}</>."
+        },
+        "id": "chr_0035_liino_potential_4"
+      },
+      "chr_0035_liino_talent_2_1": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "talent_b",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atb_return",
+              "floatValue": 5,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atb_return_duration",
+              "floatValue": 30,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Por {atb_return_duration:0} s após a conjuração do combo de habilidades de Liino <@ba.key>Harmonia Encantadora</>, conjurar uma habilidade de batalha de um operador <@ba.pulse>Elétrico</> ou da <@ba.natur>Natureza</> <#ba.return>devolve</> <@ba.vup>{atb_return:0}</> de PH. Este efeito não pode se acumular e termina após ser acionado.",
+          "CN": "施放连携技<@ba.key>悦心音调</>后，队伍中<@ba.pulse>电磁</>或<@ba.natur>自然</>属性的干员下次施放战技时，<#ba.return>返还</><@ba.vup>{atb_return:0}</>技力。该效果持续{atb_return_duration:0}秒，无法叠加，触发后效果结束。",
+          "DE": "Nach dem Wirken von Liinos Kombofertigkeit wird <@ba.key>Entzückende Schwingungen</> für {atb_return_duration:0} Sek. aktiviert. Wirkt ein <@ba.pulse>Elektrik</>- oder <@ba.natur>Natur</>-Operator während dieser Zeit eine Kampffertigkeit, werden <@ba.vup>{atb_return:0}</> FP <#ba.return>wiederhergestellt</>. Dieser Effekt kann nicht kumuliert werden und endet nach dem Auslösen.",
+          "EN": "For {atb_return_duration:0}s after casting Liino's combo skill <@ba.key>Delightful Harmonics</>, casting a battle skill of an <@ba.pulse>Electric</> or <@ba.natur>Nature</> operator <#ba.return>returns</> <@ba.vup>{atb_return:0}</> SP. This effect cannot stack and ends after triggering.",
+          "FR": "Pendant {atb_return_duration:0} s après avoir lancé la compétence de combo <@ba.key>Harmonie ravissante</> de Liino, utiliser la compétence de combat d'un opérateur <@ba.pulse>électrique</> ou <@ba.natur>naturel</> <#ba.return>restitue</> <@ba.vup>{atb_return:0}</> PC. L'effet ne peut pas être cumulé et se termine dès qu'il est déclenché.",
+          "ID": "Selama {atb_return_duration:0} dtk setelah menggunakan skill kombo Liino, <@ba.key>Delightful Harmonics</>, penggunaan skill tarung milik operator berelemen <@ba.pulse>Electric</> atau <@ba.natur>Nature</> akan <#ba.return>mengembalikan</> <@ba.vup>{atb_return:0}</> SP. Efek ini tidak bisa ditumpuk dan akan berakhir setelah diaktifkan.",
+          "IT": "Per {atb_return_duration:0} s dopo aver usato l'abilità combo di Liino <@ba.key>Incantevole armonia</>, lanciare un'abilità di combattimento di un operatore di tipo <@ba.pulse>elettricità</> o <@ba.natur>natura</> <#ba.return>restituisce</> <@ba.vup>{atb_return:0}</> PA. Questo effetto non si accumula e termina dopo l'attivazione.",
+          "JP": "連携技<@ba.key>「ときめきメロディー」</>を発動すると、チーム内の<@ba.pulse>電磁</>または<@ba.natur>自然</>属性のオペレーターが次の戦技を発動するとき、SPが<@ba.vup>{atb_return:0}</><#ba.return>返還</>される\nこの効果は{atb_return_duration:0}秒持続し、発動すると効果は終了する（重ね掛け不可）",
+          "KR": "연계 스킬 <@ba.key>기쁨의 멜로디</> 사용 후, 팀 내 <@ba.pulse>전기</> 또는 <@ba.natur>자연</> 속성 오퍼레이터가 다음 배틀 스킬을 사용할 시 <@ba.vup>{atb_return:0}</> 스킬 게이지를 <#ba.return>반환</>합니다. 해당 효과는 {atb_return_duration:0}초간 지속, 중첩되지 않으며, 발동 후 효과가 종료됩니다.",
+          "MX": "Durante {atb_return_duration:0} s después de lanzar la habilidad de combo de Liino <@ba.key>Armónicos deleitables</>, lanzar una habilidad de batalla de un operador <@ba.pulse>Eléctrico</> o de <@ba.natur>Naturaleza</> <#ba.return>devuelve</> <@ba.vup>{atb_return:0}</> PH. Este efecto no puede acumularse y termina tras activarse.",
+          "RU": "В течение {atb_return_duration:0} сек. после применения комбонавыка Лиино <@ba.key>Дивные ритмы</> использование <@ba.pulse>электрического</> или <@ba.natur>природного</> боевого навыка <#ba.return>восстанавливает</> <@ba.vup>{atb_return:0}</> ОН. Эффект не суммируется и заканчивается после активации.",
+          "TC": "施放連攜技<@ba.key>悅心音調</>後，隊伍中<@ba.pulse>電磁</>或<@ba.natur>自然</>屬性的幹員下次施放戰技時，<#ba.return>返還</><@ba.vup>{atb_return:0}</>技力。該效果持續{atb_return_duration:0}秒，無法疊加，觸發後效果結束。",
+          "TH": "เป็นเวลา​ {atb_return_duration:0} วินาที​หลังจาก​หลี​นั่​ว​ใช้​ทักษะ​คอม​โบ​ <@ba.key>​ฮาร์​โม​นี​แสน​รื่นรมย์​</> หาก​ใช้​ทักษะ​การต่อสู้​ของ​โอเปอเรเตอร์​ธาตุ​<@ba.pulse>​ไฟฟ้า​</>​หรือ​<@ba.natur>​ธรรมชาติ​</> จะ​<#ba.return>​คืน​</> SP <@ba.vup>{atb_return:0}</> หน่วย​ เอฟเฟกต์​นี้​ไม่​สามารถ​ซ้อนทับ​ได้​ และ​สิ้นสุด​หลังจาก​เปิด​ใช้งาน",
+          "VN": "Trong {atb_return_duration:0} giây sau khi thi triển KN liên hoàn <@ba.key>Hòa Âm Vui Tươi</> của Liino, thi triển KN chiến đấu của cán viên hệ <@ba.pulse>Điện</> hoặc <@ba.natur>Tự Nhiên</> sẽ <#ba.return>hoàn trả</> <@ba.vup>{atb_return:0}</> Điểm Kỹ Năng. Hiệu ứng này không cộng dồn và sẽ kết thúc sau khi kích hoạt."
+        },
+        "id": "chr_0035_liino_talent_2_1"
+      },
+      "chr_0035_liino_talent_2_2": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "talent_b",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atb_return",
+              "floatValue": 10,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atb_return_duration",
+              "floatValue": 30,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Por {atb_return_duration:0} s após a conjuração do combo de habilidades de Liino <@ba.key>Harmonia Encantadora</>, conjurar uma habilidade de batalha de um operador <@ba.pulse>Elétrico</> ou da <@ba.natur>Natureza</> <#ba.return>devolve</> <@ba.vup>{atb_return:0}</> de PH. Este efeito não pode se acumular e termina após ser acionado.",
+          "CN": "施放连携技<@ba.key>悦心音调</>后，队伍中<@ba.pulse>电磁</>或<@ba.natur>自然</>属性的干员下次施放战技时，<#ba.return>返还</><@ba.vup>{atb_return:0}</>技力。该效果持续{atb_return_duration:0}秒，无法叠加，触发后效果结束。",
+          "DE": "Nach dem Wirken von Liinos Kombofertigkeit wird <@ba.key>Entzückende Schwingungen</> für {atb_return_duration:0} Sek. aktiviert. Wirkt ein <@ba.pulse>Elektrik</>- oder <@ba.natur>Natur</>-Operator während dieser Zeit eine Kampffertigkeit, werden <@ba.vup>{atb_return:0}</> FP <#ba.return>wiederhergestellt</>. Dieser Effekt kann nicht kumuliert werden und endet nach dem Auslösen.",
+          "EN": "For {atb_return_duration:0}s after casting Liino's combo skill <@ba.key>Delightful Harmonics</>, casting a battle skill of an <@ba.pulse>Electric</> or <@ba.natur>Nature</> operator <#ba.return>returns</> <@ba.vup>{atb_return:0}</> SP. This effect cannot stack and ends after triggering.",
+          "FR": "Pendant {atb_return_duration:0} s après avoir lancé la compétence de combo <@ba.key>Harmonie ravissante</> de Liino, utiliser la compétence de combat d'un opérateur <@ba.pulse>électrique</> ou <@ba.natur>naturel</> <#ba.return>restitue</> <@ba.vup>{atb_return:0}</> PC. L'effet ne peut pas être cumulé et se termine dès qu'il est déclenché.",
+          "ID": "Selama {atb_return_duration:0} dtk setelah menggunakan skill kombo Liino, <@ba.key>Delightful Harmonics</>, penggunaan skill tarung milik operator berelemen <@ba.pulse>Electric</> atau <@ba.natur>Nature</> akan <#ba.return>mengembalikan</> <@ba.vup>{atb_return:0}</> SP. Efek ini tidak bisa ditumpuk dan akan berakhir setelah diaktifkan.",
+          "IT": "Per {atb_return_duration:0} s dopo aver usato l'abilità combo di Liino <@ba.key>Incantevole armonia</>, lanciare un'abilità di combattimento di un operatore di tipo <@ba.pulse>elettricità</> o <@ba.natur>natura</> <#ba.return>restituisce</> <@ba.vup>{atb_return:0}</> PA. Questo effetto non si accumula e termina dopo l'attivazione.",
+          "JP": "連携技<@ba.key>「ときめきメロディー」</>を発動すると、チーム内の<@ba.pulse>電磁</>または<@ba.natur>自然</>属性のオペレーターが次の戦技を発動するとき、SPが<@ba.vup>{atb_return:0}</><#ba.return>返還</>される\nこの効果は{atb_return_duration:0}秒持続し、発動すると効果は終了する（重ね掛け不可）",
+          "KR": "연계 스킬 <@ba.key>기쁨의 멜로디</> 사용 후, 팀 내 <@ba.pulse>전기</> 또는 <@ba.natur>자연</> 속성 오퍼레이터가 다음 배틀 스킬을 사용할 시 <@ba.vup>{atb_return:0}</> 스킬 게이지를 <#ba.return>반환</>합니다. 해당 효과는 {atb_return_duration:0}초간 지속, 중첩되지 않으며, 발동 후 효과가 종료됩니다.",
+          "MX": "Durante {atb_return_duration:0} s después de lanzar la habilidad de combo de Liino <@ba.key>Armónicos deleitables</>, lanzar una habilidad de batalla de un operador <@ba.pulse>Eléctrico</> o de <@ba.natur>Naturaleza</> <#ba.return>devuelve</> <@ba.vup>{atb_return:0}</> PH. Este efecto no puede acumularse y termina tras activarse.",
+          "RU": "В течение {atb_return_duration:0} сек. после применения комбонавыка Лиино <@ba.key>Дивные ритмы</> использование <@ba.pulse>электрического</> или <@ba.natur>природного</> боевого навыка <#ba.return>восстанавливает</> <@ba.vup>{atb_return:0}</> ОН. Эффект не суммируется и заканчивается после активации.",
+          "TC": "施放連攜技<@ba.key>悅心音調</>後，隊伍中<@ba.pulse>電磁</>或<@ba.natur>自然</>屬性的幹員下次施放戰技時，<#ba.return>返還</><@ba.vup>{atb_return:0}</>技力。該效果持續{atb_return_duration:0}秒，無法疊加，觸發後效果結束。",
+          "TH": "เป็นเวลา​ {atb_return_duration:0} วินาที​หลังจาก​หลี​นั่​ว​ใช้​ทักษะ​คอม​โบ​ <@ba.key>​ฮาร์​โม​นี​แสน​รื่นรมย์​</> หาก​ใช้​ทักษะ​การต่อสู้​ของ​โอเปอเรเตอร์​ธาตุ​<@ba.pulse>​ไฟฟ้า​</>​หรือ​<@ba.natur>​ธรรมชาติ​</> จะ​<#ba.return>​คืน​</> SP <@ba.vup>{atb_return:0}</> หน่วย​ เอฟเฟกต์​นี้​ไม่​สามารถ​ซ้อนทับ​ได้​ และ​สิ้นสุด​หลังจาก​เปิด​ใช้งาน",
+          "VN": "Trong {atb_return_duration:0} giây sau khi thi triển KN liên hoàn <@ba.key>Hòa Âm Vui Tươi</> của Liino, thi triển KN chiến đấu của cán viên hệ <@ba.pulse>Điện</> hoặc <@ba.natur>Tự Nhiên</> sẽ <#ba.return>hoàn trả</> <@ba.vup>{atb_return:0}</> Điểm Kỹ Năng. Hiệu ứng này không cộng dồn và sẽ kết thúc sau khi kích hoạt."
+        },
+        "id": "chr_0035_liino_talent_2_2"
+      },
+      "chr_0035_liino_potential_2": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 42,
+              "attrValue": 20,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 4,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 29,
+              "attrValue": 0.1,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 4,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Vontade <@ba.vup>+ {Will:0}</>, Eficiência do Tratamento <@ba.vup>+ {HealOutputIncrease:0%}</>.",
+          "CN": "意志<@ba.vup>+{Will:0}</>，治疗效率<@ba.vup>+{HealOutputIncrease:0%}</>。",
+          "DE": "Wille <@ba.vup>+{Will:0}</>, Behandlungseffizienz <@ba.vup>+{HealOutputIncrease:0%}</>.",
+          "EN": "Will <@ba.vup>+{Will:0}</>, Treatment Efficiency <@ba.vup>+{HealOutputIncrease:0%}</>.",
+          "FR": "Volonté <@ba.vup>+{Will:0}</>, efficacité des soins <@ba.vup>+{HealOutputIncrease:0%}</>.",
+          "ID": "Will <@ba.vup>+{Will:0}</>, Efisiensi Treatment <@ba.vup>+{HealOutputIncrease:0%}</>.",
+          "IT": "Volontà <@ba.vup>+{Will:0}</>, <@ba.vup>+{HealOutputIncrease:0%} di efficacia della Cura</>.",
+          "JP": "意志<@ba.vup>+{Will:0}</>、回復効率<@ba.vup>+{HealOutputIncrease:0%}</>",
+          "KR": "의지 <@ba.vup>+{Will:0}</>, 치유 효율 <@ba.vup>+{HealOutputIncrease:0%}</>.",
+          "MX": "Voluntad <@ba.vup>+{Will:0}</>, Eficiencia del tratamiento <@ba.vup>+{HealOutputIncrease:0%}</>.",
+          "RU": "Воля <@ba.vup>+{Will:0}</>, эффективность лечения <@ba.vup>+{HealOutputIncrease:0%}</>.",
+          "TC": "意志<@ba.vup>+{Will:0}</>，治療效率<@ba.vup>+{HealOutputIncrease:0%}</>。",
+          "TH": "ความมุ่งมั่น​ <@ba.vup>+{Will:0}</> ประสิทธิภาพ​การรักษา​เพิ่มขึ้น​ <@ba.vup>+{HealOutputIncrease:0%}</>",
+          "VN": "Ý Chí <@ba.vup>+{Will:0}</>, Hiệu Quả Điều Trị <@ba.vup>+{HealOutputIncrease:0%}</>."
+        },
+        "id": "chr_0035_liino_potential_2"
+      },
+      "chr_0035_liino_potential_1": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": "buff_chr_0035_liino_potential"
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 5,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_atb_return",
+              "floatValue": 25,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_up",
+              "floatValue": 0.06,
+              "modifyType": 1,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_up",
+              "floatValue": 0.06,
+              "modifyType": 1,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Após entrar em batalha sem sua <@ba.key>Postura da Vocalista</> ativa, a primeira conjuração da habilidade de batalha <@ba.key>Foco Deslumbrante</> <#ba.return>devolve</> <@ba.vup>{potential_atb_return:0}</> de PH adicional. \nOs efeitos da Potencialização ATQ concedidos pela <@ba.key>Postura da Vocalista</> e pela <@ba.key>Postura Voz Cósmica</> são aumentados em <@ba.vup>+ {atk_up:0%}</>.",
+          "CN": "不处于<@ba.key>演唱姿态</>进入战斗后，首次施放战技<@ba.key>闪耀焦点</>，额外<#ba.return>返还</><@ba.vup>{potential_atb_return:0}</>点技力。\n<@ba.key>演唱姿态</>和<@ba.key>高歌姿态</>的攻击力提升效果额外<@ba.vup>+{atk_up:0%}</>。\n",
+          "DE": "Wird nach dem Kampfbeginn das erste Mal die Kampffertigkeit <@ba.key>Extremer Fokus</> gewirkt, ohne dass ihre <@ba.key>Vokalist-Haltung</> aktiv ist, werden <@ba.vup>{potential_atb_return:0}</> zusätzliche FP <#ba.return>wiederhergestellt</>. \nDie Effekte des durch die <@ba.key>Vokalist-Haltung</> und die <@ba.key>„Stimme des Kosmos“-Haltung</> gewährten ANG-Boosts werden um <@ba.vup>+{atk_up:0%}</> erhöht.",
+          "EN": "After entering battle without her <@ba.key>Vocalist Stance</> active, the first casting of the battle skill <@ba.key>Dazzling Focus</> <#ba.return>returns</> <@ba.vup>{potential_atb_return:0}</> additional SP. \nEffects of ATK Boost granted by <@ba.key>Vocalist Stance</> and <@ba.key>Cosmovoice Stance</> are increased by <@ba.vup>+{atk_up:0%}</>.",
+          "FR": "Une fois le combat commencé, si la <@ba.key>posture Chanteuse</> n'est pas active, la première utilisation de la compétence de combat <@ba.key>Concentration fulgurante</> <#ba.return>restitue</> <@ba.vup>{potential_atb_return:0}</> PC supplémentaires. \nLes effets du bonus d'ATQ octroyé par la <@ba.key>posture Chanteuse</> et la <@ba.key>posture Cosmovoix</> augmentent de <@ba.vup>{atk_up:0%}</>.",
+          "ID": "Setelah memasuki pertarungan dan kondisi <@ba.key>Vocalist Stance</> miliknya tidak aktif, penggunaan pertama skill tarung <@ba.key>Dazzling Focus</> akan <#ba.return>mengembalikan</> <@ba.vup>{potential_atb_return:0}</> SP lagi. \nEfek ATK Boost yang diberikan oleh <@ba.key>Vocalist Stance</> dan <@ba.key>Cosmovoice Stance</> meningkat sebesar <@ba.vup>+{atk_up:0%}</>.",
+          "IT": "Dopo l'ingresso in battaglia senza la sua <@ba.key>Posa da cantante</> attiva, il primo lancio dell'abilità di combattimento <@ba.key>Concentrazione abbagliante</> <#ba.return>restituisce</> <@ba.vup>{potential_atb_return:0}</> PA aggiuntivi. \nGli effetti del potenziamento dell'ATT fornito da <@ba.key>Posa da cantante</> e da <@ba.key>Posa cosmovoce</> sono aumentati di una percentuale pari a <@ba.vup>+{atk_up:0%}</>.",
+          "JP": "戦闘開始時に<@ba.key>ライブモード</>でない場合、初めて戦技<@ba.key>「キラキラフォーカス」</>を発動すると、追加でSPが<@ba.vup>{potential_atb_return:0}</><#ba.return>返還</>される\n<@ba.key>ライブモード</>と<@ba.key>パフォーマンスモード</>の攻撃力UP効果がさらに<@ba.vup>+{atk_up:0%}</>",
+          "KR": "<@ba.key>라이브 모드</>가 아닌 상태로 전투에 진입한 후, 처음으로 배틀 스킬 <@ba.key>스포트라이트</>를 사용하면 추가로 스킬 게이지 <@ba.vup>{potential_atb_return:0}</>포인트를 <#ba.return>반환</>합니다.\n<@ba.key>라이브 모드</> 및 <@ba.key>보컬 모드</>의 공격력 증가 효과 추가 <@ba.vup>+{atk_up:0%}</>",
+          "MX": "Tras entrar en combate sin su <@ba.key>Postura de vocalista</> activa, el primer lanzamiento de la habilidad de batalla <@ba.key>Enfoque deslumbrante</> <#ba.return>devuelve</> <@ba.vup>{potential_atb_return:0}</> PH adicionales. \nLos efectos de Refuerzo de ATQ otorgados por <@ba.key>Postura de vocalista</> y <@ba.key>Postura de cosmovoz</> aumentan en <@ba.vup>+{atk_up:0%}</>.",
+          "RU": "После вступления в бой без <@ba.key>Стойки певицы</> первое применение боевого навыка <@ba.key>Ослепительная фокусировка</> <#ba.return>восстанавливает</> дополнительно <@ba.vup>{potential_atb_return:0}</> ОН. \nЭффекты увеличения АТК от <@ba.key>Стойки певицы</> и <@ba.key>Стойки космоголоса</> <@ba.vup>+{atk_up:0%}</>.",
+          "TC": "不處於<@ba.key>演唱姿態</>進入戰鬥後，首次施放戰技<@ba.key>閃耀焦點</>，額外<#ba.return>返還</><@ba.vup>{potential_atb_return:0}</>點技力。\n<@ba.key>演唱姿態</>和<@ba.key>高歌姿態</>的攻擊力提升效果額外<@ba.vup>+{atk_up:0%}</>。",
+          "TH": "หลัง​เข้าสู่​การต่อสู้​ โดย​ไม่มี​ <@ba.key>​ท่า​เตรียม​นักร้อง​</> ใช้งาน​อยู่​ การ​ร่าย​ทักษะ​การต่อสู้​ <@ba.key>​โฟกัส​เจิด​จรัส​</> ครั้งแรก​จะ​ได้รับ​ <#ba.return>​การคืน​</> SP เพิ่มเติม​ <@ba.vup>{potential_atb_return:0}</> หน่วย​ \nผล​ของ​การ​บู​ส​ต์​ ATK ที่​ได้รับ​จาก​<@ba.key>​ท่า​เตรียม​นักร้อง​</>​และ​ <@ba.key>​ท่า​เตรียม​เสียง​คอส​โม​</> จะ​เพิ่มขึ้น​อีก​ <@ba.vup>+{atk_up:0%}</>",
+          "VN": "Sau khi vào trận mà chưa kích hoạt <@ba.key>Tư Thế Ca Sĩ</>, lần thi triển đầu tiên của KN chiến đấu <@ba.key>Tiêu Điểm Chói Rạng</> sẽ <#ba.return>hoàn trả</> thêm <@ba.vup>{potential_atb_return:0}</> Điểm Kỹ Năng. \nHiệu quả Tăng Cường Tấn Công do <@ba.key>Tư Thế Ca Sĩ</> và <@ba.key>Tư Thế Giọng Ca Vũ Trụ</> cung cấp <@ba.vup>+{atk_up:0%}</>."
+        },
+        "id": "chr_0035_liino_potential_1"
+      },
+      "chr_0035_liino_potential_3": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 2,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 1,
+              "paramType": 2,
+              "paramValue": -1,
+              "skillId": "chr_0035_liino_combo_skill"
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "heal_value",
+              "floatValue": 1.4,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "heal_rate",
+              "floatValue": 1.4,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale",
+              "floatValue": 1.4,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_2",
+              "floatValue": 1.4,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Combo de habilidades <@ba.key>Harmonia Encantadora</> melhorado: tempo de recarga de <@ba.vup>{coolDown:0}</> s. Multiplicador DNO e Tratamento de PV foram aumentados para <@ba.vup>{heal_value:0.0}</> vezes os originais.",
+          "CN": "连携技<@ba.key>悦心音调</>效果加强：冷却时间<@ba.vup>{coolDown:0}</>秒，伤害倍率和治疗效果提升至原本的<@ba.vup>{heal_value:0.0}</>倍。",
+          "DE": "Kombofertigkeit <@ba.key>Entzückende Schwingungen</> verbessert: Abklingzeit: <@ba.vup>{coolDown:0}</> Sek. SDN-Multiplikator und LP-Behandlung erhöhen sich auf das <@ba.vup>{heal_value:0.0}</>-Fache des ursprünglichen Werts.",
+          "EN": "Combo skill <@ba.key>Delightful Harmonics</> improved: Length of cooldown <@ba.vup>{coolDown:0}</>s. DMG Multiplier and HP Treatment are increased to <@ba.vup>{heal_value:0.0}</> times the original.",
+          "FR": "Amélioration de la compétence de combo <@ba.key>Harmonie ravissante</> : le temps de recharge passe à <@ba.vup>{coolDown:0}</> s. Le multiplicateur de DÉG et les soins passent à <@ba.vup>{heal_value:0.0}</> fois leur valeur d'origine.",
+          "ID": "Skill kombo <@ba.key>Delightful Harmonics</> meningkat: Durasi cooldown <@ba.vup>{coolDown:0}</> dtk. Pengganda DMG dan HP Treatment meningkat menjadi <@ba.vup>{heal_value:0.0}</> kali nilai aslinya.",
+          "IT": "Abilità combo <@ba.key>Incantevole armonia</> migliorata: tempo di recupero di <@ba.vup>{coolDown:0}</> s. Moltiplicatore danni e Cura PS aumentano a <@ba.vup>{heal_value:0.0}</> volte rispetto all'originale.",
+          "JP": "連携技<@ba.key>「ときめきメロディー」</>強化：CD時間<@ba.vup>{coolDown:0}</>秒、ダメージ倍率と回復効果が<@ba.vup>{heal_value:0.0}</>倍までアップする",
+          "KR": "연계 스킬 <@ba.key>기쁨의 멜로디</> 효과가 강화됩니다. 쿨타임 <@ba.vup>{coolDown:0}</>초, 피해 배율과 치료 효과가 기존의 <@ba.vup>{heal_value:0.0}</>배로 증가합니다.",
+          "MX": "Habilidad de combo <@ba.key>Armónicos deleitables</> mejorada: duración del tiempo de reutilización: <@ba.vup>{coolDown:0}</> s. El Multiplicador de DAÑ y el Tratamiento de PV aumentan a <@ba.vup>{heal_value:0.0}</> veces el original.",
+          "RU": "Улучшает комбонавык <@ba.key>Дивные ритмы</>: перезарядка составляет <@ba.vup>{coolDown:0}</> сек., а множитель УРН и восстановление ОЗ повышаются до <@ba.vup>{heal_value:0.0}</> р. от первоначальных.",
+          "TC": "連攜技<@ba.key>悅心音調</>效果加強：冷卻時間<@ba.vup>{coolDown:0}</>秒，傷害倍率和治療效果提升至原本的<@ba.vup>{heal_value:0.0}</>倍。",
+          "TH": "ทักษะ​คอม​โบ​ <@ba.key>​ฮาร์​โม​นี​แสน​รื่นรมย์​</> อัป​เกรด​แล้ว​: ระยะเวลา​คูล​ดาวน์​ <@ba.vup>{coolDown:0}</> วินาที​ ตัวคูณ​ DMG และ​การรักษา​ HP เพิ่มขึ้น​เป็น​ <@ba.vup>{heal_value:0.0}</> เท่า​จาก​ของ​เดิม",
+          "VN": "KN liên hoàn <@ba.key>Hòa Âm Vui Tươi</> được cải thiện: Thời gian hồi chiêu là <@ba.vup>{coolDown:0}</> giây. Hệ Số ST và Hồi HP tăng lên bằng <@ba.vup>{heal_value:0.0}</> lần so với ban đầu."
+        },
+        "id": "chr_0035_liino_potential_3"
+      },
+      "chr_0035_liino_potential_5": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "will_up",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "will_max",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_2",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_3",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_4",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_2",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_3",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "O efeito <#ba.enhance>Amp</> de <@ba.key>Show da Estrela do Alvorecer</> é aumentado para <@ba.vup>{will_up:0.0}</> vezes o original. \nOs Multiplicadores DNO da habilidade de batalha <@ba.key>Foco Deslumbrante</> e da habilidade suprema <@ba.key>Show da Estrela do Alvorecer</> são aumentados para <@ba.vup>{atk_scale:0.0}</> vezes os originais.",
+          "CN": "终结技<@ba.key>晨星的协奏曲</>提供的<#ba.enhance>增幅</>效果提升至原本的<@ba.vup>{will_up:0.0}</>倍。\n战技<@ba.key>闪耀焦点</>和终结技<@ba.key>晨星的协奏曲</>的伤害倍率提升至原本的<@ba.vup>{atk_scale:0.0}</>倍。",
+          "DE": "Der <#ba.enhance>Verstärkungs</>-Effekt von <@ba.key>Morgenstern-Concerto</> erhöht sich auf das <@ba.vup>{will_up:0.0}</>-Fache des ursprünglichen Werts. \nSDN-Multiplikatoren der Kampffertigkeit <@ba.key>Extremer Fokus</> und der ultimativen Fertigkeit <@ba.key>Morgenstern-Concerto</> erhöhen sich auf das <@ba.vup>{atk_scale:0.0}</>-Fache des ursprünglichen Werts.",
+          "EN": "<#ba.enhance>Amp</> effect of <@ba.key>Dawnstar Concerto</> is increased to <@ba.vup>{will_up:0.0}</> times the original. \nDMG Multipliers of battle skill <@ba.key>Dazzling Focus</> and ultimate <@ba.key>Dawnstar Concerto</> are increased to <@ba.vup>{atk_scale:0.0}</> times the original.",
+          "FR": "L'effet d'<#ba.enhance>amplification</> de <@ba.key>Concerto de l'étoile du matin</> est multiplié par <@ba.vup>{will_up:0.0}</>. \nLes multiplicateurs de DÉG de la compétence de combat <@ba.key>Concentration fulgurante</> et de l'ultime <@ba.key>Concerto de l'étoile du matin</> passent à <@ba.vup>{atk_scale:0.0}</> fois leur valeur d'origine.",
+          "ID": "Efek <#ba.enhance>Amp</> dari <@ba.key>Dawnstar Concerto</> meningkat menjadi <@ba.vup>{will_up:0.0}</> kali nilai aslinya. \nPengganda DMG skill tarung <@ba.key>Dazzling Focus</> dan ultimate <@ba.key>Dawnstar Concerto</> meningkat menjadi <@ba.vup>{atk_scale:0.0}</> kali nilai aslinya.",
+          "IT": "L'effetto <#ba.enhance>amplificazione</> di <@ba.key>Concerto della stella del mattino</> aumenta a <@ba.vup>{will_up:0.0}</> volte rispetto all'originale. \nI moltiplicatori danni dell'abilità di combattimento <@ba.key>Concentrazione abbagliante</> e dell'abilità suprema <@ba.key>Concerto della stella del mattino</> aumentano a <@ba.vup>{atk_scale:0.0}</> volte rispetto all'originale.",
+          "JP": "必殺技<@ba.key>「綺羅星コンチェルト」</>による<#ba.enhance>増幅</>効果が<@ba.vup>{will_up:0.0}</>倍までアップする\n戦技<@ba.key>「キラキラフォーカス」</>と必殺技<@ba.key>「綺羅星コンチェルト」</>のダメージ倍率が<@ba.vup>{atk_scale:0.0}</>倍までアップする",
+          "KR": "궁극기 <@ba.key>샛별의 협주곡</>이 제공하는 <#ba.enhance>증폭</> 효과가 기존의 <@ba.vup>{will_up:0.0}</>배로 증가합니다.\n배틀 스킬 <@ba.key>스포트라이트</> 및 궁극기 <@ba.key>샛별의 협주곡</>의 피해 배율이 기존의 <@ba.vup>{atk_scale:0.0}</>배로 증가합니다.",
+          "MX": "El efecto de <#ba.enhance>Amp</> de <@ba.key>Concierto de Estrella del amanecer</> aumenta <@ba.vup>{will_up:0.0}</> veces el original. \nLos Multiplicadores de DAÑ de la habilidad de batalla <@ba.key>Enfoque deslumbrante</> y la máxima <@ba.key>Concierto de estrella del amanecer</> aumentan <@ba.vup>{atk_scale:0.0}</> veces el original.",
+          "RU": "Эффект <#ba.enhance>усиления</> <@ba.key>Концерта Утренней звезды</> увеличивается до <@ba.vup>{will_up:0.0}</> р. от первоначального.\nМножители УРН боевого навыка <@ba.key>Ослепительная фокусировка</> и супернавыка <@ba.key>Концерт Утренней звезды</> увеличиваются до <@ba.vup>{atk_scale:0.0}</> р. от первоначального.",
+          "TC": "終結技<@ba.key>晨星的協奏曲</>提供的<#ba.enhance>增幅</>效果提升至原本的<@ba.vup>{will_up:0.0}</>倍。\n戰技<@ba.key>閃耀焦點</>和終結技<@ba.key>晨星的協奏曲</>的傷害倍率提升至原本的<@ba.vup>{atk_scale:0.0}</>倍。",
+          "TH": "เอฟเฟกต์​ <#ba.enhance>​ขยาย​พลัง​</> ของ​ <@ba.key>​คอน​เซอร์​โต​ดารา​พรายแสง​</> เพิ่ม​เป็น​ <@ba.vup>{will_up:0.0}</> เท่า​จาก​ของ​เดิม​ \nตัวคูณ​ DMG ของ​ทักษะ​การต่อสู้​ <@ba.key>​โฟกัส​เจิด​จรัส​</> และ​อัล​ติ​เมท​ <@ba.key>​คอน​เซอร์​โต​ดารา​พรายแสง​</> เพิ่มขึ้น​เป็น​ <@ba.vup>{atk_scale:0.0}</> เท่า​ของ​เดิม",
+          "VN": "Hiệu ứng <#ba.enhance>Khuếch Đại</> của <@ba.key>Hòa Tấu Sao Mai</> tăng lên bằng <@ba.vup>{will_up:0.0}</> lần so với ban đầu. \nHệ Số ST của KN chiến đấu <@ba.key>Tiêu Điểm Chói Rạng</> và Tuyệt Kỹ <@ba.key>Hòa Tấu Sao Mai</> tăng lên bằng <@ba.vup>{atk_scale:0.0}</> lần so với ban đầu."
+        },
+        "id": "chr_0035_liino_potential_5"
+      },
+      "chr_0035_liino_talent_1_1": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "talent_a",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter",
+              "floatValue": -0.1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "healtaken_rate",
+              "floatValue": 0.1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter_duration",
+              "floatValue": 3,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_normal_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "talent_a",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter",
+              "floatValue": -0.1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "healtaken_rate",
+              "floatValue": 0.1,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "shelter_duration",
+              "floatValue": 3,
+              "modifyType": 3,
+              "skillId": "chr_0035_liino_ultimate_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Durante a <@ba.key>Postura da Vocalista</> ou a <@ba.key>Postura Voz Cósmica</>, os operadores na área de efeito (ADE) ganham Bônus de Tratamento Recebido <@ba.vup>+ {healtaken_rate:0%}</> e DNO Recebido <@ba.vup>{shelter:0%}</>. Esses efeitos persistem por {shelter_duration:0} s após saírem da ADE.",
+          "CN": "<@ba.key>演唱姿态</>和<@ba.key>高歌姿态</>持续期间，范围内的干员受治疗加成<@ba.vup>+{healtaken_rate:0%}</>，受到的伤害<@ba.vup>{shelter:0%}</>, 离开范围后该效果持续{shelter_duration:0}秒。",
+          "DE": "Befindest du dich in der <@ba.key>Vokalist-Haltung</> oder der <@ba.key>„Stimme des Kosmos“-Haltung</>, erhalten Operatoren im Wirkungsbereich einen Bonus für Erhaltene Behandlung <@ba.vup>+{healtaken_rate:0%}</> und Erlittener SDN <@ba.vup>{shelter:0%}</>. Diese Effekte bleiben nach Verlassen des Wirkungsbereichs {shelter_duration:0} Sek. lang bestehen.",
+          "EN": "During <@ba.key>Vocalist Stance</> or <@ba.key>Cosmovoice Stance</>, operators within the area of effect (AOE) gain Treatment Received Bonus <@ba.vup>+{healtaken_rate:0%}</> and DMG Taken <@ba.vup>{shelter:0%}</>. These effects persist for {shelter_duration:0}s after leaving the AOE.",
+          "FR": "Lorsque la <@ba.key>posture Chanteuse</> ou la <@ba.key>posture Cosmovoix</> est activée, les opérateurs dans la zone d'effet obtiennent un bonus de soins reçus de <@ba.vup>{healtaken_rate:0%}</> et les DÉG subis augmentent de <@ba.vup>{shelter:0%}</>. Ces effets perdurent pendant {shelter_duration:0} s après avoir quitté la zone d'effet.",
+          "ID": "Selama <@ba.key>Vocalist Stance</> atau <@ba.key>Cosmovoice Stance</>, operator di dalam area efek (AOE) akan mendapatkan Bonus Treatment yang Diterima <@ba.vup>+{healtaken_rate:0%}</> dan DMG Taken <@ba.vup>{shelter:0%}</>. Efek ini bertahan selama {shelter_duration:0} dtk setelah keluar dari AOE.",
+          "IT": "Durante la <@ba.key>Posa da cantante</> o la <@ba.key>Posa cosmovoce</>, gli operatori nel raggio d'azione ottengono <@ba.vup>+{healtaken_rate:0%}</> di bonus Cura ricevuta e <@ba.vup>{shelter:0%}</> di danni subiti. Questi effetti durano per {shelter_duration:0} s dopo aver lasciato il raggio d'azione.",
+          "JP": "<@ba.key>ライブモード</>と<@ba.key>パフォーマンスモード</>の持続中、範囲内のオペレーターが受ける回復効率<@ba.vup>+{healtaken_rate:0%}</>、受けるダメージ<@ba.vup>{shelter:0%}</>\nこの効果は範囲を離れてからも{shelter_duration:0}秒間持続する",
+          "KR": "<@ba.key>라이브 모드</> 및 <@ba.key>보컬 모드</> 지속 시간 동안, 범위 내 오퍼레이터가 받는 치유량 보너스 <@ba.vup>+{healtaken_rate:0%}</>, 받는 피해 <@ba.vup>{shelter:0%}</>. 범위를 벗어난 후에도 해당 효과는 {shelter_duration:0}초 동안 지속됩니다.",
+          "MX": "Durante <@ba.key>Postura de vocalista</> o <@ba.key>Postura de cosmovoz</>, los operadores dentro del área de efecto (ADE) obtienen Bonificación de tratamiento recibido <@ba.vup>+{healtaken_rate:0%}</> y DAÑ recibido <@ba.vup>{shelter:0%}</>. Estos efectos permanecen durante {shelter_duration:0} s después de salir del ADE.",
+          "RU": "Во время действия <@ba.key>Стойки певицы</> или <@ba.key>Стойки космоголоса</> оперативники в области действия получают <@ba.vup>{healtaken_rate:0%}</> к бонусу получаемого лечения и <@ba.vup>{shelter:0%}</> получаемого УРН. Эффекты сохраняются в течение {shelter_duration:0} сек. после выхода из области действия.",
+          "TC": "<@ba.key>演唱姿態</>和<@ba.key>高歌姿態</>持續期間，範圍內的幹員受治療加成<@ba.vup>+{healtaken_rate:0%}</>，受到的傷害<@ba.vup>{shelter:0%}</>，離開範圍後該效果持續{shelter_duration:0}秒。",
+          "TH": "ระหว่าง​ <@ba.key>​ท่า​เตรียม​นักร้อง​</> หรือ​ <@ba.key>​ท่า​เตรียม​เสียง​คอส​โม​</> โอเปอเรเตอร์​ภายใน​พื้นที่​ส่งผล​ จะ​ได้รับ​โบนัส​การรักษา​ที่​ได้รับ​ <@ba.vup>+{healtaken_rate:0%}</> และ​ DMG ที่​ได้รับ​ <@ba.vup>{shelter:0%}</> ผล​ของ​เอฟเฟกต์​จะ​คงอยู่​ {shelter_duration:0} วินาที​หลังจาก​ออกจาก​พื้นที่​เอฟเฟกต์",
+          "VN": "Trong thời gian duy trì <@ba.key>Tư Thế Ca Sĩ</> hoặc <@ba.key>Tư Thế Giọng Ca Vũ Trụ</>, cán viên trong khu vực ảnh hưởng nhận Thưởng Nhận Điều Trị <@ba.vup>+{healtaken_rate:0%}</> và <@ba.vup>{shelter:0%}</> ST Gánh Chịu. Các hiệu ứng này duy trì trong {shelter_duration:0} giây sau khi rời khỏi khu vực ảnh hưởng."
+        },
+        "id": "chr_0035_liino_talent_1_1"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

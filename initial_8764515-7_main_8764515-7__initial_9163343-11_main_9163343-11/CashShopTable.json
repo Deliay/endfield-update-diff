@@ -1,0 +1,104 @@
+{
+  "tableName": "CashShopTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "Seasonal_Rec_pack": {
+        "oldValue": {
+          "cashGoodsIds": [
+            "seasonal_giftpack_combine",
+            "seasonal_giftpack_lt_01",
+            "seasonal_giftpack_lt_02",
+            "seasonal_giftpack_lt_03",
+            "seasonal_giftpack_lt_1_1_1",
+            "seasonal_giftpack_lt_1_1_2",
+            "seasonal_giftpack_lt_1_2_1",
+            "seasonal_crossover_lt_1_2_1",
+            "seasonal_giftpack_lt_1_3_1",
+            "seasonal_giftpack_lt_1_3_2",
+            "seasonal_giftpack_lt_1_4_1",
+            "giftpack_lt_decorate_1_4",
+            "giftpack_lt_gacha_plus_1_4"
+          ],
+          "cashShopId": "Seasonal_Rec_pack",
+          "shopName": {
+            "BR": "Pacote Limitado",
+            "CN": "限时组合包",
+            "DE": "Limitiertes Paket",
+            "EN": "Limited Bundle",
+            "FR": "Lot limité",
+            "ID": "Bundel Terbatas",
+            "IT": "Pacchetto limitato",
+            "JP": "時限パック",
+            "KR": "기간 한정 조합 패키지",
+            "MX": "Paquete limitado",
+            "RU": "Лимитированный набор",
+            "TC": "限時組合包",
+            "TH": "ชุด​รวม​ลิมิเต็ด",
+            "VN": "Gói Giới Hạn"
+          }
+        },
+        "newValue": {
+          "cashGoodsIds": [
+            "seasonal_giftpack_combine",
+            "seasonal_giftpack_lt_01",
+            "seasonal_giftpack_lt_02",
+            "seasonal_giftpack_lt_03",
+            "seasonal_giftpack_lt_1_1_1",
+            "seasonal_giftpack_lt_1_1_2",
+            "seasonal_giftpack_lt_1_2_1",
+            "seasonal_crossover_lt_1_2_1",
+            "seasonal_giftpack_lt_1_3_1",
+            "seasonal_giftpack_lt_1_3_2",
+            "seasonal_giftpack_lt_1_4_1",
+            "seasonal_giftpack_lt_1_4_2",
+            "giftpack_lt_decorate_1_4",
+            "giftpack_lt_gacha_plus_1_4"
+          ],
+          "cashShopId": "Seasonal_Rec_pack",
+          "shopName": {
+            "BR": "Pacote Limitado",
+            "CN": "限时组合包",
+            "DE": "Limitiertes Paket",
+            "EN": "Limited Bundle",
+            "FR": "Lot limité",
+            "ID": "Bundel Terbatas",
+            "IT": "Pacchetto limitato",
+            "JP": "時限パック",
+            "KR": "기간 한정 조합 패키지",
+            "MX": "Paquete limitado",
+            "RU": "Лимитированный набор",
+            "TC": "限時組合包",
+            "TH": "ชุด​รวม​ลิมิเต็ด",
+            "VN": "Gói Giới Hạn"
+          }
+        },
+        "changed": {
+          "cashGoodsIds[11]": {
+            "type": "value",
+            "oldValue": "giftpack_lt_decorate_1_4",
+            "newValue": "seasonal_giftpack_lt_1_4_2"
+          },
+          "cashGoodsIds[12]": {
+            "type": "value",
+            "oldValue": "giftpack_lt_gacha_plus_1_4",
+            "newValue": "giftpack_lt_decorate_1_4"
+          },
+          "cashGoodsIds[13]": {
+            "type": "value",
+            "newValue": "giftpack_lt_gacha_plus_1_4"
+          }
+        }
+      }
+    }
+  }
+}

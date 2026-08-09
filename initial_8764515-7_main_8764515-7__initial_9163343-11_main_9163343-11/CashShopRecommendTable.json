@@ -1,0 +1,73 @@
+{
+  "tableName": "CashShopRecommendTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "recommend_seasonal_11": {
+        "cashGoodsIdList": [
+          "seasonal_giftpack_lt_1_4_2"
+        ],
+        "id": "recommend_seasonal_11",
+        "name": {
+          "BR": "Pacote CT Estrela do Alvorecer",
+          "CN": "晨星寻访组合包",
+          "DE": "Paket: Morgenstern-RK",
+          "EN": "Dawnstar HH Bundle",
+          "FR": "Lot de REC Étoile du matin",
+          "ID": "Bundel HH Bintang Fajar",
+          "IT": "Pacchetto CT: Stella del mattino",
+          "JP": "綺羅星スカウトパック",
+          "KR": "샛별 헤드헌팅 조합 패키지",
+          "MX": "Paquete de C.R. Estrella del amanecer",
+          "RU": "Набор найма «Утренняя звезда»",
+          "TC": "晨星尋訪組合包",
+          "TH": "ชุด​รวม​ HH ดารา​พรายแสง",
+          "VN": "Gói Chiêu Mộ Sao Mai Chói Rạng"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "SeasonalGiftpacklt_1_4_2",
+        "priority": 4988,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "DynamicGift"
+      },
+      "recommend_weaponbox__1_4_2": {
+        "cashGoodsIdList": [
+          "shop_weponbox_1_4_2"
+        ],
+        "id": "recommend_weaponbox__1_4_2",
+        "name": {
+          "BR": "Distribuição Deslumbrante",
+          "CN": "明曜申领",
+          "DE": "Blendend-Ausgabe",
+          "EN": "Bedazzled Issue",
+          "FR": "Tirage éblouissant",
+          "ID": "Edisi Terpesona",
+          "IT": "Distribuzione abbagliante",
+          "JP": "明星・申請",
+          "KR": "찬란 신청",
+          "MX": "Solicitud de Deslumbrante",
+          "RU": "Поставка «Ослепление»",
+          "TC": "明曜申領",
+          "TH": "ตั๋ว​ระยิบระยับ",
+          "VN": "Gói Rút Chói Rạng"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "",
+        "priority": 9979,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "Weapon"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

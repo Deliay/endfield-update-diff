@@ -1,0 +1,305 @@
+{
+  "tableName": "SpaceshipSkillTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "spaceship_skill_chr_0035_liino_2_1": {
+        "desc": {
+          "BR": "Atribua ao Nexus de Controle para conceder à Regeneração de Humor de todos os operadores + 12%",
+          "CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+          "DE": "Dem Kontrollnexus zuweisen, um allen Operatoren Stimmungszunahme +12 % zu gewähren.",
+          "EN": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+          "FR": "En l'affectant au Nexus de contrôle, augmente l'amélioration d'humeur de tous les opérateurs de 12 %.",
+          "ID": "Saat ditugaskan ke Nexus Kontrol, Regen Suasana Hati semua operator akan meningkat sebesar +12%",
+          "IT": "Assegna al Nexus di controllo per aumentare del 12% la rigenerazione dell'umore di tutti gli operatori.",
+          "JP": "指揮中枢配属時、全員の体力回復+12%",
+          "KR": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가",
+          "MX": "Asignar al Nexus de control para otorgar a todos los operadores regeneración del Estado de ánimo de +12 %",
+          "RU": "Назначьте в контрольный нексус, чтобы все оперативники получили +12% к подъему настроения.",
+          "TC": "進駐總控中樞時，所有幹員心情恢復提升12%",
+          "TH": "เมื่อม​อบ​หมาย​ให้​กับ​เ​น็​ก​ซัส​ควบคุม​ จะ​ช่วย​เพิ่ม​การฟื้นฟู​อารมณ์​ให้​กับ​โอเปอเรเตอร์​ 12%",
+          "VN": "Khi phân công vào Trung Tâm Kiểm Soát, tăng Tái Tạo Tâm Trạng của tất cả các cán viên thêm 12%"
+        },
+        "effectType": 0,
+        "icon": "facskill_spaceship_physical_power",
+        "id": "spaceship_skill_chr_0035_liino_2_1",
+        "level": 1,
+        "name": {
+          "BR": "Vibe de Palco Incessante β",
+          "CN": "演出余韵·β",
+          "DE": "Nachhallender Bühnenrausch β",
+          "EN": "Stage Vibe That Lingers β",
+          "FR": "Présence scénique marquante β",
+          "ID": "Stage Vibe That Lingers β",
+          "IT": "Atmosfera da palco che permane β",
+          "JP": "ライブの余韻・β",
+          "KR": "무대의 여운 · β",
+          "MX": "La vibra del escenario que perdura β",
+          "RU": "Нестихающие овации β",
+          "TC": "演出餘韻·β",
+          "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง​ β",
+          "VN": "Dư Âm Sân Khấu Vấn Vương β"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.12
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.12"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 0,
+        "skillNamePostfix": "β",
+        "sortId": 103,
+        "talentName": {
+          "BR": "Vibe de Palco Incessante",
+          "CN": "演出余韵",
+          "DE": "Nachhallender Bühnenrausch",
+          "EN": "Stage Vibe That Lingers",
+          "FR": "Présence scénique marquante",
+          "ID": "Stage Vibe That Lingers",
+          "IT": "Atmosfera da palco che permane",
+          "JP": "ライブの余韻",
+          "KR": "무대의 여운",
+          "MX": "La vibra del escenario que perdura",
+          "RU": "Нестихающие овации",
+          "TC": "演出餘韻",
+          "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง",
+          "VN": "Dư Âm Sân Khấu Vấn Vương"
+        }
+      },
+      "spaceship_skill_chr_0035_liino_1_1": {
+        "desc": {
+          "BR": "Atribua à Sala da Recepção para reduzir a velocidade da Queda de Humor de todos os operadores em 14%",
+          "CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+          "DE": "Dem Empfang zuweisen, um Stimmungsverlust aller Operatoren in der Kammer um 14 % zu verlangsamen.",
+          "EN": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+          "FR": "En l'affectant à la salle de réception, ralentit la baisse d'humeur de tous les opérateurs qui s'y trouvent de 14 %.",
+          "ID": "Saat ditugaskan ke Ruang Resepsionis, Penurunan Suasana Hati semua operator di dalamnya akan melambat sebesar 14%",
+          "IT": "Assegna alla sala di ricevimento per rallentare del 14% il calo dell'umore di tutti gli operatori al suo interno.",
+          "JP": "応接室配属時、船室内全員の体力消耗-14%",
+          "KR": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소",
+          "MX": "Asignar a la Sala de recepción para reducir la disminución del Estado de ánimo de todos los operadores en ella un 14 %",
+          "RU": "Назначьте в приемную, чтобы замедлить падение настроения всех находящихся в ней оперативников на 14%.",
+          "TC": "進駐會客室時，艙室內幹員心情消耗降低14%",
+          "TH": "มอบหมาย​ไป​ที่​ห้อง​รับรอง​เพื่อ​ชะลอ​การ​ลดลง​ของ​อารมณ์​ของ​โอเปอเรเตอร์​ทั้งหมด​ใน​ห้อง​ลง​ 14%",
+          "VN": "Khi phân công vào Phòng Tiếp Khách, làm chậm mức Giảm Tâm Trạng của tất cả cán viên đi 14%"
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_guestroom_power_consume",
+        "id": "spaceship_skill_chr_0035_liino_1_1",
+        "level": 1,
+        "name": {
+          "BR": "Paixão pelo Ídolo β",
+          "CN": "偶像的热忱·β",
+          "DE": "Idol-Verehrung β",
+          "EN": "Idol Passion β",
+          "FR": "Passion pour les stars β",
+          "ID": "Idol Passion β",
+          "IT": "Passione da idol β",
+          "JP": "アイドルの情熱・β",
+          "KR": "아이돌의 열정 · β",
+          "MX": "Pasión de idol β",
+          "RU": "Страсть айдола β",
+          "TC": "偶像的熱忱·β",
+          "TH": "ความฝัน​ไอดอล​ β",
+          "VN": "Nhiệt Huyết Thần Tượng β"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.14
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.14"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 5,
+        "skillNamePostfix": "β",
+        "sortId": 101,
+        "talentName": {
+          "BR": "Paixão pelo Ídolo",
+          "CN": "偶像的热忱",
+          "DE": "Idol-Verehrung",
+          "EN": "Idol Passion",
+          "FR": "Passion pour les stars",
+          "ID": "Idol Passion",
+          "IT": "Passione da idol",
+          "JP": "アイドルの情熱",
+          "KR": "아이돌의 열정",
+          "MX": "Pasión de idol",
+          "RU": "Страсть айдола",
+          "TC": "偶像的熱忱",
+          "TH": "ความฝัน​ไอดอล",
+          "VN": "Nhiệt Huyết Thần Tượng"
+        }
+      },
+      "spaceship_skill_chr_0035_liino_1_2": {
+        "desc": {
+          "BR": "Atribua à Sala da Recepção para reduzir a velocidade da Queda de Humor de todos os operadores em 18%",
+          "CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+          "DE": "Dem Empfang zuweisen, um Stimmungsverlust aller Operatoren in der Kammer um 18 % zu verlangsamen.",
+          "EN": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+          "FR": "En l'affectant à la salle de réception, ralentit la baisse d'humeur de tous les opérateurs qui s'y trouvent de 18 %.",
+          "ID": "Saat ditugaskan ke Ruang Resepsionis, Penurunan Suasana Hati semua operator di dalamnya akan melambat sebesar 18%",
+          "IT": "Assegna alla sala di ricevimento per rallentare del 18% il calo dell'umore di tutti gli operatori al suo interno.",
+          "JP": "応接室配属時、船室内全員の体力消耗-18%",
+          "KR": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소",
+          "MX": "Asignar a la Sala de recepción para reducir la disminución del Estado de ánimo de todos los operadores en ella un 18 %",
+          "RU": "Назначьте в приемную, чтобы замедлить падение настроения всех находящихся в ней оперативников на 18%.",
+          "TC": "進駐會客室時，艙室內幹員心情消耗降低18%",
+          "TH": "มอบหมาย​ไป​ที่​ห้อง​รับรอง​เพื่อ​ชะลอ​การ​ลดลง​ของ​อารมณ์​ของ​โอเปอเรเตอร์​ทั้งหมด​ใน​ห้อง​ลง​ 18%",
+          "VN": "Khi phân công vào Phòng Tiếp Khách, làm chậm mức Giảm Tâm Trạng của tất cả cán viên đi 18%"
+        },
+        "effectType": 1,
+        "icon": "facskill_spaceship_guestroom_power_consume",
+        "id": "spaceship_skill_chr_0035_liino_1_2",
+        "level": 2,
+        "name": {
+          "BR": "Paixão pelo Ídolo γ",
+          "CN": "偶像的热忱·γ",
+          "DE": "Idol-Verehrung γ",
+          "EN": "Idol Passion γ",
+          "FR": "Passion pour les stars γ",
+          "ID": "Idol Passion γ",
+          "IT": "Passione da idol γ",
+          "JP": "アイドルの情熱・γ",
+          "KR": "아이돌의 열정 · γ",
+          "MX": "Pasión de idol γ",
+          "RU": "Страсть айдола γ",
+          "TC": "偶像的熱忱·γ",
+          "TH": "ความฝัน​ไอดอล​ γ",
+          "VN": "Nhiệt Huyết Thần Tượng γ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.18
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.18"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 5,
+        "skillNamePostfix": "γ",
+        "sortId": 102,
+        "talentName": {
+          "BR": "Paixão pelo Ídolo",
+          "CN": "偶像的热忱",
+          "DE": "Idol-Verehrung",
+          "EN": "Idol Passion",
+          "FR": "Passion pour les stars",
+          "ID": "Idol Passion",
+          "IT": "Passione da idol",
+          "JP": "アイドルの情熱",
+          "KR": "아이돌의 열정",
+          "MX": "Pasión de idol",
+          "RU": "Страсть айдола",
+          "TC": "偶像的熱忱",
+          "TH": "ความฝัน​ไอดอล",
+          "VN": "Nhiệt Huyết Thần Tượng"
+        }
+      },
+      "spaceship_skill_chr_0035_liino_2_2": {
+        "desc": {
+          "BR": "Atribua ao Nexus de Controle para conceder à Regeneração de Humor de todos os operadores + 16%",
+          "CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+          "DE": "Dem Kontrollnexus zuweisen, um allen Operatoren Stimmungszunahme +16 % zu gewähren.",
+          "EN": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+          "FR": "En l'affectant au Nexus de contrôle, augmente l'amélioration d'humeur de tous les opérateurs de 16 %.",
+          "ID": "Saat ditugaskan ke Nexus Kontrol, Regen Suasana Hati semua operator akan meningkat sebesar +16%",
+          "IT": "Assegna al Nexus di controllo per aumentare del 16% la rigenerazione dell'umore di tutti gli operatori.",
+          "JP": "指揮中枢配属時、全員の体力回復+16%",
+          "KR": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가",
+          "MX": "Asignar al Nexus de control para otorgar a todos los operadores regeneración del Estado de ánimo de +16 %",
+          "RU": "Назначьте в контрольный нексус, чтобы все оперативники получили +16% к подъему настроения.",
+          "TC": "進駐總控中樞時，所有幹員心情恢復提升16%",
+          "TH": "เมื่อม​อบ​หมาย​ให้​กับ​เ​น็​ก​ซัส​ควบคุม​ จะ​ช่วย​เพิ่ม​การฟื้นฟู​อารมณ์​ให้​กับ​โอเปอเรเตอร์​ 16%",
+          "VN": "Khi phân công vào Trung Tâm Kiểm Soát, tăng Tái Tạo Tâm Trạng của tất cả các cán viên thêm 16%"
+        },
+        "effectType": 0,
+        "icon": "facskill_spaceship_physical_power",
+        "id": "spaceship_skill_chr_0035_liino_2_2",
+        "level": 2,
+        "name": {
+          "BR": "Vibe de Palco Incessante γ",
+          "CN": "演出余韵·γ",
+          "DE": "Nachhallender Bühnenrausch γ",
+          "EN": "Stage Vibe That Lingers γ",
+          "FR": "Présence scénique marquante γ",
+          "ID": "Stage Vibe That Lingers γ",
+          "IT": "Atmosfera da palco che permane γ",
+          "JP": "ライブの余韻・γ",
+          "KR": "무대의 여운 · γ",
+          "MX": "La vibra del escenario que perdura γ",
+          "RU": "Нестихающие овации γ",
+          "TC": "演出餘韻·γ",
+          "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง​ γ",
+          "VN": "Dư Âm Sân Khấu Vấn Vương γ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.16
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.16"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 0,
+        "skillNamePostfix": "γ",
+        "sortId": 104,
+        "talentName": {
+          "BR": "Vibe de Palco Incessante",
+          "CN": "演出余韵",
+          "DE": "Nachhallender Bühnenrausch",
+          "EN": "Stage Vibe That Lingers",
+          "FR": "Présence scénique marquante",
+          "ID": "Stage Vibe That Lingers",
+          "IT": "Atmosfera da palco che permane",
+          "JP": "ライブの余韻",
+          "KR": "무대의 여운",
+          "MX": "La vibra del escenario que perdura",
+          "RU": "Нестихающие овации",
+          "TC": "演出餘韻",
+          "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง",
+          "VN": "Dư Âm Sân Khấu Vấn Vương"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "tableName": "FactoryBuildingRendererTemplateTable",
+  "versionOld": "initial_8764515-7_main_8764515-7",
+  "versionNew": "initial_9163343-11_main_9163343-11",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "display_stand_1_normal_0": {
+        "logisticBaseUnit": "",
+        "machineId": "display_stand_1",
+        "machineLevel": 0,
+        "machineModeType": "normal",
+        "machineRenderId": "display_stand_1",
+        "nonLogisticBaseUnit": "",
+        "suppressExternalDither": true
+      },
+      "doll_1_normal_0": {
+        "logisticBaseUnit": "pedestal+1_001_01x01_02",
+        "machineId": "doll_1",
+        "machineLevel": 0,
+        "machineModeType": "normal",
+        "machineRenderId": "doll_1",
+        "nonLogisticBaseUnit": "pedestal+1_001_01x01_02",
+        "suppressExternalDither": true
+      },
+      "microphone_1_normal_0": {
+        "logisticBaseUnit": "pedestal+1_001_01x01_02",
+        "machineId": "microphone_1",
+        "machineLevel": 0,
+        "machineModeType": "normal",
+        "machineRenderId": "microphone_1",
+        "nonLogisticBaseUnit": "pedestal+1_001_01x01_02",
+        "suppressExternalDither": true
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}
