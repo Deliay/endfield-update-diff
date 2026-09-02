@@ -1,0 +1,1941 @@
+{
+  "tableName": "PotentialTalentEffectTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 10,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "chr_0034_typhoea_talent_1_3": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [
+                {
+                  "key": "arrow_recover_time",
+                  "value": 3,
+                  "valueStr": ""
+                },
+                {
+                  "key": "energy_enterfight",
+                  "value": 4,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_chr_0034_typhoea_passive_arrowrecover"
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 5,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.6,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack1",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.6,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack2",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.6,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack3",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.6,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack4",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.6,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack5",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Sempre que uma <#ba.naturalburst>Explosão da Natureza</> é acionada em um inimigo, Typhoeus ganha 1 <#ba.arrowenergy>Sinal</>. O DNO causado por ataques fortalecidos pelo consumo de <#ba.arrownum>Flechas de Caça</> é aumentado para <@ba.vup>{atk_scale_enhence:0.0}</> vezes o original.\nAo entrar em batalha, Typhoeus ganha imediatamente <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Sinal(is)</>.\nTyphoeus pode ter até 4 <#ba.arrownum>Flechas de Caça</> e 8 <#ba.arrowenergy>Sinais</>.\n<@ba.info>Se a Explosão da Natureza for ativada simultaneamente em vários inimigos, isso contará apenas como uma instância de Explosão da Natureza ao contabilizar os Sinais obtidos por Typhoeus.</>",
+          "CN": "每当敌人触发<#ba.naturalburst>自然爆发</>的时候，获得1点<#ba.arrowenergy>启示</>。消耗<#ba.arrownum>猎矢</>强化的攻击，造成的伤害提升至原本的<@ba.vup>{atk_scale_enhence:0.0}</>倍。\n进入战斗时，立刻获得<@ba.vup>{energy_enterfight:0}</>点<#ba.arrowenergy>启示</>。\n<#ba.arrownum>猎矢</>上限为4枚，<#ba.arrowenergy>启示</>上限为8点。\n<@ba.info>同一时间内多名敌人受到自然爆发时，仅视为单个敌人受到自然爆发，并获得对应数量的启示。</>",
+          "DE": "Wann immer eine <#ba.naturalburst>Naturexplosion</> bei einem Gegner ausgelöst wird, erhält Typhoeus 1 <#ba.arrowenergy>Zeichen</>. Von Angriffen verursachter SDN, der durch den Verbrauch von <#ba.arrownum>Jagdpfeilen</> verstärkt wurde, erhöht sich auf das <@ba.vup>{atk_scale_enhence:0.0}</>-Fache des Ursprungswertes.\nZu Kampfbeginn erhält Typhoeus sofort <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Zeichen</>.\nTyphoeus kann bis zu 4 <#ba.arrownum>Jagdpfeile</> und bis zu 8 <#ba.arrowenergy>Zeichen</> haben.\n<@ba.info>Wird gleichzeitig bei mehreren Gegnern eine Naturexplosion ausgelöst, zählen diese Explosionen für die Berechnung der Zeichen, die Typhoeus erhält, nur als eine Naturexplosion.</>",
+          "EN": "Whenever a <#ba.naturalburst>Nature Burst</> is triggered on an enemy, Typhoeus gains 1 <#ba.arrowenergy>Sign</>. DMG dealt by attacks empowered by consuming <#ba.arrownum>Hunting Arrows</> is increased to <@ba.vup>{atk_scale_enhence:0.0}</> times the original.\nWhen entering battle, Typhoeus immediately gains <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Sign(s)</>.\nTyphoeus can have up to 4 <#ba.arrownum>Hunting Arrows</> and 8 <#ba.arrowenergy>Signs</>.\n<@ba.info>If Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.</>",
+          "FR": "Chaque fois qu'une <#ba.naturalburst>explosion naturelle</> est déclenchée sur un ennemi, Typhoeus obtient 1 <#ba.arrowenergy>Signe</>. Les dégâts infligés par les attaques améliorées en consommant des <#ba.arrownum>flèches de chasse</> sont multipliés par <@ba.vup>{atk_scale_enhence:0.0}</>.\nLorsqu'elle entre au combat, Typhoeus obtient immédiatement <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Signe(s)</>.\nTyphoeus peut posséder jusqu'à 4 <#ba.arrownum>flèches de chasse</> et 8 <#ba.arrowenergy>Signes</>.\n<@ba.info>Lorsqu'une explosion naturelle est déclenchée sur plusieurs ennemis, seul l'un d'eux est comptabilisé pour le calcul des Signes obtenus par Typhoeus.</>",
+          "ID": "Setiap kali <#ba.naturalburst>Nature Burst</> diaktifkan pada musuh, Typhoeus akan mendapatkan 1 <#ba.arrowenergy>Tanda</>. DMG yang ditimbulkan oleh serangan yang diperkuat dengan memakai <#ba.arrownum>Panah Berburu</> akan meningkat menjadi <@ba.vup>{atk_scale_enhence:0.0}</> kali nilai aslinya.\nSaat memasuki pertarungan, Typhoeus akan langsung mendapatkan <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Tanda</>.\nTyphoeus bisa punya maksimum 4 <#ba.arrownum>Panah Berburu</> dan 8 <#ba.arrowenergy>Tanda</>.\n<@ba.info>Jika Nature Burst diaktifkan serentak pada beberapa musuh, ini hanya akan dihitung sebagai satu hantaman Nature Burst saat menghitung Tanda yang didapatkan oleh Typhoeus.</>",
+          "IT": "Ogni volta che viene attivata un'<#ba.naturalburst>Esplosione di natura</> su un nemico, Typhoeus ottiene 1 <#ba.arrowenergy>Segno</>. I danni inflitti dai colpi potenziati consumando <#ba.arrownum>Frecce da caccia</> aumentano fino a <@ba.vup>{atk_scale_enhence:0.0}</> volte rispetto all'originale.\nAll'inizio della battaglia, Typhoeus ottiene immediatamente un numero di <#ba.arrowenergy>Segni</> pari a <@ba.vup>{energy_enterfight:0}</>.\nTyphoeus può accumulare fino a 4 <#ba.arrownum>Frecce da caccia</> e 8 <#ba.arrowenergy>Segni</>.\n<@ba.info>Se un'Esplosione di natura viene attivata contemporaneamente su più nemici, conta come una sola istanza di Esplosione di natura ai fini del calcolo dei Segni ottenuti da Typhoeus.</>",
+          "JP": "敵に<#ba.naturalburst>自然爆発</>を発生させるたびに、<#ba.arrowenergy>啓示</>を1獲得する\n<#ba.arrownum>猟矢</>を消費して強化された攻撃は、ダメージが<@ba.vup>{atk_scale_enhence:0.0}</>倍までアップする\n戦闘開始時、即座に<#ba.arrowenergy>啓示</>を<@ba.vup>{energy_enterfight:0}</>獲得する\n<#ba.arrownum>猟矢</>の上限は4本、<#ba.arrowenergy>啓示</>の上限は8\n<@ba.info>同時に複数の敵が自然爆発を受けた場合でも、1体の敵が自然爆発を受けたものとして扱い、対応する数量の啓示を獲得する</>",
+          "KR": "적에게 <#ba.naturalburst>자연 폭발</>이 발동할 때마다 <#ba.arrowenergy>계시</> 1포인트를 획득합니다. <#ba.arrownum>사냥 화살</>을 소모하는 강화된 공격의 피해량이 기존의 <@ba.vup>{atk_scale_enhence:0.0}</>배로 증가합니다.\n전투 진입 시, 즉시 <@ba.vup>{energy_enterfight:0}</>포인트의 <#ba.arrowenergy>계시</>를 획득합니다.\n<#ba.arrownum>사냥 화살</>은 최대 4발, <#ba.arrowenergy>계시</>는 최대 8포인트까지 보유할 수 있습니다.\n<@ba.info>동시에 여러 적에게 자연 폭발이 발동하더라도, 적 1명에게 발동한 것으로 간주하여 계시를 획득합니다.</>",
+          "MX": "Cuando se activa una <#ba.naturalburst>Ráfaga de naturaleza</> sobre un enemigo, Typhoeus obtiene 1 <#ba.arrowenergy>Signo</>. El DAÑ infligido por los ataques potenciados al consumir <#ba.arrownum>Flechas de caza</> aumenta a <@ba.vup>{atk_scale_enhence:0.0}</> veces el original.\nAl entrar en batalla, Typhoeus obtiene de inmediato <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Signo(s)</>.\nTyphoeus puede tener hasta 4 <#ba.arrownum>Flechas de caza</> y 8 <#ba.arrowenergy>Signos</>.\n<@ba.info>Si la Ráfaga de naturaleza se activa simultáneamente sobre varios enemigos, solo cuenta como una activación al calcular los Signos obtenidos por Typhoeus.</>",
+          "RU": "Когда активируется <#ba.naturalburst>природный взрыв</>, Тифея получает 1 <#ba.arrowenergy>знак</>. УРН, наносимый атаками, усиленными <#ba.arrownum>охотничьими стрелами</>, увеличивается до <@ba.vup>{atk_scale_enhence:0.0}</> р. от первоначального.\nВступление в бой немедленно дает <#ba.arrowenergy>знаки</> <@ba.vup>({energy_enterfight:0})</>.\nТифея может иметь не более 4 <#ba.arrownum>охотничьих стрел</> и не более 8 <#ba.arrowenergy>знаков</>.\n<@ba.info>Если природный взрыв одновременно активируется у нескольких врагов, при подсчете полученных Тифеей знаков учитывается только один из них.</>",
+          "TC": "每當敵人觸發<#ba.naturalburst>自然爆發</>的時候，獲得1點<#ba.arrowenergy>啟示</>。消耗<#ba.arrownum>獵矢</>強化的攻擊，造成的傷害提升至原本的<@ba.vup>{atk_scale_enhence:0.0}</>倍。\n進入戰鬥時，立刻獲得<@ba.vup>{energy_enterfight:0}</>點<#ba.arrowenergy>啟示</>。\n<#ba.arrownum>獵矢</>上限為4枚，<#ba.arrowenergy>啟示</>上限為8點。\n<@ba.info>同一時間內多名敵人受到自然爆發時，僅視為單個敵人受到自然爆發，並獲得對應數量的啟示。</>",
+          "TH": "ทุกครั้งที่​ทำให้เกิด​<#ba.naturalburst>​ระเบิด​ธรรมชาติ​</>​กับ​ศัตรู​ ไท​ฟี​อุส​จะ​ได้รับ​<#ba.arrowenergy>​สัญญะ​</> 1 หน่วย​ DMG ที่เกิด​จาก​การ​โจมตี​ที่​ได้รับ​การ​เสริม​พลัง​โดย​ใช้​ <#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</> จะ​เพิ่มขึ้น​เป็น​ <@ba.vup>{atk_scale_enhence:0.0}</> เท่า​ของ​เดิม​\nเมื่อ​เข้าสู่​การต่อสู้​ ไท​ฟี​อุส​จะ​ได้รับ​<@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>​สัญญะ​</>​ทันที​\nไท​ฟี​อุส​สามารถ​มี​<#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</>​ได้​สูงสุด​ 4 ดอก​ และ​มี​ <#ba.arrowenergy>​สัญญะ​</>​ได้​สูงสุด​ 8 หน่วย​\n<@ba.info>​หาก​เกิด​ระเบิด​ธรรมชาติ​ใส่​ศัตรู​หลาย​ตัว​พร้อมกัน​ จะ​นับเป็น​ระเบิด​ธรรมชาติ​เพียง​หนึ่ง​ครั้ง​เท่านั้น​ เมื่อ​นำมา​คำนวณ​สัญญะ​ที่​ไท​ฟี​อุส​จะ​ได้รับ​</>",
+          "VN": "Mỗi khi kích hoạt <#ba.naturalburst>Bùng Nổ Tự Nhiên</> lên kẻ địch, Typhoeus nhận 1 <#ba.arrowenergy>Dấu Ấn</>. ST gây ra bởi các đòn tấn công được cường hóa nhờ tiêu hao <#ba.arrownum>Mũi Tên Săn</> tăng lên bằng <@ba.vup>{atk_scale_enhence:0.0}</> lần so với ban đầu.\nKhi vào trận, Typhoeus lập tức nhận <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Dấu Ấn</>.\nTyphoeus có thể sở hữu tối đa 4 <#ba.arrownum>Mũi Tên Săn</> và 8 <#ba.arrowenergy>Dấu Ấn</>.\n<@ba.info>Nếu Bùng Nổ Tự Nhiên được kích hoạt đồng thời lên nhiều kẻ địch, hiệu ứng này chỉ được tính là 1 lần Bùng Nổ Tự Nhiên khi tính số Dấu Ấn Typhoeus nhận được.</>"
+        },
+        "id": "chr_0034_typhoea_talent_1_3"
+      },
+      "chr_0034_typhoea_potential_4": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 2,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 2,
+              "paramType": 1,
+              "paramValue": 0.85,
+              "skillId": "chr_0034_typhoea_ultimate_skillfloating"
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Habilidade suprema <@ba.key>Chamado da Montanha de Gelo</> melhorada: custo da Energia Suprema <@ba.vup>- {1-costvalue:0%}</>.",
+          "CN": "终结技<@ba.key>冰山呼告</>所需的终结技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "DE": "Ultimative Fertigkeit <@ba.key>Ruf des eisigen Berges</> verbessert: Ultimative Energiekosten <@ba.vup>-{1-costvalue:0%}</>.",
+          "EN": "Ultimate <@ba.key>Call of Ice Mountain</> improved: Ultimate Energy cost <@ba.vup>-{1-costvalue:0%}</>.",
+          "FR": "Renforce l'ultime <@ba.key>Appel de la montagne glacée</> : coût en énergie d'ultime <@ba.vup>-{1-costvalue:0%}</>.",
+          "ID": "Ultimate <@ba.key>Call of Ice Mountain</> meningkat: Biaya Energi Ultimate <@ba.vup>-{1-costvalue:0%}</>.",
+          "IT": "Abilità suprema <@ba.key>Richiamo del monte di ghiaccio</> migliorata: <@ba.vup>-{1-costvalue:0%}</> al costo di energia suprema.",
+          "JP": "必殺技<@ba.key>「氷山の呼び声」</>に必要な必殺チャージ<@ba.vup>-{1-costvalue:0%}</>",
+          "KR": "궁극기 <@ba.key>설산의 포효</>의 사용에 필요한 궁극기 에너지 <@ba.vup>-{1-costvalue:0%}</>",
+          "MX": "Máxima <@ba.key>Llamado de la montaña de hielo</> mejorada: Costo de Energía máxima <@ba.vup>-{1-costvalue:0%}</>.",
+          "RU": "Улучшает супернавык <@ba.key>Зов ледяной горы</>: расход суперэнергии <@ba.vup>-{1-costvalue:0%}</>.",
+          "TC": "終結技<@ba.key>冰山呼告</>所需的終結技能量<@ba.vup>-{1-costvalue:0%}</>。",
+          "TH": "อัล​ติ​เมต​<@ba.key>​เสียง​เพรียก​แห่ง​ภูเขาน้ำแข็ง​</>​ได้รับ​การ​เสริม​พลัง​: ใช้​พลังงาน​อัล​ติ​เมท​ลดลง​ <@ba.vup>-{1-costvalue:0%}</>",
+          "VN": "Tuyệt Kỹ <@ba.key>Tiếng Gọi Núi Băng</> được cường hóa: Tiêu hao Năng Lượng Tuyệt Kỹ <@ba.vup>-{1-costvalue:0%}</>."
+        },
+        "id": "chr_0034_typhoea_potential_4"
+      },
+      "chr_0034_typhoea_talent_2_2": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [
+                {
+                  "key": "damage_resist",
+                  "value": 0.3,
+                  "valueStr": ""
+                },
+                {
+                  "key": "sheild_cd",
+                  "value": 18,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_chr_0034_typhoea_talent_linken_sphere"
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 5,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Enquanto está <@ba.key>Pairando</>, Typhoeus ativa uma <@ba.key>Barreira Protetora</> que reduz o DNO Recebido por ela em <@ba.vup>{damage_resist:0%}</> e a torna mais difícil de interromper enquanto a barreira está ativa. A <@ba.key>Barreira Protetora</> é fragmentada quando Typhoeus recebe DNO e não pode ser ativada novamente pelos próximos <@ba.vup>{sheild_cd:0}</> s.",
+          "CN": "每次进入<@ba.key>浮空</>状态时，持续期间内激活<@ba.key>防御护罩</>，使自身受到的伤害<@ba.vup>-{damage_resist:0%}</>且更难被打断，在受到伤害时<@ba.key>防御护罩</>会被击碎，且<@ba.vup>{sheild_cd:0}</>秒内无法再次激活。",
+          "DE": "Wenn Typhoeus <@ba.key>schwebt</>, aktiviert sie eine <@ba.key>Schutzbarriere</>, die ihren Erlittenen SDN um <@ba.vup>{damage_resist:0%}</> senkt. Solange die Barriere aktiv ist, ist es zudem schwieriger, Typhoeus zu unterbrechen. Die <@ba.key>Schutzbarriere</> zersplittert, wenn Typhoeus SDN erleidet und kann anschließend für <@ba.vup>{sheild_cd:0}</> Sek. nicht erneut aktiviert werden.",
+          "EN": "When <@ba.key>Hovering</>, Typhoeus activates a <@ba.key>Protective Barrier</> that reduces her DMG Taken by <@ba.vup>{damage_resist:0%}</> and makes her harder to interrupt while it is active. The <@ba.key>Protective Barrier</> is shattered when Typhoeus takes DMG, and cannot be activated again for <@ba.vup>{sheild_cd:0}</>s afterwards.",
+          "FR": "Lorsqu'elle est en <@ba.key>Surplomb</>, Typhoeus active une <@ba.key>barrière protectrice</> qui réduit les DÉG subis de <@ba.vup>{damage_resist:0%}</> et la rend plus difficile à interrompre tant que la barrière est active. La <@ba.key>barrière protectrice</> se brise lorsque Typhoeus subit des DÉG et ne peut ensuite plus être activée pendant <@ba.vup>{sheild_cd:0}</> s.",
+          "ID": "Saat <@ba.key>Melayang</>, Typhoeus akan mengaktifkan <@ba.key>Penghalang Pelindung</> yang akan mengurangi DMG Taken miliknya sebesar <@ba.vup>{damage_resist:0%}</> dan membuatnya lebih sulit disela selama efek itu aktif. <@ba.key>Penghalang Pelindung</> itu akan hancur saat Typhoeus menerima DMG dan tidak bisa diaktifkan lagi selama <@ba.vup>{sheild_cd:0}</> dtk setelahnya.",
+          "IT": "Mentre <@ba.key>orbita</>, Typhoeus attiva una <@ba.key>Barriera protettiva</> che riduce di <@ba.vup>{damage_resist:0%}</> i danni subiti e la rende più difficile da interrompere finché rimane attiva. La <@ba.key>Barriera protettiva</> si frantuma quando Typhoeus subisce danni e non può essere riattivata per <@ba.vup>{sheild_cd:0}</> s.",
+          "JP": "<@ba.key>浮遊</>状態に入るたび、持続期間中は<@ba.key>防御シールド</>が発動する\n中断されにくくなり、自身の受けるダメージ<@ba.vup>-{damage_resist:0%}</>\nダメージを受けると<@ba.key>防御シールド</>は破壊され、その後<@ba.vup>{sheild_cd:0}</>秒間は再発動できない",
+          "KR": "<@ba.key>공중에 뜸</> 상태에 진입하면 유지 시간 동안 <@ba.key>방어 보호막</>이 활성화됩니다. 보호막이 있는 동안 받는 피해가 <@ba.vup>-{damage_resist:0%}</>, 행동이 쉽게 끊어지지 않습니다. 피해를 받으면 <@ba.key>방어 보호막</>이 파괴되고, <@ba.vup>{sheild_cd:0}</>초 동안은 다시 활성화되지 않습니다.",
+          "MX": "Mientras está en estado <@ba.key>Flotante</>, Typhoeus activa una <@ba.key>Barrera protectora</> que reduce el DAÑ recibido por <@ba.vup>{damage_resist:0%}</> y hace que sea más difícil de interrumpir mientras está activa. La <@ba.key>Barrera protectora</> se rompe cuando Typhoeus recibe DAÑ y no puede volver a activarse durante <@ba.vup>{sheild_cd:0}</> s.",
+          "RU": "Когда Тифея <@ba.key>парит</>, она активирует <@ba.key>защитный барьер</>, который снижает ее получаемый УРН на <@ba.vup>{damage_resist:0%}</>. Пока барьер активен, Тифею сложнее прервать. <@ba.key>Защитный барьер</> разрушается, когда Тифея получает УРН. Его можно будет активировать повторно только через <@ba.vup>{sheild_cd:0}</> сек.",
+          "TC": "每次進入<@ba.key>浮空</>狀態時，持續期間內啟用<@ba.key>防禦護罩</>，使自身受到的傷害<@ba.vup>-{damage_resist:0%}</>且更難被打斷，在受到傷害時<@ba.key>防禦護罩</>會被擊碎，且<@ba.vup>{sheild_cd:0}</>秒內無法再次啟用。",
+          "TH": "เมื่อ​<@ba.key>​ลอยตัว​</> ไท​ฟี​อุส​จะ​เปิด​ใช้งาน​<@ba.key>​บาร์​เรีย​ป้องกัน​</>​ที่​ช่วย​ลด​ DMG ที่​ได้รับ​ลง​ <@ba.vup>{damage_resist:0%}</> และ​ทำให้​ถูก​ขัด​ทักษะ​ได้​ยาก​ขึ้น​ในขณะที่​บาร์​เรีย​ยัง​ทำงาน​อยู่​ <@ba.key>​บาร์​เรีย​ป้องกัน​</>​จะ​แตก​เมื่อ​ไท​ฟี​อุส​ได้รับ​ DMG และ​จะ​ไม่​สามารถ​เปิด​ใช้งาน​อีกครั้ง​ได้​เป็นเวลา​ <@ba.vup>{sheild_cd:0}</> วินาที​หลังจากนั้น",
+          "VN": "Khi đang <@ba.key>Bay Lơ Lửng</>, Typhoeus kích hoạt một <@ba.key>Lá Chắn Bảo Hộ</>, giúp giảm <@ba.vup>{damage_resist:0%}</> ST Phải Chịu và khiến cô khó bị gián đoạn hơn trong thời gian lá chắn có hiệu lực. <@ba.key>Lá Chắn Bảo Hộ</> sẽ tan vỡ khi Typhoeus chịu ST, và không thể kích hoạt lại trong <@ba.vup>{sheild_cd:0}</> giây sau đó."
+        },
+        "id": "chr_0034_typhoea_talent_2_2"
+      },
+      "chr_0034_typhoea_potential_5": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "arrow_num_given",
+              "floatValue": 1,
+              "modifyType": 1,
+              "skillId": "chr_0034_typhoea_ultimate_skillfloating",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_damage_rate",
+              "floatValue": 1.1,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack1",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_damage_rate",
+              "floatValue": 1.1,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack2",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_damage_rate",
+              "floatValue": 1.1,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack3",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_damage_rate",
+              "floatValue": 1.1,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack4",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_damage_rate",
+              "floatValue": 1.1,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack5",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_damge_up",
+              "floatValue": 1.2,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_ultimate_skillfloating",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Habilidade suprema <@ba.key>Chamado da Montanha de Gelo</> melhorada: ganha <#ba.arrownum>Flechas de Caça</> <@ba.vup>+ {arrow_num_given:0}</>. O DNO da Habilidade Suprema Causado é aumentado para <@ba.vup>{potential_damge_up:0.0}</> vezes o original, enquanto o Multiplicador DNO de Explosão da Natureza de <@ba.key>Disparo Poderoso</> é aumentado para <@ba.vup>{potential_damage_rate:0.0}</> vezes o original.",
+          "CN": "终结技<@ba.key>冰山呼告</>获得的<#ba.arrownum>猎矢</>数量<@ba.vup>+{arrow_num_given:0}</>，终结技伤害提升至原本的<@ba.vup>{potential_damge_up:0.0}</>倍，<@ba.key>强化射击</>造成的自然爆发伤害倍率提升至原本的<@ba.vup>{potential_damage_rate:0.0}</>倍。",
+          "DE": "Ultimative Fertigkeit <@ba.key>Ruf des eisigen Berges</> verbessert: Erzeugt jetzt <@ba.vup>+{arrow_num_given:0}</> <#ba.arrownum>Jagdpfeile</>. Der Multiplikator für den verursachten SDN der Ultimativen Fertigkeit erhöht sich auf das <@ba.vup>{potential_damge_up:0.0}</>-Fache des Ursprungswertes und der SDN-Multiplikator der durch den <@ba.key>Energieschuss</> ausgelösten Naturexplosion erhöht sich auf das <@ba.vup>{potential_damage_rate:0.0}</>-Fache des Ursprungswertes.",
+          "EN": "Ultimate <@ba.key>Call of Ice Mountain</> improved: Gains <#ba.arrownum>Hunting Arrows</> <@ba.vup>+{arrow_num_given:0}</>. Ultimate DMG Dealt is increased to <@ba.vup>{potential_damge_up:0.0}</> times the original, while Nature Burst DMG Multiplier of <@ba.key>Power Shot</> is increased to <@ba.vup>{potential_damage_rate:0.0}</> times the original.",
+          "FR": "Renforce l'ultime <@ba.key>Appel de la montagne glacée</> : <@ba.vup>+{arrow_num_given:0}</> <#ba.arrownum>flèches de chasse</> obtenues. Les DÉG d'ultime sont multipliés par <@ba.vup>{potential_damage_rate:0.0}</>, tandis que le multiplicateur de DÉG de l'explosion naturelle du <@ba.key>Coup puissant</> passe à <@ba.vup>{potential_damge_up:0.0}</> fois sa valeur d'origine.",
+          "ID": "Ultimate <@ba.key>Call of Ice Mountain</> meningkat: Memperoleh <#ba.arrownum>Panah Berburu</> <@ba.vup>+{arrow_num_given:0}</>. DMG Dealt dari ultimate meningkat menjadi <@ba.vup>{potential_damge_up:0.0}</> kali nilai aslinya, sementara pengganda Nature Burst DMG dari <@ba.key>Power Shot</> meningkat menjadi <@ba.vup>{potential_damage_rate:0.0}</> kali nilai aslinya.",
+          "IT": "Abilità suprema <@ba.key>Richiamo del monte di ghiaccio</> migliorata: conferisce <@ba.vup>+{arrow_num_given:0}</> alle <#ba.arrownum>Frecce da caccia</>. I danni da abilità suprema inflitti aumentano di <@ba.vup>{potential_damge_up:0.0}</> volte rispetto all'originale, mentre il moltiplicatore danni di Esplosione di natura di <@ba.key>Colpo energetico</> aumenta di <@ba.vup>{potential_damage_rate:0.0}</> volte rispetto all'originale.",
+          "JP": "必殺技<@ba.key>「氷山の呼び声」</>で獲得する<#ba.arrownum>猟矢</>の数量<@ba.vup>+{arrow_num_given:0}</>、必殺技ダメージが<@ba.vup>{potential_damge_up:0.0}</>倍までアップする\n<@ba.key>強化射撃</>で与える自然爆発ダメージ倍率が<@ba.vup>{potential_damage_rate:0.0}</>倍までアップする",
+          "KR": "궁극기 <@ba.key>설산의 포효</>로 획득하는 <#ba.arrownum>사냥 화살</> 수 <@ba.vup>+{arrow_num_given:0}</>, 궁극기 피해가 기존의 <@ba.vup>{potential_damge_up:0.0}</>배로 증가하며 <@ba.key>강력한 사격</>이 주는 자연 폭발 피해 배율이 기존의 <@ba.vup>{potential_damage_rate:0.0}</>배로 증가합니다.",
+          "MX": "Máxima <@ba.key>Llamado de la montaña de hielo</> mejorada: Obtiene <#ba.arrownum>Flechas de caza</> <@ba.vup>+{arrow_num_given:0}</>. El DAÑ infligido de la máxima aumenta a <@ba.vup>{potential_damge_up:0.0}</> veces el original, mientras que el Multiplicador de DAÑ de Ráfaga de naturaleza de <@ba.key>Disparo potente</> aumenta a <@ba.vup>{potential_damage_rate:0.0}</> veces el original.",
+          "RU": "Улучшает супернавык <@ba.key>Зов ледяной горы</>: <#ba.arrownum>охотничьи стрелы</> <@ba.vup>+{arrow_num_given:0}</>. Наносимый УРН от супернавыка повышается до <@ba.vup>{potential_damge_up:0.0}</> р. от первоначального, а множитель УРН от природного взрыва <@ba.key>мощного выстрела</> повышается до <@ba.vup>{potential_damage_rate:0.0}</> р. от первоначального.",
+          "TC": "終結技<@ba.key>冰山呼告</>獲得的<#ba.arrownum>獵矢</>數量<@ba.vup>+{arrow_num_given:0}</>，終結技傷害提升至原本的<@ba.vup>{potential_damge_up:0.0}</>倍，<@ba.key>強化射擊</>造成的自然爆發傷害倍率提升至原本的<@ba.vup>{potential_damage_rate:0.0}</>倍。",
+          "TH": "อัล​ติ​เมต​<@ba.key>​เสียง​เพรียก​แห่ง​ภูเขาน้ำแข็ง​</>​ได้รับ​การ​เสริม​พลัง​: ได้รับ​<#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</> <@ba.vup>+{arrow_num_given:0}</> DMG อัล​ติ​เมท​ที่​ทำได้​เพิ่มขึ้น​จาก​เดิม​ <@ba.vup>{potential_damge_up:0.0}</> เท่า​ ส่วนตัว​คูณ​ DMG ระเบิด​ธรรมชาติ​ที่เกิด​จาก​<@ba.key>​พาว​เวอร์​ช็อต​</>​เพิ่มขึ้น​จาก​เดิม​ <@ba.vup>{potential_damage_rate:0.0}</> เท่า",
+          "VN": "Tuyệt Kỹ <@ba.key>Tiếng Gọi Núi Băng</> được cường hóa: Tăng <#ba.arrownum>Mũi Tên Săn</> <@ba.vup>+{arrow_num_given:0}</>. ST Tuyệt Kỹ Gây Ra được tăng lên <@ba.vup>{potential_damge_up:0.0}</> lần so với ban đầu, trong khi Hệ Số ST Bùng Nổ Tự Nhiên của <@ba.key>Phát Bắn Cường Hóa</> được tăng lên <@ba.vup>{potential_damage_rate:0.0}</> lần so với ban đầu."
+        },
+        "id": "chr_0034_typhoea_potential_5"
+      },
+      "chr_0034_typhoea_talent_1_2": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [
+                {
+                  "key": "arrow_recover_time",
+                  "value": 3,
+                  "valueStr": ""
+                },
+                {
+                  "key": "energy_enterfight",
+                  "value": 2,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_chr_0034_typhoea_passive_arrowrecover"
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 5,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.4,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack1",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.4,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack2",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.4,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack3",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.4,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack4",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.4,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack5",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Sempre que uma <#ba.naturalburst>Explosão da Natureza</> é acionada em um inimigo, Typhoeus ganha 1 <#ba.arrowenergy>Sinal</>. O DNO causado por ataques fortalecidos pelo consumo de <#ba.arrownum>Flechas de Caça</> é aumentado para <@ba.vup>{atk_scale_enhence:0.0}</> vezes o original.\nAo entrar em batalha, Typhoeus ganha imediatamente <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Sinal(is)</>.\nTyphoeus pode ter até 4 <#ba.arrownum>Flechas de Caça</> e 8 <#ba.arrowenergy>Sinais</>.\n<@ba.info>Se a Explosão da Natureza for ativada simultaneamente em vários inimigos, isso contará apenas como uma instância de Explosão da Natureza ao contabilizar os Sinais obtidos por Typhoeus.</>",
+          "CN": "每当敌人触发<#ba.naturalburst>自然爆发</>的时候，获得1点<#ba.arrowenergy>启示</>。消耗<#ba.arrownum>猎矢</>强化的攻击，造成的伤害提升至原本的<@ba.vup>{atk_scale_enhence:0.0}</>倍。\n进入战斗时，立刻获得<@ba.vup>{energy_enterfight:0}</>点<#ba.arrowenergy>启示</>。\n<#ba.arrownum>猎矢</>上限为4枚，<#ba.arrowenergy>启示</>上限为8点。\n<@ba.info>同一时间内多名敌人受到自然爆发时，仅视为单个敌人受到自然爆发，并获得对应数量的启示。</>",
+          "DE": "Wann immer eine <#ba.naturalburst>Naturexplosion</> bei einem Gegner ausgelöst wird, erhält Typhoeus 1 <#ba.arrowenergy>Zeichen</>. Von Angriffen verursachter SDN, der durch den Verbrauch von <#ba.arrownum>Jagdpfeilen</> verstärkt wurde, erhöht sich auf das <@ba.vup>{atk_scale_enhence:0.0}</>-Fache des Ursprungswertes.\nZu Kampfbeginn erhält Typhoeus sofort <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Zeichen</>.\nTyphoeus kann bis zu 4 <#ba.arrownum>Jagdpfeile</> und bis zu 8 <#ba.arrowenergy>Zeichen</> haben.\n<@ba.info>Wird gleichzeitig bei mehreren Gegnern eine Naturexplosion ausgelöst, zählen diese Explosionen für die Berechnung der Zeichen, die Typhoeus erhält, nur als eine Naturexplosion.</>",
+          "EN": "Whenever a <#ba.naturalburst>Nature Burst</> is triggered on an enemy, Typhoeus gains 1 <#ba.arrowenergy>Sign</>. DMG dealt by attacks empowered by consuming <#ba.arrownum>Hunting Arrows</> is increased to <@ba.vup>{atk_scale_enhence:0.0}</> times the original.\nWhen entering battle, Typhoeus immediately gains <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Sign(s)</>.\nTyphoeus can have up to 4 <#ba.arrownum>Hunting Arrows</> and 8 <#ba.arrowenergy>Signs</>.\n<@ba.info>If Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.</>",
+          "FR": "Chaque fois qu'une <#ba.naturalburst>explosion naturelle</> est déclenchée sur un ennemi, Typhoeus obtient 1 <#ba.arrowenergy>Signe</>. Les dégâts infligés par les attaques améliorées en consommant des <#ba.arrownum>flèches de chasse</> sont multipliés par <@ba.vup>{atk_scale_enhence:0.0}</>.\nLorsqu'elle entre au combat, Typhoeus obtient immédiatement <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Signe(s)</>.\nTyphoeus peut posséder jusqu'à 4 <#ba.arrownum>flèches de chasse</> et 8 <#ba.arrowenergy>Signes</>.\n<@ba.info>Lorsqu'une explosion naturelle est déclenchée sur plusieurs ennemis, seul l'un d'eux est comptabilisé pour le calcul des Signes obtenus par Typhoeus.</>",
+          "ID": "Setiap kali <#ba.naturalburst>Nature Burst</> diaktifkan pada musuh, Typhoeus akan mendapatkan 1 <#ba.arrowenergy>Tanda</>. DMG yang ditimbulkan oleh serangan yang diperkuat dengan memakai <#ba.arrownum>Panah Berburu</> akan meningkat menjadi <@ba.vup>{atk_scale_enhence:0.0}</> kali nilai aslinya.\nSaat memasuki pertarungan, Typhoeus akan langsung mendapatkan <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Tanda</>.\nTyphoeus bisa punya maksimum 4 <#ba.arrownum>Panah Berburu</> dan 8 <#ba.arrowenergy>Tanda</>.\n<@ba.info>Jika Nature Burst diaktifkan serentak pada beberapa musuh, ini hanya akan dihitung sebagai satu hantaman Nature Burst saat menghitung Tanda yang didapatkan oleh Typhoeus.</>",
+          "IT": "Ogni volta che viene attivata un'<#ba.naturalburst>Esplosione di natura</> su un nemico, Typhoeus ottiene 1 <#ba.arrowenergy>Segno</>. I danni inflitti dai colpi potenziati consumando <#ba.arrownum>Frecce da caccia</> aumentano fino a <@ba.vup>{atk_scale_enhence:0.0}</> volte rispetto all'originale.\nAll'inizio della battaglia, Typhoeus ottiene immediatamente un numero di <#ba.arrowenergy>Segni</> pari a <@ba.vup>{energy_enterfight:0}</>.\nTyphoeus può accumulare fino a 4 <#ba.arrownum>Frecce da caccia</> e 8 <#ba.arrowenergy>Segni</>.\n<@ba.info>Se un'Esplosione di natura viene attivata contemporaneamente su più nemici, conta come una sola istanza di Esplosione di natura ai fini del calcolo dei Segni ottenuti da Typhoeus.</>",
+          "JP": "敵に<#ba.naturalburst>自然爆発</>を発生させるたびに、<#ba.arrowenergy>啓示</>を1獲得する\n<#ba.arrownum>猟矢</>を消費して強化された攻撃は、ダメージが<@ba.vup>{atk_scale_enhence:0.0}</>倍までアップする\n戦闘開始時、即座に<#ba.arrowenergy>啓示</>を<@ba.vup>{energy_enterfight:0}</>獲得する\n<#ba.arrownum>猟矢</>の上限は4本、<#ba.arrowenergy>啓示</>の上限は8\n<@ba.info>同時に複数の敵が自然爆発を受けた場合でも、1体の敵が自然爆発を受けたものとして扱い、対応する数量の啓示を獲得する</>",
+          "KR": "적에게 <#ba.naturalburst>자연 폭발</>이 발동할 때마다 <#ba.arrowenergy>계시</> 1포인트를 획득합니다. <#ba.arrownum>사냥 화살</>을 소모하는 강화된 공격의 피해량이 기존의 <@ba.vup>{atk_scale_enhence:0.0}</>배로 증가합니다.\n전투 진입 시, 즉시 <@ba.vup>{energy_enterfight:0}</>포인트의 <#ba.arrowenergy>계시</>를 획득합니다.\n<#ba.arrownum>사냥 화살</>은 최대 4발, <#ba.arrowenergy>계시</>는 최대 8포인트까지 보유할 수 있습니다.\n<@ba.info>동시에 여러 적에게 자연 폭발이 발동하더라도, 적 1명에게 발동한 것으로 간주하여 계시를 획득합니다.</>",
+          "MX": "Cuando se activa una <#ba.naturalburst>Ráfaga de naturaleza</> sobre un enemigo, Typhoeus obtiene 1 <#ba.arrowenergy>Signo</>. El DAÑ infligido por los ataques potenciados al consumir <#ba.arrownum>Flechas de caza</> aumenta a <@ba.vup>{atk_scale_enhence:0.0}</> veces el original.\nAl entrar en batalla, Typhoeus obtiene de inmediato <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Signo(s)</>.\nTyphoeus puede tener hasta 4 <#ba.arrownum>Flechas de caza</> y 8 <#ba.arrowenergy>Signos</>.\n<@ba.info>Si la Ráfaga de naturaleza se activa simultáneamente sobre varios enemigos, solo cuenta como una activación al calcular los Signos obtenidos por Typhoeus.</>",
+          "RU": "Когда активируется <#ba.naturalburst>природный взрыв</>, Тифея получает 1 <#ba.arrowenergy>знак</>. УРН, наносимый атаками, усиленными <#ba.arrownum>охотничьими стрелами</>, увеличивается до <@ba.vup>{atk_scale_enhence:0.0}</> р. от первоначального.\nВступление в бой немедленно дает <#ba.arrowenergy>знаки</> <@ba.vup>({energy_enterfight:0})</>.\nТифея может иметь не более 4 <#ba.arrownum>охотничьих стрел</> и не более 8 <#ba.arrowenergy>знаков</>.\n<@ba.info>Если природный взрыв одновременно активируется у нескольких врагов, при подсчете полученных Тифеей знаков учитывается только один из них.</>",
+          "TC": "每當敵人觸發<#ba.naturalburst>自然爆發</>的時候，獲得1點<#ba.arrowenergy>啟示</>。消耗<#ba.arrownum>獵矢</>強化的攻擊，造成的傷害提升至原本的<@ba.vup>{atk_scale_enhence:0.0}</>倍。\n進入戰鬥時，立刻獲得<@ba.vup>{energy_enterfight:0}</>點<#ba.arrowenergy>啟示</>。\n<#ba.arrownum>獵矢</>上限為4枚，<#ba.arrowenergy>啟示</>上限為8點。\n<@ba.info>同一時間內多名敵人受到自然爆發時，僅視為單個敵人受到自然爆發，並獲得對應數量的啟示。</>",
+          "TH": "ทุกครั้งที่​ทำให้เกิด​<#ba.naturalburst>​ระเบิด​ธรรมชาติ​</>​กับ​ศัตรู​ ไท​ฟี​อุส​จะ​ได้รับ​<#ba.arrowenergy>​สัญญะ​</> 1 หน่วย​ DMG ที่เกิด​จาก​การ​โจมตี​ที่​ได้รับ​การ​เสริม​พลัง​โดย​ใช้​ <#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</> จะ​เพิ่มขึ้น​เป็น​ <@ba.vup>{atk_scale_enhence:0.0}</> เท่า​ของ​เดิม​\nเมื่อ​เข้าสู่​การต่อสู้​ ไท​ฟี​อุส​จะ​ได้รับ​<@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>​สัญญะ​</>​ทันที​\nไท​ฟี​อุส​สามารถ​มี​<#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</>​ได้​สูงสุด​ 4 ดอก​ และ​มี​ <#ba.arrowenergy>​สัญญะ​</>​ได้​สูงสุด​ 8 หน่วย​\n<@ba.info>​หาก​เกิด​ระเบิด​ธรรมชาติ​ใส่​ศัตรู​หลาย​ตัว​พร้อมกัน​ จะ​นับเป็น​ระเบิด​ธรรมชาติ​เพียง​หนึ่ง​ครั้ง​เท่านั้น​ เมื่อ​นำมา​คำนวณ​สัญญะ​ที่​ไท​ฟี​อุส​จะ​ได้รับ​</>",
+          "VN": "Mỗi khi kích hoạt <#ba.naturalburst>Bùng Nổ Tự Nhiên</> lên kẻ địch, Typhoeus nhận 1 <#ba.arrowenergy>Dấu Ấn</>. ST gây ra bởi các đòn tấn công được cường hóa nhờ tiêu hao <#ba.arrownum>Mũi Tên Săn</> tăng lên bằng <@ba.vup>{atk_scale_enhence:0.0}</> lần so với ban đầu.\nKhi vào trận, Typhoeus lập tức nhận <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Dấu Ấn</>.\nTyphoeus có thể sở hữu tối đa 4 <#ba.arrownum>Mũi Tên Săn</> và 8 <#ba.arrowenergy>Dấu Ấn</>.\n<@ba.info>Nếu Bùng Nổ Tự Nhiên được kích hoạt đồng thời lên nhiều kẻ địch, hiệu ứng này chỉ được tính là 1 lần Bùng Nổ Tự Nhiên khi tính số Dấu Ấn Typhoeus nhận được.</>"
+        },
+        "id": "chr_0034_typhoea_talent_1_2"
+      },
+      "chr_0034_typhoea_potential_1": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_base",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0034_typhoea_floating_attack1",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_base",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0034_typhoea_floating_attack2",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_base",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0034_typhoea_floating_attack3",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_base",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0034_typhoea_floating_attack4",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_base",
+              "floatValue": 1.2,
+              "modifyType": 2,
+              "skillId": "chr_0034_typhoea_floating_attack5",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_atkup",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_normal_skill_floating_start",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_up",
+              "floatValue": 0.18,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_normal_skill_floating_start",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "potential_atkup",
+              "floatValue": 1,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_ultimate_skillfloating",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_up",
+              "floatValue": 0.18,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_ultimate_skillfloating",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [
+                {
+                  "key": "decrease_cd",
+                  "value": -3,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_chr_0034_typhoea_potential_decrease_sheildcd"
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 5,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Durante está <@ba.key>Pairando</>, o DNO Causado por ATQ <@ba.vup>+ {atk_up:0%}</> e ATQBA é aumentado para <@ba.vup>{atk_scale_base:0.0}</> vezes o original. \nTalento <@ba.key>Foco da Caçadora</> melhorado: o tempo de reativação da <@ba.key>Barreira Protetora</> é <@ba.vup>{decrease_cd:0}</> s.",
+          "CN": "处于<@ba.key>浮空</>状态时，攻击力<@ba.vup>+{atk_up:0%}</>，空中普通攻击伤害提升至原本的<@ba.vup>{atk_scale_base:0.0}</>倍。\n天赋<@ba.key>猎手的专注</>效果加强：<@ba.key>防御护罩</>的再次激活时间<@ba.vup>{decrease_cd:0}</>秒。",
+          "DE": "Während des <@ba.key>Schwebens</>: ANG <@ba.vup>+{atk_up:0%}</> und Verursachter LSTDANG-SDN wird auf das <@ba.vup>{atk_scale_base:0.0}</>-fache des Ursprungswertes erhöht. \nTalent <@ba.key>Fokus der Jägerin</> verbessert: Reaktivierungszeit von <@ba.key>Schutzbarriere</> <@ba.vup>{decrease_cd:0}</> Sek.",
+          "EN": "When <@ba.key>Hovering</>, ATK <@ba.vup>+{atk_up:0%}</> and ABATK DMG Dealt is increased to <@ba.vup>{atk_scale_base:0.0}</> times the original. \nTalent <@ba.key>Huntress's Focus</> improved: <@ba.key>Protective Barrier</> reactivation time <@ba.vup>{decrease_cd:0}</>s.",
+          "FR": "En <@ba.key>Surplomb</>, <@ba.vup>+{atk_up:0%}</> d'ATQ et les DÉG D'ATQ-B-A infligés sont multipliés par <@ba.vup>{atk_scale_base:0.0}</>. \nRenforce le talent <@ba.key>Concentration de la chasseuse</> : temps de réactivation de la <@ba.key>barrière protectrice</> <@ba.vup>{decrease_cd:0}</> s.",
+          "ID": "Saat <@ba.key>Melayang</>, ATK <@ba.vup>+{atk_up:0%}</> dan DMG Dealt dari ABATK akan meningkat menjadi <@ba.vup>{atk_scale_base:0.0}</> kali dari aslinya. \nTalent <@ba.key>Huntress’s Focus</> meningkat: waktu reaktivasi <@ba.key>Penghalang Pelindung</> menjadi <@ba.vup>{decrease_cd:0}</> dtk.",
+          "IT": "Mentre <@ba.key>orbita</>, ATT <@ba.vup>+{atk_up:0%}</> e DAN da ATTBV inflitti aumentano a <@ba.vup>{atk_scale_base:0.0}</> volte rispetto all'originale. \nTalento <@ba.key>Concentrazione della cacciatrice</> migliorato: tempo di reazione di <@ba.key>Barriera protettiva</> <@ba.vup>{decrease_cd:0}</> s.",
+          "JP": "<@ba.key>浮遊</>状態のとき、攻撃力<@ba.vup>+{atk_up:0%}</>、空中通常攻撃ダメージが<@ba.vup>{atk_scale_base:0.0}</>倍までアップする\n素質<@ba.key>「狩人の集中力」</>強化：<@ba.key>防御シールド</>の再発動時間が<@ba.vup>{decrease_cd:0}</>秒になる。",
+          "KR": "<@ba.key>공중에 뜸</> 상태일 때, 공격력 <@ba.vup>+{atk_up:0%}</>, 공중 일반 공격의 피해가 기존의 <@ba.vup>{atk_scale_base:0.0}</>배로 증가합니다.\n재능 <@ba.key>사냥꾼의 집중</>의 효과 강화: <@ba.key>방어 보호막</>의 재활성화 시간 <@ba.vup>{decrease_cd:0}</>초.",
+          "MX": "Al usar <@ba.key>Flotante</>, el ATQ <@ba.vup>+{atk_up:0%}</> y el DAÑ de ATQBA infligido aumenta a <@ba.vup>{atk_scale_base:0.0}</> veces el original. \nTalento <@ba.key>Enfoque de cazadora</> mejorado: tiempo de reactivación de <@ba.key>Barrera protectora</> <@ba.vup>{decrease_cd:0}</>s.",
+          "RU": "В состоянии <@ba.key>парения</> АТК <@ba.vup>+{atk_up:0%}</>, а наносимый УРН БВАТК увеличивается до <@ba.vup>{atk_scale_base:0.0}</> р. от первоначального. \nУлучшает талант <@ba.key>Фокусировка охотницы</>: время повторной активации <@ba.key>защитного барьера</> составляет <@ba.vup>{decrease_cd:0}</> сек.",
+          "TC": "處於<@ba.key>浮空</>狀態時，攻擊力<@ba.vup>+{atk_up:0%}</>，空中普通攻擊傷害提升至原本的<@ba.vup>{atk_scale_base:0.0}</>倍。\n天賦<@ba.key>獵手的專注</>效果加強：<@ba.key>防禦護罩</>的再次觸發時間<@ba.vup>{decrease_cd:0}</>秒。",
+          "TH": "ขณะ​<@ba.key>​ลอยตัว​</> จะ​ได้รับ​ ATK เพิ่ม​ <@ba.vup>+{atk_up:0%}</> และ​ DMG จาก​การ​โจมตี​พื้นฐาน​กลางอากาศ​ที่​ก่อ​จะ​เพิ่มขึ้น​เป็น​ <@ba.vup>{atk_scale_base:0.0}</> เท่า​จาก​เดิม​ \nปรับปรุง​พรสวรรค์​<@ba.key>​ความมุ่งมั่น​ของ​นัก​ล่า​</>: เวลาเปิด​ใช้งาน​อีกครั้ง​ของ​<@ba.key>​บาร์​เรีย​ป้องกัน​</>​ลดลง​ <@ba.vup>{decrease_cd:0}</> วินาที",
+          "VN": "Khi đang <@ba.key>Lơ Lửng</>, Tấn Công <@ba.vup>+{atk_up:0%}</> và ST ĐĐTTK Gây Ra tăng lên <@ba.vup>{atk_scale_base:0.0}</> lần so với ban đầu. \nThiên Phú <@ba.key>Tâm Thợ Săn</> được cường hóa: thời gian tái kích hoạt <@ba.key>Lá Chắn Bảo Hộ</> là <@ba.vup>{decrease_cd:0}</> giây."
+        },
+        "id": "chr_0034_typhoea_potential_1"
+      },
+      "chr_0034_typhoea_potential_2": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 40,
+              "attrValue": 20,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 4,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 87,
+              "attrValue": 16,
+              "modifierType": 5,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 4,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Agilidade <@ba.vup>+{Agi:0}</>, Intensidade das Artes <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "CN": "敏捷<@ba.vup>+{Agi:0}</>，源石技艺强度<@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>。",
+          "DE": "Beweglichkeit <@ba.vup>+{Agi:0}</>, Technik-Intensität <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "EN": "Agility <@ba.vup>+{Agi:0}</>, Arts Intensity <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "FR": "Octroie <@ba.vup>+{Agi:0} points d'Agilité</> et <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0} points d'intensité des Arts</>.",
+          "ID": "Agility <@ba.vup>+{Agi:0}</>, Intensitas Arts <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "IT": "<@ba.vup>+{Agi:0}</> di agilità, <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</> di intensità delle Arti.",
+          "JP": "敏捷<@ba.vup>+{Agi:0}</>、アーツ強度<@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>",
+          "KR": "민첩 <@ba.vup>+{Agi:0}</>, 오리지늄 아츠 강도 <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>",
+          "MX": "Agilidad: <@ba.vup>+{Agi:0}</>; Intensidad de artes: <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "RU": "Ловкость <@ba.vup>+{Agi:0}</>, сила искусств <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>.",
+          "TC": "敏捷<@ba.vup>+{Agi:0}</>，源石技藝強度<@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>。",
+          "TH": "ความคล่องแคล่ว​ <@ba.vup>+{Agi:0}</> ความ​เข้มข้น​ของ​เวท​ <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>",
+          "VN": "Nhanh Nhẹn <@ba.vup>+{Agi:0}</>, Công Phép <@ba.vup>+{PhysicalAndSpellInflictionEnhance:0}</>."
+        },
+        "id": "chr_0034_typhoea_potential_2"
+      },
+      "chr_0034_typhoea_potential_3": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 2,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 1,
+              "paramType": 2,
+              "paramValue": -2,
+              "skillId": "chr_0034_typhoea_combo_skill"
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 2,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 1,
+              "paramType": 2,
+              "paramValue": -2,
+              "skillId": "chr_0034_typhoea_combo_skillfloating"
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "persistent_naturalburst_increase",
+              "floatValue": 0.06,
+              "modifyType": 1,
+              "skillId": "chr_0034_typhoea_combo_skill",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "persistent_naturalburst_increase",
+              "floatValue": 0.06,
+              "modifyType": 1,
+              "skillId": "chr_0034_typhoea_combo_skillfloating",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Combo de habilidades <@ba.key>Espinhos Desenfreados</> melhorado: duração do tempo de recarga é de <@ba.vup>{coolDown:0}</> s. Os inimigos na <@ba.key>Saraivada em Formação</> sofrem DNO Recebido de <#ba.naturalburst>Explosão da Natureza</> <@ba.vup>+ {persistent_naturalburst_increase:0%}</>.",
+          "CN": "连携技<@ba.key>野棘丛生</>冷却时间<@ba.vup>{coolDown:0}</>秒，<@ba.key>箭阵</>内的敌人受到的<#ba.naturalburst>自然爆发</>伤害提高的效果<@ba.vup>+{persistent_naturalburst_increase:0%}</>。",
+          "DE": "Kombofertigkeit <@ba.key>Wuchernde Dornen</> verbessert. Abklingzeit: <@ba.vup>{coolDown:0}</> Sek. Gegner in der <@ba.key>Sperrfeuerreihe</> erleiden <#ba.naturalburst>Naturexplosion</>-SDN <@ba.vup>+{persistent_naturalburst_increase:0%}</>.",
+          "EN": "Combo skill <@ba.key>Rampant Thorns</> improved: Length of cooldown <@ba.vup>{coolDown:0}</>s. Enemies in the <@ba.key>Barrage Array</> suffer <#ba.naturalburst>Nature Burst</> DMG Taken <@ba.vup>+{persistent_naturalburst_increase:0%}</>.",
+          "FR": "Renforce la compétence de combo <@ba.key>Ronces envahissantes</> : le temps de recharge est de <@ba.vup>{coolDown:0}</> s. Les ennemis présents dans la <@ba.key>matrice de barrage</> subissent une augmentation des DÉG d'<#ba.naturalburst>explosion naturelle</> de <@ba.vup>{persistent_naturalburst_increase:0%}</>.",
+          "ID": "Skill kombo <@ba.key>Rampant Thorns</> meningkat: Durasi cooldown menjadi <@ba.vup>{coolDown:0}</> dtk. Musuh di dalam <@ba.key>Rangkaian Rentetan</> akan terkena <#ba.naturalburst>Nature Burst</> DMG Taken <@ba.vup>+{persistent_naturalburst_increase:0%}</>.",
+          "IT": "Abilità combo <@ba.key>Rovi dilaganti</> migliorata: il tempo di recupero è di <@ba.vup>{coolDown:0}</> s. I nemici nella <@ba.key>Schiera di sbarramento</> subiscono <@ba.vup>+{persistent_naturalburst_increase:0%}</> di danni da <#ba.naturalburst>Esplosione di natura</>.",
+          "JP": "連携技<@ba.key>「荒れ狂うトゲ」</>のCD時間<@ba.vup>{coolDown:0}</>秒、<@ba.key>矢陣</>内の敵が受ける<#ba.naturalburst>自然爆発</>ダメージがアップする効果<@ba.vup>+{persistent_naturalburst_increase:0%}</>",
+          "KR": "연계 스킬 <@ba.key>가시덤불 쇄도</>의 쿨타임 <@ba.vup>{coolDown:0}</>초, <@ba.key>화살진</> 내의 적이 받는 <#ba.naturalburst>자연 폭발</> 피해량이 증가하는 효과 <@ba.vup>+{persistent_naturalburst_increase:0%}</>",
+          "MX": "Habilidad de combo <@ba.key>Espinas desenfrenadas</> mejorada: Duración del Tiempo de reutilización <@ba.vup>{coolDown:0}</> s. Los enemigos dentro de la <@ba.key>Formación de disparos</> sufren DAÑ de <#ba.naturalburst>Ráfaga de naturaleza</> recibido <@ba.vup>+{persistent_naturalburst_increase:0%}</>.",
+          "RU": "Улучшает комбонавык <@ba.key>Безудержные шипы</>: перезарядка занимает <@ba.vup>{coolDown:0}</> сек. Враги в зоне <@ba.key>шквального массива</> получают на <@ba.vup>{persistent_naturalburst_increase:0%}</> больше УРН от <#ba.naturalburst>природного взрыва</>.",
+          "TC": "連攜技<@ba.key>野棘叢生</>冷卻時間<@ba.vup>{coolDown:0}</>秒，<@ba.key>箭陣</>內的敵人受到的<#ba.naturalburst>自然爆發</>傷害提高的效果<@ba.vup>+{persistent_naturalburst_increase:0%}</>。",
+          "TH": "ทักษะ​คอม​โบ​<@ba.key>​หนาม​อาละวาด​</> เพิ่มประสิทธิภาพ​: ระยะเวลา​คูล​ดาวน์​ทักษะ​คอม​โบ​ <@ba.vup>{coolDown:0}</> วินาที​ ศัตรู​ที่อยู่​ใน​<@ba.key>​แนว​เสา​ระดม​ยิง​</> จะ​ได้รับ​ DMG จาก​<#ba.naturalburst>​ระเบิด​ธรรมชาติ​</>​เพิ่มขึ้น​ <@ba.vup>+{persistent_naturalburst_increase:0%}</>",
+          "VN": "KN liên hoàn <@ba.key>Gai Nhọn Nổi Loạn</> được nâng cấp: Thời gian hồi chiêu giảm còn <@ba.vup>{coolDown:0}</> giây. Kẻ địch trong <@ba.key>Tập Kích Cụm</> chịu thêm <@ba.vup>+{persistent_naturalburst_increase:0%}</> ST <#ba.naturalburst>Bùng Nổ Tự Nhiên</>."
+        },
+        "id": "chr_0034_typhoea_potential_3"
+      },
+      "chr_0034_typhoea_talent_1_1": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [
+                {
+                  "key": "arrow_recover_time",
+                  "value": 3,
+                  "valueStr": ""
+                },
+                {
+                  "key": "energy_enterfight",
+                  "value": 1,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_chr_0034_typhoea_passive_arrowrecover"
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 5,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.2,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack1",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.2,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack2",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.2,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack3",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.2,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack4",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          },
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [],
+              "buffId": ""
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 3,
+            "skillBbModifier": {
+              "bbKey": "atk_scale_enhence",
+              "floatValue": 1.2,
+              "modifyType": 3,
+              "skillId": "chr_0034_typhoea_floating_attack5",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Sempre que uma <#ba.naturalburst>Explosão da Natureza</> é acionada em um inimigo, Typhoeus ganha 1 <#ba.arrowenergy>Sinal</>. O DNO causado por ataques fortalecidos pelo consumo de <#ba.arrownum>Flechas de Caça</> é aumentado para <@ba.vup>{atk_scale_enhence:0.0}</> vezes o original.\nAo entrar em batalha, Typhoeus ganha imediatamente <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Sinal(is)</>.\nTyphoeus pode ter até 4 <#ba.arrownum>Flechas de Caça</> e 8 <#ba.arrowenergy>Sinais</>.\n<@ba.info>Se a Explosão da Natureza for ativada simultaneamente em vários inimigos, isso contará apenas como uma instância de Explosão da Natureza ao contabilizar os Sinais obtidos por Typhoeus.</>",
+          "CN": "每当敌人触发<#ba.naturalburst>自然爆发</>的时候，获得1点<#ba.arrowenergy>启示</>。消耗<#ba.arrownum>猎矢</>强化的攻击，造成的伤害提升至原本的<@ba.vup>{atk_scale_enhence:0.0}</>倍。\n进入战斗时，立刻获得<@ba.vup>{energy_enterfight:0}</>点<#ba.arrowenergy>启示</>。\n<#ba.arrownum>猎矢</>上限为4枚，<#ba.arrowenergy>启示</>上限为8点。\n<@ba.info>同一时间内多名敌人受到自然爆发时，仅视为单个敌人受到自然爆发，并获得对应数量的启示。</>",
+          "DE": "Wann immer eine <#ba.naturalburst>Naturexplosion</> bei einem Gegner ausgelöst wird, erhält Typhoeus 1 <#ba.arrowenergy>Zeichen</>. Von Angriffen verursachter SDN, der durch den Verbrauch von <#ba.arrownum>Jagdpfeilen</> verstärkt wurde, erhöht sich auf das <@ba.vup>{atk_scale_enhence:0.0}</>-Fache des Ursprungswertes.\nZu Kampfbeginn erhält Typhoeus sofort <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Zeichen</>.\nTyphoeus kann bis zu 4 <#ba.arrownum>Jagdpfeile</> und bis zu 8 <#ba.arrowenergy>Zeichen</> haben.\n<@ba.info>Wird gleichzeitig bei mehreren Gegnern eine Naturexplosion ausgelöst, zählen diese Explosionen für die Berechnung der Zeichen, die Typhoeus erhält, nur als eine Naturexplosion.</>",
+          "EN": "Whenever a <#ba.naturalburst>Nature Burst</> is triggered on an enemy, Typhoeus gains 1 <#ba.arrowenergy>Sign</>. DMG dealt by attacks empowered by consuming <#ba.arrownum>Hunting Arrows</> is increased to <@ba.vup>{atk_scale_enhence:0.0}</> times the original.\nWhen entering battle, Typhoeus immediately gains <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Sign(s)</>.\nTyphoeus can have up to 4 <#ba.arrownum>Hunting Arrows</> and 8 <#ba.arrowenergy>Signs</>.\n<@ba.info>If Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.</>",
+          "FR": "Chaque fois qu'une <#ba.naturalburst>explosion naturelle</> est déclenchée sur un ennemi, Typhoeus obtient 1 <#ba.arrowenergy>Signe</>. Les dégâts infligés par les attaques améliorées en consommant des <#ba.arrownum>flèches de chasse</> sont multipliés par <@ba.vup>{atk_scale_enhence:0.0}</>.\nLorsqu'elle entre au combat, Typhoeus obtient immédiatement <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Signe(s)</>.\nTyphoeus peut posséder jusqu'à 4 <#ba.arrownum>flèches de chasse</> et 8 <#ba.arrowenergy>Signes</>.\n<@ba.info>Lorsqu'une explosion naturelle est déclenchée sur plusieurs ennemis, seul l'un d'eux est comptabilisé pour le calcul des Signes obtenus par Typhoeus.</>",
+          "ID": "Setiap kali <#ba.naturalburst>Nature Burst</> diaktifkan pada musuh, Typhoeus akan mendapatkan 1 <#ba.arrowenergy>Tanda</>. DMG yang ditimbulkan oleh serangan yang diperkuat dengan memakai <#ba.arrownum>Panah Berburu</> akan meningkat menjadi <@ba.vup>{atk_scale_enhence:0.0}</> kali nilai aslinya.\nSaat memasuki pertarungan, Typhoeus akan langsung mendapatkan <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Tanda</>.\nTyphoeus bisa punya maksimum 4 <#ba.arrownum>Panah Berburu</> dan 8 <#ba.arrowenergy>Tanda</>.\n<@ba.info>Jika Nature Burst diaktifkan serentak pada beberapa musuh, ini hanya akan dihitung sebagai satu hantaman Nature Burst saat menghitung Tanda yang didapatkan oleh Typhoeus.</>",
+          "IT": "Ogni volta che viene attivata un'<#ba.naturalburst>Esplosione di natura</> su un nemico, Typhoeus ottiene 1 <#ba.arrowenergy>Segno</>. I danni inflitti dai colpi potenziati consumando <#ba.arrownum>Frecce da caccia</> aumentano fino a <@ba.vup>{atk_scale_enhence:0.0}</> volte rispetto all'originale.\nAll'inizio della battaglia, Typhoeus ottiene immediatamente un numero di <#ba.arrowenergy>Segni</> pari a <@ba.vup>{energy_enterfight:0}</>.\nTyphoeus può accumulare fino a 4 <#ba.arrownum>Frecce da caccia</> e 8 <#ba.arrowenergy>Segni</>.\n<@ba.info>Se un'Esplosione di natura viene attivata contemporaneamente su più nemici, conta come una sola istanza di Esplosione di natura ai fini del calcolo dei Segni ottenuti da Typhoeus.</>",
+          "JP": "敵に<#ba.naturalburst>自然爆発</>を発生させるたびに、<#ba.arrowenergy>啓示</>を1獲得する\n<#ba.arrownum>猟矢</>を消費して強化された攻撃は、ダメージが<@ba.vup>{atk_scale_enhence:0.0}</>倍までアップする\n戦闘開始時、即座に<#ba.arrowenergy>啓示</>を<@ba.vup>{energy_enterfight:0}</>獲得する\n<#ba.arrownum>猟矢</>の上限は4本、<#ba.arrowenergy>啓示</>の上限は8\n<@ba.info>同時に複数の敵が自然爆発を受けた場合でも、1体の敵が自然爆発を受けたものとして扱い、対応する数量の啓示を獲得する</>",
+          "KR": "적에게 <#ba.naturalburst>자연 폭발</>이 발동할 때마다 <#ba.arrowenergy>계시</> 1포인트를 획득합니다. <#ba.arrownum>사냥 화살</>을 소모하는 강화된 공격의 피해량이 기존의 <@ba.vup>{atk_scale_enhence:0.0}</>배로 증가합니다.\n전투 진입 시, 즉시 <@ba.vup>{energy_enterfight:0}</>포인트의 <#ba.arrowenergy>계시</>를 획득합니다.\n<#ba.arrownum>사냥 화살</>은 최대 4발, <#ba.arrowenergy>계시</>는 최대 8포인트까지 보유할 수 있습니다.\n<@ba.info>동시에 여러 적에게 자연 폭발이 발동하더라도, 적 1명에게 발동한 것으로 간주하여 계시를 획득합니다.</>",
+          "MX": "Cuando se activa una <#ba.naturalburst>Ráfaga de naturaleza</> sobre un enemigo, Typhoeus obtiene 1 <#ba.arrowenergy>Signo</>. El DAÑ infligido por los ataques potenciados al consumir <#ba.arrownum>Flechas de caza</> aumenta a <@ba.vup>{atk_scale_enhence:0.0}</> veces el original.\nAl entrar en batalla, Typhoeus obtiene de inmediato <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Signo(s)</>.\nTyphoeus puede tener hasta 4 <#ba.arrownum>Flechas de caza</> y 8 <#ba.arrowenergy>Signos</>.\n<@ba.info>Si la Ráfaga de naturaleza se activa simultáneamente sobre varios enemigos, solo cuenta como una activación al calcular los Signos obtenidos por Typhoeus.</>",
+          "RU": "Когда активируется <#ba.naturalburst>природный взрыв</>, Тифея получает 1 <#ba.arrowenergy>знак</>. УРН, наносимый атаками, усиленными <#ba.arrownum>охотничьими стрелами</>, увеличивается до <@ba.vup>{atk_scale_enhence:0.0}</> р. от первоначального.\nВступление в бой немедленно дает <#ba.arrowenergy>знаки</> <@ba.vup>({energy_enterfight:0})</>.\nТифея может иметь не более 4 <#ba.arrownum>охотничьих стрел</> и не более 8 <#ba.arrowenergy>знаков</>.\n<@ba.info>Если природный взрыв одновременно активируется у нескольких врагов, при подсчете полученных Тифеей знаков учитывается только один из них.</>",
+          "TC": "每當敵人觸發<#ba.naturalburst>自然爆發</>的時候，獲得1點<#ba.arrowenergy>啟示</>。消耗<#ba.arrownum>獵矢</>強化的攻擊，造成的傷害提升至原本的<@ba.vup>{atk_scale_enhence:0.0}</>倍。\n進入戰鬥時，立刻獲得<@ba.vup>{energy_enterfight:0}</>點<#ba.arrowenergy>啟示</>。\n<#ba.arrownum>獵矢</>上限為4枚，<#ba.arrowenergy>啟示</>上限為8點。\n<@ba.info>同一時間內多名敵人受到自然爆發時，僅視為單個敵人受到自然爆發，並獲得對應數量的啟示。</>",
+          "TH": "ทุกครั้งที่​ทำให้เกิด​<#ba.naturalburst>​ระเบิด​ธรรมชาติ​</>​กับ​ศัตรู​ ไท​ฟี​อุส​จะ​ได้รับ​<#ba.arrowenergy>​สัญญะ​</> 1 หน่วย​ DMG ที่เกิด​จาก​การ​โจมตี​ที่​ได้รับ​การ​เสริม​พลัง​โดย​ใช้​ <#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</> จะ​เพิ่มขึ้น​เป็น​ <@ba.vup>{atk_scale_enhence:0.0}</> เท่า​ของ​เดิม​\nเมื่อ​เข้าสู่​การต่อสู้​ ไท​ฟี​อุส​จะ​ได้รับ​<@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>​สัญญะ​</>​ทันที​\nไท​ฟี​อุส​สามารถ​มี​<#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</>​ได้​สูงสุด​ 4 ดอก​ และ​มี​ <#ba.arrowenergy>​สัญญะ​</>​ได้​สูงสุด​ 8 หน่วย​\n<@ba.info>​หาก​เกิด​ระเบิด​ธรรมชาติ​ใส่​ศัตรู​หลาย​ตัว​พร้อมกัน​ จะ​นับเป็น​ระเบิด​ธรรมชาติ​เพียง​หนึ่ง​ครั้ง​เท่านั้น​ เมื่อ​นำมา​คำนวณ​สัญญะ​ที่​ไท​ฟี​อุส​จะ​ได้รับ​</>",
+          "VN": "Mỗi khi kích hoạt <#ba.naturalburst>Bùng Nổ Tự Nhiên</> lên kẻ địch, Typhoeus nhận 1 <#ba.arrowenergy>Dấu Ấn</>. ST gây ra bởi các đòn tấn công được cường hóa nhờ tiêu hao <#ba.arrownum>Mũi Tên Săn</> tăng lên bằng <@ba.vup>{atk_scale_enhence:0.0}</> lần so với ban đầu.\nKhi vào trận, Typhoeus lập tức nhận <@ba.vup>{energy_enterfight:0}</> <#ba.arrowenergy>Dấu Ấn</>.\nTyphoeus có thể sở hữu tối đa 4 <#ba.arrownum>Mũi Tên Săn</> và 8 <#ba.arrowenergy>Dấu Ấn</>.\n<@ba.info>Nếu Bùng Nổ Tự Nhiên được kích hoạt đồng thời lên nhiều kẻ địch, hiệu ứng này chỉ được tính là 1 lần Bùng Nổ Tự Nhiên khi tính số Dấu Ấn Typhoeus nhận được.</>"
+        },
+        "id": "chr_0034_typhoea_talent_1_1"
+      },
+      "chr_0034_typhoea_talent_2_1": {
+        "dataList": [
+          {
+            "activeCondition": [],
+            "attachBuff": {
+              "blackboard": [
+                {
+                  "key": "damage_resist",
+                  "value": 0.15,
+                  "valueStr": ""
+                },
+                {
+                  "key": "sheild_cd",
+                  "value": 30,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_chr_0034_typhoea_talent_linken_sphere"
+            },
+            "attachSkill": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "attrModifier": {
+              "attrType": 0,
+              "attrValue": 0,
+              "modifierType": 0,
+              "modifyAttributeType": 0
+            },
+            "modifyType": 5,
+            "skillBbModifier": {
+              "bbKey": "",
+              "floatValue": 0,
+              "modifyType": 0,
+              "skillId": "",
+              "stringValue": ""
+            },
+            "skillParamModifier": {
+              "modifyType": 0,
+              "paramType": 0,
+              "paramValue": 0,
+              "skillId": ""
+            }
+          }
+        ],
+        "desc": {
+          "BR": "Enquanto está <@ba.key>Pairando</>, Typhoeus ativa uma <@ba.key>Barreira Protetora</> que reduz o DNO Recebido por ela em <@ba.vup>{damage_resist:0%}</> e a torna mais difícil de interromper enquanto a barreira está ativa. A <@ba.key>Barreira Protetora</> é fragmentada quando Typhoeus recebe DNO e não pode ser ativada novamente pelos próximos <@ba.vup>{sheild_cd:0}</> s.",
+          "CN": "每次进入<@ba.key>浮空</>状态时，持续期间内激活<@ba.key>防御护罩</>，使自身受到的伤害<@ba.vup>-{damage_resist:0%}</>且更难被打断，在受到伤害时<@ba.key>防御护罩</>会被击碎，且<@ba.vup>{sheild_cd:0}</>秒内无法再次激活。",
+          "DE": "Wenn Typhoeus <@ba.key>schwebt</>, aktiviert sie eine <@ba.key>Schutzbarriere</>, die ihren Erlittenen SDN um <@ba.vup>{damage_resist:0%}</> senkt. Solange die Barriere aktiv ist, ist es zudem schwieriger, Typhoeus zu unterbrechen. Die <@ba.key>Schutzbarriere</> zersplittert, wenn Typhoeus SDN erleidet und kann anschließend für <@ba.vup>{sheild_cd:0}</> Sek. nicht erneut aktiviert werden.",
+          "EN": "When <@ba.key>Hovering</>, Typhoeus activates a <@ba.key>Protective Barrier</> that reduces her DMG Taken by <@ba.vup>{damage_resist:0%}</> and makes her harder to interrupt while it is active. The <@ba.key>Protective Barrier</> is shattered when Typhoeus takes DMG, and cannot be activated again for <@ba.vup>{sheild_cd:0}</>s afterwards.",
+          "FR": "Lorsqu'elle est en <@ba.key>Surplomb</>, Typhoeus active une <@ba.key>barrière protectrice</> qui réduit les DÉG subis de <@ba.vup>{damage_resist:0%}</> et la rend plus difficile à interrompre tant que la barrière est active. La <@ba.key>barrière protectrice</> se brise lorsque Typhoeus subit des DÉG et ne peut ensuite plus être activée pendant <@ba.vup>{sheild_cd:0}</> s.",
+          "ID": "Saat <@ba.key>Melayang</>, Typhoeus akan mengaktifkan <@ba.key>Penghalang Pelindung</> yang akan mengurangi DMG Taken miliknya sebesar <@ba.vup>{damage_resist:0%}</> dan membuatnya lebih sulit disela selama efek itu aktif. <@ba.key>Penghalang Pelindung</> itu akan hancur saat Typhoeus menerima DMG dan tidak bisa diaktifkan lagi selama <@ba.vup>{sheild_cd:0}</> dtk setelahnya.",
+          "IT": "Mentre <@ba.key>orbita</>, Typhoeus attiva una <@ba.key>Barriera protettiva</> che riduce di <@ba.vup>{damage_resist:0%}</> i danni subiti e la rende più difficile da interrompere finché rimane attiva. La <@ba.key>Barriera protettiva</> si frantuma quando Typhoeus subisce danni e non può essere riattivata per <@ba.vup>{sheild_cd:0}</> s.",
+          "JP": "<@ba.key>浮遊</>状態に入るたび、持続期間中は<@ba.key>防御シールド</>が発動する\n中断されにくくなり、自身の受けるダメージ<@ba.vup>-{damage_resist:0%}</>\nダメージを受けると<@ba.key>防御シールド</>は破壊され、その後<@ba.vup>{sheild_cd:0}</>秒間は再発動できない",
+          "KR": "<@ba.key>공중에 뜸</> 상태에 진입하면 유지 시간 동안 <@ba.key>방어 보호막</>이 활성화됩니다. 보호막이 있는 동안 받는 피해가 <@ba.vup>-{damage_resist:0%}</>, 행동이 쉽게 끊어지지 않습니다. 피해를 받으면 <@ba.key>방어 보호막</>이 파괴되고, <@ba.vup>{sheild_cd:0}</>초 동안은 다시 활성화되지 않습니다.",
+          "MX": "Mientras está en estado <@ba.key>Flotante</>, Typhoeus activa una <@ba.key>Barrera protectora</> que reduce el DAÑ recibido por <@ba.vup>{damage_resist:0%}</> y hace que sea más difícil de interrumpir mientras está activa. La <@ba.key>Barrera protectora</> se rompe cuando Typhoeus recibe DAÑ y no puede volver a activarse durante <@ba.vup>{sheild_cd:0}</> s.",
+          "RU": "Когда Тифея <@ba.key>парит</>, она активирует <@ba.key>защитный барьер</>, который снижает ее получаемый УРН на <@ba.vup>{damage_resist:0%}</>. Пока барьер активен, Тифею сложнее прервать. <@ba.key>Защитный барьер</> разрушается, когда Тифея получает УРН. Его можно будет активировать повторно только через <@ba.vup>{sheild_cd:0}</> сек.",
+          "TC": "每次進入<@ba.key>浮空</>狀態時，持續期間內啟用<@ba.key>防禦護罩</>，使自身受到的傷害<@ba.vup>-{damage_resist:0%}</>且更難被打斷，在受到傷害時<@ba.key>防禦護罩</>會被擊碎，且<@ba.vup>{sheild_cd:0}</>秒內無法再次啟用。",
+          "TH": "เมื่อ​<@ba.key>​ลอยตัว​</> ไท​ฟี​อุส​จะ​เปิด​ใช้งาน​<@ba.key>​บาร์​เรีย​ป้องกัน​</>​ที่​ช่วย​ลด​ DMG ที่​ได้รับ​ลง​ <@ba.vup>{damage_resist:0%}</> และ​ทำให้​ถูก​ขัด​ทักษะ​ได้​ยาก​ขึ้น​ในขณะที่​บาร์​เรีย​ยัง​ทำงาน​อยู่​ <@ba.key>​บาร์​เรีย​ป้องกัน​</>​จะ​แตก​เมื่อ​ไท​ฟี​อุส​ได้รับ​ DMG และ​จะ​ไม่​สามารถ​เปิด​ใช้งาน​อีกครั้ง​ได้​เป็นเวลา​ <@ba.vup>{sheild_cd:0}</> วินาที​หลังจากนั้น",
+          "VN": "Khi đang <@ba.key>Bay Lơ Lửng</>, Typhoeus kích hoạt một <@ba.key>Lá Chắn Bảo Hộ</>, giúp giảm <@ba.vup>{damage_resist:0%}</> ST Phải Chịu và khiến cô khó bị gián đoạn hơn trong thời gian lá chắn có hiệu lực. <@ba.key>Lá Chắn Bảo Hộ</> sẽ tan vỡ khi Typhoeus chịu ST, và không thể kích hoạt lại trong <@ba.vup>{sheild_cd:0}</> giây sau đó."
+        },
+        "id": "chr_0034_typhoea_talent_2_1"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "chr_9000_endmin_potential_4": {
+        "oldValue": {
+          "dataList": [
+            {
+              "activeCondition": [],
+              "attachBuff": {
+                "blackboard": [],
+                "buffId": ""
+              },
+              "attachSkill": {
+                "blackboard": [],
+                "skillId": "",
+                "skillPath": ""
+              },
+              "attrModifier": {
+                "attrType": 1,
+                "attrValue": 0.1,
+                "modifierType": 6,
+                "modifyAttributeType": 0
+              },
+              "modifyType": 4,
+              "skillBbModifier": {
+                "bbKey": "",
+                "floatValue": 0,
+                "modifyType": 0,
+                "skillId": "",
+                "stringValue": ""
+              },
+              "skillParamModifier": {
+                "modifyType": 0,
+                "paramType": 0,
+                "paramValue": 0,
+                "skillId": ""
+              }
+            },
+            {
+              "activeCondition": [],
+              "attachBuff": {
+                "blackboard": [],
+                "buffId": ""
+              },
+              "attachSkill": {
+                "blackboard": [],
+                "skillId": "",
+                "skillPath": ""
+              },
+              "attrModifier": {
+                "attrType": 60,
+                "attrValue": -0.1,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "modifyType": 4,
+              "skillBbModifier": {
+                "bbKey": "",
+                "floatValue": 0,
+                "modifyType": 0,
+                "skillId": "",
+                "stringValue": ""
+              },
+              "skillParamModifier": {
+                "modifyType": 0,
+                "paramType": 0,
+                "paramValue": 0,
+                "skillId": ""
+              }
+            },
+            {
+              "activeCondition": [],
+              "attachBuff": {
+                "blackboard": [],
+                "buffId": ""
+              },
+              "attachSkill": {
+                "blackboard": [],
+                "skillId": "",
+                "skillPath": ""
+              },
+              "attrModifier": {
+                "attrType": 40,
+                "attrValue": 25,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "modifyType": 4,
+              "skillBbModifier": {
+                "bbKey": "",
+                "floatValue": 0,
+                "modifyType": 0,
+                "skillId": "",
+                "stringValue": ""
+              },
+              "skillParamModifier": {
+                "modifyType": 0,
+                "paramType": 0,
+                "paramValue": 0,
+                "skillId": ""
+              }
+            }
+          ],
+          "desc": {
+            "BR": "???",
+            "CN": "？？？",
+            "DE": "???",
+            "EN": "???",
+            "FR": "???",
+            "ID": "???",
+            "IT": "???",
+            "JP": "？？？",
+            "KR": "???",
+            "MX": "???",
+            "RU": "???",
+            "TC": "？？？",
+            "TH": "???",
+            "VN": "???"
+          },
+          "id": "chr_9000_endmin_potential_4"
+        },
+        "newValue": {
+          "dataList": [
+            {
+              "activeCondition": [],
+              "attachBuff": {
+                "blackboard": [],
+                "buffId": ""
+              },
+              "attachSkill": {
+                "blackboard": [],
+                "skillId": "",
+                "skillPath": ""
+              },
+              "attrModifier": {
+                "attrType": 1,
+                "attrValue": 0.1,
+                "modifierType": 6,
+                "modifyAttributeType": 0
+              },
+              "modifyType": 4,
+              "skillBbModifier": {
+                "bbKey": "",
+                "floatValue": 0,
+                "modifyType": 0,
+                "skillId": "",
+                "stringValue": ""
+              },
+              "skillParamModifier": {
+                "modifyType": 0,
+                "paramType": 0,
+                "paramValue": 0,
+                "skillId": ""
+              }
+            }
+          ],
+          "desc": {
+            "BR": "???",
+            "CN": "？？？",
+            "DE": "???",
+            "EN": "???",
+            "FR": "???",
+            "ID": "???",
+            "IT": "???",
+            "JP": "？？？",
+            "KR": "???",
+            "MX": "???",
+            "RU": "???",
+            "TC": "？？？",
+            "TH": "???",
+            "VN": "???"
+          },
+          "id": "chr_9000_endmin_potential_4"
+        },
+        "changed": {
+          "dataList[1]": {
+            "type": "value",
+            "oldValue": {
+              "activeCondition": [],
+              "attachBuff": {
+                "blackboard": [],
+                "buffId": ""
+              },
+              "attachSkill": {
+                "blackboard": [],
+                "skillId": "",
+                "skillPath": ""
+              },
+              "attrModifier": {
+                "attrType": 60,
+                "attrValue": -0.1,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "modifyType": 4,
+              "skillBbModifier": {
+                "bbKey": "",
+                "floatValue": 0,
+                "modifyType": 0,
+                "skillId": "",
+                "stringValue": ""
+              },
+              "skillParamModifier": {
+                "modifyType": 0,
+                "paramType": 0,
+                "paramValue": 0,
+                "skillId": ""
+              }
+            }
+          },
+          "dataList[2]": {
+            "type": "value",
+            "oldValue": {
+              "activeCondition": [],
+              "attachBuff": {
+                "blackboard": [],
+                "buffId": ""
+              },
+              "attachSkill": {
+                "blackboard": [],
+                "skillId": "",
+                "skillPath": ""
+              },
+              "attrModifier": {
+                "attrType": 40,
+                "attrValue": 25,
+                "modifierType": 5,
+                "modifyAttributeType": 0
+              },
+              "modifyType": 4,
+              "skillBbModifier": {
+                "bbKey": "",
+                "floatValue": 0,
+                "modifyType": 0,
+                "skillId": "",
+                "stringValue": ""
+              },
+              "skillParamModifier": {
+                "modifyType": 0,
+                "paramType": 0,
+                "paramValue": 0,
+                "skillId": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

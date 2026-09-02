@@ -1,0 +1,241 @@
+{
+  "tableName": "FactoryResourceItemId2MachineIdTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 9,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {
+      "item_activity_copper_poly": {
+        "machineIds": [
+          "component_mc_1",
+          "transmuter_2"
+        ]
+      },
+      "item_activity_copper_poly_cmpt": {
+        "machineIds": [
+          "tools_assebling_mc_1"
+        ]
+      },
+      "item_activity_copper_poly_gas": {
+        "machineIds": [
+          "transmuter_2"
+        ]
+      },
+      "item_activity_copper_poly_tool": {
+        "machineIds": [
+          "tools_assebling_mc_1"
+        ]
+      },
+      "item_activity_copper_xiranite_tool": {
+        "machineIds": [
+          "tools_assebling_mc_1"
+        ]
+      },
+      "item_activity_xiranite_box": {
+        "machineIds": [
+          "tools_assebling_mc_1"
+        ]
+      },
+      "item_activity_xiranite_enr_box": {
+        "machineIds": [
+          "tools_assebling_mc_1"
+        ]
+      },
+      "item_activity_xiranite_enr_nugget": {
+        "machineIds": [
+          "shaper_1"
+        ]
+      },
+      "item_activity_xiranite_nugget": {
+        "machineIds": [
+          "shaper_1"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "item_xiranite_enr_powder": {
+        "oldValue": {
+          "machineIds": [
+            "component_mc_1",
+            "winder_1",
+            "shaper_1",
+            "mix_pool_1",
+            "mix_pool_2",
+            "transmuter_2"
+          ]
+        },
+        "newValue": {
+          "machineIds": [
+            "furnance_1",
+            "component_mc_1",
+            "winder_1",
+            "shaper_1",
+            "tools_assebling_mc_1",
+            "mix_pool_1",
+            "mix_pool_2",
+            "transmuter_2"
+          ]
+        },
+        "changed": {
+          "machineIds[0]": {
+            "type": "value",
+            "oldValue": "component_mc_1",
+            "newValue": "furnance_1"
+          },
+          "machineIds[1]": {
+            "type": "value",
+            "oldValue": "winder_1",
+            "newValue": "component_mc_1"
+          },
+          "machineIds[2]": {
+            "type": "value",
+            "oldValue": "shaper_1",
+            "newValue": "winder_1"
+          },
+          "machineIds[3]": {
+            "type": "value",
+            "oldValue": "mix_pool_1",
+            "newValue": "shaper_1"
+          },
+          "machineIds[4]": {
+            "type": "value",
+            "oldValue": "mix_pool_2",
+            "newValue": "tools_assebling_mc_1"
+          },
+          "machineIds[5]": {
+            "type": "value",
+            "oldValue": "transmuter_2",
+            "newValue": "mix_pool_1"
+          },
+          "machineIds[6]": {
+            "type": "value",
+            "newValue": "mix_pool_2"
+          },
+          "machineIds[7]": {
+            "type": "value",
+            "newValue": "transmuter_2"
+          }
+        }
+      },
+      "item_gas_copper": {
+        "oldValue": {
+          "machineIds": [
+            "liquid_purifier_1",
+            "transmuter_1",
+            "transmuter_2",
+            "filling_powder_mc_1"
+          ]
+        },
+        "newValue": {
+          "machineIds": [
+            "liquid_purifier_1",
+            "gas_reactor_1",
+            "transmuter_1",
+            "transmuter_2",
+            "filling_powder_mc_1"
+          ]
+        },
+        "changed": {
+          "machineIds[1]": {
+            "type": "value",
+            "oldValue": "transmuter_1",
+            "newValue": "gas_reactor_1"
+          },
+          "machineIds[2]": {
+            "type": "value",
+            "oldValue": "transmuter_2",
+            "newValue": "transmuter_1"
+          },
+          "machineIds[3]": {
+            "type": "value",
+            "oldValue": "filling_powder_mc_1",
+            "newValue": "transmuter_2"
+          },
+          "machineIds[4]": {
+            "type": "value",
+            "newValue": "filling_powder_mc_1"
+          }
+        }
+      },
+      "item_xiranite_powder": {
+        "oldValue": {
+          "machineIds": [
+            "component_mc_1",
+            "winder_1",
+            "shaper_1",
+            "tools_assebling_mc_1",
+            "mix_pool_1",
+            "mix_pool_2",
+            "xiranite_oven_1",
+            "transmuter_2"
+          ]
+        },
+        "newValue": {
+          "machineIds": [
+            "furnance_1",
+            "component_mc_1",
+            "winder_1",
+            "shaper_1",
+            "tools_assebling_mc_1",
+            "mix_pool_1",
+            "mix_pool_2",
+            "xiranite_oven_1",
+            "transmuter_2"
+          ]
+        },
+        "changed": {
+          "machineIds[0]": {
+            "type": "value",
+            "oldValue": "component_mc_1",
+            "newValue": "furnance_1"
+          },
+          "machineIds[1]": {
+            "type": "value",
+            "oldValue": "winder_1",
+            "newValue": "component_mc_1"
+          },
+          "machineIds[2]": {
+            "type": "value",
+            "oldValue": "shaper_1",
+            "newValue": "winder_1"
+          },
+          "machineIds[3]": {
+            "type": "value",
+            "oldValue": "tools_assebling_mc_1",
+            "newValue": "shaper_1"
+          },
+          "machineIds[4]": {
+            "type": "value",
+            "oldValue": "mix_pool_1",
+            "newValue": "tools_assebling_mc_1"
+          },
+          "machineIds[5]": {
+            "type": "value",
+            "oldValue": "mix_pool_2",
+            "newValue": "mix_pool_1"
+          },
+          "machineIds[6]": {
+            "type": "value",
+            "oldValue": "xiranite_oven_1",
+            "newValue": "mix_pool_2"
+          },
+          "machineIds[7]": {
+            "type": "value",
+            "oldValue": "transmuter_2",
+            "newValue": "xiranite_oven_1"
+          },
+          "machineIds[8]": {
+            "type": "value",
+            "newValue": "transmuter_2"
+          }
+        }
+      }
+    }
+  }
+}

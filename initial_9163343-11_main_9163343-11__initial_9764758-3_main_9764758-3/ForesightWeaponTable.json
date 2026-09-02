@@ -1,0 +1,651 @@
+{
+  "tableName": "ForesightWeaponTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "wpn_pistol_0005": {
+        "gemTagIds": [
+          "attr_wisd",
+          "attr_icedam",
+          "magabn"
+        ],
+        "iconId": "wpn_pistol_0005",
+        "name": {
+          "BR": "Navegador",
+          "CN": "领航者",
+          "DE": "Navigator",
+          "EN": "Navigator",
+          "FR": "Navigatrice",
+          "ID": "Navigator",
+          "IT": "Navigatore",
+          "JP": "ナビゲーター",
+          "KR": "항로의 개척자",
+          "MX": "Navegante",
+          "RU": "Навигатор",
+          "TC": "領航者",
+          "TH": "นัก​นำทาง",
+          "VN": "Chỉ Nam Cứu Rỗi"
+        },
+        "rarity": 6,
+        "skIds": [
+          "wpn_attr_wisd_high",
+          "wpn_sp_attr_crystdam_high",
+          "sk_wpn_pistol_0005"
+        ],
+        "skNames": [
+          {
+            "BR": "Inteligência [G]",
+            "CN": "智识提升·大",
+            "DE": "Intellekt [L]",
+            "EN": "Intellect [L]",
+            "FR": "Intelligence [G]",
+            "ID": "Intellect [L]",
+            "IT": "Intelletto (L)",
+            "JP": "知性UP・大",
+            "KR": "지능 증가 · 대",
+            "MX": "Intelecto [G]",
+            "RU": "Интеллект [бол.]",
+            "TC": "智識提升·大",
+            "TH": "สติปัญญา​ [L]",
+            "VN": "Trí Tuệ [Lớn]"
+          },
+          {
+            "BR": "DNO Crio [G]",
+            "CN": "寒冷伤害提升·大",
+            "DE": "Kryo-SDN [L]",
+            "EN": "Cryo DMG [L]",
+            "FR": "DÉG cryogéniques [G]",
+            "ID": "Cryo DMG [L]",
+            "IT": "Danni da ghiaccio (L)",
+            "JP": "寒冷ダメージUP・大",
+            "KR": "냉기 피해 증가 · 대",
+            "MX": "DAÑ criogénico [G]",
+            "RU": "Криогенный УРН [бол.]",
+            "TC": "寒冷傷害提升·大",
+            "TH": "DMG ไค​ร​โอ​ [L]",
+            "VN": "ST Băng [Lớn]"
+          },
+          {
+            "BR": "Inflição: Vela Solitária e Distante",
+            "CN": "附术·远影孤帆",
+            "DE": "Zufügung: Einsames und fernes Segel",
+            "EN": "Infliction: Lone and Distant Sail",
+            "FR": "Altération : Voile solitaire au loin",
+            "ID": "Infliction: Lone and Distant Sail",
+            "IT": "Afflizione: Vela solitaria",
+            "JP": "付術・遠影孤帆",
+            "KR": "고통 · 외로운 항해",
+            "MX": "Imposición: Velero solitario y distante",
+            "RU": "Поражение: одинокий парус",
+            "TC": "附術·遠影孤帆",
+            "TH": "สร้าง​บาดแผล​: การล่อ​ง​เรือ​ที่​ยาวนาน​และ​โดดเดี่ยว",
+            "VN": "Nhiễm: Cánh Buồm Cô Độc Xa Xăm"
+          }
+        ],
+        "stageMaterials": {},
+        "tgtLv": 90,
+        "weaponId": "wpn_pistol_0005",
+        "wpnType": 6
+      },
+      "wpn_pistol_0010": {
+        "gemTagIds": [
+          "attr_wisd",
+          "attr_crirate",
+          "crit"
+        ],
+        "iconId": "wpn_pistol_0010",
+        "name": {
+          "BR": "Arte Tirânica",
+          "CN": "艺术暴君",
+          "DE": "Künstlerischer Tyrann",
+          "EN": "Artzy Tyrannical",
+          "FR": "Tyran de l'art",
+          "ID": "Artzy Tyrannical",
+          "IT": "Tiranno pseudoartistico",
+          "JP": "芸術の独裁者",
+          "KR": "예술의 폭군",
+          "MX": "Artzy tirano",
+          "RU": "Артист Тиранический",
+          "TC": "藝術暴君",
+          "TH": "อาร์ต​ซี่​ไท​แรน​นิ​คัล",
+          "VN": "Artzy Tàn Bạo"
+        },
+        "rarity": 6,
+        "skIds": [
+          "wpn_attr_wisd_high",
+          "wpn_sp_attr_crirate_high",
+          "sk_wpn_pistol_0010"
+        ],
+        "skNames": [
+          {
+            "BR": "Inteligência [G]",
+            "CN": "智识提升·大",
+            "DE": "Intellekt [L]",
+            "EN": "Intellect [L]",
+            "FR": "Intelligence [G]",
+            "ID": "Intellect [L]",
+            "IT": "Intelletto [L]",
+            "JP": "知性UP・大",
+            "KR": "지능 증가 · 대",
+            "MX": "Intelecto [G]",
+            "RU": "Интеллект [бол.]",
+            "TC": "智識提升·大",
+            "TH": "สติปัญญา​ [L]",
+            "VN": "Trí Tuệ [Lớn]"
+          },
+          {
+            "BR": "Taxa de Críticos [G]",
+            "CN": "暴击率提升·大",
+            "DE": "Kritische Rate [L]",
+            "EN": "Critical Rate [L]",
+            "FR": "Taux de coups critiques [G]",
+            "ID": "Critical Rate [L]",
+            "IT": "Probabilità di critico [L]",
+            "JP": "会心率UP・大",
+            "KR": "치명타 확률 증가 · 대",
+            "MX": "Índice crítico [G]",
+            "RU": "Шанс крит. удара [бол.]",
+            "TC": "暴擊率提升·大",
+            "TH": "อัตรา​การติ​ด​คริ​ติค​อล​ [L]",
+            "VN": "Tỷ Lệ Bạo Kích [Lớn]"
+          },
+          {
+            "BR": "Fratura: Exagero Artístico",
+            "CN": "切骨·艺术暴论",
+            "DE": "Bruch: Künstlerische Freiheit",
+            "EN": "Fracture: Artzy Exaggeration",
+            "FR": "Fracture : Exagération des Arts",
+            "ID": "Fracture: Artzy Exaggeration",
+            "IT": "Frattura: Eccesso artistico",
+            "JP": "切骨・芸術暴論",
+            "KR": "골절 · 예술적 폭론",
+            "MX": "Fractura: Exageración artística",
+            "RU": "Разрыв: смелое преувеличение",
+            "TC": "切骨·藝術暴論",
+            "TH": "พังทลาย​: ความ​เกิน​จริง​อย่าง​มี​ศิลปะ",
+            "VN": "Rạn Nứt: Cường Điệu Nghệ Thuật"
+          }
+        ],
+        "stageMaterials": {},
+        "tgtLv": 90,
+        "weaponId": "wpn_pistol_0010",
+        "wpnType": 6
+      },
+      "wpn_sword_0023": {
+        "gemTagIds": [
+          "attr_str",
+          "attr_heal",
+          "heal"
+        ],
+        "iconId": "wpn_sword_0023",
+        "name": {
+          "BR": "Momento da Sobremesa",
+          "CN": "点心时刻",
+          "DE": "Desserthighlight",
+          "EN": "Dessert Moment",
+          "FR": "L'heure du dessert",
+          "ID": "Dessert Moment",
+          "IT": "Momento del dolce",
+          "JP": "スイーツタイム",
+          "KR": "간식 시간",
+          "MX": "Momento del postre",
+          "RU": "Время десерта",
+          "TC": "點心時刻",
+          "TH": "ช่วงเวลา​แห่ง​ของหวาน",
+          "VN": "Giờ Tráng Miệng"
+        },
+        "rarity": 5,
+        "skIds": [
+          "wpn_attr_str_mid",
+          "wpn_sp_attr_heal_mid",
+          "sk_wpn_sword_0023"
+        ],
+        "skNames": [
+          {
+            "BR": "Força [M]",
+            "CN": "力量提升·中",
+            "DE": "Stärke [M]",
+            "EN": "Strength [M]",
+            "FR": "Force [M]",
+            "ID": "Strength [M]",
+            "IT": "Forza [M]",
+            "JP": "筋力UP・中",
+            "KR": "힘 증가 · 중",
+            "MX": "Fuerza [M]",
+            "RU": "Сила [ср.]",
+            "TC": "力量提升·中",
+            "TH": "ความแข็ง​แกร่ง​ [M]",
+            "VN": "Sức Mạnh [Vừa]"
+          },
+          {
+            "BR": "Eficiência do Tratamento [M]",
+            "CN": "治疗效率提升·中",
+            "DE": "Behandlungseffizienz [M]",
+            "EN": "Treatment Efficiency [M]",
+            "FR": "Efficacité des soins [M]",
+            "ID": "Efisiensi Treatment [M]",
+            "IT": "Efficacia della Cura [M]",
+            "JP": "回復効率UP・中",
+            "KR": "치유 효율 증가 · 중",
+            "MX": "Eficiencia del tratamiento [M]",
+            "RU": "Эффективность лечения [ср.]",
+            "TC": "治療效率提升·中",
+            "TH": "ประสิทธิภาพ​การรักษา​ [M]",
+            "VN": "Hiệu Quả Điều Trị [Vừa]"
+          },
+          {
+            "BR": "Medicinal: Doçura e Sonhos",
+            "CN": "医疗·甜与梦",
+            "DE": "Pharmakon: Süße Träume",
+            "EN": "Medicant: Sweetness and Dreams",
+            "FR": "Cure : Douceur et rêves",
+            "ID": "Medicant: Sweetness and Dreams",
+            "IT": "Cura: Dolcezza e sogni",
+            "JP": "治癒・甘さと夢",
+            "KR": "의료 · 달콤한 꿈",
+            "MX": "Medicante: Dulzura y sueños",
+            "RU": "Лечение: сладость и грезы",
+            "TC": "醫療·甜與夢",
+            "TH": "เยียวยา​: นิทรา​ฝัน​แสน​หวาน",
+            "VN": "Chữa Lành: Ngọt Ngào và Mộng Mơ"
+          }
+        ],
+        "stageMaterials": {
+          "1": {
+            "stageId": 1,
+            "upBrkCnt": [
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2"
+            ],
+            "upExpCnt": [
+              1453
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              39710
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [],
+            "upPreIds": []
+          },
+          "2": {
+            "stageId": 2,
+            "upBrkCnt": [
+              20,
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_high",
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5,
+              5
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2",
+              "item_plant_spcstone_1_3"
+            ],
+            "upExpCnt": [
+              6019
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              159550
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [],
+            "upPreIds": []
+          },
+          "3": {
+            "stageId": 3,
+            "upBrkCnt": [
+              50,
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_high",
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5,
+              5,
+              8
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2",
+              "item_plant_spcstone_1_3",
+              "item_plant_spcstone_2_3"
+            ],
+            "upExpCnt": [
+              12621
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              467090
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [
+              16
+            ],
+            "upPreIds": [
+              "item_char_skill_specialize_2"
+            ]
+          },
+          "4": {
+            "stageId": 4,
+            "upBrkCnt": [
+              50,
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_high",
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5,
+              5,
+              8
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2",
+              "item_plant_spcstone_1_3",
+              "item_plant_spcstone_2_3"
+            ],
+            "upExpCnt": [
+              12621
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              467090
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [
+              16
+            ],
+            "upPreIds": [
+              "item_char_skill_specialize_2"
+            ]
+          }
+        },
+        "tgtLv": 90,
+        "weaponId": "wpn_sword_0023",
+        "wpnType": 1
+      },
+      "wpn_sword_0026": {
+        "gemTagIds": [
+          "attr_main",
+          "attr_physpell",
+          "force"
+        ],
+        "iconId": "wpn_sword_0026",
+        "name": {
+          "BR": "Visão Longínqua",
+          "CN": "遥望",
+          "DE": "Weitsicht",
+          "EN": "Farsight",
+          "FR": "Clairvoyance",
+          "ID": "Farsight",
+          "IT": "Lungimiranza",
+          "JP": "ファーサイト",
+          "KR": "조망",
+          "MX": "Vista lejana",
+          "RU": "Дальновидность",
+          "TC": "遙望",
+          "TH": "สุดลูกหูลูกตา",
+          "VN": "Viễn Kiến"
+        },
+        "rarity": 6,
+        "skIds": [
+          "wpn_attr_main_high",
+          "wpn_sp_attr_phy_spell_high",
+          "sk_wpn_sword_0026"
+        ],
+        "skNames": [
+          {
+            "BR": "Atributo Principal [G]",
+            "CN": "主能力提升·大",
+            "DE": "Hauptattribut [L]",
+            "EN": "Main Attribute [L]",
+            "FR": "Trait principal [G]",
+            "ID": "Atribut Utama [L]",
+            "IT": "Attributo principale [L]",
+            "JP": "メイン能力UP・大",
+            "KR": "주요 능력치 증가 · 대",
+            "MX": "Atributo principal [G]",
+            "RU": "Основной показатель [бол.]",
+            "TC": "主能力提升·大",
+            "TH": "คุณสมบัติ​หลัก​ [L]",
+            "VN": "Thuộc Tính Chính [Lớn]"
+          },
+          {
+            "BR": "Intensidade das Artes [G]",
+            "CN": "源石技艺强度提升·大",
+            "DE": "Technik-Intensität [L]",
+            "EN": "Arts Intensity [L]",
+            "FR": "Intensité des Arts [G]",
+            "ID": "Intensitas Arts [L]",
+            "IT": "Intensità delle Arti [L]",
+            "JP": "アーツ強度UP・大",
+            "KR": "오리지늄 아츠 강도 증가 · 대",
+            "MX": "Intensidad de artes [G]",
+            "RU": "Сила искусств [бол.]",
+            "TC": "源石技藝強度提升·大",
+            "TH": "ความ​เข้มข้น​ของ​เวท​ [L]",
+            "VN": "Công Phép [Lớn]"
+          },
+          {
+            "BR": "Assalto: Visão para o Amanhã",
+            "CN": "强攻·明日之愿",
+            "DE": "Sturmangriff: Vision für morgen",
+            "EN": "Assault: Vision for Tomorrow",
+            "FR": "Assaut : Vision d'avenir",
+            "ID": "Assault: Vision for Tomorrow",
+            "IT": "Assalto: Visione del domani",
+            "JP": "強攻・明日への祈り",
+            "KR": "강공 · 내일의 희망",
+            "MX": "Asalto: Visión del mañana",
+            "RU": "Натиск: видение будущего",
+            "TC": "強攻·明日之願",
+            "TH": "จู่โจม​: นิมิต​วันพรุ่ง",
+            "VN": "Đột Kích: Viễn Cảnh Ngày Mai"
+          }
+        ],
+        "stageMaterials": {
+          "1": {
+            "stageId": 1,
+            "upBrkCnt": [
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2"
+            ],
+            "upExpCnt": [
+              1453
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              39710
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [],
+            "upPreIds": []
+          },
+          "2": {
+            "stageId": 2,
+            "upBrkCnt": [
+              20,
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_high",
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5,
+              5
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2",
+              "item_plant_spcstone_1_3"
+            ],
+            "upExpCnt": [
+              6019
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              159550
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [],
+            "upPreIds": []
+          },
+          "3": {
+            "stageId": 3,
+            "upBrkCnt": [
+              50,
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_high",
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5,
+              5,
+              8
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2",
+              "item_plant_spcstone_1_3",
+              "item_plant_spcstone_2_3"
+            ],
+            "upExpCnt": [
+              12621
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              467090
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [
+              16
+            ],
+            "upPreIds": [
+              "item_char_skill_specialize_3"
+            ]
+          },
+          "4": {
+            "stageId": 4,
+            "upBrkCnt": [
+              50,
+              23
+            ],
+            "upBrkIds": [
+              "item_weapon_break_high",
+              "item_weapon_break_low"
+            ],
+            "upColCnt": [
+              3,
+              5,
+              5,
+              8
+            ],
+            "upColIds": [
+              "item_plant_spcstone_1_1",
+              "item_plant_spcstone_1_2",
+              "item_plant_spcstone_1_3",
+              "item_plant_spcstone_2_3"
+            ],
+            "upExpCnt": [
+              12621
+            ],
+            "upExpIds": [
+              "item_weapon_expcard_low"
+            ],
+            "upGoldCnt": [
+              467090
+            ],
+            "upGoldIds": [
+              "item_gold"
+            ],
+            "upPreCnt": [
+              16
+            ],
+            "upPreIds": [
+              "item_char_skill_specialize_3"
+            ]
+          }
+        },
+        "tgtLv": 90,
+        "weaponId": "wpn_sword_0026",
+        "wpnType": 1
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

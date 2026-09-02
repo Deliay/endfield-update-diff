@@ -1,0 +1,2693 @@
+{
+  "tableName": "GachaWeaponPoolTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 17
+  },
+  "entries": {
+    "added": {
+      "rerun_wpn_yvonne": {
+        "clientTopTimeId": "time_weaponbox_1_5_2",
+        "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+        "finalIndex": 0,
+        "gachaPoolVersion": 1,
+        "id": "rerun_wpn_yvonne",
+        "index": 0,
+        "intervalAutoRewardIds": [
+          "reward_payshop_item_case_wpn_selfselect_gahca_yvonne",
+          "reward_payshop_wpn_pistol_0010"
+        ],
+        "loopRewardShowTag": {
+          "BR": "Tributo Grafiteiro",
+          "CN": "点绘赠礼",
+          "DE": "Künstler-Schriftzug-Tribut",
+          "EN": "Tag Artist Tribute",
+          "FR": "Don de graffeuse",
+          "ID": "Persembahan Gaya Seniman",
+          "IT": "Tributo Artista dei graffiti",
+          "JP": "点描・特典",
+          "KR": "점묘 선물",
+          "MX": "Tributo de Artista del grafiti",
+          "RU": "Подношение «Теггер»",
+          "TC": "點繪贈禮",
+          "TH": "เครื่องบรรณาการ​ศิลปิน​แท็ก",
+          "VN": "Quà Tặng Thẻ Họa Sĩ"
+        },
+        "loopRewardShowTitle": {
+          "BR": "Tributo Grafiteiro Conquistado",
+          "CN": "点绘赠礼达成",
+          "DE": "Künstler-Schriftzug-Tribut erhalten",
+          "EN": "Tag Artist Tribute Achieved",
+          "FR": "Don de graffeuse obtenu",
+          "ID": "Persembahan Gaya Seniman Tercapai",
+          "IT": "Tributo Artista dei graffiti ottenuto",
+          "JP": "点描・特典達成",
+          "KR": "점묘 선물 달성",
+          "MX": "Tributo de Artista del grafiti obtenido",
+          "RU": "Получено подношение «Теггер»",
+          "TC": "點繪贈禮達成",
+          "TH": "ทำ​เครื่องบรรณาการ​ศิลปิน​แท็ก​สำเร็จ",
+          "VN": "Quà Tặng Thẻ Họa Sĩ Đã Nhận"
+        },
+        "name": {
+          "BR": "Distribuição Grafiteiro",
+          "CN": "点绘申领",
+          "DE": "Künstler-Schriftzug-Ausgabe",
+          "EN": "Tag Artist Issue",
+          "FR": "Tirage de graffeuse",
+          "ID": "Edisi Gaya Seniman",
+          "IT": "Distribuzione Artista dei graffiti",
+          "JP": "点描・申請",
+          "KR": "점묘 신청",
+          "MX": "Solicitud de Artista del grafiti",
+          "RU": "Поставка «Теггер»",
+          "TC": "點繪申領",
+          "TH": "ตั๋ว​ศิลปิน​แท็ก",
+          "VN": "Gói Rút Thẻ Họa Sĩ"
+        },
+        "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter1",
+        "smallPoolIcon": "icon_shop_weaponbox_small_1_0_2",
+        "smallPoolIconFar": "icon_shop_weaponbox_small_1_0_2_far",
+        "sortId": 14,
+        "ticketGachaTenLt": "",
+        "type": 1,
+        "upWeaponDoublePoolIcon": "",
+        "upWeaponIcon": "",
+        "upWeaponIds": [
+          "wpn_pistol_0010"
+        ]
+      },
+      "weponbox_1_5_1": {
+        "clientTopTimeId": "time_special_1_5_1",
+        "doublePoolNodeUIPrefab": "",
+        "finalIndex": 13,
+        "gachaPoolVersion": 0,
+        "id": "weponbox_1_5_1",
+        "index": 11,
+        "intervalAutoRewardIds": [
+          "reward_payshop_item_case_wpn_selfselect_gahca_1_5_1",
+          "reward_payshop_wpn_funnel_0019"
+        ],
+        "loopRewardShowTag": {
+          "BR": "Tributo Frio Intenso",
+          "CN": "幽寒赠礼",
+          "DE": "Eiskalt-Tribut",
+          "EN": "Deep Cold Tribute",
+          "FR": "Don de froid mordant",
+          "ID": "Persembahan Dingin Menusuk Tulang",
+          "IT": "Tributo Freddo profondo",
+          "JP": "極寒・特典",
+          "KR": "한기 선물",
+          "MX": "Tributo de Frío intenso",
+          "RU": "Подношение «Лютый мороз»",
+          "TC": "幽寒贈禮",
+          "TH": "เครื่องบรรณาการ​หนาว​ยะเยือก",
+          "VN": "Quà Tặng Cực Hàn"
+        },
+        "loopRewardShowTitle": {
+          "BR": "Tributo Frio Intenso Conquistado",
+          "CN": "幽寒赠礼达成",
+          "DE": "Eiskalt-Tribut erhalten",
+          "EN": "Deep Cold Tribute Achieved",
+          "FR": "Don de froid mordant obtenu",
+          "ID": "Persembahan Dingin Menusuk Tulang Berhasil",
+          "IT": "Tributo Freddo profondo ottenuto",
+          "JP": "極寒・特典達成",
+          "KR": "한기 선물 달성",
+          "MX": "Tributo de Frío intenso conseguido",
+          "RU": "Получено подношение «Лютый мороз»",
+          "TC": "幽寒贈禮達成",
+          "TH": "ทำ​เครื่องบรรณาการ​หนาว​ยะเยือก​สำเร็จ",
+          "VN": "Đã Nhận Quà Tặng Cực Hàn"
+        },
+        "name": {
+          "BR": "Distribuição Frio Intenso",
+          "CN": "幽寒申领",
+          "DE": "Eiskalt-Ausgabe",
+          "EN": "Deep Cold Issue",
+          "FR": "Tirage du froid mordant",
+          "ID": "Edisi Dingin Menusuk Tulang",
+          "IT": "Distribuzione Freddo profondo",
+          "JP": "極寒・申請",
+          "KR": "한기 신청",
+          "MX": "Solicitud de Frío intenso",
+          "RU": "Поставка «Лютый мороз»",
+          "TC": "幽寒申領",
+          "TH": "ตั๋ว​หนาว​ยะเยือก",
+          "VN": "Gói Rút Cực Hàn"
+        },
+        "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_5_1",
+        "smallPoolIcon": "icon_shop_weaponbox_small_1_5_1",
+        "smallPoolIconFar": "icon_shop_weaponbox_small_1_5_1_far",
+        "sortId": 13,
+        "ticketGachaTenLt": "",
+        "type": 0,
+        "upWeaponDoublePoolIcon": "",
+        "upWeaponIcon": "",
+        "upWeaponIds": [
+          "wpn_funnel_0019"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "weaponbox_constant_1": {
+        "oldValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "id": "weaponbox_constant_1",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_1",
+            "reward_payshop_wpn_claym_0013"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Gelo Sólido",
+            "CN": "坚冰赠礼",
+            "DE": "„Festes Eis“-Tribut",
+            "EN": "Solid Ice Tribute",
+            "FR": "Don de glace solide",
+            "ID": "Persembahan Es Padat",
+            "IT": "Tributo Ghiaccio solido",
+            "JP": "堅氷・特典",
+            "KR": "결빙의 선물",
+            "MX": "Tributo del Hielo sólido",
+            "RU": "Подношение «Крепкий лед»",
+            "TC": "堅冰贈禮",
+            "TH": "เครื่องบรรณาการ​น้ำแข็ง​แน่นหนา",
+            "VN": "Quà Tặng Băng Cứng"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Gelo Sólido Conquistado",
+            "CN": "坚冰赠礼达成",
+            "DE": "„Festes Eis“-Tribut verdient",
+            "EN": "Solid Ice Tribute Earned",
+            "FR": "Don de glace solide obtenu",
+            "ID": "Persembahan Es Padat Didapatkan",
+            "IT": "Tributo Ghiaccio solido ottenuto",
+            "JP": "堅氷・特典達成",
+            "KR": "결빙의 선물 달성",
+            "MX": "Tributo del Hielo sólido obtenido",
+            "RU": "Получено подношение «Крепкий лед»",
+            "TC": "堅冰贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​น้ำแข็ง​แน่นหนา",
+            "VN": "Quà Tặng Băng Cứng Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Gelo Sólido",
+            "CN": "坚冰申领",
+            "DE": "„Festes Eis“-Ausgabe",
+            "EN": "Solid Ice Issue",
+            "FR": "Tirage de glace solide",
+            "ID": "Edisi Es Padat",
+            "IT": "Distribuzione Ghiaccio solido",
+            "JP": "堅氷・申請",
+            "KR": "결빙 신청",
+            "MX": "Solicitud del Hielo sólido",
+            "RU": "Поставка «Крепкий лед»",
+            "TC": "堅冰申領",
+            "TH": "ตั๋ว​น้ำแข็ง​แน่นหนา",
+            "VN": "Gói Rút Băng Cứng"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_claym_0013",
+          "upWeaponIds": [
+            "wpn_claym_0013"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "gachaPoolVersion": 0,
+          "id": "weaponbox_constant_1",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_1",
+            "reward_payshop_wpn_claym_0013"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Gelo Sólido",
+            "CN": "坚冰赠礼",
+            "DE": "„Festes Eis“-Tribut",
+            "EN": "Solid Ice Tribute",
+            "FR": "Don de glace solide",
+            "ID": "Persembahan Es Padat",
+            "IT": "Tributo Ghiaccio solido",
+            "JP": "堅氷・特典",
+            "KR": "결빙의 선물",
+            "MX": "Tributo del Hielo sólido",
+            "RU": "Подношение «Крепкий лед»",
+            "TC": "堅冰贈禮",
+            "TH": "เครื่องบรรณาการ​น้ำแข็ง​แน่นหนา",
+            "VN": "Quà Tặng Băng Cứng"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Gelo Sólido Conquistado",
+            "CN": "坚冰赠礼达成",
+            "DE": "„Festes Eis“-Tribut verdient",
+            "EN": "Solid Ice Tribute Earned",
+            "FR": "Don de glace solide obtenu",
+            "ID": "Persembahan Es Padat Didapatkan",
+            "IT": "Tributo Ghiaccio solido ottenuto",
+            "JP": "堅氷・特典達成",
+            "KR": "결빙의 선물 달성",
+            "MX": "Tributo del Hielo sólido obtenido",
+            "RU": "Получено подношение «Крепкий лед»",
+            "TC": "堅冰贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​น้ำแข็ง​แน่นหนา",
+            "VN": "Quà Tặng Băng Cứng Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Gelo Sólido",
+            "CN": "坚冰申领",
+            "DE": "„Festes Eis“-Ausgabe",
+            "EN": "Solid Ice Issue",
+            "FR": "Tirage de glace solide",
+            "ID": "Edisi Es Padat",
+            "IT": "Distribuzione Ghiaccio solido",
+            "JP": "堅氷・申請",
+            "KR": "결빙 신청",
+            "MX": "Solicitud del Hielo sólido",
+            "RU": "Поставка «Крепкий лед»",
+            "TC": "堅冰申領",
+            "TH": "ตั๋ว​น้ำแข็ง​แน่นหนา",
+            "VN": "Gói Rút Băng Cứng"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_claym_0013",
+          "upWeaponIds": [
+            "wpn_claym_0013"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_0_2": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_0_2",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "finalIndex": 5,
+          "id": "weponbox_1_0_2",
+          "index": 3,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_0_2",
+            "reward_payshop_wpn_pistol_0010"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Graffiti",
+            "CN": "绘涂赠礼",
+            "DE": "Graffiti-Tribut",
+            "EN": "Graffiti Tribute",
+            "FR": "Don de graffiti",
+            "ID": "Persembahan Grafiti",
+            "IT": "Tributo Graffiti",
+            "JP": "彩色・特典",
+            "KR": "화도의 선물",
+            "MX": "Tributo de Grafiti",
+            "RU": "Подношение «Граффити»",
+            "TC": "繪塗贈禮",
+            "TH": "เครื่องบรรณาการ​กราฟ​ฟิ​ตี",
+            "VN": "Quà Tặng Graffiti"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Graffiti Conquistado",
+            "CN": "绘涂赠礼达成",
+            "DE": "Graffiti-Tribut verdient",
+            "EN": "Graffiti Tribute Earned",
+            "FR": "Don de graffiti obtenu",
+            "ID": "Persembahan Grafiti Didapatkan",
+            "IT": "Tributo Graffiti ottenuto",
+            "JP": "彩色・特典達成",
+            "KR": "화도의 선물 달성",
+            "MX": "Tributo de Grafiti obtenido",
+            "RU": "Получено подношение «Граффити»",
+            "TC": "繪塗贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​กราฟ​ฟิ​ตี",
+            "VN": "Quà Tặng Graffiti Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Graffiti",
+            "CN": "绘涂申领",
+            "DE": "Graffiti-Ausgabe",
+            "EN": "Graffiti Issue",
+            "FR": "Tirage de graffiti",
+            "ID": "Edisi Grafiti",
+            "IT": "Distribuzione Graffiti",
+            "JP": "彩色・申請",
+            "KR": "화도 신청",
+            "MX": "Solicitud de Grafiti",
+            "RU": "Поставка «Граффити»",
+            "TC": "繪塗申領",
+            "TH": "ตั๋ว​กราฟ​ฟิ​ตี",
+            "VN": "Gói Rút Graffiti"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_2",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_0_2_far",
+          "sortId": 3,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_pistol_0010"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_0_2",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "finalIndex": 5,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_0_2",
+          "index": 3,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_0_2",
+            "reward_payshop_wpn_pistol_0010"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Graffiti",
+            "CN": "绘涂赠礼",
+            "DE": "Graffiti-Tribut",
+            "EN": "Graffiti Tribute",
+            "FR": "Don de graffiti",
+            "ID": "Persembahan Grafiti",
+            "IT": "Tributo Graffiti",
+            "JP": "彩色・特典",
+            "KR": "화도의 선물",
+            "MX": "Tributo de Grafiti",
+            "RU": "Подношение «Граффити»",
+            "TC": "繪塗贈禮",
+            "TH": "เครื่องบรรณาการ​กราฟ​ฟิ​ตี",
+            "VN": "Quà Tặng Graffiti"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Graffiti Conquistado",
+            "CN": "绘涂赠礼达成",
+            "DE": "Graffiti-Tribut verdient",
+            "EN": "Graffiti Tribute Earned",
+            "FR": "Don de graffiti obtenu",
+            "ID": "Persembahan Grafiti Didapatkan",
+            "IT": "Tributo Graffiti ottenuto",
+            "JP": "彩色・特典達成",
+            "KR": "화도의 선물 달성",
+            "MX": "Tributo de Grafiti obtenido",
+            "RU": "Получено подношение «Граффити»",
+            "TC": "繪塗贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​กราฟ​ฟิ​ตี",
+            "VN": "Quà Tặng Graffiti Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Graffiti",
+            "CN": "绘涂申领",
+            "DE": "Graffiti-Ausgabe",
+            "EN": "Graffiti Issue",
+            "FR": "Tirage de graffiti",
+            "ID": "Edisi Grafiti",
+            "IT": "Distribuzione Graffiti",
+            "JP": "彩色・申請",
+            "KR": "화도 신청",
+            "MX": "Solicitud de Grafiti",
+            "RU": "Поставка «Граффити»",
+            "TC": "繪塗申領",
+            "TH": "ตั๋ว​กราฟ​ฟิ​ตี",
+            "VN": "Gói Rút Graffiti"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_2",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_0_2_far",
+          "sortId": 3,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_pistol_0010"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weaponbox_constant_2": {
+        "oldValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "id": "weaponbox_constant_2",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_2",
+            "reward_payshop_wpn_funnel_0013"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Voz Cósmica",
+            "CN": "星声赠礼",
+            "DE": "„Kosmische Stimme“-Tribut",
+            "EN": "Cosmic Voice Tribute",
+            "FR": "Don de voix cosmique",
+            "ID": "Persembahan Suara Kosmis",
+            "IT": "Tributo Voce cosmica",
+            "JP": "星声・特典",
+            "KR": "성음의 선물",
+            "MX": "Tributo de la Voz cósmica",
+            "RU": "Подношение «Космический голос»",
+            "TC": "星聲贈禮",
+            "TH": "เครื่องบรรณาการ​เสียง​จักรวาล",
+            "VN": "Quà Tặng Tiếng Sao"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Voz Cósmica Conquistado",
+            "CN": "星声赠礼达成",
+            "DE": "„Kosmische Stimme“-Tribut verdient",
+            "EN": "Cosmic Voice Tribute Earned",
+            "FR": "Don de voix cosmique obtenu",
+            "ID": "Persembahan Suara Kosmis Didapatkan",
+            "IT": "Tributo Voce cosmica ottenuto",
+            "JP": "星声・特典達成",
+            "KR": "성음의 선물 달성",
+            "MX": "Tributo de la Voz cósmica obtenido",
+            "RU": "Получено подношение «Космический голос»",
+            "TC": "星聲贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เสียง​จักรวาล",
+            "VN": "Quà Tặng Tiếng Sao Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Voz Cósmica",
+            "CN": "星声申领",
+            "DE": "„Kosmische Stimme“-Ausgabe",
+            "EN": "Cosmic Voice Issue",
+            "FR": "Tirage de voix cosmique",
+            "ID": "Edisi Suara Kosmis",
+            "IT": "Distribuzione Voce cosmica",
+            "JP": "星声・申請",
+            "KR": "성음 신청",
+            "MX": "Solicitud de la Voz cósmica",
+            "RU": "Поставка «Космический голос»",
+            "TC": "星聲申領",
+            "TH": "ตั๋ว​เสียง​จักรวาล",
+            "VN": "Gói Rút Tiếng Sao"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "item_ticketgacha_weaponbox_constant_2",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_funnel_0013",
+          "upWeaponIds": [
+            "wpn_funnel_0013"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "gachaPoolVersion": 0,
+          "id": "weaponbox_constant_2",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_2",
+            "reward_payshop_wpn_funnel_0013"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Voz Cósmica",
+            "CN": "星声赠礼",
+            "DE": "„Kosmische Stimme“-Tribut",
+            "EN": "Cosmic Voice Tribute",
+            "FR": "Don de voix cosmique",
+            "ID": "Persembahan Suara Kosmis",
+            "IT": "Tributo Voce cosmica",
+            "JP": "星声・特典",
+            "KR": "성음의 선물",
+            "MX": "Tributo de la Voz cósmica",
+            "RU": "Подношение «Космический голос»",
+            "TC": "星聲贈禮",
+            "TH": "เครื่องบรรณาการ​เสียง​จักรวาล",
+            "VN": "Quà Tặng Tiếng Sao"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Voz Cósmica Conquistado",
+            "CN": "星声赠礼达成",
+            "DE": "„Kosmische Stimme“-Tribut verdient",
+            "EN": "Cosmic Voice Tribute Earned",
+            "FR": "Don de voix cosmique obtenu",
+            "ID": "Persembahan Suara Kosmis Didapatkan",
+            "IT": "Tributo Voce cosmica ottenuto",
+            "JP": "星声・特典達成",
+            "KR": "성음의 선물 달성",
+            "MX": "Tributo de la Voz cósmica obtenido",
+            "RU": "Получено подношение «Космический голос»",
+            "TC": "星聲贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เสียง​จักรวาล",
+            "VN": "Quà Tặng Tiếng Sao Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Voz Cósmica",
+            "CN": "星声申领",
+            "DE": "„Kosmische Stimme“-Ausgabe",
+            "EN": "Cosmic Voice Issue",
+            "FR": "Tirage de voix cosmique",
+            "ID": "Edisi Suara Kosmis",
+            "IT": "Distribuzione Voce cosmica",
+            "JP": "星声・申請",
+            "KR": "성음 신청",
+            "MX": "Solicitud de la Voz cósmica",
+            "RU": "Поставка «Космический голос»",
+            "TC": "星聲申領",
+            "TH": "ตั๋ว​เสียง​จักรวาล",
+            "VN": "Gói Rút Tiếng Sao"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "item_ticketgacha_weaponbox_constant_2",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_funnel_0013",
+          "upWeaponIds": [
+            "wpn_funnel_0013"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_0_3": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_0_3",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "finalIndex": 4,
+          "id": "weponbox_1_0_3",
+          "index": 2,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_0_3",
+            "reward_payshop_wpn_funnel_0011"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Entrega Expressa",
+            "CN": "迅行赠礼",
+            "DE": "Expresslieferung-Tribut",
+            "EN": "Express Delivery Tribute",
+            "FR": "Don de livraison express",
+            "ID": "Persembahan Kiriman Kilat",
+            "IT": "Tributo Consegna espressa",
+            "JP": "疾駆・特典",
+            "KR": "순행의 선물",
+            "MX": "Tributo de la Entrega exprés",
+            "RU": "Подношение «Срочная доставка»",
+            "TC": "迅行贈禮",
+            "TH": "เครื่องบรรณาการ​จัดส่ง​ด่วน",
+            "VN": "Quà Tặng Tốc Hành"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Entrega Expressa Conquistado",
+            "CN": "迅行赠礼达成",
+            "DE": "Expresslieferung-Tribut verdient",
+            "EN": "Express Delivery Tribute Earned",
+            "FR": "Don de livraison express obtenu",
+            "ID": "Persembahan Kiriman Kilat Didapatkan",
+            "IT": "Tributo Consegna espressa ottenuto",
+            "JP": "疾駆・特典達成",
+            "KR": "순행의 선물 달성",
+            "MX": "Tributo de la Entrega exprés obtenido",
+            "RU": "Получено подношение «Срочная доставка»",
+            "TC": "迅行贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​จัดส่ง​ด่วน",
+            "VN": "Quà Tặng Tốc Hành Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Entrega Expressa",
+            "CN": "迅行申领",
+            "DE": "Expresslieferung-Ausgabe",
+            "EN": "Express Delivery Issue",
+            "FR": "Tirage de livraison express",
+            "ID": "Edisi Kiriman Kilat",
+            "IT": "Distribuzione Consegna espressa",
+            "JP": "疾駆・申請",
+            "KR": "순행 신청",
+            "MX": "Solicitud de la Entrega exprés",
+            "RU": "Поставка «Срочная доставка»",
+            "TC": "迅行申領",
+            "TH": "ตั๋ว​จัดส่ง​ด่วน",
+            "VN": "Gói Rút Giao Hàng Nhanh"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_3",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_0_3_far",
+          "sortId": 2,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0011"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_0_3",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "finalIndex": 4,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_0_3",
+          "index": 2,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_0_3",
+            "reward_payshop_wpn_funnel_0011"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Entrega Expressa",
+            "CN": "迅行赠礼",
+            "DE": "Expresslieferung-Tribut",
+            "EN": "Express Delivery Tribute",
+            "FR": "Don de livraison express",
+            "ID": "Persembahan Kiriman Kilat",
+            "IT": "Tributo Consegna espressa",
+            "JP": "疾駆・特典",
+            "KR": "순행의 선물",
+            "MX": "Tributo de la Entrega exprés",
+            "RU": "Подношение «Срочная доставка»",
+            "TC": "迅行贈禮",
+            "TH": "เครื่องบรรณาการ​จัดส่ง​ด่วน",
+            "VN": "Quà Tặng Tốc Hành"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Entrega Expressa Conquistado",
+            "CN": "迅行赠礼达成",
+            "DE": "Expresslieferung-Tribut verdient",
+            "EN": "Express Delivery Tribute Earned",
+            "FR": "Don de livraison express obtenu",
+            "ID": "Persembahan Kiriman Kilat Didapatkan",
+            "IT": "Tributo Consegna espressa ottenuto",
+            "JP": "疾駆・特典達成",
+            "KR": "순행의 선물 달성",
+            "MX": "Tributo de la Entrega exprés obtenido",
+            "RU": "Получено подношение «Срочная доставка»",
+            "TC": "迅行贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​จัดส่ง​ด่วน",
+            "VN": "Quà Tặng Tốc Hành Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Entrega Expressa",
+            "CN": "迅行申领",
+            "DE": "Expresslieferung-Ausgabe",
+            "EN": "Express Delivery Issue",
+            "FR": "Tirage de livraison express",
+            "ID": "Edisi Kiriman Kilat",
+            "IT": "Distribuzione Consegna espressa",
+            "JP": "疾駆・申請",
+            "KR": "순행 신청",
+            "MX": "Solicitud de la Entrega exprés",
+            "RU": "Поставка «Срочная доставка»",
+            "TC": "迅行申領",
+            "TH": "ตั๋ว​จัดส่ง​ด่วน",
+            "VN": "Gói Rút Giao Hàng Nhanh"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_3",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_0_3_far",
+          "sortId": 2,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0011"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_2_2": {
+        "oldValue": {
+          "clientTopTimeId": "time_weaponbox_1_2_2",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_re_1_2_2",
+          "finalIndex": 0,
+          "id": "weponbox_1_2_2",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_2_2",
+            "reward_payshop_wpn_sword_0006"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Fogo Fundente",
+            "CN": "熔灼赠礼",
+            "DE": "Hüttenfeuer-Tribut",
+            "EN": "Smelting Fire Tribute",
+            "FR": "Don de feu des forges",
+            "ID": "Persembahan Api Pelebur",
+            "IT": "Tributo Fiamma della fonderia",
+            "JP": "溶融・特典",
+            "KR": "용작의 선물",
+            "MX": "Tributo de Fuego de fundición",
+            "RU": "Подношение «Плавильная печь»",
+            "TC": "熔灼贈禮",
+            "TH": "เครื่องบรรณาการ​เพลิง​หลอมละลาย",
+            "VN": "Quà Tặng Luyện Hỏa"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Fogo Fundente Alcançado",
+            "CN": "熔灼赠礼达成",
+            "DE": "Hüttenfeuer-Tribut erreicht",
+            "EN": "Smelting Fire Tribute Achieved",
+            "FR": "Don de feu des forges obtenu",
+            "ID": "Persembahan Api Pelebur Berhasil",
+            "IT": "Tributo Fiamma della fonderia ottenuto",
+            "JP": "溶融・特典達成",
+            "KR": "용작의 선물 달성",
+            "MX": "Tributo de Fuego de fundición obtenido",
+            "RU": "Получено подношение «Плавильная печь»",
+            "TC": "熔灼贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​เพลิง​หลอมละลาย​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Luyện Hỏa"
+          },
+          "name": {
+            "BR": "Distribuição Fogo Fundente",
+            "CN": "熔灼申领",
+            "DE": "Hüttenfeuer-Ausgabe",
+            "EN": "Smelting Fire Issue",
+            "FR": "Tirage du feu des forges",
+            "ID": "Edisi Api Pelebur",
+            "IT": "Distribuzione Fiamma della fonderia",
+            "JP": "溶融・申請",
+            "KR": "용작 신청",
+            "MX": "Solicitud del Fuego de fundición",
+            "RU": "Поставка «Плавильная печь»",
+            "TC": "熔灼申領",
+            "TH": "ตั๋ว​เพลิง​หลอมละลาย",
+            "VN": "Gói Rút Luyện Hỏa"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_1",
+          "smallPoolIconFar": "",
+          "sortId": 7,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_sword_0006"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_weaponbox_1_2_2",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_re_1_2_2",
+          "finalIndex": 0,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_2_2",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_2_2",
+            "reward_payshop_wpn_sword_0006"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Fogo Fundente",
+            "CN": "熔灼赠礼",
+            "DE": "Hüttenfeuer-Tribut",
+            "EN": "Smelting Fire Tribute",
+            "FR": "Don de feu des forges",
+            "ID": "Persembahan Api Pelebur",
+            "IT": "Tributo Fiamma della fonderia",
+            "JP": "溶融・特典",
+            "KR": "용작의 선물",
+            "MX": "Tributo de Fuego de fundición",
+            "RU": "Подношение «Плавильная печь»",
+            "TC": "熔灼贈禮",
+            "TH": "เครื่องบรรณาการ​เพลิง​หลอมละลาย",
+            "VN": "Quà Tặng Luyện Hỏa"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Fogo Fundente Alcançado",
+            "CN": "熔灼赠礼达成",
+            "DE": "Hüttenfeuer-Tribut erreicht",
+            "EN": "Smelting Fire Tribute Achieved",
+            "FR": "Don de feu des forges obtenu",
+            "ID": "Persembahan Api Pelebur Berhasil",
+            "IT": "Tributo Fiamma della fonderia ottenuto",
+            "JP": "溶融・特典達成",
+            "KR": "용작의 선물 달성",
+            "MX": "Tributo de Fuego de fundición obtenido",
+            "RU": "Получено подношение «Плавильная печь»",
+            "TC": "熔灼贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​เพลิง​หลอมละลาย​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Luyện Hỏa"
+          },
+          "name": {
+            "BR": "Distribuição Fogo Fundente",
+            "CN": "熔灼申领",
+            "DE": "Hüttenfeuer-Ausgabe",
+            "EN": "Smelting Fire Issue",
+            "FR": "Tirage du feu des forges",
+            "ID": "Edisi Api Pelebur",
+            "IT": "Distribuzione Fiamma della fonderia",
+            "JP": "溶融・申請",
+            "KR": "용작 신청",
+            "MX": "Solicitud del Fuego de fundición",
+            "RU": "Поставка «Плавильная печь»",
+            "TC": "熔灼申領",
+            "TH": "ตั๋ว​เพลิง​หลอมละลาย",
+            "VN": "Gói Rút Luyện Hỏa"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_1",
+          "smallPoolIconFar": "",
+          "sortId": 7,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_sword_0006"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weaponbox_constant_3": {
+        "oldValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "id": "weaponbox_constant_3",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_3",
+            "reward_payshop_wpn_sword_0016"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Expedição Distante",
+            "CN": "远途赠礼",
+            "DE": "„Erkundung der Weite“-Tribut",
+            "EN": "Far Expedition Tribute",
+            "FR": "Don d'expédition lointaine",
+            "ID": "Persembahan Ekspedisi Jauh",
+            "IT": "Tributo Spedizione lontana",
+            "JP": "遠路・特典",
+            "KR": "원정의 선물",
+            "MX": "Tributo de la Expedición lejana",
+            "RU": "Подношение «Дальняя экспедиция»",
+            "TC": "遠途贈禮",
+            "TH": "เครื่องบรรณาการ​การสำรวจ​ระยะไกล",
+            "VN": "Quà Tặng Viễn Chinh"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Expedição Distante Conquistado",
+            "CN": "远途赠礼达成",
+            "DE": "„Erkundung der Weite“-Tribut verdient",
+            "EN": "Far Expedition Tribute Earned",
+            "FR": "Don d'expédition lointaine obtenu",
+            "ID": "Persembahan Ekspedisi Jauh Didapatkan",
+            "IT": "Tributo Spedizione lontana ottenuto",
+            "JP": "遠路・特典達成",
+            "KR": "원정의 선물 달성",
+            "MX": "Tributo de la Expedición lejana obtenido",
+            "RU": "Получено подношение «Дальняя экспедиция»",
+            "TC": "遠途贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​การสำรวจ​ระยะไกล",
+            "VN": "Quà Tặng Viễn Chinh Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Expedição Distante",
+            "CN": "远途申领",
+            "DE": "„Erkundung der Weite“-Ausgabe",
+            "EN": "Far Expedition Issue",
+            "FR": "Tirage d'expédition lointaine",
+            "ID": "Edisi Ekspedisi Jauh",
+            "IT": "Distribuzione Spedizione lontana",
+            "JP": "遠路・申請",
+            "KR": "원정 신청",
+            "MX": "Solicitud de la Expedición lejana",
+            "RU": "Поставка «Дальняя экспедиция»",
+            "TC": "遠途申領",
+            "TH": "ตั๋ว​การสำรวจ​ระยะไกล",
+            "VN": "Gói Rút Viễn Chinh"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_sword_0016",
+          "upWeaponIds": [
+            "wpn_sword_0016"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "gachaPoolVersion": 0,
+          "id": "weaponbox_constant_3",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_3",
+            "reward_payshop_wpn_sword_0016"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Expedição Distante",
+            "CN": "远途赠礼",
+            "DE": "„Erkundung der Weite“-Tribut",
+            "EN": "Far Expedition Tribute",
+            "FR": "Don d'expédition lointaine",
+            "ID": "Persembahan Ekspedisi Jauh",
+            "IT": "Tributo Spedizione lontana",
+            "JP": "遠路・特典",
+            "KR": "원정의 선물",
+            "MX": "Tributo de la Expedición lejana",
+            "RU": "Подношение «Дальняя экспедиция»",
+            "TC": "遠途贈禮",
+            "TH": "เครื่องบรรณาการ​การสำรวจ​ระยะไกล",
+            "VN": "Quà Tặng Viễn Chinh"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Expedição Distante Conquistado",
+            "CN": "远途赠礼达成",
+            "DE": "„Erkundung der Weite“-Tribut verdient",
+            "EN": "Far Expedition Tribute Earned",
+            "FR": "Don d'expédition lointaine obtenu",
+            "ID": "Persembahan Ekspedisi Jauh Didapatkan",
+            "IT": "Tributo Spedizione lontana ottenuto",
+            "JP": "遠路・特典達成",
+            "KR": "원정의 선물 달성",
+            "MX": "Tributo de la Expedición lejana obtenido",
+            "RU": "Получено подношение «Дальняя экспедиция»",
+            "TC": "遠途贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​การสำรวจ​ระยะไกล",
+            "VN": "Quà Tặng Viễn Chinh Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Expedição Distante",
+            "CN": "远途申领",
+            "DE": "„Erkundung der Weite“-Ausgabe",
+            "EN": "Far Expedition Issue",
+            "FR": "Tirage d'expédition lointaine",
+            "ID": "Edisi Ekspedisi Jauh",
+            "IT": "Distribuzione Spedizione lontana",
+            "JP": "遠路・申請",
+            "KR": "원정 신청",
+            "MX": "Solicitud de la Expedición lejana",
+            "RU": "Поставка «Дальняя экспедиция»",
+            "TC": "遠途申領",
+            "TH": "ตั๋ว​การสำรวจ​ระยะไกล",
+            "VN": "Gói Rút Viễn Chinh"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_sword_0016",
+          "upWeaponIds": [
+            "wpn_sword_0016"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weaponbox_constant_4": {
+        "oldValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "id": "weaponbox_constant_4",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_4",
+            "reward_payshop_wpn_lance_0012"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Monte Ascendente",
+            "CN": "崇山赠礼",
+            "DE": "„Aufragender Berg“-Tribut",
+            "EN": "Rising Mount Tribute",
+            "FR": "Don des cimes",
+            "ID": "Persembahan Gunung Menjulang",
+            "IT": "Tributo Monte crescente",
+            "JP": "山岳・特典",
+            "KR": "숭산의 선물",
+            "MX": "Tributo del Monte ascendente",
+            "RU": "Подношение «Высокий пик»",
+            "TC": "崇山贈禮",
+            "TH": "เครื่องบรรณาการ​ภูเขา​ยก​สูง",
+            "VN": "Quà Tặng Núi Cao"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Monte Ascendente Conquistado",
+            "CN": "崇山赠礼达成",
+            "DE": "„Aufragender Berg“-Tribut verdient",
+            "EN": "Rising Mount Tribute Earned",
+            "FR": "Don des cimes obtenu",
+            "ID": "Persembahan Gunung Menjulang Didapatkan",
+            "IT": "Tributo Monte crescente ottenuto",
+            "JP": "山岳・特典達成",
+            "KR": "숭산의 선물 달성",
+            "MX": "Tributo del Monte ascendente obtenido",
+            "RU": "Получено подношение «Высокий пик»",
+            "TC": "崇山贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​ภูเขา​ยก​สูง",
+            "VN": "Quà Tặng Núi Cao Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Monte Ascendente",
+            "CN": "崇山申领",
+            "DE": "„Aufragender Berg“-Ausgabe",
+            "EN": "Rising Mount Issue",
+            "FR": "Tirage des cimes",
+            "ID": "Edisi Gunung Menjulang",
+            "IT": "Distribuzione Monte crescente",
+            "JP": "山岳・申請",
+            "KR": "숭산 신청",
+            "MX": "Solicitud del Monte ascendente",
+            "RU": "Поставка «Высокий пик»",
+            "TC": "崇山申領",
+            "TH": "ตั๋ว​ภูเขา​ยก​สูง",
+            "VN": "Gói Rút Núi Cao"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_lance_0012",
+          "upWeaponIds": [
+            "wpn_lance_0012"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "gachaPoolVersion": 0,
+          "id": "weaponbox_constant_4",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_4",
+            "reward_payshop_wpn_lance_0012"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Monte Ascendente",
+            "CN": "崇山赠礼",
+            "DE": "„Aufragender Berg“-Tribut",
+            "EN": "Rising Mount Tribute",
+            "FR": "Don des cimes",
+            "ID": "Persembahan Gunung Menjulang",
+            "IT": "Tributo Monte crescente",
+            "JP": "山岳・特典",
+            "KR": "숭산의 선물",
+            "MX": "Tributo del Monte ascendente",
+            "RU": "Подношение «Высокий пик»",
+            "TC": "崇山贈禮",
+            "TH": "เครื่องบรรณาการ​ภูเขา​ยก​สูง",
+            "VN": "Quà Tặng Núi Cao"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Monte Ascendente Conquistado",
+            "CN": "崇山赠礼达成",
+            "DE": "„Aufragender Berg“-Tribut verdient",
+            "EN": "Rising Mount Tribute Earned",
+            "FR": "Don des cimes obtenu",
+            "ID": "Persembahan Gunung Menjulang Didapatkan",
+            "IT": "Tributo Monte crescente ottenuto",
+            "JP": "山岳・特典達成",
+            "KR": "숭산의 선물 달성",
+            "MX": "Tributo del Monte ascendente obtenido",
+            "RU": "Получено подношение «Высокий пик»",
+            "TC": "崇山贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​ภูเขา​ยก​สูง",
+            "VN": "Quà Tặng Núi Cao Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Monte Ascendente",
+            "CN": "崇山申领",
+            "DE": "„Aufragender Berg“-Ausgabe",
+            "EN": "Rising Mount Issue",
+            "FR": "Tirage des cimes",
+            "ID": "Edisi Gunung Menjulang",
+            "IT": "Distribuzione Monte crescente",
+            "JP": "山岳・申請",
+            "KR": "숭산 신청",
+            "MX": "Solicitud del Monte ascendente",
+            "RU": "Поставка «Высокий пик»",
+            "TC": "崇山申領",
+            "TH": "ตั๋ว​ภูเขา​ยก​สูง",
+            "VN": "Gói Rút Núi Cao"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_lance_0012",
+          "upWeaponIds": [
+            "wpn_lance_0012"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_0_1": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_0_1",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "finalIndex": 3,
+          "id": "weponbox_1_0_1",
+          "index": 1,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_0_1",
+            "reward_payshop_wpn_sword_0006"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Forja de Fundição",
+            "CN": "熔铸赠礼",
+            "DE": "Schmelzschmiede-Tribut",
+            "EN": "Smelting Forge Tribute",
+            "FR": "Don de fonderie",
+            "ID": "Persembahan Tempaan Lebur",
+            "IT": "Tributo Forgia della fonderia",
+            "JP": "溶鋳・特典",
+            "KR": "용조의 선물",
+            "MX": "Tributo de la Forja de fundición",
+            "RU": "Подношение «Плавильная закалка»",
+            "TC": "熔鑄贈禮",
+            "TH": "เครื่องบรรณาการ​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Quà Tặng Rèn Đúc"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Forja de Fundição Conquistado",
+            "CN": "熔铸赠礼达成",
+            "DE": "Schmelzschmiede-Tribut verdient",
+            "EN": "Smelting Forge Tribute Earned",
+            "FR": "Don de fonderie obtenu",
+            "ID": "Persembahan Tempaan Lebur Didapatkan",
+            "IT": "Tributo Forgia della fonderia ottenuto",
+            "JP": "溶鋳・特典達成",
+            "KR": "용조의 선물 달성",
+            "MX": "Tributo de la Forja de fundición obtenido",
+            "RU": "Получено подношение «Плавильная закалка»",
+            "TC": "熔鑄贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Quà Tặng Rèn Đúc Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Forja de Fundição",
+            "CN": "熔铸申领",
+            "DE": "Schmelzschmiede-Ausgabe",
+            "EN": "Smelting Forge Issue",
+            "FR": "Tirage de fonderie",
+            "ID": "Edisi Tempaan Lebur",
+            "IT": "Distribuzione Forgia della fonderia",
+            "JP": "溶鋳・申請",
+            "KR": "용조 신청",
+            "MX": "Solicitud de la Forja de fundición",
+            "RU": "Поставка «Плавильная закалка»",
+            "TC": "熔鑄申領",
+            "TH": "ตั๋ว​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Gói Rút Rèn Đúc"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_1",
+          "smallPoolIconFar": "",
+          "sortId": 1,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_sword_0006"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_0_1",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "finalIndex": 3,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_0_1",
+          "index": 1,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_0_1",
+            "reward_payshop_wpn_sword_0006"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Forja de Fundição",
+            "CN": "熔铸赠礼",
+            "DE": "Schmelzschmiede-Tribut",
+            "EN": "Smelting Forge Tribute",
+            "FR": "Don de fonderie",
+            "ID": "Persembahan Tempaan Lebur",
+            "IT": "Tributo Forgia della fonderia",
+            "JP": "溶鋳・特典",
+            "KR": "용조의 선물",
+            "MX": "Tributo de la Forja de fundición",
+            "RU": "Подношение «Плавильная закалка»",
+            "TC": "熔鑄贈禮",
+            "TH": "เครื่องบรรณาการ​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Quà Tặng Rèn Đúc"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Forja de Fundição Conquistado",
+            "CN": "熔铸赠礼达成",
+            "DE": "Schmelzschmiede-Tribut verdient",
+            "EN": "Smelting Forge Tribute Earned",
+            "FR": "Don de fonderie obtenu",
+            "ID": "Persembahan Tempaan Lebur Didapatkan",
+            "IT": "Tributo Forgia della fonderia ottenuto",
+            "JP": "溶鋳・特典達成",
+            "KR": "용조의 선물 달성",
+            "MX": "Tributo de la Forja de fundición obtenido",
+            "RU": "Получено подношение «Плавильная закалка»",
+            "TC": "熔鑄贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Quà Tặng Rèn Đúc Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Forja de Fundição",
+            "CN": "熔铸申领",
+            "DE": "Schmelzschmiede-Ausgabe",
+            "EN": "Smelting Forge Issue",
+            "FR": "Tirage de fonderie",
+            "ID": "Edisi Tempaan Lebur",
+            "IT": "Distribuzione Forgia della fonderia",
+            "JP": "溶鋳・申請",
+            "KR": "용조 신청",
+            "MX": "Solicitud de la Forja de fundición",
+            "RU": "Поставка «Плавильная закалка»",
+            "TC": "熔鑄申領",
+            "TH": "ตั๋ว​เตา​หลอม​ดุจ​เหล็กกล้า",
+            "VN": "Gói Rút Rèn Đúc"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedBase",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_1",
+          "smallPoolIconFar": "",
+          "sortId": 1,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_sword_0006"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weaponbox_constant_5": {
+        "oldValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "id": "weaponbox_constant_5",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_5",
+            "reward_payshop_wpn_claym_0007"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Toque Trovejante",
+            "CN": "雷鸣赠礼",
+            "DE": "Donnergrollen-Tribut",
+            "EN": "Thunderous Peal Tribute",
+            "FR": "Don de fracas du tonnerre",
+            "ID": "Persembahan Gemuruh Guntur",
+            "IT": "Tributo Fragore del tuono",
+            "JP": "雷光・特典",
+            "KR": "뇌명의 선물",
+            "MX": "Tributo del Estruendo estrepitoso",
+            "RU": "Подношение «Громовой раскат»",
+            "TC": "雷鳴贈禮",
+            "TH": "เครื่องบรรณาการ​เสียงดัง​สนั่น​ก้อง",
+            "VN": "Quà Tặng Sấm Rền"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Toque Trovejante Conquistado",
+            "CN": "雷鸣赠礼达成",
+            "DE": "Donnergrollen-Tribut verdient",
+            "EN": "Thunderous Peal Tribute Earned",
+            "FR": "Don de fracas du tonnerre obtenu",
+            "ID": "Persembahan Gemuruh Guntur Didapatkan",
+            "IT": "Tributo Fragore del tuono ottenuto",
+            "JP": "雷光・特典達成",
+            "KR": "뇌명의 선물 달성",
+            "MX": "Tributo del Estruendo estrepitoso obtenido",
+            "RU": "Получено подношение «Громовой раскат»",
+            "TC": "雷鳴贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เสียงดัง​สนั่น​ก้อง",
+            "VN": "Quà Tặng Sấm Rền Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Toque Trovejante",
+            "CN": "雷鸣申领",
+            "DE": "Donnergrollen-Ausgabe",
+            "EN": "Thunderous Peal Issue",
+            "FR": "Tirage de fracas du tonnerre",
+            "ID": "Edisi Gemuruh Guntur",
+            "IT": "Distribuzione Fragore del tuono",
+            "JP": "雷光・申請",
+            "KR": "뇌명 신청",
+            "MX": "Solicitud del Estruendo estrepitoso",
+            "RU": "Поставка «Громовой раскат»",
+            "TC": "雷鳴申領",
+            "TH": "ตั๋ว​เสียงดัง​สนั่น​ก้อง",
+            "VN": "Gói Rút Sấm Rền"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_claym_0007",
+          "upWeaponIds": [
+            "wpn_claym_0007"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 0,
+          "gachaPoolVersion": 0,
+          "id": "weaponbox_constant_5",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_c_5",
+            "reward_payshop_wpn_claym_0007"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Toque Trovejante",
+            "CN": "雷鸣赠礼",
+            "DE": "Donnergrollen-Tribut",
+            "EN": "Thunderous Peal Tribute",
+            "FR": "Don de fracas du tonnerre",
+            "ID": "Persembahan Gemuruh Guntur",
+            "IT": "Tributo Fragore del tuono",
+            "JP": "雷光・特典",
+            "KR": "뇌명의 선물",
+            "MX": "Tributo del Estruendo estrepitoso",
+            "RU": "Подношение «Громовой раскат»",
+            "TC": "雷鳴贈禮",
+            "TH": "เครื่องบรรณาการ​เสียงดัง​สนั่น​ก้อง",
+            "VN": "Quà Tặng Sấm Rền"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Toque Trovejante Conquistado",
+            "CN": "雷鸣赠礼达成",
+            "DE": "Donnergrollen-Tribut verdient",
+            "EN": "Thunderous Peal Tribute Earned",
+            "FR": "Don de fracas du tonnerre obtenu",
+            "ID": "Persembahan Gemuruh Guntur Didapatkan",
+            "IT": "Tributo Fragore del tuono ottenuto",
+            "JP": "雷光・特典達成",
+            "KR": "뇌명의 선물 달성",
+            "MX": "Tributo del Estruendo estrepitoso obtenido",
+            "RU": "Получено подношение «Громовой раскат»",
+            "TC": "雷鳴贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เสียงดัง​สนั่น​ก้อง",
+            "VN": "Quà Tặng Sấm Rền Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Toque Trovejante",
+            "CN": "雷鸣申领",
+            "DE": "Donnergrollen-Ausgabe",
+            "EN": "Thunderous Peal Issue",
+            "FR": "Tirage de fracas du tonnerre",
+            "ID": "Edisi Gemuruh Guntur",
+            "IT": "Distribuzione Fragore del tuono",
+            "JP": "雷光・申請",
+            "KR": "뇌명 신청",
+            "MX": "Solicitud del Estruendo estrepitoso",
+            "RU": "Поставка «Громовой раскат»",
+            "TC": "雷鳴申領",
+            "TH": "ตั๋ว​เสียงดัง​สนั่น​ก้อง",
+            "VN": "Gói Rút Sấm Rền"
+          },
+          "poolNodeUIPrefab": "",
+          "smallPoolIcon": "",
+          "smallPoolIconFar": "",
+          "sortId": 0,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "wpn_claym_0007",
+          "upWeaponIds": [
+            "wpn_claym_0007"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_2_3": {
+        "oldValue": {
+          "clientTopTimeId": "time_weaponbox_1_2_2",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_re_1_2_3",
+          "finalIndex": 0,
+          "id": "weponbox_1_2_3",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_2_3",
+            "reward_payshop_wpn_funnel_0011"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Caminhante Veloz",
+            "CN": "疾行赠礼",
+            "DE": "Schnellschreiter-Tribut",
+            "EN": "Swift Walker Tribute",
+            "FR": "Don de marcheur alerte",
+            "ID": "Persembahan Pengembara Gesit",
+            "IT": "Tributo Viandante celere",
+            "JP": "早駆・特典",
+            "KR": "질풍의 선물",
+            "MX": "Tributo de Caminante veloz",
+            "RU": "Подношение «Резвый путник»",
+            "TC": "疾行贈禮",
+            "TH": "เครื่องบรรณาการ​นัก​เดินเท้า​ไว",
+            "VN": "Quà Tặng Hành Tốc"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Caminhante Veloz Alcançado",
+            "CN": "疾行赠礼达成",
+            "DE": "Schnellschreiter-Tribut erreicht",
+            "EN": "Swift Walker Tribute Achieved",
+            "FR": "Don de marcheur alerte obtenu",
+            "ID": "Persembahan Pengembara Gesit Berhasil",
+            "IT": "Tributo Viandante celere ottenuto",
+            "JP": "早駆・特典達成",
+            "KR": "질풍의 선물 달성",
+            "MX": "Tributo de Caminante veloz obtenido",
+            "RU": "Получено подношение «Резвый путник»",
+            "TC": "疾行贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​นัก​เดินเท้า​ไว​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Hành Tốc"
+          },
+          "name": {
+            "BR": "Distribuição Caminhante Veloz",
+            "CN": "疾行申领",
+            "DE": "Schnellschreiter-Ausgabe",
+            "EN": "Swift Walker Issue",
+            "FR": "Tirage du marcheur alerte",
+            "ID": "Edisi Pengembara Gesit",
+            "IT": "Distribuzione Viandante celere",
+            "JP": "早駆・申請",
+            "KR": "질풍 신청",
+            "MX": "Solicitud del Caminante veloz",
+            "RU": "Поставка «Резвый путник»",
+            "TC": "疾行申領",
+            "TH": "ตั๋ว​นัก​เดินเท้า​ไว",
+            "VN": "Gói Rút Hành Tốc"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_3",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_0_3_far",
+          "sortId": 8,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0011"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_weaponbox_1_2_2",
+          "doublePoolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_re_1_2_3",
+          "finalIndex": 0,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_2_3",
+          "index": 0,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_2_3",
+            "reward_payshop_wpn_funnel_0011"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Caminhante Veloz",
+            "CN": "疾行赠礼",
+            "DE": "Schnellschreiter-Tribut",
+            "EN": "Swift Walker Tribute",
+            "FR": "Don de marcheur alerte",
+            "ID": "Persembahan Pengembara Gesit",
+            "IT": "Tributo Viandante celere",
+            "JP": "早駆・特典",
+            "KR": "질풍의 선물",
+            "MX": "Tributo de Caminante veloz",
+            "RU": "Подношение «Резвый путник»",
+            "TC": "疾行贈禮",
+            "TH": "เครื่องบรรณาการ​นัก​เดินเท้า​ไว",
+            "VN": "Quà Tặng Hành Tốc"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Caminhante Veloz Alcançado",
+            "CN": "疾行赠礼达成",
+            "DE": "Schnellschreiter-Tribut erreicht",
+            "EN": "Swift Walker Tribute Achieved",
+            "FR": "Don de marcheur alerte obtenu",
+            "ID": "Persembahan Pengembara Gesit Berhasil",
+            "IT": "Tributo Viandante celere ottenuto",
+            "JP": "早駆・特典達成",
+            "KR": "질풍의 선물 달성",
+            "MX": "Tributo de Caminante veloz obtenido",
+            "RU": "Получено подношение «Резвый путник»",
+            "TC": "疾行贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​นัก​เดินเท้า​ไว​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Hành Tốc"
+          },
+          "name": {
+            "BR": "Distribuição Caminhante Veloz",
+            "CN": "疾行申领",
+            "DE": "Schnellschreiter-Ausgabe",
+            "EN": "Swift Walker Issue",
+            "FR": "Tirage du marcheur alerte",
+            "ID": "Edisi Pengembara Gesit",
+            "IT": "Distribuzione Viandante celere",
+            "JP": "早駆・申請",
+            "KR": "질풍 신청",
+            "MX": "Solicitud del Caminante veloz",
+            "RU": "Поставка «Резвый путник»",
+            "TC": "疾行申領",
+            "TH": "ตั๋ว​นัก​เดินเท้า​ไว",
+            "VN": "Gói Rút Hành Tốc"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_0_3",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_0_3_far",
+          "sortId": 8,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0011"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_1_1": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_1_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 6,
+          "id": "weponbox_1_1_1",
+          "index": 4,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_1_1",
+            "reward_payshop_wpn_pistol_0011"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Renascer",
+            "CN": "新芽赠礼",
+            "DE": "„Erneutes Aufblühen“-Tribut",
+            "EN": "Budding Anew Tribute",
+            "FR": "Don de Bourgeonnement nouveau",
+            "ID": "Persembahan Tunas Baru",
+            "IT": "Tributo Nuovo germoglio",
+            "JP": "新芽・特典",
+            "KR": "신아의 선물",
+            "MX": "Tributo de Brotar de nuevo",
+            "RU": "Подношение «Молодой побег»",
+            "TC": "新芽贈禮",
+            "TH": "เครื่องบรรณาการ​ผลิบาน​ใหม่",
+            "VN": "Quà Tặng Chồi Non Tái Sinh"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Renascer Conquistado",
+            "CN": "新芽赠礼达成",
+            "DE": "„Erneutes Aufblühen“-Tribut verdient",
+            "EN": "Budding Anew Tribute Earned",
+            "FR": "Don de Bourgeonnement nouveau obtenu",
+            "ID": "Persembahan Tunas Baru Didapatkan",
+            "IT": "Tributo Nuovo germoglio ottenuto",
+            "JP": "新芽・特典達成",
+            "KR": "신아의 선물 달성",
+            "MX": "Tributo de Brotar de nuevo obtenido",
+            "RU": "Получено подношение «Молодой побег»",
+            "TC": "新芽贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​ผลิบาน​ใหม่",
+            "VN": "Đã Nhận Quà Tặng Chồi Non Tái Sinh"
+          },
+          "name": {
+            "BR": "Distribuição Renascer",
+            "CN": "新芽申领",
+            "DE": "„Erneutes Aufblühen“-Ausgabe",
+            "EN": "Budding Anew Issue",
+            "FR": "Tirage de Bourgeonnement nouveau",
+            "ID": "Edisi Tunas Baru",
+            "IT": "Distribuzione Nuovo germoglio",
+            "JP": "新芽・申請",
+            "KR": "신아 신청",
+            "MX": "Solicitud de Brotar de nuevo",
+            "RU": "Поставка «Молодой побег»",
+            "TC": "新芽申領",
+            "TH": "ตั๋ว​ผลิบาน​ใหม่",
+            "VN": "Gói Rút Chồi Non Tái Sinh"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_1_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_1_1",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_1_1_far",
+          "sortId": 4,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_pistol_0011"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_1_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 6,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_1_1",
+          "index": 4,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_1_1",
+            "reward_payshop_wpn_pistol_0011"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Renascer",
+            "CN": "新芽赠礼",
+            "DE": "„Erneutes Aufblühen“-Tribut",
+            "EN": "Budding Anew Tribute",
+            "FR": "Don de Bourgeonnement nouveau",
+            "ID": "Persembahan Tunas Baru",
+            "IT": "Tributo Nuovo germoglio",
+            "JP": "新芽・特典",
+            "KR": "신아의 선물",
+            "MX": "Tributo de Brotar de nuevo",
+            "RU": "Подношение «Молодой побег»",
+            "TC": "新芽贈禮",
+            "TH": "เครื่องบรรณาการ​ผลิบาน​ใหม่",
+            "VN": "Quà Tặng Chồi Non Tái Sinh"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Renascer Conquistado",
+            "CN": "新芽赠礼达成",
+            "DE": "„Erneutes Aufblühen“-Tribut verdient",
+            "EN": "Budding Anew Tribute Earned",
+            "FR": "Don de Bourgeonnement nouveau obtenu",
+            "ID": "Persembahan Tunas Baru Didapatkan",
+            "IT": "Tributo Nuovo germoglio ottenuto",
+            "JP": "新芽・特典達成",
+            "KR": "신아의 선물 달성",
+            "MX": "Tributo de Brotar de nuevo obtenido",
+            "RU": "Получено подношение «Молодой побег»",
+            "TC": "新芽贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​ผลิบาน​ใหม่",
+            "VN": "Đã Nhận Quà Tặng Chồi Non Tái Sinh"
+          },
+          "name": {
+            "BR": "Distribuição Renascer",
+            "CN": "新芽申领",
+            "DE": "„Erneutes Aufblühen“-Ausgabe",
+            "EN": "Budding Anew Issue",
+            "FR": "Tirage de Bourgeonnement nouveau",
+            "ID": "Edisi Tunas Baru",
+            "IT": "Distribuzione Nuovo germoglio",
+            "JP": "新芽・申請",
+            "KR": "신아 신청",
+            "MX": "Solicitud de Brotar de nuevo",
+            "RU": "Поставка «Молодой побег»",
+            "TC": "新芽申領",
+            "TH": "ตั๋ว​ผลิบาน​ใหม่",
+            "VN": "Gói Rút Chồi Non Tái Sinh"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_1_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_1_1",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_1_1_far",
+          "sortId": 4,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_pistol_0011"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_1_2": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_1_2",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 7,
+          "id": "weponbox_1_1_2",
+          "index": 5,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_1_2",
+            "reward_payshop_wpn_sword_0022"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Pérola Escarlate",
+            "CN": "绯珀赠礼",
+            "DE": "Scharlachperle-Tribut",
+            "EN": "Scarlet Pearl Tribute",
+            "FR": "Don de Perle écarlate",
+            "ID": "Persembahan Mutiara Merah",
+            "IT": "Tributo Perla scarlatta",
+            "JP": "緋珀・特典",
+            "KR": "적옥의 선물",
+            "MX": "Tributo de Perla escarlata",
+            "RU": "Подношение «Алая жемчужина»",
+            "TC": "緋珀贈禮",
+            "TH": "เครื่องบรรณาการ​มุก​สกา​เล็ต",
+            "VN": "Quà Tặng Ngọc Trai Đỏ"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Pérola Escarlate Conquistado",
+            "CN": "绯珀赠礼达成",
+            "DE": "Scharlachperle-Tribut verdient",
+            "EN": "Scarlet Pearl Tribute Earned",
+            "FR": "Don de Perle écarlate obtenu",
+            "ID": "Persembahan Mutiara Merah Didapatkan",
+            "IT": "Tributo Perla scarlatta ottenuto",
+            "JP": "緋珀・特典達成",
+            "KR": "적옥의 선물 달성",
+            "MX": "Tributo de Perla escarlata obtenido",
+            "RU": "Получено подношение «Алая жемчужина»",
+            "TC": "緋珀贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​มุก​สกา​เล็ต",
+            "VN": "Đã Nhận Quà Tặng Ngọc Trai Đỏ"
+          },
+          "name": {
+            "BR": "Distribuição Pérola Escarlate",
+            "CN": "绯珀申领",
+            "DE": "Scharlachperle-Ausgabe",
+            "EN": "Scarlet Pearl Issue",
+            "FR": "Tirage de Perle écarlate",
+            "ID": "Edisi Mutiara Merah",
+            "IT": "Distribuzione Perla scarlatta",
+            "JP": "緋珀・申請",
+            "KR": "적옥 신청",
+            "MX": "Solicitud de Perla escarlata",
+            "RU": "Поставка «Алая жемчужина»",
+            "TC": "緋珀申領",
+            "TH": "ตั๋ว​มุก​สกา​เล็ต",
+            "VN": "Gói Rút Ngọc Trai Đỏ"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_1_2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_1_2",
+          "smallPoolIconFar": "",
+          "sortId": 5,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_sword_0022"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_1_2",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 7,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_1_2",
+          "index": 5,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_1_2",
+            "reward_payshop_wpn_sword_0022"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Pérola Escarlate",
+            "CN": "绯珀赠礼",
+            "DE": "Scharlachperle-Tribut",
+            "EN": "Scarlet Pearl Tribute",
+            "FR": "Don de Perle écarlate",
+            "ID": "Persembahan Mutiara Merah",
+            "IT": "Tributo Perla scarlatta",
+            "JP": "緋珀・特典",
+            "KR": "적옥의 선물",
+            "MX": "Tributo de Perla escarlata",
+            "RU": "Подношение «Алая жемчужина»",
+            "TC": "緋珀贈禮",
+            "TH": "เครื่องบรรณาการ​มุก​สกา​เล็ต",
+            "VN": "Quà Tặng Ngọc Trai Đỏ"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Pérola Escarlate Conquistado",
+            "CN": "绯珀赠礼达成",
+            "DE": "Scharlachperle-Tribut verdient",
+            "EN": "Scarlet Pearl Tribute Earned",
+            "FR": "Don de Perle écarlate obtenu",
+            "ID": "Persembahan Mutiara Merah Didapatkan",
+            "IT": "Tributo Perla scarlatta ottenuto",
+            "JP": "緋珀・特典達成",
+            "KR": "적옥의 선물 달성",
+            "MX": "Tributo de Perla escarlata obtenido",
+            "RU": "Получено подношение «Алая жемчужина»",
+            "TC": "緋珀贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​มุก​สกา​เล็ต",
+            "VN": "Đã Nhận Quà Tặng Ngọc Trai Đỏ"
+          },
+          "name": {
+            "BR": "Distribuição Pérola Escarlate",
+            "CN": "绯珀申领",
+            "DE": "Scharlachperle-Ausgabe",
+            "EN": "Scarlet Pearl Issue",
+            "FR": "Tirage de Perle écarlate",
+            "ID": "Edisi Mutiara Merah",
+            "IT": "Distribuzione Perla scarlatta",
+            "JP": "緋珀・申請",
+            "KR": "적옥 신청",
+            "MX": "Solicitud de Perla escarlata",
+            "RU": "Поставка «Алая жемчужина»",
+            "TC": "緋珀申領",
+            "TH": "ตั๋ว​มุก​สกา​เล็ต",
+            "VN": "Gói Rút Ngọc Trai Đỏ"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_1_2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_1_2",
+          "smallPoolIconFar": "",
+          "sortId": 5,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_sword_0022"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_2_1": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_2_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 8,
+          "id": "weponbox_1_2_1",
+          "index": 6,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_2_1",
+            "reward_payshop_wpn_funnel_0015"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Jangada à Deriva",
+            "CN": "行舟赠礼",
+            "DE": "„Treibendes Floß“-Tribut",
+            "EN": "Drifting Raft Tribute",
+            "FR": "Don de radeau à la dérive",
+            "ID": "Persembahan Rakit Mengapung",
+            "IT": "Tributo Zattera alla deriva",
+            "JP": "行舟・特典",
+            "KR": "항해 선물",
+            "MX": "Tributo de Balsa a la deriva",
+            "RU": "Подношение «Дрейфующий плот»",
+            "TC": "行舟贈禮",
+            "TH": "เครื่องบรรณาการ​แพลอย​น้ำ",
+            "VN": "Quà Tặng Chiếc Bè Trôi Dạt"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Jangada à Deriva Alcançado",
+            "CN": "行舟赠礼达成",
+            "DE": "„Treibendes Floß“-Tribut erreicht",
+            "EN": "Drifting Raft Tribute Achieved",
+            "FR": "Don de radeau à la dérive obtenu",
+            "ID": "Persembahan Rakit Mengapung Berhasil",
+            "IT": "Tributo Zattera alla deriva ottenuto",
+            "JP": "行舟・特典達成",
+            "KR": "항해 선물 달성",
+            "MX": "Tributo de Balsa a la deriva completado",
+            "RU": "Получено подношение «Дрейфующий плот»",
+            "TC": "行舟贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​แพลอย​น้ำ​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Chiếc Bè Trôi Dạt"
+          },
+          "name": {
+            "BR": "Distribuição Jangada à Deriva",
+            "CN": "行舟申领",
+            "DE": "„Treibendes Floß“-Ausgabe",
+            "EN": "Drifting Raft Issue",
+            "FR": "Tirage du radeau à la dérive",
+            "ID": "Edisi Rakit Mengapung",
+            "IT": "Distribuzione Zattera alla deriva",
+            "JP": "行舟・申請",
+            "KR": "항해 신청",
+            "MX": "Solicitud de Balsa a la deriva",
+            "RU": "Поставка «Дрейфующий плот»",
+            "TC": "行舟申領",
+            "TH": "ตั๋ว​แพลอย​น้ำ",
+            "VN": "Gói Rút Chiếc Bè Trôi Dạt"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_2_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_2_1",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_2_1_far",
+          "sortId": 6,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0015"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_2_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 8,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_2_1",
+          "index": 6,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_2_1",
+            "reward_payshop_wpn_funnel_0015"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Jangada à Deriva",
+            "CN": "行舟赠礼",
+            "DE": "„Treibendes Floß“-Tribut",
+            "EN": "Drifting Raft Tribute",
+            "FR": "Don de radeau à la dérive",
+            "ID": "Persembahan Rakit Mengapung",
+            "IT": "Tributo Zattera alla deriva",
+            "JP": "行舟・特典",
+            "KR": "항해 선물",
+            "MX": "Tributo de Balsa a la deriva",
+            "RU": "Подношение «Дрейфующий плот»",
+            "TC": "行舟贈禮",
+            "TH": "เครื่องบรรณาการ​แพลอย​น้ำ",
+            "VN": "Quà Tặng Chiếc Bè Trôi Dạt"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Jangada à Deriva Alcançado",
+            "CN": "行舟赠礼达成",
+            "DE": "„Treibendes Floß“-Tribut erreicht",
+            "EN": "Drifting Raft Tribute Achieved",
+            "FR": "Don de radeau à la dérive obtenu",
+            "ID": "Persembahan Rakit Mengapung Berhasil",
+            "IT": "Tributo Zattera alla deriva ottenuto",
+            "JP": "行舟・特典達成",
+            "KR": "항해 선물 달성",
+            "MX": "Tributo de Balsa a la deriva completado",
+            "RU": "Получено подношение «Дрейфующий плот»",
+            "TC": "行舟贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​แพลอย​น้ำ​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Chiếc Bè Trôi Dạt"
+          },
+          "name": {
+            "BR": "Distribuição Jangada à Deriva",
+            "CN": "行舟申领",
+            "DE": "„Treibendes Floß“-Ausgabe",
+            "EN": "Drifting Raft Issue",
+            "FR": "Tirage du radeau à la dérive",
+            "ID": "Edisi Rakit Mengapung",
+            "IT": "Distribuzione Zattera alla deriva",
+            "JP": "行舟・申請",
+            "KR": "항해 신청",
+            "MX": "Solicitud de Balsa a la deriva",
+            "RU": "Поставка «Дрейфующий плот»",
+            "TC": "行舟申領",
+            "TH": "ตั๋ว​แพลอย​น้ำ",
+            "VN": "Gói Rút Chiếc Bè Trôi Dạt"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_2_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_2_1",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_2_1_far",
+          "sortId": 6,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0015"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_3_1": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_3_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 9,
+          "id": "weponbox_1_3_1",
+          "index": 7,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_3_1",
+            "reward_payshop_wpn_claym_0017"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Nó Escarlate",
+            "CN": "绛结赠礼",
+            "DE": "Scharlachknoten-Tribut",
+            "EN": "Scarlet Knot Tribute",
+            "FR": "Don de nœud écarlate",
+            "ID": "Persembahan Edisi Simpul",
+            "IT": "Tributo Nodo scarlatto",
+            "JP": "赫結・特典",
+            "KR": "붉은 결속 선물",
+            "MX": "Tributo de Nudo escarlata",
+            "RU": "Подношение «Алый узел»",
+            "TC": "絳結贈禮",
+            "TH": "เครื่องบรรณาการ​ปม​สกา​เล็ต",
+            "VN": "Quà Tặng Nút Thắt Đỏ"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Nó Escarlate Conquistado",
+            "CN": "绛结赠礼达成",
+            "DE": "Scharlachknoten-Tribut erreicht",
+            "EN": "Scarlet Knot Tribute Achieved",
+            "FR": "Don de nœud écarlate obtenu",
+            "ID": "Persembahan Edisi Simpul Berhasil",
+            "IT": "Tributo Nodo scarlatto ottenuto",
+            "JP": "赫結・特典達成",
+            "KR": "붉은 결속 선물 달성",
+            "MX": "Tributo de Nudo escarlata obtenido",
+            "RU": "Получено подношение «Алый узел»",
+            "TC": "絳結贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​ปม​สกา​เล็ต​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Nút Thắt Đỏ"
+          },
+          "name": {
+            "BR": "Distribuição Nó Escarlate",
+            "CN": "绛结申领",
+            "DE": "Scharlachknoten-Ausgabe",
+            "EN": "Scarlet Knot Issue",
+            "FR": "Tirage de nœud écarlate",
+            "ID": "Edisi Simpul Merah",
+            "IT": "Distribuzione Nodo scarlatto",
+            "JP": "赫結・申請",
+            "KR": "붉은 결속 신청",
+            "MX": "Solicitud de Nudo escarlata",
+            "RU": "Поставка «Алый узел»",
+            "TC": "絳結申領",
+            "TH": "ตั๋ว​ปม​สกา​เล็ต",
+            "VN": "Gói Rút Nút Thắt Đỏ"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_3_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_3_1",
+          "smallPoolIconFar": "",
+          "sortId": 9,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_claym_0017"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_3_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 9,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_3_1",
+          "index": 7,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_3_1",
+            "reward_payshop_wpn_claym_0017"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Nó Escarlate",
+            "CN": "绛结赠礼",
+            "DE": "Scharlachknoten-Tribut",
+            "EN": "Scarlet Knot Tribute",
+            "FR": "Don de nœud écarlate",
+            "ID": "Persembahan Edisi Simpul",
+            "IT": "Tributo Nodo scarlatto",
+            "JP": "赫結・特典",
+            "KR": "붉은 결속 선물",
+            "MX": "Tributo de Nudo escarlata",
+            "RU": "Подношение «Алый узел»",
+            "TC": "絳結贈禮",
+            "TH": "เครื่องบรรณาการ​ปม​สกา​เล็ต",
+            "VN": "Quà Tặng Nút Thắt Đỏ"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Nó Escarlate Conquistado",
+            "CN": "绛结赠礼达成",
+            "DE": "Scharlachknoten-Tribut erreicht",
+            "EN": "Scarlet Knot Tribute Achieved",
+            "FR": "Don de nœud écarlate obtenu",
+            "ID": "Persembahan Edisi Simpul Berhasil",
+            "IT": "Tributo Nodo scarlatto ottenuto",
+            "JP": "赫結・特典達成",
+            "KR": "붉은 결속 선물 달성",
+            "MX": "Tributo de Nudo escarlata obtenido",
+            "RU": "Получено подношение «Алый узел»",
+            "TC": "絳結贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​ปม​สกา​เล็ต​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Nút Thắt Đỏ"
+          },
+          "name": {
+            "BR": "Distribuição Nó Escarlate",
+            "CN": "绛结申领",
+            "DE": "Scharlachknoten-Ausgabe",
+            "EN": "Scarlet Knot Issue",
+            "FR": "Tirage de nœud écarlate",
+            "ID": "Edisi Simpul Merah",
+            "IT": "Distribuzione Nodo scarlatto",
+            "JP": "赫結・申請",
+            "KR": "붉은 결속 신청",
+            "MX": "Solicitud de Nudo escarlata",
+            "RU": "Поставка «Алый узел»",
+            "TC": "絳結申領",
+            "TH": "ตั๋ว​ปม​สกา​เล็ต",
+            "VN": "Gói Rút Nút Thắt Đỏ"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_3_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_3_1",
+          "smallPoolIconFar": "",
+          "sortId": 9,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_claym_0017"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_3_2": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_3_2",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 10,
+          "id": "weponbox_1_3_2",
+          "index": 8,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_3_2",
+            "reward_payshop_wpn_lance_0015"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Tom Carmesim",
+            "CN": "染赤赠礼",
+            "DE": "„Blutrot“-Tribut",
+            "EN": "Crimson Hued Tribute",
+            "FR": "Don de teinte écarlate",
+            "ID": "Persembahan Rona Merah Darah",
+            "IT": "Tributo Tinta cremisi",
+            "JP": "染紅・特典",
+            "KR": "적색화 선물",
+            "MX": "Tributo de tono carmesí",
+            "RU": "Подношение «В багровых тонах»",
+            "TC": "染赤贈禮",
+            "TH": "เครื่องบรรณาการ​สีแดง​ชาด",
+            "VN": "Quà Tặng Nhuộm Huyết Sắc"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Tom Carmesim Conquistado",
+            "CN": "染赤赠礼达成",
+            "DE": "„Blutrot“-Tribut erreicht",
+            "EN": "Crimson Hued Tribute Achieved",
+            "FR": "Don de teinte écarlate obtenu",
+            "ID": "Persembahan Rona Merah Darah Berhasil",
+            "IT": "Tributo Tinta cremisi ottenuto",
+            "JP": "染紅・特典達成",
+            "KR": "적색화 선물 달성",
+            "MX": "Tributo de tono carmesí obtenido",
+            "RU": "Получено подношение «В багровых тонах»",
+            "TC": "染赤贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​สีแดง​ชาด​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Nhuộm Huyết Sắc"
+          },
+          "name": {
+            "BR": "Distribuição Tom Carmesim",
+            "CN": "染赤申领",
+            "DE": "„Blutrot“-Ausgabe",
+            "EN": "Crimson Hued Issue",
+            "FR": "Tirage de teinte écarlate",
+            "ID": "Edisi Rona Merah Darah",
+            "IT": "Distribuzione Tinta cremisi",
+            "JP": "染紅・申請",
+            "KR": "적색화 신청",
+            "MX": "Solicitud de tono carmesí",
+            "RU": "Поставка «В багровых тонах»",
+            "TC": "染赤申領",
+            "TH": "ตั๋ว​สีแดง​ชาด",
+            "VN": "Gói Rút Nhuộm Huyết Sắc"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_3_2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_3_2",
+          "smallPoolIconFar": "",
+          "sortId": 10,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_lance_0015"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_3_2",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 10,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_3_2",
+          "index": 8,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_3_2",
+            "reward_payshop_wpn_lance_0015"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo de Tom Carmesim",
+            "CN": "染赤赠礼",
+            "DE": "„Blutrot“-Tribut",
+            "EN": "Crimson Hued Tribute",
+            "FR": "Don de teinte écarlate",
+            "ID": "Persembahan Rona Merah Darah",
+            "IT": "Tributo Tinta cremisi",
+            "JP": "染紅・特典",
+            "KR": "적색화 선물",
+            "MX": "Tributo de tono carmesí",
+            "RU": "Подношение «В багровых тонах»",
+            "TC": "染赤贈禮",
+            "TH": "เครื่องบรรณาการ​สีแดง​ชาด",
+            "VN": "Quà Tặng Nhuộm Huyết Sắc"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo de Tom Carmesim Conquistado",
+            "CN": "染赤赠礼达成",
+            "DE": "„Blutrot“-Tribut erreicht",
+            "EN": "Crimson Hued Tribute Achieved",
+            "FR": "Don de teinte écarlate obtenu",
+            "ID": "Persembahan Rona Merah Darah Berhasil",
+            "IT": "Tributo Tinta cremisi ottenuto",
+            "JP": "染紅・特典達成",
+            "KR": "적색화 선물 달성",
+            "MX": "Tributo de tono carmesí obtenido",
+            "RU": "Получено подношение «В багровых тонах»",
+            "TC": "染赤贈禮達成",
+            "TH": "ทำ​เครื่องบรรณาการ​สีแดง​ชาด​สำเร็จ",
+            "VN": "Đã Nhận Quà Tặng Nhuộm Huyết Sắc"
+          },
+          "name": {
+            "BR": "Distribuição Tom Carmesim",
+            "CN": "染赤申领",
+            "DE": "„Blutrot“-Ausgabe",
+            "EN": "Crimson Hued Issue",
+            "FR": "Tirage de teinte écarlate",
+            "ID": "Edisi Rona Merah Darah",
+            "IT": "Distribuzione Tinta cremisi",
+            "JP": "染紅・申請",
+            "KR": "적색화 신청",
+            "MX": "Solicitud de tono carmesí",
+            "RU": "Поставка «В багровых тонах»",
+            "TC": "染赤申領",
+            "TH": "ตั๋ว​สีแดง​ชาด",
+            "VN": "Gói Rút Nhuộm Huyết Sắc"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_3_2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_3_2",
+          "smallPoolIconFar": "",
+          "sortId": 10,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_lance_0015"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_4_1": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_4_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 11,
+          "id": "weponbox_1_4_1",
+          "index": 9,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_4_1",
+            "reward_payshop_wpn_funnel_0016"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo Grau Militar",
+            "CN": "军列赠礼",
+            "DE": "Militär-Standard-Tribut",
+            "EN": "Military Grade Tribute",
+            "FR": "Don militaire",
+            "ID": "Persembahan Standar Militer",
+            "IT": "Tributo grado militare",
+            "JP": "戦列・特典",
+            "KR": "제대 선물",
+            "MX": "Tributo de Grado militar",
+            "RU": "Подношение «Военный стандарт»",
+            "TC": "軍列贈禮",
+            "TH": "เครื่องบรรณาการ​ระดับ​ทหาร",
+            "VN": "Quà Tặng Cấp Quân Dụng"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo Grau Militar Conquistado",
+            "CN": "军列赠礼达成",
+            "DE": "Militär-Standard-Tribut verdient",
+            "EN": "Military Grade Tribute Earned",
+            "FR": "Don militaire obtenu",
+            "ID": "Persembahan Standar Militer Didapatkan",
+            "IT": "Tributo grado militare ottenuto",
+            "JP": "戦列・特典達成",
+            "KR": "제대 선물 달성",
+            "MX": "Tributo de Grado militar obtenido",
+            "RU": "Получено подношение «Военный стандарт»",
+            "TC": "軍列贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​ระดับ​ทหาร​แล้ว",
+            "VN": "Quà Tặng Cấp Quân Dụng Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Grau Militar",
+            "CN": "军列申领",
+            "DE": "Militär-Standard-Ausgabe",
+            "EN": "Military Grade Issue",
+            "FR": "Tirage de type militaire",
+            "ID": "Edisi Standar Militer",
+            "IT": "Distribuzione grado militare",
+            "JP": "戦列・申請",
+            "KR": "제대 신청",
+            "MX": "Solicitud de Grado militar",
+            "RU": "Поставка «Военный стандарт»",
+            "TC": "軍列申領",
+            "TH": "ตั๋ว​ระดับ​ทหาร",
+            "VN": "Gói Rút Cấp Quân Dụng"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_4_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_4_1",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_4_1_far",
+          "sortId": 11,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0016"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_4_1",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 11,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_4_1",
+          "index": 9,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_4_1",
+            "reward_payshop_wpn_funnel_0016"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo Grau Militar",
+            "CN": "军列赠礼",
+            "DE": "Militär-Standard-Tribut",
+            "EN": "Military Grade Tribute",
+            "FR": "Don militaire",
+            "ID": "Persembahan Standar Militer",
+            "IT": "Tributo grado militare",
+            "JP": "戦列・特典",
+            "KR": "제대 선물",
+            "MX": "Tributo de Grado militar",
+            "RU": "Подношение «Военный стандарт»",
+            "TC": "軍列贈禮",
+            "TH": "เครื่องบรรณาการ​ระดับ​ทหาร",
+            "VN": "Quà Tặng Cấp Quân Dụng"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo Grau Militar Conquistado",
+            "CN": "军列赠礼达成",
+            "DE": "Militär-Standard-Tribut verdient",
+            "EN": "Military Grade Tribute Earned",
+            "FR": "Don militaire obtenu",
+            "ID": "Persembahan Standar Militer Didapatkan",
+            "IT": "Tributo grado militare ottenuto",
+            "JP": "戦列・特典達成",
+            "KR": "제대 선물 달성",
+            "MX": "Tributo de Grado militar obtenido",
+            "RU": "Получено подношение «Военный стандарт»",
+            "TC": "軍列贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​ระดับ​ทหาร​แล้ว",
+            "VN": "Quà Tặng Cấp Quân Dụng Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Grau Militar",
+            "CN": "军列申领",
+            "DE": "Militär-Standard-Ausgabe",
+            "EN": "Military Grade Issue",
+            "FR": "Tirage de type militaire",
+            "ID": "Edisi Standar Militer",
+            "IT": "Distribuzione grado militare",
+            "JP": "戦列・申請",
+            "KR": "제대 신청",
+            "MX": "Solicitud de Grado militar",
+            "RU": "Поставка «Военный стандарт»",
+            "TC": "軍列申領",
+            "TH": "ตั๋ว​ระดับ​ทหาร",
+            "VN": "Gói Rút Cấp Quân Dụng"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_4_1",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_4_1",
+          "smallPoolIconFar": "icon_shop_weaponbox_small_1_4_1_far",
+          "sortId": 11,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_funnel_0016"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "weponbox_1_4_2": {
+        "oldValue": {
+          "clientTopTimeId": "time_special_1_4_2",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 12,
+          "id": "weponbox_1_4_2",
+          "index": 10,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_4_2",
+            "reward_payshop_wpn_lance_0014"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo Deslumbrante",
+            "CN": "明曜赠礼",
+            "DE": "Blendend-Tribut",
+            "EN": "Bedazzled Tribute",
+            "FR": "Don éblouissant",
+            "ID": "Persembahan Terpesona",
+            "IT": "Tributo abbagliante",
+            "JP": "明星・特典",
+            "KR": "찬란 선물",
+            "MX": "Tributo de Deslumbrante",
+            "RU": "Подношение «Ослепление»",
+            "TC": "明曜贈禮",
+            "TH": "เครื่องบรรณาการ​เจิด​จรัส",
+            "VN": "Quà Tặng Chói Rạng"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo Deslumbrante Conquistado",
+            "CN": "明曜赠礼达成",
+            "DE": "Blendend-Tribut verdient",
+            "EN": "Bedazzled Tribute Earned",
+            "FR": "Don éblouissant obtenu",
+            "ID": "Persembahan Terpesona Didapatkan",
+            "IT": "Tributo abbagliante ottenuto",
+            "JP": "明星・特典達成",
+            "KR": "찬란 선물 달성",
+            "MX": "Tributo de Deslumbrante obtenido",
+            "RU": "Получено подношение «Ослепление»",
+            "TC": "明曜贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เจิด​จรัส​แล้ว",
+            "VN": "Quà Tặng Chói Rạng Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Deslumbrante",
+            "CN": "明曜申领",
+            "DE": "Blendend-Ausgabe",
+            "EN": "Bedazzled Issue",
+            "FR": "Tirage éblouissant",
+            "ID": "Edisi Terpesona",
+            "IT": "Distribuzione abbagliante",
+            "JP": "明星・申請",
+            "KR": "찬란 신청",
+            "MX": "Solicitud de Deslumbrante",
+            "RU": "Поставка «Ослепление»",
+            "TC": "明曜申領",
+            "TH": "ตั๋ว​ระยิบระยับ",
+            "VN": "Gói Rút Chói Rạng"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_4_2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_4_2",
+          "smallPoolIconFar": "",
+          "sortId": 12,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_lance_0014"
+          ]
+        },
+        "newValue": {
+          "clientTopTimeId": "time_special_1_4_2",
+          "doublePoolNodeUIPrefab": "",
+          "finalIndex": 12,
+          "gachaPoolVersion": 0,
+          "id": "weponbox_1_4_2",
+          "index": 10,
+          "intervalAutoRewardIds": [
+            "reward_payshop_item_case_wpn_selfselect_gahca_1_4_2",
+            "reward_payshop_wpn_lance_0014"
+          ],
+          "loopRewardShowTag": {
+            "BR": "Tributo Deslumbrante",
+            "CN": "明曜赠礼",
+            "DE": "Blendend-Tribut",
+            "EN": "Bedazzled Tribute",
+            "FR": "Don éblouissant",
+            "ID": "Persembahan Terpesona",
+            "IT": "Tributo abbagliante",
+            "JP": "明星・特典",
+            "KR": "찬란 선물",
+            "MX": "Tributo de Deslumbrante",
+            "RU": "Подношение «Ослепление»",
+            "TC": "明曜贈禮",
+            "TH": "เครื่องบรรณาการ​เจิด​จรัส",
+            "VN": "Quà Tặng Chói Rạng"
+          },
+          "loopRewardShowTitle": {
+            "BR": "Tributo Deslumbrante Conquistado",
+            "CN": "明曜赠礼达成",
+            "DE": "Blendend-Tribut verdient",
+            "EN": "Bedazzled Tribute Earned",
+            "FR": "Don éblouissant obtenu",
+            "ID": "Persembahan Terpesona Didapatkan",
+            "IT": "Tributo abbagliante ottenuto",
+            "JP": "明星・特典達成",
+            "KR": "찬란 선물 달성",
+            "MX": "Tributo de Deslumbrante obtenido",
+            "RU": "Получено подношение «Ослепление»",
+            "TC": "明曜贈禮達成",
+            "TH": "ได้รับ​เครื่องบรรณาการ​เจิด​จรัส​แล้ว",
+            "VN": "Quà Tặng Chói Rạng Kiếm Được"
+          },
+          "name": {
+            "BR": "Distribuição Deslumbrante",
+            "CN": "明曜申领",
+            "DE": "Blendend-Ausgabe",
+            "EN": "Bedazzled Issue",
+            "FR": "Tirage éblouissant",
+            "ID": "Edisi Terpesona",
+            "IT": "Distribuzione abbagliante",
+            "JP": "明星・申請",
+            "KR": "찬란 신청",
+            "MX": "Solicitud de Deslumbrante",
+            "RU": "Поставка «Ослепление»",
+            "TC": "明曜申領",
+            "TH": "ตั๋ว​ระยิบระยับ",
+            "VN": "Gói Rút Chói Rạng"
+          },
+          "poolNodeUIPrefab": "ShopWeaponPoolNodeLimitedAlter_1_4_2",
+          "smallPoolIcon": "icon_shop_weaponbox_small_1_4_2",
+          "smallPoolIconFar": "",
+          "sortId": 12,
+          "ticketGachaTenLt": "",
+          "type": 0,
+          "upWeaponDoublePoolIcon": "",
+          "upWeaponIcon": "",
+          "upWeaponIds": [
+            "wpn_lance_0014"
+          ]
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      }
+    }
+  }
+}

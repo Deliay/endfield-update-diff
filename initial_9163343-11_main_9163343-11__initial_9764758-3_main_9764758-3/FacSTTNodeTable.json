@@ -1,0 +1,651 @@
+{
+  "tableName": "FacSTTNodeTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "tech_jinlong_3_xiranite_enr_formula": {
+        "oldValue": {
+          "action": {
+            "actionId": "act_tech_jinlong_3_xiranite_enr_formula_1",
+            "actionType": 501,
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "xiranite_oven_xiranite_enr_powder_1"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ]
+          },
+          "alreadyUnlock": false,
+          "blackboxIds": [
+            "dung_blackbox_xiraniteoven_2"
+          ],
+          "category": "fac_team_jinlong_xiranite",
+          "conditions": [],
+          "cornerIcon": "",
+          "costItems": [],
+          "costPointCount": 1,
+          "defaultHidden": true,
+          "desc": {
+            "BR": "Pesquise para permitir que as <@tech.key>Forjas dos Céus</> produzam <@tech.key>Xiranita Pesada</> e aumentar o limite de <@tech.key>Forjas dos Céus</> na região de Wuling para <@tech.key>+4</>.",
+            "CN": "研究后可使用<@tech.key>天有洪炉</>制造<@tech.key>重息壤</>，并且在武陵地区放置的<@tech.key>天有洪炉</>数量上限<@tech.key>+4</>",
+            "DE": "Erforsche diese Technik, um <@tech.key>Schweres Xiranit</> in den <@tech.key>Schmieden des Himmels</> zu produzieren und die maximale Anzahl der <@tech.key>Schmieden des Himmels</> in Wuling um <@tech.key>4</> zu erhöhen.",
+            "EN": "Research this to let <@tech.key>Forges of the Sky</> produce <@tech.key>Heavy Xiranite</>, and raise the limit of <@tech.key>Forges of the Sky</> in the Wuling region to <@tech.key>+4</>.",
+            "FR": "Recherchez ceci pour permettre aux <@tech.key>forges des cieux</> de produire de la <@tech.key>xiranite lourde</> et d'augmenter la limite des <@tech.key>forges des cieux</> dans la région de Wuling de <@tech.key>+4</>.",
+            "ID": "Teliti teknologi ini agar <@tech.key>Tempaan Langit</> bisa memproduksi <@tech.key>Xiranite Berat</> dan menaikkan batas <@tech.key>Tempaan Langit</> di wilayah Wuling sebanyak <@tech.key>+4</>.",
+            "IT": "Svolgi ricerche su questo elemento per consentire alle <@tech.key>Forge celesti</> di produrre <@tech.key>xiranite pesante</> e aumentare di <@tech.key>+4</> il limite di <@tech.key>Forge celesti</> nella regione di Wuling.",
+            "JP": "研究後、<@tech.key>天有洪炉</>で<@tech.key>重息壌</>を生産することができる。同時に、武陵に設置できる<@tech.key>天有洪炉</>の数量<@tech.key>+4</>。",
+            "KR": "연구를 통해 <@tech.key>천화로</>로 <@tech.key>중식양</>을 제작할 수 있으며, 무릉 지역에 배치할 수 있는 <@tech.key>천화로</>의 수량 최대치 <@tech.key>+4</>.",
+            "MX": "Investiga esto para que las <@tech.key>Forjas del cielo</> puedan producir <@tech.key>Xiranita pesada</>, y aumente el límite de <@tech.key>Forjas del cielo</> en la región de Wuling a <@tech.key>+4</>.",
+            "RU": "Изучите, чтобы увеличить лимит <@tech.key>небесных кузниц</> в Улине на <@tech.key>4</> и производить в них <@tech.key>тяжелый ксиранит</>.",
+            "TC": "研究後可使用<@tech.key>天有洪爐</>製造<@tech.key>重息壤</>，並且可在武陵地區擺放的<@tech.key>天有洪爐</>數量上限<@tech.key>+4</>",
+            "TH": "วิจัย​สิ่ง​นี้​เพื่อให้​<@tech.key>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​สามารถ​ผลิต​<@tech.key>​ซี​เรน​ไนต์​หนัก​</>​ได้​ และ​เพิ่ม​ขีดจำกัด​ของ​<@tech.key>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​ใน​ภูมิภาค​อู่​หลิง​เป็น​ <@tech.key>+4</>",
+            "VN": "Nghiên cứu để <@tech.key>Lò Rèn Bầu Trời</> có thể sản xuất <@tech.key>Xiranite Nặng</> và tăng giới hạn <@tech.key>Lò Rèn Bầu Trời</> ở khu vực Võ Lăng lên <@tech.key>+4</>."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "tech_jinlong_3_xiranite_enr_formula",
+          "layer": "tech_group_jinlong_acid",
+          "name": {
+            "BR": "Expansão e Xiranita Pesada",
+            "CN": "扩容与重息壤",
+            "DE": "Erweiterung und Schweres Xiranit",
+            "EN": "Expansion and Heavy Xiranite",
+            "FR": "Extension et xiranite lourde",
+            "ID": "Perluasan dan Xiranite Berat",
+            "IT": "Espansione e xiranite pesante",
+            "JP": "拡張と重息壌",
+            "KR": "확장 및 중식양",
+            "MX": "Expansión y Xiranita pesada",
+            "RU": "Расширение и тяжелый ксиранит",
+            "TC": "擴容與重息壤",
+            "TH": "การ​ขยาย​กำลังผลิต​และ​ซี​เรน​ไนต์​หนัก",
+            "VN": "Mở Rộng và Xiranite Nặng"
+          },
+          "preNode": [
+            "tech_jinlong_2_xiranite_oven_amount_2"
+          ],
+          "sortId": 25,
+          "techId": "tech_jinlong_3_xiranite_enr_formula",
+          "uiPos": [
+            11,
+            5
+          ],
+          "unlockDesc": {
+            "BR": "As <@tech.get>Forjas dos Céus</> agora podem produzir <@tech.get>Xiranita Pesada</>. Também é possível colocar mais <@tech.get>Forjas dos Céus</> em Wuling.",
+            "CN": "现在可以用<@tech.get>天有洪炉</>制造<@tech.get>重息壤</>，并且在武陵地区放置更多的<@tech.get>天有洪炉</>了",
+            "DE": "<@tech.get>Schmieden des Himmels</> können jetzt <@tech.get>Schweres Xiranit</> produzieren. Es könne mehr <@tech.get>Schmieden des Himmels</> in Wuling platziert werden.",
+            "EN": "<@tech.get>Forges of the Sky</> can now produce <@tech.get>Heavy Xiranite</>. More <@tech.get>Forges of the Sky</> can also be placed in Wuling.",
+            "FR": "Les <@tech.get>forges des cieux</> peuvent désormais produire de la <@tech.get>xiranite lourde</>. Vous pouvez désormais aussi placer des <@tech.get>forges des cieux</> dans la ville de Wuling.",
+            "ID": "Sekarang, <@tech.get>Tempaan Langit</> bisa memproduksi <@tech.get>Xiranite Berat</>. Lebih banyak <@tech.get>Tempaan Langit</> juga bisa ditempatkan di Wuling.",
+            "IT": "Ora le <@tech.get>Forge celesti</> possono produrre <@tech.get>xiranite pesante</>. È inoltre possibile posizionare più <@tech.get>Forge celesti</> a Wuling.",
+            "JP": "<@tech.get>天有洪炉</>で<@tech.get>重息壌</>を生産し、武陵でより多くの<@tech.get>天有洪炉</>を設置できるようになりました",
+            "KR": "이제 <@tech.get>천화로</>로 <@tech.get>중식양</>을 제작할 수 있으며, 무릉 지역에 <@tech.get>천화로</>를 더 많이 배치할 수 있습니다.",
+            "MX": "Las <@tech.get>Forjas del cielo</> ahora pueden producir <@tech.get>Xiranita pesada.</> También se pueden colocar más <@tech.get>Forjas del cielo</> en Wuling.",
+            "RU": "Вы можете размещать больше <@tech.get>небесных кузниц</> в Улине, и теперь они производят <@tech.get>тяжелый ксиранит</>.",
+            "TC": "現在可以用<@tech.get>天有洪爐</>製造<@tech.get>重息壤</>，並且在武陵地區擺放更多的<@tech.get>天有洪爐</>了",
+            "TH": "ตอนนี้​<@tech.get>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​สามารถ​ผลิต​<@tech.get>​ซี​เรน​ไนต์​หนัก​</> ได้​แล้ว​ และ​ยัง​สามารถ​วาง​<@tech.get>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​เพิ่มเติม​ใน​อู่​หลิง​ได้​อีก",
+            "VN": "<@tech.get>Lò Rèn Bầu Trời</> hiện có thể sản xuất <@tech.get>Xiranite Nặng</> và cũng có thể đặt thêm <@tech.get>Lò Rèn Bầu Trời</> ở Võ Lăng."
+          },
+          "unlockReward": [
+            {
+              "count": 0,
+              "itemId": "item_factech_wuling_xiranite_enr_formula"
+            },
+            {
+              "count": 0,
+              "itemId": "item_factech_wuling_oven_amount_3"
+            }
+          ]
+        },
+        "newValue": {
+          "action": {
+            "actionId": "act_tech_jinlong_3_xiranite_enr_formula_1",
+            "actionType": 501,
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "xiranite_oven_xiranite_enr_powder_1"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ]
+          },
+          "alreadyUnlock": false,
+          "blackboxIds": [
+            "dung_blackbox_xiraniteoven_2"
+          ],
+          "category": "fac_team_jinlong_xiranite",
+          "conditions": [
+            {
+              "conditionId": "tech_jinlong_3_xiranite_enr_formula_1",
+              "conditionType": 18,
+              "desc": {
+                "BR": "Progresso da Missão: [Livre Arbítrio]",
+                "CN": "推进任务「自由意志」后可解锁",
+                "DE": "Missionsfortschritt: [Freier Wille]",
+                "EN": "Mission Progress: [Free Will]",
+                "FR": "Progression de la mission : [Libre arbitre]",
+                "ID": "Progres Misi: [Kehendak Bebas]",
+                "IT": "Progressi missione: [Libero arbitrio]",
+                "JP": "任務「固き意志」を進めて解放",
+                "KR": "[자유의지] 임무를 진행하여 잠금 해제",
+                "MX": "Progreso de la misión: [Libre albedrío]",
+                "RU": "Прогресс миссии «Свободная воля»",
+                "TC": "推進任務「自由意志」後可解鎖",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​: [เจตจำนง​เสรี​]",
+                "VN": "Tiến Trình Nhiệm Vụ: [Lý Tưởng Tự Do]"
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e8m5_q#6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "techId": "tech_jinlong_3_xiranite_enr_formula"
+            }
+          ],
+          "cornerIcon": "",
+          "costItems": [],
+          "costPointCount": 1,
+          "defaultHidden": false,
+          "desc": {
+            "BR": "Pesquise para permitir que as <@tech.key>Forjas dos Céus</> produzam <@tech.key>Xiranita Pesada</> e aumentar o limite de <@tech.key>Forjas dos Céus</> na região de Wuling para <@tech.key>+4</>.",
+            "CN": "研究后可使用<@tech.key>天有洪炉</>制造<@tech.key>重息壤</>，并且在武陵地区放置的<@tech.key>天有洪炉</>数量上限<@tech.key>+4</>",
+            "DE": "Erforsche diese Technik, um <@tech.key>Schweres Xiranit</> in den <@tech.key>Schmieden des Himmels</> zu produzieren und die maximale Anzahl der <@tech.key>Schmieden des Himmels</> in Wuling um <@tech.key>4</> zu erhöhen.",
+            "EN": "Research this to let <@tech.key>Forges of the Sky</> produce <@tech.key>Heavy Xiranite</>, and raise the limit of <@tech.key>Forges of the Sky</> in the Wuling region to <@tech.key>+4</>.",
+            "FR": "Recherchez ceci pour permettre aux <@tech.key>forges des cieux</> de produire de la <@tech.key>xiranite lourde</> et d'augmenter la limite des <@tech.key>forges des cieux</> dans la région de Wuling de <@tech.key>+4</>.",
+            "ID": "Teliti teknologi ini agar <@tech.key>Tempaan Langit</> bisa memproduksi <@tech.key>Xiranite Berat</> dan menaikkan batas <@tech.key>Tempaan Langit</> di wilayah Wuling sebanyak <@tech.key>+4</>.",
+            "IT": "Svolgi ricerche su questo elemento per consentire alle <@tech.key>Forge celesti</> di produrre <@tech.key>xiranite pesante</> e aumentare di <@tech.key>+4</> il limite di <@tech.key>Forge celesti</> nella regione di Wuling.",
+            "JP": "研究後、<@tech.key>天有洪炉</>で<@tech.key>重息壌</>を生産することができる。同時に、武陵に設置できる<@tech.key>天有洪炉</>の数量<@tech.key>+4</>。",
+            "KR": "연구를 통해 <@tech.key>천화로</>로 <@tech.key>중식양</>을 제작할 수 있으며, 무릉 지역에 배치할 수 있는 <@tech.key>천화로</>의 수량 최대치 <@tech.key>+4</>.",
+            "MX": "Investiga esto para que las <@tech.key>Forjas del cielo</> puedan producir <@tech.key>Xiranita pesada</>, y aumente el límite de <@tech.key>Forjas del cielo</> en la región de Wuling a <@tech.key>+4</>.",
+            "RU": "Изучите, чтобы увеличить лимит <@tech.key>небесных кузниц</> в Улине на <@tech.key>4</> и производить в них <@tech.key>тяжелый ксиранит</>.",
+            "TC": "研究後可使用<@tech.key>天有洪爐</>製造<@tech.key>重息壤</>，並且可在武陵地區擺放的<@tech.key>天有洪爐</>數量上限<@tech.key>+4</>",
+            "TH": "วิจัย​สิ่ง​นี้​เพื่อให้​<@tech.key>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​สามารถ​ผลิต​<@tech.key>​ซี​เรน​ไนต์​หนัก​</>​ได้​ และ​เพิ่ม​ขีดจำกัด​ของ​<@tech.key>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​ใน​ภูมิภาค​อู่​หลิง​เป็น​ <@tech.key>+4</>",
+            "VN": "Nghiên cứu để <@tech.key>Lò Rèn Bầu Trời</> có thể sản xuất <@tech.key>Xiranite Nặng</> và tăng giới hạn <@tech.key>Lò Rèn Bầu Trời</> ở khu vực Võ Lăng lên <@tech.key>+4</>."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "tech_jinlong_3_xiranite_enr_formula",
+          "layer": "tech_group_jinlong_acid",
+          "name": {
+            "BR": "Expansão e Xiranita Pesada",
+            "CN": "扩容与重息壤",
+            "DE": "Erweiterung und Schweres Xiranit",
+            "EN": "Expansion and Heavy Xiranite",
+            "FR": "Extension et xiranite lourde",
+            "ID": "Perluasan dan Xiranite Berat",
+            "IT": "Espansione e xiranite pesante",
+            "JP": "拡張と重息壌",
+            "KR": "확장 및 중식양",
+            "MX": "Expansión y Xiranita pesada",
+            "RU": "Расширение и тяжелый ксиранит",
+            "TC": "擴容與重息壤",
+            "TH": "การ​ขยาย​กำลังผลิต​และ​ซี​เรน​ไนต์​หนัก",
+            "VN": "Mở Rộng và Xiranite Nặng"
+          },
+          "preNode": [
+            "tech_jinlong_2_xiranite_oven_amount_2"
+          ],
+          "sortId": 25,
+          "techId": "tech_jinlong_3_xiranite_enr_formula",
+          "uiPos": [
+            11,
+            5
+          ],
+          "unlockDesc": {
+            "BR": "As <@tech.get>Forjas dos Céus</> agora podem produzir <@tech.get>Xiranita Pesada</>. Também é possível colocar mais <@tech.get>Forjas dos Céus</> em Wuling.",
+            "CN": "现在可以用<@tech.get>天有洪炉</>制造<@tech.get>重息壤</>，并且在武陵地区放置更多的<@tech.get>天有洪炉</>了",
+            "DE": "<@tech.get>Schmieden des Himmels</> können jetzt <@tech.get>Schweres Xiranit</> produzieren. Es könne mehr <@tech.get>Schmieden des Himmels</> in Wuling platziert werden.",
+            "EN": "<@tech.get>Forges of the Sky</> can now produce <@tech.get>Heavy Xiranite</>. More <@tech.get>Forges of the Sky</> can also be placed in Wuling.",
+            "FR": "Les <@tech.get>forges des cieux</> peuvent désormais produire de la <@tech.get>xiranite lourde</>. Vous pouvez désormais aussi placer des <@tech.get>forges des cieux</> dans la ville de Wuling.",
+            "ID": "Sekarang, <@tech.get>Tempaan Langit</> bisa memproduksi <@tech.get>Xiranite Berat</>. Lebih banyak <@tech.get>Tempaan Langit</> juga bisa ditempatkan di Wuling.",
+            "IT": "Ora le <@tech.get>Forge celesti</> possono produrre <@tech.get>xiranite pesante</>. È inoltre possibile posizionare più <@tech.get>Forge celesti</> a Wuling.",
+            "JP": "<@tech.get>天有洪炉</>で<@tech.get>重息壌</>を生産し、武陵でより多くの<@tech.get>天有洪炉</>を設置できるようになりました",
+            "KR": "이제 <@tech.get>천화로</>로 <@tech.get>중식양</>을 제작할 수 있으며, 무릉 지역에 <@tech.get>천화로</>를 더 많이 배치할 수 있습니다.",
+            "MX": "Las <@tech.get>Forjas del cielo</> ahora pueden producir <@tech.get>Xiranita pesada.</> También se pueden colocar más <@tech.get>Forjas del cielo</> en Wuling.",
+            "RU": "Вы можете размещать больше <@tech.get>небесных кузниц</> в Улине, и теперь они производят <@tech.get>тяжелый ксиранит</>.",
+            "TC": "現在可以用<@tech.get>天有洪爐</>製造<@tech.get>重息壤</>，並且在武陵地區擺放更多的<@tech.get>天有洪爐</>了",
+            "TH": "ตอนนี้​<@tech.get>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​สามารถ​ผลิต​<@tech.get>​ซี​เรน​ไนต์​หนัก​</> ได้​แล้ว​ และ​ยัง​สามารถ​วาง​<@tech.get>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​เพิ่มเติม​ใน​อู่​หลิง​ได้​อีก",
+            "VN": "<@tech.get>Lò Rèn Bầu Trời</> hiện có thể sản xuất <@tech.get>Xiranite Nặng</> và cũng có thể đặt thêm <@tech.get>Lò Rèn Bầu Trời</> ở Võ Lăng."
+          },
+          "unlockReward": [
+            {
+              "count": 0,
+              "itemId": "item_factech_wuling_xiranite_enr_formula"
+            },
+            {
+              "count": 0,
+              "itemId": "item_factech_wuling_oven_amount_3"
+            }
+          ]
+        },
+        "changed": {
+          "conditions[0]": {
+            "type": "value",
+            "newValue": {
+              "conditionId": "tech_jinlong_3_xiranite_enr_formula_1",
+              "conditionType": 18,
+              "desc": {
+                "id": "7362640748442339052",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "e8m5_q#6"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "techId": "tech_jinlong_3_xiranite_enr_formula"
+            }
+          },
+          "defaultHidden": {
+            "type": "value",
+            "oldValue": true,
+            "newValue": false
+          }
+        }
+      },
+      "tech_jinlong_3_xiranite_oven_amount_3": {
+        "oldValue": {
+          "action": {
+            "actionId": "act_tech_jinlong_3_xiranite_oven_amount_3_3",
+            "actionType": 5123,
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "domain_2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "xiranite_oven_1"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  4
+                ],
+                "valueIntList": [
+                  4
+                ],
+                "valueStringList": [
+                  "4"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ]
+          },
+          "alreadyUnlock": false,
+          "blackboxIds": [],
+          "category": "fac_team_jinlong_xiranite",
+          "conditions": [],
+          "cornerIcon": "",
+          "costItems": [],
+          "costPointCount": 2,
+          "defaultHidden": true,
+          "desc": {
+            "BR": "Pesquise para aumentar o limite de <@tech.key>Forjas dos Céus</> em Wuling em <@tech.key>+4</>.",
+            "CN": "研究后可在武陵地区放置的<@tech.key>天有洪炉</>数量上限<@tech.key>+4</>。",
+            "DE": "Erforsche diese Technik, um die maximale Anzahl der <@tech.key>Schmieden des Himmels</> in Wuling um <@tech.key>4</> zu erhöhen.",
+            "EN": "Research this to raise the limit of <@tech.key>Forges of the Sky</> in Wuling by <@tech.key>+4</>.",
+            "FR": "Recherchez ceci pour augmenter la limite des <@tech.key>forges des cieux</> à Wuling de <@tech.key>+4</>.",
+            "ID": "Teliti teknologi ini untuk menaikkan batas <@tech.key>Tempaan Langit</> di Wuling sebanyak <@tech.key>+4</>.",
+            "IT": "Svolgi ricerche su questo elemento per aumentare di <@tech.key>+4</> il limite di <@tech.key>Forge celesti</> a Wuling.",
+            "JP": "研究後、武陵に設置できる<@tech.key>天有洪炉</>の数量<@tech.key>+4</>。",
+            "KR": "연구를 통해 무릉 지역에 배치할 수 있는 <@tech.key>천화로</> 수량 최대치 <@tech.key>+4</>.",
+            "MX": "Investiga esto para aumentar el límite de <@tech.key>Forjas del cielo</> en Wuling en <@tech.key>+4</>.",
+            "RU": "Изучите, чтобы увеличить лимит <@tech.key>небесных кузниц</> в Улине на <@tech.key>4</>.",
+            "TC": "研究後可在武陵地區擺放的<@tech.key>天有洪爐</>數量上限<@tech.key>+4</>。",
+            "TH": "ค้นคว้า​เพื่อ​เพิ่ม​ขีดจำกัด​ของ​<@tech.key>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​ใน​อู่​หลิง​ขึ้น​อีก​ <@tech.key>4 ระดับ​</>",
+            "VN": "Nghiên cứu để tăng giới hạn <@tech.key>Lò Rèn Bầu Trời</> ở Võ Lăng thêm <@tech.key>+4</>."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "tech_jinlong_3_xiranite_oven_amount_4",
+          "layer": "tech_group_jinlong_acid",
+          "name": {
+            "BR": "Expansão da Forja IV",
+            "CN": "洪炉扩容IV",
+            "DE": "Schmiedeerweiterung IV",
+            "EN": "Forge Expansion IV",
+            "FR": "Extension de forge IV",
+            "ID": "Perluasan Tempa IV",
+            "IT": "Espansione forgiatura IV",
+            "JP": "洪炉拡張Ⅳ",
+            "KR": "화로 확장 IV",
+            "MX": "Expansión de la forja IV",
+            "RU": "Расширение кузницы IV",
+            "TC": "洪爐擴容IV",
+            "TH": "การ​ขยาย​โรง​ตี​เหล็ก​ IV",
+            "VN": "Mở Rộng Lò Rèn IV"
+          },
+          "preNode": [
+            "tech_jinlong_3_xiranite_enr_formula"
+          ],
+          "sortId": 27,
+          "techId": "tech_jinlong_3_xiranite_oven_amount_3",
+          "uiPos": [
+            11,
+            6
+          ],
+          "unlockDesc": {
+            "BR": "É possível colocar mais <@tech.get>Forjas dos Céus</> em Wuling.",
+            "CN": "现在可以在武陵地区放置更多的<@tech.get>天有洪炉</>了",
+            "DE": "Es können mehr <@tech.get>Schmieden des Himmels</> in Wuling platziert werden.",
+            "EN": "More <@tech.get>Forges of the Sky</> can be placed in Wuling.",
+            "FR": "Vous pouvez placer plus de <@tech.get>forges des cieux</> à Wuling.",
+            "ID": "Kamu bisa menempatkan lebih banyak <@tech.get>Tempaan Langit</> di Wuling.",
+            "IT": "È possibile posizionare più <@tech.get>Forge celesti</> a Wuling.",
+            "JP": "武陵に設置できる<@tech.get>天有洪炉</>の数が増えました",
+            "KR": "무릉 지역에 더 많은 <@tech.get>천화로</>를 배치할 수 있습니다.",
+            "MX": "Se pueden colocar más <@tech.get>Forjas del cielo</> en Wuling.",
+            "RU": "Вы можете размещать больше <@tech.get>небесных кузниц</> в Улине.",
+            "TC": "現在可以在武陵地區擺放更多的<@tech.get>天有洪爐</>了",
+            "TH": "สามารถ​วาง​<@tech.get>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​เพิ่ม​ใน​อู่​หลิง​ได้​แล้ว",
+            "VN": "Có thể đặt thêm <@tech.get>Lò Rèn Bầu Trời</> ở Võ Lăng."
+          },
+          "unlockReward": [
+            {
+              "count": 0,
+              "itemId": "item_factech_wuling_oven_amount_4"
+            }
+          ]
+        },
+        "newValue": {
+          "action": {
+            "actionId": "act_tech_jinlong_3_xiranite_oven_amount_3_3",
+            "actionType": 5123,
+            "parameters": [
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "domain_2"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": null,
+                "valueIntList": null,
+                "valueStringList": [
+                  "xiranite_oven_1"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              },
+              {
+                "realType": 0,
+                "valueBoolList": null,
+                "valueFloatList": [
+                  4
+                ],
+                "valueIntList": [
+                  4
+                ],
+                "valueStringList": [
+                  "4"
+                ],
+                "valueType": 0,
+                "valueVector3": null
+              }
+            ]
+          },
+          "alreadyUnlock": false,
+          "blackboxIds": [],
+          "category": "fac_team_jinlong_xiranite",
+          "conditions": [
+            {
+              "conditionId": "tech_jinlong_3_xiranite_oven_amount_3_1",
+              "conditionType": 18,
+              "desc": {
+                "BR": "Progresso da Missão: [O Retorno da Primavera III]",
+                "CN": "推进任务「再引春来·其三」后可解锁",
+                "DE": "Missionsfortschritt: [Des Frühlings Rückkehr III]",
+                "EN": "Mission Progress: [Spring's Return III]",
+                "FR": "Progression de la mission : [Retour du printemps III]",
+                "ID": "Progres Misi: [Kembalinya Musim Semi III]",
+                "IT": "Progressi missione: [Il ritorno della primavera III]",
+                "JP": "任務「春還る・3」を進めて解放",
+                "KR": "[다시 찾아온 봄(3)] 임무를 진행하여 잠금 해제",
+                "MX": "Progreso de la misión: [Primavera renovada III]",
+                "RU": "Прогресс миссии «Приход весны III»",
+                "TC": "推進任務「再引春來·其三」後可解鎖",
+                "TH": "ความคืบหน้า​ของ​ภารกิจ​: [ฤดูใบไม้ผลิ​หวนกลับ​มา​ III]",
+                "VN": "Tiến Trình Nhiệm Vụ: [Xuân Hồi III]"
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "sm2l5m3_q#3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "techId": "tech_jinlong_3_xiranite_oven_amount_3"
+            }
+          ],
+          "cornerIcon": "",
+          "costItems": [],
+          "costPointCount": 2,
+          "defaultHidden": false,
+          "desc": {
+            "BR": "Pesquise para aumentar o limite de <@tech.key>Forjas dos Céus</> em Wuling em <@tech.key>+4</>.",
+            "CN": "研究后可在武陵地区放置的<@tech.key>天有洪炉</>数量上限<@tech.key>+4</>。",
+            "DE": "Erforsche diese Technik, um die maximale Anzahl der <@tech.key>Schmieden des Himmels</> in Wuling um <@tech.key>4</> zu erhöhen.",
+            "EN": "Research this to raise the limit of <@tech.key>Forges of the Sky</> in Wuling by <@tech.key>+4</>.",
+            "FR": "Recherchez ceci pour augmenter la limite des <@tech.key>forges des cieux</> à Wuling de <@tech.key>+4</>.",
+            "ID": "Teliti teknologi ini untuk menaikkan batas <@tech.key>Tempaan Langit</> di Wuling sebanyak <@tech.key>+4</>.",
+            "IT": "Svolgi ricerche su questo elemento per aumentare di <@tech.key>+4</> il limite di <@tech.key>Forge celesti</> a Wuling.",
+            "JP": "研究後、武陵に設置できる<@tech.key>天有洪炉</>の数量<@tech.key>+4</>。",
+            "KR": "연구를 통해 무릉 지역에 배치할 수 있는 <@tech.key>천화로</> 수량 최대치 <@tech.key>+4</>.",
+            "MX": "Investiga esto para aumentar el límite de <@tech.key>Forjas del cielo</> en Wuling en <@tech.key>+4</>.",
+            "RU": "Изучите, чтобы увеличить лимит <@tech.key>небесных кузниц</> в Улине на <@tech.key>4</>.",
+            "TC": "研究後可在武陵地區擺放的<@tech.key>天有洪爐</>數量上限<@tech.key>+4</>。",
+            "TH": "ค้นคว้า​เพื่อ​เพิ่ม​ขีดจำกัด​ของ​<@tech.key>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​ใน​อู่​หลิง​ขึ้น​อีก​ <@tech.key>4 ระดับ​</>",
+            "VN": "Nghiên cứu để tăng giới hạn <@tech.key>Lò Rèn Bầu Trời</> ở Võ Lăng thêm <@tech.key>+4</>."
+          },
+          "groupId": "tech_group_jinlong",
+          "icon": "tech_jinlong_3_xiranite_oven_amount_4",
+          "layer": "tech_group_jinlong_acid",
+          "name": {
+            "BR": "Expansão da Forja IV",
+            "CN": "洪炉扩容IV",
+            "DE": "Schmiedeerweiterung IV",
+            "EN": "Forge Expansion IV",
+            "FR": "Extension de forge IV",
+            "ID": "Perluasan Tempa IV",
+            "IT": "Espansione forgiatura IV",
+            "JP": "洪炉拡張Ⅳ",
+            "KR": "화로 확장 IV",
+            "MX": "Expansión de la forja IV",
+            "RU": "Расширение кузницы IV",
+            "TC": "洪爐擴容IV",
+            "TH": "การ​ขยาย​โรง​ตี​เหล็ก​ IV",
+            "VN": "Mở Rộng Lò Rèn IV"
+          },
+          "preNode": [
+            "tech_jinlong_3_xiranite_enr_formula"
+          ],
+          "sortId": 27,
+          "techId": "tech_jinlong_3_xiranite_oven_amount_3",
+          "uiPos": [
+            11,
+            6
+          ],
+          "unlockDesc": {
+            "BR": "É possível colocar mais <@tech.get>Forjas dos Céus</> em Wuling.",
+            "CN": "现在可以在武陵地区放置更多的<@tech.get>天有洪炉</>了",
+            "DE": "Es können mehr <@tech.get>Schmieden des Himmels</> in Wuling platziert werden.",
+            "EN": "More <@tech.get>Forges of the Sky</> can be placed in Wuling.",
+            "FR": "Vous pouvez placer plus de <@tech.get>forges des cieux</> à Wuling.",
+            "ID": "Kamu bisa menempatkan lebih banyak <@tech.get>Tempaan Langit</> di Wuling.",
+            "IT": "È possibile posizionare più <@tech.get>Forge celesti</> a Wuling.",
+            "JP": "武陵に設置できる<@tech.get>天有洪炉</>の数が増えました",
+            "KR": "무릉 지역에 더 많은 <@tech.get>천화로</>를 배치할 수 있습니다.",
+            "MX": "Se pueden colocar más <@tech.get>Forjas del cielo</> en Wuling.",
+            "RU": "Вы можете размещать больше <@tech.get>небесных кузниц</> в Улине.",
+            "TC": "現在可以在武陵地區擺放更多的<@tech.get>天有洪爐</>了",
+            "TH": "สามารถ​วาง​<@tech.get>​โรง​ตี​เหล็ก​แห่ง​ท้องฟ้า​</>​เพิ่ม​ใน​อู่​หลิง​ได้​แล้ว",
+            "VN": "Có thể đặt thêm <@tech.get>Lò Rèn Bầu Trời</> ở Võ Lăng."
+          },
+          "unlockReward": [
+            {
+              "count": 0,
+              "itemId": "item_factech_wuling_oven_amount_4"
+            }
+          ]
+        },
+        "changed": {
+          "conditions[0]": {
+            "type": "value",
+            "newValue": {
+              "conditionId": "tech_jinlong_3_xiranite_oven_amount_3_1",
+              "conditionType": 18,
+              "desc": {
+                "id": "-6112555878670672840",
+                "text": ""
+              },
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "sm2l5m3_q#3"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": [
+                    0
+                  ],
+                  "valueIntList": [
+                    0
+                  ],
+                  "valueStringList": [
+                    "0"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "techId": "tech_jinlong_3_xiranite_oven_amount_3"
+            }
+          },
+          "defaultHidden": {
+            "type": "value",
+            "oldValue": true,
+            "newValue": false
+          }
+        }
+      }
+    }
+  }
+}

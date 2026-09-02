@@ -1,0 +1,69 @@
+{
+  "tableName": "RichTextStyleTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "2ddlg.option": {
+        "id": "2ddlg.option",
+        "postDef": [
+          "</color>",
+          "</color>",
+          "</color>"
+        ],
+        "preDef": [
+          "<color=#fff589>",
+          "<color=#fff589>",
+          "<color=#fff589>"
+        ]
+      },
+      "dung.green": {
+        "id": "dung.green",
+        "postDef": [
+          "</color>",
+          "</color>",
+          "</color>"
+        ],
+        "preDef": [
+          "<color=#00c695>",
+          "<color=#00c695>",
+          "<color=#00c695>"
+        ]
+      },
+      "ba.naturalburst": {
+        "id": "ba.naturalburst",
+        "postDef": [
+          "</color>",
+          "</color>",
+          "</color>"
+        ],
+        "preDef": [
+          "<image=\"TermIcon/icon_term_ba_naturalburst\" scale=1.25><color=#b4d945>",
+          "<image=\"TermIcon/icon_term_ba_naturalburst\" scale=1.25><color=#ade131>",
+          "<image=\"TermIcon/icon_term_ba_naturalburst\" scale=1.25><color=#6d9a00>"
+        ]
+      },
+      "nar.blue": {
+        "id": "nar.blue",
+        "postDef": [
+          "</color>",
+          "</color>",
+          "</color>"
+        ],
+        "preDef": [
+          "<color=#33c2ff>",
+          "<color=#00ffff>",
+          "<color=#1da6e0>"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,942 @@
+{
+  "tableName": "DecoBuildingObtainConditionTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {
+      "condition_crystal_ball_1_1": {
+        "compareOperator": 3,
+        "conditionId": "condition_crystal_ball_1_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Progresso da missão atual: [%s]",
+          "CN": "当前该任务进度：「%s」",
+          "DE": "Aktueller Missionsfortschritt: [%s]",
+          "EN": "Current mission progress: [%s]",
+          "FR": "Progression de la mission actuelle : [%s]",
+          "ID": "Progres misi saat ini: [%s]",
+          "IT": "Progressi missione attuale: [%s]",
+          "JP": "現在の任務進捗：「%s」",
+          "KR": "현재 해당 임무 진도: [%s]",
+          "MX": "Progreso de la Misión actual: [%s]",
+          "RU": "Текущий прогресс миссии: %s",
+          "TC": "目前該任務進度：「%s」",
+          "TH": "ความคืบหน้า​ของ​ภารกิจ​ปัจจุบัน​: [%s]",
+          "VN": "Tiến trình nhiệm vụ hiện tại: [%s]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "c34m3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1,
+        "title": {
+          "BR": "Conclua a missão secundária [Um Sonho de Inverno Envolto em Névoa na Floresta]",
+          "CN": "完成支线任务：雾隐冬梦深林中",
+          "DE": "Schließe die Nebenmission [Ein Wintertraum, tief im Waldesnebel] ab.",
+          "EN": "Complete the side mission [A Winter Dream Fogged Deep in the Woods]",
+          "FR": "Terminer la mission annexe [Rêve d'hiver brumeux au creux des bois]",
+          "ID": "Selesaikan misi sampingan [Mimpi Musim Dingin di Kedalaman Hutan Berkabut]",
+          "IT": "Completa la missione secondaria [Un sogno d'inverno tra le nebbie del bosco]",
+          "JP": "サブ任務：「冬の夢は霧の中に」を完了する",
+          "KR": "서브 임무: 안개에 잠긴 겨울꿈의 숲 완료",
+          "MX": "Completa la misión secundaria [Un sueño invernal cubierto de niebla en lo profundo del bosque]",
+          "RU": "Завершите побочную миссию «Зимний сон в окутанной туманом лесной чаще»",
+          "TC": "完成支線任務：霧隱冬夢深林中",
+          "TH": "ทำ​ภารกิจ​เสริม​ [ฝัน​ฤดูหนาว​ใน​ม่าน​หมอก​กลาง​ป่า​ลึก​] ให้​สำเร็จ",
+          "VN": "Hoàn thành nhiệm vụ phụ [Mộng Đông Trong Sương Rừng]"
+        }
+      },
+      "condition_crystal_ball_1_2": {
+        "compareOperator": 3,
+        "conditionId": "condition_crystal_ball_1_2",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Progresso da missão atual: [%s]",
+          "CN": "当前该任务进度：「%s」",
+          "DE": "Aktueller Missionsfortschritt: [%s]",
+          "EN": "Current mission progress: [%s]",
+          "FR": "Progression de la mission actuelle : [%s]",
+          "ID": "Progres misi saat ini: [%s]",
+          "IT": "Progressi missione attuale: [%s]",
+          "JP": "現在の任務進捗：「%s」",
+          "KR": "현재 해당 임무 진도: [%s]",
+          "MX": "Progreso de la Misión actual: [%s]",
+          "RU": "Текущий прогресс миссии: %s",
+          "TC": "目前該任務進度：「%s」",
+          "TH": "ความคืบหน้า​ของ​ภารกิจ​ปัจจุบัน​: [%s]",
+          "VN": "Tiến trình nhiệm vụ hiện tại: [%s]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "c34m3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1,
+        "title": {
+          "BR": "Conclua a missão secundária [Um Sonho de Inverno Envolto em Névoa na Floresta]",
+          "CN": "完成支线任务：雾隐冬梦深林中",
+          "DE": "Schließe die Nebenmission [Ein Wintertraum, tief im Waldesnebel] ab.",
+          "EN": "Complete the side mission [A Winter Dream Fogged Deep in the Woods]",
+          "FR": "Terminer la mission annexe [Rêve d'hiver brumeux au creux des bois]",
+          "ID": "Selesaikan misi sampingan [Mimpi Musim Dingin di Kedalaman Hutan Berkabut]",
+          "IT": "Completa la missione secondaria [Un sogno d'inverno tra le nebbie del bosco]",
+          "JP": "サブ任務：「冬の夢は霧の中に」を完了する",
+          "KR": "서브 임무: 안개에 잠긴 겨울꿈의 숲 완료",
+          "MX": "Completa la misión secundaria [Un sueño invernal cubierto de niebla en lo profundo del bosque]",
+          "RU": "Завершите побочную миссию «Зимний сон в окутанной туманом лесной чаще»",
+          "TC": "完成支線任務：霧隱冬夢深林中",
+          "TH": "ทำ​ภารกิจ​เสริม​ [ฝัน​ฤดูหนาว​ใน​ม่าน​หมอก​กลาง​ป่า​ลึก​] ให้​สำเร็จ",
+          "VN": "Hoàn thành nhiệm vụ phụ [Mộng Đông Trong Sương Rừng]"
+        }
+      },
+      "condition_e11m8_1": {
+        "compareOperator": 3,
+        "conditionId": "condition_e11m8_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "Progresso da missão principal atual: [%s]",
+          "CN": "当前主线任务进度：「%s」",
+          "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+          "EN": "Current main mission progress: [%s]",
+          "FR": "Progression de la mission principale en cours : [%s]",
+          "ID": "Progres misi utama saat ini: [%s]",
+          "IT": "Progressi missione principale attuale: [%s]",
+          "JP": "現在の任務進捗：「%s」",
+          "KR": "현재 메인 임무 진도: [%s]",
+          "MX": "Progreso actual de la misión principal: [%s]",
+          "RU": "Текущий прогресс основной миссии: %s",
+          "TC": "目前主線任務進度：「%s」",
+          "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+          "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "e11m8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1,
+        "title": {
+          "BR": "Conclua a missão principal [Capítulo Ⅱ Processo Ⅶ: A Teimosia Persistente do Sol Poente]",
+          "CN": "完成主线任务：第二章 - 进程VIII - 余晖未却",
+          "DE": "Schließe die Hauptmission [Kapitel II, Prozess VII: Hartnäckig verweilt die untergehende Sonne] ab.",
+          "EN": "Complete the main mission [Chapter Ⅱ Process Ⅶ: Stubbornly Lingers the Setting Sun]",
+          "FR": "Terminer la mission principale [Chapitre II - Processus VII : Le soleil refuse obstinément de se coucher]",
+          "ID": "Selesaikan misi utama [Bab II Proses VII: Matahari Masih Saja Terbenam]",
+          "IT": "Completa la missione principale [Capitolo Ⅱ - Elaborazione Ⅶ: Il sole calante persiste ostinatamente]",
+          "JP": "メイン任務：第二章-プロセスⅧ「薄明、なお消えず」を完了する",
+          "KR": "메인 임무: 2장 - 프로세스 VIII - 지지 않는 노을 완료",
+          "MX": "Completa la misión principal [Capítulo II Proceso VII: El sol poniente se resiste a marchar]",
+          "RU": "Завершите основную миссию: операция VII главы II «Упрямые лучи заходящего солнца»",
+          "TC": "完成主線任務：第二章 - 進度VIII - 餘暉未卻",
+          "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 7: อาทิตย์​อัสดง​มิ​ยอม​ลับ​ลา​] ให้​สำเร็จ",
+          "VN": "Hoàn thành nhiệm vụ chính [Chương II - Tiến Trình VII: Hoàng Hôn Còn Mãi Vấn Vương]"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "condition_e10m5_1": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "condition_e10m5_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Progresso da missão principal atual: [%s]",
+            "CN": "当前主线任务进度：「%s」",
+            "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+            "EN": "Current main mission progress: [%s]",
+            "FR": "Progression de la mission principale en cours : [%s]",
+            "ID": "Progres misi utama saat ini: [%s]",
+            "IT": "Progressi missione principale attuale: [%s]",
+            "JP": "現在の任務進捗：「%s」",
+            "KR": "현재 메인 임무 진도: [%s]",
+            "MX": "Progreso actual de la misión principal: [%s]",
+            "RU": "Прогресс основной миссии: %s",
+            "TC": "目前主線任務進度：「%s」",
+            "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+            "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e10m5"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1,
+          "title": {
+            "BR": "Conclua a missão principal [Capítulo X Processo V: Liberdade de Expansão]",
+            "CN": "完成主线任务：第十章 - 进程V - 自由开拓",
+            "DE": "Schließe die Hauptmission [Kapitel X, Prozess V: Freiheit der Erweiterung] ab.",
+            "EN": "Complete the main mission [Chapter X Process V: Freedom of Expansion]",
+            "FR": "Terminer la mission principale : [Chapitre X - Processus V : Liberté d'extension]",
+            "ID": "Selesaikan misi utama [Bab X Proses V: Kebebasan Perluasan]",
+            "IT": "Completa la missione principale \"Capitolo X - Elaborazione V: Libertà di espansione\".",
+            "JP": "メイン任務：第十章-プロセスⅤ「自由探索」を完了する",
+            "KR": "메인 임무: 10장 - 프로세스 V - 자유 개척 완료",
+            "MX": "Completa la misión principal [Capítulo X Proceso V: Libertad de expansión]",
+            "RU": "Завершите основную миссию: операция V главы X «Свободное расширение»",
+            "TC": "完成主線任務：第十章 - 進度V - 自由開拓",
+            "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 10 องก์​ 5: เสรีภาพ​แห่ง​การสำรวจ​] สำเร็จ",
+            "VN": "Hoàn thành nhiệm vụ chính [Chương X - Tiến Trình V: Tự Do Mở Rộng]"
+          }
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "condition_e10m5_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Progresso da missão principal atual: [%s]",
+            "CN": "当前主线任务进度：「%s」",
+            "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+            "EN": "Current main mission progress: [%s]",
+            "FR": "Progression de la mission principale en cours : [%s]",
+            "ID": "Progres misi utama saat ini: [%s]",
+            "IT": "Progressi missione principale attuale: [%s]",
+            "JP": "現在の任務進捗：「%s」",
+            "KR": "현재 메인 임무 진도: [%s]",
+            "MX": "Progreso actual de la misión principal: [%s]",
+            "RU": "Прогресс основной миссии: %s",
+            "TC": "目前主線任務進度：「%s」",
+            "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+            "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e10m5"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1,
+          "title": {
+            "BR": "Conclua a missão principal [Capítulo II Processo V: Liberdade de Expansão]",
+            "CN": "完成主线任务：第二章 - 进程V - 自由开拓",
+            "DE": "Schließe die Hauptmission [Kapitel II, Prozess V: Freiheit der Erweiterung] ab.",
+            "EN": "Complete the main mission [Chapter Ⅱ Process V: Freedom of Expansion]",
+            "FR": "Terminer la mission principale [Chapitre II - Processus V : Liberté d'extension]",
+            "ID": "Selesaikan misi utama [Bab II Proses V: Kebebasan Perluasan]",
+            "IT": "Completa la missione principale [Capitolo Ⅱ - Elaborazione V: Libertà di espansione]",
+            "JP": "メイン任務：第二章-プロセスⅤ「自由探索」を完了する",
+            "KR": "메인 임무: 2장 - 프로세스 V - 자유 개척 완료",
+            "MX": "Completa la misión principal [Capítulo II Proceso V: Libertad de expansión]",
+            "RU": "Завершите основную миссию: операция V главы II «Свободное расширение»",
+            "TC": "完成主線任務：第二章 - 進度V - 自由開拓",
+            "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 5: เสรีภาพ​แห่ง​การสำรวจ​] ให้​สำเร็จ",
+            "VN": "Hoàn thành nhiệm vụ chính [Chương II - Tiến Trình V: Tự Do Mở Rộng]"
+          }
+        },
+        "changed": {
+          "title": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua a missão principal [Capítulo X Processo V: Liberdade de Expansão]",
+                "newText": "Conclua a missão principal [Capítulo II Processo V: Liberdade de Expansão]"
+              },
+              "CN": {
+                "oldText": "完成主线任务：第十章 - 进程V - 自由开拓",
+                "newText": "完成主线任务：第二章 - 进程V - 自由开拓"
+              },
+              "DE": {
+                "oldText": "Schließe die Hauptmission [Kapitel X, Prozess V: Freiheit der Erweiterung] ab.",
+                "newText": "Schließe die Hauptmission [Kapitel II, Prozess V: Freiheit der Erweiterung] ab."
+              },
+              "EN": {
+                "oldText": "Complete the main mission [Chapter X Process V: Freedom of Expansion]",
+                "newText": "Complete the main mission [Chapter Ⅱ Process V: Freedom of Expansion]"
+              },
+              "FR": {
+                "oldText": "Terminer la mission principale : [Chapitre X - Processus V : Liberté d'extension]",
+                "newText": "Terminer la mission principale [Chapitre II - Processus V : Liberté d'extension]"
+              },
+              "ID": {
+                "oldText": "Selesaikan misi utama [Bab X Proses V: Kebebasan Perluasan]",
+                "newText": "Selesaikan misi utama [Bab II Proses V: Kebebasan Perluasan]"
+              },
+              "IT": {
+                "oldText": "Completa la missione principale \"Capitolo X - Elaborazione V: Libertà di espansione\".",
+                "newText": "Completa la missione principale [Capitolo Ⅱ - Elaborazione V: Libertà di espansione]"
+              },
+              "JP": {
+                "oldText": "メイン任務：第十章-プロセスⅤ「自由探索」を完了する",
+                "newText": "メイン任務：第二章-プロセスⅤ「自由探索」を完了する"
+              },
+              "KR": {
+                "oldText": "메인 임무: 10장 - 프로세스 V - 자유 개척 완료",
+                "newText": "메인 임무: 2장 - 프로세스 V - 자유 개척 완료"
+              },
+              "MX": {
+                "oldText": "Completa la misión principal [Capítulo X Proceso V: Libertad de expansión]",
+                "newText": "Completa la misión principal [Capítulo II Proceso V: Libertad de expansión]"
+              },
+              "RU": {
+                "oldText": "Завершите основную миссию: операция V главы X «Свободное расширение»",
+                "newText": "Завершите основную миссию: операция V главы II «Свободное расширение»"
+              },
+              "TC": {
+                "oldText": "完成主線任務：第十章 - 進度V - 自由開拓",
+                "newText": "完成主線任務：第二章 - 進度V - 自由開拓"
+              },
+              "TH": {
+                "oldText": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 10 องก์​ 5: เสรีภาพ​แห่ง​การสำรวจ​] สำเร็จ",
+                "newText": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 5: เสรีภาพ​แห่ง​การสำรวจ​] ให้​สำเร็จ"
+              },
+              "VN": {
+                "oldText": "Hoàn thành nhiệm vụ chính [Chương X - Tiến Trình V: Tự Do Mở Rộng]",
+                "newText": "Hoàn thành nhiệm vụ chính [Chương II - Tiến Trình V: Tự Do Mở Rộng]"
+              }
+            }
+          }
+        }
+      },
+      "condition_pear_blossom_bonsai_1_1": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "condition_pear_blossom_bonsai_1_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Progresso da missão principal atual: [%s]",
+            "CN": "当前主线任务进度：「%s」",
+            "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+            "EN": "Current main mission progress: [%s]",
+            "FR": "Progression de la mission principale en cours : [%s]",
+            "ID": "Progres misi utama saat ini: [%s]",
+            "IT": "Progressi missione principale attuale: %s",
+            "JP": "現在の任務進捗：「%s」",
+            "KR": "현재 메인 임무 진도: [%s]",
+            "MX": "Progreso actual de la misión principal: [%s]",
+            "RU": "Прогресс основной миссии: %s",
+            "TC": "目前主線任務進度：「%s」",
+            "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+            "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e10m4"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1,
+          "title": {
+            "BR": "Conclua a missão principal [Capítulo X Processo IV: Almas Gêmeas que Compartilham uma Visão]",
+            "CN": "完成主线任务：第十章 - 进程IV - 志同道合",
+            "DE": "Schließe die Hauptmission [Kapitel X, Prozess IV: Verwandte Seelen, die eine Vision teilen] ab.",
+            "EN": "Complete the main mission [Chapter X Process Ⅳ: Kindred Souls Who Share a Vision]",
+            "FR": "Terminer la mission principale : [Chapitre X - Processus IV : Des âmes sœurs, une même vision]",
+            "ID": "Selesaikan misi utama [Bab X Proses IV: Sependapat, Sepemikiran]",
+            "IT": "Completa la missione principale \"Capitolo X - Elaborazione IV: Anime affini con la stessa visione\".",
+            "JP": "メイン任務：第十章-プロセスⅣ「同じ道征く者」を完了する",
+            "KR": "메인 임무: 10장 - 프로세스 IV - 같은 방향을 바라보며 완료",
+            "MX": "Completa la misión principal [Capítulo X Proceso IV: Almas afines que comparten una visión]",
+            "RU": "Завершите основную миссию: операция IV главы X «Родственные души»",
+            "TC": "完成主線任務：第十章 - 進度IV - 志同道合",
+            "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 10 องก์​ 4: วิญญาณ​ที่​ผูกพัน​ ผู้​แบ่งปัน​วิสัยทัศน์​เดียวกัน​] ให้​สำเร็จ",
+            "VN": "Hoàn thành nhiệm vụ chính [Chương X – Tiến Trình Ⅳ: Chung Chí Đồng Tâm]"
+          }
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "condition_pear_blossom_bonsai_1_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Progresso da missão principal atual: [%s]",
+            "CN": "当前主线任务进度：「%s」",
+            "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+            "EN": "Current main mission progress: [%s]",
+            "FR": "Progression de la mission principale en cours : [%s]",
+            "ID": "Progres misi utama saat ini: [%s]",
+            "IT": "Progressi missione principale attuale: %s",
+            "JP": "現在の任務進捗：「%s」",
+            "KR": "현재 메인 임무 진도: [%s]",
+            "MX": "Progreso actual de la misión principal: [%s]",
+            "RU": "Прогресс основной миссии: %s",
+            "TC": "目前主線任務進度：「%s」",
+            "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+            "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e10m4"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1,
+          "title": {
+            "BR": "Conclua a missão principal [Capítulo II Processo IV: Almas Gêmeas que Compartilham uma Visão]",
+            "CN": "完成主线任务：第二章 - 进程IV - 志同道合",
+            "DE": "Schließe die Hauptmission [Kapitel II, Prozess IV: Verwandte Seelen, die eine Vision teilen] ab.",
+            "EN": "Complete the main mission [Chapter Ⅱ Process Ⅳ: Kindred Souls Who Share a Vision]",
+            "FR": "Terminer la mission principale [Chapitre II - Processus IV : Des âmes sœurs, une même vision]",
+            "ID": "Selesaikan misi utama [Bab II Proses IV: Sependapat, Sepemikiran]",
+            "IT": "Completa la missione principale [Capitolo Ⅱ - Elaborazione Ⅳ: Anime affini con la stessa visione]",
+            "JP": "メイン任務：第二章-プロセスⅣ「同じ道征く者」を完了する",
+            "KR": "메인 임무: 2장 - 프로세스 IV - 같은 방향을 바라보며 완료",
+            "MX": "Completa la misión principal [Capítulo II Proceso IV: Almas afines que comparten una visión]",
+            "RU": "Завершите основную миссию: операция IV главы II «Родственные души»",
+            "TC": "完成主線任務：第二章 - 進度IV - 志同道合",
+            "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 4: วิญญาณ​ที่​ผูกพัน​ ผู้​แบ่งปัน​วิสัยทัศน์​เดียวกัน​] ให้​สำเร็จ",
+            "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅱ - Tiến Trình IV: Chung Chí Đồng Tâm]"
+          }
+        },
+        "changed": {
+          "title": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua a missão principal [Capítulo X Processo IV: Almas Gêmeas que Compartilham uma Visão]",
+                "newText": "Conclua a missão principal [Capítulo II Processo IV: Almas Gêmeas que Compartilham uma Visão]"
+              },
+              "CN": {
+                "oldText": "完成主线任务：第十章 - 进程IV - 志同道合",
+                "newText": "完成主线任务：第二章 - 进程IV - 志同道合"
+              },
+              "DE": {
+                "oldText": "Schließe die Hauptmission [Kapitel X, Prozess IV: Verwandte Seelen, die eine Vision teilen] ab.",
+                "newText": "Schließe die Hauptmission [Kapitel II, Prozess IV: Verwandte Seelen, die eine Vision teilen] ab."
+              },
+              "EN": {
+                "oldText": "Complete the main mission [Chapter X Process Ⅳ: Kindred Souls Who Share a Vision]",
+                "newText": "Complete the main mission [Chapter Ⅱ Process Ⅳ: Kindred Souls Who Share a Vision]"
+              },
+              "FR": {
+                "oldText": "Terminer la mission principale : [Chapitre X - Processus IV : Des âmes sœurs, une même vision]",
+                "newText": "Terminer la mission principale [Chapitre II - Processus IV : Des âmes sœurs, une même vision]"
+              },
+              "ID": {
+                "oldText": "Selesaikan misi utama [Bab X Proses IV: Sependapat, Sepemikiran]",
+                "newText": "Selesaikan misi utama [Bab II Proses IV: Sependapat, Sepemikiran]"
+              },
+              "IT": {
+                "oldText": "Completa la missione principale \"Capitolo X - Elaborazione IV: Anime affini con la stessa visione\".",
+                "newText": "Completa la missione principale [Capitolo Ⅱ - Elaborazione Ⅳ: Anime affini con la stessa visione]"
+              },
+              "JP": {
+                "oldText": "メイン任務：第十章-プロセスⅣ「同じ道征く者」を完了する",
+                "newText": "メイン任務：第二章-プロセスⅣ「同じ道征く者」を完了する"
+              },
+              "KR": {
+                "oldText": "메인 임무: 10장 - 프로세스 IV - 같은 방향을 바라보며 완료",
+                "newText": "메인 임무: 2장 - 프로세스 IV - 같은 방향을 바라보며 완료"
+              },
+              "MX": {
+                "oldText": "Completa la misión principal [Capítulo X Proceso IV: Almas afines que comparten una visión]",
+                "newText": "Completa la misión principal [Capítulo II Proceso IV: Almas afines que comparten una visión]"
+              },
+              "RU": {
+                "oldText": "Завершите основную миссию: операция IV главы X «Родственные души»",
+                "newText": "Завершите основную миссию: операция IV главы II «Родственные души»"
+              },
+              "TC": {
+                "oldText": "完成主線任務：第十章 - 進度IV - 志同道合",
+                "newText": "完成主線任務：第二章 - 進度IV - 志同道合"
+              },
+              "TH": {
+                "oldText": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 10 องก์​ 4: วิญญาณ​ที่​ผูกพัน​ ผู้​แบ่งปัน​วิสัยทัศน์​เดียวกัน​] ให้​สำเร็จ",
+                "newText": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 4: วิญญาณ​ที่​ผูกพัน​ ผู้​แบ่งปัน​วิสัยทัศน์​เดียวกัน​] ให้​สำเร็จ"
+              },
+              "VN": {
+                "oldText": "Hoàn thành nhiệm vụ chính [Chương X – Tiến Trình Ⅳ: Chung Chí Đồng Tâm]",
+                "newText": "Hoàn thành nhiệm vụ chính [Chương Ⅱ - Tiến Trình IV: Chung Chí Đồng Tâm]"
+              }
+            }
+          }
+        }
+      },
+      "condition_e5m1_1": {
+        "oldValue": {
+          "compareOperator": 3,
+          "conditionId": "condition_e5m1_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Progresso da missão principal atual: [%s]",
+            "CN": "当前主线任务进度：「%s」",
+            "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+            "EN": "Current main mission progress: [%s]",
+            "FR": "Progression de la mission principale en cours : [%s]",
+            "ID": "Progres misi utama saat ini: [%s]",
+            "IT": "Progressi missione principale attuale: [%s]",
+            "JP": "現在の任務進捗：「%s」",
+            "KR": "현재 메인 임무 진도: [%s]",
+            "MX": "Progreso actual de la misión principal: [%s]",
+            "RU": "Прогресс основной миссии: %s",
+            "TC": "目前主線任務進度：「%s」",
+            "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+            "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e5m1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1,
+          "title": {
+            "BR": "Conclua a missão principal [Capítulo V Processo I: Chegada em Wuling]",
+            "CN": "完成主线任务：第五章 - 进程I - 初探武陵",
+            "DE": "Schließe die Hauptmission [Kapitel V, Prozess I: Ankunft in Wuling] ab.",
+            "EN": "Complete the main mission [Chapter V Process Ⅰ: Arrival at Wuling]",
+            "FR": "Terminer la mission principale [Chapitre V - Processus Ⅰ : Arrivée à Wuling]",
+            "ID": "Selesaikan misi utama [Bab V Proses I: Tiba di Wuling]",
+            "IT": "Completa la missione principale \"Capitolo V - Elaborazione I: Arrivo a Wuling\".",
+            "JP": "メイン任務：第五章-プロセスⅠ「武陵到着」を完了する",
+            "KR": "메인 임무: 5장 - 프로세스 I - 무릉 첫 방문 완료",
+            "MX": "Completa la misión principal [Capítulo V Proceso I: Llegada a Wuling]",
+            "RU": "Завершите основную миссию: операция I главы V «Прибытие в Улин»",
+            "TC": "完成主線任務：第五章 - 進度I - 初探武陵",
+            "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 5 องก์​ 1: การ​มาถึง​อู่​หลิง​] สำเร็จ",
+            "VN": "Hoàn thành nhiệm vụ chính [Chương V - Tiến Trình I: Đến Võ Lăng]"
+          }
+        },
+        "newValue": {
+          "compareOperator": 3,
+          "conditionId": "condition_e5m1_1",
+          "conditionType": 19,
+          "desc": {
+            "BR": "Progresso da missão principal atual: [%s]",
+            "CN": "当前主线任务进度：「%s」",
+            "DE": "Aktueller Hauptmissionsfortschritt: [%s]",
+            "EN": "Current main mission progress: [%s]",
+            "FR": "Progression de la mission principale en cours : [%s]",
+            "ID": "Progres misi utama saat ini: [%s]",
+            "IT": "Progressi missione principale attuale: [%s]",
+            "JP": "現在の任務進捗：「%s」",
+            "KR": "현재 메인 임무 진도: [%s]",
+            "MX": "Progreso actual de la misión principal: [%s]",
+            "RU": "Прогресс основной миссии: %s",
+            "TC": "目前主線任務進度：「%s」",
+            "TH": "ความคืบหน้า​ของ​ภารกิจ​หลัก​ใน​ปัจจุบัน​: [%s]",
+            "VN": "Tiến độ nhiệm vụ chính hiện tại: [%s]"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": null,
+              "valueIntList": null,
+              "valueStringList": [
+                "e5m1"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0
+              ],
+              "valueIntList": [
+                0
+              ],
+              "valueStringList": [
+                "0"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "progressToCompare": 1,
+          "title": {
+            "BR": "Conclua a missão principal [Capítulo Ⅱ Processo I: Chegada em Wuling]",
+            "CN": "完成主线任务：第二章 - 进程I - 初探武陵",
+            "DE": "Schließe die Hauptmission [Kapitel II, Prozess I: Ankunft in Wuling] ab.",
+            "EN": "Complete the main mission [Chapter Ⅱ Process Ⅰ: Arrival at Wuling]",
+            "FR": "Terminer la mission principale [Chapitre II - Processus I : Arrivée à Wuling]",
+            "ID": "Selesaikan misi utama [Bab II Proses I: Tiba di Wuling]",
+            "IT": "Completa la missione principale [Capitolo Ⅱ - Elaborazione Ⅰ: Arrivo a Wuling]",
+            "JP": "メイン任務：第二章-プロセスⅠ「武陵到着」を完了する",
+            "KR": "메인 임무: 2장 - 프로세스 I - 무릉 첫 방문 완료",
+            "MX": "Completa la misión principal [Capítulo II Proceso I: Llegada a Wuling]",
+            "RU": "Завершите основную миссию: операция I главы II «Прибытие в Улин»",
+            "TC": "完成主線任務：第二章 - 進度I - 初探武陵",
+            "TH": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 1: มาถึง​อู่​หลิง​] ให้​สำเร็จ",
+            "VN": "Hoàn thành nhiệm vụ chính [Chương Ⅱ - Tiến Trình I: Đến Võ Lăng]"
+          }
+        },
+        "changed": {
+          "title": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Conclua a missão principal [Capítulo V Processo I: Chegada em Wuling]",
+                "newText": "Conclua a missão principal [Capítulo Ⅱ Processo I: Chegada em Wuling]"
+              },
+              "CN": {
+                "oldText": "完成主线任务：第五章 - 进程I - 初探武陵",
+                "newText": "完成主线任务：第二章 - 进程I - 初探武陵"
+              },
+              "DE": {
+                "oldText": "Schließe die Hauptmission [Kapitel V, Prozess I: Ankunft in Wuling] ab.",
+                "newText": "Schließe die Hauptmission [Kapitel II, Prozess I: Ankunft in Wuling] ab."
+              },
+              "EN": {
+                "oldText": "Complete the main mission [Chapter V Process Ⅰ: Arrival at Wuling]",
+                "newText": "Complete the main mission [Chapter Ⅱ Process Ⅰ: Arrival at Wuling]"
+              },
+              "FR": {
+                "oldText": "Terminer la mission principale [Chapitre V - Processus Ⅰ : Arrivée à Wuling]",
+                "newText": "Terminer la mission principale [Chapitre II - Processus I : Arrivée à Wuling]"
+              },
+              "ID": {
+                "oldText": "Selesaikan misi utama [Bab V Proses I: Tiba di Wuling]",
+                "newText": "Selesaikan misi utama [Bab II Proses I: Tiba di Wuling]"
+              },
+              "IT": {
+                "oldText": "Completa la missione principale \"Capitolo V - Elaborazione I: Arrivo a Wuling\".",
+                "newText": "Completa la missione principale [Capitolo Ⅱ - Elaborazione Ⅰ: Arrivo a Wuling]"
+              },
+              "JP": {
+                "oldText": "メイン任務：第五章-プロセスⅠ「武陵到着」を完了する",
+                "newText": "メイン任務：第二章-プロセスⅠ「武陵到着」を完了する"
+              },
+              "KR": {
+                "oldText": "메인 임무: 5장 - 프로세스 I - 무릉 첫 방문 완료",
+                "newText": "메인 임무: 2장 - 프로세스 I - 무릉 첫 방문 완료"
+              },
+              "MX": {
+                "oldText": "Completa la misión principal [Capítulo V Proceso I: Llegada a Wuling]",
+                "newText": "Completa la misión principal [Capítulo II Proceso I: Llegada a Wuling]"
+              },
+              "RU": {
+                "oldText": "Завершите основную миссию: операция I главы V «Прибытие в Улин»",
+                "newText": "Завершите основную миссию: операция I главы II «Прибытие в Улин»"
+              },
+              "TC": {
+                "oldText": "完成主線任務：第五章 - 進度I - 初探武陵",
+                "newText": "完成主線任務：第二章 - 進度I - 初探武陵"
+              },
+              "TH": {
+                "oldText": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 5 องก์​ 1: การ​มาถึง​อู่​หลิง​] สำเร็จ",
+                "newText": "ทำ​ภารกิจ​หลัก​ [บท​ที่​ 2 องก์​ 1: มาถึง​อู่​หลิง​] ให้​สำเร็จ"
+              },
+              "VN": {
+                "oldText": "Hoàn thành nhiệm vụ chính [Chương V - Tiến Trình I: Đến Võ Lăng]",
+                "newText": "Hoàn thành nhiệm vụ chính [Chương Ⅱ - Tiến Trình I: Đến Võ Lăng]"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

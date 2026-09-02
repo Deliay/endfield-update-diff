@@ -1,0 +1,1867 @@
+{
+  "tableName": "GachaCharPoolTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 13
+  },
+  "entries": {
+    "added": {
+      "rerun_chr_yvonne": {
+        "bonusRewardIdEveryPull": "",
+        "color": "FF319F",
+        "cumulativeRewardIds": [],
+        "gachaPoolVersion": 1,
+        "id": "rerun_chr_yvonne",
+        "intervalAutoRewardIds": [
+          "reward_charpotentialup_chr_0017_yvonne"
+        ],
+        "mailBannerImage": "gachapool_mail_banner_v1d0_02",
+        "name": {
+          "BR": "Espectro Resplandecente",
+          "CN": "绚丽异彩",
+          "DE": "Strahlendes Spektrum",
+          "EN": "Resplendent Spectrum",
+          "FR": "Spectre resplendissant",
+          "ID": "Spektrum Cerah",
+          "IT": "Spettro radioso",
+          "JP": "超爆盛れカラフル",
+          "KR": "찬란한 색채",
+          "MX": "Espectro resplandeciente",
+          "RU": "Красочный блеск",
+          "TC": "絢麗異彩",
+          "TH": "สเปกตรัม​เจิด​จรัส",
+          "VN": "Sắc Màu Rực Rỡ"
+        },
+        "nameImage": "gachapool_titleicon_1_5_2",
+        "onceRewardId": "",
+        "onceRewardId2": "",
+        "sortId": 9998,
+        "tabGradientColor": "FF319F",
+        "tabImage": "gachapool_type_yvonne",
+        "testimonialRewardItemId": "",
+        "textColor": "FFFFFF",
+        "ticketGachaSingleLt": "",
+        "ticketGachaTenLt": "",
+        "trialActivityJumpId": "",
+        "type": 4,
+        "uiPrefab": "GachaPoolNodeRerun_1_5_2",
+        "upCharIds": [
+          "chr_0017_yvonne"
+        ],
+        "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_B",
+        "videoDesc": {
+          "BR": "Yvonne é uma causadora de DNO que usa seus acertos críticos para aumentar a produção de DNO. Sua habilidade suprema a torna uma poderosa causadora de DNO em um único alvo.",
+          "CN": "伊冯是一名通过暴击造成大量输出的干员。施放终结技后，能获得强力的单体输出能力。",
+          "DE": "Yvonne ist eine SDN-Verursacherin, die kritische Treffer nutzt, um noch mehr SDN auszuteilen. Dank ihrer Ultimativen Fertigkeit ist sie hervorragend im Kampf gegen einzelne Ziele.",
+          "EN": "Yvonne is a DMG dealer who uses her critical hits to increase her DMG output. Her ultimate makes her a powerful single-target DMG dealer.",
+          "FR": "Yvonne utilise ses coups critiques pour infliger plus de DÉG. Son ultime en fait une puissante source de DÉG sur cible unique.",
+          "ID": "Yvonne bisa menimbulkan DMG dengan menggunakan critical hit-nya untuk meningkatkan DMG yang ditimbulkannya. Ultimate-nya membuatnya mampu menimbulkan DMG hebat kepada satu target.",
+          "IT": "Yvonne è un'operatrice offensiva che utilizza i colpi critici per aumentare i danni ingenti. La sua abilità suprema infligge danni devastanti a un singolo bersaglio.",
+          "JP": "イヴォンヌは会心によって高いダメージを与えるオペレーター。必殺技を発動すると、強力な単体攻撃を与えることができる。",
+          "KR": "이본은 치명타를 이용하여 대량의 피해를 주는 오퍼레이터입니다. 궁극기를 사용하면 강력한 단일 공격 능력을 획득할 수 있습니다.",
+          "MX": "Yvonne es una causante de DAÑ y usa sus golpes Críticos para aumentar el DAÑ que inflige. Su máxima la convierte en una poderosa causante de DAÑ contra un solo objetivo.",
+          "RU": "Ивонна наносит высокий УРН за счет критических ударов. Супернавык позволяет ей наносить огромный УРН одной цели.",
+          "TC": "伊馮是一名藉由暴擊造成大量輸出的幹員。施放終結技後，能獲得強力的單體輸出能力。",
+          "TH": "อี​วอน​เป็น​ผู้ทำ​ดา​เม​จ​ที่​เน้น​การ​สร้าง​ DMG จาก​การ​โจมตี​ที่​ติด​คริ​ติค​อล​ อัล​ติ​เมท​จะ​ทำให้​เธอ​กลายเป็น​ผู้ทำ​ DMG แบบ​เป้าหมาย​เดี่ยว​ที่​ทรงพลัง",
+          "VN": "Yvonne là chủ công và chuyên tận dụng tối đa sức mạnh từ các đòn Bạo Kích để gây thêm ST. Tuyệt Kỹ của Yvonne biến cô thành chủ công ST vô cùng uy lực, chuyên nhắm vào một mục tiêu."
+        },
+        "videoPath": "ui_gacha_char_preview_2"
+      },
+      "special_1_5_1": {
+        "bonusRewardIdEveryPull": "",
+        "color": "7078ef",
+        "cumulativeRewardIds": [],
+        "gachaPoolVersion": 0,
+        "id": "special_1_5_1",
+        "intervalAutoRewardIds": [
+          "reward_charpotentialup_chr_0034_typhoea"
+        ],
+        "mailBannerImage": "gachapool_mail_banner_1_5_1",
+        "name": {
+          "BR": "Caçada de Inverno",
+          "CN": "冬猎",
+          "DE": "Winterjagd",
+          "EN": "Winter Hunt",
+          "FR": "Chasse hivernale",
+          "ID": "Perburuan Musim Dingin",
+          "IT": "Caccia invernale",
+          "JP": "冬狩",
+          "KR": "겨울 사냥",
+          "MX": "Cacería invernal",
+          "RU": "Зимняя охота",
+          "TC": "冬獵",
+          "TH": "ไล่​ล่า​กลาง​เหมันต์",
+          "VN": "Cuộc Săn Mùa Đông"
+        },
+        "nameImage": "gachapool_titleicon_1_5_1",
+        "onceRewardId": "",
+        "onceRewardId2": "",
+        "sortId": 4989,
+        "tabGradientColor": "9ba2ff",
+        "tabImage": "gachapool_type_1_5_1",
+        "testimonialRewardItemId": "item_gacha_introletter_1_5_1",
+        "textColor": "FFFFFF",
+        "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_5_1",
+        "ticketGachaTenLt": "",
+        "trialActivityJumpId": "jump_center_activity_char_trial_1_5_1",
+        "type": 0,
+        "uiPrefab": "GachaPoolNodeLimited_1_5_1",
+        "upCharIds": [
+          "chr_0034_typhoea"
+        ],
+        "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_A",
+        "videoDesc": {
+          "BR": "Typhoeus é uma atacante do elemento Natureza. Ela pode disparar várias Flechas de Caça no ar que consomem a Inflição da Natureza do inimigo e causam DNO significativo de Explosão da Natureza. Sua Habilidade Suprema também desfere uma Saraivada de Flechas e recarrega suas Flechas de Caça.",
+          "CN": "提弗洛斯是一名自然属性的突击干员。她擅长通过空中连射猎矢消耗敌人的自然附着，造成大量自然爆发伤害。施放终结技后，还能降下箭雨并获得猎矢。",
+          "DE": "Typhoeus ist eine Frontkämpferin, die das Element Natur nutzt. Sie kann mehrere Jagdpfeile aus der Luft heraus abfeuern, die Natur-Kumulierungen des Gegners verbrauchen und massiven Naturexplosion-SDN verursachen. Ihre Ultimative Fertigkeit entfesselt außerdem einen Pfeilhagel, der ihre Jagdpfeile wieder auffüllt.",
+          "EN": "Typhoeus is a Nature element striker. She can fire multiple Hunting Arrows in mid-air that consume the enemy's Nature Infliction and deal massive Nature Burst DMG. Her Ultimate also unleashes a Hail of Arrows and replenishes her Hunting Arrows.",
+          "FR": "Typhoeus est une attaquante qui manie l'élément naturel. Elle peut tirer plusieurs flèches de chasse à mi-hauteur qui consomment l'altération naturelle de l'ennemi et infligent d'importants DÉG d'explosion naturelle. Son ultime déclenche également une pluie de flèches et recharge ses flèches de chasse.",
+          "ID": "Typhoeus adalah striker berelemen Nature. Dia bisa menembakkan beberapa Panah Berburu di udara yang akan memakai Nature Infliction pada musuh dan menimbulkan Nature Burst DMG yang sangat besar. Ultimate-nya juga akan melepaskan Hail of Arrows dan mengisi kembali Panah Berburu miliknya.",
+          "IT": "Typhoeus è un ariete dell'elemento natura. Può scagliare più Frecce da caccia in volo che consumano l'Afflizione da natura del nemico e infliggono ingenti danni da Esplosione di natura. La sua abilità suprema scatena anche una Raffica di frecce e ricarica le sue Frecce da caccia.",
+          "JP": "ティフォロスは自然属性の突撃オペレーター。空中から猟矢を連射して敵の自然付着を消費し、高い自然爆発ダメージを与えることができる。必殺技を発動すると、矢の雨を降らせ、猟矢を獲得できる。",
+          "KR": "티프로스는 자연 속성의 스트라이커 오퍼레이터입니다. 공중에서 사냥 화살을 연속으로 발사하는 것으로 적의 자연 부착을 소모하는 건 물론, 대량의 자연 폭발 피해를 줄 수 있습니다. 궁극기를 사용하면 화살비를 내리게 만들고 사냥 화살을 획득합니다.",
+          "MX": "Typhoeus es una Atacante de elemento Naturaleza. Puede disparar varias Flechas de caza en el aire que consumen la Imposición de Naturaleza del enemigo e infligen una enorme cantidad de DAÑ de Ráfaga de naturaleza. Su máxima también desata una Lluvia de flechas y repone sus Flechas de caza.",
+          "RU": "Тифея — штурмовик стихии природы. Паря в воздухе, она может выпустить несколько охотничьих стрел, которые поглощают поражение природой врага и наносят огромный УРН от природного взрыва. Ее супернавык обрушивает град стрел и восполняет запас охотничьих стрел.",
+          "TC": "提弗洛斯是一名自然屬性的突擊幹員。她擅長透過空中連射獵矢消耗敵人的自然附著，造成大量自然爆發傷害。施放終結技後，還能降下箭雨並獲得獵矢。",
+          "TH": "ไท​ฟี​อุส​เป็น​ผู้​โจมตี​ธาตุ​ธรรมชาติ​ เธอ​สามารถ​ยิง​ลูกศร​ล่า​เหยื่อ​หลาย​ดอก​กลางอากาศ​เพื่อ​ใช้​บาดแผล​จาก​ธรรมชาติ​ของ​ศัตรู​ และ​ทำ​ DMG ระเบิด​ธรรมชาติ​มหาศาล​ นอกจากนี้​อัล​ติ​เมท​ของ​เธอ​ยัง​ปลดปล่อย​ลูกศร​โปรยปราย​ และ​ฟื้นฟู​ลูกศร​ล่า​เหยื่อ​ของ​เธอ​ด้วย",
+          "VN": "Typhoeus là một đột kích thuộc nguyên tố Tự Nhiên. Cô có thể bắn nhiều Mũi Tên Săn khi ở trên không, tiêu hao Nhiễm Tự Nhiên của kẻ địch và gây lượng lớn ST từ Bùng Nổ Tự Nhiên. Tuyệt Kỹ của cô cũng sẽ tung ra Mưa Tên và bổ sung Mũi Tên Săn."
+        },
+        "videoPath": "ui_gacha_char_preview_1"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "beginner": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "404040",
+          "cumulativeRewardIds": [
+            "reward_case_wpn_selfselect_gacha_beginner"
+          ],
+          "id": "beginner",
+          "intervalAutoRewardIds": [],
+          "mailBannerImage": "",
+          "name": {
+            "BR": "Novos Horizontes",
+            "CN": "启程寻访",
+            "DE": "Neue Horizonte",
+            "EN": "New Horizons",
+            "FR": "Nouveaux horizons",
+            "ID": "Cakrawala Baru",
+            "IT": "Nuovi orizzonti",
+            "JP": "旅立ちスカウト",
+            "KR": "여정의 시작 헤드헌팅",
+            "MX": "Nuevos horizontes",
+            "RU": "Новые горизонты",
+            "TC": "啟程尋訪",
+            "TH": "ขอบฟ้า​ใหม่",
+            "VN": "Chân Trời Mới"
+          },
+          "nameImage": "",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 1,
+          "tabGradientColor": "fff719",
+          "tabImage": "gachapool_type_start",
+          "testimonialRewardItemId": "",
+          "textColor": "fff719",
+          "ticketGachaSingleLt": "",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "",
+          "type": 1,
+          "uiPrefab": "GachaPoolNodeStarter",
+          "upCharIds": [],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "404040",
+          "cumulativeRewardIds": [
+            "reward_case_wpn_selfselect_gacha_beginner"
+          ],
+          "gachaPoolVersion": 0,
+          "id": "beginner",
+          "intervalAutoRewardIds": [],
+          "mailBannerImage": "",
+          "name": {
+            "BR": "Novos Horizontes",
+            "CN": "启程寻访",
+            "DE": "Neue Horizonte",
+            "EN": "New Horizons",
+            "FR": "Nouveaux horizons",
+            "ID": "Cakrawala Baru",
+            "IT": "Nuovi orizzonti",
+            "JP": "旅立ちスカウト",
+            "KR": "여정의 시작 헤드헌팅",
+            "MX": "Nuevos horizontes",
+            "RU": "Новые горизонты",
+            "TC": "啟程尋訪",
+            "TH": "ขอบฟ้า​ใหม่",
+            "VN": "Chân Trời Mới"
+          },
+          "nameImage": "",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 1,
+          "tabGradientColor": "fff719",
+          "tabImage": "gachapool_type_start",
+          "testimonialRewardItemId": "",
+          "textColor": "fff719",
+          "ticketGachaSingleLt": "",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "",
+          "type": 1,
+          "uiPrefab": "GachaPoolNodeStarter",
+          "upCharIds": [],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_3_1": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "ec1865",
+          "cumulativeRewardIds": [],
+          "id": "special_1_3_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0031_mifu"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_3_1",
+          "name": {
+            "BR": "Punhos Sem Remorsos",
+            "CN": "拳出无悔",
+            "DE": "Fäuste ohne Reue",
+            "EN": "Fists of No Regrets",
+            "FR": "Poings sans regrets",
+            "ID": "Tinju Tanpa Sesal",
+            "IT": "Pugni senza rimorsi",
+            "JP": "拳に悔い無し",
+            "KR": "후회 없는 주먹",
+            "MX": "Puños sin arrepentimientos",
+            "RU": "Бой без сожалений",
+            "TC": "拳出無悔",
+            "TH": "กำปั้น​ไม่​หวนคืน",
+            "VN": "Cú Đấm Bất Hận"
+          },
+          "nameImage": "gachapool_titleicon_1_3_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "ec1865",
+          "tabImage": "gachapool_type_1_3_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_3_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_3_1",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_3_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_3_1",
+          "upCharIds": [
+            "chr_0031_mifu"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_A",
+          "videoDesc": {
+            "BR": "Mi Fu é uma guarda Física capaz de aplicar Suscetibilidade Física e Esmagar para causar uma boa quantidade de DNO. Se sua ação de Esmagar consumir acúmulos de Vulnerabilidade suficientes, ela poderá conjurar sua habilidade de batalha novamente para causar um acerto adicional com DNO significativo.",
+            "CN": "弭弗是一名物理属性的近卫干员。她可以对目标施加物理脆弱并造成猛击，打出不俗的伤害。如果猛击消耗了足够的破防层数，她还可以再次发动战技追加高额伤害。",
+            "DE": "Mi Fu ist eine auf physische Fertigkeiten spezialisierte Wächterin, die Gegner mit Physisch-Empfänglichkeit und Zertrümmern belegen kann, um ordentlich SDN auszuteilen. Verbraucht ihr Zertrümmern ausreichend Anfälligkeit-Kumulierungen, kann sie ihre Kampffertigkeit erneut wirken und mit einem zusätzlichen Treffer massiven SDN erzielen.",
+            "EN": "Mi Fu is a Physical guard who can apply Physical Susceptibility and Crush to achieve a good DMG output. If her Crush consumes enough Vulnerability stacks, she can cast her battle skill again to deal an additional hit of massive DMG.",
+            "FR": "Mi Fu est une garde physique capable d'appliquer une sensibilité physique et un Broyage à la cible pour un bon rendement de DÉG. Si le Broyage consomme assez de cumuls de Vulnérabilité, elle peut à nouveau lancer sa compétence de combat pour infliger de lourds DÉG une fois supplémentaire.",
+            "ID": "Mi Fu adalah guard Physical yang bisa mengakibatkan Physical Susceptibility dan Crush untuk menghasilkan output DMG yang besar. Jika Crush darinya memakai cukup banyak tumpukan Vulnerability, dia bisa melancarkan skill tarungnya lagi untuk menimbulkan hantaman DMG yang sangat besar lagi.",
+            "IT": "Mi Fu è una guardia fisica che può applicare Suscettibilità fisica e Distruzione al bersaglio, infliggendo così danni ingenti. Se Distruzione consuma sufficienti accumuli di Vulnerabilità, Mi Fu può usare di nuovo la sua abilità di combattimento per mettere a segno un ulteriore colpo che infligge enormi danni.",
+            "JP": "ミ・フは物理属性の前衛オペレーター。目標に物理脆弱を付与し、猛撃を与えることで、高いダメージを与えられる。猛撃で十分なクラッシュ段階を消費した場合、再度戦技を発動して高い追加ダメージを与えられる。",
+            "KR": "미브는 물리 속성의 가드 오퍼레이터입니다. 적에게 물리 취약을 부여하고 강타 피해로 엄청난 타격을 줄 수 있습니다. 강타 피해로 충분한 방어 불능 스택 수치를 소모하면, 배틀 스킬을 다시 사용해 추가로 큰 피해를 줄 수 있습니다.",
+            "MX": "Mi Fu es una guardia Física que puede aplicar Susceptibilidad física y Triturar para alcanzar una buena producción de DAÑ. Si Triturar consume suficientes acumulaciones de Vulnerabilidad, puede volver a lanzar su habilidad de batalla para infligir un golpe adicional de DAÑ masivo.",
+            "RU": "Ми Фу — страж, наносящий физический урон. Чтобы сильнее поразить врага, она накладывает физическую восприимчивость и разгром. Если разгром поглощает достаточно зарядов уязвимости, Ми Фу может повторно применить боевой навык и нанести огромный УРН дополнительным ударом.",
+            "TC": "弭弗是一名物理屬性的近衛幹員。她可以對目標施加物理脆弱並造成猛擊，打出不俗的傷害。如果猛擊消耗了足夠的破防層數，她還可以再次發動戰技追加高額傷害。",
+            "TH": "หมี่​ฟู่​คือ​ผู้คุ้มกัน​กายภาพ​ที่​สามารถ​ปรับ​ใช้​ความ​อ่อนไหว​ต่อ​การ​โจมตี​ทางกายภาพ​และ​บดขยี้​เพื่อให้​ได้ผล​ลัพธ์​ DMG ที่​ดี​ หาก​ บดขยี้​ ของ​เธอ​สะสม​ ความ​เปราะบาง​ ได้​เพียงพอ​ เธอ​สามารถ​ใช้​ทักษะ​การต่อสู้​ซ้ำ​อีกครั้ง​เพื่อ​โจมตี​เพิ่มเติม​ด้วย​ความเสียหาย​มหาศาล",
+            "VN": "Mi Fu là Vệ Binh hệ Vật Lý có năng lực gây Yếu Hóa Vật Lý lên mục tiêu, sau đó Nghiền để gây ST hiệu quả. Nếu hiệu ứng Nghiền tiêu hao đủ số điểm cộng dồn Trừ Giáp, cô có thể thi triển tiếp KN chiến đấu để bồi thêm một đòn gây ST lớn."
+          },
+          "videoPath": "ui_gacha_char_preview_1"
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "ec1865",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_3_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0031_mifu"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_3_1",
+          "name": {
+            "BR": "Punhos Sem Remorsos",
+            "CN": "拳出无悔",
+            "DE": "Fäuste ohne Reue",
+            "EN": "Fists of No Regrets",
+            "FR": "Poings sans regrets",
+            "ID": "Tinju Tanpa Sesal",
+            "IT": "Pugni senza rimorsi",
+            "JP": "拳に悔い無し",
+            "KR": "후회 없는 주먹",
+            "MX": "Puños sin arrepentimientos",
+            "RU": "Бой без сожалений",
+            "TC": "拳出無悔",
+            "TH": "กำปั้น​ไม่​หวนคืน",
+            "VN": "Cú Đấm Bất Hận"
+          },
+          "nameImage": "gachapool_titleicon_1_3_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4993,
+          "tabGradientColor": "ec1865",
+          "tabImage": "gachapool_type_1_3_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_3_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_3_1",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_3_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_3_1",
+          "upCharIds": [
+            "chr_0031_mifu"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_A",
+          "videoDesc": {
+            "BR": "Mi Fu é uma guarda Física capaz de aplicar Suscetibilidade Física e Esmagar para causar uma boa quantidade de DNO. Se sua ação de Esmagar consumir acúmulos de Vulnerabilidade suficientes, ela poderá conjurar sua habilidade de batalha novamente para causar um acerto adicional com DNO significativo.",
+            "CN": "弭弗是一名物理属性的近卫干员。她可以对目标施加物理脆弱并造成猛击，打出不俗的伤害。如果猛击消耗了足够的破防层数，她还可以再次发动战技追加高额伤害。",
+            "DE": "Mi Fu ist eine auf physische Fertigkeiten spezialisierte Wächterin, die Gegner mit Physisch-Empfänglichkeit und Zertrümmern belegen kann, um ordentlich SDN auszuteilen. Verbraucht ihr Zertrümmern ausreichend Anfälligkeit-Kumulierungen, kann sie ihre Kampffertigkeit erneut wirken und mit einem zusätzlichen Treffer massiven SDN erzielen.",
+            "EN": "Mi Fu is a Physical guard who can apply Physical Susceptibility and Crush to achieve a good DMG output. If her Crush consumes enough Vulnerability stacks, she can cast her battle skill again to deal an additional hit of massive DMG.",
+            "FR": "Mi Fu est une garde physique capable d'appliquer une sensibilité physique et un Broyage à la cible pour un bon rendement de DÉG. Si le Broyage consomme assez de cumuls de Vulnérabilité, elle peut à nouveau lancer sa compétence de combat pour infliger de lourds DÉG une fois supplémentaire.",
+            "ID": "Mi Fu adalah guard Physical yang bisa mengakibatkan Physical Susceptibility dan Crush untuk menghasilkan output DMG yang besar. Jika Crush darinya memakai cukup banyak tumpukan Vulnerability, dia bisa melancarkan skill tarungnya lagi untuk menimbulkan hantaman DMG yang sangat besar lagi.",
+            "IT": "Mi Fu è una guardia fisica che può applicare Suscettibilità fisica e Distruzione al bersaglio, infliggendo così danni ingenti. Se Distruzione consuma sufficienti accumuli di Vulnerabilità, Mi Fu può usare di nuovo la sua abilità di combattimento per mettere a segno un ulteriore colpo che infligge enormi danni.",
+            "JP": "ミ・フは物理属性の前衛オペレーター。目標に物理脆弱を付与し、猛撃を与えることで、高いダメージを与えられる。猛撃で十分なクラッシュ段階を消費した場合、再度戦技を発動して高い追加ダメージを与えられる。",
+            "KR": "미브는 물리 속성의 가드 오퍼레이터입니다. 적에게 물리 취약을 부여하고 강타 피해로 엄청난 타격을 줄 수 있습니다. 강타 피해로 충분한 방어 불능 스택 수치를 소모하면, 배틀 스킬을 다시 사용해 추가로 큰 피해를 줄 수 있습니다.",
+            "MX": "Mi Fu es una guardia Física que puede aplicar Susceptibilidad física y Triturar para alcanzar una buena producción de DAÑ. Si Triturar consume suficientes acumulaciones de Vulnerabilidad, puede volver a lanzar su habilidad de batalla para infligir un golpe adicional de DAÑ masivo.",
+            "RU": "Ми Фу — страж, наносящий физический урон. Чтобы сильнее поразить врага, она накладывает физическую восприимчивость и разгром. Если разгром поглощает достаточно зарядов уязвимости, Ми Фу может повторно применить боевой навык и нанести огромный УРН дополнительным ударом.",
+            "TC": "弭弗是一名物理屬性的近衛幹員。她可以對目標施加物理脆弱並造成猛擊，打出不俗的傷害。如果猛擊消耗了足夠的破防層數，她還可以再次發動戰技追加高額傷害。",
+            "TH": "หมี่​ฟู่​คือ​ผู้คุ้มกัน​กายภาพ​ที่​สามารถ​ปรับ​ใช้​ความ​อ่อนไหว​ต่อ​การ​โจมตี​ทางกายภาพ​และ​บดขยี้​เพื่อให้​ได้ผล​ลัพธ์​ DMG ที่​ดี​ หาก​ บดขยี้​ ของ​เธอ​สะสม​ ความ​เปราะบาง​ ได้​เพียงพอ​ เธอ​สามารถ​ใช้​ทักษะ​การต่อสู้​ซ้ำ​อีกครั้ง​เพื่อ​โจมตี​เพิ่มเติม​ด้วย​ความเสียหาย​มหาศาล",
+            "VN": "Mi Fu là Vệ Binh hệ Vật Lý có năng lực gây Yếu Hóa Vật Lý lên mục tiêu, sau đó Nghiền để gây ST hiệu quả. Nếu hiệu ứng Nghiền tiêu hao đủ số điểm cộng dồn Trừ Giáp, cô có thể thi triển tiếp KN chiến đấu để bồi thêm một đòn gây ST lớn."
+          },
+          "videoPath": "ui_gacha_char_preview_1"
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4993
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "joint_1_2_2": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "reward_ticketgacha_every_pull_1_2_2",
+          "color": "",
+          "cumulativeRewardIds": [],
+          "id": "joint_1_2_2",
+          "intervalAutoRewardIds": [
+            "reward_case_token_selfselect_gahca_1_2_2"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_2_2",
+          "name": {
+            "BR": "Festival do Brilhantismo",
+            "CN": "辉光庆典",
+            "DE": "Feier der Exzellenz",
+            "EN": "Fest of Brilliance",
+            "FR": "Festival de Radiance",
+            "ID": "Festival Kegemilangan",
+            "IT": "Festival della lucentezza",
+            "JP": "輝きの祝典",
+            "KR": "찬란한 빛의 축제",
+            "MX": "Festival del resplandor",
+            "RU": "Сияние славы",
+            "TC": "輝光慶典",
+            "TH": "เทศกาล​เจิด​จรัส",
+            "VN": "Lễ Hội Rực Rỡ"
+          },
+          "nameImage": "gachapool_titleicon_1_2_2",
+          "onceRewardId": "reward_ticketgacha_standard_1_2_2",
+          "onceRewardId2": "reward_case_char_selfselect_gahca_1_2_2",
+          "sortId": 2,
+          "tabGradientColor": "ff4a20",
+          "tabImage": "gachapool_type_1_2_2",
+          "testimonialRewardItemId": "",
+          "textColor": "",
+          "ticketGachaSingleLt": "item_ticketgacha_joint_single_lt_1_2_2",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "",
+          "type": 3,
+          "uiPrefab": "GachaPoolNodeJoint_1_2_2",
+          "upCharIds": [
+            "chr_0016_laevat",
+            "chr_0013_aglina"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "reward_ticketgacha_every_pull_1_2_2",
+          "color": "",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "joint_1_2_2",
+          "intervalAutoRewardIds": [
+            "reward_case_token_selfselect_gahca_1_2_2"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_2_2",
+          "name": {
+            "BR": "Festival do Brilhantismo",
+            "CN": "辉光庆典",
+            "DE": "Feier der Exzellenz",
+            "EN": "Fest of Brilliance",
+            "FR": "Festival de Radiance",
+            "ID": "Festival Kegemilangan",
+            "IT": "Festival della lucentezza",
+            "JP": "輝きの祝典",
+            "KR": "찬란한 빛의 축제",
+            "MX": "Festival del resplandor",
+            "RU": "Сияние славы",
+            "TC": "輝光慶典",
+            "TH": "เทศกาล​เจิด​จรัส",
+            "VN": "Lễ Hội Rực Rỡ"
+          },
+          "nameImage": "gachapool_titleicon_1_2_2",
+          "onceRewardId": "reward_ticketgacha_standard_1_2_2",
+          "onceRewardId2": "reward_case_char_selfselect_gahca_1_2_2",
+          "sortId": 6999,
+          "tabGradientColor": "ff4a20",
+          "tabImage": "gachapool_type_1_2_2",
+          "testimonialRewardItemId": "",
+          "textColor": "",
+          "ticketGachaSingleLt": "item_ticketgacha_joint_single_lt_1_2_2",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "",
+          "type": 3,
+          "uiPrefab": "GachaPoolNodeJoint_1_2_2",
+          "upCharIds": [
+            "chr_0016_laevat",
+            "chr_0013_aglina"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 6999
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_0_1": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "ec0338",
+          "cumulativeRewardIds": [],
+          "id": "special_1_0_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0016_laevat"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_v1d0_01",
+          "name": {
+            "BR": "Cicatrizes da Forja",
+            "CN": "熔火灼痕",
+            "DE": "Narben der Schmiede",
+            "EN": "Scars of the Forge",
+            "FR": "Cicatrices de la forge",
+            "ID": "Goresan Tempa",
+            "IT": "Cicatrici della fucina",
+            "JP": "灼熱焔痕",
+            "KR": "불꽃에 그을린 상흔",
+            "MX": "Cicatrices de la forja",
+            "RU": "Раскаленные шрамы",
+            "TC": "熔火灼痕",
+            "TH": "แผลเป็น​จาก​การหลอม",
+            "VN": "Vết Sẹo Rực Lửa"
+          },
+          "nameImage": "gachapool_titleicon_laevat",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "ec0338",
+          "tabImage": "gachapool_type_laevat",
+          "testimonialRewardItemId": "item_gacha_introletter_1_0_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_0_1",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_0_1",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimitedBase",
+          "upCharIds": [
+            "chr_0016_laevat"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "ec0338",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_0_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0016_laevat"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_v1d0_01",
+          "name": {
+            "BR": "Cicatrizes da Forja",
+            "CN": "熔火灼痕",
+            "DE": "Narben der Schmiede",
+            "EN": "Scars of the Forge",
+            "FR": "Cicatrices de la forge",
+            "ID": "Goresan Tempa",
+            "IT": "Cicatrici della fucina",
+            "JP": "灼熱焔痕",
+            "KR": "불꽃에 그을린 상흔",
+            "MX": "Cicatrices de la forja",
+            "RU": "Раскаленные шрамы",
+            "TC": "熔火灼痕",
+            "TH": "แผลเป็น​จาก​การหลอม",
+            "VN": "Vết Sẹo Rực Lửa"
+          },
+          "nameImage": "gachapool_titleicon_laevat",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4999,
+          "tabGradientColor": "ec0338",
+          "tabImage": "gachapool_type_laevat",
+          "testimonialRewardItemId": "item_gacha_introletter_1_0_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_0_1",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_0_1",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimitedBase",
+          "upCharIds": [
+            "chr_0016_laevat"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4999
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_0_2": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "FF319F",
+          "cumulativeRewardIds": [],
+          "id": "special_1_0_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0017_yvonne"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_v1d0_02",
+          "name": {
+            "BR": "Tons da Paixão",
+            "CN": "热烈色彩",
+            "DE": "Farben der Leidenschaft",
+            "EN": "Hues of Passion",
+            "FR": "Couleurs de la passion",
+            "ID": "Rona Semangat",
+            "IT": "Le sfumature della passione",
+            "JP": "超イケイケカラフル",
+            "KR": "격정의 색채",
+            "MX": "Matices de pasión",
+            "RU": "Оттенки страсти",
+            "TC": "熱烈色彩",
+            "TH": "สี​แห่ง​ความหลง​ใหล",
+            "VN": "Sắc Màu Đam Mê"
+          },
+          "nameImage": "gachapool_titleicon_yvonne",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "FF319F",
+          "tabImage": "gachapool_type_yvonne",
+          "testimonialRewardItemId": "item_gacha_introletter_1_0_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_0_2",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_0_2",
+          "trialActivityJumpId": "jump_center_activity_char_trial_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_chr_0017_yvonne",
+          "upCharIds": [
+            "chr_0017_yvonne"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "FF319F",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_0_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0017_yvonne"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_v1d0_02",
+          "name": {
+            "BR": "Tons da Paixão",
+            "CN": "热烈色彩",
+            "DE": "Farben der Leidenschaft",
+            "EN": "Hues of Passion",
+            "FR": "Couleurs de la passion",
+            "ID": "Rona Semangat",
+            "IT": "Le sfumature della passione",
+            "JP": "超イケイケカラフル",
+            "KR": "격정의 색채",
+            "MX": "Matices de pasión",
+            "RU": "Оттенки страсти",
+            "TC": "熱烈色彩",
+            "TH": "สี​แห่ง​ความหลง​ใหล",
+            "VN": "Sắc Màu Đam Mê"
+          },
+          "nameImage": "gachapool_titleicon_yvonne",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4998,
+          "tabGradientColor": "FF319F",
+          "tabImage": "gachapool_type_yvonne",
+          "testimonialRewardItemId": "item_gacha_introletter_1_0_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_0_2",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_0_2",
+          "trialActivityJumpId": "jump_center_activity_char_trial_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_chr_0017_yvonne",
+          "upCharIds": [
+            "chr_0017_yvonne"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4998
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_2_1": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "7bb512",
+          "cumulativeRewardIds": [],
+          "id": "special_1_2_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0030_zhuangfy"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_2_1",
+          "name": {
+            "BR": "Trovão da Renovação",
+            "CN": "春雷动，万物生",
+            "DE": "Donner der Erneuerung",
+            "EN": "Thunder of Renewal",
+            "FR": "Foudre du renouveau",
+            "ID": "Guntur Pembaharu",
+            "IT": "Tuono del rinnovamento",
+            "JP": "春雷響き、万物芽吹く",
+            "KR": "봄의 천둥, 만물의 소생",
+            "MX": "Trueno de la renovación",
+            "RU": "Гром обновления",
+            "TC": "春雷動，萬物生",
+            "TH": "สายฟ้า​แห่ง​การฟื้น​คืน",
+            "VN": "Tiếng Sấm Phục Sinh"
+          },
+          "nameImage": "gachapool_titleicon_1_2_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "7bb512",
+          "tabImage": "gachapool_type_1_2_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_2_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_2_1",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_2_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_2_1",
+          "upCharIds": [
+            "chr_0030_zhuangfy"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "7bb512",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_2_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0030_zhuangfy"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_2_1",
+          "name": {
+            "BR": "Trovão da Renovação",
+            "CN": "春雷动，万物生",
+            "DE": "Donner der Erneuerung",
+            "EN": "Thunder of Renewal",
+            "FR": "Foudre du renouveau",
+            "ID": "Guntur Pembaharu",
+            "IT": "Tuono del rinnovamento",
+            "JP": "春雷響き、万物芽吹く",
+            "KR": "봄의 천둥, 만물의 소생",
+            "MX": "Trueno de la renovación",
+            "RU": "Гром обновления",
+            "TC": "春雷動，萬物生",
+            "TH": "สายฟ้า​แห่ง​การฟื้น​คืน",
+            "VN": "Tiếng Sấm Phục Sinh"
+          },
+          "nameImage": "gachapool_titleicon_1_2_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4994,
+          "tabGradientColor": "7bb512",
+          "tabImage": "gachapool_type_1_2_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_2_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_2_1",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_2_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_2_1",
+          "upCharIds": [
+            "chr_0030_zhuangfy"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4994
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_0_3": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "f83500",
+          "cumulativeRewardIds": [],
+          "id": "special_1_0_3",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0013_aglina"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_v1d0_03",
+          "name": {
+            "BR": "A Mensageira Flutuante",
+            "CN": "轻飘飘的信使",
+            "DE": "Die schwebende Botin",
+            "EN": "The Floaty Messenger",
+            "FR": "La messagère flottante",
+            "ID": "Kurir Melayang",
+            "IT": "Messaggera eterea",
+            "JP": "ふわふわトランスポーター",
+            "KR": "전달자의 바람",
+            "MX": "La mensajera flotante",
+            "RU": "Летучий гонец",
+            "TC": "輕飄飄的信使",
+            "TH": "ผู้ส่งสาร​ล่องลอย",
+            "VN": "Liên Lạc Viên Bay Bổng"
+          },
+          "nameImage": "gachapool_titleicon_aglina",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "f83500",
+          "tabImage": "gachapool_type_aglina",
+          "testimonialRewardItemId": "item_gacha_introletter_1_0_3",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_0_3",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_0_3",
+          "trialActivityJumpId": "jump_center_activity_char_trial_3",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_chr_0013_aglina",
+          "upCharIds": [
+            "chr_0013_aglina"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "f83500",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_0_3",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0013_aglina"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_v1d0_03",
+          "name": {
+            "BR": "A Mensageira Flutuante",
+            "CN": "轻飘飘的信使",
+            "DE": "Die schwebende Botin",
+            "EN": "The Floaty Messenger",
+            "FR": "La messagère flottante",
+            "ID": "Kurir Melayang",
+            "IT": "Messaggera eterea",
+            "JP": "ふわふわトランスポーター",
+            "KR": "전달자의 바람",
+            "MX": "La mensajera flotante",
+            "RU": "Летучий гонец",
+            "TC": "輕飄飄的信使",
+            "TH": "ผู้ส่งสาร​ล่องลอย",
+            "VN": "Liên Lạc Viên Bay Bổng"
+          },
+          "nameImage": "gachapool_titleicon_aglina",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4997,
+          "tabGradientColor": "f83500",
+          "tabImage": "gachapool_type_aglina",
+          "testimonialRewardItemId": "item_gacha_introletter_1_0_3",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_0_3",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_0_3",
+          "trialActivityJumpId": "jump_center_activity_char_trial_3",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_chr_0013_aglina",
+          "upCharIds": [
+            "chr_0013_aglina"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4997
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_4_1": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "1ae2d2",
+          "cumulativeRewardIds": [],
+          "id": "special_1_4_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0032_lizhiyan"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_4_1",
+          "name": {
+            "BR": "À Beira do Abismo, Eis que Vigia o Norte",
+            "CN": "临渊望北",
+            "DE": "Sehnsucht der Riss-Wächterin nach dem Norden",
+            "EN": "North Yearns the Rift Vigile",
+            "FR": "Face à la faille, regardant vers le nord",
+            "ID": "Penjaga Celah Merindukan Utara",
+            "IT": "Sguardo nostalgico al Nord dall'abisso",
+            "JP": "臨淵望北",
+            "KR": "벼랑 끝, 북쪽을 향한 시선",
+            "MX": "El norte añora a la vigilante de la grieta",
+            "RU": "Притяжение разлома",
+            "TC": "臨淵望北",
+            "TH": "เหนือ​คะนึง​พิทักษ์​ รอยแยก​มิ​เลือน",
+            "VN": "Đứng Canh Khe Nứt Bứt Rứt Nhớ Quê"
+          },
+          "nameImage": "gachapool_titleicon_1_4_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "06d8bd",
+          "tabImage": "gachapool_type_1_4_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_4_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_4_1",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_4_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_4_1",
+          "upCharIds": [
+            "chr_0032_lizhiyan"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_A",
+          "videoDesc": {
+            "BR": "Arcane é uma conjuradora que causa DNO Natureza e tem tipos de habilidades intercambiáveis. Quando o tipo de habilidade Conjunto Arcane: INT está ativo, ela pode conjurar combos de habilidades com mais frequência e causar DNO significativo. Quando o tipo de habilidade Conjunto Arcane: VON está ativo, ela pode usar seu combo de habilidades para aplicar Inflição de Artes de qualquer elemento.",
+            "CN": "诀是一名能够切换技能形态的自然属性术师干员。阵诀·智形态下，她可以高频施放连携技，打出大量伤害。阵诀·意形态下，她可以通过连携技施加任意法术附着。",
+            "DE": "Arkan ist eine Wirkerin, die Natur-SDN verursacht und ihre Fertigkeitsarten wechseln kann. Ist die Fertigkeitsart Säulenreihen-Arkana: INT aktiv, kann sie ihre Kombofertigkeiten häufiger wirken und massiven SDN verursachen. Ist die Fertigkeitsart Säulenreihen-Arkana: WILLE aktiv, kann sie ihre Kombofertigkeit wirken, um Gegner mit Technikkumulierungen jedes Elements zu belegen.",
+            "EN": "Arcane is a caster who deals Nature DMG and has switchable skill types. When Array Arcana: INT skill type is active, she can cast combo skills more frequently and deal massive DMG. When Array Arcana: WILL skill type is active, she can use her combo skill to apply Arts Infliction of any element.",
+            "FR": "Arcane est une magicienne qui inflige des DÉG naturels et peut modifier ses types de compétences. Lorsque Arcane de matrice : INT est active, elle peut utiliser des compétences de combo plus souvent et infliger de lourds DÉG. Lorsque Arcane de matrice : VOL est active, elle peut utiliser sa compétence de combo pour appliquer une altération des Arts de n'importe quel élément.",
+            "ID": "Arcane adalah caster yang bisa menimbulkan Nature DMG dan punya tipe skill yang bisa diubah. Saat tipe skill Array Arcana: INT aktif, dia bisa melancarkan skill kombo lebih sering dan menimbulkan DMG sangat besar. Saat tipe skill Array Arcana: WILL aktif, dia bisa menggunakan skill kombo untuk mengakibatkan Arts Infliction dari elemen apa pun.",
+            "IT": "Arcana è un'artista che infligge danni da natura e dispone di tipi di abilità intercambiabili. Quando il tipo di abilità Schiera di Arcana: INT è attivo, può usare le abilità combo con maggiore frequenza e infliggere danni ingenti. Quando il tipo di abilità Schiera di Arcana: VOL è attivo, può usare l'abilità combo per applicare Afflizione da Arti di qualsiasi elemento.",
+            "JP": "オクギはスキルを切り替えられる自然属性の術師オペレーター。陣訣・知では、連携技を高頻度で発動し、高いダメージを与えられる。陣訣・意では、連携技によって任意のアーツ付着を付与することができる。",
+            "KR": "결은 스킬 형태를 전환할 수 있는 자연 속성의 캐스터 오퍼레이터입니다. 진결 · 지혜 형태에서는 연계 스킬을 높은 빈도로 사용하여 대량의 피해를 줄 수 있고, 진결 · 의지 형태에서는 연계 스킬을 통해 임의의 아츠 부착 상태를 부여할 수 있습니다.",
+            "MX": "Arcane es una hechicera que inflige DAÑ por naturaleza y cuenta con tipos de habilidad intercambiables. Cuando el tipo de habilidad Arcano de matriz: INT está activo, puede lanzar habilidades de combo con mayor frecuencia e infligir DAÑ masivo. Cuando el tipo de habilidad Arcano de matriz: VOL está activo, puede usar su habilidad de combo para aplicar Imposición de artes de cualquier elemento.",
+            "RU": "Премудрость — заклинатель, наносящий природный УРН и способный менять типы своих навыков. Когда активен тип навыка «Аркана построения: ИНТ», она может чаще применять комбонавыки и наносить огромный УРН. Когда активен тип навыка «Аркана построения: ВОЛЯ», она может применить комбонавык, чтобы наложить поражение искусствами любой стихии.",
+            "TC": "訣是一名能夠切換技能形態的自然屬性術師幹員。陣訣·智形態下，她可以高頻施放連攜技，打出大量傷害。陣訣·意形態下，她可以透過連攜技施加任意法術附著。",
+            "TH": "ปริศนา​เป็น​จอม​เวท​ที่​สร้าง​ DMG ธรรมชาติ​และ​มี​ทักษะ​ประเภท​ต่า​งๆ​ ที่​สลับ​ใช้งาน​ได้​ เมื่อ​ประเภท​ทักษะ​แนว​เสา​เวท​: INT ทำงาน​อยู่​ เธอ​สามารถ​ใช้​ทักษะ​คอม​โบ​ได้​บ่อย​ขึ้น​และ​สร้าง​ DMG มหาศาล​ เมื่อ​ประเภท​ทักษะ​แนว​เสา​เวท​: WILL ทำงาน​อยู่​ เธอ​สามารถ​ใช้​ทักษะ​คอม​โบ​เพื่อ​สร้าง​สถานะ​เวท​ธาตุ​ใด​ก็ได้",
+            "VN": "Arcane là một pháp sư có khả năng gây ST Tự Nhiên và có thể chuyển đổi loại kỹ năng. Khi loại kỹ năng Trận Huyền Thuật: TRÍ TUỆ đang kích hoạt, cô có thể tung KN liên hoàn thường xuyên hơn và gây lượng ST lớn. Khi loại kỹ năng Trận Huyền Thuật: Ý CHÍ đang kích hoạt, cô có thể dùng KN liên hoàn để áp dụng Nhiễm Thuật Pháp thuộc bất kỳ nguyên tố nào."
+          },
+          "videoPath": "ui_gacha_char_preview_1"
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "1ae2d2",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_4_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0032_lizhiyan"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_4_1",
+          "name": {
+            "BR": "À Beira do Abismo, Eis que Vigia o Norte",
+            "CN": "临渊望北",
+            "DE": "Sehnsucht der Riss-Wächterin nach dem Norden",
+            "EN": "North Yearns the Rift Vigile",
+            "FR": "Face à la faille, regardant vers le nord",
+            "ID": "Penjaga Celah Merindukan Utara",
+            "IT": "Sguardo nostalgico al Nord dall'abisso",
+            "JP": "臨淵望北",
+            "KR": "벼랑 끝, 북쪽을 향한 시선",
+            "MX": "El norte añora a la vigilante de la grieta",
+            "RU": "Притяжение разлома",
+            "TC": "臨淵望北",
+            "TH": "เหนือ​คะนึง​พิทักษ์​ รอยแยก​มิ​เลือน",
+            "VN": "Đứng Canh Khe Nứt Bứt Rứt Nhớ Quê"
+          },
+          "nameImage": "gachapool_titleicon_1_4_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4991,
+          "tabGradientColor": "06d8bd",
+          "tabImage": "gachapool_type_1_4_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_4_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_4_1",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_4_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_4_1",
+          "upCharIds": [
+            "chr_0032_lizhiyan"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_A",
+          "videoDesc": {
+            "BR": "Arcane é uma conjuradora que causa DNO Natureza e tem tipos de habilidades intercambiáveis. Quando o tipo de habilidade Conjunto Arcane: INT está ativo, ela pode conjurar combos de habilidades com mais frequência e causar DNO significativo. Quando o tipo de habilidade Conjunto Arcane: VON está ativo, ela pode usar seu combo de habilidades para aplicar Inflição de Artes de qualquer elemento.",
+            "CN": "诀是一名能够切换技能形态的自然属性术师干员。阵诀·智形态下，她可以高频施放连携技，打出大量伤害。阵诀·意形态下，她可以通过连携技施加任意法术附着。",
+            "DE": "Arkan ist eine Wirkerin, die Natur-SDN verursacht und ihre Fertigkeitsarten wechseln kann. Ist die Fertigkeitsart Säulenreihen-Arkana: INT aktiv, kann sie ihre Kombofertigkeiten häufiger wirken und massiven SDN verursachen. Ist die Fertigkeitsart Säulenreihen-Arkana: WILLE aktiv, kann sie ihre Kombofertigkeit wirken, um Gegner mit Technikkumulierungen jedes Elements zu belegen.",
+            "EN": "Arcane is a caster who deals Nature DMG and has switchable skill types. When Array Arcana: INT skill type is active, she can cast combo skills more frequently and deal massive DMG. When Array Arcana: WILL skill type is active, she can use her combo skill to apply Arts Infliction of any element.",
+            "FR": "Arcane est une magicienne qui inflige des DÉG naturels et peut modifier ses types de compétences. Lorsque Arcane de matrice : INT est active, elle peut utiliser des compétences de combo plus souvent et infliger de lourds DÉG. Lorsque Arcane de matrice : VOL est active, elle peut utiliser sa compétence de combo pour appliquer une altération des Arts de n'importe quel élément.",
+            "ID": "Arcane adalah caster yang bisa menimbulkan Nature DMG dan punya tipe skill yang bisa diubah. Saat tipe skill Array Arcana: INT aktif, dia bisa melancarkan skill kombo lebih sering dan menimbulkan DMG sangat besar. Saat tipe skill Array Arcana: WILL aktif, dia bisa menggunakan skill kombo untuk mengakibatkan Arts Infliction dari elemen apa pun.",
+            "IT": "Arcana è un'artista che infligge danni da natura e dispone di tipi di abilità intercambiabili. Quando il tipo di abilità Schiera di Arcana: INT è attivo, può usare le abilità combo con maggiore frequenza e infliggere danni ingenti. Quando il tipo di abilità Schiera di Arcana: VOL è attivo, può usare l'abilità combo per applicare Afflizione da Arti di qualsiasi elemento.",
+            "JP": "オクギはスキル形態を切り替えられる自然属性の術師オペレーター。陣訣・知では、連携技を高頻度で発動し、高いダメージを与えられる。陣訣・意では、連携技によって任意のアーツ付着を付与することができる。",
+            "KR": "결은 스킬 형태를 전환할 수 있는 자연 속성의 캐스터 오퍼레이터입니다. 진결 · 지혜 형태에서는 연계 스킬을 높은 빈도로 사용하여 대량의 피해를 줄 수 있고, 진결 · 의지 형태에서는 연계 스킬을 통해 임의의 아츠 부착 상태를 부여할 수 있습니다.",
+            "MX": "Arcane es una hechicera que inflige DAÑ por naturaleza y cuenta con tipos de habilidad intercambiables. Cuando el tipo de habilidad Arcano de matriz: INT está activo, puede lanzar habilidades de combo con mayor frecuencia e infligir DAÑ masivo. Cuando el tipo de habilidad Arcano de matriz: VOL está activo, puede usar su habilidad de combo para aplicar Imposición de artes de cualquier elemento.",
+            "RU": "Премудрость — заклинатель, наносящий природный УРН и способный менять типы своих навыков. Когда активен тип навыка «Аркана построения: ИНТ», она может чаще применять комбонавыки и наносить огромный УРН. Когда активен тип навыка «Аркана построения: ВОЛЯ», она может применить комбонавык, чтобы наложить поражение искусствами любой стихии.",
+            "TC": "訣是一名能夠切換技能形態的自然屬性術師幹員。陣訣·智形態下，她可以高頻施放連攜技，打出大量傷害。陣訣·意形態下，她可以透過連攜技施加任意法術附著。",
+            "TH": "ปริศนา​เป็น​จอม​เวท​ที่​สร้าง​ DMG ธรรมชาติ​และ​มี​ทักษะ​ประเภท​ต่า​งๆ​ ที่​สลับ​ใช้งาน​ได้​ เมื่อ​ประเภท​ทักษะ​แนว​เสา​เวท​: INT ทำงาน​อยู่​ เธอ​สามารถ​ใช้​ทักษะ​คอม​โบ​ได้​บ่อย​ขึ้น​และ​สร้าง​ DMG มหาศาล​ เมื่อ​ประเภท​ทักษะ​แนว​เสา​เวท​: WILL ทำงาน​อยู่​ เธอ​สามารถ​ใช้​ทักษะ​คอม​โบ​เพื่อ​สร้าง​สถานะ​เวท​ธาตุ​ใด​ก็ได้",
+            "VN": "Arcane là một pháp sư có khả năng gây ST Tự Nhiên và có thể chuyển đổi loại kỹ năng. Khi loại kỹ năng Trận Huyền Thuật: TRÍ TUỆ đang kích hoạt, cô có thể tung KN liên hoàn thường xuyên hơn và gây lượng ST lớn. Khi loại kỹ năng Trận Huyền Thuật: Ý CHÍ đang kích hoạt, cô có thể dùng KN liên hoàn để áp dụng Nhiễm Thuật Pháp thuộc bất kỳ nguyên tố nào."
+          },
+          "videoPath": "ui_gacha_char_preview_1"
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4991
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_1_1": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "f83500",
+          "cumulativeRewardIds": [],
+          "id": "special_1_1_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0027_tangtang"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_1_1",
+          "name": {
+            "BR": "Filha do Rio",
+            "CN": "河流的女儿",
+            "DE": "Tochter des Flusses",
+            "EN": "River's Daughter",
+            "FR": "Fille de la rivière",
+            "ID": "Putri Sungai",
+            "IT": "Figlia del fiume",
+            "JP": "水の申し子",
+            "KR": "강에서 태어난 소녀",
+            "MX": "Hija del río",
+            "RU": "Дочь рек",
+            "TC": "河流的女兒",
+            "TH": "ธิดา​แห่ง​สายน้ำ",
+            "VN": "Con Gái Của Dòng Sông"
+          },
+          "nameImage": "gachapool_titleicon_1_1_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "047ff2",
+          "tabImage": "gachapool_type_1_1_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_1_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_1_1",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_1_1",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_1_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_1_1",
+          "upCharIds": [
+            "chr_0027_tangtang"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "f83500",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_1_1",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0027_tangtang"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_1_1",
+          "name": {
+            "BR": "Filha do Rio",
+            "CN": "河流的女儿",
+            "DE": "Tochter des Flusses",
+            "EN": "River's Daughter",
+            "FR": "Fille de la rivière",
+            "ID": "Putri Sungai",
+            "IT": "Figlia del fiume",
+            "JP": "水の申し子",
+            "KR": "강에서 태어난 소녀",
+            "MX": "Hija del río",
+            "RU": "Дочь рек",
+            "TC": "河流的女兒",
+            "TH": "ธิดา​แห่ง​สายน้ำ",
+            "VN": "Con Gái Của Dòng Sông"
+          },
+          "nameImage": "gachapool_titleicon_1_1_1",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4996,
+          "tabGradientColor": "047ff2",
+          "tabImage": "gachapool_type_1_1_1",
+          "testimonialRewardItemId": "item_gacha_introletter_1_1_1",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_1_1",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_1_1",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_1_1",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_1_1",
+          "upCharIds": [
+            "chr_0027_tangtang"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4996
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_3_2": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "c40037",
+          "cumulativeRewardIds": [],
+          "id": "special_1_3_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0033_camille"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_3_2",
+          "name": {
+            "BR": "Expurgador de Pecados",
+            "CN": "逐罪者",
+            "DE": "Sündentilger",
+            "EN": "Expunger of Sin",
+            "FR": "Effaceur de péché",
+            "ID": "Pembasuh Dosa",
+            "IT": "Cancellare il peccato",
+            "JP": "咎の番人",
+            "KR": "죄를 쫓는 자",
+            "MX": "Expiador de pecados",
+            "RU": "Очищение от греха",
+            "TC": "逐罪者",
+            "TH": "ผู้​ล้างบาป",
+            "VN": "Đấng Xá Tội"
+          },
+          "nameImage": "gachapool_titleicon_1_3_2",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "c40037",
+          "tabImage": "gachapool_type_1_3_2",
+          "testimonialRewardItemId": "item_gacha_introletter_1_3_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_3_2",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_3_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_3_2",
+          "upCharIds": [
+            "chr_0033_camille"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_B",
+          "videoDesc": {
+            "BR": "Camille é um vanguarda do elemento Térmico. Ele pode invocar Vesperferas Presas de Fogo para aplicar Inflição Térmica, Enfraquecer e Suscetibilidade Térmica aos inimigos e usar seus combo de habilidades e habilidade suprema para restaurar uma grande quantidade de PH.",
+            "CN": "卡缪是一名灼热属性的先锋干员，他可以通过召唤衔火血翼对敌人施加灼热附着、虚弱和灼热脆弱，还能通过连携技和终结技恢复大量技力。",
+            "DE": "Camille ist eine Vorhut mit dem Element der Hitze. Er kann Feuerzahn-Vesperflügel beschwören, um Gegner mit Hitze, Schwächen und Hitze-Empfänglichkeit zu belegen. Mit seiner Kombofertigkeit und Ultimativen Fertigkeit kann er außerdem eine Menge FP wiederherstellen.",
+            "EN": "Camille is a Heat element vanguard. He can summon Firefang Vesperwings to apply Heat Infliction, Weaken, and Heat Susceptibility on enemies, and use his combo skill and ultimate to restore lots of SP.",
+            "FR": "Camille est un combattant d'avant-garde de l'élément thermique. Il peut invoquer Ailes vespérales de feu pour appliquer une altération thermique, une faiblesse et une sensibilité thermique aux ennemis, et utiliser sa compétence de combo et son ultime pour restaurer une grande quantité de PC.",
+            "ID": "Camille adalah vanguard berelemen Heat. Dia bisa memanggil Firefang Vesperwing untuk mengakibatkan Heat Infliction, Weaken, dan Heat Susceptibility kepada musuh, serta menggunakan skill kombo dan ultimate-nya untuk memulihkan banyak SP.",
+            "IT": "Camille è un'avanguardia dell'elemento fuoco. Può evocare vesprivoli zannafuoco per applicare Afflizione da fuoco, Indebolimento e Suscettibilità al fuoco sui nemici e utilizza le sue abilità combo e suprema per ripristinare grandi quantità di PA.",
+            "JP": "カミーユは灼熱属性の先鋒オペレーター。燃える血の翼を召喚することで、敵に灼熱付着、弱体化、灼熱脆弱を付与できる。さらに連携技および必殺技で戦技ポイントを大量に回復できる。",
+            "KR": "카뮤는 열기 속성의 뱅가드 오퍼레이터입니다. 타오르는 핏빛 날개를 소환해 적에게 열기 부착, 허약, 열기 취약을 부여할 수 있으며, 연계 스킬과 궁극기를 통해 대량의 스킬 게이지를 회복할 수 있습니다.",
+            "MX": "Camille es un vanguardia del elemento Calor. Puede invocar Vesperalas de colmillo ígneo para aplicar Imposición de calor, Debilitar y Susceptibilidad al calor a los enemigos, y usar su habilidad de combo y máxima para restaurar una gran cantidad de PH.",
+            "RU": "Камиль — боец авангарда, наносящий тепловой урон. Он призывает огнезубых крыланов, чтобы наложить на врагов поражение теплом, слабость и восприимчивость к теплу. С помощью комбонавыка и супернавыка он восстанавливает большое количество ОН.",
+            "TC": "卡繆是一名灼熱屬性的先鋒幹員，他可以透過召喚銜火血翼對敵人施加灼熱附著、虛弱和灼熱脆弱，還能透過連攜技和終結技回復大量技力。",
+            "TH": "คา​มิลล์​คือ​แนวหน้า​ธาตุ​ความร้อน​ เขา​สามารถ​เรียก​ ไฟร์​แฟง​เวส​เปอร์​วิง​ก์​ เพื่อ​สร้าง​บาดแผล​จาก​ความร้อน​ อ่อนกำลัง​ และ​อ่อนไหว​ต่อ​การ​โจมตี​ความร้อน​ต่อ​ศัตรู​ และ​ใช้​ทักษะ​คอม​โบ​และ​อัล​ติ​เมท​เพื่อ​ฟื้นฟู​ SP จำนวนมาก",
+            "VN": "Camille là Tiên phong nguyên tố Nhiệt. Anh có thể triệu hồi Dơi Quái Lửa để gây Nhiễm Nhiệt, Suy Yếu và Yếu Hóa Nhiệt lên kẻ địch, cũng như vận dụng KN liên hoàn và Tuyệt Kỹ để hồi nhiều Điểm Kỹ Năng."
+          },
+          "videoPath": "ui_gacha_char_preview_2"
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "c40037",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_3_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0033_camille"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_3_2",
+          "name": {
+            "BR": "Expurgador de Pecados",
+            "CN": "逐罪者",
+            "DE": "Sündentilger",
+            "EN": "Expunger of Sin",
+            "FR": "Effaceur de péché",
+            "ID": "Pembasuh Dosa",
+            "IT": "Cancellare il peccato",
+            "JP": "咎の番人",
+            "KR": "죄를 쫓는 자",
+            "MX": "Expiador de pecados",
+            "RU": "Очищение от греха",
+            "TC": "逐罪者",
+            "TH": "ผู้​ล้างบาป",
+            "VN": "Đấng Xá Tội"
+          },
+          "nameImage": "gachapool_titleicon_1_3_2",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4992,
+          "tabGradientColor": "c40037",
+          "tabImage": "gachapool_type_1_3_2",
+          "testimonialRewardItemId": "item_gacha_introletter_1_3_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_3_2",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_3_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_3_2",
+          "upCharIds": [
+            "chr_0033_camille"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_B",
+          "videoDesc": {
+            "BR": "Camille é um vanguarda do elemento Térmico. Ele pode invocar Vesperferas Presas de Fogo para aplicar Inflição Térmica, Fraqueza e Suscetibilidade Térmica aos inimigos e usar seu combo de habilidades e a habilidade suprema para restaurar uma grande quantidade de PH.",
+            "CN": "卡缪是一名灼热属性的先锋干员，他可以通过召唤衔火血翼对敌人施加灼热附着、虚弱和灼热脆弱，还能通过连携技和终结技恢复大量技力。",
+            "DE": "Camille ist ein Teil der Vorhut mit dem Element der Hitze. Er kann Feuerzahn-Vesperflügel beschwören, um Gegner mit Hitze, Schwäche und Hitze-Empfänglichkeit zu belegen. Mit seiner Kombofertigkeit und Ultimativen Fertigkeit kann er außerdem eine Menge FP wiederherstellen.",
+            "EN": "Camille is a Heat element vanguard. He can summon Firefang Vesperwings to apply Heat Infliction, Weakness, and Heat Susceptibility on enemies, and use his combo skill and ultimate to restore lots of SP.",
+            "FR": "Camille est un combattant d'avant-garde de l'élément thermique. Il peut invoquer des Ailes vespérales de feu pour appliquer une altération thermique, une Faiblesse et une sensibilité thermique aux ennemis, et utiliser sa compétence de combo et son ultime pour restaurer une grande quantité de PC.",
+            "ID": "Camille adalah vanguard berelemen Heat. Dia bisa memanggil Firefang Vesperwing untuk mengakibatkan Heat Infliction, Weakness, dan Heat Susceptibility kepada musuh, serta menggunakan skill kombo dan ultimate-nya untuk memulihkan banyak SP.",
+            "IT": "Camille è un'avanguardia dell'elemento fuoco. Può evocare vesprivoli zannafuoco per attivare Afflizione da fuoco, Debolezza e Suscettibilità al fuoco sui nemici e usa le sue abilità combo e suprema per ripristinare grandi quantità di PA.",
+            "JP": "カミーユは灼熱属性の先鋒オペレーター。燃える血の翼を召喚することで、敵に灼熱付着、弱体化、灼熱脆弱を付与できる。さらに連携技および必殺技で戦技ポイントを大量に回復できる。",
+            "KR": "카뮤는 열기 속성의 뱅가드 오퍼레이터입니다. 타오르는 핏빛 날개를 소환해 적에게 열기 부착, 허약, 열기 취약을 부여할 수 있으며, 연계 스킬과 궁극기를 통해 대량의 스킬 게이지를 회복할 수 있습니다.",
+            "MX": "Camille es un vanguardia del elemento Calor. Puede invocar Vesperalas de colmillo ígneo para aplicar Imposición de Calor, Debilidad y Susceptibilidad al Calor a los enemigos, y usar su habilidad de combo y máxima para restaurar una gran cantidad de PH.",
+            "RU": "Камиль — боец авангарда, наносящий тепловой урон. Он призывает огнезубых крыланов, чтобы наложить на врагов поражение теплом, слабость и восприимчивость к теплу. С помощью комбонавыка и супернавыка он восстанавливает большое количество ОН.",
+            "TC": "卡繆是一名灼熱屬性的先鋒幹員，他可以透過召喚銜火血翼對敵人施加灼熱附著、虛弱和灼熱脆弱，還能透過連攜技和終結技回復大量技力。",
+            "TH": "คา​มิลล์​คือ​แนวหน้า​ธาตุ​ความร้อน​ เขา​สามารถ​เรียก​ไฟร์​แฟง​เวส​เปอร์​วิง​ก์​ เพื่อ​ใช้​สร้าง​บาดแผล​จาก​ความร้อน​ จุดอ่อน​ และ​อ่อนไหว​ต่อ​การ​โจมตี​ความร้อน​แก่​ศัตรู​ และ​ใช้​ทักษะ​คอม​โบ​และ​อัล​ติ​เมท​เพื่อ​เติม​ SP จำนวนมาก",
+            "VN": "Camille là Tiên phong nguyên tố Nhiệt. Cậu có thể triệu hồi Dơi Quái Lửa để gây Nhiễm Nhiệt, Suy Yếu và Yếu Hóa Nhiệt lên kẻ địch, cũng như vận dụng KN liên hoàn và Tuyệt Kỹ để hồi nhiều Điểm Kỹ Năng."
+          },
+          "videoPath": "ui_gacha_char_preview_2"
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4992
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_1_2": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "c70b2a",
+          "cumulativeRewardIds": [],
+          "id": "special_1_1_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0028_wulfa"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_1_2",
+          "name": {
+            "BR": "Pérola do Lobo",
+            "CN": "狼珀",
+            "DE": "Wolfsperle",
+            "EN": "Wolf Pearl",
+            "FR": "Joyau du loup",
+            "ID": "Mutiara Serigala",
+            "IT": "Perla lupina",
+            "JP": "ウルフパール",
+            "KR": "울프펄",
+            "MX": "Perla del lobo",
+            "RU": "Жемчужина Стаи",
+            "TC": "狼珀",
+            "TH": "ไข่มุก​หมาป่า",
+            "VN": "Ngọc Trai Sói"
+          },
+          "nameImage": "gachapool_titleicon_1_1_2",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "ea0c1c",
+          "tabImage": "gachapool_type_1_1_2",
+          "testimonialRewardItemId": "item_gacha_introletter_1_1_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_1_2",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_1_2",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_1_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_1_2",
+          "upCharIds": [
+            "chr_0028_wulfa"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "c70b2a",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_1_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0028_wulfa"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_1_2",
+          "name": {
+            "BR": "Pérola do Lobo",
+            "CN": "狼珀",
+            "DE": "Wolfsperle",
+            "EN": "Wolf Pearl",
+            "FR": "Joyau du loup",
+            "ID": "Mutiara Serigala",
+            "IT": "Perla lupina",
+            "JP": "ウルフパール",
+            "KR": "울프펄",
+            "MX": "Perla del lobo",
+            "RU": "Жемчужина Стаи",
+            "TC": "狼珀",
+            "TH": "ไข่มุก​หมาป่า",
+            "VN": "Ngọc Trai Sói"
+          },
+          "nameImage": "gachapool_titleicon_1_1_2",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4995,
+          "tabGradientColor": "ea0c1c",
+          "tabImage": "gachapool_type_1_1_2",
+          "testimonialRewardItemId": "item_gacha_introletter_1_1_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_1_2",
+          "ticketGachaTenLt": "item_ticketgacha_special_ten_lt_1_1_2",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_1_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_1_2",
+          "upCharIds": [
+            "chr_0028_wulfa"
+          ],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4995
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "special_1_4_2": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "d35bf1",
+          "cumulativeRewardIds": [],
+          "id": "special_1_4_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0035_liino"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_4_2",
+          "name": {
+            "BR": "Bom Dia da Sua Estrela do Alvorecer",
+            "CN": "晨星于此闪耀",
+            "DE": "Dein Morgenstern begrüßt den Tag",
+            "EN": "Good Morning from Your Dawnstar",
+            "FR": "Bonjour de votre étoile de l'aube",
+            "ID": "Selamat Pagi dari Bintang Fajarmu",
+            "IT": "Buongiorno dalla tua stella del mattino",
+            "JP": "キラキラ綺羅星",
+            "KR": "빛나는 새벽의 별",
+            "MX": "Buenos días de parte de su estrella del amanecer",
+            "RU": "Приветствие утренней звезды",
+            "TC": "晨星於此閃耀",
+            "TH": "อรุณสวัสดิ์​จาก​ดารา​พรายแสง​ของ​เธอ",
+            "VN": "Lời Chào Từ Sao Mai"
+          },
+          "nameImage": "gachapool_titleicon_1_4_2",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 2,
+          "tabGradientColor": "ea5bf1",
+          "tabImage": "gachapool_type_1_4_2",
+          "testimonialRewardItemId": "item_gacha_introletter_1_4_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_4_2",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_4_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_4_2",
+          "upCharIds": [
+            "chr_0035_liino"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_B",
+          "videoDesc": {
+            "BR": "Liino é uma apoiadora Elétrica. Sua habilidade de batalha custa menos PH para ser conjurada e concede aos operadores aliados benefícios contínuos de DNO e Tratamento de PV. Sua habilidade suprema melhora consideravelmente os benefícios e o Tratamento de PV, o que a torna uma apoiadora eficaz para operadores que causam DNO Artes.",
+            "CN": "梨诺是一名电磁属性的辅助干员，她可以通过低技力消耗的战技为友方干员提供持续的输出增益和治疗。开启终结技后还能大幅强化增益和治疗效果，为依赖法术输出的干员提供强大的助力。",
+            "DE": "Liino ist eine Elektrik-Unterstützerin. Ihre Kampffertigkeit kostet weniger FP und gewährt verbündeten Operatoren kontinuierliche SDN-Buffs und LP-Behandlung. Ihre Ultimative Fertigkeit verbessert die Buffs und die LP-Behandlung; so bietet sie Operatoren, die Technik-SDN verursachen, effektive Unterstützung.",
+            "EN": "Liino is an Electric supporter. Her battle skill costs less SP to cast and grants allied operators continuous DMG buffs and HP Treatment. Her ultimate greatly improves the buffs and HP Treatment as well, making her an effective supporter for operators who deal Arts DMG.",
+            "FR": "Liino est une unité de soutien qui manie l'élément électrique. Sa compétence de combat coûte moins de PC et octroie aux opérateurs alliés des bonus de DÉG permanents et des soins. Son ultime améliore encore davantage ses bonus et ses soins, ce qui lui permet de soutenir efficacement les opérateurs qui infligent des DÉG des Arts.",
+            "ID": "Liino adalah supporter Electric. Penggunaan skill tarungnya hanya butuh sedikit SP dan bisa terus-menerus memberikan buff DMG serta HP Treatment kepada operator rekan. Ultimate-nya juga akan membuat buff dan HP Treatment-nya meningkat banyak sehingga menjadikannya supporter yang efektif untuk operator yang menimbulkan Arts DMG.",
+            "IT": "Liino fornisce supporto elettrico. La sua abilità di combattimento costa meno PA e conferisce agli operatori alleati continui potenziamenti ai danni e Cura PS. Inoltre, la sua abilità suprema migliora notevolmente i potenziamenti e la Cura PS, rendendola un supporto efficace per gli operatori che infliggono danni da Arti.",
+            "JP": "リーノは電磁属性の補助オペレーター。SP消費が少ない戦技によって、味方オペレーターに持続的なボーナス効果の付与と治療を行う。必殺技を発動するとボーナス・回復効果が大幅に強化され、アーツダメージに長けるオペレーターに強力なサポートを行うことができる。",
+            "KR": "리노는 전기 속성 서포터 오퍼레이터입니다. 스킬 게이지 소모가 낮은 배틀 스킬로 아군 오퍼레이터에게 지속적인 버프와 치유를 제공할 수 있으며, 궁극기 사용 후에는 또 버프 및 치유 효과가 크게 강화되어 아츠 피해를 주는 오퍼레이터를 강력하게 지원합니다.",
+            "MX": "Liino es una Cooperadora de elemento Eléctrico. Su habilidad de batalla cuesta menos PH y otorga a los operadores aliados mejoras continuas de DAÑ y Tratamiento de PV. Su máxima también mejora en gran medida los incrementos y el Tratamiento de PV, lo que la convierte en una Cooperadora eficaz para los operadores que infligen DAÑ por Artes.",
+            "RU": "Лиино — оперативник поддержки стихии электро. Ее боевой навык расходует очень мало ОН и повышает непрерывный УРН и лечение союзных оперативников. Ее супернавык также дает усиления и лечение, обеспечивая эффективную поддержку оперативникам, наносящим УРН от искусств.",
+            "TC": "梨諾是一名電磁屬性的輔助幹員，她可以使用低技力消耗的戰技為友方幹員提供持續的輸出增益和治療。開啟終結技後還能大幅強化增益和治療效果，為依賴法術輸出的幹員提供強大的助力。",
+            "TH": "หลี​นั่​ว​เป็น​ผู้สนับสนุน​ธาตุ​ไฟฟ้า​ ทักษะ​การต่อสู้​ของ​เธอ​ใช้​ SP ใน​การ​ร่าย​น้อยลง​ และ​มอบ​บัฟ​ DMG ต่อเนื่อง​พร้อมทั้ง​การรักษา​ HP ให้​แก่​โอเปอเรเตอร์​ฝ่าย​เดียวกัน​ อัล​ติ​เมท​ของ​เธอ​จะ​เสริม​ประสิทธิภาพ​บัฟ​และ​การฟื้นฟู​ HP ได้​อย่างมาก​ ทำให้​เธอ​เป็น​ผู้สนับสนุน​ที่​ยอดเยี่ยม​สำหรับ​โอเปอเรเตอร์​ที่​สร้าง​ DMG พลัง​เวท​ได้ดี",
+            "VN": "Liino là một trợ thủ hệ Điện. KN chiến đấu của cô tiêu hao ít Điểm Kỹ Năng hơn khi sử dụng, đồng thời liên tục cung cấp buff ST và Hồi Phục HP cho các cán viên đồng minh. Tuyệt kỹ của cô cũng tăng mạnh hiệu quả buff và Hồi Phục HP, giúp cô trở thành một cán viên hỗ trợ hiệu quả cho những cán viên gây ST Thuật Pháp."
+          },
+          "videoPath": "ui_gacha_char_preview_2"
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "d35bf1",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "special_1_4_2",
+          "intervalAutoRewardIds": [
+            "reward_charpotentialup_chr_0035_liino"
+          ],
+          "mailBannerImage": "gachapool_mail_banner_1_4_2",
+          "name": {
+            "BR": "Bom Dia da Sua Estrela do Alvorecer",
+            "CN": "晨星于此闪耀",
+            "DE": "Dein Morgenstern begrüßt den Tag",
+            "EN": "Good Morning from Your Dawnstar",
+            "FR": "Bonjour de votre étoile de l'aube",
+            "ID": "Selamat Pagi dari Bintang Fajarmu",
+            "IT": "Buongiorno dalla tua stella del mattino",
+            "JP": "キラキラ綺羅星",
+            "KR": "빛나는 새벽의 별",
+            "MX": "Buenos días de parte de su estrella del amanecer",
+            "RU": "Приветствие утренней звезды",
+            "TC": "晨星於此閃耀",
+            "TH": "อรุณสวัสดิ์​จาก​ดารา​พรายแสง​ของ​เธอ",
+            "VN": "Lời Chào Từ Sao Mai"
+          },
+          "nameImage": "gachapool_titleicon_1_4_2",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 4990,
+          "tabGradientColor": "ea5bf1",
+          "tabImage": "gachapool_type_1_4_2",
+          "testimonialRewardItemId": "item_gacha_introletter_1_4_2",
+          "textColor": "FFFFFF",
+          "ticketGachaSingleLt": "item_ticketgacha_special_single_lt_1_4_2",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "jump_center_activity_char_trial_1_4_2",
+          "type": 0,
+          "uiPrefab": "GachaPoolNodeLimited_1_4_2",
+          "upCharIds": [
+            "chr_0035_liino"
+          ],
+          "videoAudioKey": "Au_UI_Menu_GachaLimitedVideo_B",
+          "videoDesc": {
+            "BR": "Liino é uma apoiadora Elétrica. Sua habilidade de batalha custa menos PH para ser conjurada e concede aos operadores aliados benefícios contínuos de DNO e Tratamento de PV. Sua habilidade suprema melhora consideravelmente os benefícios e o Tratamento de PV, o que a torna uma apoiadora eficaz para operadores que causam DNO Artes.",
+            "CN": "梨诺是一名电磁属性的辅助干员，她可以通过低技力消耗的战技为友方干员提供持续的输出增益和治疗。开启终结技后还能大幅强化增益和治疗效果，为依赖法术输出的干员提供强大的助力。",
+            "DE": "Liino ist eine Elektrik-Unterstützerin. Ihre Kampffertigkeit kostet weniger FP und gewährt verbündeten Operatoren kontinuierliche SDN-Buffs und LP-Behandlung. Ihre Ultimative Fertigkeit verbessert die Buffs und die LP-Behandlung; so bietet sie Operatoren, die Technik-SDN verursachen, effektive Unterstützung.",
+            "EN": "Liino is an Electric supporter. Her battle skill costs less SP to cast and grants allied operators continuous DMG buffs and HP Treatment. Her ultimate greatly improves the buffs and HP Treatment as well, making her an effective supporter for operators who deal Arts DMG.",
+            "FR": "Liino est une unité de soutien qui manie l'élément électrique. Sa compétence de combat coûte moins de PC et octroie aux opérateurs alliés des bonus de DÉG permanents et des soins. Son ultime améliore encore davantage ses bonus et ses soins, ce qui lui permet de soutenir efficacement les opérateurs qui infligent des DÉG des Arts.",
+            "ID": "Liino adalah supporter Electric. Penggunaan skill tarungnya hanya butuh sedikit SP dan bisa terus-menerus memberikan buff DMG serta HP Treatment kepada operator rekan. Ultimate-nya juga akan membuat buff dan HP Treatment-nya meningkat banyak sehingga menjadikannya supporter yang efektif untuk operator yang menimbulkan Arts DMG.",
+            "IT": "Liino fornisce supporto elettrico. La sua abilità di combattimento costa meno PA e conferisce agli operatori alleati continui potenziamenti ai danni e Cura PS. Inoltre, la sua abilità suprema migliora notevolmente i potenziamenti e la Cura PS, rendendola un supporto efficace per gli operatori che infliggono danni da Arti.",
+            "JP": "リーノは電磁属性の補助オペレーター。SP消費が少ない戦技によって、味方オペレーターに持続的なボーナス効果の付与と治療を行う。必殺技を発動するとボーナス・回復効果が大幅に強化され、アーツダメージに長けるオペレーターに強力なサポートを行うことができる。",
+            "KR": "리노는 전기 속성의 서포터 오퍼레이터입니다. 스킬 게이지 소모가 낮은 배틀 스킬로 아군 오퍼레이터에게 지속적인 공격 버프와 치유를 제공할 수 있는 건 물론, 궁극기를 통해 버프 및 치유 효과를 대폭 강화하여 아츠 피해를 주는 오퍼레이터를 강력하게 지원할 수 있습니다.",
+            "MX": "Liino es una Cooperadora de elemento Eléctrico. Su habilidad de batalla cuesta menos PH y otorga a los operadores aliados mejoras continuas de DAÑ y Tratamiento de PV. Su máxima también mejora en gran medida los incrementos y el Tratamiento de PV, lo que la convierte en una Cooperadora eficaz para los operadores que infligen DAÑ por Artes.",
+            "RU": "Лиино — оперативник поддержки стихии электро. Ее боевой навык расходует очень мало ОН и повышает непрерывный УРН и лечение союзных оперативников. Ее супернавык также дает усиления и лечение, обеспечивая эффективную поддержку оперативникам, наносящим УРН от искусств.",
+            "TC": "梨諾是一名電磁屬性的輔助幹員，她可以使用低技力消耗的戰技為友方幹員提供持續的輸出增益和治療。開啟終結技後還能大幅強化增益和治療效果，為依賴法術輸出的幹員提供強大的助力。",
+            "TH": "หลี​นั่​ว​เป็น​ผู้สนับสนุน​ธาตุ​ไฟฟ้า​ ทักษะ​การต่อสู้​ของ​เธอ​ใช้​ SP ใน​การ​ร่าย​น้อยลง​ และ​มอบ​บัฟ​ DMG ต่อเนื่อง​พร้อมทั้ง​การรักษา​ HP ให้​แก่​โอเปอเรเตอร์​ฝ่าย​เดียวกัน​ อัล​ติ​เมท​ของ​เธอ​จะ​เสริม​ประสิทธิภาพ​บัฟ​และ​การฟื้นฟู​ HP ได้​อย่างมาก​ ทำให้​เธอ​เป็น​ผู้สนับสนุน​ที่​ยอดเยี่ยม​สำหรับ​โอเปอเรเตอร์​ที่​สร้าง​ DMG พลัง​เวท​ได้ดี",
+            "VN": "Liino là một trợ thủ hệ Điện. KN chiến đấu của cô tiêu hao ít Điểm Kỹ Năng hơn khi sử dụng, đồng thời liên tục cung cấp buff ST và Hồi Phục HP cho các cán viên đồng minh. Tuyệt kỹ của cô cũng tăng mạnh hiệu quả buff và Hồi Phục HP, giúp cô trở thành một cán viên hỗ trợ hiệu quả cho những cán viên gây ST Thuật Pháp."
+          },
+          "videoPath": "ui_gacha_char_preview_2"
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 4990
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      },
+      "standard": {
+        "oldValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "eeeeee",
+          "cumulativeRewardIds": [],
+          "id": "standard",
+          "intervalAutoRewardIds": [],
+          "mailBannerImage": "",
+          "name": {
+            "BR": "Caça de Talentos Básica",
+            "CN": "基础寻访",
+            "DE": "Rekrutierung: Standard",
+            "EN": "Basic Headhunting",
+            "FR": "Recrutement de base",
+            "ID": "Headhunt Biasa",
+            "IT": "Caccia ai talenti base",
+            "JP": "通常スカウト",
+            "KR": "기초 헤드헌팅",
+            "MX": "Caza de reclutas básica",
+            "RU": "Стандартный наем",
+            "TC": "基礎尋訪",
+            "TH": "การ​สรรหา​ขั้นพื้นฐาน",
+            "VN": "Chiêu Mộ Cơ Bản"
+          },
+          "nameImage": "gachapool_title",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 3,
+          "tabGradientColor": "fff719",
+          "tabImage": "gachapool_type_newbie",
+          "testimonialRewardItemId": "",
+          "textColor": "333333",
+          "ticketGachaSingleLt": "",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "",
+          "type": 2,
+          "uiPrefab": "GachaPoolNodeStandard",
+          "upCharIds": [],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "newValue": {
+          "bonusRewardIdEveryPull": "",
+          "color": "eeeeee",
+          "cumulativeRewardIds": [],
+          "gachaPoolVersion": 0,
+          "id": "standard",
+          "intervalAutoRewardIds": [],
+          "mailBannerImage": "",
+          "name": {
+            "BR": "Caça de Talentos Básica",
+            "CN": "基础寻访",
+            "DE": "Rekrutierung: Standard",
+            "EN": "Basic Headhunting",
+            "FR": "Recrutement de base",
+            "ID": "Headhunt Biasa",
+            "IT": "Caccia ai talenti base",
+            "JP": "通常スカウト",
+            "KR": "기초 헤드헌팅",
+            "MX": "Caza de reclutas básica",
+            "RU": "Стандартный наем",
+            "TC": "基礎尋訪",
+            "TH": "การ​สรรหา​ขั้นพื้นฐาน",
+            "VN": "Chiêu Mộ Cơ Bản"
+          },
+          "nameImage": "gachapool_title",
+          "onceRewardId": "",
+          "onceRewardId2": "",
+          "sortId": 9999,
+          "tabGradientColor": "fff719",
+          "tabImage": "gachapool_type_newbie",
+          "testimonialRewardItemId": "",
+          "textColor": "333333",
+          "ticketGachaSingleLt": "",
+          "ticketGachaTenLt": "",
+          "trialActivityJumpId": "",
+          "type": 2,
+          "uiPrefab": "GachaPoolNodeStandard",
+          "upCharIds": [],
+          "videoAudioKey": "",
+          "videoDesc": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "videoPath": ""
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 3,
+            "newValue": 9999
+          },
+          "gachaPoolVersion": {
+            "type": "value",
+            "newValue": 0
+          }
+        }
+      }
+    }
+  }
+}

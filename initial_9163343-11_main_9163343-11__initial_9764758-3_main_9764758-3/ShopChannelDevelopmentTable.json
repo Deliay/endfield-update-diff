@@ -1,0 +1,562 @@
+{
+  "tableName": "ShopChannelDevelopmentTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "domainshop_channel_map02_2": {
+        "oldValue": {
+          "channelLevelMap": {
+            "1": {
+              "channelDesc": {
+                "BR": "\"Excelente. Nos encontramos novamente, Endmin. A rede de entrega de mercadorias aumenta cada vez mais com nosso trabalho árduo.\"",
+                "CN": "“很好很好，我们又见面啦，管理员。物资网络在我们的努力下更加完整了呢。”",
+                "DE": "„Ausgezeichnet. Wir sehen uns wieder, Endmin. Dank unserer harten Arbeit wächst das Warenlieferungsnetzwerk immer weiter.“",
+                "EN": "\"Excellent. We meet again, Endmin. The goods delivery network grows ever more extensive with our hard work.\"",
+                "FR": "« Incroyable ! Comme on se retrouve, Endmin. Nos efforts incessants ont permis d'étendre considérablement notre réseau de livraison de marchandises. »",
+                "ID": "“Bagus sekali. Kita bertemu lagi, Endmin. Jaringan pengantaran barang jadi makin luas berkat kerja keras kita.”",
+                "IT": "\"Ottimo. Ci incontriamo di nuovo, Endmin. Grazie al nostro impegno, la rete di consegna degli articoli si estende sempre di più.\"",
+                "JP": "「また会いましたね、管理人。私たちの努力で、取引ネットワークはぐっと完成度が高まりましたよ。」",
+                "KR": "\"좋아요. 또 만났네요, 관리자님. 우리의 노력 끝에 물자 네트워크가 한층 더 탄탄해졌어요.\"",
+                "MX": "“Excelente. Nos volvemos a encontrar, Endmin. La red de entrega de mercancías crece cada vez más gracias a nuestro arduo trabajo.”",
+                "RU": "«Превосходно! Мы снова встретились, Эндмин. Благодаря нашим усилиям сеть доставки товаров только расширяется».",
+                "TC": "「很好很好，我們又見面啦，管理員。物資網路在我們的努力下更加完整了喔。」",
+                "TH": "\"เยี่ยม​เลย​ เรา​ได้​พบกัน​อีกครั้ง​ Endmin เครือข่าย​การจัดส่ง​สินค้า​กำลัง​ขยาย​กว้าง​ขึ้น​เรื่อ​ยๆ​ จาก​การทำงาน​หนัก​ของ​เรา​\"",
+                "VN": "\"Rất tốt. Chúng ta lại gặp nhau rồi, Endmin. Nhờ nỗ lực không ngừng của chúng ta mà mạng lưới giao hàng ngày càng mở rộng hơn nữa.\""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                30000
+              ],
+              "isFinalMaxLevel": false,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_1_1",
+                "domainshop_goods_map02_004_1_2",
+                "domainshop_goods_map02_004_1_3",
+                "domainshop_goods_map02_004_1_4",
+                "domainshop_goods_map02_004_1_5",
+                "domainshop_goods_rand_map02_7"
+              ],
+              "newGoodsNum": [
+                1,
+                80,
+                40,
+                30,
+                10,
+                0
+              ],
+              "randGoodsBaseLimitUp": 60,
+              "randGoodsDailyAddLimitUp": 30,
+              "timeId": "",
+              "upgradeDesc": {
+                "BR": "Forneça Letras de Câmbio para conectar o Redistribuidor de Estoque ao sistema. Isso permite comprar e vender mais tipos de produtos e em maiores quantidades.",
+                "CN": "提供调度券让物资调度员接入系统，进一步提升售卖物资的种类与数量。",
+                "DE": "Stelle Aktiennoten zur Verfügung, um den Vorratneuverteiler mit dem System zu verbinden. Dadurch können mehr verschiedene Waren und größere Mengen ge- und verkauft werden.",
+                "EN": "Provide Stock Bills to connect the Stock Redistributor to the system. This allows the purchasing and selling of more types of goods, and at larger quantities too.",
+                "FR": "Dépensez des billets de réserves pour connecter le redistributeur de réserves au système. Cela vous permet d'acheter et vendre plus de produits différents et en de plus grandes quantités.",
+                "ID": "Berikan Surat Saham untuk menghubungkan Redistributor Stok ke sistem. Dengan ini, kamu bisa membeli dan menjual lebih banyak tipe barang serta dalam jumlah yang lebih besar.",
+                "IT": "Usa i buoni acquisto per collegare il ridistributore scorte al sistema. Potrai vendere e acquistare più tipologie di articoli in quantità maggiori.",
+                "JP": "取引券を渡せば、担当者と取引できるようになり、商品の種類と数量がさらに増えます。",
+                "KR": "관리권을 제공하여 물자 관리원이 시스템에 접속하도록 만들면, 판매되는 물자의 종류와 수량이 증가합니다.",
+                "MX": "Proporciona vales de crédito para conectar el Redistribuidor de existencias al sistema. Esto permite comprar y vender más tipos de mercancías y en mayores cantidades.",
+                "RU": "Предоставьте облигации, чтобы подключить перераспределитель резервов к системе. После этого можно будет торговать большим количеством товаров и в больших объемах.",
+                "TC": "提供調度券讓物資調度員接入系統，進一步提升販售物資的種類與數量。",
+                "TH": "มอบ​ธนบัตร​คลัง​เพื่อ​เชื่อมต่อ​ผู้​กระจาย​สินค้า​ใน​สต็อก​ไป​ยัง​ระบบ​ การ​ทำ​เช่นนี้​จะ​ช่วย​ให้​สามารถ​ซื้อขาย​สินค้า​ประเภท​ต่า​งๆ​ ได้มา​ก​ขึ้น​ และ​ใน​ปริมาณ​ที่มา​ก​ขึ้น​ด้วย",
+                "VN": "Cung cấp Phiếu Hàng để kết nối Chuyên Gia Điều Phối Vật Tư với hệ thống. Việc này cho phép mua bán nhiều loại hàng hóa hơn, với số lượng lớn hơn."
+              },
+              "versionStart": "v1d2d0"
+            },
+            "2": {
+              "channelDesc": {
+                "BR": "\"Excelente. Nos encontramos novamente, Endmin. A rede de entrega de mercadorias aumenta cada vez mais com nosso trabalho árduo.\"",
+                "CN": "“很好很好，我们又见面啦，管理员。物资网络在我们的努力下更加完整了呢。”",
+                "DE": "„Ausgezeichnet. Wir sehen uns wieder, Endmin. Dank unserer harten Arbeit wächst das Warenlieferungsnetzwerk immer weiter.“",
+                "EN": "\"Excellent. We meet again, Endmin. The goods delivery network grows ever more extensive with our hard work.\"",
+                "FR": "« Incroyable ! Comme on se retrouve, Endmin. Nos efforts incessants ont permis d'étendre considérablement notre réseau de livraison de marchandises. »",
+                "ID": "“Bagus sekali. Kita bertemu lagi, Endmin. Jaringan pengantaran barang jadi makin luas berkat kerja keras kita.”",
+                "IT": "\"Ottimo. Ci incontriamo di nuovo, Endmin. Grazie al nostro impegno, la rete di consegna degli articoli si estende sempre di più.\"",
+                "JP": "「また会いましたね、管理人。私たちの努力で、取引ネットワークはぐっと完成度が高まりましたよ。」",
+                "KR": "\"좋아요. 또 만났네요, 관리자님. 우리의 노력 끝에 물자 네트워크가 한층 더 탄탄해졌어요.\"",
+                "MX": "“Excelente. Nos volvemos a encontrar, Endmin. La red de entrega de mercancías crece cada vez más gracias a nuestro arduo trabajo.”",
+                "RU": "«Превосходно! Мы снова встретились, Эндмин. Благодаря нашим усилиям сеть доставки товаров только расширяется».",
+                "TC": "「很好很好，我們又見面啦，管理員。物資網路在我們的努力下更加完整了喔。」",
+                "TH": "\"เยี่ยม​เลย​ เรา​ได้​พบกัน​อีกครั้ง​ Endmin เครือข่าย​การจัดส่ง​สินค้า​กำลัง​ขยาย​กว้าง​ขึ้น​เรื่อ​ยๆ​ จาก​การทำงาน​หนัก​ของ​เรา​\"",
+                "VN": "\"Rất tốt. Chúng ta lại gặp nhau rồi, Endmin. Nhờ nỗ lực không ngừng của chúng ta mà mạng lưới giao hàng ngày càng mở rộng hơn nữa.\""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                400000
+              ],
+              "isFinalMaxLevel": false,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_2_1",
+                "domainshop_goods_map02_004_2_2",
+                "domainshop_goods_map02_004_2_3",
+                "domainshop_goods_map02_004_2_4",
+                "domainshop_goods_map02_004_3_8",
+                "domainshop_goods_map02_004_2_5",
+                "domainshop_goods_map02_004_2_6",
+                "domainshop_goods_rand_map02_8"
+              ],
+              "newGoodsNum": [
+                1,
+                1,
+                20,
+                10,
+                4,
+                1,
+                1,
+                0
+              ],
+              "randGoodsBaseLimitUp": 60,
+              "randGoodsDailyAddLimitUp": 30,
+              "timeId": "",
+              "upgradeDesc": {
+                "BR": "Forneça Letras de Câmbio para expandir a cobertura de estoque do Redistribuidor de Estoque. Isso permite comprar e vender mais tipos de produtos e em maiores quantidades.",
+                "CN": "提供调度券让物资调度员调度范围扩大，进一步提升售卖物资的种类与数量。",
+                "DE": "Stelle Aktiennoten zur Verfügung, um die Marktabdeckung des Vorratneuverteilers zu erhöhen. Dadurch können mehr verschiedene Waren und größere Mengen ge- und verkauft werden.",
+                "EN": "Provide Stock Bills to expand the Stock Redistributor's stock coverage. This allows the purchasing and selling of more types of goods, and at larger quantities too.",
+                "FR": "Dépensez des billets de réserves pour étendre la portée du redistributeur de réserves. Cela vous permet d'acheter et vendre plus de produits différents et en de plus grandes quantités.",
+                "ID": "Berikan Surat Saham untuk memperluas cakupan stok Redistributor Stok. Dengan ini, kamu bisa membeli dan menjual lebih banyak tipe barang serta dalam jumlah yang lebih besar.",
+                "IT": "Usa i buoni acquisto per ampliare la copertura del ridistributore scorte. Potrai vendere e acquistare più tipologie di articoli in quantità maggiori.",
+                "JP": "取引券を渡せば、調達可能な品目が追加され、商品の種類と数量がさらに増えます。",
+                "KR": "관리권을 제공하여 물자 관리원의 관리 범위를 확장하면, 판매하는 물자의 종류와 수량이 증가합니다.",
+                "MX": "Proporciona vales de crédito para ampliar la cobertura de inventario del Redistribuidor de existencias. Esto permite comprar y vender más tipos de mercancías y en mayores cantidades.",
+                "RU": "Предоставьте облигации, чтобы расширить ассортимент перераспределителя резервов. После этого можно будет торговать большим количеством товаров и в больших объемах.",
+                "TC": "提供調度券讓物資調度員的權限範圍擴大，進一步提升販售物資的種類與數量。",
+                "TH": "ให้​ธนบัตร​คลัง​เพื่อ​ขยาย​ขอบเขต​สินค้า​ของ​ผู้​กระจาย​สินค้า​ใน​สต็อก​ การ​ทำ​เช่นนี้​จะ​ช่วย​ให้​สามารถ​ซื้อขาย​สินค้า​ประเภท​ต่า​งๆ​ ได้มา​ก​ขึ้น​ และ​ใน​ปริมาณ​ที่มา​ก​ขึ้น​ด้วย",
+                "VN": "Cung cấp Phiếu Hàng để mở rộng phạm vi kho của Chuyên Gia Điều Phối Vật Tư. Việc này cho phép mua bán nhiều loại hàng hóa hơn, với số lượng lớn hơn."
+              },
+              "versionStart": "v1d3d4"
+            },
+            "3": {
+              "channelDesc": {
+                "BR": "\"Excelente. Nos encontramos novamente, Endmin. A rede de entrega de mercadorias aumenta cada vez mais graças ao nosso trabalho árduo.\"",
+                "CN": "“很好很好，我们又见面啦，管理员。物资网络在我们的努力下更加完整了呢。”",
+                "DE": "„Ausgezeichnet. So sieht man sich wieder, Endmin. Dank unserer harten Arbeit wächst das Warenlieferungsnetzwerk immer weiter.“",
+                "EN": "\"Excellent. We meet again, Endmin. The goods delivery network grows ever more extensive with our hard work.\"",
+                "FR": "« Incroyable ! Comme on se retrouve, Endmin. Nos efforts incessants ont permis d'étendre considérablement notre réseau de livraison de marchandises. »",
+                "ID": "“Bagus sekali. Kita bertemu lagi, Endmin. Jaringan pengantaran barang jadi makin luas berkat kerja keras kita.”",
+                "IT": "\"Ottimo. Ci incontriamo di nuovo, Endmin. Grazie al nostro impegno, la rete di consegna degli articoli si estende sempre di più.\"",
+                "JP": "「また会いましたね、管理人。私たちの努力で、取引ネットワークはぐっと完成度が高まりましたよ。」",
+                "KR": "\"좋아요. 또 만났네요, 관리자님. 우리의 노력 끝에 물자 네트워크가 한층 더 탄탄해졌어요.\"",
+                "MX": "“Excelente. Nos volvemos a encontrar, Endmin. La red de entrega de mercancías crece cada vez más gracias a nuestro arduo trabajo.”",
+                "RU": "«Превосходно! Мы снова встретились, Эндмин. Благодаря нашим усилиям сеть доставки товаров только расширяется».",
+                "TC": "「很好很好，我們又見面啦，管理員。物資網路在我們的努力下更加完整了喔。」",
+                "TH": "\"เยี่ยม​เลย​ เรา​เจอกัน​อีกแล้ว​นะ​ Endmin เครือข่าย​การขนส่ง​สินค้า​กำลัง​ขยาย​กว้าง​ขึ้น​เรื่อ​ยๆ​ จาก​การทำงาน​หนัก​ของ​เรา​\"",
+                "VN": "\"Rất tốt. Lại gặp nhau rồi, Endmin. Nhờ nỗ lực không ngừng của chúng ta mà mạng lưới giao hàng ngày càng được mở rộng.\""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                650000
+              ],
+              "isFinalMaxLevel": false,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_3_1",
+                "domainshop_goods_map02_004_3_2",
+                "domainshop_goods_map02_004_3_3",
+                "domainshop_goods_map02_004_3_4",
+                "domainshop_goods_map02_004_3_5",
+                "domainshop_goods_map02_004_3_6",
+                "domainshop_goods_map02_004_3_7",
+                "domainshop_goods_map02_004_3_9",
+                "domainshop_goods_rand_map02_9"
+              ],
+              "newGoodsNum": [
+                1,
+                120,
+                40,
+                30,
+                30,
+                20,
+                10,
+                10,
+                0
+              ],
+              "randGoodsBaseLimitUp": 60,
+              "randGoodsDailyAddLimitUp": 30,
+              "timeId": "",
+              "upgradeDesc": {
+                "BR": "Forneça Letras de Câmbio para expandir a cobertura de estoque do Redistribuidor de Estoque. Isso permite comprar e vender mais tipos de mercadorias e em maiores quantidades.",
+                "CN": "提供调度券让物资调度员调度范围扩大，进一步提升售卖物资的种类与数量。",
+                "DE": "Stelle Aktiennoten zur Verfügung, um die Marktabdeckung des Vorratneuverteilers zu erhöhen. Dadurch können mehr verschiedene Waren und größere Mengen ge- und verkauft werden.",
+                "EN": "Provide Stock Bills to expand the Stock Redistributor's stock coverage. This allows the purchasing and selling of more types of goods, and at larger quantities too.",
+                "FR": "Dépensez des billets de réserves pour étendre la portée du redistributeur de réserves. Cela vous permet d'acheter et vendre plus de produits différents et en de plus grandes quantités.",
+                "ID": "Berikan Surat Saham untuk memperluas cakupan stok Redistributor Stok. Dengan ini, kamu bisa membeli dan menjual lebih banyak tipe barang serta dalam jumlah yang lebih besar.",
+                "IT": "Usa i buoni acquisto per ampliare la copertura del ridistributore scorte. Potrai vendere e acquistare più tipologie di articoli in quantità maggiori.",
+                "JP": "取引券を渡せば、調達可能な品目が追加され、商品の種類と数量がさらに増えます。",
+                "KR": "관리권을 제공하여 물자 관리원의 관리 범위를 확장하면, 판매하는 물자의 종류와 수량이 증가합니다.",
+                "MX": "Proporciona vales de crédito para ampliar la cobertura de inventario del Redistribuidor de existencias. Esto permite la compra y venta de más tipos de mercancías y también en mayores cantidades.",
+                "RU": "Предоставьте облигации, чтобы расширить ассортимент перераспределителя резервов. После этого можно будет торговать большим количеством товаров и в больших объемах.",
+                "TC": "提供調度券讓物資調度員的權限範圍擴大，進一步提升販售物資的種類與數量。",
+                "TH": "ให้​ธนบัตร​คลัง​เพื่อ​ขยาย​ขอบเขต​สินค้า​ของ​ผู้​กระจาย​สินค้า​ใน​สต็อก​ การ​ทำ​เช่นนี้​จะ​ช่วย​ให้​สามารถ​ซื้อขาย​สินค้า​ประเภท​ต่า​งๆ​ ได้มา​ก​ขึ้น​ และ​ใน​ปริมาณ​ที่มา​ก​ขึ้น​ด้วย",
+                "VN": "Cung cấp Phiếu Hàng để mở rộng quy mô kho của Chuyên Gia Điều Phối Vật Tư. Việc này cho phép mua bán nhiều loại hàng hóa và với số lượng lớn hơn."
+              },
+              "versionStart": "v1d3d0"
+            }
+          },
+          "channelName": {
+            "BR": "Redistribuidor da Pedra de Marcação",
+            "CN": "首墩调度员",
+            "DE": "Grenzstein-Neuverteilung",
+            "EN": "Marker Stone Redistributor",
+            "FR": "Redistributeur de la Pierre de marquage",
+            "ID": "Redistributor Batu Penanda",
+            "IT": "Ridistributore della pietra di demarcazione",
+            "JP": "首礎取引担当",
+            "KR": "수돈 관리원",
+            "MX": "Redistribuidor de Piedra Marcadora",
+            "RU": "Перераспределитель Межевого камня",
+            "TC": "首墩調度員",
+            "TH": "ผู้​กระจาย​สินค้า​ใน​หิน​นำทาง",
+            "VN": "Chuyên Gia Điều Phối Đá Ranh Giới"
+          },
+          "levelId": "map02_lv004",
+          "shopGroupId": "domainshop_map02",
+          "skipToMissionChapter": 2
+        },
+        "newValue": {
+          "channelLevelMap": {
+            "1": {
+              "channelDesc": {
+                "BR": "\"Excelente. Nos encontramos novamente, Endmin. A rede de entrega de mercadorias aumenta cada vez mais com nosso trabalho árduo.\"",
+                "CN": "“很好很好，我们又见面啦，管理员。物资网络在我们的努力下更加完整了呢。”",
+                "DE": "„Ausgezeichnet. Wir sehen uns wieder, Endmin. Dank unserer harten Arbeit wächst das Warenlieferungsnetzwerk immer weiter.“",
+                "EN": "\"Excellent. We meet again, Endmin. The goods delivery network grows ever more extensive with our hard work.\"",
+                "FR": "« Incroyable ! Comme on se retrouve, Endmin. Nos efforts incessants ont permis d'étendre considérablement notre réseau de livraison de marchandises. »",
+                "ID": "“Bagus sekali. Kita bertemu lagi, Endmin. Jaringan pengantaran barang jadi makin luas berkat kerja keras kita.”",
+                "IT": "\"Ottimo. Ci incontriamo di nuovo, Endmin. Grazie al nostro impegno, la rete di consegna degli articoli si estende sempre di più.\"",
+                "JP": "「また会いましたね、管理人。私たちの努力で、取引ネットワークはぐっと完成度が高まりましたよ。」",
+                "KR": "\"좋아요. 또 만났네요, 관리자님. 우리의 노력 끝에 물자 네트워크가 한층 더 탄탄해졌어요.\"",
+                "MX": "“Excelente. Nos volvemos a encontrar, Endmin. La red de entrega de mercancías crece cada vez más gracias a nuestro arduo trabajo.”",
+                "RU": "«Превосходно! Мы снова встретились, Эндмин. Благодаря нашим усилиям сеть доставки товаров только расширяется».",
+                "TC": "「很好很好，我們又見面啦，管理員。物資網路在我們的努力下更加完整了喔。」",
+                "TH": "\"เยี่ยม​เลย​ เรา​ได้​พบกัน​อีกครั้ง​ Endmin เครือข่าย​การจัดส่ง​สินค้า​กำลัง​ขยาย​กว้าง​ขึ้น​เรื่อ​ยๆ​ จาก​การทำงาน​หนัก​ของ​เรา​\"",
+                "VN": "\"Rất tốt. Chúng ta lại gặp nhau rồi, Endmin. Nhờ nỗ lực không ngừng của chúng ta mà mạng lưới giao hàng ngày càng mở rộng hơn nữa.\""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                30000
+              ],
+              "isFinalMaxLevel": false,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_1_1",
+                "domainshop_goods_map02_004_1_2",
+                "domainshop_goods_map02_004_1_3",
+                "domainshop_goods_map02_004_1_4",
+                "domainshop_goods_map02_004_1_5",
+                "domainshop_goods_rand_map02_7"
+              ],
+              "newGoodsNum": [
+                1,
+                80,
+                40,
+                30,
+                10,
+                0
+              ],
+              "randGoodsBaseLimitUp": 60,
+              "randGoodsDailyAddLimitUp": 30,
+              "timeId": "",
+              "upgradeDesc": {
+                "BR": "Forneça Letras de Câmbio para conectar o Redistribuidor de Estoque ao sistema. Isso permite comprar e vender mais tipos de produtos e em maiores quantidades.",
+                "CN": "提供调度券让物资调度员接入系统，进一步提升售卖物资的种类与数量。",
+                "DE": "Stelle Aktiennoten zur Verfügung, um den Vorratneuverteiler mit dem System zu verbinden. Dadurch können mehr verschiedene Waren und größere Mengen ge- und verkauft werden.",
+                "EN": "Provide Stock Bills to connect the Stock Redistributor to the system. This allows the purchasing and selling of more types of goods, and at larger quantities too.",
+                "FR": "Dépensez des billets de réserves pour connecter le redistributeur de réserves au système. Cela vous permet d'acheter et vendre plus de produits différents et en de plus grandes quantités.",
+                "ID": "Berikan Surat Saham untuk menghubungkan Redistributor Stok ke sistem. Dengan ini, kamu bisa membeli dan menjual lebih banyak tipe barang serta dalam jumlah yang lebih besar.",
+                "IT": "Usa i buoni acquisto per collegare il ridistributore scorte al sistema. Potrai vendere e acquistare più tipologie di articoli in quantità maggiori.",
+                "JP": "取引券を渡せば、担当者と取引できるようになり、商品の種類と数量がさらに増えます。",
+                "KR": "관리권을 제공하여 물자 관리원이 시스템에 접속하도록 만들면, 판매되는 물자의 종류와 수량이 증가합니다.",
+                "MX": "Proporciona vales de crédito para conectar el Redistribuidor de existencias al sistema. Esto permite comprar y vender más tipos de mercancías y en mayores cantidades.",
+                "RU": "Предоставьте облигации, чтобы подключить перераспределитель резервов к системе. После этого можно будет торговать большим количеством товаров и в больших объемах.",
+                "TC": "提供調度券讓物資調度員接入系統，進一步提升販售物資的種類與數量。",
+                "TH": "มอบ​ธนบัตร​คลัง​เพื่อ​เชื่อมต่อ​ผู้​กระจาย​สินค้า​ใน​สต็อก​ไป​ยัง​ระบบ​ การ​ทำ​เช่นนี้​จะ​ช่วย​ให้​สามารถ​ซื้อขาย​สินค้า​ประเภท​ต่า​งๆ​ ได้มา​ก​ขึ้น​ และ​ใน​ปริมาณ​ที่มา​ก​ขึ้น​ด้วย",
+                "VN": "Cung cấp Phiếu Hàng để kết nối Chuyên Gia Điều Phối Vật Tư với hệ thống. Việc này cho phép mua bán nhiều loại hàng hóa hơn, với số lượng lớn hơn."
+              },
+              "versionStart": "v1d2d0"
+            },
+            "2": {
+              "channelDesc": {
+                "BR": "\"Excelente. Nos encontramos novamente, Endmin. A rede de entrega de mercadorias aumenta cada vez mais com nosso trabalho árduo.\"",
+                "CN": "“很好很好，我们又见面啦，管理员。物资网络在我们的努力下更加完整了呢。”",
+                "DE": "„Ausgezeichnet. Wir sehen uns wieder, Endmin. Dank unserer harten Arbeit wächst das Warenlieferungsnetzwerk immer weiter.“",
+                "EN": "\"Excellent. We meet again, Endmin. The goods delivery network grows ever more extensive with our hard work.\"",
+                "FR": "« Incroyable ! Comme on se retrouve, Endmin. Nos efforts incessants ont permis d'étendre considérablement notre réseau de livraison de marchandises. »",
+                "ID": "“Bagus sekali. Kita bertemu lagi, Endmin. Jaringan pengantaran barang jadi makin luas berkat kerja keras kita.”",
+                "IT": "\"Ottimo. Ci incontriamo di nuovo, Endmin. Grazie al nostro impegno, la rete di consegna degli articoli si estende sempre di più.\"",
+                "JP": "「また会いましたね、管理人。私たちの努力で、取引ネットワークはぐっと完成度が高まりましたよ。」",
+                "KR": "\"좋아요. 또 만났네요, 관리자님. 우리의 노력 끝에 물자 네트워크가 한층 더 탄탄해졌어요.\"",
+                "MX": "“Excelente. Nos volvemos a encontrar, Endmin. La red de entrega de mercancías crece cada vez más gracias a nuestro arduo trabajo.”",
+                "RU": "«Превосходно! Мы снова встретились, Эндмин. Благодаря нашим усилиям сеть доставки товаров только расширяется».",
+                "TC": "「很好很好，我們又見面啦，管理員。物資網路在我們的努力下更加完整了喔。」",
+                "TH": "\"เยี่ยม​เลย​ เรา​ได้​พบกัน​อีกครั้ง​ Endmin เครือข่าย​การจัดส่ง​สินค้า​กำลัง​ขยาย​กว้าง​ขึ้น​เรื่อ​ยๆ​ จาก​การทำงาน​หนัก​ของ​เรา​\"",
+                "VN": "\"Rất tốt. Chúng ta lại gặp nhau rồi, Endmin. Nhờ nỗ lực không ngừng của chúng ta mà mạng lưới giao hàng ngày càng mở rộng hơn nữa.\""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                400000
+              ],
+              "isFinalMaxLevel": false,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_2_1",
+                "domainshop_goods_map02_004_2_2",
+                "domainshop_goods_map02_004_2_3",
+                "domainshop_goods_map02_004_2_4",
+                "domainshop_goods_map02_004_3_8",
+                "domainshop_goods_map02_004_2_5",
+                "domainshop_goods_map02_004_2_6",
+                "domainshop_goods_rand_map02_8"
+              ],
+              "newGoodsNum": [
+                1,
+                1,
+                20,
+                10,
+                4,
+                1,
+                1,
+                0
+              ],
+              "randGoodsBaseLimitUp": 60,
+              "randGoodsDailyAddLimitUp": 30,
+              "timeId": "",
+              "upgradeDesc": {
+                "BR": "Forneça Letras de Câmbio para expandir a cobertura de estoque do Redistribuidor de Estoque. Isso permite comprar e vender mais tipos de produtos e em maiores quantidades.",
+                "CN": "提供调度券让物资调度员调度范围扩大，进一步提升售卖物资的种类与数量。",
+                "DE": "Stelle Aktiennoten zur Verfügung, um die Marktabdeckung des Vorratneuverteilers zu erhöhen. Dadurch können mehr verschiedene Waren und größere Mengen ge- und verkauft werden.",
+                "EN": "Provide Stock Bills to expand the Stock Redistributor's stock coverage. This allows the purchasing and selling of more types of goods, and at larger quantities too.",
+                "FR": "Dépensez des billets de réserves pour étendre la portée du redistributeur de réserves. Cela vous permet d'acheter et vendre plus de produits différents et en de plus grandes quantités.",
+                "ID": "Berikan Surat Saham untuk memperluas cakupan stok Redistributor Stok. Dengan ini, kamu bisa membeli dan menjual lebih banyak tipe barang serta dalam jumlah yang lebih besar.",
+                "IT": "Usa i buoni acquisto per ampliare la copertura del ridistributore scorte. Potrai vendere e acquistare più tipologie di articoli in quantità maggiori.",
+                "JP": "取引券を渡せば、調達可能な品目が追加され、商品の種類と数量がさらに増えます。",
+                "KR": "관리권을 제공하여 물자 관리원의 관리 범위를 확장하면, 판매하는 물자의 종류와 수량이 증가합니다.",
+                "MX": "Proporciona vales de crédito para ampliar la cobertura de inventario del Redistribuidor de existencias. Esto permite comprar y vender más tipos de mercancías y en mayores cantidades.",
+                "RU": "Предоставьте облигации, чтобы расширить ассортимент перераспределителя резервов. После этого можно будет торговать большим количеством товаров и в больших объемах.",
+                "TC": "提供調度券讓物資調度員的權限範圍擴大，進一步提升販售物資的種類與數量。",
+                "TH": "ให้​ธนบัตร​คลัง​เพื่อ​ขยาย​ขอบเขต​สินค้า​ของ​ผู้​กระจาย​สินค้า​ใน​สต็อก​ การ​ทำ​เช่นนี้​จะ​ช่วย​ให้​สามารถ​ซื้อขาย​สินค้า​ประเภท​ต่า​งๆ​ ได้มา​ก​ขึ้น​ และ​ใน​ปริมาณ​ที่มา​ก​ขึ้น​ด้วย",
+                "VN": "Cung cấp Phiếu Hàng để mở rộng phạm vi kho của Chuyên Gia Điều Phối Vật Tư. Việc này cho phép mua bán nhiều loại hàng hóa hơn, với số lượng lớn hơn."
+              },
+              "versionStart": "v1d3d4"
+            },
+            "3": {
+              "channelDesc": {
+                "BR": "\"Excelente. Nos encontramos novamente, Endmin. A rede de entrega de mercadorias aumenta cada vez mais graças ao nosso trabalho árduo.\"",
+                "CN": "“很好很好，我们又见面啦，管理员。物资网络在我们的努力下更加完整了呢。”",
+                "DE": "„Ausgezeichnet. So sieht man sich wieder, Endmin. Dank unserer harten Arbeit wächst das Warenlieferungsnetzwerk immer weiter.“",
+                "EN": "\"Excellent. We meet again, Endmin. The goods delivery network grows ever more extensive with our hard work.\"",
+                "FR": "« Incroyable ! Comme on se retrouve, Endmin. Nos efforts incessants ont permis d'étendre considérablement notre réseau de livraison de marchandises. »",
+                "ID": "“Bagus sekali. Kita bertemu lagi, Endmin. Jaringan pengantaran barang jadi makin luas berkat kerja keras kita.”",
+                "IT": "\"Ottimo. Ci incontriamo di nuovo, Endmin. Grazie al nostro impegno, la rete di consegna degli articoli si estende sempre di più.\"",
+                "JP": "「また会いましたね、管理人。私たちの努力で、取引ネットワークはぐっと完成度が高まりましたよ。」",
+                "KR": "\"좋아요. 또 만났네요, 관리자님. 우리의 노력 끝에 물자 네트워크가 한층 더 탄탄해졌어요.\"",
+                "MX": "“Excelente. Nos volvemos a encontrar, Endmin. La red de entrega de mercancías crece cada vez más gracias a nuestro arduo trabajo.”",
+                "RU": "«Превосходно! Мы снова встретились, Эндмин. Благодаря нашим усилиям сеть доставки товаров только расширяется».",
+                "TC": "「很好很好，我們又見面啦，管理員。物資網路在我們的努力下更加完整了喔。」",
+                "TH": "\"เยี่ยม​เลย​ เรา​เจอกัน​อีกแล้ว​นะ​ Endmin เครือข่าย​การขนส่ง​สินค้า​กำลัง​ขยาย​กว้าง​ขึ้น​เรื่อ​ยๆ​ จาก​การทำงาน​หนัก​ของ​เรา​\"",
+                "VN": "\"Rất tốt. Lại gặp nhau rồi, Endmin. Nhờ nỗ lực không ngừng của chúng ta mà mạng lưới giao hàng ngày càng được mở rộng.\""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                650000
+              ],
+              "isFinalMaxLevel": false,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_3_1",
+                "domainshop_goods_map02_004_3_2",
+                "domainshop_goods_map02_004_3_3",
+                "domainshop_goods_map02_004_3_4",
+                "domainshop_goods_map02_004_3_5",
+                "domainshop_goods_map02_004_3_6",
+                "domainshop_goods_map02_004_3_7",
+                "domainshop_goods_map02_004_3_9",
+                "domainshop_goods_rand_map02_9"
+              ],
+              "newGoodsNum": [
+                1,
+                120,
+                40,
+                30,
+                30,
+                20,
+                10,
+                10,
+                0
+              ],
+              "randGoodsBaseLimitUp": 60,
+              "randGoodsDailyAddLimitUp": 30,
+              "timeId": "",
+              "upgradeDesc": {
+                "BR": "Forneça Letras de Câmbio para expandir a cobertura de estoque do Redistribuidor de Estoque. Isso permite comprar e vender mais tipos de mercadorias e em maiores quantidades.",
+                "CN": "提供调度券让物资调度员调度范围扩大，进一步提升售卖物资的种类与数量。",
+                "DE": "Stelle Aktiennoten zur Verfügung, um die Marktabdeckung des Vorratneuverteilers zu erhöhen. Dadurch können mehr verschiedene Waren und größere Mengen ge- und verkauft werden.",
+                "EN": "Provide Stock Bills to expand the Stock Redistributor's stock coverage. This allows the purchasing and selling of more types of goods, and at larger quantities too.",
+                "FR": "Dépensez des billets de réserves pour étendre la portée du redistributeur de réserves. Cela vous permet d'acheter et vendre plus de produits différents et en de plus grandes quantités.",
+                "ID": "Berikan Surat Saham untuk memperluas cakupan stok Redistributor Stok. Dengan ini, kamu bisa membeli dan menjual lebih banyak tipe barang serta dalam jumlah yang lebih besar.",
+                "IT": "Usa i buoni acquisto per ampliare la copertura del ridistributore scorte. Potrai vendere e acquistare più tipologie di articoli in quantità maggiori.",
+                "JP": "取引券を渡せば、調達可能な品目が追加され、商品の種類と数量がさらに増えます。",
+                "KR": "관리권을 제공하여 물자 관리원의 관리 범위를 확장하면, 판매하는 물자의 종류와 수량이 증가합니다.",
+                "MX": "Proporciona vales de crédito para ampliar la cobertura de inventario del Redistribuidor de existencias. Esto permite la compra y venta de más tipos de mercancías y también en mayores cantidades.",
+                "RU": "Предоставьте облигации, чтобы расширить ассортимент перераспределителя резервов. После этого можно будет торговать большим количеством товаров и в больших объемах.",
+                "TC": "提供調度券讓物資調度員的權限範圍擴大，進一步提升販售物資的種類與數量。",
+                "TH": "ให้​ธนบัตร​คลัง​เพื่อ​ขยาย​ขอบเขต​สินค้า​ของ​ผู้​กระจาย​สินค้า​ใน​สต็อก​ การ​ทำ​เช่นนี้​จะ​ช่วย​ให้​สามารถ​ซื้อขาย​สินค้า​ประเภท​ต่า​งๆ​ ได้มา​ก​ขึ้น​ และ​ใน​ปริมาณ​ที่มา​ก​ขึ้น​ด้วย",
+                "VN": "Cung cấp Phiếu Hàng để mở rộng quy mô kho của Chuyên Gia Điều Phối Vật Tư. Việc này cho phép mua bán nhiều loại hàng hóa và với số lượng lớn hơn."
+              },
+              "versionStart": "v1d3d0"
+            },
+            "4": {
+              "channelDesc": {
+                "BR": "\"Excelente. Nos encontramos novamente, Endmin. A rede de entrega de mercadorias aumenta cada vez mais graças ao nosso trabalho árduo.\"",
+                "CN": "“很好很好，我们又见面啦，管理员。物资网络在我们的努力下更加完整了呢。”",
+                "DE": "„Ausgezeichnet. So sieht man sich wieder, Endmin. Dank unserer harten Arbeit wächst das Warenlieferungsnetzwerk immer weiter.“",
+                "EN": "\"Excellent. We meet again, Endmin. The goods delivery network grows ever more extensive with our hard work.\"",
+                "FR": "« Incroyable ! Comme on se retrouve, Endmin. Nos efforts incessants ont permis d'étendre considérablement notre réseau de livraison de marchandises. »",
+                "ID": "“Bagus sekali. Kita bertemu lagi, Endmin. Jaringan pengantaran barang jadi makin luas berkat kerja keras kita.”",
+                "IT": "\"Ottimo. Ci incontriamo di nuovo, Endmin. Grazie al nostro impegno, la rete di consegna articoli si estende sempre di più.\"",
+                "JP": "「また会いましたね、管理人。私たちの努力で、取引ネットワークはぐっと完成度が高まりましたよ。」",
+                "KR": "\"좋아요. 또 만났네요, 관리자님. 우리의 노력 끝에 물자 네트워크가 한층 더 탄탄해졌어요.\"",
+                "MX": "“Excelente. Nos volvemos a encontrar, Endmin. La red de entrega de mercancías crece cada vez más gracias a nuestro arduo trabajo.”",
+                "RU": "«Превосходно! Мы снова встретились, Эндмин. Благодаря нашим усилиям сеть доставки товаров только расширяется».",
+                "TC": "「很好很好，我們又見面啦，管理員。物資網路在我們的努力下更加完整了喔。」",
+                "TH": "\"เยี่ยม​เลย​ เรา​เจอกัน​อีกแล้ว​นะ​ Endmin เครือข่าย​การขนส่ง​สินค้า​กำลัง​ขยาย​กว้าง​ขึ้น​เรื่อ​ยๆ​ จาก​การทำงาน​หนัก​ของ​เรา​\"",
+                "VN": "\"Rất tốt. Lại gặp nhau rồi, Endmin. Nhờ nỗ lực không ngừng của chúng ta mà mạng lưới giao hàng ngày càng được mở rộng.\""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                1000000
+              ],
+              "isFinalMaxLevel": true,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_4_1",
+                "domainshop_goods_map02_004_4_2",
+                "domainshop_goods_map02_004_4_3",
+                "domainshop_goods_map02_004_4_4",
+                "domainshop_goods_map02_004_4_5",
+                "domainshop_goods_map02_004_4_6",
+                "domainshop_goods_map02_004_4_7",
+                "domainshop_goods_rand_map02_12"
+              ],
+              "newGoodsNum": [
+                1,
+                120,
+                40,
+                30,
+                30,
+                10,
+                10,
+                0
+              ],
+              "randGoodsBaseLimitUp": 30,
+              "randGoodsDailyAddLimitUp": 15,
+              "timeId": "",
+              "upgradeDesc": {
+                "BR": "Forneça Letras de Câmbio para expandir a cobertura de estoque do Redistribuidor de Estoque. Isso permite comprar e vender mais tipos de produtos e em maiores quantidades.",
+                "CN": "提供调度券让物资调度员调度范围扩大，进一步提升售卖物资的种类与数量。",
+                "DE": "Stelle Aktiennoten zur Verfügung, um die Marktabdeckung des Vorratneuverteilers zu erhöhen. Dadurch können mehr verschiedene Waren und größere Mengen ge- und verkauft werden.",
+                "EN": "Provide Stock Bills to expand the Stock Redistributor's stock coverage. This allows the purchasing and selling of more types of goods, and at larger quantities too.",
+                "FR": "Dépensez des billets de réserves pour étendre la portée du redistributeur de réserves. Cela vous permet d'acheter et vendre plus de produits différents et en de plus grandes quantités.",
+                "ID": "Berikan Surat Saham untuk memperluas cakupan stok Redistributor Stok. Dengan ini, kamu bisa membeli dan menjual lebih banyak tipe barang serta dalam jumlah yang lebih besar.",
+                "IT": "Usa i buoni acquisto per ampliare la copertura del ridistributore scorte. Potrai vendere e acquistare più tipologie di articoli in quantità maggiori.",
+                "JP": "取引券を渡せば、調達可能な品目が追加され、商品の種類と数量がさらに増えます。",
+                "KR": "관리권을 제공하여 물자 관리원의 관리 범위를 확장하면, 판매하는 물자의 종류와 수량이 증가합니다.",
+                "MX": "Proporciona vales de crédito para ampliar la cobertura de inventario del Redistribuidor de existencias. Esto permite comprar y vender más tipos de mercancías, y también en mayores cantidades.",
+                "RU": "Предоставьте облигации, чтобы расширить ассортимент перераспределителя резервов. После этого можно будет торговать большим количеством товаров и в больших объемах.",
+                "TC": "提供調度券讓物資調度員的權限範圍擴大，進一步提升販售物資的種類與數量。",
+                "TH": "ให้​ธนบัตร​คลัง​เพื่อ​ขยาย​ขอบเขต​สินค้า​ของ​ผู้​กระจาย​สินค้า​ใน​สต็อก​ การ​ทำ​เช่นนี้​จะ​ช่วย​ให้​สามารถ​ซื้อขาย​สินค้า​ประเภท​ต่า​งๆ​ ได้มา​ก​ขึ้น​ และ​ใน​ปริมาณ​ที่มา​ก​ขึ้น​ด้วย",
+                "VN": "Cung cấp Phiếu Hàng để mở rộng quy mô kho của Chuyên Gia Điều Phối Vật Tư. Việc này cho phép mua bán nhiều loại hàng hóa và với số lượng lớn hơn."
+              },
+              "versionStart": "v1d5d0"
+            }
+          },
+          "channelName": {
+            "BR": "Redistribuidor da Pedra de Marcação",
+            "CN": "首墩调度员",
+            "DE": "Grenzstein-Neuverteilung",
+            "EN": "Marker Stone Redistributor",
+            "FR": "Redistributeur de la Pierre de marquage",
+            "ID": "Redistributor Batu Penanda",
+            "IT": "Ridistributore della pietra di demarcazione",
+            "JP": "首礎取引担当",
+            "KR": "수돈 관리원",
+            "MX": "Redistribuidor de Piedra Marcadora",
+            "RU": "Перераспределитель Межевого камня",
+            "TC": "首墩調度員",
+            "TH": "ผู้​กระจาย​สินค้า​ใน​หิน​นำทาง",
+            "VN": "Chuyên Gia Điều Phối Đá Ranh Giới"
+          },
+          "levelId": "map02_lv004",
+          "shopGroupId": "domainshop_map02",
+          "skipToMissionChapter": 2
+        },
+        "changed": {
+          "channelLevelMap.4": {
+            "type": "value",
+            "newValue": {
+              "channelDesc": {
+                "id": "4904574897213577678",
+                "text": ""
+              },
+              "costItemIdList": [
+                "item_domain_jinlong_coupon"
+              ],
+              "costItemNumList": [
+                1000000
+              ],
+              "isFinalMaxLevel": true,
+              "newGoodsList": [
+                "domainshop_goods_map02_004_4_1",
+                "domainshop_goods_map02_004_4_2",
+                "domainshop_goods_map02_004_4_3",
+                "domainshop_goods_map02_004_4_4",
+                "domainshop_goods_map02_004_4_5",
+                "domainshop_goods_map02_004_4_6",
+                "domainshop_goods_map02_004_4_7",
+                "domainshop_goods_rand_map02_12"
+              ],
+              "newGoodsNum": [
+                1,
+                120,
+                40,
+                30,
+                30,
+                10,
+                10,
+                0
+              ],
+              "randGoodsBaseLimitUp": 30,
+              "randGoodsDailyAddLimitUp": 15,
+              "timeId": "",
+              "upgradeDesc": {
+                "id": "2523698071420830848",
+                "text": ""
+              },
+              "versionStart": "v1d5d0"
+            }
+          }
+        }
+      }
+    }
+  }
+}

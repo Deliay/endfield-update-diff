@@ -1,0 +1,60 @@
+{
+  "tableName": "CharGatherBehaviourTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "chr_0034_typhoea": {
+        "charId": "chr_0034_typhoea",
+        "cropEnv": "envEmoji_common_workhard",
+        "cropEnvCD": 10,
+        "cropFinishEnv": "envEmoji_common_happy",
+        "cropFinishEnvCD": 10,
+        "doodadEnv": "envEmoji_common_workhard",
+        "doodadEnvCD": 30,
+        "doodadFinishEnv": "envEmoji_common_thumbsup",
+        "doodadFinishEnvCD": 30
+      }
+    },
+    "removed": {},
+    "changed": {
+      "chr_0005_chen": {
+        "oldValue": {
+          "charId": "chr_0005_chen",
+          "cropEnv": "envEmoji_common_workhard",
+          "cropEnvCD": 10,
+          "cropFinishEnv": "envEmoji_common_happy",
+          "cropFinishEnvCD": 10,
+          "doodadEnv": "envEmoji_common_workhard",
+          "doodadEnvCD": 30,
+          "doodadFinishEnv": "envEmoji_common_happy",
+          "doodadFinishEnvCD": 30
+        },
+        "newValue": {
+          "charId": "chr_0005_chen",
+          "cropEnv": "envEmoji_common_workhard",
+          "cropEnvCD": 10,
+          "cropFinishEnv": "envEmoji_common_happy",
+          "cropFinishEnvCD": 10,
+          "doodadEnv": "envEmoji_common_workhard",
+          "doodadEnvCD": 30,
+          "doodadFinishEnv": "envEmoji_common_surprise",
+          "doodadFinishEnvCD": 30
+        },
+        "changed": {
+          "doodadFinishEnv": {
+            "type": "value",
+            "oldValue": "envEmoji_common_happy",
+            "newValue": "envEmoji_common_surprise"
+          }
+        }
+      }
+    }
+  }
+}

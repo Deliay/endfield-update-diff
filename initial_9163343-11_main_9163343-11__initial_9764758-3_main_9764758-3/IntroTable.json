@@ -1,0 +1,804 @@
+{
+  "tableName": "IntroTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "season_tower": {
+        "oldValue": {
+          "dataArray": [
+            {
+              "desc": {
+                "BR": "[Ecos da Guerra] é um modo de desafio <@gd.key>sazonal</> que está permanentemente disponível. Cada temporada contém vários <@gd.key>ciclos</>. Cada ciclo contém 3 estágios. Cada estágio possui 3 níveis de dificuldade: Normal, Difícil e Brutal.",
+                "CN": "「战争回响」是<@gd.key>赛季制</>常驻战斗挑战玩法，每个赛季由多个<@gd.key>轮换周期</>构成。\n每个轮换周期包含3个关卡，每个关卡有3个难度（普通、困难、残酷）。",
+                "DE": "[Echos des Krieges] ist ein <@gd.key>saisonaler</> und dauerhaft verfügbarer Herausforderungsmodus. Jede Saison besteht aus mehreren <@gd.key>Zyklen</>. Jeder Zyklus besteht aus 3 Phasen. Jede Phase hat 3 Schwierigkeitsgrade: „Normal“, „Schwer“ und „Brutal“.",
+                "EN": "[Echoes of War] is a <@gd.key>seasonal</> challenge mode that is permanently available. Each season comprises multiple <@gd.key>cycles</>. Each cycle includes 3 stages. Each stage comes in 3 difficulties: Normal, Hard, and Brutal.",
+                "FR": "[Échos guerriers] est un mode de défi <@gd.key>saisonnier</> disponible en permanence. Chaque saison comporte plusieurs <@gd.key>cycles</>, chacun comprenant 3 défis. Chaque défi propose trois niveaux de difficulté : Normal, Difficile et Brutal.",
+                "ID": "[Gema Perang] adalah mode tantangan <@gd.key>musiman</> yang tersedia secara permanen. Setiap musim terdiri dari beberapa <@gd.key>siklus</>. Setiap siklus berisi 3 stage. Setiap stage punya 3 tingkat kesulitan: Normal, Sulit, dan Brutal.",
+                "IT": "\"Echi di guerra\" è una modalità sfida <@gd.key>stagionale</> permanente. Ogni stagione include vari <@gd.key>cicli</>. Ogni ciclo include 3 fasi. Ogni fase è disponibile in 3 difficoltà: Normale, Difficile e Brutale.",
+                "JP": "「戦争残響」は<@gd.key>シーズン制</>の常時開放挑戦コンテンツです。各シーズンは複数の<@gd.key>ローテーション周期</>で構成されています。\n各ローテーション周期には3つのステージがあり、各ステージには3つの難易度（通常、苦難、苛烈）があります。",
+                "KR": "[전쟁의 메아리]는 <@gd.key>시즌제</>로 운영되는 상시 전투 도전 콘텐츠로, 각 시즌은 여러 <@gd.key>순환 주기</>로 구성됩니다.\n각 순환 주기에는 3개의 스테이지가 존재하며, 각 스테이지에는 3개의 난도(일반, 고난, 잔혹)가 존재합니다.",
+                "MX": "[Ecos de guerra] es un modo de desafío de <@gd.key>temporada</> disponible de forma permanente. Cada temporada se compone de varios <@gd.key>ciclos</>. Cada ciclo incluye 3 fases. Cada fase cuenta con 3 dificultades: Normal, Difícil y Brutal.",
+                "RU": "«Эхо войны» — это <@gd.key>сезонный</> режим испытаний, который доступен всегда. Каждый сезон состоит из нескольких <@gd.key>циклов</>. В цикле выделяется 3 стадии, у каждой из которых 3 сложности: обычная, сложная и жестокая.",
+                "TC": "「戰爭迴響」是<@gd.key>賽季制</>常駐戰鬥挑戰玩法，每個賽季由多個<@gd.key>輪換週期</>構成。\n每個輪換週期包含3個關卡，每個關卡有3個難度（普通、困難、殘酷）。",
+                "TH": "[เสียงสะท้อน​แห่ง​สงคราม​] เป็น​โหม​ด​ท้าทาย​ <@gd.key>​ตามฤดูกาล​</> ที่​เปิด​ให้​เล่น​ได้​ถาวร​ แต่ละ​ฤดูกาล​จะ​มี​<@gd.key>​รอบ​การ​เล่น​</>​หลาย​รอบ​ แต่ละ​รอบ​ประกอบด้วย​ 3 ด่าน​ แต่ละ​ด่าน​มี​ 3 ระดับ​ความ​ยาก​: ทั่วไป​ ยาก​ และ​ ยาก​มาก",
+                "VN": "[Tiếng Vọng Nơi Chiến Trận] là một chế độ thử thách <@gd.key>theo mùa</> được mở thường trực. Mỗi mùa gồm nhiều <@gd.key>chu kỳ</>. Mỗi chu kỳ gồm 3 màn chơi. Mỗi màn có 3 độ khó: Thường, Khó và Tàn Bạo."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_1",
+              "pageIndex": 1,
+              "title": {
+                "BR": "Classificação do Estágio (1)",
+                "CN": "关卡评级 - 一",
+                "DE": "Phasen-Bewertung (1)",
+                "EN": "Stage Rating (1)",
+                "FR": "Niveau du défi (1)",
+                "ID": "Rating untuk Stage (1)",
+                "IT": "Punteggio di fase (1)",
+                "JP": "ステージ評価 - 1",
+                "KR": "스테이지 평가 등급 - 1",
+                "MX": "Puntuación de fase (1)",
+                "RU": "Рейтинг стадии (1)",
+                "TC": "關卡評級 - 一",
+                "TH": "คะแนน​ระดับ​ (1)",
+                "VN": "Xếp Hạng Màn Chơi (1)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Concluir um estágio nas dificuldades Normal, Difícil e Brutal concede 1★, 2★ e 3★, respectivamente. Concluir um estágio na dificuldade Brutal e <@gd.key>atender aos objetivos do desafio bônus</> adiciona o reforço <@gd.key>[Lustroso]</> à classificação do estágio.",
+                "CN": "通关普通难度可达成「1星评级」；通关困难难度可达成「2星评级」；通关残酷难度可达成「3星评级」。\n通关残酷难度并完成该关卡的<@gd.key>附加挑战目标</>，可使该关卡评级获得<@gd.key>「增辉」</>。",
+                "DE": "Das Abschließen einer Phase auf Normal, Schwer beziehungsweise Brutal gewährt 1★-, 2★- beziehungsweise 3★-Belohnungen. Wenn eine Phase auf Brutal abgeschlossen wird und <@gd.key>die Bonusherausforderungsziele erfüllt sind</>, wird der Boost <@gd.key>[Leuchtend]</> auf die Phasen-Bewertung angewandt.",
+                "EN": "Completing a stage on Normal, Hard, and Brutal difficulties rewards 1★, 2★, and 3★ respectively. Completing a stage in Brutal difficulty and <@gd.key>fulfilling the bonus challenge goals</> adds the <@gd.key>[Lustrous]</> boost to the stage rating.",
+                "FR": "Terminez un défi dans le niveau de difficulté Normal, Difficile ou Brutal pour obtenir 1★, 2★ ou 3★, respectivement. Lorsque vous terminez un défi dans le niveau de difficulté Brutal et <@gd.key>remplissez les objectifs bonus</>, vous bénéficiez du bonus <@gd.key>Illustre</> à votre note de défi.",
+                "ID": "Secara berurutan, penyelesaian stage dengan tingkat kesulitan Normal, Sulit, dan Brutal akan memberikan imbalan 1★, 2★, dan 3★. Jika berhasil menyelesaikan stage dengan tingkat kesulitan Brutal dan <@gd.key>memenuhi target bonus tantangan</>, rating untuk stage akan mendapatkan boost <@gd.key>[Lustrous]</>.",
+                "IT": "Completare una fase nelle difficoltà Normale, Difficile e Brutale conferisce rispettivamente 1★, 2★ e 3★. Completare una fase in difficoltà Brutale e <@gd.key>soddisfare gli obiettivi bonus della sfida</> aggiunge il potenziamento <@gd.key>\"Splendente\"</> al punteggio della fase.",
+                "JP": "「通常」難易度でクリアすると「★1評価」、「苦難」の場合は「★2評価」、「苛烈」の場合は「★3評価」を獲得できます。\n「苛烈」をクリアしたうえでステージの<@gd.key>サブ目標</>を達成した場合、ステージ評価に<@gd.key>「輝き」</>を付与することができます。",
+                "KR": "일반 난도를 완료하면 [1성 평가]를 달성할 수 있고, 고난 난도를 완료하면 [2성 평가]를 달성할 수 있으며, 잔혹 난도를 완료하면 [3성 평가]를 달성할 수 있습니다.\n잔혹 난도를 완료하고 해당 스테이지의 <@gd.key>추가 도전 목표</>를 완료하면, 해당 스테이지의 평가 등급에 <@gd.key>[반짝임]</>이 부여됩니다.",
+                "MX": "Completar una fase en las dificultades Normal, Difícil y Brutal otorga 1★, 2★ y 3★, respectivamente. Completar una fase en dificultad Brutal y <@gd.key>cumplir los objetivos de desafío adicionales</> añade el incremento <@gd.key>[Lustroso]</> a la puntuación de la fase.",
+                "RU": "За прохождение обычной, сложной и жестокой стадии дается награда: 1★, 2★ и 3★ соответственно. Если пройти жестокую стадию и <@gd.key>выполнить дополнительные цели испытания</>, к рейтингу стадии добавится усиление <@gd.key>Блеск</>.",
+                "TC": "通關普通難度可達成「1星評級」；通關困難難度可達成「2星評級」；通關殘酷難度可達成「3星評級」。\n通關殘酷難度並完成該關卡的<@gd.key>附加挑戰目標</>，可使該關卡評級獲得<@gd.key>「增輝」</>。",
+                "TH": "มื่​อ​เคลียร์​ด่าน​ใน​ระดับ​ความ​ยาก​ ทั่วไป​ ยาก​ และ​ ยาก​มาก​ จะ​ได้รับ​คะแนน​ 1★, 2★ และ​ 3★ ตามลำดับ​ การ​เคลียร์​ด่าน​ใน​ระดับ​ ยาก​มาก​ และ​<@gd.key>​ทำ​เป้าหมาย​ท้าทาย​โบนัส​สำเร็จ​</> จะ​เพิ่ม​บู​ส​ต์​ <@gd.key>[เจิด​จรัส​]</> ให้​กับ​คะแนน​ประเมิน​ของ​ด่าน​นั้น",
+                "VN": "Hoàn thành một màn ở độ khó Thường, Khó và Tàn Bạo sẽ lần lượt nhận được 1★, 2★ và 3★. Khi hoàn thành màn chơi ở độ khó Tàn Bạo và <@gd.key>đạt các mục tiêu thử thách bổ sung</>, xếp hạng của màn sẽ nhận thêm hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</>."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_2",
+              "pageIndex": 2,
+              "title": {
+                "BR": "Classificação do Estágio (2)",
+                "CN": "关卡评级 - 二",
+                "DE": "Phasen-Bewertung (2)",
+                "EN": "Stage Rating (2)",
+                "FR": "Niveau du défi (2)",
+                "ID": "Rating untuk Stage (2)",
+                "IT": "Punteggio di fase (2)",
+                "JP": "ステージ評価 - 2",
+                "KR": "스테이지 평가 등급 - 2",
+                "MX": "Puntuación de fase (2)",
+                "RU": "Рейтинг стадии (2)",
+                "TC": "關卡評級 - 二",
+                "TH": "คะแนน​ระดับ​ (2)",
+                "VN": "Xếp Hạng Màn Chơi (2)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "A <@gd.key>Classificação Total</> máxima que pode ser obtida em um ciclo (ao concluir com sucesso 3 estágios na dificuldade Brutal) é 9★. Após o término de um ciclo, a Classificação Total será <@gd.key>zerada</> para o novo ciclo. Desafie os estágios do novo ciclo para ganhar estrelas novamente.",
+                "CN": "同一轮换周期内，3个关卡所获星数之和为该周期的<@gd.key>总评级</>（最高为9星）。\n周期轮换后，新周期的关卡星数评级将被<@gd.key>重置</>，需重新挑战以再次获得星数。",
+                "DE": "Die höchste <@gd.key>Gesamtbewertung</> für einen Zyklus (durch erfolgreichen Abschluss von 3 Phasen auf Brutal) ist 9★. Nach dem Ende eines Zyklus wird die Gesamtbewertung für den neuen Zyklus <@gd.key>zurückgesetzt</>. Stelle dich den Phasen des neuen Zyklus und verdiene erneut Sterne.",
+                "EN": "The highest <@gd.key>Total Rating</> that can be earned from a cycle (by successfully completing 3 stages in Brutal difficulty) is 9★. After a cycle ends, the Total Rating will be <@gd.key>reset</> for the new cycle. Challenge the stages of the new cycle to earn stars again.",
+                "FR": "La <@gd.key>note globale</> maximale qui peut être obtenue lors d'un cycle (en terminant 3 défis dans le niveau de difficulté Brutal) est de 9★. La note globale est <@gd.key>réinitialisée</> à la fin d'un cycle. Réussissez les défis du nouveau cycle pour remporter à nouveau des étoiles.",
+                "ID": "<@gd.key>Total Rating</> tertinggi yang bisa didapatkan dari siklus (dengan menyelesaikan 3 stage dengan tingkat kesulitan Brutal) adalah 9★. Setelah siklus berakhir, Total Rating akan <@gd.key>direset</> untuk siklus yang baru. Tantang stage dalam siklus baru untuk mendapatkan bintang lagi.",
+                "IT": "Il <@gd.key>Punteggio totale</> più alto ottenibile in un ciclo (completando con successo 3 fasi a difficoltà Brutale) è 9★. Alla fine di un ciclo, il Punteggio totale verrà <@gd.key>azzerato</> per il nuovo ciclo. Affronta le fasi del nuovo ciclo per ottenere di nuovo stelle.",
+                "JP": "同じローテーション周期内において、3つのステージで獲得した★数の合計が、その周期の<@gd.key>総評価</>となります（最大★9）。\nローテーション周期が更新されると、その周期のステージ評価は<@gd.key>リセット</>されます。再挑戦して改めて★数評価を獲得する必要があります。",
+                "KR": "하나의 순환 주기 내 3개 스테이지의 성급 합계가 해당 주기의 <@gd.key>총 평가 등급</>(최대 9성)이 됩니다.\n주기가 바뀌면 새 주기의 스테이지 성급 평가는 <@gd.key>초기화</>되며, 다시 도전해야 성급을 획득할 수 있습니다.",
+                "MX": "La <@gd.key>Puntuación total</> máxima que puede obtenerse en un ciclo (al completar con éxito 3 fases en dificultad Brutal) es de 9★. Cuando termine un ciclo, la Puntuación total se <@gd.key>restablecerá</> para el nuevo ciclo. Desafía las fases del nuevo ciclo para volver a ganar estrellas.",
+                "RU": "9★ — максимальный <@gd.key>общий рейтинг</> за цикл при успешном прохождении 3 жестоких стадий. После окончания цикла общий рейтинг <@gd.key>сбрасывается</>. Пройдите испытания стадий нового цикла, чтобы снова получить звезды.",
+                "TC": "同一輪換週期內，3個關卡所獲星數之和為該週期的<@gd.key>總評級</>（最高為9星）。\n週期輪換後，新週期的關卡星數評級將被<@gd.key>重置</>，需重新挑戰以再次獲得星數。",
+                "TH": "<@gd.key>​คะแนน​รวม​</>​สูงสุด​ที่​ได้รับ​ได้​ใน​แต่ละ​รอบ​ คือ​ 9★ (โดย​ต้อง​เคลียร์​ทั้ง​ 3 ด่าน​ใน​ระดับ​ยาก​มาก​ให้​สำเร็จ​) หลังจาก​รอบ​สิ้นสุดลง​ คะแนน​รวม​จะ​ถูก​<@gd.key>​รีเซ็ต​</>​สำหรับ​รอบ​ใหม่​ ท้าทาย​ด่าน​ต่า​งๆ​ ของ​รอบ​การ​เล่น​ใหม่​เพื่อ​รับ​ดาว​อีกครั้ง",
+                "VN": "<@gd.key>Tổng Xếp Hạng</> cao nhất có thể nhận được trong một chu kỳ là 9★, đạt được bằng cách hoàn thành cả 3 màn ở độ khó Tàn Bạo. Sau khi chu kỳ kết thúc, Tổng Xếp Hạng sẽ được <@gd.key>đặt lại</> cho chu kỳ mới. Hãy thử thách các màn trong chu kỳ mới để nhận sao lần nữa."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_3",
+              "pageIndex": 3,
+              "title": {
+                "BR": "Classificação do Estágio (3)",
+                "CN": "关卡评级 - 三",
+                "DE": "Phasen-Bewertung (3)",
+                "EN": "Stage Rating (3)",
+                "FR": "Niveau du défi (3)",
+                "ID": "Rating untuk Stage (3)",
+                "IT": "Punteggio di fase (3)",
+                "JP": "ステージ評価 - 3",
+                "KR": "스테이지 평가 등급 - 3",
+                "MX": "Puntuación de fase (3)",
+                "RU": "Рейтинг стадии (3)",
+                "TC": "關卡評級 - 三",
+                "TH": "คะแนน​ระดับ​ (3)",
+                "VN": "Xếp Hạng Màn Chơi (3)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "A Classificação Total mais alta obtida em todos os ciclos da temporada será a <@gd.key>[Classificação Final]</> da temporada. O número de estrelas conquistadas (1★, 3★, 5★, 7★ e 9★) será usado para determinar o <@gd.key>título da temporada</> concedido.",
+                "CN": "本赛季各轮换周期总评级中的最高者，将作为本赛季的<@gd.key>「最终评级」</>。\n根据获得星数（1星/3星/5星/7星/9星），可获得对应的<@gd.key>赛季称号</>。",
+                "DE": "Die höchste Gesamtbewertung, die über alle Zyklen der Saison erreicht wurde, entspricht der <@gd.key>[Endbewertung]</> der Saison. Außerdem wird ein <@gd.key>Saisontitel</> basierend auf der Anzahl der gesammelten Sterne (1★, 3★, 5★, 7★ oder 9★) vergeben.",
+                "EN": "The highest Total Rating earned across all cycles in the season will be the <@gd.key>[Final Rating]</> of the season. The number of stars earned (1★, 3★, 5★, 7★, and 9★) will be used to determine the <@gd.key>season title</> awarded.",
+                "FR": "La note globale maximale remportée sur l'ensemble des cycles de la saison constituera la <@gd.key>[note finale]</> de la saison. Le nombre d'étoiles remportées (1★, 3★, 5★, 7★ et 9★) déterminera le <@gd.key>titre saisonnier</> attribué.",
+                "ID": "Total Rating tertinggi yang didapatkan di seluruh siklus dalam musim akan menjadi <@gd.key>[Rating Akhir]</> musim. Jumlah bintang yang didapatkan (1★, 3★, 5★, 7★, dan 9★) akan digunakan untuk menentukan <@gd.key>gelar musim</> yang diberikan.",
+                "IT": "Il Punteggio totale più alto ottenuto in tutti i cicli della stagione sarà il <@gd.key>\"Punteggio finale\"</> della stagione. Il numero di stelle ottenute (1★, 3★, 5★, 7★ e 9★) sarà usato per determinare il <@gd.key>titolo di stagione</> assegnato.",
+                "JP": "シーズン中は、各周期で獲得した総評価のうち、最も高いものがシーズンの<@gd.key>「最終評価」</>として記録されます。\nその★数（★1/★3/★5/★7/★9）に応じて、対応する<@gd.key>シーズン称号</>を獲得できます。",
+                "KR": "현재 시즌, 각 순환 주기의 총 평가 등급 중 가장 높은 평가가 이번 시즌의 <@gd.key>[최종 평가 등급]</>이 됩니다.\n획득한 성급(1성/3성/5성/7성/9성)에 따라 해당 <@gd.key>시즌 타이틀</>을 획득할 수 있습니다.",
+                "MX": "La Puntuación total más alta obtenida en todos los ciclos de la temporada será la <@gd.key>[Puntuación final]</> de la temporada. La cantidad de estrellas obtenidas (1★, 3★, 5★, 7★ y 9★) se usará para determinar el <@gd.key>título de temporada</> otorgado.",
+                "RU": "<@gd.key>Итоговый рейтинг</> сезона основывается на самом высоком общем рейтинге за все циклы сезона. Количество полученных звезд (1★, 3★, 5★, 7★ и 9★) определит присваиваемый <@gd.key>титул сезона</>.",
+                "TC": "本賽季各輪換週期總評級中的最高者，將作為本賽季的<@gd.key>「最終評級」</>。\n根據獲得星數（1星/3星/5星/7星/9星），可獲得對應的<@gd.key>賽季稱號</>。",
+                "TH": "คะแนน​รวม​สูงสุด​ที่​ได้รับ​จาก​ทุก​รอบ​ใน​ฤดูกาล​ จะ​ถูก​นับเป็น​ <@gd.key>[คะแนน​ประเมิน​สุดท้าย​]</> ของ​ฤดูกาล​นี้​ และ​จะ​ได้รับ​ฉายา​<@gd.key>​ประจำ​ฤดูกาล​</>​ตาม​จำนวน​ดาว​ที่​ได้รับ​ด้วย​ (ได้แก่​ 1★, 3★, 5★, 7★ และ​ 9★)",
+                "VN": "Tổng Xếp Hạng cao nhất đạt được trong tất cả chu kỳ của mùa sẽ là <@gd.key>[Xếp Hạng Cuối Mùa]</> của mùa đó. Số sao đạt được (1★, 3★, 5★, 7★ và 9★) sẽ được dùng để xác định <@gd.key>danh hiệu mùa</> được trao."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_4",
+              "pageIndex": 4,
+              "title": {
+                "BR": "Título da Temporada (1)",
+                "CN": "赛季称号 - 一",
+                "DE": "Saisontitel (1)",
+                "EN": "Season Title (1)",
+                "FR": "Titre de la saison (1)",
+                "ID": "Gelar Musim (1)",
+                "IT": "Titolo di stagione (1)",
+                "JP": "シーズン称号 - 1",
+                "KR": "시즌 타이틀 - 1",
+                "MX": "Título de temporada (1)",
+                "RU": "Титул сезона (1)",
+                "TC": "賽季稱號 - 一",
+                "TH": "ชื่อ​ซี​ซัน​ (1)",
+                "VN": "Danh Hiệu Mùa (1)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Conquistar o bônus <@gd.key>[Lustroso]</> em todos os 3 estágios de um ciclo também torna o título da temporada <@gd.key>[Lustroso]</>. O título da temporada atual será exibido nas telas da interface do usuário relacionadas ao recurso Amigos.",
+                "CN": "若同一轮换周期内的3个关卡均已获得<@gd.key>「增辉」</>，则该赛季称号也会获得<@gd.key>「增辉」</>。\n赛季称号会在好友相关界面展示。",
+                "DE": "Wenn der Boost <@gd.key>[Leuchtend]</> für alle 3 Phasen eines Zyklus erreicht wird, wird auch der Saisontitel <@gd.key>[Leuchtend]</>. Der Titel aus der aktuellen Saison wird in der Benutzeroberfläche für Interaktionen mit Freunden angezeigt.",
+                "EN": "Earning the <@gd.key>[Lustrous]</> boost for all 3 stages in a cycle also makes the season title <@gd.key>[Lustrous]</>. The current season title will be displayed at UI screens related to the Friends feature.",
+                "FR": "Remportez le bonus <@gd.key>[Illustre]</> dans les 3 défis d'un cycle pour vous voir octroyer le titre saisonnier <@gd.key>[Illustre]</>. Le titre saisonnier actuel s'affichera sur les interfaces en rapport avec la fonctionnalité Amis.",
+                "ID": "Jika berhasil mendapatkan boost <@gd.key>[Lustrous]</> untuk ketiga stage dalam siklus, kamu juga akan mendapatkan gelar musim <@gd.key>[Lustrous]</>. Gelar musim saat ini akan ditampilkan di layar UI yang berkaitan dengan fitur Teman.",
+                "IT": "Ottenere il potenziamento <@gd.key>\"Splendente\"</> in tutte e 3 le fasi di un ciclo rende anche il titolo di stagione <@gd.key>\"Splendente\"</>. Il titolo di stagione corrente viene mostrato nell'interfaccia relativa alla sezione Amici.",
+                "JP": "同一周期内の3つのステージですべて<@gd.key>「輝き」</>を獲得した場合、シーズン称号にも<@gd.key>「輝き」</>が付与されます。\nシーズン称号はフレンド関連画面で表示されます。",
+                "KR": "하나의 순환 주기 내 3개 스테이지가 모두 <@gd.key>[반짝임]</>을 획득한 경우, 해당 시즌 타이틀에도 <@gd.key>[반짝임]</>이 부여됩니다.\n시즌 타이틀은 친구 관련 화면에 표시됩니다.",
+                "MX": "Obtener el incremento <@gd.key>[Lustroso]</> en las 3 fases de un ciclo también hace que el título de temporada sea <@gd.key>[Lustroso]</>. El título de la temporada actual se mostrará en las pantallas de la interfaz de usuario relacionadas con la función Amigos.",
+                "RU": "При прохождении 3 стадий цикла и получении усиления <@gd.key>Блеск</> выдается титул сезона <@gd.key>Блеск</>. Титул текущего сезона отображается на экранах интерфейса в меню «Друзья».",
+                "TC": "若同一輪換週期內的3個關卡均已獲得<@gd.key>「增輝」</>，則該賽季稱號也會獲得<@gd.key>「增輝」</>。\n賽季稱號會在好友相關介面展示。",
+                "TH": "การ​ได้รับ​บู​ส​ต์​ <@gd.key>[เจิด​จรัส​]</> ครบ​ทั้ง​ 3 ด่าน​ใน​หนึ่ง​รอบ​ จะ​ทำให้​ฉายา​ประจำ​ฤดูกาล​เป็น​ <@gd.key>[เจิด​จรัส​]</> ด้วย​ ฉายา​ประจำ​ฤดูกาล​ปัจจุบัน​จะ​แสดง​ใน​ UI ที่​เกี่ยวข้อง​กับ​ฟีเจอร์​เพื่อน",
+                "VN": "Nếu nhận được hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</> ở cả 3 màn trong một chu kỳ, danh hiệu mùa cũng sẽ trở thành <@gd.key>[Rực Rỡ]</>. Danh hiệu của mùa hiện tại sẽ được hiển thị trong các màn hình giao diện liên quan đến tính năng Bạn Bè."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_5",
+              "pageIndex": 5,
+              "title": {
+                "BR": "Título da Temporada (2)",
+                "CN": "赛季称号 - 二",
+                "DE": "Saisontitel (2)",
+                "EN": "Season Title (2)",
+                "FR": "Titre de la saison (2)",
+                "ID": "Gelar Musim (2)",
+                "IT": "Titolo di stagione (2)",
+                "JP": "シーズン称号 - 2",
+                "KR": "시즌 타이틀 - 2",
+                "MX": "Título de temporada (2)",
+                "RU": "Титул сезона (2)",
+                "TC": "賽季稱號 - 二",
+                "TH": "ชื่อ​ซี​ซัน​ (2)",
+                "VN": "Danh Hiệu Mùa (2)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Quando um ciclo começa, os níveis de dificuldade Normal e Difícil estarão disponíveis por padrão para cada estágio. Conquistar o reforço <@gd.key>[Lustroso]</> na temporada atual desbloqueia automaticamente a dificuldade Brutal para todos os estágios na próxima temporada.",
+                "CN": "每个关卡会初始解锁普通与困难难度，通关困难难度后解锁残酷难度。\n若本赛季的赛季称号已获得<@gd.key>「增辉」</>，则下个赛季的所有关卡将直接解锁残酷难度。",
+                "DE": "Zu Beginn eines Zyklus sind automatisch die Schwierigkeitsgrade „Normal“ und „Schwer“ für jede Phase verfügbar. Erhältst du für den aktuellen Saisontitel den Boost <@gd.key>[Leuchtend]</>, schaltest du für alle Phasen der nächsten Saison automatisch den Schwierigkeitsgrad „Brutal“ frei.",
+                "EN": "When a cycle begins, Normal and Hard difficulty tiers will be available by default for each stage. Earning the <@gd.key>[Lustrous]</> boost for the current season title automatically unlocks Brutal difficulty for all stages in the next season.",
+                "FR": "Au début d'un cycle, les niveaux de difficulté Normal et Difficile sont disponibles par défaut pour chaque défi. Remporter le bonus <@gd.key>[Illustre]</> pour le titre saisonnier actuel débloque automatiquement la difficulté Brutal pour tous les défis de la saison suivante.",
+                "ID": "Saat siklus dimulai, tingkat kesulitan Normal dan Sulit akan tersedia secara default untuk setiap stage. Jika mendapatkan boost <@gd.key>[Lustrous]</> untuk gelar musim ini, tingkat kesulitan Brutal untuk semua stage pada musim berikutnya akan terbuka secara otomatis.",
+                "IT": "Quando inizia un ciclo, le difficoltà Normale e Difficile sono disponibili per impostazione predefinita per ogni fase. Ottenere un potenziamento <@gd.key>\"Splendente\"</> per il titolo di stagione corrente sblocca automaticamente la difficoltà Brutale per tutte le fasi della stagione successiva.",
+                "JP": "各ステージは初めから2つの難易度：「通常」と「苦難」が開放されています。「苦難」をクリアすると、「苛烈」が解放されます。\n本シーズンの称号に、<@gd.key>「輝き」</>がすでに付与された場合、次のシーズン開始時に、すべてのステージで「苛烈」が直接開放されます。",
+                "KR": "각 스테이지는 기본적으로 일반 및 고난 난도가 잠금 해제되어 있으며, 고난 난도를 완료하면 잔혹 난도가 잠금 해제됩니다.\n현재 시즌의 시즌 타이틀이 <@gd.key>[반짝임]</>을 획득한 상태라면, 다음 시즌의 모든 스테이지는 잔혹 난도가 바로 잠금 해제됩니다.",
+                "MX": "Cuando comience un ciclo, los niveles de dificultad Normal y Difícil estarán disponibles de forma predeterminada para cada fase. Obtener el incremento <@gd.key>[Lustroso]</> para el título de la temporada actual desbloquea automáticamente la dificultad Brutal en todas las fases de la próxima temporada.",
+                "RU": "В начале цикла обычная и сложная стадии доступны по умолчанию. Получите усиление <@gd.key>Блеск</> для титула текущего сезона, чтобы автоматически открыть жестокую сложность для всех стадий в следующем сезоне.",
+                "TC": "每個關卡初始會解鎖普通與困難難度，通關困難難度後解鎖殘酷難度。\n若本賽季的賽季稱號已獲得<@gd.key>「增輝」</>，則下個賽季的所有關卡將直接解鎖殘酷難度。",
+                "TH": "เมื่อ​รอบ​เริ่มต้น​ แต่ละ​ด่าน​จะ​มีระดับ​ความ​ยาก​ ทั่วไป​และ​ยาก​ ให้​เล่น​เป็น​ค่า​เริ่มต้น​ การ​ได้รับ​ชื่อ​ <@gd.key>[เจิด​จรัส​]</> ใน​ซี​ซัน​ปัจจุบัน​ จะ​ปลดล็อก​ระดับ​ยาก​มาก​ สำหรับ​ทุก​ด่าน​ใน​ซี​ซัน​ถัดไป​โดยอัตโนมัติ",
+                "VN": "Khi một chu kỳ bắt đầu, các bậc độ khó Thường và Khó sẽ được mở mặc định cho mỗi màn chơi. Nhận hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</> cho danh hiệu mùa hiện tại sẽ tự động mở khóa độ khó Tàn Bạo cho tất cả màn chơi trong mùa tiếp theo."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_6",
+              "pageIndex": 6,
+              "title": {
+                "BR": "Estágio: Desbloqueio",
+                "CN": "关卡解锁",
+                "DE": "Phase: Freischalten",
+                "EN": "Stage: Unlocking",
+                "FR": "Défi : déblocage",
+                "ID": "Stage: Membuka",
+                "IT": "Fase: Sblocco",
+                "JP": "ステージ解放",
+                "KR": "스테이지 잠금 해제",
+                "MX": "Fase: Desbloqueo",
+                "RU": "Стадия: открытие",
+                "TC": "關卡解鎖",
+                "TH": "ระดับ​: กำลัง​ปลดล็อก",
+                "VN": "Màn Chơi: Mở Khóa"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Ganhar as classificações 1★, 2★ e 3★ em um estágio pela primeira vez concede a você recompensas de <@gd.key>Honra</> correspondentes à classificação. As recompensas de Honra para cada classificação em um estágio são <@gd.key>concedidas apenas uma vez</>. Elas não serão zeradas após atualizações de temporada ou mudanças de ciclo.",
+                "CN": "当分别首次达成某个关卡的1星、2星或3星评级时，可获得对应评级的<@gd.key>荣勋</>奖励。\n每个关卡评级的荣勋奖励为<@gd.key>一次性奖励</>，不会因赛季更新或周期轮换而重置。",
+                "DE": "Wenn du das erste Mal eine Bewertung von 1★, 2★ und 3★ in einer Phase erhältst, bekommst du <@gd.key>Ehren</>belohnungen je nach Bewertung. Diese Belohnungen werden nur <@gd.key>einmalig</> vergeben. Sie werden nicht zurückgesetzt, wenn die Saison aktualisiert wird oder der Zyklus sich ändert.",
+                "EN": "Earning 1★, 2★, and 3★ ratings for the first time in a stage gives you <@gd.key>Honor</> rewards corresponding to the rating. Honor rewards for each rating of a stage are <@gd.key>one-time rewards</>. They will not reset after season updates or cycle changes.",
+                "FR": "Remportez une note de 1★, 2★ et 3★ pour la première fois dans un défi pour recevoir des récompenses <@gd.key>honorifiques</> en fonction de la note reçue. Ces récompenses ne seront attribuées <@gd.key>qu'une fois</> pour chaque note d'un même défi. Elles ne sont pas réinitialisées à l'arrivée d'une nouvelle saison ou d'un nouveau cycle.",
+                "ID": "Jika berhasil mendapatkan rating 1★, 2★, dan 3★ untuk pertama kalinya dalam stage, kamu akan mendapatkan imbalan <@gd.key>Kehormatan</> berdasarkan rating. Imbalan Kehormatan untuk setiap rating dalam stage berupa <@gd.key>imbalan satu kali</>. Imbalan ini tidak akan direset setelah pembaruan musim atau perubahan siklus.",
+                "IT": "Ottenere per la prima volta punteggi da 1★, 2★ e 3★ in una fase conferisce ricompense d'<@gd.key>onore</> corrispondenti al punteggio. Le ricompense d'onore di ogni punteggio di una fase sono <@gd.key>ricompense una tantum</>. Non vengono ripristinate dopo gli aggiornamenti della stagione o i cambi di ciclo.",
+                "JP": "任意ステージで★1、★2、★3評価をそれぞれ初めて獲得したときに、その評価に対応する<@gd.key>栄誉</>報酬を受け取れます。\n各ステージ評価の栄誉報酬は<@gd.key>1回のみ</>獲得可能です。シーズンの更新や周期のローテーションによってリセットされることはありません。",
+                "KR": "특정 스테이지에서 1성, 2성, 3성 평가를 각각 처음 달성하면 해당 평가의 <@gd.key>공훈</> 보상을 획득할 수 있습니다.\n각 스테이지 평가 등급의 공훈 보상은 <@gd.key>일회성 보상</>이며, 시즌 업데이트나 주기 변화로 초기화되지 않습니다.",
+                "MX": "Obtener puntuaciones de 1★, 2★ y 3★ por primera vez en una fase te concede recompensas de <@gd.key>Honor</> correspondientes a la puntuación. Las recompensas de Honor de cada puntuación de una fase son <@gd.key>recompensas únicas</>. No se reiniciarán después de actualizaciones de temporada o cambios de ciclo.",
+                "RU": "Если вы впервые достигли рейтинга 1★, 2★ и 3★, вы получите соответствующие награды <@gd.key>чести</>. Награды чести за каждый рейтинг стадии вручаются <@gd.key>только 1 раз</> и не сбрасываются после обновления сезона или смены циклов.",
+                "TC": "分別首次達成某個關卡的1星、2星或3星評級時，可獲得對應評級的<@gd.key>榮勛</>獎勵。\n每個關卡評級的榮勛獎勵為<@gd.key>單次獎勵</>，不會因賽季更新或週期輪換而重置。",
+                "TH": "การ​ได้รับ​คะแนน​ 1★, 2★ และ​ 3★ เป็นครั้งแรก​ใน​แต่ละ​ด่าน​ จะ​มอบ​รางวัล​<@gd.key>​เกียรติยศ​</> ที่​สอดคล้อง​กับ​คะแนน​นั้น​ให้​คุณ​ รางวัล​เกียรติยศ​ของ​แต่ละ​คะแนน​ใน​แต่ละ​ด่าน​เป็น​<@gd.key>​รางวัล​แบบ​รับได้​ครั้ง​เดียว​</> และ​จะ​ไม่​รีเซ็ต​หลัง​อัปเดต​ฤดูกาล​หรือ​เปลี่ยน​รอบ",
+                "VN": "Khi lần đầu đạt xếp hạng 1★, 2★ và 3★ trong một màn, bạn sẽ nhận được phần thưởng <@gd.key>Vinh Danh</> tương ứng với xếp hạng đó. Phần thưởng Vinh Danh của từng xếp hạng trong mỗi màn là <@gd.key>phần thưởng một lần</>. Chúng sẽ không được đặt lại sau khi cập nhật mùa hoặc thay đổi chu kỳ."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_7",
+              "pageIndex": 7,
+              "title": {
+                "BR": "Recompensas de Honra",
+                "CN": "荣勋奖励",
+                "DE": "Ehrenbelohnungen",
+                "EN": "Honor Rewards",
+                "FR": "Récompenses honorifiques",
+                "ID": "Imbalan Kehormatan",
+                "IT": "Ricompense d'onore",
+                "JP": "栄誉報酬",
+                "KR": "공훈 보상",
+                "MX": "Recompensas de honor",
+                "RU": "Награды чести",
+                "TC": "榮勛獎勵",
+                "TH": "รางวัล​เกียรติยศ",
+                "VN": "Phần Thưởng Vinh Danh"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Acesse a tela [Ecos da Guerra – Análise da Batalha] para ver <@gd.key>detalhes</> (incluindo classificações e composições de equipe em cada estágio do ciclo) do seu desempenho em todos os ciclos das <@gd.key>6 temporadas mais recentes</>. Você também pode visitar a tela de perfil dos seus amigos para ver a [Classificação Final] deles nas 6 temporadas mais recentes.",
+                "CN": "管理员可在「战争回响 - 战绩回顾」界面中，查看自己最近6个赛季每个轮换周期的<@gd.key>战绩详情</>（包括各周期的关卡评级与通关编队等）。也可在好友的个人名片中，查看其<@gd.key>最近6个</>赛季的「最终评级」。",
+                "DE": "Im Bildschirm [Echos des Krieges – Kampfanalyse] siehst du <@gd.key>Details</> (wie Bewertungen und Teamzusammenstellung in jeder Phase des Zyklus) deiner Leistung in jedem Zyklus der <@gd.key>letzten 6 Saisons</>. Außerdem kannst du dir im Profilbildschirm deiner Freunde ihre [Endbewertung] der letzten 6 Saisons ansehen.",
+                "EN": "Go to the [Echoes of War - Battle Review] screen to view <@gd.key>details</> (including ratings and team compositions in each stage of the cycle) of your performance in every cycle of the <@gd.key>6 most recent</> seasons. You can also visit your friends' Profile screen to see their [Final Rating] in the 6 most recent seasons.",
+                "FR": "Consultez l'écran [Échos guerriers - Évaluation des combats] pour afficher les <@gd.key>détails</> de vos performances dans chaque cycle des <@gd.key>6 saisons les plus récentes</>, ce qui inclut vos notes et la composition de votre équipe pour chaque défi. Vous pouvez également afficher l'écran de profil de vos amis pour voir quelle était leur [note finale] dans chacune des 6 dernières saisons.",
+                "ID": "Buka layar [Gema Perang - Tinjauan Pertarungan] untuk melihat <@gd.key>detail</> performamu (termasuk rating dan komposisi tim di setiap stage dalam siklus) dalam setiap siklus dalam <@gd.key>6 musim terakhir</>. Kamu juga bisa mengunjungi layar Profil temanmu untuk melihat [Rating Akhir] mereka sepanjang 6 musim terakhir.",
+                "IT": "Vai alla schermata \"Echi di guerra - Revisiona battaglia\" per visualizzare i <@gd.key>dettagli</> delle tue prestazioni in ogni ciclo delle <@gd.key>6 stagioni più recenti</>, inclusi punteggi e composizioni della squadra in ogni fase del ciclo. Puoi anche visitare la schermata Profilo degli amici per vedere il loro \"Punteggio finale\" nelle 6 stagioni più recenti.",
+                "JP": "「戦争残響 - 戦績一覧」画面で、自身の直近6シーズン分のローテーション周期における<@gd.key>戦績詳細</>を確認できます（各周期のステージ評価やクリア編成などが含まれます）。また、フレンドの個人情報画面では、フレンドの<@gd.key>直近6シーズン</>における「最終評価」を確認できます。",
+                "KR": "관리자는 [전쟁의 메아리 - 전적 보기] 화면에서 최근 6개 시즌, 각 순환 주기의 <@gd.key>전적 상세 정보</>를 확인할 수 있습니다.(각 주기의 스테이지 평가 등급 및 완료 시의 팀 편성 등 포함.) 또한 친구의 개인 명함에서 해당 친구의 <@gd.key>최근 6개</> 시즌 [최종 평가 등급]도 확인할 수 있습니다.",
+                "MX": "Ve a la pantalla [Ecos de guerra - Revisión de batalla] para consultar los <@gd.key>detalles</> de tu desempeño (incluidas las puntuaciones y composiciones de equipo de cada fase del ciclo) en todos los ciclos de las <@gd.key>6 temporadas más recientes</>. También puedes visitar la pantalla de Perfil de tus amigos para ver su [Puntuación final] en las 6 temporadas más recientes.",
+                "RU": "Перейдите на экран «Эхо войны — боевые итоги», чтобы посмотреть <@gd.key>результаты</> цикла за последние 6 сезонов (включая рейтинги и состав команды на каждой стадии цикла). Вы можете перейти в профиль друзей и посмотреть их итоговый рейтинг за <@gd.key>последние 6 сезонов</>.",
+                "TC": "管理員可在「戰爭迴響 - 戰績回顧」介面中，查看自己最近6個賽季每個輪換週期的<@gd.key>戰績詳情</>（包括各週期的關卡評級與通關編隊等）。也可在好友的個人名片中，查看其<@gd.key>最近6個</>賽季的「最終評級」。",
+                "TH": "ไป​ที่​หน้าจอ​ [เสียงสะท้อน​แห่ง​สงคราม​ - สรุป​การต่อสู้​] เพื่อ​ดู​<@gd.key>​รายละเอียด​</>​ผลงาน​ของ​คุณ​ใน​แต่ละ​รอบ​ของ​ <@gd.key>6 ฤดูกาล​ล่าสุด​</> รวมถึง​คะแนน​ประเมิน​และ​องค์ประกอบ​ทีม​ใน​แต่ละ​ด่าน​ของ​รอบ​ คุณ​ยัง​สามารถ​ไป​ที่​หน้า​โพร​ไฟล์​ของ​เพื่อน​เพื่อ​ดู​ [คะแนน​ประเมิน​สุดท้าย​] ของ​พวกเขา​ใน​ 6 ฤดูกาล​ล่าสุด​ได้​ด้วย",
+                "VN": "Vào màn hình [Tiếng Vọng Nơi Chiến Trận - Tổng Kết Chiến Đấu] để xem <@gd.key>chi tiết</> thành tích của bạn trong từng chu kỳ của <@gd.key>6 mùa gần nhất</>, bao gồm xếp hạng và đội hình ở mỗi màn trong chu kỳ. Bạn cũng có thể vào màn hình Hồ Sơ của bạn bè để xem [Xếp Hạng Cuối Mùa] của họ trong 6 mùa gần nhất."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_8",
+              "pageIndex": 8,
+              "title": {
+                "BR": "Análise da Batalha",
+                "CN": "战绩回顾",
+                "DE": "Kampfanalyse",
+                "EN": "Battle Review",
+                "FR": "Évaluation des combats",
+                "ID": "Tinjauan Pertarungan",
+                "IT": "Revisiona battaglia",
+                "JP": "戦績一覧",
+                "KR": "전적 보기",
+                "MX": "Revisión de batalla",
+                "RU": "Боевые итоги",
+                "TC": "戰績回顧",
+                "TH": "สรุป​การต่อสู้",
+                "VN": "Tổng Kết Chiến Đấu"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "dataArray": [
+            {
+              "desc": {
+                "BR": "[Ecos da Guerra] é um modo de desafio <@gd.key>sazonal</> que está permanentemente disponível. Cada temporada contém vários <@gd.key>ciclos</>. Cada ciclo inclui 3 estágios (que podem incluir estágios do passado). Cada estágio possui 3 níveis de dificuldade: Normal, Difícil e Brutal.",
+                "CN": "「战争回响」是<@gd.key>赛季制</>常驻战斗挑战玩法，每个赛季由多个<@gd.key>轮换周期</>构成。\n每个轮换周期包含3个关卡（可能包含往期关卡），每个关卡有3个难度（普通、困难、残酷）。",
+                "DE": "[Echos des Krieges] ist ein <@gd.key>saisonaler</> und dauerhaft verfügbarer Herausforderungsmodus. Jede Saison besteht aus mehreren <@gd.key>Zyklen</>. Jeder Zyklus besteht aus 3 Phasen (die auch Phasen aus vergangenen Saisons sein können). Jede Phase hat 3 Schwierigkeitsgrade: „Normal“, „Schwer“ und „Brutal“.",
+                "EN": "[Echoes of War] is a <@gd.key>seasonal</> challenge mode that is permanently available. Each season comprises multiple <@gd.key>cycles</>. Each cycle includes 3 stages (which may include stages from the past). Each stage comes in 3 difficulties: Normal, Hard, and Brutal.",
+                "FR": "[Échos guerriers] est un mode de défi <@gd.key>saisonnier</> disponible en permanence. Chaque saison comporte plusieurs <@gd.key>cycles</>, chacun comprenant 3 défis (qui peuvent inclure des défis passés). Chaque défi propose trois niveaux de difficulté : Normal, Difficile et Brutal.",
+                "ID": "[Gema Perang] adalah mode tantangan <@gd.key>musiman</> yang tersedia secara permanen. Setiap musim terdiri dari beberapa <@gd.key>siklus</>. Setiap siklus berisi 3 stage (yang mungkin mencakup stage dari periode yang sudah berlalu). Setiap stage punya 3 tingkat kesulitan: Normal, Sulit, dan Brutal.",
+                "IT": "[Echi di guerra] è una modalità sfida <@gd.key>stagionale</> permanente. Ogni stagione include vari <@gd.key>cicli</>. Ogni ciclo include 3 fasi (che possono includere fasi passate). Ogni fase è disponibile in 3 difficoltà: Normale, Difficile e Brutale.",
+                "JP": "「戦争残響」は<@gd.key>シーズン制</>の常時開放挑戦コンテンツです。各シーズンは複数の<@gd.key>ローテーション周期</>で構成されています。\n各ローテーション周期には3つのステージがあり、各ステージには3つの難易度（通常、苦難、苛烈）があります。3つのステージには、過去に登場したステージが含まれる場合もあります。",
+                "KR": "[전쟁의 메아리]는 <@gd.key>시즌제</>로 운영되는 상시 전투 도전 콘텐츠로, 각 시즌은 여러 <@gd.key>순환 주기</>로 구성됩니다.\n각 순환 주기에는 3개의 스테이지(지난 시즌 스테이지가 포함될 수 있음)가 존재하며, 각 스테이지에는 3개의 난도(일반, 고난, 잔혹)가 존재합니다.",
+                "MX": "[Ecos de guerra] es un modo de desafío de <@gd.key>temporada</> disponible de forma permanente. Cada temporada se compone de varios <@gd.key>ciclos</>. Cada ciclo incluye 3 fases (que pueden incluir fases anteriores). Cada fase cuenta con 3 dificultades: Normal, Difícil y Brutal.",
+                "RU": "«Эхо войны» — это <@gd.key>сезонный</> режим испытаний, который доступен всегда. Каждый сезон состоит из нескольких <@gd.key>циклов</>. В цикле выделяется 3 стадии (сюда могут входить и прошлые), у каждой из которых 3 сложности: обычная, сложная и жестокая.",
+                "TC": "「戰爭迴響」是<@gd.key>賽季制</>常駐戰鬥挑戰玩法，每個賽季由多個<@gd.key>輪換週期</>構成。\n每個輪換週期包含3個關卡（可能包含往期關卡），每個關卡有3個難度（普通、困難、殘酷）。",
+                "TH": "[เสียงสะท้อน​แห่ง​สงคราม​] เป็น​โหม​ด​ท้าทาย​<@gd.key>​ตามฤดูกาล​</>​ที่​เปิด​ให้​เล่น​ได้​ถาวร​ แต่ละ​ฤดูกาล​จะ​มี​<@gd.key>​รอบ​การ​เล่น​</>​หลาย​รอบ​ แต่ละ​รอบ​ประกอบด้วย​ 3 ด่าน​ (ซึ่ง​อาจ​มี​ด่าน​จาก​ใน​อดีต​) แต่ละ​ด่าน​มี​ 3 ระดับ​ความ​ยาก​: ทั่วไป​ ยาก​ และ​ ยาก​มาก",
+                "VN": "[Tiếng Vọng Nơi Chiến Trận] là một chế độ thử thách <@gd.key>theo mùa</> được mở thường trực. Mỗi mùa gồm nhiều <@gd.key>chu kỳ</>. Mỗi chu kỳ gồm 3 màn chơi và có thể bao gồm cả các màn chơi cũ. Mỗi màn có 3 độ khó: Thường, Khó và Tàn Bạo."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_1",
+              "pageIndex": 1,
+              "title": {
+                "BR": "Classificação do Estágio (1)",
+                "CN": "关卡评级 - 一",
+                "DE": "Phasen-Bewertung (1)",
+                "EN": "Stage Rating (1)",
+                "FR": "Niveau du défi (1)",
+                "ID": "Rating untuk Stage (1)",
+                "IT": "Punteggio di fase (1)",
+                "JP": "ステージ評価 - 1",
+                "KR": "스테이지 평가 등급 - 1",
+                "MX": "Puntuación de fase (1)",
+                "RU": "Рейтинг стадии (1)",
+                "TC": "關卡評級 - 一",
+                "TH": "คะแนน​ระดับ​ (1)",
+                "VN": "Xếp Hạng Màn Chơi (1)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Concluir um estágio nas dificuldades Normal, Difícil e Brutal concede 1★, 2★ e 3★, respectivamente. Concluir um estágio na dificuldade Brutal e <@gd.key>atender aos objetivos do desafio bônus</> adiciona o reforço <@gd.key>[Lustroso]</> à classificação do estágio.",
+                "CN": "通关普通难度可达成「1星评级」；通关困难难度可达成「2星评级」；通关残酷难度可达成「3星评级」。\n通关残酷难度并完成该关卡的<@gd.key>附加挑战目标</>，可使该关卡评级获得<@gd.key>「增辉」</>。",
+                "DE": "Das Abschließen einer Phase auf Normal, Schwer beziehungsweise Brutal gewährt 1★-, 2★- beziehungsweise 3★-Belohnungen. Wenn eine Phase auf Brutal abgeschlossen wird und <@gd.key>die Bonusherausforderungsziele erfüllt sind</>, wird der Boost <@gd.key>[Leuchtend]</> auf die Phasen-Bewertung angewandt.",
+                "EN": "Completing a stage on Normal, Hard, and Brutal difficulties rewards 1★, 2★, and 3★ respectively. Completing a stage in Brutal difficulty and <@gd.key>fulfilling the bonus challenge goals</> adds the <@gd.key>[Lustrous]</> boost to the stage rating.",
+                "FR": "Terminez un défi dans le niveau de difficulté Normal, Difficile ou Brutal pour obtenir 1★, 2★ ou 3★, respectivement. Lorsque vous terminez un défi dans le niveau de difficulté Brutal et <@gd.key>remplissez les objectifs bonus</>, vous bénéficiez du bonus <@gd.key>Illustre</> à votre note de défi.",
+                "ID": "Secara berurutan, penyelesaian stage dengan tingkat kesulitan Normal, Sulit, dan Brutal akan memberikan imbalan 1★, 2★, dan 3★. Jika berhasil menyelesaikan stage dengan tingkat kesulitan Brutal dan <@gd.key>memenuhi target bonus tantangan</>, rating untuk stage akan mendapatkan boost <@gd.key>[Lustrous]</>.",
+                "IT": "Completare una fase nelle difficoltà Normale, Difficile e Brutale conferisce rispettivamente 1★, 2★ e 3★. Completare una fase in difficoltà Brutale e <@gd.key>soddisfare gli obiettivi bonus della sfida</> aggiunge il potenziamento <@gd.key>\"Splendente\"</> al punteggio della fase.",
+                "JP": "「通常」難易度でクリアすると「★1評価」、「苦難」の場合は「★2評価」、「苛烈」の場合は「★3評価」を獲得できます。\n「苛烈」をクリアしたうえでステージの<@gd.key>サブ目標</>を達成した場合、ステージ評価に<@gd.key>「輝き」</>を付与することができます。",
+                "KR": "일반 난도를 완료하면 [1성 평가]를 달성할 수 있고, 고난 난도를 완료하면 [2성 평가]를 달성할 수 있으며, 잔혹 난도를 완료하면 [3성 평가]를 달성할 수 있습니다.\n잔혹 난도를 완료하고 해당 스테이지의 <@gd.key>추가 도전 목표</>를 완료하면, 해당 스테이지의 평가 등급에 <@gd.key>[반짝임]</>이 부여됩니다.",
+                "MX": "Completar una fase en las dificultades Normal, Difícil y Brutal otorga 1★, 2★ y 3★, respectivamente. Completar una fase en dificultad Brutal y <@gd.key>cumplir los objetivos de desafío adicionales</> añade el incremento <@gd.key>[Lustroso]</> a la puntuación de la fase.",
+                "RU": "За прохождение обычной, сложной и жестокой стадии дается награда: 1★, 2★ и 3★ соответственно. Если пройти жестокую стадию и <@gd.key>выполнить дополнительные цели испытания</>, к рейтингу стадии добавится усиление <@gd.key>Блеск</>.",
+                "TC": "通關普通難度可達成「1星評級」；通關困難難度可達成「2星評級」；通關殘酷難度可達成「3星評級」。\n通關殘酷難度並完成該關卡的<@gd.key>附加挑戰目標</>，可使該關卡評級獲得<@gd.key>「增輝」</>。",
+                "TH": "มื่​อ​เคลียร์​ด่าน​ใน​ระดับ​ความ​ยาก​ ทั่วไป​ ยาก​ และ​ ยาก​มาก​ จะ​ได้รับ​คะแนน​ 1★, 2★ และ​ 3★ ตามลำดับ​ การ​เคลียร์​ด่าน​ใน​ระดับ​ ยาก​มาก​ และ​<@gd.key>​ทำ​เป้าหมาย​ท้าทาย​โบนัส​สำเร็จ​</> จะ​เพิ่ม​บู​ส​ต์​ <@gd.key>[เจิด​จรัส​]</> ให้​กับ​คะแนน​ประเมิน​ของ​ด่าน​นั้น",
+                "VN": "Hoàn thành một màn ở độ khó Thường, Khó và Tàn Bạo sẽ lần lượt nhận được 1★, 2★ và 3★. Khi hoàn thành màn chơi ở độ khó Tàn Bạo và <@gd.key>đạt các mục tiêu thử thách bổ sung</>, xếp hạng của màn sẽ nhận thêm hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</>."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_2",
+              "pageIndex": 2,
+              "title": {
+                "BR": "Classificação do Estágio (2)",
+                "CN": "关卡评级 - 二",
+                "DE": "Phasen-Bewertung (2)",
+                "EN": "Stage Rating (2)",
+                "FR": "Niveau du défi (2)",
+                "ID": "Rating untuk Stage (2)",
+                "IT": "Punteggio di fase (2)",
+                "JP": "ステージ評価 - 2",
+                "KR": "스테이지 평가 등급 - 2",
+                "MX": "Puntuación de fase (2)",
+                "RU": "Рейтинг стадии (2)",
+                "TC": "關卡評級 - 二",
+                "TH": "คะแนน​ระดับ​ (2)",
+                "VN": "Xếp Hạng Màn Chơi (2)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "A <@gd.key>Classificação Total</> máxima que pode ser obtida em um ciclo (ao concluir com sucesso 3 estágios na dificuldade Brutal) é 9★. Após o término de um ciclo, a Classificação Total será <@gd.key>zerada</> para o novo ciclo. Desafie os estágios do novo ciclo para ganhar estrelas novamente.",
+                "CN": "同一轮换周期内，3个关卡所获星数之和为该周期的<@gd.key>总评级</>（最高为9星）。\n周期轮换后，新周期的关卡星数评级将被<@gd.key>重置</>，需重新挑战以再次获得星数。",
+                "DE": "Die höchste <@gd.key>Gesamtbewertung</> für einen Zyklus (durch erfolgreichen Abschluss von 3 Phasen auf Brutal) ist 9★. Nach dem Ende eines Zyklus wird die Gesamtbewertung für den neuen Zyklus <@gd.key>zurückgesetzt</>. Stelle dich den Phasen des neuen Zyklus und verdiene erneut Sterne.",
+                "EN": "The highest <@gd.key>Total Rating</> that can be earned from a cycle (by successfully completing 3 stages in Brutal difficulty) is 9★. After a cycle ends, the Total Rating will be <@gd.key>reset</> for the new cycle. Challenge the stages of the new cycle to earn stars again.",
+                "FR": "La <@gd.key>note globale</> maximale qui peut être obtenue lors d'un cycle (en terminant 3 défis dans le niveau de difficulté Brutal) est de 9★. La note globale est <@gd.key>réinitialisée</> à la fin d'un cycle. Réussissez les défis du nouveau cycle pour remporter à nouveau des étoiles.",
+                "ID": "<@gd.key>Total Rating</> tertinggi yang bisa didapatkan dari siklus (dengan menyelesaikan 3 stage dengan tingkat kesulitan Brutal) adalah 9★. Setelah siklus berakhir, Total Rating akan <@gd.key>direset</> untuk siklus yang baru. Tantang stage dalam siklus baru untuk mendapatkan bintang lagi.",
+                "IT": "Il <@gd.key>Punteggio totale</> più alto ottenibile in un ciclo (completando con successo 3 fasi a difficoltà Brutale) è 9★. Alla fine di un ciclo, il Punteggio totale verrà <@gd.key>azzerato</> per il nuovo ciclo. Affronta le fasi del nuovo ciclo per ottenere di nuovo stelle.",
+                "JP": "同じローテーション周期内において、3つのステージで獲得した★数の合計が、その周期の<@gd.key>総評価</>となります（最大★9）。\nローテーション周期が更新されると、その周期のステージ評価は<@gd.key>リセット</>されます。再挑戦して改めて★数評価を獲得する必要があります。",
+                "KR": "하나의 순환 주기 내 3개 스테이지의 성급 합계가 해당 주기의 <@gd.key>총 평가 등급</>(최대 9성)이 됩니다.\n주기가 바뀌면 새 주기의 스테이지 성급 평가는 <@gd.key>초기화</>되며, 다시 도전해야 성급을 획득할 수 있습니다.",
+                "MX": "La <@gd.key>Puntuación total</> máxima que puede obtenerse en un ciclo (al completar con éxito 3 fases en dificultad Brutal) es de 9★. Cuando termine un ciclo, la Puntuación total se <@gd.key>restablecerá</> para el nuevo ciclo. Desafía las fases del nuevo ciclo para volver a ganar estrellas.",
+                "RU": "9★ — максимальный <@gd.key>общий рейтинг</> за цикл при успешном прохождении 3 жестоких стадий. После окончания цикла общий рейтинг <@gd.key>сбрасывается</>. Пройдите испытания стадий нового цикла, чтобы снова получить звезды.",
+                "TC": "同一輪換週期內，3個關卡所獲星數之和為該週期的<@gd.key>總評級</>（最高為9星）。\n週期輪換後，新週期的關卡星數評級將被<@gd.key>重置</>，需重新挑戰以再次獲得星數。",
+                "TH": "<@gd.key>​คะแนน​รวม​</>​สูงสุด​ที่​ได้รับ​ได้​ใน​แต่ละ​รอบ​ คือ​ 9★ (โดย​ต้อง​เคลียร์​ทั้ง​ 3 ด่าน​ใน​ระดับ​ยาก​มาก​ให้​สำเร็จ​) หลังจาก​รอบ​สิ้นสุดลง​ คะแนน​รวม​จะ​ถูก​<@gd.key>​รีเซ็ต​</>​สำหรับ​รอบ​ใหม่​ ท้าทาย​ด่าน​ต่า​งๆ​ ของ​รอบ​การ​เล่น​ใหม่​เพื่อ​รับ​ดาว​อีกครั้ง",
+                "VN": "<@gd.key>Tổng Xếp Hạng</> cao nhất có thể nhận được trong một chu kỳ là 9★, đạt được bằng cách hoàn thành cả 3 màn ở độ khó Tàn Bạo. Sau khi chu kỳ kết thúc, Tổng Xếp Hạng sẽ được <@gd.key>đặt lại</> cho chu kỳ mới. Hãy thử thách các màn trong chu kỳ mới để nhận sao lần nữa."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_3",
+              "pageIndex": 3,
+              "title": {
+                "BR": "Classificação do Estágio (3)",
+                "CN": "关卡评级 - 三",
+                "DE": "Phasen-Bewertung (3)",
+                "EN": "Stage Rating (3)",
+                "FR": "Niveau du défi (3)",
+                "ID": "Rating untuk Stage (3)",
+                "IT": "Punteggio di fase (3)",
+                "JP": "ステージ評価 - 3",
+                "KR": "스테이지 평가 등급 - 3",
+                "MX": "Puntuación de fase (3)",
+                "RU": "Рейтинг стадии (3)",
+                "TC": "關卡評級 - 三",
+                "TH": "คะแนน​ระดับ​ (3)",
+                "VN": "Xếp Hạng Màn Chơi (3)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "A Classificação Total mais alta obtida em todos os ciclos da temporada será a <@gd.key>[Classificação Final]</> da temporada. O número de estrelas conquistadas (1★, 3★, 5★, 7★ e 9★) será usado para determinar o <@gd.key>título da temporada</> concedido.",
+                "CN": "本赛季各轮换周期总评级中的最高者，将作为本赛季的<@gd.key>「最终评级」</>。\n根据获得星数（1星/3星/5星/7星/9星），可获得对应的<@gd.key>赛季称号</>。",
+                "DE": "Die höchste Gesamtbewertung, die über alle Zyklen der Saison erreicht wurde, entspricht der <@gd.key>[Endbewertung]</> der Saison. Außerdem wird ein <@gd.key>Saisontitel</> basierend auf der Anzahl der gesammelten Sterne (1★, 3★, 5★, 7★ oder 9★) vergeben.",
+                "EN": "The highest Total Rating earned across all cycles in the season will be the <@gd.key>[Final Rating]</> of the season. The number of stars earned (1★, 3★, 5★, 7★, and 9★) will be used to determine the <@gd.key>season title</> awarded.",
+                "FR": "La note globale maximale remportée sur l'ensemble des cycles de la saison constituera la <@gd.key>[note finale]</> de la saison. Le nombre d'étoiles remportées (1★, 3★, 5★, 7★ et 9★) déterminera le <@gd.key>titre saisonnier</> attribué.",
+                "ID": "Total Rating tertinggi yang didapatkan di seluruh siklus dalam musim akan menjadi <@gd.key>[Rating Akhir]</> musim. Jumlah bintang yang didapatkan (1★, 3★, 5★, 7★, dan 9★) akan digunakan untuk menentukan <@gd.key>gelar musim</> yang diberikan.",
+                "IT": "Il Punteggio totale più alto ottenuto in tutti i cicli della stagione sarà il <@gd.key>\"Punteggio finale\"</> della stagione. Il numero di stelle ottenute (1★, 3★, 5★, 7★ e 9★) sarà usato per determinare il <@gd.key>titolo di stagione</> assegnato.",
+                "JP": "シーズン中は、各周期で獲得した総評価のうち、最も高いものがシーズンの<@gd.key>「最終評価」</>として記録されます。\nその★数（★1/★3/★5/★7/★9）に応じて、対応する<@gd.key>シーズン称号</>を獲得できます。",
+                "KR": "현재 시즌, 각 순환 주기의 총 평가 등급 중 가장 높은 평가가 이번 시즌의 <@gd.key>[최종 평가 등급]</>이 됩니다.\n획득한 성급(1성/3성/5성/7성/9성)에 따라 해당 <@gd.key>시즌 타이틀</>을 획득할 수 있습니다.",
+                "MX": "La Puntuación total más alta obtenida en todos los ciclos de la temporada será la <@gd.key>[Puntuación final]</> de la temporada. La cantidad de estrellas obtenidas (1★, 3★, 5★, 7★ y 9★) se usará para determinar el <@gd.key>título de temporada</> otorgado.",
+                "RU": "<@gd.key>Итоговый рейтинг</> сезона основывается на самом высоком общем рейтинге за все циклы сезона. Количество полученных звезд (1★, 3★, 5★, 7★ и 9★) определит присваиваемый <@gd.key>титул сезона</>.",
+                "TC": "本賽季各輪換週期總評級中的最高者，將作為本賽季的<@gd.key>「最終評級」</>。\n根據獲得星數（1星/3星/5星/7星/9星），可獲得對應的<@gd.key>賽季稱號</>。",
+                "TH": "คะแนน​รวม​สูงสุด​ที่​ได้รับ​จาก​ทุก​รอบ​ใน​ฤดูกาล​ จะ​ถูก​นับเป็น​ <@gd.key>[คะแนน​ประเมิน​สุดท้าย​]</> ของ​ฤดูกาล​นี้​ และ​จะ​ได้รับ​ฉายา​<@gd.key>​ประจำ​ฤดูกาล​</>​ตาม​จำนวน​ดาว​ที่​ได้รับ​ด้วย​ (ได้แก่​ 1★, 3★, 5★, 7★ และ​ 9★)",
+                "VN": "Tổng Xếp Hạng cao nhất đạt được trong tất cả chu kỳ của mùa sẽ là <@gd.key>[Xếp Hạng Cuối Mùa]</> của mùa đó. Số sao đạt được (1★, 3★, 5★, 7★ và 9★) sẽ được dùng để xác định <@gd.key>danh hiệu mùa</> được trao."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_4",
+              "pageIndex": 4,
+              "title": {
+                "BR": "Título da Temporada (1)",
+                "CN": "赛季称号 - 一",
+                "DE": "Saisontitel (1)",
+                "EN": "Season Title (1)",
+                "FR": "Titre de la saison (1)",
+                "ID": "Gelar Musim (1)",
+                "IT": "Titolo di stagione (1)",
+                "JP": "シーズン称号 - 1",
+                "KR": "시즌 타이틀 - 1",
+                "MX": "Título de temporada (1)",
+                "RU": "Титул сезона (1)",
+                "TC": "賽季稱號 - 一",
+                "TH": "ชื่อ​ซี​ซัน​ (1)",
+                "VN": "Danh Hiệu Mùa (1)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Conquistar o bônus <@gd.key>[Lustroso]</> em todos os 3 estágios de um ciclo também torna o título da temporada <@gd.key>[Lustroso]</>. O título da temporada atual será exibido nas telas da interface do usuário relacionadas ao recurso Amigos.",
+                "CN": "若同一轮换周期内的3个关卡均已获得<@gd.key>「增辉」</>，则该赛季称号也会获得<@gd.key>「增辉」</>。\n赛季称号会在好友相关界面展示。",
+                "DE": "Wenn der Boost <@gd.key>[Leuchtend]</> für alle 3 Phasen eines Zyklus erreicht wird, wird auch der Saisontitel <@gd.key>[Leuchtend]</>. Der Titel aus der aktuellen Saison wird in der Benutzeroberfläche für Interaktionen mit Freunden angezeigt.",
+                "EN": "Earning the <@gd.key>[Lustrous]</> boost for all 3 stages in a cycle also makes the season title <@gd.key>[Lustrous]</>. The current season title will be displayed at UI screens related to the Friends feature.",
+                "FR": "Remportez le bonus <@gd.key>[Illustre]</> dans les 3 défis d'un cycle pour vous voir octroyer le titre saisonnier <@gd.key>[Illustre]</>. Le titre saisonnier actuel s'affichera sur les interfaces en rapport avec la fonctionnalité Amis.",
+                "ID": "Jika berhasil mendapatkan boost <@gd.key>[Lustrous]</> untuk ketiga stage dalam siklus, kamu juga akan mendapatkan gelar musim <@gd.key>[Lustrous]</>. Gelar musim saat ini akan ditampilkan di layar UI yang berkaitan dengan fitur Teman.",
+                "IT": "Ottenere il potenziamento <@gd.key>\"Splendente\"</> in tutte e 3 le fasi di un ciclo rende anche il titolo di stagione <@gd.key>\"Splendente\"</>. Il titolo di stagione corrente viene mostrato nell'interfaccia relativa alla sezione Amici.",
+                "JP": "同一周期内の3つのステージですべて<@gd.key>「輝き」</>を獲得した場合、シーズン称号にも<@gd.key>「輝き」</>が付与されます。\nシーズン称号はフレンド関連画面で表示されます。",
+                "KR": "하나의 순환 주기 내 3개 스테이지가 모두 <@gd.key>[반짝임]</>을 획득한 경우, 해당 시즌 타이틀에도 <@gd.key>[반짝임]</>이 부여됩니다.\n시즌 타이틀은 친구 관련 화면에 표시됩니다.",
+                "MX": "Obtener el incremento <@gd.key>[Lustroso]</> en las 3 fases de un ciclo también hace que el título de temporada sea <@gd.key>[Lustroso]</>. El título de la temporada actual se mostrará en las pantallas de la interfaz de usuario relacionadas con la función Amigos.",
+                "RU": "При прохождении 3 стадий цикла и получении усиления <@gd.key>Блеск</> выдается титул сезона <@gd.key>Блеск</>. Титул текущего сезона отображается на экранах интерфейса в меню «Друзья».",
+                "TC": "若同一輪換週期內的3個關卡均已獲得<@gd.key>「增輝」</>，則該賽季稱號也會獲得<@gd.key>「增輝」</>。\n賽季稱號會在好友相關介面展示。",
+                "TH": "การ​ได้รับ​บู​ส​ต์​ <@gd.key>[เจิด​จรัส​]</> ครบ​ทั้ง​ 3 ด่าน​ใน​หนึ่ง​รอบ​ จะ​ทำให้​ฉายา​ประจำ​ฤดูกาล​เป็น​ <@gd.key>[เจิด​จรัส​]</> ด้วย​ ฉายา​ประจำ​ฤดูกาล​ปัจจุบัน​จะ​แสดง​ใน​ UI ที่​เกี่ยวข้อง​กับ​ฟีเจอร์​เพื่อน",
+                "VN": "Nếu nhận được hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</> ở cả 3 màn trong một chu kỳ, danh hiệu mùa cũng sẽ trở thành <@gd.key>[Rực Rỡ]</>. Danh hiệu của mùa hiện tại sẽ được hiển thị trong các màn hình giao diện liên quan đến tính năng Bạn Bè."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_5",
+              "pageIndex": 5,
+              "title": {
+                "BR": "Título da Temporada (2)",
+                "CN": "赛季称号 - 二",
+                "DE": "Saisontitel (2)",
+                "EN": "Season Title (2)",
+                "FR": "Titre de la saison (2)",
+                "ID": "Gelar Musim (2)",
+                "IT": "Titolo di stagione (2)",
+                "JP": "シーズン称号 - 2",
+                "KR": "시즌 타이틀 - 2",
+                "MX": "Título de temporada (2)",
+                "RU": "Титул сезона (2)",
+                "TC": "賽季稱號 - 二",
+                "TH": "ชื่อ​ซี​ซัน​ (2)",
+                "VN": "Danh Hiệu Mùa (2)"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Quando um ciclo começa, os níveis de dificuldade Normal e Difícil de cada estágio estão disponíveis por padrão. Conclua um estágio na dificuldade Difícil para desbloquear a dificuldade Brutal. Conclua um estágio na dificuldade Brutal para desbloquear permanentemente a dificuldade Brutal em futuros ciclos e temporadas. \nConquistar o reforço <@gd.key>[Lustroso]</> no título da temporada atual desbloqueia automaticamente a dificuldade Brutal para todos os estágios na próxima temporada.",
+                "CN": "每个关卡会初始解锁普通与困难难度，通关困难难度后解锁残酷难度。解锁残酷难度的关卡在后续轮换和赛季中将永久解锁残酷难度。\n若本赛季的赛季称号已获得<@gd.key>「增辉」</>，则下个赛季的所有关卡将直接解锁残酷难度。",
+                "DE": "Zu Beginn eines Zyklus sind automatisch die Schwierigkeitsgrade „Normal“ und „Schwer“ für jede Phase verfügbar. Schließe eine Phase auf „Schwer“ ab, um den Schwierigkeitsgrad „Brutal“ für diese Phase freizuschalten. Schließe eine Phase auf „Brutal“ ab, um den Schwierigkeitsgrad „Brutal“ für diese Phase auch für zukünftige Zyklen und Saisons freizuschalten. \nErhältst du für den aktuellen Saisontitel den Boost <@gd.key>[Leuchtend]</>, schaltest du für alle Phasen der nächsten Saison automatisch den Schwierigkeitsgrad „Brutal“ frei.",
+                "EN": "When a cycle begins, Normal and Hard difficulty tiers of each stage will be available by default. Complete a stage on Hard difficulty to unlock its Brutal difficulty. Complete a stage on Brutal difficulty to permanently unlock the Brutal difficulty in future cycles and seasons. \nEarning the <@gd.key>[Lustrous]</> boost for the current season title automatically unlocks Brutal difficulty for all stages in the next season.",
+                "FR": "Au début d'un cycle, les niveaux de difficulté Normal et Difficile de chaque défi sont disponibles par défaut. Terminez un défi en niveau Difficile pour débloquer son niveau de difficulté Brutal. Terminez un défi en niveau de difficulté Brutal pour débloquer cette difficulté de façon permanente pour les futurs cycles et saisons. \nRemporter le bonus <@gd.key>[Illustre]</> pour le titre saisonnier actuel débloque automatiquement le niveau de difficulté Brutal pour tous les défis de la saison suivante.",
+                "ID": "Saat siklus dimulai, tingkat kesulitan Normal dan Sulit untuk setiap stage akan tersedia secara default. Selesaikan stage dengan tingkat kesulitan Sulit untuk membuka tingkat kesulitan Brutal. Selesaikan stage dengan tingkat kesulitan Brutal untuk membuka tingkat kesulitan Brutal secara permanen untuk siklus dan musim mendatang. \nJika mendapatkan boost <@gd.key>[Lustrous]</> untuk gelar musim ini, tingkat kesulitan Brutal untuk semua stage pada musim berikutnya akan terbuka secara otomatis.",
+                "IT": "Quando inizia un ciclo, i livelli di difficoltà Normale e Difficile di ogni fase sono disponibili per impostazione predefinita. Completa una fase a difficoltà Difficile per sbloccare la difficoltà Brutale. Completa una fase a difficoltà Brutale per sbloccare in modo permanente la difficoltà Brutale in cicli e stagioni futuri. \nOttenere un potenziamento <@gd.key>[Splendente]</> per il titolo stagionale corrente sblocca automaticamente la difficoltà Brutale per tutte le fasi della stagione successiva.",
+                "JP": "すべてのステージは、初めから「通常」と「苦難」の2つの難易度が解放されています。「苦難」をクリアすると、上位難易度である「苛烈」が解放されます。一度「苛烈」を解放したステージは、以降のローテーション周期やシーズンでも難易度「苛烈」が常時解放されます。\n本シーズンの称号に、<@gd.key>「輝き」</>がすでに付与されている場合、次のシーズン開始時に、すべてのステージで「苛烈」が直接開放されます。",
+                "KR": "각 스테이지는 기본적으로 일반 및 고난 난도가 잠금 해제되어 있으며, 고난 난도를 완료하면 잔혹 난도가 잠금 해제됩니다. 잔혹 난도가 잠금 해제된 스테이지는 이후 순환 및 시즌에서도 영구적으로 잔혹 난도가 유지됩니다.\n현재 시즌의 시즌 타이틀이 <@gd.key>[반짝임]</>을 획득한 상태라면, 다음 시즌의 모든 스테이지는 잔혹 난도가 바로 잠금 해제됩니다.",
+                "MX": "Cuando comience un ciclo, los niveles de dificultad Normal y Difícil de cada fase estarán disponibles de forma predeterminada. Completa una fase en dificultad Difícil para desbloquear su dificultad Brutal. Completa una fase en dificultad Brutal para desbloquear permanentemente la dificultad Brutal en ciclos y temporadas futuros. \nAl obtener el refuerzo <@gd.key>[Lustroso]</> para el título de temporada actual, se desbloquea automáticamente la dificultad Brutal en todas las fases de la siguiente temporada.",
+                "RU": "В начале цикла обычная и сложная стадии доступны по умолчанию. Пройдите сложную стадию, чтобы открыть жестокую. Пройдите жестокую, чтобы открыть ее во всех будущих циклах и сезонах. \nПолучите усиление <@gd.key>Блеск</> для титула текущего сезона, чтобы автоматически открыть жестокую сложность для всех стадий в следующем сезоне.",
+                "TC": "每個關卡初始會解鎖普通與困難難度，通關困難難度後解鎖殘酷難度。解鎖殘酷難度的關卡在後續輪換和賽季中將永久解鎖殘酷難度。\n若本賽季的賽季稱號已獲得<@gd.key>「增輝」</>，則下個賽季的所有關卡將直接解鎖殘酷難度。",
+                "TH": "เมื่อ​รอบ​เริ่มต้น​ ระดับ​ความ​ยาก​ระดับ​ทั่วไป​และ​ระดับ​ยาก​ของ​แต่ละ​ด่าน​จะ​เปิด​ให้​เล่น​เป็น​ค่า​เริ่มต้น​ เคลียร์​ด่าน​ใน​ระดับ​ยาก​ เพื่อ​ปลดล็อก​ระดับ​ยาก​มาก​ของ​ด่าน​นั้น​ เคลียร์​ด่าน​ใน​ระดับ​ยาก​มาก​ เพื่อ​ปลดล็อก​ระดับ​ยาก​มาก​ของ​ด่าน​อย่างถาวร​ใน​รอบ​และ​ฤดูกาล​ในอนาคต​ \nการ​ได้รับ​ <@gd.key>[เจิด​จรัส​]</> ใน​ฤดูกาล​ปัจจุบัน​ จะ​ปลดล็อก​ระดับ​ยาก​มาก​ สำหรับ​ทุก​ด่าน​ใน​ฤดูกาล​ถัดไป​โดยอัตโนมัติ",
+                "VN": "Khi một chu kỳ bắt đầu, các bậc độ khó Thường và Khó sẽ được mở mặc định cho mỗi màn chơi. Hoàn thành một màn chơi ở độ khó Khó để mở khóa độ khó Tàn Bạo của màn đó. Hoàn thành một màn chơi ở độ khó Tàn Bạo để mở khóa vĩnh viễn độ khó Tàn Bạo của màn đó trong các chu kỳ và mùa sau. \nNhận hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</> cho danh hiệu mùa hiện tại sẽ tự động mở khóa độ khó Tàn Bạo cho tất cả màn chơi trong mùa tiếp theo."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_6",
+              "pageIndex": 6,
+              "title": {
+                "BR": "Estágio: Desbloqueio",
+                "CN": "关卡解锁",
+                "DE": "Phase: Freischalten",
+                "EN": "Stage: Unlocking",
+                "FR": "Défi : déblocage",
+                "ID": "Stage: Membuka",
+                "IT": "Fase: Sblocco",
+                "JP": "ステージ解放",
+                "KR": "스테이지 잠금 해제",
+                "MX": "Fase: Desbloqueo",
+                "RU": "Стадия: открытие",
+                "TC": "關卡解鎖",
+                "TH": "ระดับ​: กำลัง​ปลดล็อก",
+                "VN": "Màn Chơi: Mở Khóa"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Ganhar as classificações 1★, 2★ e 3★ em um estágio pela primeira vez concede a você recompensas de <@gd.key>Honra</> correspondentes à classificação. As recompensas de Honra para cada classificação em um estágio são <@gd.key>concedidas apenas uma vez</>. Elas não serão zeradas após atualizações de temporada ou mudanças de ciclo.",
+                "CN": "当分别首次达成某个关卡的1星、2星或3星评级时，可获得对应评级的<@gd.key>荣勋</>奖励。\n每个关卡评级的荣勋奖励为<@gd.key>一次性奖励</>，不会因赛季更新或周期轮换而重置。",
+                "DE": "Wenn du das erste Mal eine Bewertung von 1★, 2★ und 3★ in einer Phase erhältst, bekommst du <@gd.key>Ehren</>belohnungen je nach Bewertung. Diese Belohnungen werden nur <@gd.key>einmalig</> vergeben. Sie werden nicht zurückgesetzt, wenn die Saison aktualisiert wird oder der Zyklus sich ändert.",
+                "EN": "Earning 1★, 2★, and 3★ ratings for the first time in a stage gives you <@gd.key>Honor</> rewards corresponding to the rating. Honor rewards for each rating of a stage are <@gd.key>one-time rewards</>. They will not reset after season updates or cycle changes.",
+                "FR": "Remportez une note de 1★, 2★ et 3★ pour la première fois dans un défi pour recevoir des récompenses <@gd.key>honorifiques</> en fonction de la note reçue. Ces récompenses ne seront attribuées <@gd.key>qu'une fois</> pour chaque note d'un même défi. Elles ne sont pas réinitialisées à l'arrivée d'une nouvelle saison ou d'un nouveau cycle.",
+                "ID": "Jika berhasil mendapatkan rating 1★, 2★, dan 3★ untuk pertama kalinya dalam stage, kamu akan mendapatkan imbalan <@gd.key>Kehormatan</> berdasarkan rating. Imbalan Kehormatan untuk setiap rating dalam stage berupa <@gd.key>imbalan satu kali</>. Imbalan ini tidak akan direset setelah pembaruan musim atau perubahan siklus.",
+                "IT": "Ottenere per la prima volta punteggi da 1★, 2★ e 3★ in una fase conferisce ricompense d'<@gd.key>onore</> corrispondenti al punteggio. Le ricompense d'onore di ogni punteggio di una fase sono <@gd.key>ricompense una tantum</>. Non vengono ripristinate dopo gli aggiornamenti della stagione o i cambi di ciclo.",
+                "JP": "任意ステージで★1、★2、★3評価をそれぞれ初めて獲得したときに、その評価に対応する<@gd.key>栄誉</>報酬を受け取れます。\n各ステージ評価の栄誉報酬は<@gd.key>1回のみ</>獲得可能です。シーズンの更新や周期のローテーションによってリセットされることはありません。",
+                "KR": "특정 스테이지에서 1성, 2성, 3성 평가를 각각 처음 달성하면 해당 평가의 <@gd.key>공훈</> 보상을 획득할 수 있습니다.\n각 스테이지 평가 등급의 공훈 보상은 <@gd.key>일회성 보상</>이며, 시즌 업데이트나 주기 변화로 초기화되지 않습니다.",
+                "MX": "Obtener puntuaciones de 1★, 2★ y 3★ por primera vez en una fase te concede recompensas de <@gd.key>Honor</> correspondientes a la puntuación. Las recompensas de Honor de cada puntuación de una fase son <@gd.key>recompensas únicas</>. No se reiniciarán después de actualizaciones de temporada o cambios de ciclo.",
+                "RU": "Если вы впервые достигли рейтинга 1★, 2★ и 3★, вы получите соответствующие награды <@gd.key>чести</>. Награды чести за каждый рейтинг стадии вручаются <@gd.key>только 1 раз</> и не сбрасываются после обновления сезона или смены циклов.",
+                "TC": "分別首次達成某個關卡的1星、2星或3星評級時，可獲得對應評級的<@gd.key>榮勛</>獎勵。\n每個關卡評級的榮勛獎勵為<@gd.key>單次獎勵</>，不會因賽季更新或週期輪換而重置。",
+                "TH": "การ​ได้รับ​คะแนน​ 1★, 2★ และ​ 3★ เป็นครั้งแรก​ใน​แต่ละ​ด่าน​ จะ​มอบ​รางวัล​<@gd.key>​เกียรติยศ​</> ที่​สอดคล้อง​กับ​คะแนน​นั้น​ให้​คุณ​ รางวัล​เกียรติยศ​ของ​แต่ละ​คะแนน​ใน​แต่ละ​ด่าน​เป็น​<@gd.key>​รางวัล​แบบ​รับได้​ครั้ง​เดียว​</> และ​จะ​ไม่​รีเซ็ต​หลัง​อัปเดต​ฤดูกาล​หรือ​เปลี่ยน​รอบ",
+                "VN": "Khi lần đầu đạt xếp hạng 1★, 2★ và 3★ trong một màn, bạn sẽ nhận được phần thưởng <@gd.key>Vinh Danh</> tương ứng với xếp hạng đó. Phần thưởng Vinh Danh của từng xếp hạng trong mỗi màn là <@gd.key>phần thưởng một lần</>. Chúng sẽ không được đặt lại sau khi cập nhật mùa hoặc thay đổi chu kỳ."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_7",
+              "pageIndex": 7,
+              "title": {
+                "BR": "Recompensas de Honra",
+                "CN": "荣勋奖励",
+                "DE": "Ehrenbelohnungen",
+                "EN": "Honor Rewards",
+                "FR": "Récompenses honorifiques",
+                "ID": "Imbalan Kehormatan",
+                "IT": "Ricompense d'onore",
+                "JP": "栄誉報酬",
+                "KR": "공훈 보상",
+                "MX": "Recompensas de honor",
+                "RU": "Награды чести",
+                "TC": "榮勛獎勵",
+                "TH": "รางวัล​เกียรติยศ",
+                "VN": "Phần Thưởng Vinh Danh"
+              }
+            },
+            {
+              "desc": {
+                "BR": "Acesse a tela [Ecos da Guerra – Análise da Batalha] para ver <@gd.key>detalhes do desempenho</> (incluindo classificações e composições de equipe em cada estágio do ciclo) em todos os ciclos das 6 temporadas mais recentes. Visite a tela de perfil dos seus amigos para ver a [Classificação Final] nas <@gd.key>6 últimas</> temporadas e o ciclo que alcançou a classificação em questão (se a mesma classificação for alcançada em vários ciclos, o ciclo anterior será mostrado).",
+                "CN": "管理员可在「战争回响 - 战绩回顾」界面中，查看自己最近6个赛季每个轮换周期的<@gd.key>战绩详情</>（包括各周期的关卡评级与通关编队等）。也可在好友的个人名片中，查看其<@gd.key>最近6个</>赛季的「最终评级」以及达成该评级轮换周期的战绩（若评级相同，优先展示更早的轮换周期）。",
+                "DE": "Im Bildschirm [Echos des Krieges – Kampfanalyse] siehst du <@gd.key>Leistungsdetails</> (wie Bewertungen und Teamzusammenstellung in jeder Phase des Zyklus) aus jedem Zyklus der letzten 6 Saisons. Besuche den Profilbildschirm deiner Freunde, um dir ihre [Endbewertung] aus den <@gd.key>letzten 6 Saisons</> und den Zyklus, in dem sie diese Bewertung erreicht haben, anzusehen (wird in mehreren Zyklen die gleiche Bewertung erzielt, wird der frühere Zyklus angezeigt).",
+                "EN": "Go to the [Echoes of War - Battle Review] screen to view <@gd.key>performance details</> (including ratings and team compositions in each stage of the cycle) in every cycle of the 6 most recent seasons. Visit your friends' Profile screen to see their [Final Rating] in the <@gd.key>6 most recent</> seasons and the cycle that achieved the said rating (if the same rating is achieved in several cycles, the earlier cycle is shown).",
+                "FR": "Consultez l'écran [Échos guerriers - Évaluation des combats] pour afficher les <@gd.key>détails de vos performances</> dans chaque cycle des 6 saisons les plus récentes, ce qui inclut vos notes et la composition de votre équipe pour chaque défi du cycle. Consultez l'écran de profil de vos amis pour voir quelle était leur [note finale] dans chacune des <@gd.key>6 dernières</> saisons et le cycle pendant lequel cette note a été obtenue (si la même note a été obtenue lors de plusieurs cycles, seul le plus ancien sera affiché).",
+                "ID": "Buka layar [Gema Perang - Tinjauan Pertarungan] untuk melihat <@gd.key>detail performamu</> (termasuk rating dan komposisi tim di setiap stage dalam siklus) dalam setiap siklus selama 6 musim terakhir. Kunjungi layar Profil temanmu untuk melihat [Rating Akhir] mereka dalam <@gd.key>6 musim terbaru</> dan siklus yang berhasil mencapai rating itu (jika rating didapatkan dalam beberapa siklus, yang akan ditampilkan adalah siklus yang lebih awal).",
+                "IT": "Vai alla schermata [Echi di guerra - Revisiona battaglia] per visualizzare i <@gd.key>dettagli delle prestazioni</> in ogni ciclo delle 6 stagioni più recenti, inclusi punteggi e composizioni della squadra in ogni fase del ciclo. Visita la schermata Profilo degli amici per vedere il loro [Punteggio finale] nelle <@gd.key>6 stagioni più recenti</> e il ciclo in cui hanno ottenuto tale punteggio (se la stessa valutazione è stata ottenuta in più cicli, viene mostrato il ciclo precedente).",
+                "JP": "「戦争残響 - 戦績一覧」画面で、自身の直近6シーズン分のローテーション周期における<@gd.key>戦績詳細</>を確認できます（各周期のステージ評価やクリア編成などが含まれます）。また、フレンドの個人情報画面では、フレンドの<@gd.key>直近6シーズン</>における「最終評価」およびその評価に到達したローテーション周期の戦績を確認できます。同評価のローテーション周期が複数ある場合、達成時期が早いものを表示します。",
+                "KR": "관리자는 [전쟁의 메아리 - 전적 보기] 화면에서 최근 6개 시즌, 각 순환 주기의 <@gd.key>전적 상세 정보</>를 확인할 수 있습니다.(각 주기의 스테이지 평가 등급 및 완료 시의 팀 편성 등 포함.) 또한 친구의 개인 명함에서 해당 친구의 <@gd.key>최근 6개</> 시즌 [최종 평가 등급]과 해당 평가를 달성한 순환 주기의 전적을 확인할 수 있습니다.(평가가 동일한 경우, 더 이전 순환 주기를 우선 표시합니다.)",
+                "MX": "Ve a la pantalla [Ecos de guerra - Revisión de batalla] para consultar los <@gd.key>detalles de desempeño</> (incluidas las puntuaciones y composiciones de equipo de cada fase del ciclo) de cada ciclo de las 6 temporadas más recientes. Visita la pantalla de Perfil de tus amigos para consultar su [Puntuación final] en las <@gd.key>6 temporadas más recientes</> y el ciclo en el que consiguieron dicha puntuación (si obtuvieron la misma puntuación en varios ciclos, se mostrará el primero).",
+                "RU": "Перейдите на экран «Эхо войны — боевые итоги», чтобы посмотреть <@gd.key>результаты</> цикла за последние 6 сезонов (включая рейтинги и состав команды на каждой стадии цикла). Заходите в профиль друзей, чтобы посмотреть их итоговый рейтинг за <@gd.key>последние 6 сезонов</>, а также цикл, в котором он был достигнут (если в нескольких циклах был достигнут одинаковый рейтинг, отображается более ранний).",
+                "TC": "管理員可在「戰爭迴響 - 戰績回顧」介面中，查看自己最近6個賽季每個輪換週期的<@gd.key>戰績詳情</>（包括各週期的關卡評級與通關編隊等）。也可在好友的個人名片中，查看其<@gd.key>最近6個</>賽季的「最終評級」以及達成該評級輪換週期的戰績（若評級相同，優先展示更早的輪換週期）。",
+                "TH": "ไป​ที่​หน้าจอ​ [เสียงสะท้อน​แห่ง​สงคราม​ - สรุป​การต่อสู้​] เพื่อ​ดู​<@gd.key>​รายละเอียด​ผลงาน​</> (รวมถึง​คะแนน​ประเมิน​และ​องค์ประกอบ​ทีม​ใน​แต่ละ​ด่าน​ของ​รอบ​) ใน​แต่ละ​รอบ​ของ​ 6 ฤดูกาล​ล่าสุด​ ไป​ที่​หน้า​โปร​ไฟล์​ของ​เพื่อน​เพื่อ​ดู​ [คะแนน​ประเมิน​สุดท้าย​] ใน​ <@gd.key>6 ฤดูกาล​ล่าสุด​</>​และ​รอบ​ที่​ทำคะแนน​ประเมิน​ดังกล่าว​ได้​ (หาก​ทำคะแนน​ประเมิน​ได้​เท่ากัน​ใน​หลาย​รอบ​ จะ​แสดง​ของ​รอบ​ก่อนหน้า​)",
+                "VN": "Vào màn hình [Tiếng Vọng Nơi Chiến Trận - Tổng Kết Chiến Đấu] để xem <@gd.key>chi tiết</> thành tích của bạn trong từng chu kỳ của 6 mùa gần nhất, bao gồm xếp hạng và đội hình ở mỗi màn trong chu kỳ. Bạn cũng có thể vào màn hình Hồ Sơ của bạn bè để xem [Xếp Hạng Cuối Mùa] của họ trong <@gd.key>6 mùa gần nhất</> và chu kỳ đạt xếp hạng đó. Nếu đạt cùng một xếp hạng trong nhiều chu kỳ, chu kỳ sớm hơn sẽ được hiển thị."
+              },
+              "id": "season_tower",
+              "imagePath": "Guide/guide_pic_seasontower_8",
+              "pageIndex": 8,
+              "title": {
+                "BR": "Análise da Batalha",
+                "CN": "战绩回顾",
+                "DE": "Kampfanalyse",
+                "EN": "Battle Review",
+                "FR": "Évaluation des combats",
+                "ID": "Tinjauan Pertarungan",
+                "IT": "Revisiona battaglia",
+                "JP": "戦績一覧",
+                "KR": "전적 보기",
+                "MX": "Revisión de batalla",
+                "RU": "Боевые итоги",
+                "TC": "戰績回顧",
+                "TH": "สรุป​การต่อสู้",
+                "VN": "Tổng Kết Chiến Đấu"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "dataArray[0].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "[Ecos da Guerra] é um modo de desafio <@gd.key>sazonal</> que está permanentemente disponível. Cada temporada contém vários <@gd.key>ciclos</>. Cada ciclo contém 3 estágios. Cada estágio possui 3 níveis de dificuldade: Normal, Difícil e Brutal.",
+                "newText": "[Ecos da Guerra] é um modo de desafio <@gd.key>sazonal</> que está permanentemente disponível. Cada temporada contém vários <@gd.key>ciclos</>. Cada ciclo inclui 3 estágios (que podem incluir estágios do passado). Cada estágio possui 3 níveis de dificuldade: Normal, Difícil e Brutal."
+              },
+              "CN": {
+                "oldText": "「战争回响」是<@gd.key>赛季制</>常驻战斗挑战玩法，每个赛季由多个<@gd.key>轮换周期</>构成。\n每个轮换周期包含3个关卡，每个关卡有3个难度（普通、困难、残酷）。",
+                "newText": "「战争回响」是<@gd.key>赛季制</>常驻战斗挑战玩法，每个赛季由多个<@gd.key>轮换周期</>构成。\n每个轮换周期包含3个关卡（可能包含往期关卡），每个关卡有3个难度（普通、困难、残酷）。"
+              },
+              "DE": {
+                "oldText": "[Echos des Krieges] ist ein <@gd.key>saisonaler</> und dauerhaft verfügbarer Herausforderungsmodus. Jede Saison besteht aus mehreren <@gd.key>Zyklen</>. Jeder Zyklus besteht aus 3 Phasen. Jede Phase hat 3 Schwierigkeitsgrade: „Normal“, „Schwer“ und „Brutal“.",
+                "newText": "[Echos des Krieges] ist ein <@gd.key>saisonaler</> und dauerhaft verfügbarer Herausforderungsmodus. Jede Saison besteht aus mehreren <@gd.key>Zyklen</>. Jeder Zyklus besteht aus 3 Phasen (die auch Phasen aus vergangenen Saisons sein können). Jede Phase hat 3 Schwierigkeitsgrade: „Normal“, „Schwer“ und „Brutal“."
+              },
+              "EN": {
+                "oldText": "[Echoes of War] is a <@gd.key>seasonal</> challenge mode that is permanently available. Each season comprises multiple <@gd.key>cycles</>. Each cycle includes 3 stages. Each stage comes in 3 difficulties: Normal, Hard, and Brutal.",
+                "newText": "[Echoes of War] is a <@gd.key>seasonal</> challenge mode that is permanently available. Each season comprises multiple <@gd.key>cycles</>. Each cycle includes 3 stages (which may include stages from the past). Each stage comes in 3 difficulties: Normal, Hard, and Brutal."
+              },
+              "FR": {
+                "oldText": "[Échos guerriers] est un mode de défi <@gd.key>saisonnier</> disponible en permanence. Chaque saison comporte plusieurs <@gd.key>cycles</>, chacun comprenant 3 défis. Chaque défi propose trois niveaux de difficulté : Normal, Difficile et Brutal.",
+                "newText": "[Échos guerriers] est un mode de défi <@gd.key>saisonnier</> disponible en permanence. Chaque saison comporte plusieurs <@gd.key>cycles</>, chacun comprenant 3 défis (qui peuvent inclure des défis passés). Chaque défi propose trois niveaux de difficulté : Normal, Difficile et Brutal."
+              },
+              "ID": {
+                "oldText": "[Gema Perang] adalah mode tantangan <@gd.key>musiman</> yang tersedia secara permanen. Setiap musim terdiri dari beberapa <@gd.key>siklus</>. Setiap siklus berisi 3 stage. Setiap stage punya 3 tingkat kesulitan: Normal, Sulit, dan Brutal.",
+                "newText": "[Gema Perang] adalah mode tantangan <@gd.key>musiman</> yang tersedia secara permanen. Setiap musim terdiri dari beberapa <@gd.key>siklus</>. Setiap siklus berisi 3 stage (yang mungkin mencakup stage dari periode yang sudah berlalu). Setiap stage punya 3 tingkat kesulitan: Normal, Sulit, dan Brutal."
+              },
+              "IT": {
+                "oldText": "\"Echi di guerra\" è una modalità sfida <@gd.key>stagionale</> permanente. Ogni stagione include vari <@gd.key>cicli</>. Ogni ciclo include 3 fasi. Ogni fase è disponibile in 3 difficoltà: Normale, Difficile e Brutale.",
+                "newText": "[Echi di guerra] è una modalità sfida <@gd.key>stagionale</> permanente. Ogni stagione include vari <@gd.key>cicli</>. Ogni ciclo include 3 fasi (che possono includere fasi passate). Ogni fase è disponibile in 3 difficoltà: Normale, Difficile e Brutale."
+              },
+              "JP": {
+                "oldText": "「戦争残響」は<@gd.key>シーズン制</>の常時開放挑戦コンテンツです。各シーズンは複数の<@gd.key>ローテーション周期</>で構成されています。\n各ローテーション周期には3つのステージがあり、各ステージには3つの難易度（通常、苦難、苛烈）があります。",
+                "newText": "「戦争残響」は<@gd.key>シーズン制</>の常時開放挑戦コンテンツです。各シーズンは複数の<@gd.key>ローテーション周期</>で構成されています。\n各ローテーション周期には3つのステージがあり、各ステージには3つの難易度（通常、苦難、苛烈）があります。3つのステージには、過去に登場したステージが含まれる場合もあります。"
+              },
+              "KR": {
+                "oldText": "[전쟁의 메아리]는 <@gd.key>시즌제</>로 운영되는 상시 전투 도전 콘텐츠로, 각 시즌은 여러 <@gd.key>순환 주기</>로 구성됩니다.\n각 순환 주기에는 3개의 스테이지가 존재하며, 각 스테이지에는 3개의 난도(일반, 고난, 잔혹)가 존재합니다.",
+                "newText": "[전쟁의 메아리]는 <@gd.key>시즌제</>로 운영되는 상시 전투 도전 콘텐츠로, 각 시즌은 여러 <@gd.key>순환 주기</>로 구성됩니다.\n각 순환 주기에는 3개의 스테이지(지난 시즌 스테이지가 포함될 수 있음)가 존재하며, 각 스테이지에는 3개의 난도(일반, 고난, 잔혹)가 존재합니다."
+              },
+              "MX": {
+                "oldText": "[Ecos de guerra] es un modo de desafío de <@gd.key>temporada</> disponible de forma permanente. Cada temporada se compone de varios <@gd.key>ciclos</>. Cada ciclo incluye 3 fases. Cada fase cuenta con 3 dificultades: Normal, Difícil y Brutal.",
+                "newText": "[Ecos de guerra] es un modo de desafío de <@gd.key>temporada</> disponible de forma permanente. Cada temporada se compone de varios <@gd.key>ciclos</>. Cada ciclo incluye 3 fases (que pueden incluir fases anteriores). Cada fase cuenta con 3 dificultades: Normal, Difícil y Brutal."
+              },
+              "RU": {
+                "oldText": "«Эхо войны» — это <@gd.key>сезонный</> режим испытаний, который доступен всегда. Каждый сезон состоит из нескольких <@gd.key>циклов</>. В цикле выделяется 3 стадии, у каждой из которых 3 сложности: обычная, сложная и жестокая.",
+                "newText": "«Эхо войны» — это <@gd.key>сезонный</> режим испытаний, который доступен всегда. Каждый сезон состоит из нескольких <@gd.key>циклов</>. В цикле выделяется 3 стадии (сюда могут входить и прошлые), у каждой из которых 3 сложности: обычная, сложная и жестокая."
+              },
+              "TC": {
+                "oldText": "「戰爭迴響」是<@gd.key>賽季制</>常駐戰鬥挑戰玩法，每個賽季由多個<@gd.key>輪換週期</>構成。\n每個輪換週期包含3個關卡，每個關卡有3個難度（普通、困難、殘酷）。",
+                "newText": "「戰爭迴響」是<@gd.key>賽季制</>常駐戰鬥挑戰玩法，每個賽季由多個<@gd.key>輪換週期</>構成。\n每個輪換週期包含3個關卡（可能包含往期關卡），每個關卡有3個難度（普通、困難、殘酷）。"
+              },
+              "TH": {
+                "oldText": "[เสียงสะท้อน​แห่ง​สงคราม​] เป็น​โหม​ด​ท้าทาย​ <@gd.key>​ตามฤดูกาล​</> ที่​เปิด​ให้​เล่น​ได้​ถาวร​ แต่ละ​ฤดูกาล​จะ​มี​<@gd.key>​รอบ​การ​เล่น​</>​หลาย​รอบ​ แต่ละ​รอบ​ประกอบด้วย​ 3 ด่าน​ แต่ละ​ด่าน​มี​ 3 ระดับ​ความ​ยาก​: ทั่วไป​ ยาก​ และ​ ยาก​มาก",
+                "newText": "[เสียงสะท้อน​แห่ง​สงคราม​] เป็น​โหม​ด​ท้าทาย​<@gd.key>​ตามฤดูกาล​</>​ที่​เปิด​ให้​เล่น​ได้​ถาวร​ แต่ละ​ฤดูกาล​จะ​มี​<@gd.key>​รอบ​การ​เล่น​</>​หลาย​รอบ​ แต่ละ​รอบ​ประกอบด้วย​ 3 ด่าน​ (ซึ่ง​อาจ​มี​ด่าน​จาก​ใน​อดีต​) แต่ละ​ด่าน​มี​ 3 ระดับ​ความ​ยาก​: ทั่วไป​ ยาก​ และ​ ยาก​มาก"
+              },
+              "VN": {
+                "oldText": "[Tiếng Vọng Nơi Chiến Trận] là một chế độ thử thách <@gd.key>theo mùa</> được mở thường trực. Mỗi mùa gồm nhiều <@gd.key>chu kỳ</>. Mỗi chu kỳ gồm 3 màn chơi. Mỗi màn có 3 độ khó: Thường, Khó và Tàn Bạo.",
+                "newText": "[Tiếng Vọng Nơi Chiến Trận] là một chế độ thử thách <@gd.key>theo mùa</> được mở thường trực. Mỗi mùa gồm nhiều <@gd.key>chu kỳ</>. Mỗi chu kỳ gồm 3 màn chơi và có thể bao gồm cả các màn chơi cũ. Mỗi màn có 3 độ khó: Thường, Khó và Tàn Bạo."
+              }
+            }
+          },
+          "dataArray[5].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Quando um ciclo começa, os níveis de dificuldade Normal e Difícil estarão disponíveis por padrão para cada estágio. Conquistar o reforço <@gd.key>[Lustroso]</> na temporada atual desbloqueia automaticamente a dificuldade Brutal para todos os estágios na próxima temporada.",
+                "newText": "Quando um ciclo começa, os níveis de dificuldade Normal e Difícil de cada estágio estão disponíveis por padrão. Conclua um estágio na dificuldade Difícil para desbloquear a dificuldade Brutal. Conclua um estágio na dificuldade Brutal para desbloquear permanentemente a dificuldade Brutal em futuros ciclos e temporadas. \nConquistar o reforço <@gd.key>[Lustroso]</> no título da temporada atual desbloqueia automaticamente a dificuldade Brutal para todos os estágios na próxima temporada."
+              },
+              "CN": {
+                "oldText": "每个关卡会初始解锁普通与困难难度，通关困难难度后解锁残酷难度。\n若本赛季的赛季称号已获得<@gd.key>「增辉」</>，则下个赛季的所有关卡将直接解锁残酷难度。",
+                "newText": "每个关卡会初始解锁普通与困难难度，通关困难难度后解锁残酷难度。解锁残酷难度的关卡在后续轮换和赛季中将永久解锁残酷难度。\n若本赛季的赛季称号已获得<@gd.key>「增辉」</>，则下个赛季的所有关卡将直接解锁残酷难度。"
+              },
+              "DE": {
+                "oldText": "Zu Beginn eines Zyklus sind automatisch die Schwierigkeitsgrade „Normal“ und „Schwer“ für jede Phase verfügbar. Erhältst du für den aktuellen Saisontitel den Boost <@gd.key>[Leuchtend]</>, schaltest du für alle Phasen der nächsten Saison automatisch den Schwierigkeitsgrad „Brutal“ frei.",
+                "newText": "Zu Beginn eines Zyklus sind automatisch die Schwierigkeitsgrade „Normal“ und „Schwer“ für jede Phase verfügbar. Schließe eine Phase auf „Schwer“ ab, um den Schwierigkeitsgrad „Brutal“ für diese Phase freizuschalten. Schließe eine Phase auf „Brutal“ ab, um den Schwierigkeitsgrad „Brutal“ für diese Phase auch für zukünftige Zyklen und Saisons freizuschalten. \nErhältst du für den aktuellen Saisontitel den Boost <@gd.key>[Leuchtend]</>, schaltest du für alle Phasen der nächsten Saison automatisch den Schwierigkeitsgrad „Brutal“ frei."
+              },
+              "EN": {
+                "oldText": "When a cycle begins, Normal and Hard difficulty tiers will be available by default for each stage. Earning the <@gd.key>[Lustrous]</> boost for the current season title automatically unlocks Brutal difficulty for all stages in the next season.",
+                "newText": "When a cycle begins, Normal and Hard difficulty tiers of each stage will be available by default. Complete a stage on Hard difficulty to unlock its Brutal difficulty. Complete a stage on Brutal difficulty to permanently unlock the Brutal difficulty in future cycles and seasons. \nEarning the <@gd.key>[Lustrous]</> boost for the current season title automatically unlocks Brutal difficulty for all stages in the next season."
+              },
+              "FR": {
+                "oldText": "Au début d'un cycle, les niveaux de difficulté Normal et Difficile sont disponibles par défaut pour chaque défi. Remporter le bonus <@gd.key>[Illustre]</> pour le titre saisonnier actuel débloque automatiquement la difficulté Brutal pour tous les défis de la saison suivante.",
+                "newText": "Au début d'un cycle, les niveaux de difficulté Normal et Difficile de chaque défi sont disponibles par défaut. Terminez un défi en niveau Difficile pour débloquer son niveau de difficulté Brutal. Terminez un défi en niveau de difficulté Brutal pour débloquer cette difficulté de façon permanente pour les futurs cycles et saisons. \nRemporter le bonus <@gd.key>[Illustre]</> pour le titre saisonnier actuel débloque automatiquement le niveau de difficulté Brutal pour tous les défis de la saison suivante."
+              },
+              "ID": {
+                "oldText": "Saat siklus dimulai, tingkat kesulitan Normal dan Sulit akan tersedia secara default untuk setiap stage. Jika mendapatkan boost <@gd.key>[Lustrous]</> untuk gelar musim ini, tingkat kesulitan Brutal untuk semua stage pada musim berikutnya akan terbuka secara otomatis.",
+                "newText": "Saat siklus dimulai, tingkat kesulitan Normal dan Sulit untuk setiap stage akan tersedia secara default. Selesaikan stage dengan tingkat kesulitan Sulit untuk membuka tingkat kesulitan Brutal. Selesaikan stage dengan tingkat kesulitan Brutal untuk membuka tingkat kesulitan Brutal secara permanen untuk siklus dan musim mendatang. \nJika mendapatkan boost <@gd.key>[Lustrous]</> untuk gelar musim ini, tingkat kesulitan Brutal untuk semua stage pada musim berikutnya akan terbuka secara otomatis."
+              },
+              "IT": {
+                "oldText": "Quando inizia un ciclo, le difficoltà Normale e Difficile sono disponibili per impostazione predefinita per ogni fase. Ottenere un potenziamento <@gd.key>\"Splendente\"</> per il titolo di stagione corrente sblocca automaticamente la difficoltà Brutale per tutte le fasi della stagione successiva.",
+                "newText": "Quando inizia un ciclo, i livelli di difficoltà Normale e Difficile di ogni fase sono disponibili per impostazione predefinita. Completa una fase a difficoltà Difficile per sbloccare la difficoltà Brutale. Completa una fase a difficoltà Brutale per sbloccare in modo permanente la difficoltà Brutale in cicli e stagioni futuri. \nOttenere un potenziamento <@gd.key>[Splendente]</> per il titolo stagionale corrente sblocca automaticamente la difficoltà Brutale per tutte le fasi della stagione successiva."
+              },
+              "JP": {
+                "oldText": "各ステージは初めから2つの難易度：「通常」と「苦難」が開放されています。「苦難」をクリアすると、「苛烈」が解放されます。\n本シーズンの称号に、<@gd.key>「輝き」</>がすでに付与された場合、次のシーズン開始時に、すべてのステージで「苛烈」が直接開放されます。",
+                "newText": "すべてのステージは、初めから「通常」と「苦難」の2つの難易度が解放されています。「苦難」をクリアすると、上位難易度である「苛烈」が解放されます。一度「苛烈」を解放したステージは、以降のローテーション周期やシーズンでも難易度「苛烈」が常時解放されます。\n本シーズンの称号に、<@gd.key>「輝き」</>がすでに付与されている場合、次のシーズン開始時に、すべてのステージで「苛烈」が直接開放されます。"
+              },
+              "KR": {
+                "oldText": "각 스테이지는 기본적으로 일반 및 고난 난도가 잠금 해제되어 있으며, 고난 난도를 완료하면 잔혹 난도가 잠금 해제됩니다.\n현재 시즌의 시즌 타이틀이 <@gd.key>[반짝임]</>을 획득한 상태라면, 다음 시즌의 모든 스테이지는 잔혹 난도가 바로 잠금 해제됩니다.",
+                "newText": "각 스테이지는 기본적으로 일반 및 고난 난도가 잠금 해제되어 있으며, 고난 난도를 완료하면 잔혹 난도가 잠금 해제됩니다. 잔혹 난도가 잠금 해제된 스테이지는 이후 순환 및 시즌에서도 영구적으로 잔혹 난도가 유지됩니다.\n현재 시즌의 시즌 타이틀이 <@gd.key>[반짝임]</>을 획득한 상태라면, 다음 시즌의 모든 스테이지는 잔혹 난도가 바로 잠금 해제됩니다."
+              },
+              "MX": {
+                "oldText": "Cuando comience un ciclo, los niveles de dificultad Normal y Difícil estarán disponibles de forma predeterminada para cada fase. Obtener el incremento <@gd.key>[Lustroso]</> para el título de la temporada actual desbloquea automáticamente la dificultad Brutal en todas las fases de la próxima temporada.",
+                "newText": "Cuando comience un ciclo, los niveles de dificultad Normal y Difícil de cada fase estarán disponibles de forma predeterminada. Completa una fase en dificultad Difícil para desbloquear su dificultad Brutal. Completa una fase en dificultad Brutal para desbloquear permanentemente la dificultad Brutal en ciclos y temporadas futuros. \nAl obtener el refuerzo <@gd.key>[Lustroso]</> para el título de temporada actual, se desbloquea automáticamente la dificultad Brutal en todas las fases de la siguiente temporada."
+              },
+              "RU": {
+                "oldText": "В начале цикла обычная и сложная стадии доступны по умолчанию. Получите усиление <@gd.key>Блеск</> для титула текущего сезона, чтобы автоматически открыть жестокую сложность для всех стадий в следующем сезоне.",
+                "newText": "В начале цикла обычная и сложная стадии доступны по умолчанию. Пройдите сложную стадию, чтобы открыть жестокую. Пройдите жестокую, чтобы открыть ее во всех будущих циклах и сезонах. \nПолучите усиление <@gd.key>Блеск</> для титула текущего сезона, чтобы автоматически открыть жестокую сложность для всех стадий в следующем сезоне."
+              },
+              "TC": {
+                "oldText": "每個關卡初始會解鎖普通與困難難度，通關困難難度後解鎖殘酷難度。\n若本賽季的賽季稱號已獲得<@gd.key>「增輝」</>，則下個賽季的所有關卡將直接解鎖殘酷難度。",
+                "newText": "每個關卡初始會解鎖普通與困難難度，通關困難難度後解鎖殘酷難度。解鎖殘酷難度的關卡在後續輪換和賽季中將永久解鎖殘酷難度。\n若本賽季的賽季稱號已獲得<@gd.key>「增輝」</>，則下個賽季的所有關卡將直接解鎖殘酷難度。"
+              },
+              "TH": {
+                "oldText": "เมื่อ​รอบ​เริ่มต้น​ แต่ละ​ด่าน​จะ​มีระดับ​ความ​ยาก​ ทั่วไป​และ​ยาก​ ให้​เล่น​เป็น​ค่า​เริ่มต้น​ การ​ได้รับ​ชื่อ​ <@gd.key>[เจิด​จรัส​]</> ใน​ซี​ซัน​ปัจจุบัน​ จะ​ปลดล็อก​ระดับ​ยาก​มาก​ สำหรับ​ทุก​ด่าน​ใน​ซี​ซัน​ถัดไป​โดยอัตโนมัติ",
+                "newText": "เมื่อ​รอบ​เริ่มต้น​ ระดับ​ความ​ยาก​ระดับ​ทั่วไป​และ​ระดับ​ยาก​ของ​แต่ละ​ด่าน​จะ​เปิด​ให้​เล่น​เป็น​ค่า​เริ่มต้น​ เคลียร์​ด่าน​ใน​ระดับ​ยาก​ เพื่อ​ปลดล็อก​ระดับ​ยาก​มาก​ของ​ด่าน​นั้น​ เคลียร์​ด่าน​ใน​ระดับ​ยาก​มาก​ เพื่อ​ปลดล็อก​ระดับ​ยาก​มาก​ของ​ด่าน​อย่างถาวร​ใน​รอบ​และ​ฤดูกาล​ในอนาคต​ \nการ​ได้รับ​ <@gd.key>[เจิด​จรัส​]</> ใน​ฤดูกาล​ปัจจุบัน​ จะ​ปลดล็อก​ระดับ​ยาก​มาก​ สำหรับ​ทุก​ด่าน​ใน​ฤดูกาล​ถัดไป​โดยอัตโนมัติ"
+              },
+              "VN": {
+                "oldText": "Khi một chu kỳ bắt đầu, các bậc độ khó Thường và Khó sẽ được mở mặc định cho mỗi màn chơi. Nhận hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</> cho danh hiệu mùa hiện tại sẽ tự động mở khóa độ khó Tàn Bạo cho tất cả màn chơi trong mùa tiếp theo.",
+                "newText": "Khi một chu kỳ bắt đầu, các bậc độ khó Thường và Khó sẽ được mở mặc định cho mỗi màn chơi. Hoàn thành một màn chơi ở độ khó Khó để mở khóa độ khó Tàn Bạo của màn đó. Hoàn thành một màn chơi ở độ khó Tàn Bạo để mở khóa vĩnh viễn độ khó Tàn Bạo của màn đó trong các chu kỳ và mùa sau. \nNhận hiệu ứng tăng cường <@gd.key>[Rực Rỡ]</> cho danh hiệu mùa hiện tại sẽ tự động mở khóa độ khó Tàn Bạo cho tất cả màn chơi trong mùa tiếp theo."
+              }
+            }
+          },
+          "dataArray[7].desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Acesse a tela [Ecos da Guerra – Análise da Batalha] para ver <@gd.key>detalhes</> (incluindo classificações e composições de equipe em cada estágio do ciclo) do seu desempenho em todos os ciclos das <@gd.key>6 temporadas mais recentes</>. Você também pode visitar a tela de perfil dos seus amigos para ver a [Classificação Final] deles nas 6 temporadas mais recentes.",
+                "newText": "Acesse a tela [Ecos da Guerra – Análise da Batalha] para ver <@gd.key>detalhes do desempenho</> (incluindo classificações e composições de equipe em cada estágio do ciclo) em todos os ciclos das 6 temporadas mais recentes. Visite a tela de perfil dos seus amigos para ver a [Classificação Final] nas <@gd.key>6 últimas</> temporadas e o ciclo que alcançou a classificação em questão (se a mesma classificação for alcançada em vários ciclos, o ciclo anterior será mostrado)."
+              },
+              "CN": {
+                "oldText": "管理员可在「战争回响 - 战绩回顾」界面中，查看自己最近6个赛季每个轮换周期的<@gd.key>战绩详情</>（包括各周期的关卡评级与通关编队等）。也可在好友的个人名片中，查看其<@gd.key>最近6个</>赛季的「最终评级」。",
+                "newText": "管理员可在「战争回响 - 战绩回顾」界面中，查看自己最近6个赛季每个轮换周期的<@gd.key>战绩详情</>（包括各周期的关卡评级与通关编队等）。也可在好友的个人名片中，查看其<@gd.key>最近6个</>赛季的「最终评级」以及达成该评级轮换周期的战绩（若评级相同，优先展示更早的轮换周期）。"
+              },
+              "DE": {
+                "oldText": "Im Bildschirm [Echos des Krieges – Kampfanalyse] siehst du <@gd.key>Details</> (wie Bewertungen und Teamzusammenstellung in jeder Phase des Zyklus) deiner Leistung in jedem Zyklus der <@gd.key>letzten 6 Saisons</>. Außerdem kannst du dir im Profilbildschirm deiner Freunde ihre [Endbewertung] der letzten 6 Saisons ansehen.",
+                "newText": "Im Bildschirm [Echos des Krieges – Kampfanalyse] siehst du <@gd.key>Leistungsdetails</> (wie Bewertungen und Teamzusammenstellung in jeder Phase des Zyklus) aus jedem Zyklus der letzten 6 Saisons. Besuche den Profilbildschirm deiner Freunde, um dir ihre [Endbewertung] aus den <@gd.key>letzten 6 Saisons</> und den Zyklus, in dem sie diese Bewertung erreicht haben, anzusehen (wird in mehreren Zyklen die gleiche Bewertung erzielt, wird der frühere Zyklus angezeigt)."
+              },
+              "EN": {
+                "oldText": "Go to the [Echoes of War - Battle Review] screen to view <@gd.key>details</> (including ratings and team compositions in each stage of the cycle) of your performance in every cycle of the <@gd.key>6 most recent</> seasons. You can also visit your friends' Profile screen to see their [Final Rating] in the 6 most recent seasons.",
+                "newText": "Go to the [Echoes of War - Battle Review] screen to view <@gd.key>performance details</> (including ratings and team compositions in each stage of the cycle) in every cycle of the 6 most recent seasons. Visit your friends' Profile screen to see their [Final Rating] in the <@gd.key>6 most recent</> seasons and the cycle that achieved the said rating (if the same rating is achieved in several cycles, the earlier cycle is shown)."
+              },
+              "FR": {
+                "oldText": "Consultez l'écran [Échos guerriers - Évaluation des combats] pour afficher les <@gd.key>détails</> de vos performances dans chaque cycle des <@gd.key>6 saisons les plus récentes</>, ce qui inclut vos notes et la composition de votre équipe pour chaque défi. Vous pouvez également afficher l'écran de profil de vos amis pour voir quelle était leur [note finale] dans chacune des 6 dernières saisons.",
+                "newText": "Consultez l'écran [Échos guerriers - Évaluation des combats] pour afficher les <@gd.key>détails de vos performances</> dans chaque cycle des 6 saisons les plus récentes, ce qui inclut vos notes et la composition de votre équipe pour chaque défi du cycle. Consultez l'écran de profil de vos amis pour voir quelle était leur [note finale] dans chacune des <@gd.key>6 dernières</> saisons et le cycle pendant lequel cette note a été obtenue (si la même note a été obtenue lors de plusieurs cycles, seul le plus ancien sera affiché)."
+              },
+              "ID": {
+                "oldText": "Buka layar [Gema Perang - Tinjauan Pertarungan] untuk melihat <@gd.key>detail</> performamu (termasuk rating dan komposisi tim di setiap stage dalam siklus) dalam setiap siklus dalam <@gd.key>6 musim terakhir</>. Kamu juga bisa mengunjungi layar Profil temanmu untuk melihat [Rating Akhir] mereka sepanjang 6 musim terakhir.",
+                "newText": "Buka layar [Gema Perang - Tinjauan Pertarungan] untuk melihat <@gd.key>detail performamu</> (termasuk rating dan komposisi tim di setiap stage dalam siklus) dalam setiap siklus selama 6 musim terakhir. Kunjungi layar Profil temanmu untuk melihat [Rating Akhir] mereka dalam <@gd.key>6 musim terbaru</> dan siklus yang berhasil mencapai rating itu (jika rating didapatkan dalam beberapa siklus, yang akan ditampilkan adalah siklus yang lebih awal)."
+              },
+              "IT": {
+                "oldText": "Vai alla schermata \"Echi di guerra - Revisiona battaglia\" per visualizzare i <@gd.key>dettagli</> delle tue prestazioni in ogni ciclo delle <@gd.key>6 stagioni più recenti</>, inclusi punteggi e composizioni della squadra in ogni fase del ciclo. Puoi anche visitare la schermata Profilo degli amici per vedere il loro \"Punteggio finale\" nelle 6 stagioni più recenti.",
+                "newText": "Vai alla schermata [Echi di guerra - Revisiona battaglia] per visualizzare i <@gd.key>dettagli delle prestazioni</> in ogni ciclo delle 6 stagioni più recenti, inclusi punteggi e composizioni della squadra in ogni fase del ciclo. Visita la schermata Profilo degli amici per vedere il loro [Punteggio finale] nelle <@gd.key>6 stagioni più recenti</> e il ciclo in cui hanno ottenuto tale punteggio (se la stessa valutazione è stata ottenuta in più cicli, viene mostrato il ciclo precedente)."
+              },
+              "JP": {
+                "oldText": "「戦争残響 - 戦績一覧」画面で、自身の直近6シーズン分のローテーション周期における<@gd.key>戦績詳細</>を確認できます（各周期のステージ評価やクリア編成などが含まれます）。また、フレンドの個人情報画面では、フレンドの<@gd.key>直近6シーズン</>における「最終評価」を確認できます。",
+                "newText": "「戦争残響 - 戦績一覧」画面で、自身の直近6シーズン分のローテーション周期における<@gd.key>戦績詳細</>を確認できます（各周期のステージ評価やクリア編成などが含まれます）。また、フレンドの個人情報画面では、フレンドの<@gd.key>直近6シーズン</>における「最終評価」およびその評価に到達したローテーション周期の戦績を確認できます。同評価のローテーション周期が複数ある場合、達成時期が早いものを表示します。"
+              },
+              "KR": {
+                "oldText": "관리자는 [전쟁의 메아리 - 전적 보기] 화면에서 최근 6개 시즌, 각 순환 주기의 <@gd.key>전적 상세 정보</>를 확인할 수 있습니다.(각 주기의 스테이지 평가 등급 및 완료 시의 팀 편성 등 포함.) 또한 친구의 개인 명함에서 해당 친구의 <@gd.key>최근 6개</> 시즌 [최종 평가 등급]도 확인할 수 있습니다.",
+                "newText": "관리자는 [전쟁의 메아리 - 전적 보기] 화면에서 최근 6개 시즌, 각 순환 주기의 <@gd.key>전적 상세 정보</>를 확인할 수 있습니다.(각 주기의 스테이지 평가 등급 및 완료 시의 팀 편성 등 포함.) 또한 친구의 개인 명함에서 해당 친구의 <@gd.key>최근 6개</> 시즌 [최종 평가 등급]과 해당 평가를 달성한 순환 주기의 전적을 확인할 수 있습니다.(평가가 동일한 경우, 더 이전 순환 주기를 우선 표시합니다.)"
+              },
+              "MX": {
+                "oldText": "Ve a la pantalla [Ecos de guerra - Revisión de batalla] para consultar los <@gd.key>detalles</> de tu desempeño (incluidas las puntuaciones y composiciones de equipo de cada fase del ciclo) en todos los ciclos de las <@gd.key>6 temporadas más recientes</>. También puedes visitar la pantalla de Perfil de tus amigos para ver su [Puntuación final] en las 6 temporadas más recientes.",
+                "newText": "Ve a la pantalla [Ecos de guerra - Revisión de batalla] para consultar los <@gd.key>detalles de desempeño</> (incluidas las puntuaciones y composiciones de equipo de cada fase del ciclo) de cada ciclo de las 6 temporadas más recientes. Visita la pantalla de Perfil de tus amigos para consultar su [Puntuación final] en las <@gd.key>6 temporadas más recientes</> y el ciclo en el que consiguieron dicha puntuación (si obtuvieron la misma puntuación en varios ciclos, se mostrará el primero)."
+              },
+              "RU": {
+                "oldText": "Перейдите на экран «Эхо войны — боевые итоги», чтобы посмотреть <@gd.key>результаты</> цикла за последние 6 сезонов (включая рейтинги и состав команды на каждой стадии цикла). Вы можете перейти в профиль друзей и посмотреть их итоговый рейтинг за <@gd.key>последние 6 сезонов</>.",
+                "newText": "Перейдите на экран «Эхо войны — боевые итоги», чтобы посмотреть <@gd.key>результаты</> цикла за последние 6 сезонов (включая рейтинги и состав команды на каждой стадии цикла). Заходите в профиль друзей, чтобы посмотреть их итоговый рейтинг за <@gd.key>последние 6 сезонов</>, а также цикл, в котором он был достигнут (если в нескольких циклах был достигнут одинаковый рейтинг, отображается более ранний)."
+              },
+              "TC": {
+                "oldText": "管理員可在「戰爭迴響 - 戰績回顧」介面中，查看自己最近6個賽季每個輪換週期的<@gd.key>戰績詳情</>（包括各週期的關卡評級與通關編隊等）。也可在好友的個人名片中，查看其<@gd.key>最近6個</>賽季的「最終評級」。",
+                "newText": "管理員可在「戰爭迴響 - 戰績回顧」介面中，查看自己最近6個賽季每個輪換週期的<@gd.key>戰績詳情</>（包括各週期的關卡評級與通關編隊等）。也可在好友的個人名片中，查看其<@gd.key>最近6個</>賽季的「最終評級」以及達成該評級輪換週期的戰績（若評級相同，優先展示更早的輪換週期）。"
+              },
+              "TH": {
+                "oldText": "ไป​ที่​หน้าจอ​ [เสียงสะท้อน​แห่ง​สงคราม​ - สรุป​การต่อสู้​] เพื่อ​ดู​<@gd.key>​รายละเอียด​</>​ผลงาน​ของ​คุณ​ใน​แต่ละ​รอบ​ของ​ <@gd.key>6 ฤดูกาล​ล่าสุด​</> รวมถึง​คะแนน​ประเมิน​และ​องค์ประกอบ​ทีม​ใน​แต่ละ​ด่าน​ของ​รอบ​ คุณ​ยัง​สามารถ​ไป​ที่​หน้า​โพร​ไฟล์​ของ​เพื่อน​เพื่อ​ดู​ [คะแนน​ประเมิน​สุดท้าย​] ของ​พวกเขา​ใน​ 6 ฤดูกาล​ล่าสุด​ได้​ด้วย",
+                "newText": "ไป​ที่​หน้าจอ​ [เสียงสะท้อน​แห่ง​สงคราม​ - สรุป​การต่อสู้​] เพื่อ​ดู​<@gd.key>​รายละเอียด​ผลงาน​</> (รวมถึง​คะแนน​ประเมิน​และ​องค์ประกอบ​ทีม​ใน​แต่ละ​ด่าน​ของ​รอบ​) ใน​แต่ละ​รอบ​ของ​ 6 ฤดูกาล​ล่าสุด​ ไป​ที่​หน้า​โปร​ไฟล์​ของ​เพื่อน​เพื่อ​ดู​ [คะแนน​ประเมิน​สุดท้าย​] ใน​ <@gd.key>6 ฤดูกาล​ล่าสุด​</>​และ​รอบ​ที่​ทำคะแนน​ประเมิน​ดังกล่าว​ได้​ (หาก​ทำคะแนน​ประเมิน​ได้​เท่ากัน​ใน​หลาย​รอบ​ จะ​แสดง​ของ​รอบ​ก่อนหน้า​)"
+              },
+              "VN": {
+                "oldText": "Vào màn hình [Tiếng Vọng Nơi Chiến Trận - Tổng Kết Chiến Đấu] để xem <@gd.key>chi tiết</> thành tích của bạn trong từng chu kỳ của <@gd.key>6 mùa gần nhất</>, bao gồm xếp hạng và đội hình ở mỗi màn trong chu kỳ. Bạn cũng có thể vào màn hình Hồ Sơ của bạn bè để xem [Xếp Hạng Cuối Mùa] của họ trong 6 mùa gần nhất.",
+                "newText": "Vào màn hình [Tiếng Vọng Nơi Chiến Trận - Tổng Kết Chiến Đấu] để xem <@gd.key>chi tiết</> thành tích của bạn trong từng chu kỳ của 6 mùa gần nhất, bao gồm xếp hạng và đội hình ở mỗi màn trong chu kỳ. Bạn cũng có thể vào màn hình Hồ Sơ của bạn bè để xem [Xếp Hạng Cuối Mùa] của họ trong <@gd.key>6 mùa gần nhất</> và chu kỳ đạt xếp hạng đó. Nếu đạt cùng một xếp hạng trong nhiều chu kỳ, chu kỳ sớm hơn sẽ được hiển thị."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

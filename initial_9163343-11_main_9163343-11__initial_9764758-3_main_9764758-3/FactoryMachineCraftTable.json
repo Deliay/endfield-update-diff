@@ -1,0 +1,647 @@
+{
+  "tableName": "FactoryMachineCraftTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 12,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "component_activity_copper_poly_cmpt": {
+        "buffers": {
+          "item_activity_copper_poly": 0,
+          "item_activity_copper_poly_cmpt": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de peças de Xiran-Cuprium Proto",
+          "CN": "实验息壤铜零件生产",
+          "DE": "Proto-Xiran-Cuprium-Teil-Produktion",
+          "EN": "Proto Xiran-Cuprium Part Production",
+          "FR": "Production de pièces en proto-xiran-cuprium",
+          "ID": "Produksi Bagian Proto Xiran-Cuprium",
+          "IT": "Produzione di parte xiran-cuprium prototipo",
+          "JP": "実験用息壌銅部品生産",
+          "KR": "실험용 식양 구리 부품 생산",
+          "MX": "Producción de prototipo de Pieza de Xiran-Cuprio",
+          "RU": "Производство протоксиранокуприевой детали",
+          "TC": "實驗息壤銅零件生產",
+          "TH": "การผลิต​ชิ้นส่วน​โปร​โต​ซี​ราน​-​คู​เพ​รี​ยม",
+          "VN": "Sản Xuất Mảnh Xiranite-Đồng Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_component_normal",
+        "gasEnv": 0,
+        "id": "component_activity_copper_poly_cmpt",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 5,
+                "id": "item_activity_copper_poly"
+              }
+            ]
+          }
+        ],
+        "machineId": "component_mc_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly_cmpt"
+              }
+            ]
+          }
+        ],
+        "progressRound": 10,
+        "signal": 0,
+        "sortId": 9,
+        "totalProgress": 60000
+      },
+      "gas_reactor_activity_copper_poly_gas_1": {
+        "buffers": {
+          "item_activity_copper_poly_gas": 0,
+          "item_gas_copper": 0,
+          "item_gas_xiranite": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Gás de Xiran-Cuprium Proto",
+          "CN": "实验息壤铜气生产",
+          "DE": "Proto-Xiran-Cuprium-Gas-Produktion",
+          "EN": "Proto Xiran-Cuprium Gas Production",
+          "FR": "Production de proto-xiran-cuprium gazeux",
+          "ID": "Produksi Gas Proto Xiran-Cuprium",
+          "IT": "Produzione di gas xiran-cuprium prototipo",
+          "JP": "実験用息壌銅ガス生産",
+          "KR": "실험용 기체 식양 구리 생산",
+          "MX": "Producción de prototipo de Gas de Xiran-Cuprio",
+          "RU": "Производство протоксиранокуприевого газа",
+          "TC": "實驗息壤銅氣生產",
+          "TH": "การผลิต​ก๊าซ​โปร​โต​ซี​ราน​-​คู​เพ​รี​ยม",
+          "VN": "Sản Xuất Khí Xiranite-Đồng Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_gas_reactor_gas",
+        "gasEnv": 1,
+        "id": "gas_reactor_activity_copper_poly_gas_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 2,
+                "id": "item_gas_copper"
+              },
+              {
+                "count": 1,
+                "id": "item_gas_xiranite"
+              }
+            ]
+          }
+        ],
+        "machineId": "gas_reactor_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly_gas"
+              }
+            ]
+          }
+        ],
+        "progressRound": 2,
+        "signal": 0,
+        "sortId": 2,
+        "totalProgress": 12000
+      },
+      "shaper_gas_activity_xiranite_enr_box_1": {
+        "buffers": {
+          "item_activity_xiranite_enr_box": 0,
+          "item_gas_inert": 0,
+          "item_activity_xiranite_enr_nugget": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Carapaças Pesadas de Chubby Lung Proto",
+          "CN": "实验龙泡泡重壳生产",
+          "DE": "Proto-Chubby-Lung-Schweres-Geschoss-Produktion",
+          "EN": "Proto Chubby Lung Heavy Shell Production",
+          "FR": "Production de proto-coque lourde de Choupi Lung",
+          "ID": "Produksi Cangkang Berat Proto Lung Gembul",
+          "IT": "Produzione di gusci pesanti di cicciodrago prototipo",
+          "JP": "実験用龍泡泡ヘビーシェル生産",
+          "KR": "실험용 드래곤 버블 중외피 생산",
+          "MX": "Producción de prototipo de carcasa pesada de Lung regordete",
+          "RU": "Производство тяжелого протопанциря пухлика-луна",
+          "TC": "實驗龍泡泡重殼生產",
+          "TH": "การผลิต​เปลือก​หนัก​โปร​โต​หลง​จ้ำม่ำ",
+          "VN": "Sản Xuất Vỏ Nặng Chubby Lung Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_shaper_gas",
+        "gasEnv": 0,
+        "id": "shaper_gas_activity_xiranite_enr_box_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_enr_nugget"
+              },
+              {
+                "count": 5,
+                "id": "item_gas_inert"
+              }
+            ]
+          }
+        ],
+        "machineId": "shaper_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_enr_box"
+              }
+            ]
+          }
+        ],
+        "progressRound": 10,
+        "signal": 0,
+        "sortId": 2,
+        "totalProgress": 60000
+      },
+      "furnance_activity_xiranite_enr_nugget_1": {
+        "buffers": {
+          "item_activity_xiranite_enr_nugget": 0,
+          "item_xiranite_enr_powder": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Xiranita Pesada Proto",
+          "CN": "实验重息壤块生产",
+          "DE": "Proto-Schweres-Xiranit-Produktion",
+          "EN": "Proto Heavy Xiranite Production",
+          "FR": "Production de proto-xiranite lourde",
+          "ID": "Produksi Proto Xiranite Berat",
+          "IT": "Produzione di xiranite pesante prototipo",
+          "JP": "実験用重息壌ブロック生産",
+          "KR": "실험용 중식양 덩어리 생산",
+          "MX": "Producción de prototipo de Xiranita pesada",
+          "RU": "Производство тяжелого протоксиранита",
+          "TC": "實驗重息壤塊生產",
+          "TH": "การผลิต​โปร​โต​ซี​เรน​ไนต์​หนัก",
+          "VN": "Sản Xuất Xiranite Nặng Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_furnance_normal",
+        "gasEnv": 0,
+        "id": "furnance_activity_xiranite_enr_nugget_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_xiranite_enr_powder"
+              }
+            ]
+          }
+        ],
+        "machineId": "furnance_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_enr_nugget"
+              }
+            ]
+          }
+        ],
+        "progressRound": 10,
+        "signal": 0,
+        "sortId": 27,
+        "totalProgress": 60000
+      },
+      "tools_proc_activity_xiranite_copper_tool_1": {
+        "buffers": {
+          "item_activity_copper_xiranite_tool": 0,
+          "item_copper_cmpt": 0,
+          "item_xiranite_powder": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Estruturas de Cuprium Proto",
+          "CN": "实验铜骨骼合成",
+          "DE": "Proto-Cuprium-Rahmen-Produktion",
+          "EN": "Proto Cuprium Frame Production",
+          "FR": "Production de proto-châssis en cuprium",
+          "ID": "Produksi Rangka Proto Cuprium",
+          "IT": "Produzione di telai di cuprium prototipo",
+          "JP": "実験用銅フレーム生産",
+          "KR": "실험용 구리 골격 합성",
+          "MX": "Producción de Prototipo de Armazón de Cuprio",
+          "RU": "Производство протокуприевого каркаса",
+          "TC": "實驗銅骨骼合成",
+          "TH": "การผลิต​กรอบ​โปร​โต​คู​เพ​รี​ยม",
+          "VN": "Sản Xuất Khung Đồng Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_tools_normal",
+        "gasEnv": 0,
+        "id": "tools_proc_activity_xiranite_copper_tool_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 4,
+                "id": "item_copper_cmpt"
+              },
+              {
+                "count": 1,
+                "id": "item_xiranite_powder"
+              }
+            ]
+          }
+        ],
+        "machineId": "tools_assebling_mc_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_xiranite_tool"
+              }
+            ]
+          }
+        ],
+        "progressRound": 2,
+        "signal": 0,
+        "sortId": 15,
+        "totalProgress": 12000
+      },
+      "furnance_activity_xiranite_nugget_1": {
+        "buffers": {
+          "item_activity_xiranite_nugget": 0,
+          "item_xiranite_powder": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Xiranita Proto",
+          "CN": "实验息壤块生产",
+          "DE": "Proto-Xiranit-Produktion",
+          "EN": "Proto Xiranite Production",
+          "FR": "Production de proto-xiranite",
+          "ID": "Produksi Proto Xiranite",
+          "IT": "Produzione di xiranite prototipo",
+          "JP": "実験用息壌ブロック生産",
+          "KR": "실험용 식양 덩어리 생산",
+          "MX": "Producción de prototipo de Xiranita",
+          "RU": "Производство протоксиранита",
+          "TC": "實驗息壤塊生產",
+          "TH": "การผลิต​โปร​โต​ซี​เรน​ไนต์",
+          "VN": "Sản Xuất Xiranite Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_furnance_normal",
+        "gasEnv": 0,
+        "id": "furnance_activity_xiranite_nugget_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_xiranite_powder"
+              }
+            ]
+          }
+        ],
+        "machineId": "furnance_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_nugget"
+              }
+            ]
+          }
+        ],
+        "progressRound": 2,
+        "signal": 0,
+        "sortId": 26,
+        "totalProgress": 12000
+      },
+      "tools_proc_activity_xiranite_enr_lung": {
+        "buffers": {
+          "item_activity_copper_poly_tool": 0,
+          "item_activity_xiranite_enr_box": 0,
+          "item_activity_xiranite_enr_lung": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Chubby Lungs de Xiranita Pesada",
+          "CN": "重息壤龙泡泡合成",
+          "DE": "Schweres-Xiranit-Chubby-Lung-Produktion",
+          "EN": "Heavy Xiranite Chubby Lung Production",
+          "FR": "Production de Choupi Lungs à xiranite lourde",
+          "ID": "Produksi Lung Gembul Xiranite Berat",
+          "IT": "Produzione di cicciodraghi di xiranite pesante",
+          "JP": "重息壌龍泡泡生産",
+          "KR": "중식양 드래곤 버블 합성",
+          "MX": "Producción de Lung regordete de Xiranita pesada",
+          "RU": "Производство пухликов-лунов из тяжелого ксиранита",
+          "TC": "重息壤龍泡泡合成",
+          "TH": "การผลิต​หลง​จ้ำม่ำ​ซี​เรน​ไนต์​หนัก",
+          "VN": "Sản Xuất Xiranite Nặng Chubby Lung"
+        },
+        "formulaGroupId": "group_tools_normal",
+        "gasEnv": 0,
+        "id": "tools_proc_activity_xiranite_enr_lung",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_enr_box"
+              },
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly_tool"
+              }
+            ]
+          }
+        ],
+        "machineId": "tools_assebling_mc_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_enr_lung"
+              }
+            ]
+          }
+        ],
+        "progressRound": 10,
+        "signal": 0,
+        "sortId": 18,
+        "totalProgress": 60000
+      },
+      "liquid_transmuter_2_activity_copper_poly_1": {
+        "buffers": {
+          "item_activity_copper_poly": 0,
+          "item_activity_copper_poly_gas": 0
+        },
+        "formulaDesc": {
+          "BR": "Transmutação de Xiran-Cuprium Proto",
+          "CN": "实验息壤铜锭转化",
+          "DE": "Proto-Xiran-Cuprium-Transmutation",
+          "EN": "Proto Xiran-Cuprium Transmutation",
+          "FR": "Transmutation de proto-xiran-cuprium",
+          "ID": "Transmutasi Proto Xiran-Cuprium",
+          "IT": "Trasmutazione di xiran-cuprium prototipo",
+          "JP": "実験用息壌銅塊転換",
+          "KR": "실험용 식양 구리 덩어리 전환",
+          "MX": "Transmutación de prototipo de Xiran-Cuprio",
+          "RU": "Видоизменение протоксиранокуприя",
+          "TC": "實驗息壤銅錠轉化",
+          "TH": "การแปร​สภาพ​โปร​โต​ซี​ราน​-​คู​เพ​รี​ยม",
+          "VN": "Chuyển Hóa Xiranite-Đồng Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_transmuter_2_solidtrans",
+        "gasEnv": 0,
+        "id": "liquid_transmuter_2_activity_copper_poly_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly_gas"
+              }
+            ]
+          }
+        ],
+        "machineId": "transmuter_2",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly"
+              }
+            ]
+          }
+        ],
+        "progressRound": 2,
+        "signal": 0,
+        "sortId": 8,
+        "totalProgress": 12000
+      },
+      "liquid_transmuter_2_activity_copper_poly_gas_1": {
+        "buffers": {
+          "item_activity_copper_poly": 0,
+          "item_activity_copper_poly_gas": 0
+        },
+        "formulaDesc": {
+          "BR": "Transmutação de Gás de Xiran-Cuprium Proto",
+          "CN": "实验息壤铜气转化",
+          "DE": "Proto-Xiran-Cuprium-Gas-Transmutation",
+          "EN": "Proto Xiran-Cuprium Gas Transmutation",
+          "FR": "Transmutation de proto-xiran-cuprium gazeux",
+          "ID": "Transmutasi Gas Proto Xiran-Cuprium",
+          "IT": "Trasmutazione di gas xiran-cuprium prototipo",
+          "JP": "実験用息壌銅ガス転換",
+          "KR": "실험용 기체 식양 구리 전환",
+          "MX": "Transmutación de Prototipo de Gas de Xiran-Cuprio",
+          "RU": "Видоизменение протоксиранокуприевого газа",
+          "TC": "實驗息壤銅氣轉化",
+          "TH": "การแปร​สภาพ​ก๊าซ​โปร​โต​ซี​ราน​-​คู​เพ​รี​ยม",
+          "VN": "Chuyển Hóa Khí Xiranite-Đồng Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_transmuter_2_gastrans",
+        "gasEnv": 0,
+        "id": "liquid_transmuter_2_activity_copper_poly_gas_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly"
+              }
+            ]
+          }
+        ],
+        "machineId": "transmuter_2",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly_gas"
+              }
+            ]
+          }
+        ],
+        "progressRound": 2,
+        "signal": 0,
+        "sortId": 8,
+        "totalProgress": 12000
+      },
+      "tools_proc_activity_xiranite_lung": {
+        "buffers": {
+          "item_activity_copper_xiranite_tool": 0,
+          "item_activity_xiranite_box": 0,
+          "item_activity_xiranite_lung": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Chubby Lungs de Xiranita",
+          "CN": "息壤龙泡泡合成",
+          "DE": "Xiranit-Chubby-Lung-Produktion",
+          "EN": "Xiranite Chubby Lung Production",
+          "FR": "Production de Choupi Lungs à xiranite",
+          "ID": "Produksi Lung Gembul Xiranite",
+          "IT": "Produzione di cicciodraghi di xiranite",
+          "JP": "息壌龍泡泡生産",
+          "KR": "식양 드래곤 버블 합성",
+          "MX": "Producción de Lung regordete de Xiranita",
+          "RU": "Производство ксиранитовых пухликов-лунов",
+          "TC": "息壤龍泡泡合成",
+          "TH": "การผลิต​หลง​จ้ำม่ำ​ซี​เรน​ไนต์",
+          "VN": "Sản Xuất Xiranite Chubby Lung"
+        },
+        "formulaGroupId": "group_tools_normal",
+        "gasEnv": 0,
+        "id": "tools_proc_activity_xiranite_lung",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 5,
+                "id": "item_activity_xiranite_box"
+              },
+              {
+                "count": 5,
+                "id": "item_activity_copper_xiranite_tool"
+              }
+            ]
+          }
+        ],
+        "machineId": "tools_assebling_mc_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_lung"
+              }
+            ]
+          }
+        ],
+        "progressRound": 10,
+        "signal": 0,
+        "sortId": 17,
+        "totalProgress": 60000
+      },
+      "shaper_activity_xiranite_box_1": {
+        "buffers": {
+          "item_activity_xiranite_box": 0,
+          "item_activity_xiranite_nugget": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Carapaças de Chubby Lung Proto",
+          "CN": "实验龙泡泡外壳生产",
+          "DE": "Proto-Chubby-Lung-Geschoss-Produktion",
+          "EN": "Proto Chubby Lung Shell Production",
+          "FR": "Production de proto-coque de Choupi Lung",
+          "ID": "Produksi Cangkang Proto Lung Gembul",
+          "IT": "Produzione di gusci di cicciodrago prototipo",
+          "JP": "実験用龍泡泡シェル生産",
+          "KR": "실험용 드래곤 버블 외피 생산",
+          "MX": "Producción de prototipo de Carcasa de Lung regordete",
+          "RU": "Производство протопанциря пухлика-луна",
+          "TC": "實驗龍泡泡外殼生產",
+          "TH": "การผลิต​เปลือก​โปร​โต​หลง​จ้ำม่ำ",
+          "VN": "Sản Xuất Vỏ Chubby Lung Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_shaper_normal",
+        "gasEnv": 0,
+        "id": "shaper_activity_xiranite_box_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_nugget"
+              }
+            ]
+          }
+        ],
+        "machineId": "shaper_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_xiranite_box"
+              }
+            ]
+          }
+        ],
+        "progressRound": 2,
+        "signal": 0,
+        "sortId": 9,
+        "totalProgress": 12000
+      },
+      "tools_proc_activity_copper_poly_tool_1": {
+        "buffers": {
+          "item_activity_copper_poly_cmpt": 0,
+          "item_activity_copper_poly_tool": 0,
+          "item_xiranite_enr_powder": 0
+        },
+        "formulaDesc": {
+          "BR": "Produção de Estruturas de Xiran-Cuprium Proto",
+          "CN": "实验息壤铜骨骼合成",
+          "DE": "Proto-Xiran-Cuprium-Rahmen-Produktion",
+          "EN": "Proto Xiran-Cuprium Frame Production",
+          "FR": "Production de châssis en proto-xiran-cuprium",
+          "ID": "Produksi Rangka Proto Xiran-Cuprium",
+          "IT": "Produzione di telai xiran-cuprium prototipo",
+          "JP": "実験用息壌銅フレーム生産",
+          "KR": "실험용 식양 구리 골격 합성",
+          "MX": "Producción de Prototipo de Armazón de Xiran-Cuprio",
+          "RU": "Производство протоксиранокуприевого каркаса",
+          "TC": "實驗息壤銅骨骼合成",
+          "TH": "การผลิต​กรอบ​โปร​โต​ซี​ราน​-​คู​เพ​รี​ยม",
+          "VN": "Sản Xuất Khung Xiranite-Đồng Nguyên Mẫu"
+        },
+        "formulaGroupId": "group_tools_normal",
+        "gasEnv": 0,
+        "id": "tools_proc_activity_copper_poly_tool_1",
+        "ingredients": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly_cmpt"
+              },
+              {
+                "count": 1,
+                "id": "item_xiranite_enr_powder"
+              }
+            ]
+          }
+        ],
+        "machineId": "tools_assebling_mc_1",
+        "outcomes": [
+          {
+            "group": [
+              {
+                "count": 1,
+                "id": "item_activity_copper_poly_tool"
+              }
+            ]
+          }
+        ],
+        "progressRound": 10,
+        "signal": 0,
+        "sortId": 16,
+        "totalProgress": 60000
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

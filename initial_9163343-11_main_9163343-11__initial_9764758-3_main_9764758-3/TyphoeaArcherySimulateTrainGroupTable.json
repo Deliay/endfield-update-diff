@@ -1,0 +1,57 @@
+{
+  "tableName": "TyphoeaArcherySimulateTrainGroupTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "sim_level_basic": {
+        "simLevelGroupId": "sim_level_basic",
+        "simLevelGroupName": {
+          "BR": "Treinamento Básico",
+          "CN": "基础教学",
+          "DE": "Grundlagentraining",
+          "EN": "Basic Training",
+          "FR": "Entraînement de base",
+          "ID": "Latihan Dasar",
+          "IT": "Addestramento base",
+          "JP": "基礎訓練",
+          "KR": "기초 훈련",
+          "MX": "Entrenamiento básico",
+          "RU": "Стандартная подготовка",
+          "TC": "基礎教學",
+          "TH": "การ​ฝึก​เบื้องต้น",
+          "VN": "Huấn Luyện Cơ Bản"
+        },
+        "style": "Normal"
+      },
+      "sim_level_challenge": {
+        "simLevelGroupId": "sim_level_challenge",
+        "simLevelGroupName": {
+          "BR": "Treinamento Avançado",
+          "CN": "进阶训练",
+          "DE": "Fortgeschrittenes Training",
+          "EN": "Advanced Training",
+          "FR": "Entraînement avancé",
+          "ID": "Latihan Tingkat Lanjut",
+          "IT": "Addestramento avanzato",
+          "JP": "上級訓練",
+          "KR": "고급 훈련",
+          "MX": "Entrenamiento avanzado",
+          "RU": "Продвинутая подготовка",
+          "TC": "進階訓練",
+          "TH": "การ​ฝึก​ขั้นสูง",
+          "VN": "Huấn Luyện Nâng Cao"
+        },
+        "style": "Hard"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

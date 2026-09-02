@@ -1,0 +1,115 @@
+{
+  "tableName": "FacSTTConditionTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "tech_jinlong_3_xiranite_enr_formula_1": {
+        "conditionId": "tech_jinlong_3_xiranite_enr_formula_1",
+        "conditionType": 18,
+        "desc": {
+          "BR": "Progresso da Missão: [Livre Arbítrio]",
+          "CN": "推进任务「自由意志」后可解锁",
+          "DE": "Missionsfortschritt: [Freier Wille]",
+          "EN": "Mission Progress: [Free Will]",
+          "FR": "Progression de la mission : [Libre arbitre]",
+          "ID": "Progres Misi: [Kehendak Bebas]",
+          "IT": "Progressi missione: [Libero arbitrio]",
+          "JP": "任務「固き意志」を進めて解放",
+          "KR": "[자유의지] 임무를 진행하여 잠금 해제",
+          "MX": "Progreso de la misión: [Libre albedrío]",
+          "RU": "Прогресс миссии «Свободная воля»",
+          "TC": "推進任務「自由意志」後可解鎖",
+          "TH": "ความคืบหน้า​ของ​ภารกิจ​: [เจตจำนง​เสรี​]",
+          "VN": "Tiến Trình Nhiệm Vụ: [Lý Tưởng Tự Do]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "e8m5_q#6"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "techId": "tech_jinlong_3_xiranite_enr_formula"
+      },
+      "tech_jinlong_3_xiranite_oven_amount_3_1": {
+        "conditionId": "tech_jinlong_3_xiranite_oven_amount_3_1",
+        "conditionType": 18,
+        "desc": {
+          "BR": "Progresso da Missão: [O Retorno da Primavera III]",
+          "CN": "推进任务「再引春来·其三」后可解锁",
+          "DE": "Missionsfortschritt: [Des Frühlings Rückkehr III]",
+          "EN": "Mission Progress: [Spring's Return III]",
+          "FR": "Progression de la mission : [Retour du printemps III]",
+          "ID": "Progres Misi: [Kembalinya Musim Semi III]",
+          "IT": "Progressi missione: [Il ritorno della primavera III]",
+          "JP": "任務「春還る・3」を進めて解放",
+          "KR": "[다시 찾아온 봄(3)] 임무를 진행하여 잠금 해제",
+          "MX": "Progreso de la misión: [Primavera renovada III]",
+          "RU": "Прогресс миссии «Приход весны III»",
+          "TC": "推進任務「再引春來·其三」後可解鎖",
+          "TH": "ความคืบหน้า​ของ​ภารกิจ​: [ฤดูใบไม้ผลิ​หวนกลับ​มา​ III]",
+          "VN": "Tiến Trình Nhiệm Vụ: [Xuân Hồi III]"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "sm2l5m3_q#3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "techId": "tech_jinlong_3_xiranite_oven_amount_3"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

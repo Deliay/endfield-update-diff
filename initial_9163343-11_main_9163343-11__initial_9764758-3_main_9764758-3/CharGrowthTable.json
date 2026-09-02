@@ -1,0 +1,3488 @@
+{
+  "tableName": "CharGrowthTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0034_typhoea": {
+        "charBreakCostMap": {
+          "charBreak20": {
+            "breakStage": 1,
+            "charId": "chr_0034_typhoea",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 40",
+              "CN": "激活后，将干员等级上限提升至40级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 40 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 40",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 40.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 40",
+              "IT": "Attiva per aumentare a 40 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が40までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 40레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 40",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 40.",
+              "TC": "解鎖後，將幹員等級上限提升至40級",
+              "TH": "เปิด​ใช้งาน​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​เป็น​ 40",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 40"
+            },
+            "equipTierLimit": 2,
+            "name": {
+              "BR": "Promoção I",
+              "CN": "精英化·一",
+              "DE": "Beförderung I",
+              "EN": "Promotion I",
+              "FR": "Promotion I",
+              "ID": "Promosi I",
+              "IT": "Promozione I",
+              "JP": "昇進・Ⅰ",
+              "KR": "정예화 I",
+              "MX": "Ascenso I",
+              "RU": "Повышение I",
+              "TC": "精英化I",
+              "TH": "การ​เลื่อนขั้น​ I",
+              "VN": "Thăng Bậc I"
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "breakStage": 2,
+            "charId": "chr_0034_typhoea",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 60",
+              "CN": "激活后，将干员等级上限提升至60级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 60 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 60",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 60.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 60",
+              "IT": "Attiva per aumentare a 60 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が60までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 60레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 60",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 60.",
+              "TC": "解鎖後，將幹員等級上限提升至60級",
+              "TH": "เปิด​ใช้งาน​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​เป็น​ 60",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 60"
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "BR": "Promoção II",
+              "CN": "精英化·二",
+              "DE": "Beförderung II",
+              "EN": "Promotion II",
+              "FR": "Promotion II",
+              "ID": "Promosi II",
+              "IT": "Promozione II",
+              "JP": "昇進・Ⅱ",
+              "KR": "정예화 II",
+              "MX": "Ascenso II",
+              "RU": "Повышение II",
+              "TC": "精英化II",
+              "TH": "การ​เลื่อนขั้น​ II",
+              "VN": "Thăng Bậc II"
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "breakStage": 3,
+            "charId": "chr_0034_typhoea",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 80",
+              "CN": "激活后，将干员等级上限提升至80级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 80 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 80",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 80.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 80",
+              "IT": "Attiva per aumentare a 80 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が80までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 80레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 80",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 80.",
+              "TC": "解鎖後，將幹員等級上限提升至80級",
+              "TH": "เปิด​ใช้งาน​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​เป็น​ 80",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 80"
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "BR": "Promoção III",
+              "CN": "精英化·三",
+              "DE": "Beförderung III",
+              "EN": "Promotion III",
+              "FR": "Promotion III",
+              "ID": "Promosi III",
+              "IT": "Promozione III",
+              "JP": "昇進・Ⅲ",
+              "KR": "정예화 III",
+              "MX": "Ascenso III",
+              "RU": "Повышение III",
+              "TC": "精英化III",
+              "TH": "การ​เลื่อนขั้น​ III",
+              "VN": "Thăng Bậc III"
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "breakStage": 4,
+            "charId": "chr_0034_typhoea",
+            "description": {
+              "BR": "Ative para aumentar o nível máximo do operador para 90",
+              "CN": "激活后，将干员等级上限提升至90级",
+              "DE": "Aktivieren, um die Levelbegrenzung des Operators auf 90 zu erhöhen.",
+              "EN": "Activate this to raise operator level cap to 90",
+              "FR": "Activez ceci pour augmenter la limite de niveau de l'opérateur au niv. 90.",
+              "ID": "Aktifkan untuk menaikkan batas level operator menjadi 90",
+              "IT": "Attiva per aumentare a 90 il livello massimo dell'operatore.",
+              "JP": "解放後、レベル上限が90までアップ",
+              "KR": "활성화 후, 오퍼레이터 레벨 최대치 90레벨까지 증가",
+              "MX": "Activa esto para aumentar el límite de nivel de operador a 90",
+              "RU": "Активируйте, чтобы повысить макс. уровень оперативника до 90.",
+              "TC": "解鎖後，將幹員等級上限提升至90級",
+              "TH": "เปิด​ใช้งาน​เพื่อ​เพิ่ม​ขีดจำกัด​เล​เวล​ของ​โอเปอเรเตอร์​เป็น​ 90",
+              "VN": "Kích hoạt tính năng này để nâng giới hạn cấp cán viên lên 90"
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "BR": "Promoção IV",
+              "CN": "精英化·四",
+              "DE": "Beförderung IV",
+              "EN": "Promotion IV",
+              "FR": "Promotion IV",
+              "ID": "Promosi IV",
+              "IT": "Promozione IV",
+              "JP": "昇進・Ⅳ",
+              "KR": "정예화 IV",
+              "MX": "Ascenso IV",
+              "RU": "Повышение IV",
+              "TC": "精英化IV",
+              "TH": "การ​เลื่อนขั้น​ IV",
+              "VN": "Thăng Bậc IV"
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_3"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "breakStage": 1,
+            "charId": "chr_0034_typhoea",
+            "description": {
+              "BR": "Ative para permitir que o operador use equipamento de qualidade azul",
+              "CN": "激活后，允许干员穿戴蓝色品质装备",
+              "DE": "Aktivieren, damit der Operator Ausrüstung in blauer Qualität ausrüsten kann.",
+              "EN": "Activate this to let the operator equip blue quality gear",
+              "FR": "Activez ceci pour permettre à votre opérateur d'utiliser de l'équipement de qualité bleue.",
+              "ID": "Aktifkan agar operator bisa dipasangi gear berkualitas biru",
+              "IT": "Attiva per permettere all'operatore di utilizzare equipaggiamenti di qualità blu.",
+              "JP": "解放後、青品質の装備を着用できる",
+              "KR": "활성화 후, 파란색 품질 장비 착용 가능",
+              "MX": "Activa esto para que el operador pueda usar equipamiento de calidad azul",
+              "RU": "Активируйте, чтобы оперативник мог использовать синее снаряжение.",
+              "TC": "解鎖後，允許幹員穿戴藍色品質裝備",
+              "TH": "เปิด​ใช้งาน​เพื่อ​ทำให้​โอเปอเรเตอร์​สามารถ​สวมใส่​อุปกรณ์​คุณภาพ​สีน้ำเงิน​ได้",
+              "VN": "Kích hoạt tính năng này để cán viên có thể mặc trang bị chất lượng xanh lam"
+            },
+            "equipTierLimit": 3,
+            "name": {
+              "BR": "Seleção do Melhor Equipamento I",
+              "CN": "装备适配·一",
+              "DE": "Einkleiden I",
+              "EN": "Outfitting I",
+              "FR": "Fourniment I",
+              "ID": "Perlengkapan I",
+              "IT": "Equipaggiamento strategico I",
+              "JP": "装備適正・Ⅰ",
+              "KR": "장비 조합 I",
+              "MX": "Equipamiento I",
+              "RU": "Экипировка I",
+              "TC": "裝備適用I",
+              "TH": "การจัดเตรียม​อุปกรณ์​ I",
+              "VN": "Trang Bị I"
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "breakStage": 3,
+            "charId": "chr_0034_typhoea",
+            "description": {
+              "BR": "Ative para permitir que o operador use equipamento de qualidade ouro",
+              "CN": "激活后，允许干员穿戴金色品质装备",
+              "DE": "Aktivieren, damit der Operator Ausrüstung in goldener Qualität ausrüsten kann.",
+              "EN": "Activate this to let the operator equip gold quality gear",
+              "FR": "Activez ceci pour permettre à votre opérateur d'utiliser de l'équipement de qualité or.",
+              "ID": "Aktifkan agar operator bisa dipasangi gear berkualitas emas",
+              "IT": "Attiva per permettere all'operatore di utilizzare equipaggiamenti di qualità oro.",
+              "JP": "解放後、金品質の装備を着用できる",
+              "KR": "활성화 후, 노란색 품질 장비 장착 가능",
+              "MX": "Activa esto para que el operador pueda usar equipamiento de calidad dorada",
+              "RU": "Активируйте, чтобы оперативник мог использовать золотое снаряжение.",
+              "TC": "解鎖後，允許幹員穿戴金色品質裝備",
+              "TH": "เปิด​ใช้งาน​เพื่อ​ทำให้​โอเปอเรเตอร์​สามารถ​สวมใส่​อุปกรณ์​คุณภาพ​สีทอง​ได้",
+              "VN": "Kích hoạt tính năng này để cán viên có thể mặc trang bị chất lượng vàng"
+            },
+            "equipTierLimit": 5,
+            "name": {
+              "BR": "Seleção do Melhor Equipamento III",
+              "CN": "装备适配·三",
+              "DE": "Einkleiden III",
+              "EN": "Outfitting III",
+              "FR": "Fourniment III",
+              "ID": "Perlengkapan III",
+              "IT": "Equipaggiamento strategico III",
+              "JP": "装備適正・Ⅲ",
+              "KR": "장비 조합 III",
+              "MX": "Equipamiento III",
+              "RU": "Экипировка III",
+              "TC": "裝備適用III",
+              "TH": "การจัดเตรียม​อุปกรณ์​ III",
+              "VN": "Trang Bị III"
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "breakStage": 2,
+            "charId": "chr_0034_typhoea",
+            "description": {
+              "BR": "Ative para permitir que o operador use equipamento de qualidade roxa",
+              "CN": "激活后，允许干员穿戴紫色品质装备",
+              "DE": "Aktivieren, damit der Operator Ausrüstung in lila Qualität ausrüsten kann.",
+              "EN": "Activate this to let the operator equip purple quality gear",
+              "FR": "Activez ceci pour permettre à votre opérateur d'utiliser de l'équipement de qualité violette.",
+              "ID": "Aktifkan agar operator bisa dipasangi gear berkualitas ungu",
+              "IT": "Attiva per permettere all'operatore di utilizzare equipaggiamenti di qualità viola.",
+              "JP": "解放後、紫品質の装備を着用できる",
+              "KR": "활성화 후, 보라색 품질 장비 착용 가능",
+              "MX": "Activa esto para que el operador pueda usar equipamiento de calidad púrpura",
+              "RU": "Активируйте, чтобы оперативник мог использовать фиолетовое снаряжение.",
+              "TC": "解鎖後，允許幹員穿戴紫色品質裝備",
+              "TH": "เปิด​ใช้งาน​เพื่อ​ทำให้​โอเปอเรเตอร์​สามารถ​สวมใส่​อุปกรณ์​คุณภาพ​สีม่วง​ได้",
+              "VN": "Kích hoạt tính năng này để cán viên có thể mặc trang bị chất lượng tím"
+            },
+            "equipTierLimit": 4,
+            "name": {
+              "BR": "Seleção do Melhor Equipamento II",
+              "CN": "装备适配·二",
+              "DE": "Einkleiden II",
+              "EN": "Outfitting II",
+              "FR": "Fourniment II",
+              "ID": "Perlengkapan II",
+              "IT": "Equipaggiamento strategico II",
+              "JP": "装備適正・Ⅱ",
+              "KR": "장비 조합 II",
+              "MX": "Equipamiento II",
+              "RU": "Экипировка II",
+              "TC": "裝備適用II",
+              "TH": "การจัดเตรียม​อุปกรณ์​ II",
+              "VN": "Trang Bị II"
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "charId": "chr_0034_typhoea",
+        "charTypeId": "Natural",
+        "defaultWeaponId": "wpn_funnel_0002",
+        "engName": "Typhoeus",
+        "mainAttrType": 40,
+        "name": {
+          "BR": "Typhoeus",
+          "CN": "提弗洛斯",
+          "DE": "Typhoeus",
+          "EN": "Typhoeus",
+          "FR": "Typhoeus",
+          "ID": "Typhoeus",
+          "IT": "Typhoeus",
+          "JP": "ティフォロス",
+          "KR": "티프로스",
+          "MX": "Typhoeus",
+          "RU": "Тифея",
+          "TC": "提弗洛斯",
+          "TH": "ไท​ฟี​อุส",
+          "VN": "Typhoeus"
+        },
+        "profession": 8,
+        "rarity": 6,
+        "skillGroupMap": {
+          "chr_0034_typhoea_ComboSkill": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "ACIONADOR DO COMBO: Quando Typhoeus atinge o máximo de <#ba.arrowenergy>Sinais</>.\nTyphoeus converte todos os <#ba.arrowenergy>Sinais</> que possui em <#ba.arrownum>Flechas de Caça</> e reinicia suas tentativas de Ataque Básico Aéreo (ATQBA).\nTyphoeus concentra seu \"Olhar da Caçadora\" e lança uma saraivada de golpes contra o alvo, criando uma <@ba.key>Saraivada em Formação</> na área do alvo. Os inimigos na <@ba.key>Saraivada em Formação</> recebem <@ba.natur>DNO Natureza</> ao longo do tempo, ficam mais <#ba.slow>lentos</> e sofrem mais DNO <#ba.naturalburst>Explosão da Natureza</> Recebido.\n<@ba.info>Cada 2 Sinais são convertidos em 1 Flecha de Caça.</>",
+              "CN": "当自身<#ba.arrowenergy>启示</>已满时可以发动。\n将当前<#ba.arrowenergy>启示</>全部转化为<#ba.arrownum>猎矢</>，并且重置空中普通攻击次数。\n凝聚“猎手的注视”向目标齐射，在目标区域形成<@ba.key>箭阵</>。处于<@ba.key>箭阵</>内的敌人会持续受到<@ba.natur>自然伤害</>和<#ba.slow>缓速</>，同时受到的<#ba.naturalburst>自然爆发</>伤害提高。\n<@ba.info>每2点启示可以转化为1枚猎矢。</>",
+              "DE": "KOMBOAUSLÖSER: Wenn Typhoeus die max. Anzahl an <#ba.arrowenergy>Zeichen</> erreicht.\nTyphoeus verwandelt all ihre <#ba.arrowenergy>Zeichen</> in <#ba.arrownum>Jagdpfeile</> und ihre Versuche für ihren Luft-Standardangriff (LSTDANG) werden zurückgesetzt.\nTyphoeus fokussiert ihren „Blick der Jägerin“ und verschießt ein Sperrfeuer auf den Gegner, das eine <@ba.key>Sperrfeuerreihe</> im Zielbereich erstellt. Gegner in der <@ba.key>Sperrfeuerreihe</> werden <#ba.slow>verlangsamt</> und erleiden kontinuierlichen <@ba.natur>Natur-SDN</> sowie erhöhten erlittenen <#ba.naturalburst>Naturexplosion</>-SDN.\n<@ba.info>Je 2 Zeichen werden in 1 Jagdpfeil verwandelt.</>",
+              "EN": "COMBO TRIGGER: When Typhoeus reaches max <#ba.arrowenergy>Signs</>.\nTyphoeus converts all her <#ba.arrowenergy>Signs</> to <#ba.arrownum>Hunting Arrows</> and resets her Aerial Basic Attack (ABATK) attempts.\nTyphoeus focuses her \"Huntress's Gaze\" and launches a barrage at the target that creates a <@ba.key>Barrage Array</> at the target area. Enemies in the <@ba.key>Barrage Array</> take <@ba.natur>Nature DMG</> over time, are <#ba.slow>slowed</>, and suffer increased <#ba.naturalburst>Nature Burst</> DMG Taken.\n<@ba.info>Every 2 Signs convert to 1 Hunting Arrow.</>",
+              "FR": "DÉCLENCHEMENT DE COMBO : lorsque Typhoeus atteint le nombre maximum de <#ba.arrowenergy>signes</>.\nTyphoeus convertit tous ses <#ba.arrowenergy>signes</> en <#ba.arrownum>flèches de chasse</> et réinitialise ses tentatives d'attaque de base aérienne (ATQ-B-A).\nTyphoeus concentre son « Regard de chasseuse » et lance un barrage sur la cible, qui crée une <@ba.key>matrice de barrage</> dans la zone ciblée. Les ennemis dans la <@ba.key>matrice de barrage</> subissent des <@ba.natur>DÉG naturels</> continus, sont <#ba.slow>ralentis</> et subissent des DÉG accrus d'<#ba.naturalburst>explosion naturelle</>.\n<@ba.info>Il faut convertir 2 signes pour obtenir 1 flèche de chasse.</>",
+              "ID": "PEMICU KOMBO: Saat Typhoeus mencapai <#ba.arrowenergy>Tanda</> maks.\nTyphoeus akan mengubah semua <#ba.arrowenergy>Tanda</> miliknya menjadi <#ba.arrownum>Panah Berburu</> dan mereset upaya Serangan Dasar dari Udaranya (ABATK).\nTyphoeus akan memusatkan “Huntress’s Gaze” dan meluncurkan rentetan ke target yang akan menghasilkan <@ba.key>Rangkaian Rentetan</> di area target. Musuh di dalam <@ba.key>Rangkaian Rentetan</> akan terkena <@ba.natur>Nature DMG</> over time, terkena efek <#ba.slow>slow</>, dan terkena <#ba.naturalburst>Nature Burst</> DMG Taken yang lebih banyak.\n<@ba.info>Setiap 2 Tanda bisa diubah menjadi 1 Panah Berburu.</>",
+              "IT": "ATTIVAZIONE COMBO: quando Typhoeus raggiunge il numero massimo di <#ba.arrowenergy>Segni</>.\nTyphoeus converte tutti i <#ba.arrowenergy>Segni</> in <#ba.arrownum>Frecce da caccia</> e il conteggio degli attacchi base volanti (ATTBV) viene azzerato.\nTyphoeus concentra il proprio \"Sguardo della cacciatrice\" e scatena una raffica contro il bersaglio che crea una <@ba.key>Schiera di sbarramento</> nell'area bersaglio. I nemici all'interno della <@ba.key>Schiera di sbarramento</> subiscono <@ba.natur>danni da natura</> progressivi, vengono <#ba.slow>rallentati</> e subiscono danni da <#ba.naturalburst>Esplosione di natura</> maggiori.\n<@ba.info>2 Segni si convertono in 1 Freccia da caccia.</>",
+              "JP": "自身の<#ba.arrowenergy>啓示</>が最大まで達しているときに発動可能。\n現在の<#ba.arrowenergy>啓示</>をすべて<#ba.arrownum>猟矢</>に変換し、空中通常攻撃の回数をリセットする。\n「狩人の眼差し」を集めて目標に一斉射撃し、目標地点に<@ba.key>矢陣</>を形成する。<@ba.key>矢陣</>内の敵は持続的に<@ba.natur>自然ダメージ</>と<#ba.slow>スロー</>効果を受け、同時に受ける<#ba.naturalburst>自然爆発</>ダメージがアップする。\n<@ba.info>啓示2ごとに猟矢1本へと変換する。</>",
+              "KR": "자신의 <#ba.arrowenergy>계시</>가 최대치일 때 발동할 수 있습니다.\n현재 보유한 <#ba.arrowenergy>계시</>를 모두 <#ba.arrownum>사냥 화살</>로 전환하고, 공중 일반 공격 횟수를 초기화합니다.\n이후 '사냥꾼의 시선'을 모아 목표를 향해 일제 사격하며 목표 구역에 <@ba.key>화살진</>을 형성합니다. <@ba.key>화살진</> 내의 적은 지속적으로 <@ba.natur>자연 피해</>를 받으며 <#ba.slow>감속</> 상태가 되고, 받는 <#ba.naturalburst>자연 폭발</> 피해가 증가합니다.\n<@ba.info>계시 2포인트당 사냥 화살 1발로 전환됩니다.</>",
+              "MX": "ACTIVADOR DE COMBO: Cuando Typhoeus alcanza el máximo de <#ba.arrowenergy>Signos</>.\nTyphoeus convierte todos sus <#ba.arrowenergy>Signos</> en <#ba.arrownum>Flechas de caza</> y restablece sus intentos de ataque básico aéreo (ATQBA).\nTyphoeus concentra su “Mirada de cazadora” y lanza una descarga contra el objetivo que crea una <@ba.key>Formación de disparos</> en la zona del objetivo. Los enemigos en la <@ba.key>Formación de disparos</> reciben <@ba.natur>DAÑ por naturaleza</> continuo, quedan <#ba.slow>ralentizados</> y reciben más DAÑ de <#ba.naturalburst>Ráfaga de naturaleza</>.\n<@ba.info>Cada 2 Signos se convierten en 1 Flecha de caza.</>",
+              "RU": "ТРИГГЕР КОМБО: когда Тифея накапливает максимальное количество <#ba.arrowenergy>знаков</>.\nТифея преобразует все <#ba.arrowenergy>знаки</> в <#ba.arrownum>охотничьи стрелы</> и сбрасывает попытки базовой воздушной атаки (БВАТК).\nТифея фокусирует «Взор охотницы» и обрушивает на цель шквал, создающий в целевой области <@ba.key>шквальный массив</>. Враги в зоне <@ba.key>шквального массива</> получают непрерывный <@ba.natur>природный УРН</> и <#ba.slow>замедляются</>, а также получают повышенный УРН от <#ba.naturalburst>природного взрыва</>.\n<@ba.info>Каждые 2 знака соответствуют 1 охотничьей стреле.</>",
+              "TC": "當自身<#ba.arrowenergy>啟示</>已滿時可以發動。\n將目前<#ba.arrowenergy>啟示</>全部轉化為<#ba.arrownum>獵矢</>，並且重置空中普通攻擊次數。\n凝聚「獵手的注視」向目標齊射，在目標區域形成<@ba.key>箭陣</>。處於<@ba.key>箭陣</>內的敵人會持續受到<@ba.natur>自然傷害</>和<#ba.slow>緩速</>，同時受到的<#ba.naturalburst>自然爆發</>傷害提高。\n<@ba.info>每2點啟示可以轉化為1枚獵矢。</>",
+              "TH": "กระตุ้น​คอม​โบ​: เมื่อ​ไท​ฟี​อุส​มี​<#ba.arrowenergy>​สัญญะ​</>​ครบ​จำนวน​สูงสุด​\nไท​ฟี​อุส​เปลี่ยน​<#ba.arrowenergy>​สัญญะ​</>​ทั้งหมด​ของ​เธอ​เป็น​<#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</> และ​รีเซ็ต​การ​โจมตี​พื้นฐาน​กลางอากาศ​ (ABATK) ของ​เธอ​\nไท​ฟี​อุส​ใช้​ \"สายตา​ของ​นัก​ล่า​\" และ​ยิง​กระสุน​ใส่​เป้าหมาย​ที่​สร้าง​<@ba.key>​แนว​เสา​ระดม​ยิง​</> ใน​บริเวณ​เป้าหมาย​ ศัตรู​ที่อยู่​ใน​<@ba.key>​แนว​เสา​ระดม​ยิง​</>​จะ​ได้รับ​ <@ba.natur>DMG ธรรมชาติ​</>​อย่างต่อเนื่อง​ และ​ติด​สถานะ​<#ba.slow>​เชื่องช้า​</>​และ​ได้รับ​ DMG จาก​<#ba.naturalburst>​ระเบิด​ธรรมชาติ​</>​เพิ่มขึ้น​\n<@ba.info>​สัญญะ​ทุก​ 2 แต้ม​สามารถ​เปลี่ยนเป็น​ลูกศร​ล่า​เหยื่อ​ได้​ 1 ดอก​</>",
+              "VN": "KÍCH HOẠT LIÊN HOÀN: Khi Typhoeus đạt tối đa <#ba.arrowenergy>Dấu Ấn</>.\nTyphoeus chuyển đổi toàn bộ <#ba.arrowenergy>Dấu Ấn</> thành <#ba.arrownum>Mũi Tên Săn</> và đặt lại số lần Đòn Đánh Thường Trên Không (ĐĐTTK).\nTyphoeus tập trung \"Ánh Nhìn Săn Mồi\" và bắn liên tiếp vào mục tiêu, tạo ra trận <@ba.key>Tập Kích Cụm</> tại khu vực mục tiêu. Kẻ địch trong trận <@ba.key>Tập Kích Cụm</> chịu <@ba.natur>ST Tự Nhiên</> theo thời gian, bị <#ba.slow>làm chậm</> và chịu thêm ST từ <#ba.naturalburst>Bùng Nổ Tự Nhiên</>.\n<@ba.info>Cứ mỗi 2 Dấu Ấn sẽ chuyển hóa thành 1 Mũi Tên Săn.</>"
+            },
+            "icon": "icon_combo_skill_typhoea_01",
+            "name": {
+              "BR": "Espinhos Desenfreados",
+              "CN": "野棘丛生",
+              "DE": "Wuchernde Dornen",
+              "EN": "Rampant Thorns",
+              "FR": "Ronces envahissantes",
+              "ID": "Rampant Thorns",
+              "IT": "Rovi dilaganti",
+              "JP": "荒れ狂うトゲ",
+              "KR": "가시덤불 쇄도",
+              "MX": "Espinas desenfrenadas",
+              "RU": "Безудержные шипы",
+              "TC": "野棘叢生",
+              "TH": "หนาม​อาละวาด",
+              "VN": "Gai Nhọn Nổi Loạn"
+            },
+            "skillGroupId": "chr_0034_typhoea_ComboSkill",
+            "skillGroupType": 3,
+            "skillIdList": [
+              "chr_0034_typhoea_combo_skill",
+              "chr_0034_typhoea_combo_skillfloating"
+            ]
+          },
+          "chr_0034_typhoea_NormalAttack": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "ATAQUE BÁSICO: \nUm ataque com até 5 sequências que causa <@ba.natur>DNO Natureza</>. Como o operador controlado, o <#ba.lastcombo>Golpe Final</> também causa <@ba.poise>{poise:0}</> de Desorientação. \n\nATAQUE DE MERGULHO: \nO ataque básico realizado no ar se torna um ataque de mergulho que causa <@ba.natur>DNO Natureza</> aos inimigos nas proximidades. \n\nFINALIZADOR: \nO ataque básico realizado próximo a um inimigo Desorientado torna-se um finalizador que causa uma enorme quantidade de <@ba.natur>DNO Natureza</> e recupera PH.",
+              "CN": "普通攻击：\n对敌人进行至多5段攻击，造成<@ba.natur>自然伤害</>。作为主控干员时，<#ba.lastcombo>重击</>会造成<@ba.poise>{poise:0}</>点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成<@ba.natur>自然伤害</>。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量<@ba.natur>自然伤害</>并恢复一定技力。",
+              "DE": "STANDARDANGRIFF: \nEin Angriff mit bis zu 5 Sequenzen, der <@ba.natur>Natur-SDN</> zufügt. Mit dem gesteuerten Operator fügt der <#ba.lastcombo>Abschlussangriff</> außerdem <@ba.poise>{poise:0}</> Taumeln zu. \n\nSTURZANGRIFF: \nStandardangriffe, die in der Luft durchgeführt werden, werden zu Sturzangriffen, die Gegnern in der Nähe <@ba.natur>Natur-SDN</> zufügen. \n\nWUCHTSCHLAG: \nStandardangriffe, die nahe einem Taumelnden Gegner durchgeführt werden, werden zu Wuchtschlägen, die massiven <@ba.natur>Natur-SDN</> zufügen und ein wenig FP wiederherstellen.",
+              "EN": "BASIC ATTACK: \nAn attack with up to 5 sequences that deals <@ba.natur>Nature DMG</>. As the controlled operator, <#ba.lastcombo>Final Strike</> also deals <@ba.poise>{poise:0}</> Stagger. \n\nDIVE ATTACK: \nBasic attack performed in mid-air becomes a dive attack that deals <@ba.natur>Nature DMG</> to nearby enemies. \n\nFINISHER: \nBasic attack performed near a Staggered enemy becomes a finisher that deals massive <@ba.natur>Nature DMG</> and recovers some SP.",
+              "FR": "ATTAQUE DE BASE : \nUne attaque comprenant jusqu'à 5 séquences qui inflige des <@ba.natur>DÉG naturels</>. Si vous contrôlez l'opératrice, le <#ba.lastcombo>Coup final</> inflige également Déséquilibre <@ba.poise>{poise:0}</> fois. \n\nATTAQUE PLONGEANTE : \nUne attaque de base lancée depuis les airs devient une attaque plongeante, qui inflige des <@ba.natur>DÉG naturels</> aux ennemis à proximité. \n\nCOUP FATAL : \nUne attaque de base lancée près d'un ennemi déséquilibré devient un coup fatal, qui inflige de lourds <@ba.natur>DÉG naturels</> et restaure quelques PC.",
+              "ID": "SERANGAN DASAR: \nSerangan dengan maksimum 5 tahap yang akan menimbulkan <@ba.natur>Nature DMG</>. Jika digunakan oleh operator terkontrol, <#ba.lastcombo>Final Strike</> juga akan menimbulkan <@ba.poise>{poise:0}</> Stagger. \n\nSERANGAN MENUKIK: \nSerangan dasar yang dilancarkan sambil melayang akan menjadi serangan menukik yang akan menimbulkan <@ba.natur>Nature DMG</> kepada musuh di sekitar. \n\nPENUNTAS: \nSerangan dasar yang dilancarkan di dekat musuh yang terkena Staggered akan menjadi penuntas yang akan menimbulkan <@ba.natur>Nature DMG</> sangat besar dan memulihkan sebagian SP.",
+              "IT": "ATTACCO BASE: \nsequenza di massimo cinque attacchi che infliggono <@ba.natur>danni da natura</>. In caso di operatore controllato, il <#ba.lastcombo>colpo finale</> infligge anche <@ba.poise>{poise:0}</> di Vacillamento. \n\nATTACCO DALL'ALTO: \ngli attacchi base eseguiti a mezz'aria diventano attacchi dall'alto che infliggono <@ba.natur>danni da natura</> ai nemici nelle vicinanze. \n\nMOSSA LETALE: \ngli attacchi base eseguiti vicino a un nemico Vacillante diventano mosse letali che infliggono ingenti <@ba.natur>danni da natura</> e ripristinano parzialmente i PA.",
+              "JP": "通常攻撃：\n最大5段の攻撃で敵に<@ba.natur>自然ダメージ</>を与える。操作中のオペレーターの場合、<#ba.lastcombo>重攻撃</>はブレイク値<@ba.poise>{poise:0}</>を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に<@ba.natur>自然ダメージ</>を与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い<@ba.natur>自然ダメージ</>を与えてSPを一定量回復する。",
+              "KR": "일반 공격:\n적에게 최대 5단 공격을 하여 <@ba.natur>자연 피해</>를 줍니다. 메인 컨트롤 오퍼레이터라면 <#ba.lastcombo>강력한 일격</>이 <@ba.poise>{poise:0}</>포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 <@ba.natur>자연 피해</>를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 <@ba.natur>자연 피해</>를 주고 일정량의 스킬 게이지를 회복합니다.",
+              "MX": "ATAQUE BÁSICO: \nUn ataque de hasta 5 secuencias que inflige <@ba.natur>DAÑ por naturaleza</>. Como operador controlado, el <#ba.lastcombo>Golpe final</> también inflige <@ba.poise>{poise:0}</> de Tambaleo. \n\nATAQUE DE INMERSIÓN: \nUn ataque básico realizado en el aire se convierte en un ataque de inmersión que inflige <@ba.natur>DAÑ por naturaleza</> a los enemigos cercanos. \n\nREMATE: \nUn ataque básico realizado cerca de un enemigo Tambaleado se convierte en un remate que inflige <@ba.natur>DAÑ por naturaleza</> masivo y recupera algo de PH.",
+              "RU": "БАЗОВАЯ АТАКА\nАтака максимум из 5 тактов, наносящая <@ba.natur>природный УРН</>. При выполнении управляемым оперативником <#ba.lastcombo>последнего удара</> также накладывает <@ba.poise>{poise:0}</> ошеломление.\n\nАТАКА С ВОЗДУХА\nБазовая атака, выполненная в воздухе, становится атакой с воздуха и наносит <@ba.natur>природный УРН</> ближайшим врагам.\n\nДОБИВАНИЕ\nБазовая атака, выполненная рядом с ошеломленным врагом, становится добивающей атакой, которая наносит огромный <@ba.natur>природный УРН</> и восстанавливает немного ОН.",
+              "TC": "普通攻擊：\n對敵人進行最多5段攻擊，造成<@ba.natur>自然傷害</>。作為主控幹員時，<#ba.lastcombo>重擊</>會造成<@ba.poise>{poise:0}</>點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成<@ba.natur>自然傷害</>。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量<@ba.natur>自然傷害</>並回復一定技力。",
+              "TH": "การ​โจมตี​พื้นฐาน​: \nการ​โจมตี​สูงสุด​ 5 กระบวน​ท่า​ ที่​สร้าง​ <@ba.natur>DMG ธรรมชาติ​</> ใน​ฐานะ​โอเปอเรเตอร์​ที่​ควบคุม​อยู่​ <#ba.lastcombo>​โจมตี​พิฆาต​</>​จะ​ทำให้​ศัตรู​เซ​ไป​เซ​มา​ <@ba.poise>{poise:0}</> หน่วย​ \n\nการ​โจมตี​แบบ​ดิ่ง​: \nการ​โจมตี​พื้นฐาน​ที่​ใช้​กลางอากาศ​จะ​กลายเป็น​การ​โจมตี​แบบ​ดิ่ง​ที่​สร้าง​ <@ba.natur>DMG ธรรมชาติ​</>​ให้​กับ​ศัตรู​รอ​บๆ​ \n\nท่า​ไม้ตาย​: \nการ​โจมตี​พื้นฐาน​ที่​ใช้​ใกล้​กับ​ศัตรู​ที่​เซ​ไป​เซ​มา​จะ​กลายเป็น​ท่า​ไม้ตาย​ที่​สร้าง​ <@ba.natur>DMG ธรรมชาติ​</>​มหาศาล​และ​ฟื้นฟู​ SP จำนวน​หนึ่ง",
+              "VN": "ĐÒN ĐÁNH THƯỜNG: \nMột đòn tấn công gồm tối đa 5 chuỗi gây <@ba.natur>ST Tự Nhiên</>. Với cán viên đang điều khiển, <#ba.lastcombo>Đòn Dứt Điểm</> cũng gây <@ba.poise>{poise:0}</> Suy Sụp. \n\nĐÒN BỔ NHÀO: \nĐòn Đánh Thường thi triển trên không trở thành đòn bổ nhào gây <@ba.natur>ST Tự Nhiên</> cho kẻ địch gần đó. \n\nKẾT LIỄU: \nĐòn Đánh Thường thi triển lên kẻ địch bị Suy Sụp trở thành tấn công kết liễu gây lượng lớn <@ba.natur>ST Tự Nhiên</> và hồi một phần Điểm KN."
+            },
+            "icon": "icon_attack_funnel",
+            "name": {
+              "BR": "Caçadora das Terras Selvagens",
+              "CN": "追猎荒原",
+              "DE": "Wildnisjägerin",
+              "EN": "Wildlands Huntress",
+              "FR": "Chasseuse des terres sauvages",
+              "ID": "Wildlands Huntress",
+              "IT": "Cacciatrice delle terre selvagge",
+              "JP": "荒原の狩猟",
+              "KR": "황무지의 사냥꾼",
+              "MX": "Cazadora de las tierras salvajes",
+              "RU": "Охотница бездорожья",
+              "TC": "追獵荒原",
+              "TH": "จอม​พราน​แห่ง​ป่า​ลึก",
+              "VN": "Nữ Thợ Săn Hoang Dã"
+            },
+            "skillGroupId": "chr_0034_typhoea_NormalAttack",
+            "skillGroupType": 0,
+            "skillIdList": [
+              "chr_0034_typhoea_attack1",
+              "chr_0034_typhoea_attack2",
+              "chr_0034_typhoea_attack3",
+              "chr_0034_typhoea_attack4",
+              "chr_0034_typhoea_attack5",
+              "chr_0034_typhoea_power_attack",
+              "chr_0034_typhoea_plunging_attack_end"
+            ]
+          },
+          "chr_0034_typhoea_NormalSkill": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "Typhoeus salta no ar e entra em um breve estado <@ba.key>Pairando</> durante o qual ela pode desferir 5 Ataques Básicos Aéreos (ATQBA). Cada ATQBA pode disparar flechas em até 2 alvos e causar <@ba.natur>DNO Natureza</>.\nSempre que um ATQBA atinge um inimigo com <#ba.naturalinflict>Inflição da Natureza</>, consome 1 acúmulo de <#ba.naturalinflict>Inflição da Natureza</>, concede a Typhoeus 1 <#ba.arrowenergy>Sinal</> e fornece Energia Suprema adicional.\nSe Typhoeus tiver <#ba.arrownum>Flechas de Caça</>, ela consumirá 1 <#ba.arrownum>Flecha de Caça</> e converterá o ATQBA em um <@ba.key>Disparo Poderoso</>.\n<@ba.key>Disparo Poderoso</>: ao atingir um inimigo, Disparo Poderoso aplica à força 1 instância de <#ba.naturalburst>Explosão da Natureza</>; se a <#ba.naturalinflict>Inflição da Natureza</> do alvo tiver sido consumida, então aumenta o DNO causado por essa <#ba.naturalburst>Explosão da Natureza</> para <@ba.vup>{enchence_burst_damage_rate:0.0}</> vezes o original.\n<@ba.info>Se Typhoeus for a operadora controlada, seu 5º ATQBA será um Golpe Final e um Disparo Poderoso que não consomem Flechas de Caça.</>",
+              "CN": "跃入空中进入短暂<@ba.key>浮空</>状态，期间可施放5次空中普通攻击，每次可同时攻击至多2名目标，造成<@ba.natur>自然伤害</>。\n每次空中普通攻击若命中带有<#ba.naturalinflict>自然附着</>的敌人，则消耗目标身上的1层<#ba.naturalinflict>自然附着</>，获得1点<#ba.arrowenergy>启示</>，并额外获得终结技能量。\n若自身仍存有<#ba.arrownum>猎矢</>，则会消耗1枚<#ba.arrownum>猎矢</>，将空中普通攻击转化为<@ba.key>强化射击</>。\n<@ba.key>强化射击</>：命中后额外强制造成一次<#ba.naturalburst>自然爆发</>；若消耗了目标身上的<#ba.naturalinflict>自然附着</>，则将本次造成的<#ba.naturalburst>自然爆发</>伤害提升至原本的<@ba.vup>{enchence_burst_damage_rate:0.0}</>倍。\n<@ba.info>作为主控干员时，第五次空中普通攻击同时视为重击与强化射击，且无需消耗猎矢。</>",
+              "DE": "Typhoeus springt hoch und wechselt kurzzeitig in den Zustand <@ba.key>Schweben</>, in dem sie 5 Luft-Standardangriffe (LSTDANG) ausführen kann. Jeder LSTDANG kann Pfeile auf bis zu 2 Gegner verschießen und ihnen <@ba.natur>Natur-SDN</> zufügen.\nWann immer ein LSTDANG einen Gegner mit <#ba.naturalinflict>Natur-Kumulierung(en)</> trifft, verbraucht er 1 <#ba.naturalinflict>Natur</>-Kumulierung, gewährt Typhoeus 1 <#ba.arrowenergy>Zeichen</> und verleiht zusätzliche Ultimative Energie.\nWenn Typhoeus mindestens einen <#ba.arrownum>Jagdpfeil</> hat, verbraucht sie 1 <#ba.arrownum>Jagdpfeil</> und verwandelt den LSTDANG in einen <@ba.key>Energieschuss</>.\n<@ba.key>Energieschuss</>: Wenn Typhoeus einen Gegner mit einem Energieschuss trifft, wird dieser mit 1 Instanz von <#ba.naturalburst>Naturexplosion</> belegt. Wenn die <#ba.naturalinflict>Natur-Kumulierung</> des Gegners verbraucht wurde, erhöht sich der verursachte SDN durch die <#ba.naturalburst>Naturexplosion</> auf das <@ba.vup>{enchence_burst_damage_rate:0.0}</>-Fache des Ursprungswertes.\n<@ba.info>Wenn Typhoeus der gesteuerte Operator ist, wird ihr 5. LSTDANG zu einem Abschlussangriff und Energieschuss, der keine Jagdpfeile verbraucht.</>",
+              "EN": "Typhoeus leaps into the air and enters a short <@ba.key>Hovering</> state, during which she can unleash 5 Aerial Basic Attacks (ABATK). Each ABATK can shoot arrows at up to 2 targets and deal <@ba.natur>Nature DMG</>.\nWhenever an ABATK hits an enemy with <#ba.naturalinflict>Nature Infliction</>, it consumes 1 stack of <#ba.naturalinflict>Nature Infliction</>, grants Typhoeus 1 <#ba.arrowenergy>Sign</>, and gives additional Ultimate Energy.\nIf Typhoeus has <#ba.arrownum>Hunting Arrow(s)</>, she consumes 1 <#ba.arrownum>Hunting Arrow</> and converts the ABATK into a <@ba.key>Power Shot</>.\n<@ba.key>Power Shot</>: After hitting an enemy, Power Shot forcibly applies 1 instance of <#ba.naturalburst>Nature Burst</>; if the target's <#ba.naturalinflict>Nature Infliction</> is consumed, then increase the DMG dealt by this <#ba.naturalburst>Nature Burst</> to <@ba.vup>{enchence_burst_damage_rate:0.0}</> times the original.\n<@ba.info>If Typhoeus is the controlled operator, her 5th ABATK is regarded as a Final Strike and a Power Shot, and does not consume Hunting Arrows.</>",
+              "FR": "Typhoeus bondit dans les airs et entre dans un état de <@ba.key>Surplomb</> de courte durée, pendant lequel elle peut lancer 5 attaques de base aériennes (ATQ-B-A). Chaque ATQ-B-A peut atteindre jusqu'à 2 ennemis et leur infliger des <@ba.natur>DÉG naturels</>.\nDès qu'une ATQ-B-A touche un ennemi victime d'une <#ba.naturalinflict>altération naturelle</>, elle consomme 1 cumul d'<#ba.naturalinflict>altération naturelle</> et octroie à Typhoeus 1 <#ba.arrowenergy>signe</> et de l'énergie d'ultime supplémentaire.\nSi Typhoeus possède des <#ba.arrownum>flèches de chasse</>, elle consomme 1 <#ba.arrownum>flèche de chasse</> et transforme l'ATQ-B-A en <@ba.key>Coup puissant</>.\n<@ba.key>Coup puissant</> : après avoir touché un ennemi, applique une <#ba.naturalburst>explosion naturelle</> de force ; si l'<#ba.naturalinflict>altération naturelle</> de la cible est consommée, les DÉG infligés par cette <#ba.naturalburst>explosion naturelle</> sont multipliés par <@ba.vup>{enchence_burst_damage_rate:0.0}</>.\n<@ba.info>Si Typhoeus est l'opératrice contrôlée, sa 5e ATQ-B-A est considérée comme un Coup final et un Coup puissant, et ne consomme pas de flèche de chasse.</>",
+              "ID": "Typhoeus akan melompat dan memasuki kondisi <@ba.key>Melayang</> sebentar, yang membuatnya bisa melancarkan 5 Serangan Dasar dari Udara (ABATK). Setiap ABATK bisa menembakkan panah kepada maksimum 2 musuh dan menimbulkan <@ba.natur>Nature DMG</>.\nSetiap kali ABATK menghantam musuh yang sedang terkena tumpukan <#ba.naturalinflict>Nature Infliction</>, serangan itu akan memakai 1 tumpuk <#ba.naturalinflict>Nature Infliction</>, memberikan 1 <#ba.arrowenergy>Tanda</> kepada Typhoeus, dan memberikan tambahan Energi Ultimate.\nJika Typhoeus punya <#ba.arrownum>Panah Berburu</>, dia akan memakai 1 <#ba.arrownum>Panah Berburu</> dan mengubah ABATK itu menjadi <@ba.key>Power Shot</>.\n<@ba.key>Power Shot</>: Setelah menghantam musuh, Power Shot akan secara paksa mengakibatkan 1 <#ba.naturalburst>Nature Burst</>; jika <#ba.naturalinflict>Nature Infliction</> pada target terpakai, DMG yang ditimbulkan oleh <#ba.naturalburst>Nature Burst</> ini akan meningkat menjadi <@ba.vup>{enchence_burst_damage_rate:0.0}</> kali nilai aslinya.\n<@ba.info>Jika Typhoeus adalah operator terkontrol, ABATK-nya yang ke-5 akan dianggap sebagai Final Strike dan Power Shot, dan tidak akan memakai Panah Berburu.</>",
+              "IT": "Typhoeus balza in aria ed entra in un breve stato <@ba.key>Orbitante</>, durante il quale può eseguire 5 attacchi base volanti (ATTBV). Ciascuno degli ATTBV può scagliare frecce contro un massimo di 2 bersagli e infliggere <@ba.natur>danni da natura</>.\nOgni volta che un ATTBV colpisce un nemico con <#ba.naturalinflict>Afflizione da natura</>, consuma 1 accumulo di <#ba.naturalinflict>Afflizione da natura</>, conferisce a Typhoeus 1 <#ba.arrowenergy>Segno</> e fornisce energia suprema aggiuntiva.\nSe Typhoeus possiede <#ba.arrownum>Frecce da caccia</>, consuma 1 <#ba.arrownum>Freccia da caccia</> e converte l'ATTBV in un <@ba.key>Colpo energetico</>.\n<@ba.key>Colpo energetico</>: dopo aver colpito un nemico, Colpo energetico applica forzatamente 1 unità di <#ba.naturalburst>Esplosione di natura</>; se viene consumato un accumulo di <#ba.naturalinflict>Afflizione da natura</> del bersaglio, i danni inflitti da questa <#ba.naturalburst>Esplosione di natura</> aumentano di <@ba.vup>{enchence_burst_damage_rate:0.0}</> volte rispetto all'originale.\n<@ba.info>Quando Typhoeus è l'operatrice controllata, il suo quinto ATTBV è considerato un colpo finale e un Colpo energetico, e non consuma Frecce da caccia.</>",
+              "JP": "空中へ跳躍し、短時間<@ba.key>浮遊</>状態に入る。期間中、空中通常攻撃を5回繰り出せる。毎回最大2体の目標を同時に攻撃し、<@ba.natur>自然ダメージ</>を与える。\n空中通常攻撃が<#ba.naturalinflict>自然付着</>状態の敵に命中するたびに、目標の<#ba.naturalinflict>自然付着</>を1段階消費して<#ba.arrowenergy>啓示</>を1獲得し、追加で必殺チャージを回復する。\n自身に<#ba.arrownum>猟矢</>が残っている場合、<#ba.arrownum>猟矢</>を1本消費して空中通常攻撃を<@ba.key>強化射撃</>に変換する。\n<@ba.key>強化射撃</>：命中すると追加で強制的に<#ba.naturalburst>自然爆発</>を1回与える。目標の<#ba.naturalinflict>自然付着</>を消費した場合、そのとき与える<#ba.naturalburst>自然爆発</>ダメージは<@ba.vup>{enchence_burst_damage_rate:0.0}</>倍までアップする。\n<@ba.info>操作オペレーター時、5段目の空中通常攻撃は重攻撃および強化射撃として扱われ、猟矢を消費しない。</>",
+              "KR": "점프하여 짧은 시간 동안 <@ba.key>공중에 뜸</> 상태가 됩니다. 이 상태에서 5회의 공중 일반 공격을 사용할 수 있으며, 각 일반 공격은 동시에 최대 2명의 목표에 <@ba.natur>자연 피해</>를 줍니다.\n공중 일반 공격이 <#ba.naturalinflict>자연 부착</>이 부여된 적을 명중할 때마다 목표의 <#ba.naturalinflict>자연 부착</> 1스택을 소모하고 <#ba.arrowenergy>계시</> 1포인트를 획득하며 궁극기 에너지를 추가로 회복합니다.\n<#ba.arrownum>사냥 화살</>을 보유하고 있으면 <#ba.arrownum>사냥 화살</> 1발을 소모하여 공중 일반 공격을 <@ba.key>강력한 사격</>으로 전환합니다.\n<@ba.key>강력한 사격</>: 목표에 명중하면 <#ba.naturalburst>자연 폭발</>을 강제적으로 추가 1회 발동합니다. 목표의 <#ba.naturalinflict>자연 부착</>을 소모했다면 이번에 준 <#ba.naturalburst>자연 폭발</>의 피해량이 기존의 <@ba.vup>{enchence_burst_damage_rate:0.0}</>배로 증가합니다.\n<@ba.info>메인 컨트롤 오퍼레이터라면, 다섯 번째 공중 일반 공격이 강력한 일격 및 강력한 사격으로 간주되며 사냥 화살을 소모하지 않습니다.</>",
+              "MX": "Typhoeus salta por los aires y entra brevemente en estado <@ba.key>Flotante</>, durante el cual puede ejecutar 5 Ataques básicos aéreos (ATQBA). Cada ATQBA puede disparar flechas contra un máximo de 2 objetivos e infligir <@ba.natur>DAÑ por naturaleza</>.\nCuando un ATQBA alcanza a un enemigo con <#ba.naturalinflict>Imposición de Naturaleza</>, consume 1 acumulación de <#ba.naturalinflict>Imposición de Naturaleza</>, otorga a Typhoeus 1 <#ba.arrowenergy>Signo</> y concede Energía máxima adicional.\nSi Typhoeus tiene <#ba.arrownum>Flecha(s) de caza</>, consume 1 <#ba.arrownum>Flecha de caza</> y convierte el ATQBA en un <@ba.key>Disparo potente</>.\n<@ba.key>Disparo potente</>: Tras alcanzar a un enemigo, aplica a la fuerza 1 <#ba.naturalburst>Ráfaga de naturaleza</>; si se consume la <#ba.naturalinflict>Imposición de Naturaleza</> del objetivo, el DAÑ de esta <#ba.naturalburst>Ráfaga de naturaleza</> aumenta a <@ba.vup>{enchence_burst_damage_rate:0.0}</> veces el original.\n<@ba.info>Si Typhoeus es la operadora controlada, su 5.º ATQBA se considera un Golpe final y un Disparo potente, y no consume Flechas de caza.</>",
+              "RU": "Тифея подпрыгивает и недолго <@ba.key>парит</> в воздухе. В это время она может совершить 5 базовых воздушных атак (БВАТК). Каждая БВАТК может поразить стрелами максимум 2 цели и нанести <@ba.natur>природный УРН</>.\nПопадание БВАТК по врагу с <#ba.naturalinflict>поражением природой</> поглощает 1 заряд <#ba.naturalinflict>поражения природой</>, а также дает Тифее 1 <#ba.arrowenergy>знак</> и дополнительную суперэнергию.\nЕсли у Тифеи есть <#ba.arrownum>охотничьи стрелы</>, она поглощает 1 <#ba.arrownum>охотничью стрелу</> и преобразует БВАТК в <@ba.key>мощный выстрел</>.\n<@ba.key>Мощный выстрел</>: при попадании по врагу мощный выстрел принудительно применяет 1 <#ba.naturalburst>природный взрыв</>; если было поглощено <#ba.naturalinflict>поражение природой</> цели, наносимый этим <#ba.naturalburst>природным взрывом</> УРН увеличивается до <@ba.vup>{enchence_burst_damage_rate:0.0}</> р. от первоначального.\n<@ba.info>Если Тифея — управляемый оперативник, ее 5-я БВАТК становится последним ударом и мощным выстрелом, который не поглощает охотничьи стрелы.</>",
+              "TC": "躍入空中進入短暫<@ba.key>浮空</>狀態，期間可施放5次空中普通攻擊，每次可同時攻擊最多2名目標，造成<@ba.natur>自然傷害</>。\n每次空中普通攻擊若命中帶有<#ba.naturalinflict>自然附著</>的敵人，則消耗目標身上的1層<#ba.naturalinflict>自然附著</>，獲得1點<#ba.arrowenergy>啟示</>，並額外獲得終結技能量。\n若自身仍存有<#ba.arrownum>獵矢</>，則會消耗1枚<#ba.arrownum>獵矢</>，將空中普通攻擊轉化為<@ba.key>強化射擊</>。\n<@ba.key>強化射擊</>：命中後額外強制造成一次<#ba.naturalburst>自然爆發</>；若消耗了目標身上的<#ba.naturalinflict>自然附著</>，則將本次造成的<#ba.naturalburst>自然爆發</>傷害提升至原本的<@ba.vup>{enchence_burst_damage_rate:0.0}</>倍。\n<@ba.info>作為主控幹員時，第五次空中普通攻擊同時視為重擊與強化射擊，且無需消耗獵矢。</>",
+              "TH": "ไท​ฟี​อุส​กระโจน​ขึ้นไป​บน​อากาศ​และ​เข้าสู่​สถานะ​<@ba.key>​ลอยตัว​</>​ชั่วขณะ​ ในระหว่างนั้น​เธอ​สามารถ​ใช้การ​โจมตี​พื้นฐาน​กลางอากาศ​ (ABATK) ได้​ 5 ครั้ง​ ABATK แต่ละครั้ง​จะ​ยิง​ธนู​ใส่​เป้าหมาย​ได้​สูงสุด​ 2 ตัว​ และ​สร้าง​ <@ba.natur>DMG ธรรมชาติ​</>\nทุกครั้งที่​ ABATK โจมตี​โดน​ศัตรู​ที่​มี​<#ba.naturalinflict>​บาดแผล​จาก​ธรรมชาติ​</> จะ​ใช้​ชั้น​<#ba.naturalinflict>​บาดแผล​จาก​ธรรมชาติ​</> 1 ชั้น​ ไท​ฟี​อุส​ได้รับ​<#ba.arrowenergy>​สัญญะ​</> 1 แต้ม​ และ​เพิ่ม​พลังงาน​อัล​ติ​เมท​เพิ่มเติม​\nหาก​ไท​ฟี​อุส​มี​<#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</> เธอ​จะ​ใช้​<#ba.arrownum>​ลูกศร​ล่า​เหยื่อ​</> 1 ดอก​ และ​เปลี่ยน​ ABATK เป็น​<@ba.key>​พาว​เวอร์​ช็อต​</>\n<@ba.key>​พาว​เวอร์​ช็อต​</>: หลังจาก​โจมตี​ศัตรู​ พาว​เวอร์​ช็อต​จะ​บังคับ​ให้​ใช้​เอฟเฟกต์​<#ba.naturalburst>​ระเบิด​ธรรมชาติ​</> 1 ครั้ง​ หาก​ใช้​เอฟเฟกต์​การ​สร้าง​<#ba.naturalinflict>​บาดแผล​จาก​ธรรมชาติ​</>​ของ​เป้าหมาย​ไป​แล้ว​ เช่นนั้น​จะ​เพิ่ม​ DMG ที่​<#ba.naturalburst>​ระเบิด​ธรรมชาติ​</>​ทำได้​เป็น​ <@ba.vup>{enchence_burst_damage_rate:0.0}</> เท่า​จาก​ความเสียหาย​เดิม​\n<@ba.info>​หาก​ไท​ฟี​อุส​เป็น​โอเปอเรเตอร์​ที่​ควบคุม​ การ​โจมตี​ ABATK ครั้ง​ที่​ 5 ของ​เธอ​จะ​ถือเป็น​การ​โจมตี​พิฆาต​และ​พาว​เวอร์​ช็อต​ และ​ไม่​ใช้​ลูกศร​ล่า​เหยื่อ​</>",
+              "VN": "Typhoeus nhảy lên không trung và bước vào trạng thái <@ba.key>Lơ Lửng</> trong thời gian ngắn. Trong thời gian này, cô có thể thực hiện 5 Đòn Đánh Thường Trên Không (ĐĐTTK). Mỗi ĐĐTTK có thể bắn tên vào tối đa 2 mục tiêu và gây <@ba.natur>ST Tự Nhiên</>.\nMỗi khi ĐĐTTK đánh trúng kẻ địch đang có <#ba.naturalinflict>Nhiễm Tự Nhiên</>, tiêu hao 1 tầng <#ba.naturalinflict>Nhiễm Tự Nhiên</>, giúp Typhoeus nhận 1 <#ba.arrowenergy>Dấu Ấn</> và nhận thêm Năng Lượng Tuyệt Kỹ.\nNếu Typhoeus có <#ba.arrownum>Mũi Tên Săn</>, cô sẽ tiêu hao 1 <#ba.arrownum>Mũi Tên Săn</> và chuyển ĐĐTTK thành <@ba.key>Phát Bắn Cường Hóa</>.\n<@ba.key>Phát Bắn Cường Hóa</>: Sau khi đánh trúng kẻ địch, Phát Bắn Cường Hóa cưỡng chế áp dụng 1 lần <#ba.naturalburst>Bùng Nổ Tự Nhiên</>; nếu <#ba.naturalinflict>Nhiễm Tự Nhiên</> của mục tiêu bị tiêu hao, ST gây ra bởi lần <#ba.naturalburst>Bùng Nổ Tự Nhiên</> này tăng lên bằng <@ba.vup>{enchence_burst_damage_rate:0.0}</> lần so với ban đầu.\n<@ba.info>Nếu Typhoeus là cán viên đang điều khiển, ĐĐTTK thứ 5 của cô được tính là Đòn Dứt Điểm và Phát Bắn Cường Hóa, đồng thời không tiêu hao Mũi Tên Săn.</>"
+            },
+            "icon": "icon_skill_typhoea_01",
+            "name": {
+              "BR": "Flechas Perfurantes da Floresta",
+              "CN": "风矢穿林",
+              "DE": "Durchbohrende Pfeile des Waldes",
+              "EN": "Piercing Arrows of the Woods",
+              "FR": "Flèches perforantes sylvestres",
+              "ID": "Piercing Arrows of the Woods",
+              "IT": "Frecce perforanti dei boschi",
+              "JP": "風裂く一矢",
+              "KR": "바람을 가르는 화살",
+              "MX": "Flechas perforantes del bosque",
+              "RU": "Пронзающие стрелы лесов",
+              "TC": "風矢穿林",
+              "TH": "ศร​เจาะ​ทะลุ​ป่า",
+              "VN": "Mũi Tên Xuyên Rừng"
+            },
+            "skillGroupId": "chr_0034_typhoea_NormalSkill",
+            "skillGroupType": 1,
+            "skillIdList": [
+              "chr_0034_typhoea_normal_skill_floating_start",
+              "chr_0034_typhoea_normal_skill_floating_loop",
+              "chr_0034_typhoea_normal_skill_floating_end",
+              "chr_0034_typhoea_floating_attack1",
+              "chr_0034_typhoea_floating_attack2",
+              "chr_0034_typhoea_floating_attack3",
+              "chr_0034_typhoea_floating_attack4",
+              "chr_0034_typhoea_floating_attack5"
+            ]
+          },
+          "chr_0034_typhoea_UltimateSkill": {
+            "conditionDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionDescInactive2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionIcon1": "",
+            "conditionIcon2": "",
+            "conditionId1": "",
+            "conditionId2": "",
+            "conditionName1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionName2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc1": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "conditionPostDesc2": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            },
+            "desc": {
+              "BR": "Typhoeus dispara uma Flecha Imbuída que explode ao atingir o inimigo, causando <@ba.natur>DNO Natureza</> significativo aos inimigos dentro da área de efeito (AOE). Ela então entra em um estado <@ba.key>Pairando</> e suas tentativas de Ataque Básico Aéreo (ATQBA) são reiniciadas.\nEm seus próximos 5 ATQBAs, atingir um inimigo aciona uma <@ba.key>Saraivada de Flechas</> que causa <@ba.natur>DNO Natureza</> no local do alvo. Sua 5ª <@ba.key>Saraivada de Flechas</> é uma <@ba.key>Saraivada de Flechas</> potencializada que causa ainda mais DNO.\nConjurar a habilidade suprema fornece imediatamente <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>Flechas de Caça</>.",
+              "CN": "拉弓射出一支强力箭矢，命中目标后引发爆炸，对范围内的敌人造成高额<@ba.natur>自然伤害</>。之后会进入<@ba.key>浮空</>状态，并且重置空中普通攻击次数。\n之后的五次空中普通攻击命中敌人时，都会在目标的位置产生一轮<@ba.key>箭雨</>，造成<@ba.natur>自然伤害</>。第五轮<@ba.key>箭雨</>为强化<@ba.key>箭雨</>，造成的伤害提升。\n施放终结技可立即获得<@ba.vup>{arrow_num_given:0}</>枚<#ba.arrownum>猎矢</>。",
+              "DE": "Typhoeus feuert einen Aufgeladenen Pfeil ab, der nach dem Treffer an einem Gegner explodiert und Gegnern im Wirkungsbereich massiven <@ba.natur>Natur-SDN</> zufügt. Sie wechselt dann in den Zustand <@ba.key>Schweben</>, und die Versuche für ihren Luft-Standardangriff (LSTDANG) werden zurückgesetzt.\nIhre nächsten 5 LSTDANG lösen bei Treffern an Gegnern einen <@ba.key>Pfeilhagel</> aus, der <@ba.natur>Natur-SDN</> an der Position des Ziels verursacht. Ihr 5. <@ba.key>Pfeilhagel</> ist ein verstärkter <@ba.key>Pfeilhagel</>, der höheren SDN verursacht.\nDas Wirken der Ultimativen Fertigkeit verleiht sofort <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>Jagdpfeile</>.",
+              "EN": "Typhoeus fires an Imbued Arrow that explodes after hitting the enemy and deals massive <@ba.natur>Nature DMG</> to enemies within the area of effect (AOE). She then enters a <@ba.key>Hovering</> state and her Aerial Basic Attack (ABATK) attempts are reset.\nFor her next 5 ABATKs, hitting an enemy triggers a <@ba.key>Hail of Arrows</> that deals <@ba.natur>Nature DMG</> at the target's location. Her 5th <@ba.key>Hail of Arrows</> is an empowered <@ba.key>Hail of Arrows</> that deals higher DMG.\nCasting the ultimate gives <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>Hunting Arrows</> immediately.",
+              "FR": "Typhoeus tire une flèche imprégnée qui explose après avoir touché l'ennemi et inflige d'importants <@ba.natur>DÉG naturels</> aux ennemis dans la zone d'effet. Elle entre ensuite dans un état de <@ba.key>Surplomb</> et ses tentatives d'attaque de base aérienne (ATQ-B-A) sont réinitialisées.\nPendant ses 5 prochaines ATQ-B-A, toucher un ennemi déclenche une <@ba.key>pluie de flèches</> qui inflige des <@ba.natur>DÉG naturels</> à l'emplacement de la cible. Sa 5e <@ba.key>pluie de flèches</> est une <@ba.key>pluie de flèches</> améliorée qui inflige plus de DÉG.\nLe lancement de l'ultime octroie immédiatement <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>flèches de chasse</>.",
+              "ID": "Typhoeus akan menembakkan Panah Berenergi yang akan meledak setelah mengenai musuh dan akan menimbulkan <@ba.natur>Nature DMG</> sangat besar kepada musuh di dalam area efek (AOE). Lalu, dia akan memasuki kondisi <@ba.key>Melayang</> dan upaya Serangan Dasar dari Udaranya (ABATK) akan direset.\nUntuk 5 ABATK-nya yang berikutnya, jika berhasil menghantam musuh, <@ba.key>Hail of Arrows</> akan aktif dan menimbulkan <@ba.natur>Nature DMG</> di lokasi target. <@ba.key>Hail of Arrows</> yang ke-5 akan menjadi <@ba.key>Hail of Arrows</> yang lebih kuat dan menimbulkan DMG lebih besar.\nPenggunaan ultimate akan langsung memberikan <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>Panah Berburu</>.",
+              "IT": "Typhoeus scocca una freccia imbevuta che esplode dopo aver colpito il nemico, infliggendo ingenti <@ba.natur>danni da natura</> ai nemici nel raggio d'azione. Poi entra nello stato <@ba.key>Orbitante</> e il conteggio di attacchi base volanti (ATTBV) viene azzerato.\nNei successivi 5 ATTBV di Typhoeus, colpendo un nemico si attiva una <@ba.key>Raffica di frecce</> che infligge <@ba.natur>danni da natura</> nella posizione del bersaglio. Il suo quinto attacco con <@ba.key>Raffica di frecce</> è una <@ba.key>Raffica di frecce</> potenziata che infligge danni maggiori.\nIl lancio dell'abilità suprema conferisce immediatamente <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>Frecce da caccia</>.",
+              "JP": "弓を引いて強力な矢を放ち、目標に命中すると爆発する。範囲内の敵に高い<@ba.natur>自然ダメージ</>を与える。その後、<@ba.key>浮遊</>状態に入り、空中通常攻撃の回数をリセットする。\nそのあとの5回の空中通常攻撃が敵に命中するとき、目標の位置に<@ba.key>矢の雨</>を発生させ、<@ba.natur>自然ダメージ</>を与える。5段目は強化された<@ba.key>矢の雨</>となり、与えるダメージがアップする。\n必殺技を発動すると即座に<#ba.arrownum>猟矢</>を<@ba.vup>{arrow_num_given:0}</>本獲得する。",
+              "KR": "활을 당겨 강력한 화살을 쏘아 올립니다. 목표를 명중하면 폭발이 일어나며 범위 내의 적에게 막대한 <@ba.natur>자연 피해</>를 줍니다. 그 후, <@ba.key>공중에 뜸</> 상태가 되고 공중 일반 공격 횟수가 초기화됩니다.\n이 상태에서 사용한 다섯 번의 공중 일반 공격은 적에게 명중할 때마다 목표의 위치에 <@ba.key>화살비</>가 내리게 만들고 <@ba.natur>자연 피해</>를 줍니다. 다섯 번째의 <@ba.key>화살비</>는 강화된 <@ba.key>화살비</>로, 주는 피해가 증가합니다.\n궁극기를 사용하면 즉시 <@ba.vup>{arrow_num_given:0}</>발의 <#ba.arrownum>사냥 화살</>을 획득합니다.",
+              "MX": "Typhoeus dispara una Flecha imbuida que explota tras golpear al enemigo e inflige una gran cantidad de <@ba.natur>DAÑ por naturaleza</> a los enemigos dentro del área de efecto (ADE). Después, entra en estado <@ba.key>Flotante</> y se restablecen sus intentos de ataque básico aéreo (ATQBA).\nDurante sus siguientes 5 ATQBA, alcanzar a un enemigo activa una <@ba.key>Lluvia de flechas</> que inflige <@ba.natur>DAÑ por naturaleza</> en la ubicación del objetivo. Su 5.ª <@ba.key>Lluvia de flechas</> es una <@ba.key>Lluvia de flechas</> potenciada que inflige más DAÑ.\nLanzar la máxima otorga <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>Flechas de caza</> inmediatamente.",
+              "RU": "Тифея выпускает заряженную стрелу, которая взрывается при попадании и наносит огромный <@ba.natur>природный УРН</> врагам в области действия. Затем Тифея переходит в состояние <@ba.key>парения</>, а попытки выполнения базовой воздушной атаки (БВАТК) сбрасываются.\nСледующие 5 БВАТК при попадании активируют <@ba.key>град стрел</>, который наносит <@ba.natur>природный УРН</> по позициям цели. 5-й <@ba.key>град стрел</> — <@ba.key>усиленный</>. Он наносит повышенный УРН.\nАктивация супернавыка сразу дает <#ba.arrownum>охотничьи стрелы</> (<@ba.vup>{arrow_num_given:0}</>).",
+              "TC": "拉弓射出一支強力箭矢，命中目標後引發爆炸，對範圍內的敵人造成高額<@ba.natur>自然傷害</>。之後會進入<@ba.key>浮空</>狀態，並且重置空中普通攻擊次數。\n之後的五次空中普通攻擊命中敵人時，都會在目標的位置產生一輪<@ba.key>箭雨</>，造成<@ba.natur>自然傷害</>。第五輪<@ba.key>箭雨</>為強化<@ba.key>箭雨</>，造成的傷害提升。\n施放終結技可立即獲得<@ba.vup>{arrow_num_given:0}</>枚<#ba.arrownum>獵矢</>。",
+              "TH": "ไท​ฟี​อุส​ยิง​ลูกศร​เสริม​พลัง​ ที่จะ​ระเบิด​หลังจาก​โจมตี​โดน​ศัตรู​ และ​สร้าง​ <@ba.natur>DMG ธรรมชาติ​</>​อย่างรุนแรง​แก่​ศัตรู​ใน​พื้นที่​เอฟเฟกต์​ (AOE) จากนั้น​เธอ​จะ​เข้าสู่​สถานะ​<@ba.key>​ลอย​</> และ​รีเซ็ต​จำนวน​ครั้ง​ที่​สามารถ​ใช้การ​โจมตี​พื้นฐาน​กลางอากาศ​ (ABATK)\nใน​การ​โจมตี​ ABATK 5 ครั้ง​ถัดไป​ของ​ไท​ฟี​อุส​ หาก​โจมตี​โดน​ศัตรู​จะ​ทำให้เกิด​<@ba.key>​ลูกศร​โปรยปราย​</> ซึ่ง​สร้าง​ <@ba.natur>DMG ธรรมชาติ​</> ณ​ ตำแหน่ง​ของ​เป้าหมาย​ <@ba.key>​ลูกศร​โปรยปราย​</>​ครั้ง​ที่​ 5 ของ​เธอ​เป็น​<@ba.key>​ลูกศร​โปรยปราย​</>​เสริม​พลัง​ที่​สร้าง​ DMG สูง​ขึ้น​\nการ​ใช้​อัล​ติ​เมท​จะ​มอบ​ <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum> ลูกศร​ล่า​เหยื่อ​</> ให้​ทันที",
+              "VN": "Typhoeus bắn một Mũi Tên Quán Năng, phát nổ sau khi trúng kẻ địch và gây lượng lớn <@ba.natur>ST Tự Nhiên</> cho kẻ địch trong phạm vi ảnh hưởng (AOE). Sau đó, cô bước vào trạng thái <@ba.key>Lơ Lửng</> và đặt lại số Đòn Đánh Thường Trên Không (ĐĐTTK).\nTrong 5 ĐĐTTK tiếp theo, mỗi khi đánh trúng kẻ địch, Typhoeus sẽ kích hoạt <@ba.key>Mưa Tên</> gây <@ba.natur>ST Tự Nhiên</> tại vị trí của mục tiêu. Lần <@ba.key>Mưa Tên</> thứ 5 của cô là <@ba.key>Mưa Tên</> cường hóa, gây ST cao hơn.\nKhi thi triển Tuyệt Kỹ, Typhoeus lập tức nhận <@ba.vup>{arrow_num_given:0}</> <#ba.arrownum>Mũi Tên Săn</>."
+            },
+            "icon": "icon_ultimate_skill_typhoea_01",
+            "name": {
+              "BR": "Chamado da Montanha de Gelo",
+              "CN": "冰山呼告",
+              "DE": "Ruf des eisigen Berges",
+              "EN": "Call of Ice Mountain",
+              "FR": "Appel de la montagne glacée",
+              "ID": "Call of Ice Mountain",
+              "IT": "Richiamo del monte di ghiaccio",
+              "JP": "氷山の呼び声",
+              "KR": "설산의 포효",
+              "MX": "Llamado de la montaña de hielo",
+              "RU": "Зов ледяной горы",
+              "TC": "冰山呼告",
+              "TH": "เสียง​เพรียก​แห่ง​ภูเขาน้ำแข็ง",
+              "VN": "Tiếng Gọi Núi Băng"
+            },
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill",
+            "skillGroupType": 2,
+            "skillIdList": [
+              "chr_0034_typhoea_ultimate_skillfloating"
+            ]
+          }
+        },
+        "skillLevelUp": [
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0034_typhoea_NormalSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_4"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0034_typhoea_UltimateSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0034_typhoea_ComboSkill"
+          },
+          {
+            "goldCost": 1000,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 2,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 2700,
+            "itemBundle": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_1"
+              }
+            ],
+            "level": 3,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 3200,
+            "itemBundle": [
+              {
+                "count": 16,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 4,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 4200,
+            "itemBundle": [
+              {
+                "count": 21,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 5,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 5400,
+            "itemBundle": [
+              {
+                "count": 27,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_2"
+              }
+            ],
+            "level": 6,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 8200,
+            "itemBundle": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 7,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 10500,
+            "itemBundle": [
+              {
+                "count": 8,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 1,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 8,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 18000,
+            "itemBundle": [
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 2,
+                "id": "item_plant_crylplant_1_3"
+              }
+            ],
+            "level": 9,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 24000,
+            "itemBundle": [
+              {
+                "count": 1,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 15,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 10,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 30000,
+            "itemBundle": [
+              {
+                "count": 2,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 24,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 6,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 11,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          },
+          {
+            "goldCost": 65000,
+            "itemBundle": [
+              {
+                "count": 3,
+                "id": "item_char_skill_crown"
+              },
+              {
+                "count": 50,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 36,
+                "id": "item_char_skill_specialize_2"
+              },
+              {
+                "count": 12,
+                "id": "item_plant_crylplant_2_3"
+              }
+            ],
+            "level": 12,
+            "skillGroupId": "chr_0034_typhoea_NormalAttack"
+          }
+        ],
+        "subAttrType": 42,
+        "talentNodeMap": {
+          "charBreak20": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak20",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 8,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 3,
+                "id": "item_plant_mushroom_1_1"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_passive_skill_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_passive_skill_1_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 3,
+              "iconId": "icon_talent_typhoea_02",
+              "index": 1,
+              "level": 2,
+              "name": {
+                "BR": "Foco da Caçadora",
+                "CN": "猎手的专注",
+                "DE": "Fokus der Jägerin",
+                "EN": "Huntress's Focus",
+                "FR": "Concentration de la chasseuse",
+                "ID": "Huntress’s Focus",
+                "IT": "Concentrazione della cacciatrice",
+                "JP": "狩人の集中力",
+                "KR": "사냥꾼의 집중",
+                "MX": "Enfoque de cazadora",
+                "RU": "Фокусировка охотницы",
+                "TC": "獵手的專注",
+                "TH": "ความมุ่งมั่น​ของ​นัก​ล่า",
+                "VN": "Tâm Thợ Săn"
+              },
+              "talentEffectId": "chr_0034_typhoea_talent_2_2"
+            },
+            "requiredItem": [
+              {
+                "count": 18,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak40": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak40",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 25,
+                "id": "item_char_break_stage_1_2"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_2"
+              },
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak60": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak60",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 24,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 5,
+                "id": "item_plant_mushroom_1_3"
+              },
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "charBreak70": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "charBreak70",
+            "nodeType": 1,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 36,
+                "id": "item_char_break_stage_3_4"
+              },
+              {
+                "count": 20,
+                "id": "item_char_skill_specialize_3"
+              },
+              {
+                "count": 8,
+                "id": "item_plant_mushroom_2_3"
+              },
+              {
+                "count": 100000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 40,
+                  "attrValue": 10,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 1,
+              "customIcon": "",
+              "desc": {
+                "BR": "Agilidade do Operador + 10.",
+                "CN": "干员敏捷能力值提升10。",
+                "DE": "Operator-Beweglichkeit +10.",
+                "EN": "Operator Agility +10.",
+                "FR": "Agilité de l'opérateur +10.",
+                "ID": "Agility Operator +10.",
+                "IT": "Agilità operatore +10.",
+                "JP": "敏捷が10アップする",
+                "KR": "오퍼레이터 민첩 능력치 10 증가",
+                "MX": "Agilidad del operador +10.",
+                "RU": "Ловкость оперативника +10.",
+                "TC": "幹員敏捷能力值提升10。",
+                "TH": "ความคล่องแคล่ว​ของ​โอเปอเรเตอร์​ +10",
+                "VN": "Nhanh Nhẹn Cho Cán Viên +10."
+              },
+              "favorability": 60,
+              "title": {
+                "BR": "Escaramuçador",
+                "CN": "游刃",
+                "DE": "Scharmützler",
+                "EN": "Skirmisher",
+                "FR": "Escarmoucheur",
+                "ID": "Skirmisher",
+                "IT": "Destrezza",
+                "JP": "遊刃",
+                "KR": "능숙",
+                "MX": "Guerrillero",
+                "RU": "Сноровка",
+                "TC": "游刃",
+                "TH": "จอม​ตะลุมบอน",
+                "VN": "Kẻ Đánh Lén"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_1",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 5,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_3": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 40,
+                  "attrValue": 15,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 2,
+              "customIcon": "",
+              "desc": {
+                "BR": "Agilidade do Operador + 15.",
+                "CN": "干员敏捷能力值提升15。",
+                "DE": "Operator-Beweglichkeit +15.",
+                "EN": "Operator Agility +15.",
+                "FR": "Agilité de l'opérateur +15.",
+                "ID": "Agility Operator +15.",
+                "IT": "Agilità operatore +15.",
+                "JP": "敏捷が15アップする",
+                "KR": "오퍼레이터 민첩 능력치 15 증가",
+                "MX": "Agilidad del operador +15.",
+                "RU": "Ловкость оперативника +15.",
+                "TC": "幹員敏捷能力值提升15。",
+                "TH": "ความคล่องแคล่ว​ของ​โอเปอเรเตอร์​ +15",
+                "VN": "Nhanh Nhẹn Cho Cán Viên +15."
+              },
+              "favorability": 150,
+              "title": {
+                "BR": "Escaramuçador",
+                "CN": "游刃",
+                "DE": "Scharmützler",
+                "EN": "Skirmisher",
+                "FR": "Escarmoucheur",
+                "ID": "Skirmisher",
+                "IT": "Destrezza",
+                "JP": "遊刃",
+                "KR": "능숙",
+                "MX": "Guerrillero",
+                "RU": "Сноровка",
+                "TC": "游刃",
+                "TH": "จอม​ตะลุมบอน",
+                "VN": "Kẻ Đánh Lén"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_3",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1800,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_passive_skill_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_passive_skill_0_2",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 1,
+              "iconId": "icon_talent_typhoea_01",
+              "index": 0,
+              "level": 2,
+              "name": {
+                "BR": "Lista de Verificação de Presas",
+                "CN": "猎物清点",
+                "DE": "Beute-Checkliste",
+                "EN": "Prey Checklist",
+                "FR": "Liste des proies",
+                "ID": "Prey Checklist",
+                "IT": "Checklist delle prede",
+                "JP": "獲物のチェック",
+                "KR": "사냥감 청소",
+                "MX": "Lista de presas",
+                "RU": "Список добычи",
+                "TC": "獵物清點",
+                "TH": "รายการ​เหยื่อ​ที่​ต้อง​ล่า",
+                "VN": "Danh Sách Con Mồi"
+              },
+              "talentEffectId": "chr_0034_typhoea_talent_1_2"
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 2400,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0034_typhoea_1_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 4,
+              "index": 1,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0034_typhoea_1_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 20000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_5": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 40,
+                  "attrValue": 15,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 3,
+              "customIcon": "",
+              "desc": {
+                "BR": "Agilidade do Operador + 15.",
+                "CN": "干员敏捷能力值提升15。",
+                "DE": "Operator-Beweglichkeit +15.",
+                "EN": "Operator Agility +15.",
+                "FR": "Agilité de l'opérateur +15.",
+                "ID": "Agility Operator +15.",
+                "IT": "Agilità operatore +15.",
+                "JP": "敏捷が15アップする",
+                "KR": "오퍼레이터 민첩 능력치 15 증가",
+                "MX": "Agilidad del operador +15.",
+                "RU": "Ловкость оперативника +15.",
+                "TC": "幹員敏捷能力值提升15。",
+                "TH": "ความคล่องแคล่ว​ของ​โอเปอเรเตอร์​ +15",
+                "VN": "Nhanh Nhẹn Cho Cán Viên +15."
+              },
+              "favorability": 300,
+              "title": {
+                "BR": "Escaramuçador",
+                "CN": "游刃",
+                "DE": "Scharmützler",
+                "EN": "Skirmisher",
+                "FR": "Escarmoucheur",
+                "ID": "Skirmisher",
+                "IT": "Destrezza",
+                "JP": "遊刃",
+                "KR": "능숙",
+                "MX": "Guerrillero",
+                "RU": "Сноровка",
+                "TC": "游刃",
+                "TH": "จอม​ตะลุมบอน",
+                "VN": "Kẻ Đánh Lén"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_5",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 10,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 6000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_passive_skill_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_passive_skill_1_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 2,
+              "iconId": "icon_talent_typhoea_02",
+              "index": 1,
+              "level": 1,
+              "name": {
+                "BR": "Foco da Caçadora",
+                "CN": "猎手的专注",
+                "DE": "Fokus der Jägerin",
+                "EN": "Huntress's Focus",
+                "FR": "Concentration de la chasseuse",
+                "ID": "Huntress’s Focus",
+                "IT": "Concentrazione della cacciatrice",
+                "JP": "狩人の集中力",
+                "KR": "사냥꾼의 집중",
+                "MX": "Enfoque de cazadora",
+                "RU": "Фокусировка охотницы",
+                "TC": "獵手的專注",
+                "TH": "ความมุ่งมั่น​ของ​นัก​ล่า",
+                "VN": "Tâm Thợ Săn"
+              },
+              "talentEffectId": "chr_0034_typhoea_talent_2_1"
+            },
+            "requiredItem": [
+              {
+                "count": 48,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 10800,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_7": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [
+                {
+                  "attrType": 40,
+                  "attrValue": 20,
+                  "modifierType": 5,
+                  "modifyAttributeType": 0
+                }
+              ],
+              "breakStage": 4,
+              "customIcon": "",
+              "desc": {
+                "BR": "Agilidade do Operador + 20.",
+                "CN": "干员敏捷能力值提升20。",
+                "DE": "Operator-Beweglichkeit +20.",
+                "EN": "Operator Agility +20.",
+                "FR": "Agilité de l'opérateur +20.",
+                "ID": "Agility Operator +20.",
+                "IT": "Agilità operatore +20.",
+                "JP": "敏捷が20アップする",
+                "KR": "오퍼레이터 민첩 능력치 20 증가",
+                "MX": "Agilidad del operador +20.",
+                "RU": "Ловкость оперативника +20.",
+                "TC": "幹員敏捷能力值提升20。",
+                "TH": "ความคล่องแคล่ว​ของ​โอเปอเรเตอร์​ +20",
+                "VN": "Nhanh Nhẹn Cho Cán Viên +20."
+              },
+              "favorability": 300,
+              "title": {
+                "BR": "Escaramuçador",
+                "CN": "游刃",
+                "DE": "Scharmützler",
+                "EN": "Skirmisher",
+                "FR": "Escarmoucheur",
+                "ID": "Skirmisher",
+                "IT": "Destrezza",
+                "JP": "遊刃",
+                "KR": "능숙",
+                "MX": "Guerrillero",
+                "RU": "Сноровка",
+                "TC": "游刃",
+                "TH": "จอม​ตะลุมบอน",
+                "VN": "Kẻ Đánh Lén"
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_7",
+            "nodeType": 3,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 20,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 12000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_passive_skill_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_passive_skill_0_1",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "icon_talent_typhoea_01",
+              "index": 0,
+              "level": 1,
+              "name": {
+                "BR": "Lista de Verificação de Presas",
+                "CN": "猎物清点",
+                "DE": "Beute-Checkliste",
+                "EN": "Prey Checklist",
+                "FR": "Liste des proies",
+                "ID": "Prey Checklist",
+                "IT": "Checklist delle prede",
+                "JP": "獲物のチェック",
+                "KR": "사냥감 청소",
+                "MX": "Lista de presas",
+                "RU": "Список добычи",
+                "TC": "獵物清點",
+                "TH": "รายการ​เหยื่อ​ที่​ต้อง​ล่า",
+                "VN": "Danh Sách Con Mồi"
+              },
+              "talentEffectId": "chr_0034_typhoea_talent_1_1"
+            },
+            "requiredItem": []
+          },
+          "fac_chr_0034_typhoea_0_2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 3,
+              "index": 0,
+              "level": 2
+            },
+            "nodeId": "fac_chr_0034_typhoea_0_2",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 8000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "chr_0034_typhoea_passive_skill_0_3": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "chr_0034_typhoea_passive_skill_0_3",
+            "nodeType": 4,
+            "passiveSkillNodeInfo": {
+              "breakStage": 3,
+              "iconId": "icon_talent_typhoea_01",
+              "index": 0,
+              "level": 3,
+              "name": {
+                "BR": "Lista de Verificação de Presas",
+                "CN": "猎物清点",
+                "DE": "Beute-Checkliste",
+                "EN": "Prey Checklist",
+                "FR": "Liste des proies",
+                "ID": "Prey Checklist",
+                "IT": "Checklist delle prede",
+                "JP": "獲物のチェック",
+                "KR": "사냥감 청소",
+                "MX": "Lista de presas",
+                "RU": "Список добычи",
+                "TC": "獵物清點",
+                "TH": "รายการ​เหยื่อ​ที่​ต้อง​ล่า",
+                "VN": "Danh Sách Con Mồi"
+              },
+              "talentEffectId": "chr_0034_typhoea_talent_1_3"
+            },
+            "requiredItem": [
+              {
+                "count": 18,
+                "id": "item_char_skill_level_7_12"
+              },
+              {
+                "count": 16000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT4": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT4",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 18000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT2": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT2",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0034_typhoea_1_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 2,
+              "index": 1,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0034_typhoea_1_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 12,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 3000,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "equipBreakT3": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 0,
+              "index": 0,
+              "level": 0
+            },
+            "nodeId": "equipBreakT3",
+            "nodeType": 2,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6500,
+                "id": "item_gold"
+              }
+            ]
+          },
+          "fac_chr_0034_typhoea_0_1": {
+            "attributeNodeInfo": {
+              "attributeModifiers": [],
+              "breakStage": 0,
+              "customIcon": "",
+              "desc": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "favorability": 0,
+              "title": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              }
+            },
+            "factorySkillNodeInfo": {
+              "breakStage": 1,
+              "index": 0,
+              "level": 1
+            },
+            "nodeId": "fac_chr_0034_typhoea_0_1",
+            "nodeType": 5,
+            "passiveSkillNodeInfo": {
+              "breakStage": 0,
+              "iconId": "",
+              "index": 0,
+              "level": 0,
+              "name": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "talentEffectId": ""
+            },
+            "requiredItem": [
+              {
+                "count": 6,
+                "id": "item_char_skill_level_1_6"
+              },
+              {
+                "count": 1600,
+                "id": "item_gold"
+              }
+            ]
+          }
+        },
+        "weaponType": 2
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

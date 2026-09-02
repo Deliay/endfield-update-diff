@@ -1,0 +1,1047 @@
+{
+  "tableName": "EnemyTemplateDisplayInfoTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 8,
+    "removed": 0,
+    "changed": 4
+  },
+  "entries": {
+    "added": {
+      "tatget_001_normal": {
+        "abilityDescIds": [
+          "tatget_001_normal_ability"
+        ],
+        "description": {
+          "BR": "Um alvo básico para arqueiros iniciantes.",
+          "CN": "基础型号的靶标，适合新手练习箭术。",
+          "DE": "Ein einfaches Ziel für angehende Bogenschützen.",
+          "EN": "A basic target for novice archers.",
+          "FR": "Une cible simple destinée aux archers débutants.",
+          "ID": "Target biasa untuk pemanah pemula.",
+          "IT": "Un bersaglio semplice per arcieri alle prime armi.",
+          "JP": "基礎型の的。初心者向けの弓術訓練に適している。",
+          "KR": "기본 모델 표적. 초보자가 궁술을 연습하기에 적합합니다.",
+          "MX": "Un objetivo Básico para arqueros principiantes.",
+          "RU": "Базовая цель для начинающих лучников.",
+          "TC": "基礎型號的標靶，適合新手練習箭術。",
+          "TH": "เป้าหมาย​ทั่วไป​สำหรับ​นัก​ธนู​ฝึกหัด",
+          "VN": "Bia mục tiêu cơ bản dành cho cung thủ mới tập."
+        },
+        "displayType": 0,
+        "distributionIds": [],
+        "name": {
+          "BR": "Alvo Básico",
+          "CN": "新手靶标",
+          "DE": "Einfaches Ziel",
+          "EN": "Basic Target",
+          "FR": "Cible de base",
+          "ID": "Target Biasa",
+          "IT": "Bersaglio base",
+          "JP": "的・入門",
+          "KR": "초보자용 표적",
+          "MX": "Objetivo Básico",
+          "RU": "Базовая цель",
+          "TC": "新手標靶",
+          "TH": "เป้าหมาย​ทั่วไป",
+          "VN": "Bia Cơ Bản"
+        },
+        "nickname": {
+          "BR": "Alvo Básico",
+          "CN": "新手靶标",
+          "DE": "Einfaches Ziel",
+          "EN": "Basic Target",
+          "FR": "Cible de base",
+          "ID": "Target Biasa",
+          "IT": "Bersaglio base",
+          "JP": "的・入門",
+          "KR": "초보자용 표적",
+          "MX": "Objetivo Básico",
+          "RU": "Базовая цель",
+          "TC": "新手標靶",
+          "TH": "เป้าหมาย​ทั่วไป",
+          "VN": "Bia Cơ Bản"
+        },
+        "tags": [],
+        "templateId": "tatget_001_normal"
+      },
+      "eny_0129_slwood": {
+        "abilityDescIds": [
+          "eny_0129_slwood_ability_1"
+        ],
+        "description": {
+          "BR": "Uma marionete de batalha criada por uma Sacerdotisa da Neve. Seu formato lembra o da Lesma do Originium. Ela consegue se mover rapidamente e é uma excelente escavadora.",
+          "CN": "由雪祀制造的源石虫型战争傀儡，行动敏捷，具备优秀的挖掘能力。",
+          "DE": "Eine von der Schneepriesterin erschaffene Kampfmarionette. Ihre Form entspricht der der Originium-Schnecke. Diese Schnitzkunst-Schnecke ist schnell und eignet sich hervorragend zum Graben.",
+          "EN": "A battle puppet created by a Snowpriestess. Its shape resembles that of the Originium Slug. This woodcraft can move quickly and is an excellent burrower.",
+          "FR": "Une marionnette de combat créée par une prêtresse des neiges. Sa forme rappelle celle de la limace d'originium. Cette créature sylvaine se déplace rapidement et n'a pas son pareil pour creuser.",
+          "ID": "Boneka tempur yang dibuat oleh seorang Snowpriest. Bentuknya menyerupai Siput Originium. Kerajinan kayu ini bisa bergerak dengan cepat dan merupakan penggali yang andal.",
+          "IT": "Una marionetta da battaglia creata da una sacerdotessa delle nevi. La sua forma ricorda quella dell'origilumaca. Questa creazione di legno si muove rapidamente ed è un'eccellente scavatrice.",
+          "JP": "雪祭司が作り出したオリジムシ型の戦闘ゴーレム。俊敏な動きと優れた掘削能力を兼ね備えている。",
+          "KR": "제사장이 만든 원석충형 전쟁 골렘. 움직임이 날렵하고, 뛰어난 굴착 능력을 갖추고 있습니다.",
+          "MX": "Una marioneta de batalla creada por una Sacerdotisa de la nieve. Su forma se asemeja a la de una Babosa de Originio. Esta creación de madera puede moverse rápidamente y es una excelente excavadora.",
+          "RU": "Боевая марионетка, созданная снежной шаманкой. По виду напоминает ориджиниевого слизня. Создание из дерева быстро передвигается и отлично умеет зарываться в землю.",
+          "TC": "由雪祀製造的源石蟲型戰爭傀儡，行動敏捷，具備優秀的挖掘能力。",
+          "TH": "หุ่นเชิด​รบ​ที่​สร้าง​ขึ้น​โดย​นักบวช​หิมะ​ รูปร่าง​ของ​มัน​คล้าย​กับ​ทาก​ออ​ริ​จิ​เนียม​ งาน​ไม้​ชิ้น​นี้​สามารถ​เคลื่อนที่​ได้​รวดเร็ว​ และ​ขุด​โพรง​ได้​อย่าง​ยอดเยี่ยม",
+          "VN": "Một con rối chiến đấu do Nữ Tư Tế Tuyết tạo nên, có hình dáng mô phỏng Sên Originium. Mộc ngẫu này di chuyển vô cùng nhanh nhẹn và đặc biệt giỏi đào hang."
+        },
+        "displayType": 0,
+        "distributionIds": [
+          "distribution_map02_lv009",
+          "distribution_world_energy_point12"
+        ],
+        "name": {
+          "BR": "Lesma da Madeira",
+          "CN": "虫体树傀",
+          "DE": "Schnitzkunst-Schnecke",
+          "EN": "Woodcraft Slug",
+          "FR": "Limace sylvaine",
+          "ID": "Siput Kayu",
+          "IT": "Lumaca del bosco",
+          "JP": "ムシ型ゴーレム",
+          "KR": "벌레 나무 골렘",
+          "MX": "Babosa de madera",
+          "RU": "Древесный слизень",
+          "TC": "蟲體樹傀",
+          "TH": "ทาก​งาน​ไม้",
+          "VN": "Mộc Ngẫu Dạng Sên"
+        },
+        "nickname": {
+          "BR": "Lesma da Madeira",
+          "CN": "虫体树傀",
+          "DE": "Schnitzkunst-Schnecke",
+          "EN": "Woodcraft Slug",
+          "FR": "Limace sylvaine",
+          "ID": "Siput Kayu",
+          "IT": "Lumaca del bosco",
+          "JP": "ムシ型ゴーレム",
+          "KR": "벌레 나무 골렘",
+          "MX": "Babosa de madera",
+          "RU": "Древесный слизень",
+          "TC": "蟲體樹傀",
+          "TH": "ทาก​งาน​ไม้",
+          "VN": "Mộc Ngẫu Dạng Sên"
+        },
+        "tags": [],
+        "templateId": "eny_0129_slwood"
+      },
+      "tatget_002_endurance": {
+        "abilityDescIds": [
+          "tatget_002_endurance_ability"
+        ],
+        "description": {
+          "BR": "Um alvo padrão, essencial para aprimorar a habilidade com arco e flecha.",
+          "CN": "标准型号的靶标，是精进箭术的必备靶标。",
+          "DE": "Ein Standard-Ziel, das unerlässlich ist, um besser im Bogenschießen zu werden.",
+          "EN": "A standard target, essential for improving one's archery.",
+          "FR": "Une cible standard, indispensable pour progresser en tir à l'arc.",
+          "ID": "Target standar, sangat penting untuk mengasah kemampuan memanah.",
+          "IT": "Un bersaglio standard, indispensabile per migliorare le abilità di tiro con l'arco.",
+          "JP": "標準型の的。弓術を磨くうえで欠かせない。",
+          "KR": "표준 모델 표적. 궁술 실력을 갈고닦는 데 꼭 필요한 표적입니다.",
+          "MX": "Un objetivo estándar, indispensable para mejorar las habilidades de arquería.",
+          "RU": "Стандартная цель для оттачивания навыков стрельбы из лука.",
+          "TC": "標準型號的標靶，是精進箭術的必備標靶。",
+          "TH": "เป้าหมาย​มาตรฐาน​ เหมาะสำหรับ​พัฒนา​ฝีมือ​การ​ยิง​ธนู",
+          "VN": "Một bia mục tiêu tiêu chuẩn, thiết yếu cho việc nâng cao kỹ năng bắn cung."
+        },
+        "displayType": 0,
+        "distributionIds": [],
+        "name": {
+          "BR": "Alvo Padrão",
+          "CN": "标准靶标",
+          "DE": "Standard-Ziel",
+          "EN": "Standard Target",
+          "FR": "Cible standard",
+          "ID": "Target Standar",
+          "IT": "Bersaglio standard",
+          "JP": "的・標準",
+          "KR": "표준 표적",
+          "MX": "Objetivo estándar",
+          "RU": "Стандартная цель",
+          "TC": "標準標靶",
+          "TH": "เป้าหมาย​มาตรฐาน",
+          "VN": "Bia Tiêu Chuẩn"
+        },
+        "nickname": {
+          "BR": "Alvo Padrão",
+          "CN": "标准靶标",
+          "DE": "Standard-Ziel",
+          "EN": "Standard Target",
+          "FR": "Cible standard",
+          "ID": "Target Standar",
+          "IT": "Bersaglio standard",
+          "JP": "的・標準",
+          "KR": "표준 표적",
+          "MX": "Objetivo estándar",
+          "RU": "Стандартная цель",
+          "TC": "標準標靶",
+          "TH": "เป้าหมาย​มาตรฐาน",
+          "VN": "Bia Tiêu Chuẩn"
+        },
+        "tags": [],
+        "templateId": "tatget_002_endurance"
+      },
+      "eny_0128_babyents": {
+        "abilityDescIds": [
+          "eny_0128_babyents_ability_1",
+          "eny_0128_babyents_ability_2"
+        ],
+        "description": {
+          "BR": "Uma pequena marionete de batalha criada por uma Sacerdotisa da Neve. Ela é responsável por manter a Floresta Nevada em segurança. Não subestime seus punhos de madeira, pois eles podem esmagar pedra com quase nenhum esforço.",
+          "CN": "由雪祀制造的小型战争傀儡，负责雪松林的安全维护等工作。不要小看这对木质拳头，它们击穿岩石毫不费力。",
+          "DE": "Eine kleine, von der Schneepriesterin erschaffene Kampfmarionette. Ihre Aufgabe ist die Sicherung des Verschneiten Waldes. Unterschätze nicht ihre Fäuste aus Holz, denn sie können mühelos Stein zertrümmern.",
+          "EN": "A small battle puppet created by a Snowpriestess. It is in charge of keeping the Snowy Forest safe. Do not underestimate its fists of wood, for they can smash through stone with hardly any effort.",
+          "FR": "Une petite marionnette de combat créée par une prêtresse des neiges. Elle est chargée de protéger la forêt enneigée. Ne sous-estimez pas ses poings de bois : ils peuvent briser la pierre sans effort.",
+          "ID": "Boneka tempur kecil yang dibuat oleh seorang Snowpriest. Boneka ini bertugas menjaga keamanan Hutan Salju. Jangan remehkan tinju kayunya, karena tinjunya bisa menghancurkan batu dengan mudah.",
+          "IT": "Una piccola marionetta da battaglia creata da una sacerdotessa delle nevi. Ha il compito di proteggere la Foresta innevata. Non sottovalutare i suoi pugni di legno: possono frantumare la pietra senza alcuno sforzo.",
+          "JP": "雪祭司が作り出した小型の戦闘ゴーレム。雪松林の巡回や警備などを担っている。その拳は、いとも簡単に岩を貫く。",
+          "KR": "제사장이 만든 소형 전쟁 골렘. 눈 덮인 소나무 숲의 안전 유지 등을 담당합니다. 나무로 된 주먹이라고 얕보지 마세요. 바위쯤은 어렵지 않게 뚫어 버릴 수 있습니다.",
+          "MX": "Una pequeña marioneta de batalla creada por una Sacerdotisa de la nieve. Se encarga de mantener a salvo el Bosque nevado. No subestimes sus puños de madera, pues pueden destrozar piedra casi sin esfuerzo.",
+          "RU": "Маленькая боевая марионетка, созданная снежной шаманкой. Охраняет Снежный лес. Не стоит недооценивать ее деревянные кулаки: они без малейших усилий разрушают даже камень.",
+          "TC": "由雪祀製造的小型戰爭傀儡，負責雪松林的安全維護等工作。不要小看這對木質拳頭，牠們擊穿岩石毫不費力。",
+          "TH": "หุ่นเชิด​รบ​ขนาดเล็ก​ที่​สร้าง​ขึ้น​โดย​นักบวช​หิมะ​ มัน​มีหน้า​ที่​ดูแล​ความปลอดภัย​ของป่า​ขาวโพลน​ อย่า​ดูแคลน​กำปั้น​ไม้​ของ​มัน​ เพราะ​มัน​สามารถ​ทุบ​หิน​ให้​แตก​ได้​อย่างง่ายดาย",
+          "VN": "Một con rối chiến đấu nhỏ do Nữ Tư Tế Tuyết tạo nên, đảm nhiệm việc bảo vệ an nguy cho Rừng Tuyết. Chớ xem thường đôi nắm đấm bằng gỗ của nó, bởi chúng có thể dễ dàng đập vỡ cả đá tảng."
+        },
+        "displayType": 1,
+        "distributionIds": [
+          "distribution_map02_lv009",
+          "distribution_world_energy_point12"
+        ],
+        "name": {
+          "BR": "Andarilho da Mata",
+          "CN": "徘徊树傀",
+          "DE": "Schnitzkunst-Wanderer",
+          "EN": "Woodcraft Wanderer",
+          "FR": "Vagabond sylvain",
+          "ID": "Pengembara Kayu",
+          "IT": "Girovago del bosco",
+          "JP": "巡回ゴーレム",
+          "KR": "배회 나무 골렘",
+          "MX": "Errante de madera",
+          "RU": "Древесный странник",
+          "TC": "徘徊樹傀",
+          "TH": "โก​เล​ม​ไม้​พเนจร",
+          "VN": "Mộc Ngẫu Lãng Du"
+        },
+        "nickname": {
+          "BR": "Andarilho da Mata",
+          "CN": "徘徊树傀",
+          "DE": "Schnitzkunst-Wanderer",
+          "EN": "Woodcraft Wanderer",
+          "FR": "Vagabond sylvain",
+          "ID": "Pengembara Kayu",
+          "IT": "Girovago del bosco",
+          "JP": "巡回ゴーレム",
+          "KR": "배회 나무 골렘",
+          "MX": "Errante de madera",
+          "RU": "Древесный странник",
+          "TC": "徘徊樹傀",
+          "TH": "โก​เล​ม​ไม้​พเนจร",
+          "VN": "Mộc Ngẫu Lãng Du"
+        },
+        "tags": [],
+        "templateId": "eny_0128_babyents"
+      },
+      "eny_0127_bigents": {
+        "abilityDescIds": [
+          "eny_0127_bigents_ability_1",
+          "eny_0127_bigents_ability_2"
+        ],
+        "description": {
+          "BR": "Uma marionete de batalha gigante criada por uma Sacerdotisa da Neve. Ela obedecera às ordens de seu mestre para vagar e vasculhar o reino de névoa sem limites, até o momento em que percebeu que fora abandonada, até se tornar o receptáculo de toda a fúria de uma floresta profundamente nevada.",
+          "CN": "由雪祀制造的巨型战争傀儡。它领受主人的命令，在无边雾境中徘徊寻觅，直至意识到自己被抛弃，直至凝聚整片深山雪林的怒火。",
+          "DE": "Eine riesige, von der Schneepriesterin erschaffene Kampfmarionette. Sie war dem Befehl ihrer Meisterin gefolgt, das grenzenlose Reich des Nebels zu durchstreifen und zu durchkämmen, bis zu jenem Augenblick, als sie erkannte, dass sie verlassen worden war, bis sie zu dem Gefäß wurde, das den ganzen Zorn eines tiefen verschneiten Waldes in sich trug.",
+          "EN": "A giant battle puppet created by a Snowpriestess. It had taken its master's command to roam and scour the boundless realm of mist until the moment when it realized that it was abandoned, until it became the vessel bearing the entire rage of a deep snowy forest.",
+          "FR": "Une marionnette de combat géante créée par une prêtresse des neiges. Lorsque sa maîtresse lui a ordonné de parcourir sans s'arrêter l'immense royaume brumeux, elle a obéi, jusqu'au jour où elle a compris qu'elle avait été abandonnée. Elle est alors devenue le réceptacle de toute la colère d'une profonde forêt enneigée.",
+          "ID": "Boneka tempur raksasa yang dibuat oleh seorang Snowpriest. Boneka ini mematuhi perintah tuannya untuk berkelana dan menjelajahi alam kabut yang tak terbatas, tapi akhirnya dia sadar bahwa dia telah ditinggalkan. Boneka ini pun menjadi wadah yang menampung seluruh amarah hutan salju yang lebat.",
+          "IT": "Una enorme marionetta da battaglia creata da una sacerdotessa delle nevi. Aveva seguito il comando della sua maestra, vagando e perlustrando un regno sconfinato di nebbia, finché non si rese conto di essere stato abbandonato, diventando così ricettacolo dell'intera furia di una profonda foresta innevata.",
+          "JP": "雪祭司が作り出した巨大な戦闘ゴーレム。主の命に従い、果てしない霧の中をさまよい続けてきた。やがて、自らが見捨てられたことを悟り、雪深い山奥の森に満ちる怒りをその身に宿すようになった。",
+          "KR": "제사장이 만든 거대한 전쟁 골렘. 주인의 명령을 받아 끝없는 안개의 영역을 떠돌다가, 자신이 버려졌음을 깨닫고 깊은 설산 숲 전체의 분노를 한몸에 품게 되었습니다.",
+          "MX": "Una marioneta de batalla gigantesca creada por una Sacerdotisa de la nieve. Había obedecido la orden de su maestro de vagar y recorrer el ilimitado reino de niebla hasta el momento en que comprendió que había sido abandonado, hasta convertirse en el recipiente que contenía toda la furia de un profundo bosque nevado.",
+          "RU": "Огромная боевая марионетка, созданная снежной шаманкой. Повинуясь приказу хозяйки, неустанно рыскала по бескрайнему туманному краю, пока не осознала, что покинута. С тех пор она стала вместилищем всей ярости дремучего Снежного леса.",
+          "TC": "由雪祀製造的巨型戰爭傀儡。牠領受主人的命令，在無邊霧境中徘徊尋覓，直至意識到自己被拋棄，直至凝聚整片深山雪林的怒火。",
+          "TH": "หุ่นเชิด​รบ​ยักษ์​ที่​สร้าง​ขึ้น​โดย​นักบวช​หิมะ​ มัน​ทำตาม​คำสั่ง​ของ​ผู้​เป็น​อาจารย์​ ออก​เร่ร่อน​และ​ค้น​ไป​ทั่ว​ดินแดน​หมอก​อัน​ไร้​ขอบเขต​ จนกระทั่ง​ถึง​วันที่​มันต​ระ​หนัก​ว่า​ตน​ถูก​ทอดทิ้ง​ และ​กลายเป็น​ภาชนะ​ที่​แบกรับ​โทสะ​ทั้งหมด​ของ​ผืนป่า​ขาวโพลน​อัน​ลึกล้ำ",
+          "VN": "Một con rối chiến đấu khổng lồ do Nữ Tư Tế Tuyết tạo nên. Nó từng phụng mệnh chủ nhân, rong ruổi lùng sục khắp miền sương mù vô tận, cho đến khoảnh khắc nhận ra mình đã bị ruồng bỏ. Kể từ đó, nó trở thành vật chứa hội tụ toàn bộ cơn thịnh nộ của khu rừng tuyết thâm u."
+        },
+        "displayType": 4,
+        "distributionIds": [
+          "distribution_map02_lv009"
+        ],
+        "name": {
+          "BR": "Fúria de Gloomwald",
+          "CN": "幽林之怒",
+          "DE": "Finstereiches Zorn",
+          "EN": "Gloomwald's Rage",
+          "FR": "Rage de Gloomwald",
+          "ID": "Amarah Gloomwald",
+          "IT": "Furia di Gloomwald",
+          "JP": "樹海の怒",
+          "KR": "깊은 숲의 분노",
+          "MX": "Furia de Gloomwald",
+          "RU": "Ярость Мраколесья",
+          "TC": "幽林之怒",
+          "TH": "ความ​พิโรธ​แห่ง​กลู​ม​วัล​ด์",
+          "VN": "Cơn Thịnh Nộ Của Gloomwald"
+        },
+        "nickname": {
+          "BR": "Fúria de Gloomwald",
+          "CN": "幽林之怒",
+          "DE": "Finstereiches Zorn",
+          "EN": "Gloomwald's Rage",
+          "FR": "Rage de Gloomwald",
+          "ID": "Amarah Gloomwald",
+          "IT": "Furia di Gloomwald",
+          "JP": "樹海の怒",
+          "KR": "깊은 숲의 분노",
+          "MX": "Furia de Gloomwald",
+          "RU": "Ярость Мраколесья",
+          "TC": "幽林之怒",
+          "TH": "ความ​พิโรธ​แห่ง​กลู​ม​วัล​ด์",
+          "VN": "Cơn Thịnh Nộ Của Gloomwald"
+        },
+        "tags": [],
+        "templateId": "eny_0127_bigents"
+      },
+      "tatget_003_expand": {
+        "abilityDescIds": [
+          "tatget_003_expand_ability"
+        ],
+        "description": {
+          "BR": "Um alvo especial que pode mudar de tamanho e bloquear outros alvos atrás dele. Tente fragmentá-lo primeiro.",
+          "CN": "可伸展的特殊靶标，挡在其他靶标前阻碍视线，需要先将其击破。",
+          "DE": "Ein Spezialziel, das seine Größe verändern und andere Ziele hinter sich schützen kann. Versuche, es zuerst zu zersplittern.",
+          "EN": "A special target that can change its size and block other targets behind it. Try to shatter it first.",
+          "FR": "Une cible spéciale capable de changer de taille et de protéger celles qui se trouvent derrière. Essayez de la faire éclater en premier.",
+          "ID": "Target spesial yang ukurannya bisa berubah dan bisa menghalangi target di belakangnya. Coba hancurkan dulu target yang ini.",
+          "IT": "Un bersaglio speciale che può cambiare dimensione e bloccare altri bersagli dietro di sé. Per prima cosa, prova a infrangerlo.",
+          "JP": "伸縮可能な特殊な的。他の的を遮るため、優先的に対処したほうがいい。",
+          "KR": "신축형 특수 표적. 다른 표적 앞을 가려 시야를 방해하므로 먼저 파괴해야 합니다.",
+          "MX": "Un objetivo especial que puede cambiar de tamaño y bloquear otros objetivos situados detrás. Intenta quebrarlo primero.",
+          "RU": "Особая цель, которая может меняться в размере и закрывать собой другие цели. Постарайтесь расколоть ее первой.",
+          "TC": "可伸展的特殊標靶，擋在其他標靶前阻礙視線，需要先將其擊破。",
+          "TH": "เป้าหมาย​พิเศษ​ที่​เปลี่ยน​ขนาด​ได้​และ​จะ​ป้องกัน​เป้าหมาย​อื่น​ที่อยู่​ข้างหลัง​มัน​ พยายาม​ทำให้​มัน​แตก​ก่อน",
+          "VN": "Một bia mục tiêu đặc biệt có thể thay đổi kích thước và che chắn các bia mục tiêu phía sau. Hãy thử phá vỡ nó trước."
+        },
+        "displayType": 0,
+        "distributionIds": [],
+        "name": {
+          "BR": "Alvo de Barreira",
+          "CN": "屏障靶标",
+          "DE": "Barriereziel",
+          "EN": "Barrier Target",
+          "FR": "Cible-barrière",
+          "ID": "Target Penghalang",
+          "IT": "Bersaglio barriera",
+          "JP": "的・妨害",
+          "KR": "보호벽 표적",
+          "MX": "Objetivo con Barrera",
+          "RU": "Цель-барьер",
+          "TC": "屏障標靶",
+          "TH": "เป้าหมาย​บาร์​เรีย",
+          "VN": "Bia Chắn"
+        },
+        "nickname": {
+          "BR": "Alvo de Barreira",
+          "CN": "屏障靶标",
+          "DE": "Barriereziel",
+          "EN": "Barrier Target",
+          "FR": "Cible-barrière",
+          "ID": "Target Penghalang",
+          "IT": "Bersaglio barriera",
+          "JP": "的・妨害",
+          "KR": "보호벽 표적",
+          "MX": "Objetivo con Barrera",
+          "RU": "Цель-барьер",
+          "TC": "屏障標靶",
+          "TH": "เป้าหมาย​บาร์​เรีย",
+          "VN": "Bia Chắn"
+        },
+        "tags": [],
+        "templateId": "tatget_003_expand"
+      },
+      "tatget_004_armor": {
+        "abilityDescIds": [
+          "tatget_004_armor_ability"
+        ],
+        "description": {
+          "BR": "Um alvo especial feito de liga de alta resistência. Ele é resistente e bem recebido por arqueiros de imensa força.",
+          "CN": "很坚固的特殊靶标，用高强度合金制作，深受臂力强劲的射手喜爱。",
+          "DE": "Ein Spezialziel aus einer besonders starken Legierung. Es hält einiges aus und ist bei besonders starken Bogenschützen beliebt.",
+          "EN": "A special target made of high-strength alloy. It is tough, and well-received by archers with immense strength.",
+          "FR": "Une cible spéciale en alliage haute résistance. Elle est robuste et appréciée par les archers dotés d'une grande force.",
+          "ID": "Target spesial yang terbuat dari campuran berkekuatan tinggi. Target ini kokoh dan disukai oleh para pemanah yang kekuatannya luar biasa.",
+          "IT": "Un bersaglio speciale realizzato in lega ad alta resistenza. È resistente e molto apprezzato dagli arcieri che possiedono grande forza.",
+          "JP": "非常に頑丈な特殊な的。高強度の合金で作られており、腕力に優れた弓術の使い手に愛用されている。",
+          "KR": "높은 강도의 합금으로 제작된 매우 견고한 특수 표적입니다. 완력이 뛰어난 궁수들에게 특히 인기가 많습니다.",
+          "MX": "Un objetivo especial hecho de una aleación de alta resistencia. Es resistente y muy apreciado por los arqueros de fuerza extraordinaria.",
+          "RU": "Особая цель из высокопрочного сплава. Пользуется спросом у лучников, обладающих огромной силой.",
+          "TC": "很堅固的特殊標靶，用高強度合金製作，深受臂力強勁的射手喜愛。",
+          "TH": "เป้าหมาย​พิเศษ​ที่​ทำ​จาก​อัลลอย​ความแข็งแรง​สูง​ มัน​มี​ความทนทาน​สูง​ และ​เป็นที่ชื่นชอบ​ใน​หมู่​นัก​ธนู​ทรงพลัง",
+          "VN": "Một bia mục tiêu đặc biệt làm từ hợp kim cường độ cao. Bia rất cứng cáp và được các cung thủ sở hữu sức mạnh vượt trội ưa chuộng."
+        },
+        "displayType": 0,
+        "distributionIds": [],
+        "name": {
+          "BR": "Alvo Pesado",
+          "CN": "重型靶标",
+          "DE": "Schweres Ziel",
+          "EN": "Heavy Target",
+          "FR": "Cible lourde",
+          "ID": "Target Berat",
+          "IT": "Bersaglio pesante",
+          "JP": "的・重量型",
+          "KR": "중장형 표적",
+          "MX": "Objetivo pesado",
+          "RU": "Тяжелая цель",
+          "TC": "重型標靶",
+          "TH": "เป้าหมาย​หนัก",
+          "VN": "Bia Hạng Nặng"
+        },
+        "nickname": {
+          "BR": "Alvo Pesado",
+          "CN": "重型靶标",
+          "DE": "Schweres Ziel",
+          "EN": "Heavy Target",
+          "FR": "Cible lourde",
+          "ID": "Target Berat",
+          "IT": "Bersaglio pesante",
+          "JP": "的・重量型",
+          "KR": "중장형 표적",
+          "MX": "Objetivo pesado",
+          "RU": "Тяжелая цель",
+          "TC": "重型標靶",
+          "TH": "เป้าหมาย​หนัก",
+          "VN": "Bia Hạng Nặng"
+        },
+        "tags": [],
+        "templateId": "tatget_004_armor"
+      },
+      "tatget_005_shield": {
+        "abilityDescIds": [
+          "tatget_005_shield_ability"
+        ],
+        "description": {
+          "BR": "Um escudo de energia desenvolvido para alvos. Os mestres arqueiros gostam de colocar escudos em seus alvos para fazer com que eles durem mais alguns segundos.",
+          "CN": "为靶标设计的能量护盾，箭术大师的最爱，确保靶标在他们手下能多存活几秒。",
+          "DE": "Ein Energieschild für Ziele. Meister-Bogenschützen versehen ihre Ziele gerne mit Schilden, damit sie ein paar Sekunden länger durchhalten.",
+          "EN": "An energy shield designed for targets. Master archers enjoy shielding their targets to make them last a few seconds longer.",
+          "FR": "Un bouclier d'énergie conçu pour les cibles. Les archers expérimentés aiment protéger leurs cibles pour qu'elles résistent quelques secondes de plus.",
+          "ID": "Perisai energi yang dirancang untuk target. Para ahli panahan suka memasangkan perisai pada targetnya agar bisa bertahan beberapa detik lebih lama.",
+          "IT": "Uno scudo energetico progettato per i bersagli. Gli arcieri esperti amano proteggere i bersagli per farli durare qualche secondo in più.",
+          "JP": "的用に設計されたエネルギーシールド。弓術マスターの一押しで、それによって的の寿命が数秒延びた。",
+          "KR": "표적용으로 설계된 에너지 보호입니다. 궁술의 대가들이 특히 선호하며, 표적이 쏟아지는 화살 아래에서 몇 초라도 더 버틸 수 있게 해 줍니다.",
+          "MX": "Un escudo de Energía diseñado para los objetivos. A los Maestros arqueros les gusta proteger sus objetivos para que duren unos segundos más.",
+          "RU": "Энергетический щит для целей. Мастера-лучники любят защищать свои цели щитами, чтобы те продержались на несколько секунд дольше.",
+          "TC": "為標靶設計的能量護盾，箭術大師的最愛，確保標靶在他們手下能多存活幾秒。",
+          "TH": "โล่​พลังงาน​ที่​ออกแบบ​มา​เพื่อ​ใช้กับ​เป้าหมาย​ นัก​ธนู​มือฉมัง​ชื่นชอบ​การ​ใส่​โล่​ให้​เป้าหมาย​เพื่อให้​มัน​ทนทาน​ขึ้น​อีก​นิด",
+          "VN": "Khiên năng lượng được thiết kế cho bia mục tiêu. Các cung thủ thông thạo thích tạo khiên cho bia mục tiêu của mình để giúp chúng tồn tại thêm vài giây."
+        },
+        "displayType": 0,
+        "distributionIds": [],
+        "name": {
+          "BR": "Escudo de Energia",
+          "CN": "能量护盾",
+          "DE": "Energieschild",
+          "EN": "Energy Shield",
+          "FR": "Bouclier d'énergie",
+          "ID": "Perisai Energi",
+          "IT": "Scudo energetico",
+          "JP": "エネルギーシールド",
+          "KR": "에너지 보호",
+          "MX": "Escudo de Energía",
+          "RU": "Энергетический щит",
+          "TC": "能量護盾",
+          "TH": "โล่​พลังงาน",
+          "VN": "Khiên Năng Lượng"
+        },
+        "nickname": {
+          "BR": "Escudo de Energia",
+          "CN": "能量护盾",
+          "DE": "Energieschild",
+          "EN": "Energy Shield",
+          "FR": "Bouclier d'énergie",
+          "ID": "Perisai Energi",
+          "IT": "Scudo energetico",
+          "JP": "エネルギーシールド",
+          "KR": "에너지 보호",
+          "MX": "Escudo de Energía",
+          "RU": "Энергетический щит",
+          "TC": "能量護盾",
+          "TH": "โล่​พลังงาน",
+          "VN": "Khiên Năng Lượng"
+        },
+        "tags": [],
+        "templateId": "tatget_005_shield"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "eny_0007_mimicw": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0007_mimicw_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura que expele fluidos altamente corrosivos. Os Verminídeos geralmente vivem no subsolo. Eles dissolvem materiais metálicos com ácidos antes de consumi-los. Portanto, é aconselhável que caçadores de Verminídeos cuidem bem de suas armas.",
+            "CN": "能够喷吐强腐蚀性液体的野兽，大部分时间会潜于地下。它会以酸液腐蚀金属，并将之吞入腹中，因此与之交战需要保护好武器。",
+            "DE": "Eine Kreatur, die eine extrem korrosive Flüssigkeit ausspuckt. Nidwürmer leben für gewöhnlich unter der Erde. Sie lösen metallische Materialien durch Säure auf, um sie dann zu verschlingen. Nidwurm-Jäger müssen daher gut auf ihre Waffen aufpassen.",
+            "EN": "A creature that spews highly corrosive fluids. Nidwyrms usually live underground. They would dissolve metallic materials with acids before consuming them. Nidwyrm hunters are therefore advised to take proper care of their weapons.",
+            "FR": "Une créature qui crache des fluides très corrosifs. Les nidwyrms vivent généralement sous terre. Ils consomment des métaux qu'ils dissolvent grâce à leurs acides. Il est donc recommandé aux chasseurs de nidwyrms de prendre grand soin de leurs armes.",
+            "ID": "Makhluk yang bisa memuntahkan cairan yang sangat korosif. Nidwyrm biasanya hidup di bawah tanah. Mereka melarutkan material logam dengan asam sebelum memakannya. Para pemburu Nidwyrm sebaiknya menjaga senjata mereka dengan baik.",
+            "IT": "Una creatura che sputa fluidi altamente corrosivi. In genere, il drago delle sabbie vive sottoterra ed è solito dissolvere materiali metallici con l'acido, per poi consumarli. Infatti, ai cacciatori di Nidwyrm si consiglia di sottoporre le proprie armi a una regolare manutenzione.",
+            "JP": "強い腐食性の液体を吐き出す獣。ほとんどの時間を地中で過ごし、酸液で金属を腐食させては腹に収める。そのため、戦う際は武器の保護が不可欠である。",
+            "KR": "강한 부식성 액체를 뿜어내는 야수, 대부분의 시간을 지하에 숨어 지냅니다. 산성 액체로 금속을 녹인 다음 삼켜버리는 게 습관입니다. 교전할 때는 무기가 상하지 않도록 잘 보호하세요.",
+            "MX": "Una criatura que expulsa fluidos altamente corrosivos. Los nidwyrms suelen vivir bajo tierra. Disuelven materiales metálicos con ácidos antes de consumirlos. Por lo tanto, se recomienda a los cazadores de nidwyrms que cuiden bien sus armas.",
+            "RU": "Существо, извергающее едкие жидкости. Нидвурмы обычно живут под землей. Они растворяют металлы кислотами, прежде чем их поглотить. Поэтому охотникам на нидвурмов рекомендуется тщательно следить за своим оружием.",
+            "TC": "能夠噴吐強力腐蝕性液體的野獸，大部分時間會潛於地下。牠會以酸液腐蝕金屬，並將其吞入腹中，因此與牠們交戰時需要保護好武器。",
+            "TH": "สิ่งมีชีวิต​ที่​พ่น​ของเหลว​ที่​มีฤทธิ์​กัดกร่อน​อย่างรุนแรง​ โดยปกติ​แล้ว​ นิด​เ​วิ​ร์​ม​จะ​อาศัย​อยู่​ใต้ดิน​ พวก​มัน​จะ​ละลาย​วัสดุ​ที่​เป็น​โลหะ​ด้วย​กรด​ก่อนที่จะ​กิน​เข้าไป​ ดังนั้น​ นัก​ล่า​นิด​เ​วิ​ร์​ม​จึง​ได้รับ​คำแนะนำ​ให้​ดูแล​อาวุธ​ของ​ตน​อย่างเหมาะสม",
+            "VN": "Một sinh vật phun ra chất lỏng có sức ăn mòn cực mạnh. Hầu hết thời gian nó đều ở trong lòng đất. Nó thường phun axit để ăn mòn kim loại rồi mới nuốt chửng. Vậy nên, hãy bảo vệ vũ khí của mình trong lúc chiến đấu với chúng."
+          },
+          "displayType": 3,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv002",
+            "distribution_map01_lv003",
+            "distribution_map01_lv005",
+            "distribution_map01_lv006",
+            "distribution_map02_lv002",
+            "distribution_world_energy_point01"
+          ],
+          "name": {
+            "BR": "Verminídeo Escavador de Túneis",
+            "CN": "潜地虬兽",
+            "DE": "Tunnel-Nidwurm",
+            "EN": "Tunneling Nidwyrm",
+            "FR": "Nidwyrm tunnelier",
+            "ID": "Nidwyrm Penggali",
+            "IT": "Drago delle sabbie",
+            "JP": "潜地蛟獣",
+            "KR": "터널링 니드웜",
+            "MX": "Nidwyrm Subterráneo",
+            "RU": "Роющий нидвурм",
+            "TC": "潛地虯獸",
+            "TH": "นิด​เ​วิ​ร์​ม​ใต้พิภพ",
+            "VN": "Nidwyrm Đào Hầm"
+          },
+          "nickname": {
+            "BR": "Verminídeo Escavador de Túneis",
+            "CN": "潜地虬兽",
+            "DE": "Tunnel-Nidwurm",
+            "EN": "Tunneling Nidwyrm",
+            "FR": "Nidwyrm tunnelier",
+            "ID": "Nidwyrm Penggali",
+            "IT": "Drago delle sabbie",
+            "JP": "潜地蛟獣",
+            "KR": "터널링 니드웜",
+            "MX": "Nidwyrm Subterráneo",
+            "RU": "Роющий нидвурм",
+            "TC": "潛地虯獸",
+            "TH": "นิด​เ​วิ​ร์​ม​ใต้พิภพ",
+            "VN": "Nidwyrm Đào Hầm"
+          },
+          "tags": [],
+          "templateId": "eny_0007_mimicw"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0007_mimicw_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura que expele fluidos altamente corrosivos. Os Verminídeos geralmente vivem no subsolo. Eles dissolvem materiais metálicos com ácidos antes de consumi-los. Portanto, é aconselhável que caçadores de Verminídeos cuidem bem de suas armas.",
+            "CN": "能够喷吐强腐蚀性液体的野兽，大部分时间会潜于地下。它会以酸液腐蚀金属，并将之吞入腹中，因此与之交战需要保护好武器。",
+            "DE": "Eine Kreatur, die eine extrem korrosive Flüssigkeit ausspuckt. Nidwürmer leben für gewöhnlich unter der Erde. Sie lösen metallische Materialien durch Säure auf, um sie dann zu verschlingen. Nidwurm-Jäger müssen daher gut auf ihre Waffen aufpassen.",
+            "EN": "A creature that spews highly corrosive fluids. Nidwyrms usually live underground. They would dissolve metallic materials with acids before consuming them. Nidwyrm hunters are therefore advised to take proper care of their weapons.",
+            "FR": "Une créature qui crache des fluides très corrosifs. Les nidwyrms vivent généralement sous terre. Ils consomment des métaux qu'ils dissolvent grâce à leurs acides. Il est donc recommandé aux chasseurs de nidwyrms de prendre grand soin de leurs armes.",
+            "ID": "Makhluk yang bisa memuntahkan cairan yang sangat korosif. Nidwyrm biasanya hidup di bawah tanah. Mereka melarutkan material logam dengan asam sebelum memakannya. Para pemburu Nidwyrm sebaiknya menjaga senjata mereka dengan baik.",
+            "IT": "Una creatura che sputa fluidi altamente corrosivi. In genere, il drago delle sabbie vive sottoterra ed è solito dissolvere materiali metallici con l'acido, per poi consumarli. Infatti, ai cacciatori di Nidwyrm si consiglia di sottoporre le proprie armi a una regolare manutenzione.",
+            "JP": "強い腐食性の液体を吐き出す獣。ほとんどの時間を地中で過ごし、酸液で金属を腐食させては腹に収める。そのため、戦う際は武器の保護が不可欠である。",
+            "KR": "강한 부식성 액체를 뿜어내는 야수, 대부분의 시간을 지하에 숨어 지냅니다. 산성 액체로 금속을 녹인 다음 삼켜버리는 게 습관입니다. 교전할 때는 무기가 상하지 않도록 잘 보호하세요.",
+            "MX": "Una criatura que expulsa fluidos altamente corrosivos. Los nidwyrms suelen vivir bajo tierra. Disuelven materiales metálicos con ácidos antes de consumirlos. Por lo tanto, se recomienda a los cazadores de nidwyrms que cuiden bien sus armas.",
+            "RU": "Существо, извергающее едкие жидкости. Нидвурмы обычно живут под землей. Они растворяют металлы кислотами, прежде чем их поглотить. Поэтому охотникам на нидвурмов рекомендуется тщательно следить за своим оружием.",
+            "TC": "能夠噴吐強力腐蝕性液體的野獸，大部分時間會潛於地下。牠會以酸液腐蝕金屬，並將其吞入腹中，因此與牠們交戰時需要保護好武器。",
+            "TH": "สิ่งมีชีวิต​ที่​พ่น​ของเหลว​ที่​มีฤทธิ์​กัดกร่อน​อย่างรุนแรง​ โดยปกติ​แล้ว​ นิด​เ​วิ​ร์​ม​จะ​อาศัย​อยู่​ใต้ดิน​ พวก​มัน​จะ​ละลาย​วัสดุ​ที่​เป็น​โลหะ​ด้วย​กรด​ก่อนที่จะ​กิน​เข้าไป​ ดังนั้น​ นัก​ล่า​นิด​เ​วิ​ร์​ม​จึง​ได้รับ​คำแนะนำ​ให้​ดูแล​อาวุธ​ของ​ตน​อย่างเหมาะสม",
+            "VN": "Một sinh vật phun ra chất lỏng có sức ăn mòn cực mạnh. Hầu hết thời gian nó đều ở trong lòng đất. Nó thường phun axit để ăn mòn kim loại rồi mới nuốt chửng. Vậy nên, hãy bảo vệ vũ khí của mình trong lúc chiến đấu với chúng."
+          },
+          "displayType": 3,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv002",
+            "distribution_map01_lv003",
+            "distribution_map01_lv005",
+            "distribution_map01_lv006",
+            "distribution_map02_lv002",
+            "distribution_map02_lv009",
+            "distribution_world_energy_point01",
+            "distribution_world_energy_point12"
+          ],
+          "name": {
+            "BR": "Verminídeo Escavador de Túneis",
+            "CN": "潜地虬兽",
+            "DE": "Tunnel-Nidwurm",
+            "EN": "Tunneling Nidwyrm",
+            "FR": "Nidwyrm tunnelier",
+            "ID": "Nidwyrm Penggali",
+            "IT": "Drago delle sabbie",
+            "JP": "潜地蛟獣",
+            "KR": "터널링 니드웜",
+            "MX": "Nidwyrm Subterráneo",
+            "RU": "Роющий нидвурм",
+            "TC": "潛地虯獸",
+            "TH": "นิด​เ​วิ​ร์​ม​ใต้พิภพ",
+            "VN": "Nidwyrm Đào Hầm"
+          },
+          "nickname": {
+            "BR": "Verminídeo Escavador de Túneis",
+            "CN": "潜地虬兽",
+            "DE": "Tunnel-Nidwurm",
+            "EN": "Tunneling Nidwyrm",
+            "FR": "Nidwyrm tunnelier",
+            "ID": "Nidwyrm Penggali",
+            "IT": "Drago delle sabbie",
+            "JP": "潜地蛟獣",
+            "KR": "터널링 니드웜",
+            "MX": "Nidwyrm Subterráneo",
+            "RU": "Роющий нидвурм",
+            "TC": "潛地虯獸",
+            "TH": "นิด​เ​วิ​ร์​ม​ใต้พิภพ",
+            "VN": "Nidwyrm Đào Hầm"
+          },
+          "tags": [],
+          "templateId": "eny_0007_mimicw"
+        },
+        "changed": {
+          "distributionIds[6]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point01",
+            "newValue": "distribution_map02_lv009"
+          },
+          "distributionIds[7]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point01"
+          },
+          "distributionIds[8]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point12"
+          }
+        }
+      },
+      "eny_0072_slimeml": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0072_slimeml_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura selvagem infectada por Originium. A grande fera carrega múltiplos aglomerados de Originium e é capaz de dilacerar suas presas com seus membros frontais em forma de foice.",
+            "CN": "野生的被感染生物，背负大量源石晶簇，体型巨大。能够用镰刀般的前肢撕开猎物。",
+            "DE": "Eine wilde Kreatur, die mit Originium infiziert wurde. Das große Ungeheuer besitzt mehrere Originium-Cluster und kann seine Beute mit seinen sichelartigen vorderen Gliedmaßen in Stücke reißen.",
+            "EN": "A wild creature infected by Originium. The large beast carries multiple Originium clusters and is capable of ripping apart its prey with its sickle-like frontal limbs.",
+            "FR": "Une créature sauvage infectée par l'originium. Cette énorme bête transporte plusieurs blocs d'originium et peut déchiqueter ses proies avec ses membres antérieurs en forme de faucilles.",
+            "ID": "Makhluk liar yang terinfeksi Originium. Hewan besar ini ditumbuhi banyak gugus Originium dan mampu mencabik-cabik mangsanya dengan kaki depannya yang menyerupai sabit.",
+            "IT": "Una creatura selvatica infettata dall'Originium. Questa grande bestia presenta vari aggregati di Originium ed è in grado di squarciare la sua preda con i suoi arti frontali simili a falci.",
+            "JP": "野生の感染生物で、背に大量の源石クラスターを抱えた巨体を持つ。鎌のような前脚で獲物を切り裂くことができる。",
+            "KR": "야생의 감염된 생물, 등에 대량의 오리지늄 클러스터를 짊어지고 있으며 체구가 거대합니다. 낫처럼 생긴 앞다리로 사냥감을 찢어발길 수 있습니다.",
+            "MX": "Una criatura salvaje infectada por Originio. Esta gran bestia porta múltiples cúmulos de Originio y es capaz de despedazar a sus presas con sus extremidades frontales en forma de hoz.",
+            "RU": "Дикое существо, зараженное ориджинием. У этого крупного зверя несколько кластеров ориджиния. Он способен разрывать добычу серповидными передними конечностями.",
+            "TC": "野生的被感染生物，背上有著大量源石晶簇，體型巨大。能夠用鐮刀般的前肢撕開獵物。",
+            "TH": "สัตว์ป่า​ที่​ติดเชื้อ​ออ​ริ​จิ​เนียม​ สัตว์ร้าย​ขนาดใหญ่​มี​กลุ่ม​ออ​ริ​จิ​เนียม​หลาย​กลุ่ม​และ​มี​ความสามารถ​ใน​การฉีก​เหยื่อ​ออกจาก​กัน​ด้วย​ขา​หน้าที่​เป็น​รูป​เคียว",
+            "VN": "Một sinh vật hoang dã bị nhiễm Originium. Con thú này mang nhiều cụm Originium và có thể dùng cặp chi trước bén như lưỡi liềm xé toạc con mồi."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv005",
+            "distribution_map01_lv006",
+            "distribution_map01_lv007",
+            "distribution_world_energy_point01"
+          ],
+          "name": {
+            "BR": "Besta Garras de Foice Nativa",
+            "CN": "原生钳兽",
+            "DE": "Indigenes Zangenbiest",
+            "EN": "Indigenous Pincerbeast",
+            "FR": "Tenailleur indigène",
+            "ID": "Pincerbeast Asli",
+            "IT": "Bestia chelata indigena",
+            "JP": "原生鉗獣",
+            "KR": "원시 핀서비스트",
+            "MX": "Bestia pinza indígena",
+            "RU": "Автохтонный зверохват",
+            "TC": "原生鉗獸",
+            "TH": "พิน​เซอร์​บี​ส​ต์​พื้นเมือง",
+            "VN": "Thú Kẹp Bản Địa"
+          },
+          "nickname": {
+            "BR": "Besta Garras de Foice Nativa",
+            "CN": "原生钳兽",
+            "DE": "Indigenes Zangenbiest",
+            "EN": "Indigenous Pincerbeast",
+            "FR": "Tenailleur indigène",
+            "ID": "Pincerbeast Asli",
+            "IT": "Bestia chelata indigena",
+            "JP": "原生鉗獣",
+            "KR": "원시 핀서비스트",
+            "MX": "Bestia pinza indígena",
+            "RU": "Автохтонный зверохват",
+            "TC": "原生鉗獸",
+            "TH": "พิน​เซอร์​บี​ส​ต์​พื้นเมือง",
+            "VN": "Thú Kẹp Bản Địa"
+          },
+          "tags": [],
+          "templateId": "eny_0072_slimeml"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0072_slimeml_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura selvagem infectada por Originium. A grande fera carrega múltiplos aglomerados de Originium e é capaz de dilacerar suas presas com seus membros frontais em forma de foice.",
+            "CN": "野生的被感染生物，背负大量源石晶簇，体型巨大。能够用镰刀般的前肢撕开猎物。",
+            "DE": "Eine wilde Kreatur, die mit Originium infiziert wurde. Das große Ungeheuer besitzt mehrere Originium-Cluster und kann seine Beute mit seinen sichelartigen vorderen Gliedmaßen in Stücke reißen.",
+            "EN": "A wild creature infected by Originium. The large beast carries multiple Originium clusters and is capable of ripping apart its prey with its sickle-like frontal limbs.",
+            "FR": "Une créature sauvage infectée par l'originium. Cette énorme bête transporte plusieurs blocs d'originium et peut déchiqueter ses proies avec ses membres antérieurs en forme de faucilles.",
+            "ID": "Makhluk liar yang terinfeksi Originium. Hewan besar ini ditumbuhi banyak gugus Originium dan mampu mencabik-cabik mangsanya dengan kaki depannya yang menyerupai sabit.",
+            "IT": "Una creatura selvatica infettata dall'Originium. Questa grande bestia presenta vari aggregati di Originium ed è in grado di squarciare la sua preda con i suoi arti frontali simili a falci.",
+            "JP": "野生の感染生物で、背に大量の源石クラスターを抱えた巨体を持つ。鎌のような前脚で獲物を切り裂くことができる。",
+            "KR": "야생의 감염된 생물, 등에 대량의 오리지늄 클러스터를 짊어지고 있으며 체구가 거대합니다. 낫처럼 생긴 앞다리로 사냥감을 찢어발길 수 있습니다.",
+            "MX": "Una criatura salvaje infectada por Originio. Esta gran bestia porta múltiples cúmulos de Originio y es capaz de despedazar a sus presas con sus extremidades frontales en forma de hoz.",
+            "RU": "Дикое существо, зараженное ориджинием. У этого крупного зверя несколько кластеров ориджиния. Он способен разрывать добычу серповидными передними конечностями.",
+            "TC": "野生的被感染生物，背上有著大量源石晶簇，體型巨大。能夠用鐮刀般的前肢撕開獵物。",
+            "TH": "สัตว์ป่า​ที่​ติดเชื้อ​ออ​ริ​จิ​เนียม​ สัตว์ร้าย​ขนาดใหญ่​มี​กลุ่ม​ออ​ริ​จิ​เนียม​หลาย​กลุ่ม​และ​มี​ความสามารถ​ใน​การฉีก​เหยื่อ​ออกจาก​กัน​ด้วย​ขา​หน้าที่​เป็น​รูป​เคียว",
+            "VN": "Một sinh vật hoang dã bị nhiễm Originium. Con thú này mang nhiều cụm Originium và có thể dùng cặp chi trước bén như lưỡi liềm xé toạc con mồi."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv005",
+            "distribution_map01_lv006",
+            "distribution_map01_lv007",
+            "distribution_map02_lv009",
+            "distribution_world_energy_point01"
+          ],
+          "name": {
+            "BR": "Besta Garras de Foice Nativa",
+            "CN": "原生钳兽",
+            "DE": "Indigenes Zangenbiest",
+            "EN": "Indigenous Pincerbeast",
+            "FR": "Tenailleur indigène",
+            "ID": "Pincerbeast Asli",
+            "IT": "Bestia chelata indigena",
+            "JP": "原生鉗獣",
+            "KR": "원시 핀서비스트",
+            "MX": "Bestia pinza indígena",
+            "RU": "Автохтонный зверохват",
+            "TC": "原生鉗獸",
+            "TH": "พิน​เซอร์​บี​ส​ต์​พื้นเมือง",
+            "VN": "Thú Kẹp Bản Địa"
+          },
+          "nickname": {
+            "BR": "Besta Garras de Foice Nativa",
+            "CN": "原生钳兽",
+            "DE": "Indigenes Zangenbiest",
+            "EN": "Indigenous Pincerbeast",
+            "FR": "Tenailleur indigène",
+            "ID": "Pincerbeast Asli",
+            "IT": "Bestia chelata indigena",
+            "JP": "原生鉗獣",
+            "KR": "원시 핀서비스트",
+            "MX": "Bestia pinza indígena",
+            "RU": "Автохтонный зверохват",
+            "TC": "原生鉗獸",
+            "TH": "พิน​เซอร์​บี​ส​ต์​พื้นเมือง",
+            "VN": "Thú Kẹp Bản Địa"
+          },
+          "tags": [],
+          "templateId": "eny_0072_slimeml"
+        },
+        "changed": {
+          "distributionIds[4]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point01",
+            "newValue": "distribution_map02_lv009"
+          },
+          "distributionIds[5]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point01"
+          }
+        }
+      },
+      "eny_0073_slimerg": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0073_slimerg_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura selvagem infectada por Originium. Esta lesma secreta uma substância ácida e, quando ameaçada, tenta intimidar o inimigo sacudindo-se violentamente e lançando fragmentos do aglomerado de Originium que carrega nas costas.",
+            "CN": "野生的被感染生物，能分泌酸性物质。在受到威胁时会剧烈抖动自身，将背负的源石晶簇抛射出去，恐吓敌人。",
+            "DE": "Eine wilde Kreatur, die mit Originium infiziert wurde. Die Schnecke sondert ein ätzendes Sekret ab. Wenn sie bedroht wird, versucht sie, den Angreifer einzuschüchtern, indem sie sich heftig schüttelt und Splitter aus dem Originium-Cluster auf ihrem Rücken ausfährt.",
+            "EN": "A wild creature infected by Originium. This slug secretes an acidic material. When threatened, it will attempt to intimidate its foe by shaking violently and projecting shards from the Originium cluster carried on its back.",
+            "FR": "Une créature sauvage infectée par l'originium. Cette limace sécrète un acide et, lorsqu'elle est menacée, tentera d'intimider son adversaire en se secouant violemment et en projetant des éclats du bloc d'originium qu'elle transporte sur son dos.",
+            "ID": "Makhluk liar yang terinfeksi Originium. Siput ini mengeluarkan cairan asam. Saat terancam, makhluk ini akan mencoba mengusir musuhnya dengan mengguncang-guncangkan tubuhnya sekeras mungkin dan melontarkan pecahan gugus Originium yang ada di punggungnya.",
+            "IT": "Una creatura selvatica infettata dall'Originium. Questa lumaca secerne un materiale acido. Quando viene minacciata, cerca di intimidire i nemici tremando con veemenza e scagliando frammenti degli aggregati di Originium presenti sulla sua schiena.",
+            "JP": "野生の感染生物で、酸性物質を分泌する能力を持つ。脅威を感じると激しく体を震わせ、背中の源石クラスターを射出して敵を威嚇する。",
+            "KR": "야생의 감염된 생물, 산성 물질을 분비할 수 있습니다. 위협받으면 몸을 격렬하게 흔들어, 등에 짊어지고 있던 오리지늄 클러스터를 날려 적을 위협합니다.",
+            "MX": "Una criatura salvaje infectada por Originio. Esta babosa segrega una sustancia ácida. Al sentirse amenazada, intentará intimidar a su enemigo sacudiéndose violentamente y proyectando fragmentos del cúmulo de Originio que lleva en su lomo.",
+            "RU": "Дикое существо, зараженное ориджинием. Этот слизень выделяет едкое вещество. Почувствовав угрозу, он пытается запугать врага, яростно встряхиваясь и разбрасывая осколки из кластера ориджиния на спине.",
+            "TC": "野生的被感染生物，能分泌酸性物質。在受到威脅時會劇烈抖動自身，將背上的源石晶簇拋射出去，恐嚇敵人。",
+            "TH": "สัตว์ป่า​ที่​ติดเชื้อ​ออ​ริ​จิ​เนียม​ ทาก​ตัว​นี้​จะ​ขับ​สาร​ที่​มีฤทธิ์​เป็น​กรด​ออกมา​ เมื่อ​ถูก​คุกคาม​ มัน​จะ​พยายาม​ข่มขู่​ศัตรู​ด้วย​การสั่น​อย่างรุนแรง​และ​ยิง​เศษ​ซาก​จาก​กลุ่ม​ออ​ริ​จิ​เนียม​ที่เก็บ​อยู่​บน​หลัง​ของ​มัน",
+            "VN": "Một sinh vật hoang dã bị nhiễm Originium, có thể tiết ra axit mạnh. Khi bị đe dọa, nó sẽ cố gắng uy hiếp kẻ địch bằng cách rung lắc dữ dội và bắn các mảnh vỡ cụm Originium trên lưng."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv005",
+            "distribution_map01_lv006",
+            "distribution_map01_lv007",
+            "distribution_world_energy_point01"
+          ],
+          "name": {
+            "BR": "Lesma do Originium Ácida",
+            "CN": "酸液源石虫",
+            "DE": "Säure-Originium-Schnecke",
+            "EN": "Acid Originium Slug",
+            "FR": "Limace d'originium acide",
+            "ID": "Siput Originium Asam",
+            "IT": "Origilumaca acida",
+            "JP": "酸液オリジムシ",
+            "KR": "산성원석충",
+            "MX": "Babosa de Originio ácida",
+            "RU": "Едкий ориджиниевый слизень",
+            "TC": "酸液源石蟲",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม",
+            "VN": "Sên Originium Axit"
+          },
+          "nickname": {
+            "BR": "Lesma do Originium Ácida",
+            "CN": "酸液源石虫",
+            "DE": "Säure-Originium-Schnecke",
+            "EN": "Acid Originium Slug",
+            "FR": "Limace d'originium acide",
+            "ID": "Siput Originium Asam",
+            "IT": "Origilumaca acida",
+            "JP": "酸液オリジムシ",
+            "KR": "산성원석충",
+            "MX": "Babosa de Originio ácida",
+            "RU": "Едкий ориджиниевый слизень",
+            "TC": "酸液源石蟲",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม",
+            "VN": "Sên Originium Axit"
+          },
+          "tags": [],
+          "templateId": "eny_0073_slimerg"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0073_slimerg_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura selvagem infectada por Originium. Esta lesma secreta uma substância ácida e, quando ameaçada, tenta intimidar o inimigo sacudindo-se violentamente e lançando fragmentos do aglomerado de Originium que carrega nas costas.",
+            "CN": "野生的被感染生物，能分泌酸性物质。在受到威胁时会剧烈抖动自身，将背负的源石晶簇抛射出去，恐吓敌人。",
+            "DE": "Eine wilde Kreatur, die mit Originium infiziert wurde. Die Schnecke sondert ein ätzendes Sekret ab. Wenn sie bedroht wird, versucht sie, den Angreifer einzuschüchtern, indem sie sich heftig schüttelt und Splitter aus dem Originium-Cluster auf ihrem Rücken ausfährt.",
+            "EN": "A wild creature infected by Originium. This slug secretes an acidic material. When threatened, it will attempt to intimidate its foe by shaking violently and projecting shards from the Originium cluster carried on its back.",
+            "FR": "Une créature sauvage infectée par l'originium. Cette limace sécrète un acide et, lorsqu'elle est menacée, tentera d'intimider son adversaire en se secouant violemment et en projetant des éclats du bloc d'originium qu'elle transporte sur son dos.",
+            "ID": "Makhluk liar yang terinfeksi Originium. Siput ini mengeluarkan cairan asam. Saat terancam, makhluk ini akan mencoba mengusir musuhnya dengan mengguncang-guncangkan tubuhnya sekeras mungkin dan melontarkan pecahan gugus Originium yang ada di punggungnya.",
+            "IT": "Una creatura selvatica infettata dall'Originium. Questa lumaca secerne un materiale acido. Quando viene minacciata, cerca di intimidire i nemici tremando con veemenza e scagliando frammenti degli aggregati di Originium presenti sulla sua schiena.",
+            "JP": "野生の感染生物で、酸性物質を分泌する能力を持つ。脅威を感じると激しく体を震わせ、背中の源石クラスターを射出して敵を威嚇する。",
+            "KR": "야생의 감염된 생물, 산성 물질을 분비할 수 있습니다. 위협받으면 몸을 격렬하게 흔들어, 등에 짊어지고 있던 오리지늄 클러스터를 날려 적을 위협합니다.",
+            "MX": "Una criatura salvaje infectada por Originio. Esta babosa segrega una sustancia ácida. Al sentirse amenazada, intentará intimidar a su enemigo sacudiéndose violentamente y proyectando fragmentos del cúmulo de Originio que lleva en su lomo.",
+            "RU": "Дикое существо, зараженное ориджинием. Этот слизень выделяет едкое вещество. Почувствовав угрозу, он пытается запугать врага, яростно встряхиваясь и разбрасывая осколки из кластера ориджиния на спине.",
+            "TC": "野生的被感染生物，能分泌酸性物質。在受到威脅時會劇烈抖動自身，將背上的源石晶簇拋射出去，恐嚇敵人。",
+            "TH": "สัตว์ป่า​ที่​ติดเชื้อ​ออ​ริ​จิ​เนียม​ ทาก​ตัว​นี้​จะ​ขับ​สาร​ที่​มีฤทธิ์​เป็น​กรด​ออกมา​ เมื่อ​ถูก​คุกคาม​ มัน​จะ​พยายาม​ข่มขู่​ศัตรู​ด้วย​การสั่น​อย่างรุนแรง​และ​ยิง​เศษ​ซาก​จาก​กลุ่ม​ออ​ริ​จิ​เนียม​ที่เก็บ​อยู่​บน​หลัง​ของ​มัน",
+            "VN": "Một sinh vật hoang dã bị nhiễm Originium, có thể tiết ra axit mạnh. Khi bị đe dọa, nó sẽ cố gắng uy hiếp kẻ địch bằng cách rung lắc dữ dội và bắn các mảnh vỡ cụm Originium trên lưng."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv001",
+            "distribution_map01_lv005",
+            "distribution_map01_lv006",
+            "distribution_map01_lv007",
+            "distribution_map02_lv009",
+            "distribution_world_energy_point01",
+            "distribution_world_energy_point12"
+          ],
+          "name": {
+            "BR": "Lesma do Originium Ácida",
+            "CN": "酸液源石虫",
+            "DE": "Säure-Originium-Schnecke",
+            "EN": "Acid Originium Slug",
+            "FR": "Limace d'originium acide",
+            "ID": "Siput Originium Asam",
+            "IT": "Origilumaca acida",
+            "JP": "酸液オリジムシ",
+            "KR": "산성원석충",
+            "MX": "Babosa de Originio ácida",
+            "RU": "Едкий ориджиниевый слизень",
+            "TC": "酸液源石蟲",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม",
+            "VN": "Sên Originium Axit"
+          },
+          "nickname": {
+            "BR": "Lesma do Originium Ácida",
+            "CN": "酸液源石虫",
+            "DE": "Säure-Originium-Schnecke",
+            "EN": "Acid Originium Slug",
+            "FR": "Limace d'originium acide",
+            "ID": "Siput Originium Asam",
+            "IT": "Origilumaca acida",
+            "JP": "酸液オリジムシ",
+            "KR": "산성원석충",
+            "MX": "Babosa de Originio ácida",
+            "RU": "Едкий ориджиниевый слизень",
+            "TC": "酸液源石蟲",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม",
+            "VN": "Sên Originium Axit"
+          },
+          "tags": [],
+          "templateId": "eny_0073_slimerg"
+        },
+        "changed": {
+          "distributionIds[4]": {
+            "type": "value",
+            "oldValue": "distribution_world_energy_point01",
+            "newValue": "distribution_map02_lv009"
+          },
+          "distributionIds[5]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point01"
+          },
+          "distributionIds[6]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point12"
+          }
+        }
+      },
+      "eny_0100_slimerg2": {
+        "oldValue": {
+          "abilityDescIds": [
+            "eny_0100_slimerg2_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura selvagem infectada por Originium. Esta lesma do Originium ácida é mais perigosa do que sua contraparte comum. O aglomerado de Originium em suas costas está atingindo níveis mais altos de atividade, tornando a criatura cada vez mais agressiva.",
+            "CN": "野生的被感染生物，比一般酸液源石虫更具有威胁性。其背负的源石晶簇正逐渐活性化，使其攻击性更强。",
+            "DE": "Eine wilde Kreatur, die mit Originium infiziert wurde. Diese Säure-Originium-Schnecke ist gefährlicher als die gewöhnliche Art. Der Originium-Cluster auf ihrem Rücken weist eine höhere Aktivität auf und macht die Kreatur zunehmend aggressiv.",
+            "EN": "A wild creature infected by Originium. This acid Originium slug is more hazardous than its ordinary part. The Originium cluster on its back is gaining higher levels of activity and makes the creature increasingly aggressive.",
+            "FR": "Une créature sauvage infectée par l'originium. La limace d'originium acide est plus dangereuse que sa version d'origine. Les niveaux d'activité du bloc d'originium qu'elle porte sur son dos sont encore plus élevés et la rendent extrêmement agressive.",
+            "ID": "Makhluk liar yang terinfeksi Originium. Siput Originium asam ini lebih berbahaya dibandingkan jenis biasa. Gugus Originium di punggungnya punya tingkat aktivitas yang tinggi sehingga makhluk ini lebih agresif.",
+            "IT": "Una creatura selvatica infettata dall'Originium. L'origilumaca acida è più pericolosa della sua controparte normale: l'aggregato di Originium sulla sua schiena presenta livelli di attività elevati e rende la creatura sempre più aggressiva.",
+            "JP": "野生の感染生物で、通常の酸液オリジムシよりも脅威度が高い。背負っている源石クラスターが徐々に活性化しており、その攻撃性を一層強めている。",
+            "KR": "야생의 감염된 생물, 일반적인 산성원석충보다 더 위협적입니다. 등에 짊어진 오리지늄 클러스터가 활성화될수록 공격성이 더 강해집니다.",
+            "MX": "Una criatura salvaje infectada por Originio. Esta babosa de Originio ácida es más peligrosa que su versión común. El cúmulo de Originio en su lomo va aumentando su actividad, lo que la vuelve cada vez más agresiva.",
+            "RU": "Дикое существо, зараженное ориджинием. Этот едкий ориджиниевый слизень опаснее своих обычных сородичей. Кластер ориджиния у него на спине становится активнее, делая его все агрессивнее.",
+            "TC": "野生的被感染生物，比一般酸液源石蟲更具有威脅性。其背上的源石晶簇正逐漸活性化，使其攻擊性更強。",
+            "TH": "สัตว์ป่า​ที่​ติดเชื้อ​ออ​ริ​จิ​เนียม​ ทาก​กรด​ออ​ริ​จิ​เนียม​ตัว​นี้​เป็นอันตราย​มากกว่า​ชนิด​ทั่วไป​ กลุ่ม​ออ​ริ​จิ​เนียม​บน​หลัง​ของ​มัน​กำลัง​แสดง​การ​ทำปฏิกิริยา​ใน​ระดับ​ที่สูง​ขึ้น​ และ​ทำให้​สิ่งมีชีวิต​นี้​ดุร้าย​มากยิ่งขึ้น",
+            "VN": "Một sinh vật hoang dã bị Originium lây nhiễm. Loài sên Originium axit này nguy hiểm hơn nhiều so với dạng thông thường. Cụm Originium trên lưng nó ngày càng hoạt động mạnh hơn, khiến sinh vật trở nên hung dữ hơn."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv005",
+            "distribution_world_energy_point01"
+          ],
+          "name": {
+            "BR": "Lesma do Originium Ácida α",
+            "CN": "酸液源石虫·α",
+            "DE": "Säure-Originium-Schnecke α",
+            "EN": "Acid Originium Slug α",
+            "FR": "Limace d'originium acide α",
+            "ID": "Siput Originium Asam α",
+            "IT": "Origilumaca acida α",
+            "JP": "酸液オリジムシα",
+            "KR": "산성원석충 · α",
+            "MX": "Babosa de Originio ácida α",
+            "RU": "Едкий ориджиниевый слизень α",
+            "TC": "酸液源石蟲·α",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม​ α",
+            "VN": "Sên Originium Axit α"
+          },
+          "nickname": {
+            "BR": "Lesma do Originium Ácida α",
+            "CN": "酸液源石虫·α",
+            "DE": "Säure-Originium-Schnecke α",
+            "EN": "Acid Originium Slug α",
+            "FR": "Limace d'originium acide α",
+            "ID": "Siput Originium Asam α",
+            "IT": "Origilumaca acida α",
+            "JP": "酸液オリジムシα",
+            "KR": "산성원석충 · α",
+            "MX": "Babosa de Originio ácida α",
+            "RU": "Едкий ориджиниевый слизень α",
+            "TC": "酸液源石蟲·α",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม​ α",
+            "VN": "Sên Originium Axit α"
+          },
+          "tags": [],
+          "templateId": "eny_0100_slimerg2"
+        },
+        "newValue": {
+          "abilityDescIds": [
+            "eny_0100_slimerg2_ability_1"
+          ],
+          "description": {
+            "BR": "Uma criatura selvagem infectada por Originium. Esta lesma do Originium ácida é mais perigosa do que sua contraparte comum. O aglomerado de Originium em suas costas está atingindo níveis mais altos de atividade, tornando a criatura cada vez mais agressiva.",
+            "CN": "野生的被感染生物，比一般酸液源石虫更具有威胁性。其背负的源石晶簇正逐渐活性化，使其攻击性更强。",
+            "DE": "Eine wilde Kreatur, die mit Originium infiziert wurde. Diese Säure-Originium-Schnecke ist gefährlicher als die gewöhnliche Art. Der Originium-Cluster auf ihrem Rücken weist eine höhere Aktivität auf und macht die Kreatur zunehmend aggressiv.",
+            "EN": "A wild creature infected by Originium. This acid Originium slug is more hazardous than its ordinary part. The Originium cluster on its back is gaining higher levels of activity and makes the creature increasingly aggressive.",
+            "FR": "Une créature sauvage infectée par l'originium. La limace d'originium acide est plus dangereuse que sa version d'origine. Les niveaux d'activité du bloc d'originium qu'elle porte sur son dos sont encore plus élevés et la rendent extrêmement agressive.",
+            "ID": "Makhluk liar yang terinfeksi Originium. Siput Originium asam ini lebih berbahaya dibandingkan jenis biasa. Gugus Originium di punggungnya punya tingkat aktivitas yang tinggi sehingga makhluk ini lebih agresif.",
+            "IT": "Una creatura selvatica infettata dall'Originium. L'origilumaca acida è più pericolosa della sua controparte normale: l'aggregato di Originium sulla sua schiena presenta livelli di attività elevati e rende la creatura sempre più aggressiva.",
+            "JP": "野生の感染生物で、通常の酸液オリジムシよりも脅威度が高い。背負っている源石クラスターが徐々に活性化しており、その攻撃性を一層強めている。",
+            "KR": "야생의 감염된 생물, 일반적인 산성원석충보다 더 위협적입니다. 등에 짊어진 오리지늄 클러스터가 활성화될수록 공격성이 더 강해집니다.",
+            "MX": "Una criatura salvaje infectada por Originio. Esta babosa de Originio ácida es más peligrosa que su versión común. El cúmulo de Originio en su lomo va aumentando su actividad, lo que la vuelve cada vez más agresiva.",
+            "RU": "Дикое существо, зараженное ориджинием. Этот едкий ориджиниевый слизень опаснее своих обычных сородичей. Кластер ориджиния у него на спине становится активнее, делая его все агрессивнее.",
+            "TC": "野生的被感染生物，比一般酸液源石蟲更具有威脅性。其背上的源石晶簇正逐漸活性化，使其攻擊性更強。",
+            "TH": "สัตว์ป่า​ที่​ติดเชื้อ​ออ​ริ​จิ​เนียม​ ทาก​กรด​ออ​ริ​จิ​เนียม​ตัว​นี้​เป็นอันตราย​มากกว่า​ชนิด​ทั่วไป​ กลุ่ม​ออ​ริ​จิ​เนียม​บน​หลัง​ของ​มัน​กำลัง​แสดง​การ​ทำปฏิกิริยา​ใน​ระดับ​ที่สูง​ขึ้น​ และ​ทำให้​สิ่งมีชีวิต​นี้​ดุร้าย​มากยิ่งขึ้น",
+            "VN": "Một sinh vật hoang dã bị Originium lây nhiễm. Loài sên Originium axit này nguy hiểm hơn nhiều so với dạng thông thường. Cụm Originium trên lưng nó ngày càng hoạt động mạnh hơn, khiến sinh vật trở nên hung dữ hơn."
+          },
+          "displayType": 0,
+          "distributionIds": [
+            "distribution_map01_lv005",
+            "distribution_world_energy_point01",
+            "distribution_world_energy_point12"
+          ],
+          "name": {
+            "BR": "Lesma do Originium Ácida α",
+            "CN": "酸液源石虫·α",
+            "DE": "Säure-Originium-Schnecke α",
+            "EN": "Acid Originium Slug α",
+            "FR": "Limace d'originium acide α",
+            "ID": "Siput Originium Asam α",
+            "IT": "Origilumaca acida α",
+            "JP": "酸液オリジムシα",
+            "KR": "산성원석충 · α",
+            "MX": "Babosa de Originio ácida α",
+            "RU": "Едкий ориджиниевый слизень α",
+            "TC": "酸液源石蟲·α",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม​ α",
+            "VN": "Sên Originium Axit α"
+          },
+          "nickname": {
+            "BR": "Lesma do Originium Ácida α",
+            "CN": "酸液源石虫·α",
+            "DE": "Säure-Originium-Schnecke α",
+            "EN": "Acid Originium Slug α",
+            "FR": "Limace d'originium acide α",
+            "ID": "Siput Originium Asam α",
+            "IT": "Origilumaca acida α",
+            "JP": "酸液オリジムシα",
+            "KR": "산성원석충 · α",
+            "MX": "Babosa de Originio ácida α",
+            "RU": "Едкий ориджиниевый слизень α",
+            "TC": "酸液源石蟲·α",
+            "TH": "ทาก​กรด​ออ​ริ​จิ​เนียม​ α",
+            "VN": "Sên Originium Axit α"
+          },
+          "tags": [],
+          "templateId": "eny_0100_slimerg2"
+        },
+        "changed": {
+          "distributionIds[2]": {
+            "type": "value",
+            "newValue": "distribution_world_energy_point12"
+          }
+        }
+      }
+    }
+  }
+}

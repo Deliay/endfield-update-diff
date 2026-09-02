@@ -1,0 +1,309 @@
+{
+  "tableName": "ForesightGrowthConfigTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 11,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "Collect": {
+        "arr": [],
+        "key": "Collect",
+        "name": {
+          "BR": "Itens Coletáveis Raros",
+          "CN": "稀有采集物",
+          "DE": "Seltene Sammelobjekte",
+          "EN": "Rare Gatherables",
+          "FR": "Objets récoltables rares",
+          "ID": "Item Langka yang Bisa Dikumpulkan",
+          "IT": "Risorse rare da raccogliere",
+          "JP": "希少採集物",
+          "KR": "희귀 채집물",
+          "MX": "Recolectables raros",
+          "RU": "Редкие трофеи",
+          "TC": "稀有採集物",
+          "TH": "วัตถุดิบ​เก็บ​ได้​ระดับ​หายาก",
+          "VN": "Vật Liệu Thu Thập Hiếm"
+        },
+        "stringList": [
+          "item_plant_mushroom_1_1",
+          "item_plant_mushroom_1_2",
+          "item_plant_mushroom_1_3",
+          "item_plant_mushroom_2_1",
+          "item_plant_mushroom_2_2",
+          "item_plant_mushroom_2_3"
+        ],
+        "value": 4
+      },
+      "Exp": {
+        "arr": [],
+        "key": "Exp",
+        "name": {
+          "BR": "Nivelamento do Operador",
+          "CN": "干员升级素材",
+          "DE": "Operator-Levelerhöhung",
+          "EN": "Operator Leveling",
+          "FR": "Gain de niveau d'opérateur",
+          "ID": "Peningkatan Level Operator",
+          "IT": "Aumento di livello operatore",
+          "JP": "レベルアップ素材",
+          "KR": "오퍼레이터 업그레이드 재료",
+          "MX": "Subir nivel del Operador",
+          "RU": "Повышение уровня оперативника",
+          "TC": "幹員升級材料",
+          "TH": "การ​เพิ่ม​เล​เวล​โอเปอเรเตอร์",
+          "VN": "Thăng Cấp Cán Viên"
+        },
+        "stringList": [
+          "item_expcard_stage1_low",
+          "item_expcard_stage1_mid",
+          "item_expcard_stage1_high",
+          "item_expcard_stage2_low",
+          "item_expcard_stage2_high",
+          "item_weapon_expcard_low",
+          "item_weapon_expcard_mid",
+          "item_weapon_expcard_high"
+        ],
+        "value": 2
+      },
+      "ObtainSetting": {
+        "arr": [],
+        "key": "ObtainSetting",
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "stringList": [
+          "item_obtain_activity",
+          "Assets/Beyond/DynamicAssets/Gameplay/UI/Sprites/CharInfo/ObtainIcon/icon_obtain_activity",
+          "item_obtain_bp",
+          "Assets/Beyond/DynamicAssets/Gameplay/UI/Sprites/CharInfo/ObtainIcon/icon_obtain_battlepass",
+          "item_obtain_shop_yellowticket",
+          "Assets/Beyond/DynamicAssets/Gameplay/UI/Sprites/CharInfo/ObtainIcon/icon_obtain_shop"
+        ],
+        "value": -1
+      },
+      "Precious": {
+        "arr": [],
+        "key": "Precious",
+        "name": {
+          "BR": "Materiais de Progressão Raros",
+          "CN": "珍贵培养素材",
+          "DE": "Seltene Fortschrittsmaterialien",
+          "EN": "Rare Progression Materials",
+          "FR": "Matériaux de progression rares",
+          "ID": "Material Progresi Langka",
+          "IT": "Materiali di sviluppo rari",
+          "JP": "貴重育成強化素材",
+          "KR": "희귀 육성 재료",
+          "MX": "Materiales de progresión raros",
+          "RU": "Редкие материалы для развития",
+          "TC": "珍貴培養材料",
+          "TH": "วัสดุ​พัฒนา​หายาก",
+          "VN": "Vật Liệu Thăng Cấp Hiếm"
+        },
+        "stringList": [
+          "item_char_skill_specialize_1",
+          "item_char_skill_specialize_2",
+          "item_char_skill_specialize_3",
+          "item_char_skill_specialize_4",
+          "item_char_skill_specialize_5"
+        ],
+        "value": 5
+      },
+      "GemLineTextMaxNum_M": {
+        "arr": [],
+        "key": "GemLineTextMaxNum_M",
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "stringList": [],
+        "value": 50
+      },
+      "GemLineTextMaxNum_PC": {
+        "arr": [],
+        "key": "GemLineTextMaxNum_PC",
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "stringList": [],
+        "value": 75
+      },
+      "Gold": {
+        "arr": [],
+        "key": "Gold",
+        "name": {
+          "BR": "T-Creds",
+          "CN": "折金票",
+          "DE": "T-Kreditscheine",
+          "EN": "T-Creds",
+          "FR": "Crédits T",
+          "ID": "T-Cred",
+          "IT": "Crediti-T",
+          "JP": "折金券",
+          "KR": "탈로시안 화폐",
+          "MX": "T-Creds",
+          "RU": "Т-креды",
+          "TC": "折金票",
+          "TH": "ที​-​เครดิต",
+          "VN": "T-Cred"
+        },
+        "stringList": [
+          "item_gold"
+        ],
+        "value": 1
+      },
+      "Nurture": {
+        "arr": [],
+        "key": "Nurture",
+        "name": {
+          "BR": "Promoção do Operador",
+          "CN": "干员突破素材",
+          "DE": "Operator-Beförderung",
+          "EN": "Operator Promotion",
+          "FR": "Promotion d'opérateur",
+          "ID": "Promosi Operator",
+          "IT": "Promozione operatore",
+          "JP": "昇進素材",
+          "KR": "오퍼레이터 돌파 재료",
+          "MX": "Ascenso de operador",
+          "RU": "Повышение оперативника",
+          "TC": "幹員突破材料",
+          "TH": "การ​เลื่อนขั้น​โอเปอเรเตอร์",
+          "VN": "Thăng Bậc Cán Viên"
+        },
+        "stringList": [
+          "item_char_break_stage_1_2",
+          "item_char_break_stage_3_4",
+          "item_char_skill_level_1_6",
+          "item_char_skill_level_7_12",
+          "item_weapon_break_low",
+          "item_weapon_break_high"
+        ],
+        "value": 3
+      },
+      "PreciousItem": {
+        "arr": [],
+        "key": "PreciousItem",
+        "name": {
+          "BR": "Itens de Valor",
+          "CN": "珍贵物品",
+          "DE": "Wertgegenstände",
+          "EN": "Valuables",
+          "FR": "Objets de valeur",
+          "ID": "Barang Berharga",
+          "IT": "Risorse chiave",
+          "JP": "レアアイテム",
+          "KR": "희귀 아이템",
+          "MX": "Objetos de valor",
+          "RU": "Ценности",
+          "TC": "珍貴物品",
+          "TH": "ของมีค่า",
+          "VN": "Vật Phẩm Giá Trị"
+        },
+        "stringList": [
+          "item_char_skill_crown"
+        ],
+        "value": 6
+      },
+      "StageId2ShowIcon": {
+        "arr": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "key": "StageId2ShowIcon",
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "stringList": [
+          "Easy",
+          "Middle",
+          "High",
+          "Perfect"
+        ],
+        "value": -1
+      },
+      "WeaponGemLineTextMaxNum": {
+        "arr": [],
+        "key": "WeaponGemLineTextMaxNum",
+        "name": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "stringList": [],
+        "value": 100
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "tableName": "EtherSubmitGlobalEffectTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 9,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "PortableDeviceBuff_1_1": {
+        "blackboard": [
+          {
+            "key": "add",
+            "value": 0.1,
+            "valueStr": ""
+          }
+        ],
+        "dp1": 0,
+        "effectType": 4
+      },
+      "PortableDeviceBuff_1_2": {
+        "blackboard": [
+          {
+            "key": "add",
+            "value": 0.15,
+            "valueStr": ""
+          }
+        ],
+        "dp1": 0,
+        "effectType": 4
+      },
+      "PortableDeviceBuff_1_3": {
+        "blackboard": [
+          {
+            "key": "add",
+            "value": 0.2,
+            "valueStr": ""
+          }
+        ],
+        "dp1": 0,
+        "effectType": 4
+      },
+      "activity_limited_formula_2_stage_1_1_effect": {
+        "blackboard": [],
+        "dp1": 0,
+        "effectType": 5
+      },
+      "activity_limited_formula_2_stage_1_2_effect": {
+        "blackboard": [],
+        "dp1": 0,
+        "effectType": 5
+      },
+      "activity_limited_formula_2_stage_2_1_effect": {
+        "blackboard": [],
+        "dp1": 0,
+        "effectType": 5
+      },
+      "activity_limited_formula_2_stage_1_3_effect": {
+        "blackboard": [],
+        "dp1": 0,
+        "effectType": 5
+      },
+      "activity_limited_formula_2_stage_2_2_effect": {
+        "blackboard": [],
+        "dp1": 0,
+        "effectType": 5
+      },
+      "activity_limited_formula_2_stage_2_3_effect": {
+        "blackboard": [],
+        "dp1": 0,
+        "effectType": 5
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

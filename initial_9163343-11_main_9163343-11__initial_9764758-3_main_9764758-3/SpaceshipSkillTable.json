@@ -1,0 +1,1710 @@
+{
+  "tableName": "SpaceshipSkillTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 8
+  },
+  "entries": {
+    "added": {
+      "spaceship_skill_chr_0034_typhoea_2_2": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de matéria fúngica + 30%",
+          "CN": "进驻培养舱时，菌类质料的培养速度提升30%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von Pilzmaterial um +30 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant fungal matter growth rate +30%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance de la matière fongique de 30 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan material fungi akan meningkat sebesar +30%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita dei funghi.",
+          "JP": "培養室配属時、菌類素材の培養速度+30%",
+          "KR": "재배실에 배치 시, 버섯 재료의 육성 속도 30% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de materia fúngica del +30 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост грибов на 30%.",
+          "TC": "進駐培養艙時，菌類材料的培養速度提升30%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​สสาร​เชื้อรา​ +30%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng vật chất nấm thêm 30%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_fungus",
+        "id": "spaceship_skill_chr_0034_typhoea_2_2",
+        "level": 2,
+        "name": {
+          "BR": "Vida nos Esporos γ",
+          "CN": "孢子生灵·γ",
+          "DE": "Leben in den Sporen γ",
+          "EN": "Life in the Spores γ",
+          "FR": "Spores de vie γ",
+          "ID": "Life in the Spores γ",
+          "IT": "Vita nelle spore γ",
+          "JP": "胞子生物・γ",
+          "KR": "포자의 생령 · γ",
+          "MX": "Vida en las esporas γ",
+          "RU": "Жизнь в спорах γ",
+          "TC": "孢子生靈·γ",
+          "TH": "ชีวิต​ใน​หมู่​สปอร์​ γ",
+          "VN": "Mầm Sống Trong Bào Tử γ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.3
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.30000000000000004"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 120,
+        "talentName": {
+          "BR": "Vida nos Esporos",
+          "CN": "孢子生灵",
+          "DE": "Leben in den Sporen",
+          "EN": "Life in the Spores",
+          "FR": "Spores de vie",
+          "ID": "Life in the Spores",
+          "IT": "Vita nelle spore",
+          "JP": "胞子生物",
+          "KR": "포자의 생령",
+          "MX": "Vida en las esporas",
+          "RU": "Жизнь в спорах",
+          "TC": "孢子生靈",
+          "TH": "ชีวิต​ใน​หมู่​สปอร์",
+          "VN": "Mầm Sống Trong Bào Tử"
+        }
+      },
+      "spaceship_skill_chr_0034_typhoea_1_2": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 30%",
+          "CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +30 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 30 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +30%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita dei minerali rari.",
+          "JP": "培養室配属時、鉱物素材の培養速度+30%",
+          "KR": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +30 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 30%.",
+          "TC": "進駐培養艙時，礦物材料的培養速度提升30%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +30%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 30%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_chr_0034_typhoea_1_2",
+        "level": 2,
+        "name": {
+          "BR": "Murmúrios Líticos γ",
+          "CN": "晶石低语·γ",
+          "DE": "Das Raunen der Steine γ",
+          "EN": "Lithic Murmurs γ",
+          "FR": "Murmures lithiques γ",
+          "ID": "Lithic Murmurs γ",
+          "IT": "Mormorii litici γ",
+          "JP": "晶石の囁き・γ",
+          "KR": "크리스털의 속삭임 · γ",
+          "MX": "Murmullos líticos γ",
+          "RU": "Шепот камня γ",
+          "TC": "晶石低語·γ",
+          "TH": "เสียง​พึมพำ​แห่ง​ศิลา​ γ",
+          "VN": "Lời Thì Thầm Của Đá γ"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.3
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.30000000000000004"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "γ",
+        "sortId": 118,
+        "talentName": {
+          "BR": "Murmúrios Líticos",
+          "CN": "晶石低语",
+          "DE": "Das Raunen der Steine",
+          "EN": "Lithic Murmurs",
+          "FR": "Murmures lithiques",
+          "ID": "Lithic Murmurs",
+          "IT": "Mormorii litici",
+          "JP": "晶石の囁き",
+          "KR": "크리스털의 속삭임",
+          "MX": "Murmullos líticos",
+          "RU": "Шепот камня",
+          "TC": "晶石低語",
+          "TH": "เสียง​พึมพำ​แห่ง​ศิลา",
+          "VN": "Lời Thì Thầm Của Đá"
+        }
+      },
+      "spaceship_skill_chr_0034_typhoea_1_1": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 20%",
+          "CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +20 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 20 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +20%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita dei minerali rari.",
+          "JP": "培養室配属時、鉱物素材の培養速度+20%",
+          "KR": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +20 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 20%.",
+          "TC": "進駐培養艙時，礦物材料的培養速度提升20%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +20%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 20%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_mineral",
+        "id": "spaceship_skill_chr_0034_typhoea_1_1",
+        "level": 1,
+        "name": {
+          "BR": "Murmúrios Líticos β",
+          "CN": "晶石低语·β",
+          "DE": "Das Raunen der Steine β",
+          "EN": "Lithic Murmurs β",
+          "FR": "Murmures lithiques β",
+          "ID": "Lithic Murmurs β",
+          "IT": "Mormorii litici β",
+          "JP": "晶石の囁き・β",
+          "KR": "크리스털의 속삭임 · β",
+          "MX": "Murmullos líticos β",
+          "RU": "Шепот камня β",
+          "TC": "晶石低語·β",
+          "TH": "เสียง​พึมพำ​แห่ง​ศิลา​ β",
+          "VN": "Lời Thì Thầm Của Đá β"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 117,
+        "talentName": {
+          "BR": "Murmúrios Líticos",
+          "CN": "晶石低语",
+          "DE": "Das Raunen der Steine",
+          "EN": "Lithic Murmurs",
+          "FR": "Murmures lithiques",
+          "ID": "Lithic Murmurs",
+          "IT": "Mormorii litici",
+          "JP": "晶石の囁き",
+          "KR": "크리스털의 속삭임",
+          "MX": "Murmullos líticos",
+          "RU": "Шепот камня",
+          "TC": "晶石低語",
+          "TH": "เสียง​พึมพำ​แห่ง​ศิลา",
+          "VN": "Lời Thì Thầm Của Đá"
+        }
+      },
+      "spaceship_skill_chr_0034_typhoea_2_1": {
+        "desc": {
+          "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de matéria fúngica + 20%",
+          "CN": "进驻培养舱时，菌类质料的培养速度提升20%",
+          "DE": "Wachstumskammer zuweisen, um Wachstumsrate von Pilzmaterial um +20 % zu erhöhen.",
+          "EN": "Assign to Growth Chamber to grant fungal matter growth rate +20%",
+          "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance de la matière fongique de 20 %.",
+          "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan material fungi akan meningkat sebesar +20%",
+          "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita dei funghi.",
+          "JP": "培養室配属時、菌類素材の培養速度+20%",
+          "KR": "재배실에 배치 시, 버섯 재료의 육성 속도 20% 증가",
+          "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de materia fúngica del +20 %",
+          "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост грибов на 20%.",
+          "TC": "進駐培養艙時，菌類材料的培養速度提升20%",
+          "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​สสาร​เชื้อรา​ +20%",
+          "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng vật chất nấm thêm 20%"
+        },
+        "effectType": 3,
+        "icon": "facskill_spaceship_plant_fungus",
+        "id": "spaceship_skill_chr_0034_typhoea_2_1",
+        "level": 1,
+        "name": {
+          "BR": "Vida nos Esporos β",
+          "CN": "孢子生灵·β",
+          "DE": "Leben in den Sporen β",
+          "EN": "Life in the Spores β",
+          "FR": "Spores de vie β",
+          "ID": "Life in the Spores β",
+          "IT": "Vita nelle spore β",
+          "JP": "胞子生物・β",
+          "KR": "포자의 생령 · β",
+          "MX": "Vida en las esporas β",
+          "RU": "Жизнь в спорах β",
+          "TC": "孢子生靈·β",
+          "TH": "ชีวิต​ใน​หมู่​สปอร์​ β",
+          "VN": "Mầm Sống Trong Bào Tử β"
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0.2
+            ],
+            "valueIntList": null,
+            "valueStringList": [
+              "0.2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              1
+            ],
+            "valueIntList": [
+              1
+            ],
+            "valueStringList": [
+              "1"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "roomType": 2,
+        "skillNamePostfix": "β",
+        "sortId": 119,
+        "talentName": {
+          "BR": "Vida nos Esporos",
+          "CN": "孢子生灵",
+          "DE": "Leben in den Sporen",
+          "EN": "Life in the Spores",
+          "FR": "Spores de vie",
+          "ID": "Life in the Spores",
+          "IT": "Vita nelle spore",
+          "JP": "胞子生物",
+          "KR": "포자의 생령",
+          "MX": "Vida en las esporas",
+          "RU": "Жизнь в спорах",
+          "TC": "孢子生靈",
+          "TH": "ชีวิต​ใน​หมู่​สปอร์",
+          "VN": "Mầm Sống Trong Bào Tử"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "spaceship_skill_chr_0032_lizhiyan_1_1": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 20%",
+            "CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +20 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 20 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +20%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita dei minerali rari.",
+            "JP": "培養室配属時、鉱物素材の培養速度+20%",
+            "KR": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +20 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 20%.",
+            "TC": "進駐培養艙時，礦物材料的培養速度提升20%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +20%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 20%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_mineral",
+          "id": "spaceship_skill_chr_0032_lizhiyan_1_1",
+          "level": 1,
+          "name": {
+            "BR": "Arrancar a Montanha, Ferver o Mar β",
+            "CN": "摘山煮海·β",
+            "DE": "Pflück’ den Berg und koch’ das Meer β",
+            "EN": "Pluck the Mountain, Boil the Sea β",
+            "FR": "Gratter la montagne, faire bouillir la mer β",
+            "ID": "Pluck the Mountain, Boil the Sea β",
+            "IT": "Sradica la montagna, fai bollire il mare β",
+            "JP": "鋳山煮海・β",
+            "KR": "산을 따고, 바다를 끓여라! · β",
+            "MX": "Arrancar la montaña, hervir el mar β",
+            "RU": "Сквозь все препятствия β",
+            "TC": "摘山煮海·β",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล​ β",
+            "VN": "Bạt Sơn Chử Hải β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.2
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "β",
+          "sortId": 101,
+          "talentName": {
+            "BR": "Arrancar a Montanha, Ferver o Mar",
+            "CN": "摘山煮海",
+            "DE": "Pflück’ den Berg und koch’ das Meer",
+            "EN": "Pluck the Mountain, Boil the Sea",
+            "FR": "Gratter la montagne, faire bouillir la mer",
+            "ID": "Pluck the Mountain, Boil the Sea",
+            "IT": "Sradica la montagna, fai bollire il mare",
+            "JP": "鋳山煮海",
+            "KR": "산을 따고, 바다를 끓여라!",
+            "MX": "Arrancar la montaña, hervir el mar",
+            "RU": "Сквозь все препятствия",
+            "TC": "摘山煮海",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล",
+            "VN": "Bạt Sơn Chử Hải"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 20%",
+            "CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +20 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 20 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +20%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita dei minerali rari.",
+            "JP": "培養室配属時、鉱物素材の培養速度+20%",
+            "KR": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +20 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 20%.",
+            "TC": "進駐培養艙時，礦物材料的培養速度提升20%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +20%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 20%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_mineral",
+          "id": "spaceship_skill_chr_0032_lizhiyan_1_1",
+          "level": 1,
+          "name": {
+            "BR": "Arrancar a Montanha, Ferver o Mar β",
+            "CN": "摘山煮海·β",
+            "DE": "Pflück’ den Berg und koch’ das Meer β",
+            "EN": "Pluck the Mountain, Boil the Sea β",
+            "FR": "Gratter la montagne, faire bouillir la mer β",
+            "ID": "Pluck the Mountain, Boil the Sea β",
+            "IT": "Sradica la montagna, fai bollire il mare β",
+            "JP": "鋳山煮海・β",
+            "KR": "산을 따고, 바다를 끓여라! · β",
+            "MX": "Arrancar la montaña, hervir el mar β",
+            "RU": "Сквозь все препятствия β",
+            "TC": "摘山煮海·β",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล​ β",
+            "VN": "Bạt Sơn Chử Hải β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.2
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "β",
+          "sortId": 109,
+          "talentName": {
+            "BR": "Arrancar a Montanha, Ferver o Mar",
+            "CN": "摘山煮海",
+            "DE": "Pflück’ den Berg und koch’ das Meer",
+            "EN": "Pluck the Mountain, Boil the Sea",
+            "FR": "Gratter la montagne, faire bouillir la mer",
+            "ID": "Pluck the Mountain, Boil the Sea",
+            "IT": "Sradica la montagna, fai bollire il mare",
+            "JP": "鋳山煮海",
+            "KR": "산을 따고, 바다를 끓여라!",
+            "MX": "Arrancar la montaña, hervir el mar",
+            "RU": "Сквозь все препятствия",
+            "TC": "摘山煮海",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล",
+            "VN": "Bạt Sơn Chử Hải"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 101,
+            "newValue": 109
+          }
+        }
+      },
+      "spaceship_skill_chr_0035_liino_2_1": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua ao Nexus de Controle para conceder à Regeneração de Humor de todos os operadores + 12%",
+            "CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+            "DE": "Dem Kontrollnexus zuweisen, um allen Operatoren Stimmungszunahme +12 % zu gewähren.",
+            "EN": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+            "FR": "En l'affectant au Nexus de contrôle, augmente l'amélioration d'humeur de tous les opérateurs de 12 %.",
+            "ID": "Saat ditugaskan ke Nexus Kontrol, Regen Suasana Hati semua operator akan meningkat sebesar +12%",
+            "IT": "Assegna al Nexus di controllo per aumentare del 12% la rigenerazione dell'umore di tutti gli operatori.",
+            "JP": "指揮中枢配属時、全員の体力回復+12%",
+            "KR": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가",
+            "MX": "Asignar al Nexus de control para otorgar a todos los operadores regeneración del Estado de ánimo de +12 %",
+            "RU": "Назначьте в контрольный нексус, чтобы все оперативники получили +12% к подъему настроения.",
+            "TC": "進駐總控中樞時，所有幹員心情恢復提升12%",
+            "TH": "เมื่อม​อบ​หมาย​ให้​กับ​เ​น็​ก​ซัส​ควบคุม​ จะ​ช่วย​เพิ่ม​การฟื้นฟู​อารมณ์​ให้​กับ​โอเปอเรเตอร์​ 12%",
+            "VN": "Khi phân công vào Trung Tâm Kiểm Soát, tăng Tái Tạo Tâm Trạng của tất cả các cán viên thêm 12%"
+          },
+          "effectType": 0,
+          "icon": "facskill_spaceship_physical_power",
+          "id": "spaceship_skill_chr_0035_liino_2_1",
+          "level": 1,
+          "name": {
+            "BR": "Vibe de Palco Incessante β",
+            "CN": "演出余韵·β",
+            "DE": "Nachhallender Bühnenrausch β",
+            "EN": "Stage Vibe That Lingers β",
+            "FR": "Présence scénique marquante β",
+            "ID": "Stage Vibe That Lingers β",
+            "IT": "Atmosfera da palco che permane β",
+            "JP": "ライブの余韻・β",
+            "KR": "무대의 여운 · β",
+            "MX": "La vibra del escenario que perdura β",
+            "RU": "Нестихающие овации β",
+            "TC": "演出餘韻·β",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง​ β",
+            "VN": "Dư Âm Sân Khấu Vấn Vương β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.12
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.12"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 0,
+          "skillNamePostfix": "β",
+          "sortId": 103,
+          "talentName": {
+            "BR": "Vibe de Palco Incessante",
+            "CN": "演出余韵",
+            "DE": "Nachhallender Bühnenrausch",
+            "EN": "Stage Vibe That Lingers",
+            "FR": "Présence scénique marquante",
+            "ID": "Stage Vibe That Lingers",
+            "IT": "Atmosfera da palco che permane",
+            "JP": "ライブの余韻",
+            "KR": "무대의 여운",
+            "MX": "La vibra del escenario que perdura",
+            "RU": "Нестихающие овации",
+            "TC": "演出餘韻",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง",
+            "VN": "Dư Âm Sân Khấu Vấn Vương"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua ao Nexus de Controle para conceder à Regeneração de Humor de todos os operadores + 12%",
+            "CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+            "DE": "Dem Kontrollnexus zuweisen, um allen Operatoren Stimmungszunahme +12 % zu gewähren.",
+            "EN": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+            "FR": "En l'affectant au Nexus de contrôle, augmente l'amélioration d'humeur de tous les opérateurs de 12 %.",
+            "ID": "Saat ditugaskan ke Nexus Kontrol, Regen Suasana Hati semua operator akan meningkat sebesar +12%",
+            "IT": "Assegna al Nexus di controllo per aumentare del 12% la rigenerazione dell'umore di tutti gli operatori.",
+            "JP": "指揮中枢配属時、全員の体力回復+12%",
+            "KR": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가",
+            "MX": "Asignar al Nexus de control para otorgar a todos los operadores Regeneración del Estado de ánimo de +12 %",
+            "RU": "Назначьте в контрольный нексус, чтобы все оперативники получили +12% к подъему настроения.",
+            "TC": "進駐總控中樞時，所有幹員心情恢復提升12%",
+            "TH": "เมื่อม​อบ​หมาย​ให้​กับ​เ​น็​ก​ซัส​ควบคุม​ จะ​ช่วย​เพิ่ม​การฟื้นฟู​อารมณ์​ให้​กับ​โอเปอเรเตอร์​ทั้งหมด​ 12%",
+            "VN": "Khi phân công vào Trung Tâm Kiểm Soát, tăng Tái Tạo Tâm Trạng của tất cả các cán viên thêm 12%"
+          },
+          "effectType": 0,
+          "icon": "facskill_spaceship_physical_power",
+          "id": "spaceship_skill_chr_0035_liino_2_1",
+          "level": 1,
+          "name": {
+            "BR": "Vibe de Palco Incessante β",
+            "CN": "演出余韵·β",
+            "DE": "Nachhallender Bühnenrausch β",
+            "EN": "Stage Vibe That Lingers β",
+            "FR": "Présence scénique marquante β",
+            "ID": "Stage Vibe That Lingers β",
+            "IT": "Atmosfera da palco che permane β",
+            "JP": "ライブの余韻・β",
+            "KR": "무대의 여운 · β",
+            "MX": "La vibra del escenario que perdura β",
+            "RU": "Нестихающие овации β",
+            "TC": "演出餘韻·β",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง​ β",
+            "VN": "Dư Âm Sân Khấu Vấn Vương β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.12
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.12"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 0,
+          "skillNamePostfix": "β",
+          "sortId": 115,
+          "talentName": {
+            "BR": "Vibe de Palco Incessante",
+            "CN": "演出余韵",
+            "DE": "Nachhallender Bühnenrausch",
+            "EN": "Stage Vibe That Lingers",
+            "FR": "Présence scénique marquante",
+            "ID": "Stage Vibe That Lingers",
+            "IT": "Atmosfera da palco che permane",
+            "JP": "ライブの余韻",
+            "KR": "무대의 여운",
+            "MX": "La vibra del escenario que perdura",
+            "RU": "Нестихающие овации",
+            "TC": "演出餘韻",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง",
+            "VN": "Dư Âm Sân Khấu Vấn Vương"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 103,
+            "newValue": 115
+          }
+        }
+      },
+      "spaceship_skill_chr_0032_lizhiyan_2_1": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de plantas vitrificadas + 20%",
+            "CN": "进驻培养舱时，晶植质料的培养速度提升20%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von In-vitro-Pflanzen um +20 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant vitrified plant growth rate +20%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des plantes vitrifiées de 20 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan tanaman hasil pemijaran akan meningkat sebesar +20%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita delle piante in vitro.",
+            "JP": "培養室配属時、晶植素材の培養速度+20%",
+            "KR": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 20% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de plantas vitrificadas del +20 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост кристаллизованных растений на 20%.",
+            "TC": "進駐培養艙時，晶植材料的培養速度提升20%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​พืช​ที่​กลายเป็น​ผลึก​ +20%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng cây trồng hóa đá thêm 20%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_flower",
+          "id": "spaceship_skill_chr_0032_lizhiyan_2_1",
+          "level": 1,
+          "name": {
+            "BR": "Botanófilo β",
+            "CN": "多识草木·β",
+            "DE": "Botanikexperte β",
+            "EN": "Botanophile β",
+            "FR": "Botanophilie β",
+            "ID": "Botanophile β",
+            "IT": "Botanofilia β",
+            "JP": "草木熟知・β",
+            "KR": "식물 박사 · β",
+            "MX": "Botanófila β",
+            "RU": "Ботанофилия β",
+            "TC": "多識草木·β",
+            "TH": "คนรัก​พฤกษา​ β",
+            "VN": "Người Yêu Cây Cỏ β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.2
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "β",
+          "sortId": 103,
+          "talentName": {
+            "BR": "Botanófilo",
+            "CN": "多识草木",
+            "DE": "Botanikexperte",
+            "EN": "Botanophile",
+            "FR": "Botanophilie",
+            "ID": "Botanophile",
+            "IT": "Botanofilia",
+            "JP": "草木熟知",
+            "KR": "식물 박사",
+            "MX": "Botanófila",
+            "RU": "Ботанофилия",
+            "TC": "多識草木",
+            "TH": "คนรัก​พฤกษา",
+            "VN": "Người Yêu Cây Cỏ"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de plantas vitrificadas + 20%",
+            "CN": "进驻培养舱时，晶植质料的培养速度提升20%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von In-vitro-Pflanzen um +20 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant vitrified plant growth rate +20%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des plantes vitrifiées de 20 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan tanaman hasil pemijaran akan meningkat sebesar +20%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 20% la velocità di crescita delle piante in vitro.",
+            "JP": "培養室配属時、晶植素材の培養速度+20%",
+            "KR": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 20% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de plantas vitrificadas del +20 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост кристаллизованных растений на 20%.",
+            "TC": "進駐培養艙時，晶植材料的培養速度提升20%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​พืช​ที่​กลายเป็น​ผลึก​ +20%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng cây trồng hóa đá thêm 20%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_flower",
+          "id": "spaceship_skill_chr_0032_lizhiyan_2_1",
+          "level": 1,
+          "name": {
+            "BR": "Botanófilo β",
+            "CN": "多识草木·β",
+            "DE": "Botanikexperte β",
+            "EN": "Botanophile β",
+            "FR": "Botanophilie β",
+            "ID": "Botanophile β",
+            "IT": "Botanofilia β",
+            "JP": "草木熟知・β",
+            "KR": "식물 박사 · β",
+            "MX": "Botanófila β",
+            "RU": "Ботанофилия β",
+            "TC": "多識草木·β",
+            "TH": "คนรัก​พฤกษา​ β",
+            "VN": "Người Yêu Cây Cỏ β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.2
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "β",
+          "sortId": 111,
+          "talentName": {
+            "BR": "Botanófilo",
+            "CN": "多识草木",
+            "DE": "Botanikexperte",
+            "EN": "Botanophile",
+            "FR": "Botanophilie",
+            "ID": "Botanophile",
+            "IT": "Botanofilia",
+            "JP": "草木熟知",
+            "KR": "식물 박사",
+            "MX": "Botanófila",
+            "RU": "Ботанофилия",
+            "TC": "多識草木",
+            "TH": "คนรัก​พฤกษา",
+            "VN": "Người Yêu Cây Cỏ"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 103,
+            "newValue": 111
+          }
+        }
+      },
+      "spaceship_skill_chr_0032_lizhiyan_1_2": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 30%",
+            "CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +30 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 30 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +30%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita dei minerali rari.",
+            "JP": "培養室配属時、鉱物素材の培養速度+30%",
+            "KR": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +30 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 30%.",
+            "TC": "進駐培養艙時，礦物材料的培養速度提升30%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +30%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 30%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_mineral",
+          "id": "spaceship_skill_chr_0032_lizhiyan_1_2",
+          "level": 2,
+          "name": {
+            "BR": "Arrancar a Montanha, Ferver o Mar γ",
+            "CN": "摘山煮海·γ",
+            "DE": "Pflück’ den Berg und koch’ das Meer γ",
+            "EN": "Pluck the Mountain, Boil the Sea γ",
+            "FR": "Gratter la montagne, faire bouillir la mer γ",
+            "ID": "Pluck the Mountain, Boil the Sea γ",
+            "IT": "Sradica la montagna, fai bollire il mare γ",
+            "JP": "鋳山煮海・γ",
+            "KR": "산을 따고, 바다를 끓여라! · γ",
+            "MX": "Arrancar la montaña, hervir el mar γ",
+            "RU": "Сквозь все препятствия γ",
+            "TC": "摘山煮海·γ",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล​ γ",
+            "VN": "Bạt Sơn Chử Hải γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.3
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.30000000000000004"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "γ",
+          "sortId": 102,
+          "talentName": {
+            "BR": "Arrancar a Montanha, Ferver o Mar",
+            "CN": "摘山煮海",
+            "DE": "Pflück’ den Berg und koch’ das Meer",
+            "EN": "Pluck the Mountain, Boil the Sea",
+            "FR": "Gratter la montagne, faire bouillir la mer",
+            "ID": "Pluck the Mountain, Boil the Sea",
+            "IT": "Sradica la montagna, fai bollire il mare",
+            "JP": "鋳山煮海",
+            "KR": "산을 따고, 바다를 끓여라!",
+            "MX": "Arrancar la montaña, hervir el mar",
+            "RU": "Сквозь все препятствия",
+            "TC": "摘山煮海",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล",
+            "VN": "Bạt Sơn Chử Hải"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de minerais raros + 30%",
+            "CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von seltenen Mineralien um +30 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des minerais rares de 30 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan mineral langka akan meningkat sebesar +30%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita dei minerali rari.",
+            "JP": "培養室配属時、鉱物素材の培養速度+30%",
+            "KR": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de minerales raros del +30 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост редких минералов на 30%.",
+            "TC": "進駐培養艙時，礦物材料的培養速度提升30%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​แร่ธาตุ​หายาก​ +30%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng khoáng sản quý hiếm thêm 30%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_mineral",
+          "id": "spaceship_skill_chr_0032_lizhiyan_1_2",
+          "level": 2,
+          "name": {
+            "BR": "Arrancar a Montanha, Ferver o Mar γ",
+            "CN": "摘山煮海·γ",
+            "DE": "Pflück’ den Berg und koch’ das Meer γ",
+            "EN": "Pluck the Mountain, Boil the Sea γ",
+            "FR": "Gratter la montagne, faire bouillir la mer γ",
+            "ID": "Pluck the Mountain, Boil the Sea γ",
+            "IT": "Sradica la montagna, fai bollire il mare γ",
+            "JP": "鋳山煮海・γ",
+            "KR": "산을 따고, 바다를 끓여라! · γ",
+            "MX": "Arrancar la montaña, hervir el mar γ",
+            "RU": "Сквозь все препятствия γ",
+            "TC": "摘山煮海·γ",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล​ γ",
+            "VN": "Bạt Sơn Chử Hải γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.3
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.30000000000000004"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                3
+              ],
+              "valueIntList": [
+                3
+              ],
+              "valueStringList": [
+                "3"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "γ",
+          "sortId": 110,
+          "talentName": {
+            "BR": "Arrancar a Montanha, Ferver o Mar",
+            "CN": "摘山煮海",
+            "DE": "Pflück’ den Berg und koch’ das Meer",
+            "EN": "Pluck the Mountain, Boil the Sea",
+            "FR": "Gratter la montagne, faire bouillir la mer",
+            "ID": "Pluck the Mountain, Boil the Sea",
+            "IT": "Sradica la montagna, fai bollire il mare",
+            "JP": "鋳山煮海",
+            "KR": "산을 따고, 바다를 끓여라!",
+            "MX": "Arrancar la montaña, hervir el mar",
+            "RU": "Сквозь все препятствия",
+            "TC": "摘山煮海",
+            "TH": "ถอน​ภูผา​ ต้ม​ทะเล",
+            "VN": "Bạt Sơn Chử Hải"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 102,
+            "newValue": 110
+          }
+        }
+      },
+      "spaceship_skill_chr_0032_lizhiyan_2_2": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de plantas vitrificadas + 30%",
+            "CN": "进驻培养舱时，晶植质料的培养速度提升30%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von In-vitro-Pflanzen um +30 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant vitrified plant growth rate +30%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des plantes vitrifiées de 30 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan tanaman hasil pemijaran akan meningkat sebesar +30%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita delle piante in vitro.",
+            "JP": "培養室配属時、晶植素材の培養速度+30%",
+            "KR": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 30% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de plantas vitrificadas del +30 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост кристаллизованных растений на 30%.",
+            "TC": "進駐培養艙時，晶植材料的培養速度提升30%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​พืช​ที่​กลายเป็น​ผลึก​ +30%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng cây trồng hóa đá thêm 30%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_flower",
+          "id": "spaceship_skill_chr_0032_lizhiyan_2_2",
+          "level": 2,
+          "name": {
+            "BR": "Botanófilo γ",
+            "CN": "多识草木·γ",
+            "DE": "Botanikexperte γ",
+            "EN": "Botanophile γ",
+            "FR": "Botanophilie γ",
+            "ID": "Botanophile γ",
+            "IT": "Botanofilia γ",
+            "JP": "草木熟知・γ",
+            "KR": "식물 박사 · γ",
+            "MX": "Botanófila γ",
+            "RU": "Ботанофилия γ",
+            "TC": "多識草木·γ",
+            "TH": "คนรัก​พฤกษา​ γ",
+            "VN": "Người Yêu Cây Cỏ γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.3
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.30000000000000004"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "γ",
+          "sortId": 104,
+          "talentName": {
+            "BR": "Botanófilo",
+            "CN": "多识草木",
+            "DE": "Botanikexperte",
+            "EN": "Botanophile",
+            "FR": "Botanophilie",
+            "ID": "Botanophile",
+            "IT": "Botanofilia",
+            "JP": "草木熟知",
+            "KR": "식물 박사",
+            "MX": "Botanófila",
+            "RU": "Ботанофилия",
+            "TC": "多識草木",
+            "TH": "คนรัก​พฤกษา",
+            "VN": "Người Yêu Cây Cỏ"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua à Câmara de Crescimento para conceder taxa de crescimento de plantas vitrificadas + 30%",
+            "CN": "进驻培养舱时，晶植质料的培养速度提升30%",
+            "DE": "Wachstumskammer zuweisen, um Wachstumsrate von In-vitro-Pflanzen um +30 % zu erhöhen.",
+            "EN": "Assign to Growth Chamber to grant vitrified plant growth rate +30%",
+            "FR": "En l'affectant à la chambre de culture, augmente le taux de croissance des plantes vitrifiées de 30 %.",
+            "ID": "Saat ditugaskan ke Ruang Pertumbuhan, laju pertumbuhan tanaman hasil pemijaran akan meningkat sebesar +30%",
+            "IT": "Assegna alla camera di coltivazione per aumentare del 30% la velocità di crescita delle piante in vitro.",
+            "JP": "培養室配属時、晶植素材の培養速度+30%",
+            "KR": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 30% 증가",
+            "MX": "Asignar a la Cámara de crecimiento para otorgar una tasa de crecimiento de plantas vitrificadas del +30 %",
+            "RU": "Назначьте в инкубационный отсек, чтобы ускорить рост кристаллизованных растений на 30%.",
+            "TC": "進駐培養艙時，晶植材料的培養速度提升30%",
+            "TH": "มอบหมาย​ไป​ยัง​ห้อง​เพาะเลี้ยง​เพื่อ​เพิ่ม​อัตรา​การ​เติบโต​ของ​พืช​ที่​กลายเป็น​ผลึก​ +30%",
+            "VN": "Khi phân công vào Buồng Phát Triển, tăng tốc độ tăng trưởng cây trồng hóa đá thêm 30%"
+          },
+          "effectType": 3,
+          "icon": "facskill_spaceship_plant_flower",
+          "id": "spaceship_skill_chr_0032_lizhiyan_2_2",
+          "level": 2,
+          "name": {
+            "BR": "Botanófilo γ",
+            "CN": "多识草木·γ",
+            "DE": "Botanikexperte γ",
+            "EN": "Botanophile γ",
+            "FR": "Botanophilie γ",
+            "ID": "Botanophile γ",
+            "IT": "Botanofilia γ",
+            "JP": "草木熟知・γ",
+            "KR": "식물 박사 · γ",
+            "MX": "Botanófila γ",
+            "RU": "Ботанофилия γ",
+            "TC": "多識草木·γ",
+            "TH": "คนรัก​พฤกษา​ γ",
+            "VN": "Người Yêu Cây Cỏ γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.3
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.30000000000000004"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            },
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                2
+              ],
+              "valueIntList": [
+                2
+              ],
+              "valueStringList": [
+                "2"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 2,
+          "skillNamePostfix": "γ",
+          "sortId": 112,
+          "talentName": {
+            "BR": "Botanófilo",
+            "CN": "多识草木",
+            "DE": "Botanikexperte",
+            "EN": "Botanophile",
+            "FR": "Botanophilie",
+            "ID": "Botanophile",
+            "IT": "Botanofilia",
+            "JP": "草木熟知",
+            "KR": "식물 박사",
+            "MX": "Botanófila",
+            "RU": "Ботанофилия",
+            "TC": "多識草木",
+            "TH": "คนรัก​พฤกษา",
+            "VN": "Người Yêu Cây Cỏ"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 104,
+            "newValue": 112
+          }
+        }
+      },
+      "spaceship_skill_chr_0035_liino_1_1": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua à Sala da Recepção para reduzir a velocidade da Queda de Humor de todos os operadores em 14%",
+            "CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+            "DE": "Dem Empfang zuweisen, um Stimmungsverlust aller Operatoren in der Kammer um 14 % zu verlangsamen.",
+            "EN": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+            "FR": "En l'affectant à la salle de réception, ralentit la baisse d'humeur de tous les opérateurs qui s'y trouvent de 14 %.",
+            "ID": "Saat ditugaskan ke Ruang Resepsionis, Penurunan Suasana Hati semua operator di dalamnya akan melambat sebesar 14%",
+            "IT": "Assegna alla sala di ricevimento per rallentare del 14% il calo dell'umore di tutti gli operatori al suo interno.",
+            "JP": "応接室配属時、船室内全員の体力消耗-14%",
+            "KR": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소",
+            "MX": "Asignar a la Sala de recepción para reducir la disminución del Estado de ánimo de todos los operadores en ella un 14 %",
+            "RU": "Назначьте в приемную, чтобы замедлить падение настроения всех находящихся в ней оперативников на 14%.",
+            "TC": "進駐會客室時，艙室內幹員心情消耗降低14%",
+            "TH": "มอบหมาย​ไป​ที่​ห้อง​รับรอง​เพื่อ​ชะลอ​การ​ลดลง​ของ​อารมณ์​ของ​โอเปอเรเตอร์​ทั้งหมด​ใน​ห้อง​ลง​ 14%",
+            "VN": "Khi phân công vào Phòng Tiếp Khách, làm chậm mức Giảm Tâm Trạng của tất cả cán viên đi 14%"
+          },
+          "effectType": 1,
+          "icon": "facskill_spaceship_guestroom_power_consume",
+          "id": "spaceship_skill_chr_0035_liino_1_1",
+          "level": 1,
+          "name": {
+            "BR": "Paixão pelo Ídolo β",
+            "CN": "偶像的热忱·β",
+            "DE": "Idol-Verehrung β",
+            "EN": "Idol Passion β",
+            "FR": "Passion pour les stars β",
+            "ID": "Idol Passion β",
+            "IT": "Passione da idol β",
+            "JP": "アイドルの情熱・β",
+            "KR": "아이돌의 열정 · β",
+            "MX": "Pasión de idol β",
+            "RU": "Страсть айдола β",
+            "TC": "偶像的熱忱·β",
+            "TH": "ความฝัน​ไอดอล​ β",
+            "VN": "Nhiệt Huyết Thần Tượng β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.14
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.14"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 5,
+          "skillNamePostfix": "β",
+          "sortId": 101,
+          "talentName": {
+            "BR": "Paixão pelo Ídolo",
+            "CN": "偶像的热忱",
+            "DE": "Idol-Verehrung",
+            "EN": "Idol Passion",
+            "FR": "Passion pour les stars",
+            "ID": "Idol Passion",
+            "IT": "Passione da idol",
+            "JP": "アイドルの情熱",
+            "KR": "아이돌의 열정",
+            "MX": "Pasión de idol",
+            "RU": "Страсть айдола",
+            "TC": "偶像的熱忱",
+            "TH": "ความฝัน​ไอดอล",
+            "VN": "Nhiệt Huyết Thần Tượng"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua à Sala da Recepção para reduzir a velocidade da Queda de Humor de todos os operadores em 14%",
+            "CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+            "DE": "Dem Empfang zuweisen, um Stimmungsverlust aller Operatoren in der Kammer um 14 % zu verlangsamen.",
+            "EN": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+            "FR": "En l'affectant à la salle de réception, ralentit la baisse d'humeur de tous les opérateurs qui s'y trouvent de 14 %.",
+            "ID": "Saat ditugaskan ke Ruang Resepsionis, Penurunan Suasana Hati semua operator di dalamnya akan melambat sebesar 14%",
+            "IT": "Assegna alla sala di ricevimento per rallentare del 14% il calo dell'umore di tutti gli operatori al suo interno.",
+            "JP": "応接室配属時、船室内全員の体力消耗-14%",
+            "KR": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소",
+            "MX": "Asignar a la Sala de recepción para reducir la disminución del Estado de ánimo de todos los operadores en ella un 14 %",
+            "RU": "Назначьте в приемную, чтобы замедлить падение настроения всех находящихся в ней оперативников на 14%.",
+            "TC": "進駐會客室時，艙室內幹員心情消耗降低14%",
+            "TH": "มอบหมาย​ไป​ที่​ห้อง​รับรอง​เพื่อ​ชะลอ​การ​ลดลง​ของ​อารมณ์​ของ​โอเปอเรเตอร์​ทั้งหมด​ใน​ห้อง​ลง​ 14%",
+            "VN": "Khi phân công vào Phòng Tiếp Khách, làm chậm mức Giảm Tâm Trạng của tất cả cán viên trong đó đi 14%"
+          },
+          "effectType": 1,
+          "icon": "facskill_spaceship_guestroom_power_consume",
+          "id": "spaceship_skill_chr_0035_liino_1_1",
+          "level": 1,
+          "name": {
+            "BR": "Paixão pelo Ídolo β",
+            "CN": "偶像的热忱·β",
+            "DE": "Idol-Verehrung β",
+            "EN": "Idol Passion β",
+            "FR": "Passion pour les stars β",
+            "ID": "Idol Passion β",
+            "IT": "Passione da idol β",
+            "JP": "アイドルの情熱・β",
+            "KR": "아이돌의 열정 · β",
+            "MX": "Pasión de idol β",
+            "RU": "Страсть айдола β",
+            "TC": "偶像的熱忱·β",
+            "TH": "ความฝัน​ไอดอล​ β",
+            "VN": "Nhiệt Huyết Thần Tượng β"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.14
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.14"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 5,
+          "skillNamePostfix": "β",
+          "sortId": 113,
+          "talentName": {
+            "BR": "Paixão pelo Ídolo",
+            "CN": "偶像的热忱",
+            "DE": "Idol-Verehrung",
+            "EN": "Idol Passion",
+            "FR": "Passion pour les stars",
+            "ID": "Idol Passion",
+            "IT": "Passione da idol",
+            "JP": "アイドルの情熱",
+            "KR": "아이돌의 열정",
+            "MX": "Pasión de idol",
+            "RU": "Страсть айдола",
+            "TC": "偶像的熱忱",
+            "TH": "ความฝัน​ไอดอล",
+            "VN": "Nhiệt Huyết Thần Tượng"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 101,
+            "newValue": 113
+          }
+        }
+      },
+      "spaceship_skill_chr_0035_liino_1_2": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua à Sala da Recepção para reduzir a velocidade da Queda de Humor de todos os operadores em 18%",
+            "CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+            "DE": "Dem Empfang zuweisen, um Stimmungsverlust aller Operatoren in der Kammer um 18 % zu verlangsamen.",
+            "EN": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+            "FR": "En l'affectant à la salle de réception, ralentit la baisse d'humeur de tous les opérateurs qui s'y trouvent de 18 %.",
+            "ID": "Saat ditugaskan ke Ruang Resepsionis, Penurunan Suasana Hati semua operator di dalamnya akan melambat sebesar 18%",
+            "IT": "Assegna alla sala di ricevimento per rallentare del 18% il calo dell'umore di tutti gli operatori al suo interno.",
+            "JP": "応接室配属時、船室内全員の体力消耗-18%",
+            "KR": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소",
+            "MX": "Asignar a la Sala de recepción para reducir la disminución del Estado de ánimo de todos los operadores en ella un 18 %",
+            "RU": "Назначьте в приемную, чтобы замедлить падение настроения всех находящихся в ней оперативников на 18%.",
+            "TC": "進駐會客室時，艙室內幹員心情消耗降低18%",
+            "TH": "มอบหมาย​ไป​ที่​ห้อง​รับรอง​เพื่อ​ชะลอ​การ​ลดลง​ของ​อารมณ์​ของ​โอเปอเรเตอร์​ทั้งหมด​ใน​ห้อง​ลง​ 18%",
+            "VN": "Khi phân công vào Phòng Tiếp Khách, làm chậm mức Giảm Tâm Trạng của tất cả cán viên đi 18%"
+          },
+          "effectType": 1,
+          "icon": "facskill_spaceship_guestroom_power_consume",
+          "id": "spaceship_skill_chr_0035_liino_1_2",
+          "level": 2,
+          "name": {
+            "BR": "Paixão pelo Ídolo γ",
+            "CN": "偶像的热忱·γ",
+            "DE": "Idol-Verehrung γ",
+            "EN": "Idol Passion γ",
+            "FR": "Passion pour les stars γ",
+            "ID": "Idol Passion γ",
+            "IT": "Passione da idol γ",
+            "JP": "アイドルの情熱・γ",
+            "KR": "아이돌의 열정 · γ",
+            "MX": "Pasión de idol γ",
+            "RU": "Страсть айдола γ",
+            "TC": "偶像的熱忱·γ",
+            "TH": "ความฝัน​ไอดอล​ γ",
+            "VN": "Nhiệt Huyết Thần Tượng γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.18
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.18"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 5,
+          "skillNamePostfix": "γ",
+          "sortId": 102,
+          "talentName": {
+            "BR": "Paixão pelo Ídolo",
+            "CN": "偶像的热忱",
+            "DE": "Idol-Verehrung",
+            "EN": "Idol Passion",
+            "FR": "Passion pour les stars",
+            "ID": "Idol Passion",
+            "IT": "Passione da idol",
+            "JP": "アイドルの情熱",
+            "KR": "아이돌의 열정",
+            "MX": "Pasión de idol",
+            "RU": "Страсть айдола",
+            "TC": "偶像的熱忱",
+            "TH": "ความฝัน​ไอดอล",
+            "VN": "Nhiệt Huyết Thần Tượng"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua à Sala da Recepção para reduzir a velocidade da Queda de Humor de todos os operadores em 18%",
+            "CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+            "DE": "Dem Empfang zuweisen, um Stimmungsverlust aller Operatoren in der Kammer um 18 % zu verlangsamen.",
+            "EN": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+            "FR": "En l'affectant à la salle de réception, ralentit la baisse d'humeur de tous les opérateurs qui s'y trouvent de 18 %.",
+            "ID": "Saat ditugaskan ke Ruang Resepsionis, Penurunan Suasana Hati semua operator di dalamnya akan melambat sebesar 18%",
+            "IT": "Assegna alla sala di ricevimento per rallentare del 18% il calo dell'umore di tutti gli operatori al suo interno.",
+            "JP": "応接室配属時、船室内全員の体力消耗-18%",
+            "KR": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소",
+            "MX": "Asignar a la Sala de recepción para reducir la disminución del Estado de ánimo de todos los operadores en ella un 18 %",
+            "RU": "Назначьте в приемную, чтобы замедлить падение настроения всех находящихся в ней оперативников на 18%.",
+            "TC": "進駐會客室時，艙室內幹員心情消耗降低18%",
+            "TH": "มอบหมาย​ไป​ที่​ห้อง​รับรอง​เพื่อ​ชะลอ​การ​ลดลง​ของ​อารมณ์​ของ​โอเปอเรเตอร์​ทั้งหมด​ใน​ห้อง​ลง​ 18%",
+            "VN": "Khi phân công vào Phòng Tiếp Khách, làm chậm mức Giảm Tâm Trạng của tất cả cán viên trong đó đi 18%"
+          },
+          "effectType": 1,
+          "icon": "facskill_spaceship_guestroom_power_consume",
+          "id": "spaceship_skill_chr_0035_liino_1_2",
+          "level": 2,
+          "name": {
+            "BR": "Paixão pelo Ídolo γ",
+            "CN": "偶像的热忱·γ",
+            "DE": "Idol-Verehrung γ",
+            "EN": "Idol Passion γ",
+            "FR": "Passion pour les stars γ",
+            "ID": "Idol Passion γ",
+            "IT": "Passione da idol γ",
+            "JP": "アイドルの情熱・γ",
+            "KR": "아이돌의 열정 · γ",
+            "MX": "Pasión de idol γ",
+            "RU": "Страсть айдола γ",
+            "TC": "偶像的熱忱·γ",
+            "TH": "ความฝัน​ไอดอล​ γ",
+            "VN": "Nhiệt Huyết Thần Tượng γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.18
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.18"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 5,
+          "skillNamePostfix": "γ",
+          "sortId": 114,
+          "talentName": {
+            "BR": "Paixão pelo Ídolo",
+            "CN": "偶像的热忱",
+            "DE": "Idol-Verehrung",
+            "EN": "Idol Passion",
+            "FR": "Passion pour les stars",
+            "ID": "Idol Passion",
+            "IT": "Passione da idol",
+            "JP": "アイドルの情熱",
+            "KR": "아이돌의 열정",
+            "MX": "Pasión de idol",
+            "RU": "Страсть айдола",
+            "TC": "偶像的熱忱",
+            "TH": "ความฝัน​ไอดอล",
+            "VN": "Nhiệt Huyết Thần Tượng"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 102,
+            "newValue": 114
+          }
+        }
+      },
+      "spaceship_skill_chr_0035_liino_2_2": {
+        "oldValue": {
+          "desc": {
+            "BR": "Atribua ao Nexus de Controle para conceder à Regeneração de Humor de todos os operadores + 16%",
+            "CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+            "DE": "Dem Kontrollnexus zuweisen, um allen Operatoren Stimmungszunahme +16 % zu gewähren.",
+            "EN": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+            "FR": "En l'affectant au Nexus de contrôle, augmente l'amélioration d'humeur de tous les opérateurs de 16 %.",
+            "ID": "Saat ditugaskan ke Nexus Kontrol, Regen Suasana Hati semua operator akan meningkat sebesar +16%",
+            "IT": "Assegna al Nexus di controllo per aumentare del 16% la rigenerazione dell'umore di tutti gli operatori.",
+            "JP": "指揮中枢配属時、全員の体力回復+16%",
+            "KR": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가",
+            "MX": "Asignar al Nexus de control para otorgar a todos los operadores regeneración del Estado de ánimo de +16 %",
+            "RU": "Назначьте в контрольный нексус, чтобы все оперативники получили +16% к подъему настроения.",
+            "TC": "進駐總控中樞時，所有幹員心情恢復提升16%",
+            "TH": "เมื่อม​อบ​หมาย​ให้​กับ​เ​น็​ก​ซัส​ควบคุม​ จะ​ช่วย​เพิ่ม​การฟื้นฟู​อารมณ์​ให้​กับ​โอเปอเรเตอร์​ 16%",
+            "VN": "Khi phân công vào Trung Tâm Kiểm Soát, tăng Tái Tạo Tâm Trạng của tất cả các cán viên thêm 16%"
+          },
+          "effectType": 0,
+          "icon": "facskill_spaceship_physical_power",
+          "id": "spaceship_skill_chr_0035_liino_2_2",
+          "level": 2,
+          "name": {
+            "BR": "Vibe de Palco Incessante γ",
+            "CN": "演出余韵·γ",
+            "DE": "Nachhallender Bühnenrausch γ",
+            "EN": "Stage Vibe That Lingers γ",
+            "FR": "Présence scénique marquante γ",
+            "ID": "Stage Vibe That Lingers γ",
+            "IT": "Atmosfera da palco che permane γ",
+            "JP": "ライブの余韻・γ",
+            "KR": "무대의 여운 · γ",
+            "MX": "La vibra del escenario que perdura γ",
+            "RU": "Нестихающие овации γ",
+            "TC": "演出餘韻·γ",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง​ γ",
+            "VN": "Dư Âm Sân Khấu Vấn Vương γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.16
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.16"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 0,
+          "skillNamePostfix": "γ",
+          "sortId": 104,
+          "talentName": {
+            "BR": "Vibe de Palco Incessante",
+            "CN": "演出余韵",
+            "DE": "Nachhallender Bühnenrausch",
+            "EN": "Stage Vibe That Lingers",
+            "FR": "Présence scénique marquante",
+            "ID": "Stage Vibe That Lingers",
+            "IT": "Atmosfera da palco che permane",
+            "JP": "ライブの余韻",
+            "KR": "무대의 여운",
+            "MX": "La vibra del escenario que perdura",
+            "RU": "Нестихающие овации",
+            "TC": "演出餘韻",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง",
+            "VN": "Dư Âm Sân Khấu Vấn Vương"
+          }
+        },
+        "newValue": {
+          "desc": {
+            "BR": "Atribua ao Nexus de Controle para conceder à Regeneração de Humor de todos os operadores + 16%",
+            "CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+            "DE": "Dem Kontrollnexus zuweisen, um allen Operatoren Stimmungszunahme +16 % zu gewähren.",
+            "EN": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+            "FR": "En l'affectant au Nexus de contrôle, augmente l'amélioration d'humeur de tous les opérateurs de 16 %.",
+            "ID": "Saat ditugaskan ke Nexus Kontrol, Regen Suasana Hati semua operator akan meningkat sebesar +16%",
+            "IT": "Assegna al Nexus di controllo per aumentare del 16% la rigenerazione dell'umore di tutti gli operatori.",
+            "JP": "指揮中枢配属時、全員の体力回復+16%",
+            "KR": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가",
+            "MX": "Asignar al Nexus de control para otorgar a todos los operadores Regeneración del Estado de ánimo de +16 %",
+            "RU": "Назначьте в контрольный нексус, чтобы все оперативники получили +16% к подъему настроения.",
+            "TC": "進駐總控中樞時，所有幹員心情恢復提升16%",
+            "TH": "เมื่อม​อบ​หมาย​ให้​กับ​เ​น็​ก​ซัส​ควบคุม​ จะ​ช่วย​เพิ่ม​การฟื้นฟู​อารมณ์​ให้​กับ​โอเปอเรเตอร์​ทั้งหมด​ 16%",
+            "VN": "Khi phân công vào Trung Tâm Kiểm Soát, tăng Tái Tạo Tâm Trạng của tất cả các cán viên thêm 16%"
+          },
+          "effectType": 0,
+          "icon": "facskill_spaceship_physical_power",
+          "id": "spaceship_skill_chr_0035_liino_2_2",
+          "level": 2,
+          "name": {
+            "BR": "Vibe de Palco Incessante γ",
+            "CN": "演出余韵·γ",
+            "DE": "Nachhallender Bühnenrausch γ",
+            "EN": "Stage Vibe That Lingers γ",
+            "FR": "Présence scénique marquante γ",
+            "ID": "Stage Vibe That Lingers γ",
+            "IT": "Atmosfera da palco che permane γ",
+            "JP": "ライブの余韻・γ",
+            "KR": "무대의 여운 · γ",
+            "MX": "La vibra del escenario que perdura γ",
+            "RU": "Нестихающие овации γ",
+            "TC": "演出餘韻·γ",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง​ γ",
+            "VN": "Dư Âm Sân Khấu Vấn Vương γ"
+          },
+          "parameters": [
+            {
+              "realType": 0,
+              "valueBoolList": null,
+              "valueFloatList": [
+                0.16
+              ],
+              "valueIntList": null,
+              "valueStringList": [
+                "0.16"
+              ],
+              "valueType": 0,
+              "valueVector3": null
+            }
+          ],
+          "roomType": 0,
+          "skillNamePostfix": "γ",
+          "sortId": 116,
+          "talentName": {
+            "BR": "Vibe de Palco Incessante",
+            "CN": "演出余韵",
+            "DE": "Nachhallender Bühnenrausch",
+            "EN": "Stage Vibe That Lingers",
+            "FR": "Présence scénique marquante",
+            "ID": "Stage Vibe That Lingers",
+            "IT": "Atmosfera da palco che permane",
+            "JP": "ライブの余韻",
+            "KR": "무대의 여운",
+            "MX": "La vibra del escenario que perdura",
+            "RU": "Нестихающие овации",
+            "TC": "演出餘韻",
+            "TH": "บรรยากาศ​เวที​ที่​ยังคง​ตราตรึง",
+            "VN": "Dư Âm Sân Khấu Vấn Vương"
+          }
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 104,
+            "newValue": 116
+          }
+        }
+      }
+    }
+  }
+}

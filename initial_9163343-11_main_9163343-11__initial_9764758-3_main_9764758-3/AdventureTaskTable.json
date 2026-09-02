@@ -1,0 +1,148 @@
+{
+  "tableName": "AdventureTaskTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "ab_11_03": {
+        "oldValue": {
+          "adventureBookStage": 11,
+          "adventureTaskId": "ab_11_03",
+          "belongingGroup": 0,
+          "conditionDataList": [
+            {
+              "conditionId": "cond_ab_11_03",
+              "conditionType": 6509,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "E_StatType_DungeonSeriesCompleteNum"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dung01_group_bossrush01",
+                    "dung01_group_bossrush02",
+                    "dung01_group_bossrush03",
+                    "dung02_group_bossrush01",
+                    "dung02_group_bossrush02"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1
+            }
+          ],
+          "jumpSystemId": "jump_dungeon_boss_rush",
+          "rewardId": "reward_adventure_book_11_3",
+          "sortId": 27,
+          "stageSlotId": "ab_11_03",
+          "taskDesc": {
+            "BR": "Conclua RE-Crise 1 vez",
+            "CN": "完成1次危境再现",
+            "DE": "Schließe „RE-Krise“ 1-mal ab.",
+            "EN": "Complete RE-Crisis 1 time",
+            "FR": "Terminer 1 fois « Crise X »",
+            "ID": "Selesaikan Krisis Ulangan 1 sebanyak kali",
+            "IT": "Completa RE-Crisi 1 volta.",
+            "JP": "危境再現を1回クリアする",
+            "KR": "위험한 재현을 1회 완료",
+            "MX": "Completa RE-crisis 1 vez",
+            "RU": "Пройдите «Реванш» 1 раз",
+            "TC": "完成1次危境再現",
+            "TH": "ผ่าน​วิกฤต​หวนคืน​ 1 ครั้ง",
+            "VN": "Hoàn thành Tái Chiến 1 lần"
+          },
+          "taskType": 2
+        },
+        "newValue": {
+          "adventureBookStage": 11,
+          "adventureTaskId": "ab_11_03",
+          "belongingGroup": 0,
+          "conditionDataList": [
+            {
+              "conditionId": "cond_ab_11_03",
+              "conditionType": 6509,
+              "parameters": [
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "E_StatType_DungeonSeriesCompleteNum"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                },
+                {
+                  "realType": 0,
+                  "valueBoolList": null,
+                  "valueFloatList": null,
+                  "valueIntList": null,
+                  "valueStringList": [
+                    "dung01_group_bossrush01",
+                    "dung01_group_bossrush02",
+                    "dung01_group_bossrush03",
+                    "dung02_group_bossrush01",
+                    "dung02_group_bossrush02",
+                    "dung02_group_bossrush03"
+                  ],
+                  "valueType": 0,
+                  "valueVector3": null
+                }
+              ],
+              "progressToCompare": 1
+            }
+          ],
+          "jumpSystemId": "jump_dungeon_boss_rush",
+          "rewardId": "reward_adventure_book_11_3",
+          "sortId": 27,
+          "stageSlotId": "ab_11_03",
+          "taskDesc": {
+            "BR": "Conclua RE-Crise 1 vez",
+            "CN": "完成1次危境再现",
+            "DE": "Schließe „RE-Krise“ 1-mal ab.",
+            "EN": "Complete RE-Crisis 1 time",
+            "FR": "Terminer 1 fois « Crise X »",
+            "ID": "Selesaikan Krisis Ulangan 1 sebanyak kali",
+            "IT": "Completa RE-Crisi 1 volta.",
+            "JP": "危境再現を1回クリアする",
+            "KR": "위험한 재현을 1회 완료",
+            "MX": "Completa RE-crisis 1 vez",
+            "RU": "Пройдите «Реванш» 1 раз",
+            "TC": "完成1次危境再現",
+            "TH": "ผ่าน​วิกฤต​หวนคืน​ 1 ครั้ง",
+            "VN": "Hoàn thành Tái Chiến 1 lần"
+          },
+          "taskType": 2
+        },
+        "changed": {
+          "conditionDataList[0].parameters[1].valueStringList[5]": {
+            "type": "value",
+            "newValue": "dung02_group_bossrush03"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,527 @@
+{
+  "tableName": "ItemShowingTypeTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 10
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "2": {
+        "oldValue": {
+          "icon": "icon_item_type_plant",
+          "name": {
+            "BR": "Plantas",
+            "CN": "植物",
+            "DE": "Pflanzen",
+            "EN": "Plants",
+            "FR": "Plantes",
+            "ID": "Tanaman",
+            "IT": "Piante",
+            "JP": "植物",
+            "KR": "식물",
+            "MX": "Plantas",
+            "RU": "Растения",
+            "TC": "植物",
+            "TH": "พืช",
+            "VN": "Cây trồng"
+          },
+          "sortId": 2,
+          "type": 2
+        },
+        "newValue": {
+          "icon": "icon_item_type_plant",
+          "name": {
+            "BR": "Plantas",
+            "CN": "植物",
+            "DE": "Pflanzen",
+            "EN": "Plants",
+            "FR": "Plantes",
+            "ID": "Tanaman",
+            "IT": "Piante",
+            "JP": "植物",
+            "KR": "식물",
+            "MX": "Plantas",
+            "RU": "Растения",
+            "TC": "植物",
+            "TH": "พืช",
+            "VN": "Cây trồng"
+          },
+          "sortId": 3,
+          "type": 2
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 2,
+            "newValue": 3
+          }
+        }
+      },
+      "4": {
+        "oldValue": {
+          "icon": "icon_item_type_product",
+          "name": {
+            "BR": "Produtos",
+            "CN": "产物",
+            "DE": "Produkte",
+            "EN": "Products",
+            "FR": "Produits",
+            "ID": "Produk",
+            "IT": "Prodotti",
+            "JP": "製品",
+            "KR": "생산품",
+            "MX": "Productos",
+            "RU": "Изделия",
+            "TC": "產物",
+            "TH": "ผลิตภัณฑ์",
+            "VN": "Sản phẩm"
+          },
+          "sortId": 3,
+          "type": 4
+        },
+        "newValue": {
+          "icon": "icon_item_type_product",
+          "name": {
+            "BR": "Produtos",
+            "CN": "产物",
+            "DE": "Produkte",
+            "EN": "Products",
+            "FR": "Produits",
+            "ID": "Produk",
+            "IT": "Prodotti",
+            "JP": "製品",
+            "KR": "생산품",
+            "MX": "Productos",
+            "RU": "Изделия",
+            "TC": "產物",
+            "TH": "ผลิตภัณฑ์",
+            "VN": "Sản phẩm"
+          },
+          "sortId": 4,
+          "type": 4
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 3,
+            "newValue": 4
+          }
+        }
+      },
+      "5": {
+        "oldValue": {
+          "icon": "icon_item_type_usable",
+          "name": {
+            "BR": "Utilizáveis",
+            "CN": "可用道具",
+            "DE": "Verwendbares",
+            "EN": "Usables",
+            "FR": "Utilisables",
+            "ID": "Berdaya Guna",
+            "IT": "Oggetti utilizzabili",
+            "JP": "消費アイテム",
+            "KR": "사용할 수 있는 아이템",
+            "MX": "Utilizables",
+            "RU": "Исп. предметы",
+            "TC": "可用道具",
+            "TH": "ของ​ที่​ใช้ได้",
+            "VN": "Vật Phẩm Sử Dụng"
+          },
+          "sortId": 6,
+          "type": 5
+        },
+        "newValue": {
+          "icon": "icon_item_type_usable",
+          "name": {
+            "BR": "Utilizáveis",
+            "CN": "可用道具",
+            "DE": "Verwendbares",
+            "EN": "Usables",
+            "FR": "Utilisables",
+            "ID": "Berdaya Guna",
+            "IT": "Oggetti utilizzabili",
+            "JP": "消費アイテム",
+            "KR": "사용할 수 있는 아이템",
+            "MX": "Utilizables",
+            "RU": "Исп. предметы",
+            "TC": "可用道具",
+            "TH": "ของ​ที่​ใช้ได้",
+            "VN": "Vật Phẩm Sử Dụng"
+          },
+          "sortId": 7,
+          "type": 5
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 6,
+            "newValue": 7
+          }
+        }
+      },
+      "8": {
+        "oldValue": {
+          "icon": "icon_item_type_equip_head",
+          "name": {
+            "BR": "Luvas",
+            "CN": "护手",
+            "DE": "Handschuhe",
+            "EN": "Gloves",
+            "FR": "Gants",
+            "ID": "Sarung Tangan",
+            "IT": "Guanti",
+            "JP": "腕",
+            "KR": "보호 장갑",
+            "MX": "Guantes",
+            "RU": "Перчатки",
+            "TC": "護手",
+            "TH": "ถุงมือ",
+            "VN": "Găng tay"
+          },
+          "sortId": 8,
+          "type": 8
+        },
+        "newValue": {
+          "icon": "icon_item_type_equip_head",
+          "name": {
+            "BR": "Luvas",
+            "CN": "护手",
+            "DE": "Handschuhe",
+            "EN": "Gloves",
+            "FR": "Gants",
+            "ID": "Sarung Tangan",
+            "IT": "Guanti",
+            "JP": "腕",
+            "KR": "보호 장갑",
+            "MX": "Guantes",
+            "RU": "Перчатки",
+            "TC": "護手",
+            "TH": "ถุงมือ",
+            "VN": "Găng tay"
+          },
+          "sortId": 9,
+          "type": 8
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 8,
+            "newValue": 9
+          }
+        }
+      },
+      "9": {
+        "oldValue": {
+          "icon": "icon_item_type_equip_body",
+          "name": {
+            "BR": "Armadura",
+            "CN": "护甲",
+            "DE": "Rüstung",
+            "EN": "Armor",
+            "FR": "Armure",
+            "ID": "Armor",
+            "IT": "Armatura",
+            "JP": "胴",
+            "KR": "방어구",
+            "MX": "Armadura",
+            "RU": "Броня",
+            "TC": "護甲",
+            "TH": "เกราะ",
+            "VN": "Giáp"
+          },
+          "sortId": 9,
+          "type": 9
+        },
+        "newValue": {
+          "icon": "icon_item_type_equip_body",
+          "name": {
+            "BR": "Armadura",
+            "CN": "护甲",
+            "DE": "Rüstung",
+            "EN": "Armor",
+            "FR": "Armure",
+            "ID": "Armor",
+            "IT": "Armatura",
+            "JP": "胴",
+            "KR": "방어구",
+            "MX": "Armadura",
+            "RU": "Броня",
+            "TC": "護甲",
+            "TH": "เกราะ",
+            "VN": "Giáp"
+          },
+          "sortId": 10,
+          "type": 9
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 9,
+            "newValue": 10
+          }
+        }
+      },
+      "10": {
+        "oldValue": {
+          "icon": "icon_item_type_equip_ring",
+          "name": {
+            "BR": "Kit",
+            "CN": "配件",
+            "DE": "Kit",
+            "EN": "Kit",
+            "FR": "Kit",
+            "ID": "Kit",
+            "IT": "Kit",
+            "JP": "アクセサリー",
+            "KR": "부품",
+            "MX": "Kit",
+            "RU": "Амуниция",
+            "TC": "配件",
+            "TH": "ชุด​เครื่องมือ",
+            "VN": "Bộ dụng cụ"
+          },
+          "sortId": 10,
+          "type": 10
+        },
+        "newValue": {
+          "icon": "icon_item_type_equip_ring",
+          "name": {
+            "BR": "Kit",
+            "CN": "配件",
+            "DE": "Kit",
+            "EN": "Kit",
+            "FR": "Kit",
+            "ID": "Kit",
+            "IT": "Kit",
+            "JP": "アクセサリー",
+            "KR": "부품",
+            "MX": "Kit",
+            "RU": "Амуниция",
+            "TC": "配件",
+            "TH": "ชุด​เครื่องมือ",
+            "VN": "Bộ dụng cụ"
+          },
+          "sortId": 11,
+          "type": 10
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 10,
+            "newValue": 11
+          }
+        }
+      },
+      "15": {
+        "oldValue": {
+          "icon": "icon_item_type_doodad",
+          "name": {
+            "BR": "Coletáveis",
+            "CN": "采集材料",
+            "DE": "Sammelobjekte",
+            "EN": "Gatherables",
+            "FR": "Récoltables",
+            "ID": "Bisa Dikumpulkan",
+            "IT": "Risorse da raccogliere",
+            "JP": "採集素材",
+            "KR": "채집 재료",
+            "MX": "Recolectables",
+            "RU": "Трофеи",
+            "TC": "採集材料",
+            "TH": "รวบรวม​ได้",
+            "VN": "Vật Liệu Thu Thập"
+          },
+          "sortId": 4,
+          "type": 15
+        },
+        "newValue": {
+          "icon": "icon_item_type_doodad",
+          "name": {
+            "BR": "Coletáveis",
+            "CN": "采集材料",
+            "DE": "Sammelobjekte",
+            "EN": "Gatherables",
+            "FR": "Récoltables",
+            "ID": "Bisa Dikumpulkan",
+            "IT": "Risorse da raccogliere",
+            "JP": "採集素材",
+            "KR": "채집 재료",
+            "MX": "Recolectables",
+            "RU": "Трофеи",
+            "TC": "採集材料",
+            "TH": "รวบรวม​ได้",
+            "VN": "Vật Liệu Thu Thập"
+          },
+          "sortId": 5,
+          "type": 15
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 4,
+            "newValue": 5
+          }
+        }
+      },
+      "16": {
+        "oldValue": {
+          "icon": "icon_item_type_nurturance",
+          "name": {
+            "BR": "Progressão",
+            "CN": "培养素材",
+            "DE": "Fortschritt",
+            "EN": "Progression",
+            "FR": "Progression",
+            "ID": "Progresi",
+            "IT": "Sviluppo",
+            "JP": "育成強化素材",
+            "KR": "육성 재료",
+            "MX": "Progresión",
+            "RU": "Развитие",
+            "TC": "培養材料",
+            "TH": "ความก้าวหน้า",
+            "VN": "Bồi dưỡng"
+          },
+          "sortId": 5,
+          "type": 16
+        },
+        "newValue": {
+          "icon": "icon_item_type_nurturance",
+          "name": {
+            "BR": "Progressão",
+            "CN": "培养素材",
+            "DE": "Fortschritt",
+            "EN": "Progression",
+            "FR": "Progression",
+            "ID": "Progresi",
+            "IT": "Sviluppo",
+            "JP": "育成強化素材",
+            "KR": "육성 재료",
+            "MX": "Progresión",
+            "RU": "Развитие",
+            "TC": "培養材料",
+            "TH": "ความก้าวหน้า",
+            "VN": "Bồi dưỡng"
+          },
+          "sortId": 6,
+          "type": 16
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 5,
+            "newValue": 6
+          }
+        }
+      },
+      "17": {
+        "oldValue": {
+          "icon": "icon_item_type_tools_building",
+          "name": {
+            "BR": "Produção",
+            "CN": "生产工具",
+            "DE": "Produktion",
+            "EN": "Production",
+            "FR": "Production",
+            "ID": "Produksi",
+            "IT": "Produzione",
+            "JP": "生産関連",
+            "KR": "생산 도구",
+            "MX": "Producción",
+            "RU": "Производство",
+            "TC": "生產工具",
+            "TH": "การผลิต",
+            "VN": "Sản Xuất"
+          },
+          "sortId": 7,
+          "type": 17
+        },
+        "newValue": {
+          "icon": "icon_item_type_tools_building",
+          "name": {
+            "BR": "Produção",
+            "CN": "生产工具",
+            "DE": "Produktion",
+            "EN": "Production",
+            "FR": "Production",
+            "ID": "Produksi",
+            "IT": "Produzione",
+            "JP": "生産関連",
+            "KR": "생산 도구",
+            "MX": "Producción",
+            "RU": "Производство",
+            "TC": "生產工具",
+            "TH": "การผลิต",
+            "VN": "Sản Xuất"
+          },
+          "sortId": 8,
+          "type": 17
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 7,
+            "newValue": 8
+          }
+        }
+      },
+      "18": {
+        "oldValue": {
+          "icon": "icon_item_type_portable_device",
+          "name": {
+            "BR": "Dispositivo Pessoal",
+            "CN": "随身装置",
+            "DE": "Persönliches Gerät",
+            "EN": "Personal Device",
+            "FR": "Dispositif personnel",
+            "ID": "Perangkat Pribadi",
+            "IT": "Dispositivo personale",
+            "JP": "携帯アイテム",
+            "KR": "휴대 장치",
+            "MX": "Dispositivo personal",
+            "RU": "Личное устройство",
+            "TC": "隨身裝置",
+            "TH": "อุปกรณ์​ส่วนตัว",
+            "VN": "Thiết Bị Cá Nhân"
+          },
+          "sortId": 11,
+          "type": 18
+        },
+        "newValue": {
+          "icon": "icon_item_type_portable_device",
+          "name": {
+            "BR": "Dispositivo Pessoal",
+            "CN": "随身装置",
+            "DE": "Persönliches Gerät",
+            "EN": "Personal Device",
+            "FR": "Dispositif personnel",
+            "ID": "Perangkat Pribadi",
+            "IT": "Dispositivo personale",
+            "JP": "携帯アイテム",
+            "KR": "휴대 장치",
+            "MX": "Dispositivo personal",
+            "RU": "Личное устройство",
+            "TC": "隨身裝置",
+            "TH": "อุปกรณ์​ส่วนตัว",
+            "VN": "Thiết Bị Cá Nhân"
+          },
+          "sortId": 12,
+          "type": 18
+        },
+        "changed": {
+          "sortId": {
+            "type": "value",
+            "oldValue": 11,
+            "newValue": 12
+          }
+        }
+      }
+    }
+  }
+}

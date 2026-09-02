@@ -1,0 +1,571 @@
+{
+  "tableName": "RemoteCommonTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "remotecomm_e11m5_1": {
+        "oldValue": {
+          "autoPlay": false,
+          "endAudioEvent": "",
+          "remoteCommSingleDataList": [
+            {
+              "actorList": [
+                "chr_0004_pelica"
+              ],
+              "actorName": {
+                "BR": "Perlica",
+                "CN": "佩丽卡",
+                "DE": "Perlica",
+                "EN": "Perlica",
+                "FR": "Perlica",
+                "ID": "Perlica",
+                "IT": "Perlica",
+                "JP": "ペリカ",
+                "KR": "펠리카",
+                "MX": "Perlica",
+                "RU": "Перлика",
+                "TC": "佩麗卡",
+                "TH": "เพอ​ริ​กา",
+                "VN": "Perlica"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 2,
+              "isVideoLoop": false,
+              "middleId": "chr_0004_pelica",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "A chamada finalmente foi completada... Endmin, você está bem? Tem alguém ferido?",
+                "CN": "终于联系上你们了……管理员，你还好吗，有没有受伤？",
+                "DE": "Endlich geht der Anruf durch … Endmin, geht es dir gut? Du bist doch nicht verletzt, oder?",
+                "EN": "The call finally got through... Endmin, are you alright? You're not injured, are you?",
+                "FR": "{F}Les communications sont enfin rétablies... Est-ce que ça va, Endmin ? Tu n'es pas blessée, j'espère ?{M}Les communications sont enfin rétablies... Est-ce que ça va, Endmin ? Tu n'es pas blessé, j'espère ?",
+                "ID": "Akhirnya panggilannya tersambung .... Endmin, kau baik-baik saja? Kau tidak terluka, 'kan?",
+                "IT": "{F}Finalmente le chiamate funzionano... Endmin, stai bene? Non sei ferita, vero?{M}Finalmente le chiamate funzionano... Endmin, stai bene? Non sei ferito, vero?",
+                "JP": "ようやく繋がりました……管理人、大丈夫ですか？　怪我はしていませんか？",
+                "KR": "드디어 연결됐네... 관리자, 괜찮아? 다친 데는 없고?",
+                "MX": "Por fin entró la llamada... Endmin, ¿estás bien? No te has hecho daño, ¿verdad?",
+                "RU": "Наконец появилась связь... Эндмин, с тобой все в порядке? Ранений нет?",
+                "TC": "終於聯絡到你們了……管理員，你還好嗎，有沒有受傷？",
+                "TH": "ในที่สุด​ก็​ติดต่อ​ได้​แล้ว​... Endmin คุณ​ไม่เป็นไร​ใช่ไหม​? ไม่​บาดเจ็บ​ตรงไหน​ใช่ไหม​?",
+                "VN": "Cuối cùng cũng liên lạc được... Endmin, ngài vẫn ổn chứ? Có bị thương không?"
+              },
+              "singleId": "remotecomm_e11m5_1_002",
+              "voiceId": "au_remotecomm_e11m5_1_002"
+            },
+            {
+              "actorList": [
+                "chr_9000_endmin"
+              ],
+              "actorName": {
+                "BR": "Endministrator",
+                "CN": "管理员",
+                "DE": "Endministrator",
+                "EN": "Endministrator",
+                "FR": "Endministrator",
+                "ID": "Endministrator",
+                "IT": "Endministrator",
+                "JP": "管理人",
+                "KR": "관리자",
+                "MX": "Endministrator",
+                "RU": "Эндминистратор",
+                "TC": "管理員",
+                "TH": "Endministrator",
+                "VN": "Endministrator"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 3,
+              "isVideoLoop": false,
+              "middleId": "chr_9000_endmin",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "{F}Estou bem. Eu também encontrei Arcane. Estamos a caminho de volta.{M}Estou bem. Eu também encontrei Arcane. Estamos a caminho de volta.",
+                "CN": "还好，我已经找到了诀，现在在返回的路上。",
+                "DE": "{F}Mir geht es gut. Arkan habe ich auch gefunden. Wir sind auf dem Rückweg.{M}Mir geht es gut. Arkan habe ich auch gefunden. Wir sind auf dem Rückweg.",
+                "EN": "{F}I'm good. I also found Arcane. We're on our way back.{M}I'm good. I also found Arcane. We're on our way back.",
+                "FR": "{F}Je vais bien. Et j'ai retrouvé Arcane. On est sur le chemin du retour.{M}Je vais bien. Et j'ai retrouvé Arcane. On est sur le chemin du retour.",
+                "ID": "{F}Aku baik-baik saja. Arcane juga sudah ketemu. Kami sedang jalan kembali.{M}Aku baik-baik saja. Arcane juga sudah ketemu. Kami sedang jalan kembali.",
+                "IT": "{F}Sto bene e ho trovato Arcana. Stiamo tornando.{M}Sto bene e ho trovato Arcana. Stiamo tornando.",
+                "JP": "うん、大丈夫だ。オクギも一緒に、今戻っているよ。",
+                "KR": "{F}난 괜찮아. 결 씨랑 같이 돌아가고 있어.{M}난 괜찮아. 결 씨랑 같이 돌아가고 있어.",
+                "MX": "{F}Estoy bien. También encontré a Arcane. Vamos de regreso.{M}Estoy bien. También encontré a Arcane. Vamos de regreso.",
+                "RU": "{F}Все в порядке. Премудрость со мной. Мы возвращаемся.{M}Все в порядке. Премудрость со мной. Мы возвращаемся.",
+                "TC": "還好，我已經找到了訣，現在在返回的路上。",
+                "TH": "{F}​สบาย​มาก​ ฉัน​พบ​ปริศนา​แล้ว​นะ​ เรา​กำลัง​กลับ​ไป​{M}​สบาย​มาก​ ฉัน​พบ​ปริศนา​แล้ว​นะ​ เรา​กำลัง​กลับ​ไป",
+                "VN": "{F}Tôi ổn. Tôi cũng đã tìm thấy Arcane rồi. Chúng tôi đang trên đường trở lại.{M}Tôi ổn. Tôi cũng tìm thấy Arcane rồi. Chúng tôi đang trên đường quay lại."
+              },
+              "singleId": "remotecomm_e11m5_1_003",
+              "voiceId": "au_remotecomm_e11m5_1_003"
+            },
+            {
+              "actorList": [
+                "chr_0005_chen"
+              ],
+              "actorName": {
+                "BR": "Chen Qianyu",
+                "CN": "陈千语",
+                "DE": "Chen Qianyu",
+                "EN": "Chen Qianyu",
+                "FR": "Chen Qianyu",
+                "ID": "Chen Qianyu",
+                "IT": "Chen Qianyu",
+                "JP": "チェン・センユー",
+                "KR": "진천우",
+                "MX": "Chen Qianyu",
+                "RU": "Чэнь Цяньюй",
+                "TC": "陳千語",
+                "TH": "เฉิน​ เชียน​ยู",
+                "VN": "Chen Qianyu"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 4,
+              "isVideoLoop": false,
+              "middleId": "chr_0005_chen",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "Li está bem? E Endmin também?! Ufa...",
+                "CN": "李织烟没事？管理员也没事？！那就好……",
+                "DE": "Li geht es gut? Und dir auch, Endmin?! Puh …",
+                "EN": "Li's okay? And so is the Endmin?! Phew...",
+                "FR": "Li va bien ? Et l'Endmin aussi ? Ouf...",
+                "ID": "Li baik-baik aja? Endmin juga?! Fyuh ....",
+                "IT": "Li sta bene? E anche l'Endmin?! Fiuuu...",
+                "JP": "チーエン、大丈夫？　管理人も……2人とも無事で、よかった……",
+                "KR": "지연이랑 너, 둘 다 무사하다는 거지?! 다행이다...",
+                "MX": "¿Li está bien? ¡¿Y Endmin también?! Fiiiuu...",
+                "RU": "С Ли все в порядке? И с Эндмином тоже?! Фух...",
+                "TC": "李織煙沒事？管理員也沒事？！那就好……",
+                "TH": "ห​ลี่​ ไม่เป็นไร​ใช่​มั้ย​ Endmin ก็​โอเค​ถูก​มั้ย​ ฟู่​ว​...",
+                "VN": "Li vẫn ổn ư? Endmin cũng không sao? Phù..."
+              },
+              "singleId": "remotecomm_e11m5_1_004",
+              "voiceId": "au_remotecomm_e11m5_1_004"
+            },
+            {
+              "actorList": [
+                "chr_0004_pelica"
+              ],
+              "actorName": {
+                "BR": "Perlica",
+                "CN": "佩丽卡",
+                "DE": "Perlica",
+                "EN": "Perlica",
+                "FR": "Perlica",
+                "ID": "Perlica",
+                "IT": "Perlica",
+                "JP": "ペリカ",
+                "KR": "펠리카",
+                "MX": "Perlica",
+                "RU": "Перлика",
+                "TC": "佩麗卡",
+                "TH": "เพอ​ริ​กา",
+                "VN": "Perlica"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 5,
+              "isVideoLoop": false,
+              "middleId": "chr_0004_pelica",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "O grupo de Tianshi Zhuang chegou à base da Coluna Celestial. Eu e Chen ficaremos no perímetro. Envie sua localização. Iremos para lá imediatamente.",
+                "CN": "庄天师他们已经抵达天柱下方，我们两人留在外围接应。坐标发给我，我们现在过去。",
+                "DE": "Tianshi Zhuangs Gruppe hat den Sockel der Himmelssäule erreicht. Chen und ich bleiben in der Nähe. Schickt uns euren Standort. Wir brechen sofort auf.",
+                "EN": "Tianshi Zhuang's group has arrived at the base of the Celestial Column. Chen and I are staying at the perimeter. Send your location. We'll head over immediately.",
+                "FR": "L'équipe de la Tianshi Zhuang a atteint la base de la colonne céleste. Chen et moi sommes à proximité. Envoyez-nous vos coordonnées. On vous rejoint tout de suite.",
+                "ID": "Kelompok Tianshi Zhuang sudah tiba di kaki Tonggak Langit. Aku dan Chen siaga di perimeter. Kirimkan lokasimu. Kami akan langsung ke sana.",
+                "IT": "Il gruppo della Tianshi Zhuang è arrivato alla base della Colonna celestiale. Io e Chen ci troviamo lungo il perimetro. Inviami la vostra posizione, così vi raggiungiamo subito.",
+                "JP": "ゾアン天師はすでに天柱にいます。私たちは近くでサポートを……とにかく座標を送ってください。すぐ迎えに行きます。",
+                "KR": "장 천사님이랑 다른 천사분들 모두 천주 아래에 도착했어. 우리 둘은 외곽에서 지원 대기 중이었고. 좌표를 보내주면 바로 그쪽으로 갈게.",
+                "MX": "El grupo de Tianshi Zhuang llegó a la base de la Columna Celestial. Chen y yo nos quedamos en el perímetro. Envía tu ubicación. Iremos de inmediato.",
+                "RU": "Отряд Тяньши Чжуан прибыл к подножию Небесной колонны. Мы с Чэнь на территории. Отправьте свои координаты. Выдвигаемся немедленно.",
+                "TC": "莊天師他們已經抵達天柱下方，我們兩人留在外圍接應。座標傳給我，我們現在過去。",
+                "TH": "กลุ่ม​ของ​เทียน​ซือ​จวง​มาถึง​ฐาน​ของ​เสา​ค้ำฟ้า​แล้ว​ ฉัน​กับ​เฉิน​พัก​อยู่​ที่​บริเวณ​รอบนอก​ ส่ง​ตำแหน่ง​มา​ซิ​ เรา​จะ​ไป​ที่นั่น​ทันที",
+                "VN": "Nhóm của Thiên Sư Zhuang đã đến vị trí chân đế Thiên Trụ. Chen và tôi đang ở lại vòng ngoài. Gửi vị trí của mọi người đi. Chúng tôi sẽ lập tức đến đó."
+              },
+              "singleId": "remotecomm_e11m5_1_005",
+              "voiceId": "au_remotecomm_e11m5_1_005"
+            }
+          ],
+          "startAudioEvent": ""
+        },
+        "newValue": {
+          "autoPlay": false,
+          "endAudioEvent": "",
+          "remoteCommSingleDataList": [
+            {
+              "actorList": [
+                "chr_0004_pelica",
+                "chr_0005_chen",
+                "chr_9000_endmin"
+              ],
+              "actorName": {
+                "BR": "Perlica",
+                "CN": "佩丽卡",
+                "DE": "Perlica",
+                "EN": "Perlica",
+                "FR": "Perlica",
+                "ID": "Perlica",
+                "IT": "Perlica",
+                "JP": "ペリカ",
+                "KR": "펠리카",
+                "MX": "Perlica",
+                "RU": "Перлика",
+                "TC": "佩麗卡",
+                "TH": "เพอ​ริ​กา",
+                "VN": "Perlica"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 2,
+              "isVideoLoop": false,
+              "middleId": "chr_0004_pelica",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "A chamada finalmente foi completada... Endmin, você está bem? Tem alguém ferido?",
+                "CN": "终于联系上你们了……管理员，你还好吗，有没有受伤？",
+                "DE": "Endlich geht der Anruf durch … Endmin, geht es dir gut? Du bist doch nicht verletzt, oder?",
+                "EN": "The call finally got through... Endmin, are you alright? You're not injured, are you?",
+                "FR": "{F}Les communications sont enfin rétablies... Est-ce que ça va, Endmin ? Tu n'es pas blessée, j'espère ?{M}Les communications sont enfin rétablies... Est-ce que ça va, Endmin ? Tu n'es pas blessé, j'espère ?",
+                "ID": "Akhirnya panggilannya tersambung .... Endmin, kau baik-baik saja? Kau tidak terluka, 'kan?",
+                "IT": "{F}Finalmente le chiamate funzionano... Endmin, stai bene? Non sei ferita, vero?{M}Finalmente le chiamate funzionano... Endmin, stai bene? Non sei ferito, vero?",
+                "JP": "ようやく繋がりました……管理人、大丈夫ですか？　怪我はしていませんか？",
+                "KR": "드디어 연결됐네... 관리자, 괜찮아? 다친 데는 없고?",
+                "MX": "Por fin entró la llamada... Endmin, ¿estás bien? No te has hecho daño, ¿verdad?",
+                "RU": "Наконец появилась связь... Эндмин, с тобой все в порядке? Ранений нет?",
+                "TC": "終於聯絡到你們了……管理員，你還好嗎，有沒有受傷？",
+                "TH": "ในที่สุด​ก็​ติดต่อ​ได้​แล้ว​... Endmin คุณ​ไม่เป็นไร​ใช่ไหม​? ไม่​บาดเจ็บ​ตรงไหน​ใช่ไหม​?",
+                "VN": "Cuối cùng cũng liên lạc được... Endmin, ngài vẫn ổn chứ? Có bị thương không?"
+              },
+              "singleId": "remotecomm_e11m5_1_002",
+              "voiceId": "au_remotecomm_e11m5_1_002"
+            },
+            {
+              "actorList": [
+                "chr_9000_endmin",
+                "chr_0004_pelica",
+                "chr_0005_chen"
+              ],
+              "actorName": {
+                "BR": "Endministrator",
+                "CN": "管理员",
+                "DE": "Endministrator",
+                "EN": "Endministrator",
+                "FR": "Endministrator",
+                "ID": "Endministrator",
+                "IT": "Endministrator",
+                "JP": "管理人",
+                "KR": "관리자",
+                "MX": "Endministrator",
+                "RU": "Эндминистратор",
+                "TC": "管理員",
+                "TH": "Endministrator",
+                "VN": "Endministrator"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 3,
+              "isVideoLoop": false,
+              "middleId": "chr_9000_endmin",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "{F}Estou bem. Eu também encontrei Arcane. Estamos a caminho de volta.{M}Estou bem. Eu também encontrei Arcane. Estamos a caminho de volta.",
+                "CN": "还好，我已经找到了诀，现在在返回的路上。",
+                "DE": "{F}Mir geht es gut. Arkan habe ich auch gefunden. Wir sind auf dem Rückweg.{M}Mir geht es gut. Arkan habe ich auch gefunden. Wir sind auf dem Rückweg.",
+                "EN": "{F}I'm good. I also found Arcane. We're on our way back.{M}I'm good. I also found Arcane. We're on our way back.",
+                "FR": "{F}Je vais bien. Et j'ai retrouvé Arcane. On est sur le chemin du retour.{M}Je vais bien. Et j'ai retrouvé Arcane. On est sur le chemin du retour.",
+                "ID": "{F}Aku baik-baik saja. Arcane juga sudah ketemu. Kami sedang jalan kembali.{M}Aku baik-baik saja. Arcane juga sudah ketemu. Kami sedang jalan kembali.",
+                "IT": "{F}Sto bene e ho trovato Arcana. Stiamo tornando.{M}Sto bene e ho trovato Arcana. Stiamo tornando.",
+                "JP": "うん、大丈夫だ。オクギも一緒に、今戻っているよ。",
+                "KR": "{F}난 괜찮아. 결 씨랑 같이 돌아가고 있어.{M}난 괜찮아. 결 씨랑 같이 돌아가고 있어.",
+                "MX": "{F}Estoy bien. También encontré a Arcane. Vamos de regreso.{M}Estoy bien. También encontré a Arcane. Vamos de regreso.",
+                "RU": "{F}Все в порядке. Премудрость со мной. Мы возвращаемся.{M}Все в порядке. Премудрость со мной. Мы возвращаемся.",
+                "TC": "還好，我已經找到了訣，現在在返回的路上。",
+                "TH": "{F}​สบาย​มาก​ ฉัน​พบ​ปริศนา​แล้ว​นะ​ เรา​กำลัง​กลับ​ไป​{M}​สบาย​มาก​ ฉัน​พบ​ปริศนา​แล้ว​นะ​ เรา​กำลัง​กลับ​ไป",
+                "VN": "{F}Tôi ổn. Tôi cũng đã tìm thấy Arcane rồi. Chúng tôi đang trên đường trở lại.{M}Tôi ổn. Tôi cũng tìm thấy Arcane rồi. Chúng tôi đang trên đường quay lại."
+              },
+              "singleId": "remotecomm_e11m5_1_003",
+              "voiceId": "au_remotecomm_e11m5_1_003"
+            },
+            {
+              "actorList": [
+                "chr_0005_chen",
+                "chr_9000_endmin",
+                "chr_0004_pelica"
+              ],
+              "actorName": {
+                "BR": "Chen Qianyu",
+                "CN": "陈千语",
+                "DE": "Chen Qianyu",
+                "EN": "Chen Qianyu",
+                "FR": "Chen Qianyu",
+                "ID": "Chen Qianyu",
+                "IT": "Chen Qianyu",
+                "JP": "チェン・センユー",
+                "KR": "진천우",
+                "MX": "Chen Qianyu",
+                "RU": "Чэнь Цяньюй",
+                "TC": "陳千語",
+                "TH": "เฉิน​ เชียน​ยู",
+                "VN": "Chen Qianyu"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 4,
+              "isVideoLoop": false,
+              "middleId": "chr_0005_chen",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "Li está bem? E Endmin também?! Ufa...",
+                "CN": "李织烟没事？管理员也没事？！那就好……",
+                "DE": "Li geht es gut? Und dir auch, Endmin?! Puh …",
+                "EN": "Li's okay? And so is the Endmin?! Phew...",
+                "FR": "Li va bien ? Et l'Endmin aussi ? Ouf...",
+                "ID": "Li baik-baik aja? Endmin juga?! Fyuh ....",
+                "IT": "Li sta bene? E anche l'Endmin?! Fiuuu...",
+                "JP": "チーエン、大丈夫？　管理人も……2人とも無事で、よかった……",
+                "KR": "지연이랑 너, 둘 다 무사하다는 거지?! 다행이다...",
+                "MX": "¿Li está bien? ¡¿Y Endmin también?! Fiiiuu...",
+                "RU": "С Ли все в порядке? И с Эндмином тоже?! Фух...",
+                "TC": "李織煙沒事？管理員也沒事？！那就好……",
+                "TH": "ห​ลี่​ ไม่เป็นไร​ใช่​มั้ย​ Endmin ก็​โอเค​ถูก​มั้ย​ ฟู่​ว​...",
+                "VN": "Li vẫn ổn ư? Endmin cũng không sao? Phù..."
+              },
+              "singleId": "remotecomm_e11m5_1_004",
+              "voiceId": "au_remotecomm_e11m5_1_004"
+            },
+            {
+              "actorList": [
+                "chr_0004_pelica",
+                "chr_0005_chen",
+                "chr_9000_endmin"
+              ],
+              "actorName": {
+                "BR": "Perlica",
+                "CN": "佩丽卡",
+                "DE": "Perlica",
+                "EN": "Perlica",
+                "FR": "Perlica",
+                "ID": "Perlica",
+                "IT": "Perlica",
+                "JP": "ペリカ",
+                "KR": "펠리카",
+                "MX": "Perlica",
+                "RU": "Перлика",
+                "TC": "佩麗卡",
+                "TH": "เพอ​ริ​กา",
+                "VN": "Perlica"
+              },
+              "audioId": "",
+              "autoPlayTime": -1,
+              "hint": {
+                "BR": "",
+                "CN": "",
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ID": "",
+                "IT": "",
+                "JP": "",
+                "KR": "",
+                "MX": "",
+                "RU": "",
+                "TC": "",
+                "TH": "",
+                "VN": ""
+              },
+              "imageList": [],
+              "index": 5,
+              "isVideoLoop": false,
+              "middleId": "chr_0004_pelica",
+              "musicId": "",
+              "remoteCommText": {
+                "BR": "O grupo de Tianshi Zhuang chegou à base da Coluna Celestial. Eu e Chen ficaremos no perímetro. Envie sua localização. Iremos para lá imediatamente.",
+                "CN": "庄天师他们已经抵达天柱下方，我们两人留在外围接应。坐标发给我，我们现在过去。",
+                "DE": "Tianshi Zhuangs Gruppe hat den Sockel der Himmelssäule erreicht. Chen und ich bleiben in der Nähe. Schickt uns euren Standort. Wir brechen sofort auf.",
+                "EN": "Tianshi Zhuang's group has arrived at the base of the Celestial Column. Chen and I are staying at the perimeter. Send your location. We'll head over immediately.",
+                "FR": "L'équipe de la Tianshi Zhuang a atteint la base de la colonne céleste. Chen et moi sommes à proximité. Envoyez-nous vos coordonnées. On vous rejoint tout de suite.",
+                "ID": "Kelompok Tianshi Zhuang sudah tiba di kaki Tonggak Langit. Aku dan Chen siaga di perimeter. Kirimkan lokasimu. Kami akan langsung ke sana.",
+                "IT": "Il gruppo della Tianshi Zhuang è arrivato alla base della Colonna celestiale. Io e Chen ci troviamo lungo il perimetro. Inviami la vostra posizione, così vi raggiungiamo subito.",
+                "JP": "ゾアン天師はすでに天柱にいます。私たちは近くでサポートを……とにかく座標を送ってください。すぐ迎えに行きます。",
+                "KR": "장 천사님이랑 다른 천사분들 모두 천주 아래에 도착했어. 우리 둘은 외곽에서 지원 대기 중이었고. 좌표를 보내주면 바로 그쪽으로 갈게.",
+                "MX": "El grupo de Tianshi Zhuang llegó a la base de la Columna Celestial. Chen y yo nos quedamos en el perímetro. Envía tu ubicación. Iremos de inmediato.",
+                "RU": "Отряд Тяньши Чжуан прибыл к подножию Небесной колонны. Мы с Чэнь на территории. Отправьте свои координаты. Выдвигаемся немедленно.",
+                "TC": "莊天師他們已經抵達天柱下方，我們兩人留在外圍接應。座標傳給我，我們現在過去。",
+                "TH": "กลุ่ม​ของ​เทียน​ซือ​จวง​มาถึง​ฐาน​ของ​เสา​ค้ำฟ้า​แล้ว​ ฉัน​กับ​เฉิน​พัก​อยู่​ที่​บริเวณ​รอบนอก​ ส่ง​ตำแหน่ง​มา​ซิ​ เรา​จะ​ไป​ที่นั่น​ทันที",
+                "VN": "Nhóm của Thiên Sư Zhuang đã đến vị trí chân đế Thiên Trụ. Chen và tôi đang ở lại vòng ngoài. Gửi vị trí của mọi người đi. Chúng tôi sẽ lập tức đến đó."
+              },
+              "singleId": "remotecomm_e11m5_1_005",
+              "voiceId": "au_remotecomm_e11m5_1_005"
+            }
+          ],
+          "startAudioEvent": ""
+        },
+        "changed": {
+          "remoteCommSingleDataList[0].actorList[1]": {
+            "type": "value",
+            "newValue": "chr_0005_chen"
+          },
+          "remoteCommSingleDataList[0].actorList[2]": {
+            "type": "value",
+            "newValue": "chr_9000_endmin"
+          },
+          "remoteCommSingleDataList[1].actorList[1]": {
+            "type": "value",
+            "newValue": "chr_0004_pelica"
+          },
+          "remoteCommSingleDataList[1].actorList[2]": {
+            "type": "value",
+            "newValue": "chr_0005_chen"
+          },
+          "remoteCommSingleDataList[2].actorList[1]": {
+            "type": "value",
+            "newValue": "chr_9000_endmin"
+          },
+          "remoteCommSingleDataList[2].actorList[2]": {
+            "type": "value",
+            "newValue": "chr_0004_pelica"
+          },
+          "remoteCommSingleDataList[3].actorList[1]": {
+            "type": "value",
+            "newValue": "chr_0005_chen"
+          },
+          "remoteCommSingleDataList[3].actorList[2]": {
+            "type": "value",
+            "newValue": "chr_9000_endmin"
+          }
+        }
+      }
+    }
+  }
+}

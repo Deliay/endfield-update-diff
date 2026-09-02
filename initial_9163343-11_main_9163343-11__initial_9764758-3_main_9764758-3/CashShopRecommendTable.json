@@ -1,0 +1,101 @@
+{
+  "tableName": "CashShopRecommendTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 3,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "recommend_weaponbox__1_5_1": {
+        "cashGoodsIdList": [
+          "shop_weponbox_1_5_1"
+        ],
+        "id": "recommend_weaponbox__1_5_1",
+        "name": {
+          "BR": "Distribuição Frio Intenso",
+          "CN": "幽寒申领",
+          "DE": "Eiskalt-Ausgabe",
+          "EN": "Deep Cold Issue",
+          "FR": "Tirage du froid mordant",
+          "ID": "Edisi Dingin Menusuk Tulang",
+          "IT": "Distribuzione Freddo profondo",
+          "JP": "極寒・申請",
+          "KR": "한기 신청",
+          "MX": "Solicitud de Frío intenso",
+          "RU": "Поставка «Лютый мороз»",
+          "TC": "幽寒申領",
+          "TH": "ตั๋ว​หนาว​ยะเยือก",
+          "VN": "Gói Rút Cực Hàn"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "",
+        "priority": 9977,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "Weapon"
+      },
+      "recommend_weaponbox__1_5_2": {
+        "cashGoodsIdList": [
+          "shop_weponbox_yvonne"
+        ],
+        "id": "recommend_weaponbox__1_5_2",
+        "name": {
+          "BR": "Distribuição Grafiteiro",
+          "CN": "点绘申领",
+          "DE": "Künstler-Schriftzug-Ausgabe",
+          "EN": "Tag Artist Issue",
+          "FR": "Tirage de graffeuse",
+          "ID": "Edisi Gaya Seniman",
+          "IT": "Distribuzione Artista dei graffiti",
+          "JP": "点描・申請",
+          "KR": "점묘 신청",
+          "MX": "Solicitud de Artista del grafiti",
+          "RU": "Поставка «Теггер»",
+          "TC": "點繪申領",
+          "TH": "ตั๋ว​ศิลปิน​แท็ก",
+          "VN": "Gói Rút Thẻ Họa Sĩ"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "",
+        "priority": 9978,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "Weapon"
+      },
+      "recommend_seasonal_12": {
+        "cashGoodsIdList": [
+          "seasonal_giftpack_lt_1_5_1"
+        ],
+        "id": "recommend_seasonal_12",
+        "name": {
+          "BR": "Pacote CT Caçada de Inverno",
+          "CN": "冬猎寻访组合包",
+          "DE": "Paket: Winterjagd-RK",
+          "EN": "Winter Hunt HH Bundle",
+          "FR": "Lot de REC Chasse hivernale",
+          "ID": "Bundel HH Perburuan Musim Dingin",
+          "IT": "Pacchetto CT: Caccia invernale",
+          "JP": "冬狩スカウトパック",
+          "KR": "겨울 사냥 헤드헌팅 조합 패키지",
+          "MX": "Paquete de C.R. de Cacería invernal",
+          "RU": "Набор найма «Зимняя охота»",
+          "TC": "冬獵尋訪組合包",
+          "TH": "ชุด​รวม​ HH ไล่​ล่า​กลาง​เหมันต์",
+          "VN": "Gói Chiêu Mộ Cuộc Săn Mùa Đông"
+        },
+        "newPriority": 0,
+        "nextChooseId": "",
+        "prefabName": "SeasonalGiftpacklt_1_5_1",
+        "priority": 4987,
+        "setNewPriorityCashGoodsIdList": [],
+        "type": "DynamicGift"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

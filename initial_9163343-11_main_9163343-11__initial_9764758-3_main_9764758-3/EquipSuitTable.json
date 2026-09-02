@@ -1,0 +1,344 @@
+{
+  "tableName": "EquipSuitTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 3
+  },
+  "entries": {
+    "added": {
+      "suit_spellburst": {
+        "equipList": [
+          "item_equip_t4_suit_spellburst_body_01",
+          "item_equip_t4_suit_spellburst_hand_01",
+          "item_equip_t4_suit_spellburst_edc_01"
+        ],
+        "list": [
+          {
+            "equipCnt": 3,
+            "skillID": "passive_equipsuit_spellburst01",
+            "skillLv": 1,
+            "suitID": "suit_spellburst",
+            "suitLogoName": "icon_pack_wuling_suit_fire_natr01",
+            "suitName": {
+              "BR": "Muralha Profunda",
+              "CN": "险关",
+              "DE": "Tiefer Wall",
+              "EN": "Deep Rampart",
+              "FR": "Rempart profond",
+              "ID": "Deep Rampart",
+              "IT": "Bastione profondo",
+              "JP": "天険",
+              "KR": "관문",
+              "MX": "Baluarte profundo",
+              "RU": "Далекий бастион",
+              "TC": "險關",
+              "TH": "ปราการ​ห้วง​ลึก",
+              "VN": "Thành Lũy Thâm Sâu"
+            }
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "suit_usp02": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_suit_usp02_body_01",
+            "item_equip_t4_suit_usp02_hand_01",
+            "item_equip_t4_suit_usp02_hand_02",
+            "item_equip_t4_suit_usp02_edc_01",
+            "item_equip_t4_suit_usp02_edc_02",
+            "item_equip_t4_suit_usp02_edc_03",
+            "item_equip_t4_suit_usp02_body_03",
+            "item_equip_t4_suit_usp02_body_04",
+            "item_equip_t4_suit_usp02_hand_03",
+            "item_equip_t4_suit_usp02_hand_04",
+            "item_equip_t4_suit_usp02_edc_04"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_usp_02",
+              "skillLv": 1,
+              "suitID": "suit_usp02",
+              "suitLogoName": "icon_pack_wuling_suit_usp02",
+              "suitName": {
+                "BR": "Xiranita Eterna",
+                "CN": "长息",
+                "DE": "Ewiges Xiranit",
+                "EN": "Eternal Xiranite",
+                "FR": "Xiranite éternelle",
+                "ID": "Eternal Xiranite",
+                "IT": "Xiranite eterna",
+                "JP": "流転",
+                "KR": "식양의 숨결",
+                "MX": "Xiranita eterna",
+                "RU": "Вечный ксиранит",
+                "TC": "長息",
+                "TH": "ซี​เรน​ไนต์​นิรันดร์",
+                "VN": "Xiranite Vĩnh Cửu"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_suit_usp02_body_01",
+            "item_equip_t4_suit_usp02_hand_01",
+            "item_equip_t4_suit_usp02_hand_02",
+            "item_equip_t4_suit_usp02_edc_01",
+            "item_equip_t4_suit_usp02_edc_02",
+            "item_equip_t4_suit_usp02_edc_03",
+            "item_equip_t4_suit_usp02_body_03",
+            "item_equip_t4_suit_usp02_body_04",
+            "item_equip_t4_suit_usp02_hand_03",
+            "item_equip_t4_suit_usp02_hand_04",
+            "item_equip_t4_suit_usp02_edc_04",
+            "item_equip_t4_suit_usp02_edc_05",
+            "item_equip_t4_suit_usp02_edc_06"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_usp_02",
+              "skillLv": 1,
+              "suitID": "suit_usp02",
+              "suitLogoName": "icon_pack_wuling_suit_usp02",
+              "suitName": {
+                "BR": "Xiranita Eterna",
+                "CN": "长息",
+                "DE": "Ewiges Xiranit",
+                "EN": "Eternal Xiranite",
+                "FR": "Xiranite éternelle",
+                "ID": "Eternal Xiranite",
+                "IT": "Xiranite eterna",
+                "JP": "流転",
+                "KR": "식양의 숨결",
+                "MX": "Xiranita eterna",
+                "RU": "Вечный ксиранит",
+                "TC": "長息",
+                "TH": "ซี​เรน​ไนต์​นิรันดร์",
+                "VN": "Xiranite Vĩnh Cửu"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[11]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_usp02_edc_05"
+          },
+          "equipList[12]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_usp02_edc_06"
+          }
+        }
+      },
+      "suit_burst01": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_suit_burst01_body_01",
+            "item_equip_t4_suit_burst01_hand_01",
+            "item_equip_t4_suit_burst01_edc_01",
+            "item_equip_t4_suit_burst01_edc_02"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_burst_01",
+              "skillLv": 1,
+              "suitID": "suit_burst01",
+              "suitLogoName": "icon_pack_wuling_suit_burst01",
+              "suitName": {
+                "BR": "Maré Alta",
+                "CN": "潮涌",
+                "DE": "Sturmflut",
+                "EN": "Tide Surge",
+                "FR": "Raz-de-marée",
+                "ID": "Tide Surge",
+                "IT": "Alta marea",
+                "JP": "満潮",
+                "KR": "조류의 물결",
+                "MX": "Marea alta",
+                "RU": "Натиск прилива",
+                "TC": "潮湧",
+                "TH": "คลื่น​กระชาก",
+                "VN": "Triều Xung"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_suit_burst01_body_01",
+            "item_equip_t4_suit_burst01_hand_01",
+            "item_equip_t4_suit_burst01_edc_01",
+            "item_equip_t4_suit_burst01_edc_02",
+            "item_equip_t4_suit_burst01_body_02",
+            "item_equip_t4_suit_burst01_body_03",
+            "item_equip_t4_suit_burst01_hand_02",
+            "item_equip_t4_suit_burst01_edc_03"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_burst_01",
+              "skillLv": 1,
+              "suitID": "suit_burst01",
+              "suitLogoName": "icon_pack_wuling_suit_burst01",
+              "suitName": {
+                "BR": "Maré Alta",
+                "CN": "潮涌",
+                "DE": "Sturmflut",
+                "EN": "Tide Surge",
+                "FR": "Raz-de-marée",
+                "ID": "Tide Surge",
+                "IT": "Alta marea",
+                "JP": "満潮",
+                "KR": "조류의 물결",
+                "MX": "Marea alta",
+                "RU": "Натиск прилива",
+                "TC": "潮湧",
+                "TH": "คลื่น​กระชาก",
+                "VN": "Triều Xung"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[4]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_burst01_body_02"
+          },
+          "equipList[5]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_burst01_body_03"
+          },
+          "equipList[6]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_burst01_hand_02"
+          },
+          "equipList[7]": {
+            "type": "value",
+            "newValue": "item_equip_t4_suit_burst01_edc_03"
+          }
+        }
+      },
+      "suit_generaltype": {
+        "oldValue": {
+          "equipList": [
+            "item_equip_t4_parts_wuling00_body_01",
+            "item_equip_t4_parts_wuling00_body_02",
+            "item_equip_t4_parts_wuling00_body_03",
+            "item_equip_t4_parts_wuling00_hand_01",
+            "item_equip_t4_parts_wuling00_hand_02",
+            "item_equip_t4_parts_wuling00_hand_03",
+            "item_equip_t4_parts_wuling00_edc_01",
+            "item_equip_t4_parts_wuling00_edc_02",
+            "item_equip_t4_parts_wuling00_edc_03"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_generaltype",
+              "skillLv": 1,
+              "suitID": "suit_generaltype",
+              "suitLogoName": "icon_pack_wuling_suit_fire_natr01",
+              "suitName": {
+                "BR": "CAI de Campo",
+                "CN": "集成实训",
+                "DE": "AIK-Einsatz",
+                "EN": "AIC Fieldwork",
+                "FR": "Terrain du GIA",
+                "ID": "Misi Lapangan AIC",
+                "IT": "Lavoro sul campo del SIA",
+                "JP": "集成訓練",
+                "KR": "통합 실전 훈련",
+                "MX": "Trabajo de campo del CAI",
+                "RU": "Полевые работы АПК",
+                "TC": "集成實訓",
+                "TH": "ภาค​สนาม​ AIC",
+                "VN": "Thực Địa Khu Phức Hợp"
+              }
+            }
+          ]
+        },
+        "newValue": {
+          "equipList": [
+            "item_equip_t4_parts_wuling00_body_01",
+            "item_equip_t4_parts_wuling00_body_02",
+            "item_equip_t4_parts_wuling00_body_03",
+            "item_equip_t4_parts_wuling00_hand_01",
+            "item_equip_t4_parts_wuling00_hand_02",
+            "item_equip_t4_parts_wuling00_hand_03",
+            "item_equip_t4_parts_wuling00_edc_01",
+            "item_equip_t4_parts_wuling00_edc_02",
+            "item_equip_t4_parts_wuling00_edc_03",
+            "item_equip_t4_parts_wuling00_body_04",
+            "item_equip_t4_parts_wuling00_body_05",
+            "item_equip_t4_parts_wuling00_hand_04",
+            "item_equip_t4_parts_wuling00_hand_05",
+            "item_equip_t4_parts_wuling00_edc_04",
+            "item_equip_t4_parts_wuling00_edc_05"
+          ],
+          "list": [
+            {
+              "equipCnt": 3,
+              "skillID": "passive_equipsuit_generaltype",
+              "skillLv": 1,
+              "suitID": "suit_generaltype",
+              "suitLogoName": "icon_pack_wuling_suit_fire_natr01",
+              "suitName": {
+                "BR": "CAI de Campo",
+                "CN": "集成实训",
+                "DE": "AIK-Einsatz",
+                "EN": "AIC Fieldwork",
+                "FR": "Terrain du GIA",
+                "ID": "Misi Lapangan AIC",
+                "IT": "Lavoro sul campo del SIA",
+                "JP": "集成訓練",
+                "KR": "통합 실전 훈련",
+                "MX": "Trabajo de campo del CAI",
+                "RU": "Полевые работы АПК",
+                "TC": "集成實訓",
+                "TH": "ภาค​สนาม​ AIC",
+                "VN": "Thực Địa Khu Phức Hợp"
+              }
+            }
+          ]
+        },
+        "changed": {
+          "equipList[9]": {
+            "type": "value",
+            "newValue": "item_equip_t4_parts_wuling00_body_04"
+          },
+          "equipList[10]": {
+            "type": "value",
+            "newValue": "item_equip_t4_parts_wuling00_body_05"
+          },
+          "equipList[11]": {
+            "type": "value",
+            "newValue": "item_equip_t4_parts_wuling00_hand_04"
+          },
+          "equipList[12]": {
+            "type": "value",
+            "newValue": "item_equip_t4_parts_wuling00_hand_05"
+          },
+          "equipList[13]": {
+            "type": "value",
+            "newValue": "item_equip_t4_parts_wuling00_edc_04"
+          },
+          "equipList[14]": {
+            "type": "value",
+            "newValue": "item_equip_t4_parts_wuling00_edc_05"
+          }
+        }
+      }
+    }
+  }
+}

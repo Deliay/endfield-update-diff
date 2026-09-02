@@ -1,0 +1,249 @@
+{
+  "tableName": "FactoryManualCraftTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 6,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_arrow_chip_multiple": {
+        "craftFilterType": 0,
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "item_arrow_chip_multiple",
+        "ingredients": [
+          {
+            "count": 10,
+            "id": "item_copper_enr2_cmpt"
+          }
+        ],
+        "itemId": "item_formula_arrow_chip_multiple",
+        "name": {
+          "BR": "Eco Persistente",
+          "CN": "游荡之声",
+          "DE": "Persistentes Echo",
+          "EN": "Persistent Echo",
+          "FR": "Écho persistant",
+          "ID": "Gema Berkepanjangan",
+          "IT": "Eco persistente",
+          "JP": "迷える声",
+          "KR": "떠도는 메아리",
+          "MX": "Eco persistente",
+          "RU": "Стойкое эхо",
+          "TC": "遊蕩之聲",
+          "TH": "เอคโค่​ต่อเนื่อง",
+          "VN": "Dư Âm Bất Tận"
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_arrow_chip_multiple"
+          }
+        ],
+        "rarity": 5,
+        "showingType": 25,
+        "sortId": 207
+      },
+      "item_arrow_chip_shield_breaker": {
+        "craftFilterType": 0,
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "item_arrow_chip_shield_breaker",
+        "ingredients": [
+          {
+            "count": 10,
+            "id": "item_copper_enr2_cmpt"
+          }
+        ],
+        "itemId": "item_formula_arrow_chip_shield_breaker",
+        "name": {
+          "BR": "Fúria Bestial",
+          "CN": "蛮兽之怒",
+          "DE": "Tierische Wut",
+          "EN": "Beastly Rage",
+          "FR": "Rage bestiale",
+          "ID": "Amarah Ganas",
+          "IT": "Furia bestiale",
+          "JP": "狂獣激昂",
+          "KR": "비스트의 분노",
+          "MX": "Furia bestial",
+          "RU": "Звериная ярость",
+          "TC": "蠻獸之怒",
+          "TH": "ความ​พิโรธ​สัตว์ร้าย",
+          "VN": "Cuồng Nộ Dã Thú"
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_arrow_chip_shield_breaker"
+          }
+        ],
+        "rarity": 5,
+        "showingType": 25,
+        "sortId": 208
+      },
+      "hdwk_slwood_1_hshog_1_1": {
+        "craftFilterType": 0,
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "hdwk_slwood_1_hshog_1_1",
+        "ingredients": [
+          {
+            "count": 2,
+            "id": "item_drop_slwood_1"
+          },
+          {
+            "count": 1,
+            "id": "item_drop_hshog_1"
+          }
+        ],
+        "itemId": "item_formula_slwood_1_hshog_1_1",
+        "name": {
+          "BR": "Fígado Tostado e Grelhado",
+          "CN": "香焗兽肝",
+          "DE": "Scharf angebratene Leber",
+          "EN": "Sear-Toasted Liver",
+          "FR": "Foie grillé",
+          "ID": "Hati Panggang",
+          "IT": "Fegato abbrustolito",
+          "JP": "レバーの塩蒸し焼き",
+          "KR": "향신료로 구운 비스트의 간",
+          "MX": "Hígado sellado y tostado",
+          "RU": "Обжаренная печень",
+          "TC": "香焗獸肝",
+          "TH": "ตับ​ย่าง​ไฟแรง",
+          "VN": "Gan Nướng Xém"
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_slwood_1_hshog_1_1"
+          }
+        ],
+        "rarity": 4,
+        "showingType": 19,
+        "sortId": 36
+      },
+      "item_arrow_chip_bomb": {
+        "craftFilterType": 0,
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "item_arrow_chip_bomb",
+        "ingredients": [
+          {
+            "count": 10,
+            "id": "item_copper_enr2_cmpt"
+          }
+        ],
+        "itemId": "item_formula_arrow_chip_bomb",
+        "name": {
+          "BR": "Resina Flamejante",
+          "CN": "燃松之脂",
+          "DE": "Flammendes Harz",
+          "EN": "Flaming Resin",
+          "FR": "Résine flamboyante",
+          "ID": "Resin Membara",
+          "IT": "Resina ardente",
+          "JP": "燃ゆる松脂",
+          "KR": "불타는 송진",
+          "MX": "Resina ardiente",
+          "RU": "Пылающая смола",
+          "TC": "燃松之脂",
+          "TH": "เร​ซิน​ที่​ลุกโชน",
+          "VN": "Nhựa Lửa"
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_arrow_chip_bomb"
+          }
+        ],
+        "rarity": 5,
+        "showingType": 25,
+        "sortId": 210
+      },
+      "item_arrow_chip_frozen": {
+        "craftFilterType": 0,
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "item_arrow_chip_frozen",
+        "ingredients": [
+          {
+            "count": 10,
+            "id": "item_copper_enr2_cmpt"
+          }
+        ],
+        "itemId": "item_formula_arrow_chip_frozen",
+        "name": {
+          "BR": "Ponta Congelante",
+          "CN": "寒冰之簇",
+          "DE": "Reifspitze",
+          "EN": "Rime Tip",
+          "FR": "Pointe de givre",
+          "ID": "Ujung Embun Beku",
+          "IT": "Punta brinata",
+          "JP": "凍てつく矢",
+          "KR": "혹한의 결정",
+          "MX": "Punta de escarcha",
+          "RU": "Острие инея",
+          "TC": "寒冰之簇",
+          "TH": "ยอด​เกล็ด​น้ำแข็ง",
+          "VN": "Mũi Sương Giá"
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_arrow_chip_frozen"
+          }
+        ],
+        "rarity": 5,
+        "showingType": 25,
+        "sortId": 209
+      },
+      "item_arrow_chip_penetrate": {
+        "craftFilterType": 0,
+        "defaultUnlock": false,
+        "domainId": "domain_2",
+        "id": "item_arrow_chip_penetrate",
+        "ingredients": [
+          {
+            "count": 10,
+            "id": "item_copper_enr2_cmpt"
+          }
+        ],
+        "itemId": "item_formula_arrow_chip_penetrate",
+        "name": {
+          "BR": "Quebra-Alvorecer",
+          "CN": "破曙之光",
+          "DE": "Morgenbrecher",
+          "EN": "Dawnbreaker",
+          "FR": "Brise-aurore",
+          "ID": "Pemecah Fajar",
+          "IT": "Spezzalba",
+          "JP": "夜を裂く光",
+          "KR": "여명을 가르는 빛",
+          "MX": "Rompealbas",
+          "RU": "Разрушитель зари",
+          "TC": "破曙之光",
+          "TH": "ดอว์น​เบรก​เกอร์",
+          "VN": "Kẻ Phá Bình Minh"
+        },
+        "outcomes": [
+          {
+            "count": 1,
+            "id": "item_arrow_chip_penetrate"
+          }
+        ],
+        "rarity": 5,
+        "showingType": 25,
+        "sortId": 211
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

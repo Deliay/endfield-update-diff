@@ -1,0 +1,59 @@
+{
+  "tableName": "ItemGatherTextTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_drop_babyents_1": {
+        "desc": {
+          "BR": "Chance de Soltar: <@gd.key>Andarilho da Mata</>",
+          "CN": "击败<@gd.key>徘徊树傀</>有概率掉落",
+          "DE": "Zufallsdrop von: <@gd.key>Schnitzkunst-Wanderer</>",
+          "EN": "Chance Drop: <@gd.key>Woodcraft Wanderer</>",
+          "FR": "Chance d'obtention : <@gd.key>Vagabond sylvain</>",
+          "ID": "Peluang Drop: <@gd.key>Pengembara Kayu</>",
+          "IT": "Ottenibile da: <@gd.key>Girovago del bosco</>",
+          "JP": "<@gd.key>巡回ゴーレム</>を倒す（一定確率）",
+          "KR": "<@gd.key>배회 나무 골렘</> 처치 시 일정 확률로 획득 가능",
+          "MX": "Posibilidad de obtener: <@gd.key>Errante de madera</>",
+          "RU": "Можно получить: <@gd.key>древесный странник</>",
+          "TC": "擊敗<@gd.key>徘徊樹傀</>有機率掉落",
+          "TH": "โอกาส​ได้รับ​ไอ​เทม​: <@gd.key>​โก​เล​ม​ไม้​พเนจร​</>",
+          "VN": "Xác Suất Xuất Hiện: <@gd.key>Mộc Ngẫu Lãng Du</>"
+        },
+        "domainId": "domain_2",
+        "icon": "icon_item_b_type_doodad",
+        "id": "item_drop_babyents_1"
+      },
+      "item_drop_slwood_1": {
+        "desc": {
+          "BR": "Chance de Soltar: <@gd.key>Lesma da Madeira</>",
+          "CN": "击败<@gd.key>虫体树傀</>有概率掉落",
+          "DE": "Zufallsdrop von: <@gd.key>Schnitzkunst-Schnecke</>",
+          "EN": "Chance Drop: <@gd.key>Woodcraft Slug</>",
+          "FR": "Chance d'obtention : <@gd.key>Limace sylvaine</>",
+          "ID": "Peluang Drop: <@gd.key>Siput Kayu</>",
+          "IT": "Ottenibile da: <@gd.key>Lumaca del bosco</>",
+          "JP": "<@gd.key>ムシ型ゴーレム</>を倒す（一定確率）",
+          "KR": "<@gd.key>벌레 나무 골렘</> 처치 시 일정 확률로 획득 가능",
+          "MX": "Posibilidad de obtener: <@gd.key>Babosa de madera</>",
+          "RU": "Можно получить: <@gd.key>древесный слизень</>",
+          "TC": "擊敗<@gd.key>蟲體樹傀</>有機率掉落",
+          "TH": "โอกาส​ได้รับ​ไอ​เทม​: <@gd.key>​ทาก​งาน​ไม้​</>",
+          "VN": "Xác Suất Xuất Hiện: <@gd.key>Mộc Ngẫu Dạng Sên</>"
+        },
+        "domainId": "domain_2",
+        "icon": "icon_item_b_type_doodad",
+        "id": "item_drop_slwood_1"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

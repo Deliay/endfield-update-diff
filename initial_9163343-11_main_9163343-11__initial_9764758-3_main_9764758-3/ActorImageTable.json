@@ -1,0 +1,45 @@
+{
+  "tableName": "ActorImageTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "chr_0034_typhoea": {
+        "avatarPath": "icon_chr_0034_typhoea",
+        "bustPath": "icon_chr_0034_typhoea",
+        "illustrationPath": "",
+        "missionPanelChrAvatarPath": "chapter_character_char_icon_011"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "chr_0032_lizhiyan": {
+        "oldValue": {
+          "avatarPath": "icon_chr_0032_lizhiyan",
+          "bustPath": "icon_chr_0032_lizhiyan",
+          "illustrationPath": "",
+          "missionPanelChrAvatarPath": "chapter_character_char_icon_09"
+        },
+        "newValue": {
+          "avatarPath": "icon_chr_0032_lizhiyan",
+          "bustPath": "icon_chr_0032_lizhiyan",
+          "illustrationPath": "",
+          "missionPanelChrAvatarPath": ""
+        },
+        "changed": {
+          "missionPanelChrAvatarPath": {
+            "type": "value",
+            "oldValue": "chapter_character_char_icon_09",
+            "newValue": ""
+          }
+        }
+      }
+    }
+  }
+}

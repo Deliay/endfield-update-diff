@@ -1,0 +1,1118 @@
+{
+  "tableName": "GameMechanicConditionTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 34,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "dung02_archery09_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery09_condition_2",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 4",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "gameMechanicsId": "dung02_archery09",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_archery02_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery02_condition_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare",
+          "JP": "前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành các màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_archery02",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery03"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_archery03_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery03_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare",
+          "JP": "前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành các màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_archery03",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery01"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower011_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower011_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa la difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower011_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower011_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower013_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower013_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa la difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower013_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower013_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_archery08_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery08_condition_2",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 4",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "gameMechanicsId": "dung02_archery08",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_daily_archery01_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery01_condition_1",
+        "conditionType": 18,
+        "desc": {
+          "BR": "Avance na missão: [Estande de Arco e Flecha do Fundo do Penhasco] para desbloquear",
+          "CN": "推进任务「悬崖下的靶场」解锁",
+          "DE": "Schreite durch die Mission [Bogenschießanlage Klippengrund] voran, um Folgendes freizuschalten:",
+          "EN": "Progress through the mission [Cliffbottom Archery Range] to unlock",
+          "FR": "Progresser dans la mission [Pas de tir du pied des falaises] pour débloquer",
+          "ID": "Tingkatkan progres misi [Lapangan Panahan Dasar Tebing] untuk membukanya",
+          "IT": "Progredisci nella missione [Poligono di tiro con l'arco del fondo della scogliera] per sbloccare.",
+          "JP": "任務「崖の下の射場」を進めて解放",
+          "KR": "[절벽 아래 활터] 임무를 진행하여 잠금 해제",
+          "MX": "Progresa en la misión [Campo de tiro con arco al pie del acantilado] para desbloquear",
+          "RU": "Продолжайте проходить миссию «Стрельбище под скалой», чтобы открыть",
+          "TC": "推進任務「懸崖下的靶場」解鎖",
+          "TH": "ทำ​ภารกิจ​ [สนาม​ยิง​ธนู​ก้น​ผา​] ต่อไป​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành nhiệm vụ [Trường Bắn Cung Dưới Chân Vách] để mở khóa"
+        },
+        "gameMechanicsId": "dung02_daily_archery01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "gm02m29_q#6"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 2
+      },
+      "indie_battletower009_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower009_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa la difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower009_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower009_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower012_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower012_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa la difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower012_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower012_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_archery02_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery02_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 2",
+          "CN": "靶场提升至2级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 2 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 2",
+          "FR": "Déblocage : niveau 2 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 2",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 2",
+          "JP": "射場をLv.2にして解放",
+          "KR": "활터 2레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 2 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 2",
+          "TC": "靶場提升至2級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 2",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 2"
+        },
+        "gameMechanicsId": "dung02_archery02",
+        "parameter": [],
+        "progressToCompare": 2
+      },
+      "dung02_archery04_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery04_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 2",
+          "CN": "靶场提升至2级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 2 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 2",
+          "FR": "Déblocage : niveau 2 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 2",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 2",
+          "JP": "射場をLv.2にして解放",
+          "KR": "활터 2레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 2 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 2",
+          "TC": "靶場提升至2級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 2",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 2"
+        },
+        "gameMechanicsId": "dung02_archery04",
+        "parameter": [],
+        "progressToCompare": 2
+      },
+      "dung02_archery04_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery04_condition_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare",
+          "JP": "前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành các màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_archery04",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery02"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_archery05_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery05_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 3",
+          "CN": "靶场提升至3级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 3 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 3",
+          "FR": "Déblocage : niveau 3 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 3",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 3",
+          "JP": "射場をLv.3にして解放",
+          "KR": "활터 3레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 3 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 3",
+          "TC": "靶場提升至3級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 3",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 3"
+        },
+        "gameMechanicsId": "dung02_archery05",
+        "parameter": [],
+        "progressToCompare": 3
+      },
+      "dung02_archery05_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery05_condition_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare",
+          "JP": "前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành các màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_archery05",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery04"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_archery06_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery06_condition_2",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 4",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "gameMechanicsId": "dung02_archery06",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_archery07_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_archery07_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 4",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "gameMechanicsId": "dung02_archery07",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_daily_archery01_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery01_condition_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o treinamento Fúria Bestial para desbloquear",
+          "CN": "完成蛮兽之怒教学后解锁",
+          "DE": "Schließe zum Freischalten das Training für Tierische Wut ab.",
+          "EN": "Complete the Beastly Rage training to unlock",
+          "FR": "Terminer l'entraînement Rage bestiale pour débloquer ceci",
+          "ID": "Selesaikan latihan Amarah Ganas untuk membukanya",
+          "IT": "Completa l'addestramento Furia bestiale per sbloccare",
+          "JP": "狂獣激昂を完了して解放",
+          "KR": "비스트의 분노 가이드 완료 후 잠금 해제",
+          "MX": "Completa el entrenamiento de Furia bestial para desbloquear",
+          "RU": "Чтобы открыть, завершите подготовку «Звериная ярость»",
+          "TC": "完成蠻獸之怒教學後解鎖",
+          "TH": "ผ่าน​การ​ฝึก​ความ​พิโรธ​สัตว์ร้าย​ให้​สำเร็จ​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành huấn luyện Cuồng Nộ Dã Thú để mở khóa"
+        },
+        "gameMechanicsId": "dung02_daily_archery01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery03"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_daily_archery02_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery02_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 2",
+          "CN": "靶场提升至2级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 2 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 2",
+          "FR": "Déblocage : niveau 2 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 2",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 2",
+          "JP": "射場をLv.2にして解放",
+          "KR": "활터 2레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 2 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 2",
+          "TC": "靶場提升至2級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 2",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 2"
+        },
+        "gameMechanicsId": "dung02_daily_archery02",
+        "parameter": [],
+        "progressToCompare": 2
+      },
+      "dung02_daily_archery02_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery02_condition_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o treinamento Resina Flamejante para desbloquear",
+          "CN": "完成燃松之脂教学后解锁",
+          "DE": "Schließe zum Freischalten das Training für Flammendes Harz ab.",
+          "EN": "Complete the Flaming Resin training to unlock",
+          "FR": "Terminer l'entraînement Résine flamboyante pour débloquer ceci",
+          "ID": "Selesaikan latihan Resin Membara untuk membukanya",
+          "IT": "Completa l'addestramento Resina ardente per sbloccare",
+          "JP": "燃ゆる松脂を完了して解放",
+          "KR": "불타는 송진 가이드 완료 후 잠금 해제",
+          "MX": "Completa el entrenamiento de Resina ardiente para desbloquear",
+          "RU": "Чтобы открыть, завершите подготовку «Пылающая смола»",
+          "TC": "完成燃松之脂教學後解鎖",
+          "TH": "ผ่าน​การ​ฝึก​เร​ซิน​ที่​ลุกโชน​ให้​สำเร็จ​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành huấn luyện Nhựa Lửa để mở khóa"
+        },
+        "gameMechanicsId": "dung02_daily_archery02",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery04"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_daily_archery03_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery03_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 3",
+          "CN": "靶场提升至3级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 3 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 3",
+          "FR": "Déblocage : niveau 3 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 3",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 3",
+          "JP": "射場をLv.3にして解放",
+          "KR": "활터 3레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 3 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 3",
+          "TC": "靶場提升至3級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 3",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 3"
+        },
+        "gameMechanicsId": "dung02_daily_archery03",
+        "parameter": [],
+        "progressToCompare": 3
+      },
+      "dung02_daily_archery03_condition_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery03_condition_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o treinamento Quebra-Alvorecer para desbloquear",
+          "CN": "完成破曙之光教学后解锁",
+          "DE": "Schließe zum Freischalten das Training für Morgenbrecher ab.",
+          "EN": "Complete the Dawnbreaker training to unlock",
+          "FR": "Terminer l'entraînement Brise-aurore pour débloquer ceci",
+          "ID": "Selesaikan latihan Pemecah Fajar untuk membukanya",
+          "IT": "Completa l'addestramento Spezzalba per sbloccare",
+          "JP": "夜を裂く光を完了して解放",
+          "KR": "여명을 가르는 빛 가이드 완료 후 잠금 해제",
+          "MX": "Completa el entrenamiento de Rompealbas para desbloquear",
+          "RU": "Чтобы открыть, завершите подготовку «Разрушитель зари»",
+          "TC": "完成破曙之光教學後解鎖",
+          "TH": "ผ่าน​การ​ฝึก​ดอว์น​เบรก​เกอร์​ให้​สำเร็จ​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành huấn luyện Kẻ Phá Bình Minh để mở khóa"
+        },
+        "gameMechanicsId": "dung02_daily_archery03",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery05"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_daily_archery04_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery04_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 4",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "gameMechanicsId": "dung02_daily_archery04",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_daily_archery05_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery05_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Conclua a missão de introdução para desbloquear",
+          "CN": "完成引导任务解锁",
+          "DE": "Schließe zum Freischalten die Einführungsmission ab.",
+          "EN": "Complete the introductory mission to unlock",
+          "FR": "Terminer la mission d'introduction pour débloquer ceci",
+          "ID": "Selesaikan misi pengantar untuk membukanya",
+          "IT": "Completa la missione introduttiva per sbloccare",
+          "JP": "ガイド任務完了で解放",
+          "KR": "가이드 임무 완료 후 잠금 해제",
+          "MX": "Completa la misión introductoria para desbloquear",
+          "RU": "Чтобы открыть, завершите вводную миссию",
+          "TC": "完成引導任務解鎖",
+          "TH": "ทำ​ภารกิจ​แนะนำ​ให้​สำเร็จ​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành nhiệm vụ giới thiệu để mở khóa"
+        },
+        "gameMechanicsId": "dung02_daily_archery05",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_daily_archery06_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery06_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 2",
+          "CN": "靶场提升至2级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 2 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 2",
+          "FR": "Déblocage : niveau 2 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 2",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 2",
+          "JP": "射場をLv.2にして解放",
+          "KR": "활터 2레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 2 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 2",
+          "TC": "靶場提升至2級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 2",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 2"
+        },
+        "gameMechanicsId": "dung02_daily_archery06",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_daily_archery07_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery07_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 3",
+          "CN": "靶场提升至3级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 3 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 3",
+          "FR": "Déblocage : niveau 3 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 3",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 3",
+          "JP": "射場をLv.3にして解放",
+          "KR": "활터 3레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 3 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 3",
+          "TC": "靶場提升至3級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 3",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 3"
+        },
+        "gameMechanicsId": "dung02_daily_archery07",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_daily_archery08_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_daily_archery08_condition_1",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con poligono di tiro con l'arco al livello 4",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "gameMechanicsId": "dung02_daily_archery08",
+        "parameter": [],
+        "progressToCompare": 4
+      },
+      "dung02_minibossrush03_01_cond_1": {
+        "compareOperator": 3,
+        "conditionId": "dung02_minibossrush03_01_cond_1",
+        "conditionType": 19,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "dung02_minibossrush03_01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "c34m3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              0
+            ],
+            "valueIntList": [
+              0
+            ],
+            "valueStringList": [
+              "0"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung02_minibossrush03_02_cond_2": {
+        "compareOperator": 3,
+        "conditionId": "dung02_minibossrush03_02_cond_2",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua o estágio anterior para desbloquear",
+          "CN": "通关前置关卡后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Phase ab.",
+          "EN": "Complete previous stage to unlock",
+          "FR": "Terminer le niveau précédent pour débloquer ceci",
+          "ID": "Selesaikan stage sebelumnya untuk membukanya",
+          "IT": "Completa la fase precedente per sbloccare",
+          "JP": "前のステージをクリアして解放",
+          "KR": "이전 스테이지 완료 시 잠금 해제",
+          "MX": "Completa la fase anterior para desbloquear",
+          "RU": "Чтобы открыть, пройдите предыдущую стадию",
+          "TC": "通關前置關卡後解鎖",
+          "TH": "ผ่าน​ด่าน​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành các màn trước để mở khóa"
+        },
+        "gameMechanicsId": "dung02_minibossrush03_02",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_minibossrush03_01"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_4_normal_cond2": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_4_normal_cond2",
+        "conditionType": 4509,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_4_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              4
+            ],
+            "valueIntList": [
+              4
+            ],
+            "valueStringList": [
+              "4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "map02_lv007"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_4_auto_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_4_auto_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_4_auto",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_3_4_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "dung_typhoea_chartrain01_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "dung_typhoea_chartrain01_condition_1",
+        "conditionType": 5265,
+        "desc": {
+          "BR": "Desbloqueie o Tutorial",
+          "CN": "解锁教学关",
+          "DE": "Schalte das Tutorial frei.",
+          "EN": "Unlock the Tutorial",
+          "FR": "Débloquer le didacticiel",
+          "ID": "Buka Tutorial",
+          "IT": "Sblocca il tutorial",
+          "JP": "ガイドステージ解放",
+          "KR": "가이드 스테이지 잠금 해제",
+          "MX": "Desbloquear el tutorial",
+          "RU": "Откройте обучение",
+          "TC": "解鎖教學關",
+          "TH": "ปลดล็อก​บท​ฝึกหัด",
+          "VN": "Mở Khóa Hướng Dẫn"
+        },
+        "gameMechanicsId": "dung_typhoea_chartrain01",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "chr_0034_typhoea"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower010_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower010_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa la difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower010_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower010_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "indie_battletower014_condition_1": {
+        "compareOperator": 3,
+        "conditionId": "indie_battletower014_condition_1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "Conclua a dificuldade anterior para desbloquear",
+          "CN": "通关前置难度后解锁",
+          "DE": "Schließe zum Freischalten die vorherige Schwierigkeit ab.",
+          "EN": "Complete previous difficulty to unlock",
+          "FR": "Terminer le niveau de difficulté précédent pour débloquer ceci",
+          "ID": "Selesaikan tingkat kesulitan sebelumnya untuk membukanya",
+          "IT": "Completa la difficoltà precedente per sbloccare",
+          "JP": "1つ前の難易度をクリアして解放",
+          "KR": "이전 난이도 완료 후 잠금 해제",
+          "MX": "Completa la dificultad anterior para desbloquear",
+          "RU": "Завершите предыдущую сложность, чтобы открыть",
+          "TC": "通關前置難度後解鎖",
+          "TH": "ผ่าน​ระดับ​ความ​ยาก​ก่อนหน้า​เพื่อ​ปลดล็อก",
+          "VN": "Hoàn thành độ khó trước để mở khóa"
+        },
+        "gameMechanicsId": "indie_battletower014_ex",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "indie_battletower014_s"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "stm_hongs_3_4_normal_cond1": {
+        "compareOperator": 3,
+        "conditionId": "stm_hongs_3_4_normal_cond1",
+        "conditionType": 5031,
+        "desc": {
+          "BR": "",
+          "CN": "",
+          "DE": "",
+          "EN": "",
+          "FR": "",
+          "ID": "",
+          "IT": "",
+          "JP": "",
+          "KR": "",
+          "MX": "",
+          "RU": "",
+          "TC": "",
+          "TH": "",
+          "VN": ""
+        },
+        "gameMechanicsId": "stm_hongs_3_4_normal",
+        "parameter": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "stm_hongs_3_3_normal"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

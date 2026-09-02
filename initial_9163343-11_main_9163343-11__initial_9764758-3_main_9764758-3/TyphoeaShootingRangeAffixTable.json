@@ -1,0 +1,473 @@
+{
+  "tableName": "TyphoeaShootingRangeAffixTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 24,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "AffixBomb1": {
+        "affixDesc": {
+          "BR": "Resina Flamejante aplica 3 acúmulos de Resina de uma só vez.",
+          "CN": "燃松之脂可以一次性附着三层燃松效果。",
+          "DE": "„Flammendes Harz“ fügt gleichzeitig 3 Harz-Kumulierungen zu.",
+          "EN": "Flaming Resin applies 3 Resin stacks at once.",
+          "FR": "Résine flamboyante applique 3 cumuls de résine d'un coup.",
+          "ID": "Resin Membara akan mengakibatkan 3 tumpuk Resin sekaligus.",
+          "IT": "Resina ardente applica 3 accumuli di Resina contemporaneamente.",
+          "JP": "燃ゆる松脂は一度に松脂効果を3段階付与する。",
+          "KR": "불타는 송진이 불타는 송진 효과를 한 번에 3스택을 부여합니다.",
+          "MX": "Resina ardiente aplica 3 acumulaciones de Resina a la vez.",
+          "RU": "«Пылающая смола» накладывает 3 заряда смолы одновременно.",
+          "TC": "燃松之脂可以一次附著三層燃松效果。",
+          "TH": "เร​ซิน​ที่​ลุกโชน​จะ​ติด​เร​ซิน​ 3 ชั้นใน​ครั้ง​เดียว",
+          "VN": "Nhựa Lửa áp dụng cùng lúc 3 cộng dồn Nhựa."
+        },
+        "affixId": "AffixBomb1"
+      },
+      "AffixFrost3": {
+        "affixDesc": {
+          "BR": "Ponta Congelante causa 2 de DNO, mas trava em 7 alvos a menos.",
+          "CN": "寒冰之簇造成2点伤害，但可锁定靶标减少7个。",
+          "DE": "„Reifspitze“ verursacht 2 SDN, es werden aber 7 Ziele weniger anvisiert.",
+          "EN": "Rime Tip deals 2 DMG but locks onto 7 less targets.",
+          "FR": "Pointe de givre inflige 2 pts de DÉG, mais la compétence verrouille 7 cibles de moins.",
+          "ID": "Ujung Embun Beku akan menimbulkan 2 DMG tapi mengunci 7 target lebih sedikit.",
+          "IT": "Punta brinata infligge 2 danni ma aggancia 7 bersagli in meno.",
+          "JP": "凍てつく矢はダメージを2与えるが、ロックオン可能な的数が7つ減少する。",
+          "KR": "혹한의 결정이 2포인트의 피해를 주는 대신, 고정할 수 있는 표적 수가 7개 감소합니다.",
+          "MX": "Punta de escarcha inflige 2 de DAÑ, pero fija 7 objetivos menos.",
+          "RU": "«Острие инея» наносит 2 ед. УРН, но захватывает на 7 целей меньше.",
+          "TC": "寒冰之簇造成2點傷害，但可鎖定標靶減少7個。",
+          "TH": "ยอด​เกล็ด​น้ำแข็ง​สร้าง​ 2 DMG แต่​ล็อก​เป้าหมาย​ได้​น้อยลง​ 7 เป้าหมาย",
+          "VN": "Mũi Sương Giá gây 2 ST, nhưng khóa vào ít hơn 7 mục tiêu."
+        },
+        "affixId": "AffixFrost3"
+      },
+      "AffixBomb2": {
+        "affixDesc": {
+          "BR": "Resina Flamejante trava a mira em mais 1 alvo.",
+          "CN": "燃松之脂可以额外锁定1个靶标。",
+          "DE": "„Flammendes Harz“ visiert 1 weiteres Ziel an.",
+          "EN": "Flaming Resin locks onto 1 more target.",
+          "FR": "Résine flamboyante verrouille 1 cible supplémentaire.",
+          "ID": "Resin Membara akan mengunci 1 target lagi.",
+          "IT": "Resina ardente aggancia 1 bersaglio aggiuntivo.",
+          "JP": "燃ゆる松脂は追加で的を1個ロックオンする。",
+          "KR": "불타는 송진이 표적을 1개 더 추가로 고정합니다.",
+          "MX": "Resina ardiente fija 1 objetivo más.",
+          "RU": "«Пылающая смола» захватывает 1 дополнительную цель.",
+          "TC": "燃松之脂可以額外鎖定1個標靶。",
+          "TH": "เร​ซิน​ที่​ลุกโชน​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 1 เป้าหมาย",
+          "VN": "Nhựa Lửa khóa vào thêm 1 mục tiêu."
+        },
+        "affixId": "AffixBomb2"
+      },
+      "AffixBreaker2": {
+        "affixDesc": {
+          "BR": "Fúria Bestial trava a mira em mais 1 alvo.",
+          "CN": "蛮兽之怒可以额外锁定1个靶标。",
+          "DE": "„Tierische Wut“ visiert 1 weiteres Ziel an.",
+          "EN": "Beastly Rage locks onto 1 more target.",
+          "FR": "Rage bestiale verrouille 1 cible supplémentaire.",
+          "ID": "Amarah Ganas akan mengunci 1 target lagi.",
+          "IT": "Furia bestiale aggancia 1 bersaglio aggiuntivo.",
+          "JP": "狂獣激昂は追加で的を1個ロックオンする。",
+          "KR": "비스트의 분노가 표적을 1개 더 추가로 고정합니다.",
+          "MX": "Furia bestial fija 1 objetivo más.",
+          "RU": "«Звериная ярость» захватывает 1 дополнительную цель.",
+          "TC": "蠻獸之怒可以額外鎖定1個標靶。",
+          "TH": "ความ​พิโรธ​สัตว์ร้าย​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 1 เป้าหมาย",
+          "VN": "Cuồng Nộ Dã Thú khóa vào thêm 1 mục tiêu."
+        },
+        "affixId": "AffixBreaker2"
+      },
+      "AffixBomb3": {
+        "affixDesc": {
+          "BR": "Resina Flamejante trava a mira em mais 2 alvos.",
+          "CN": "燃松之脂可以额外锁定2个靶标。",
+          "DE": "„Flammendes Harz“ visiert 2 weitere Ziele an.",
+          "EN": "Flaming Resin locks onto 2 more targets.",
+          "FR": "Résine flamboyante verrouille 2 cibles supplémentaires.",
+          "ID": "Resin Membara akan mengunci 2 target lagi.",
+          "IT": "Resina ardente aggancia 2 bersagli aggiuntivi.",
+          "JP": "燃ゆる松脂は追加で的を2個ロックオンする。",
+          "KR": "불타는 송진이 표적을 2개 더 추가로 고정합니다.",
+          "MX": "Resina ardiente fija 2 objetivos más.",
+          "RU": "«Пылающая смола» захватывает 2 дополнительные цели.",
+          "TC": "燃松之脂可以額外鎖定2個標靶。",
+          "TH": "เร​ซิน​ที่​ลุกโชน​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 2 เป้าหมาย",
+          "VN": "Nhựa Lửa khóa vào thêm 2 mục tiêu."
+        },
+        "affixId": "AffixBomb3"
+      },
+      "AffixBomb4": {
+        "affixDesc": {
+          "BR": "Resina Flamejante pode danificar escudos.",
+          "CN": "燃松之脂可以破坏能量护盾。",
+          "DE": "„Flammendes Harz“ kann Schilden SDN zufügen.",
+          "EN": "Flaming Resin can damage shields.",
+          "FR": "Résine flamboyante peut endommager les protections.",
+          "ID": "Resin Membara bisa merusak perisai.",
+          "IT": "Resina ardente può danneggiare gli scudi.",
+          "JP": "燃ゆる松脂はエネルギーシールドを破壊する。",
+          "KR": "불타는 송진이 에너지 보호를 파괴합니다.",
+          "MX": "Resina ardiente puede dañar escudos.",
+          "RU": "«Пылающая смола» может наносить урон по щитам.",
+          "TC": "燃松之脂可以破壞能量護盾。",
+          "TH": "เร​ซิน​ที่​ลุกโชน​สามารถ​สร้าง​ความเสียหาย​ต่อ​โล่",
+          "VN": "Nhựa Lửa có thể gây sát thương lên khiên."
+        },
+        "affixId": "AffixBomb4"
+      },
+      "AffixFrost2": {
+        "affixDesc": {
+          "BR": "Ponta Congelante causa 1 de DNO, mas trava em 5 alvos a menos.",
+          "CN": "寒冰之簇造成1点伤害，但可锁定靶标减少5个。",
+          "DE": "„Reifspitze“ verursacht 1 SDN, es werden aber 5 Ziele weniger anvisiert.",
+          "EN": "Rime Tip deals 1 DMG but locks onto 5 less targets.",
+          "FR": "Pointe de givre inflige 1 pt de DÉG, mais la compétence verrouille 5 cibles de moins.",
+          "ID": "Ujung Embun Beku akan menimbulkan 1 DMG tapi mengunci 5 target lebih sedikit.",
+          "IT": "Punta brinata infligge 1 danno ma aggancia 5 bersagli in meno.",
+          "JP": "凍てつく矢はダメージを1与えるが、ロックオン可能な的数が5つ減少する。",
+          "KR": "혹한의 결정이 1포인트의 피해를 주는 대신, 고정할 수 있는 표적 수가 5개 감소합니다.",
+          "MX": "Punta de escarcha inflige 1 de DAÑ, pero fija 5 objetivos menos.",
+          "RU": "«Острие инея» наносит 1 ед. УРН, но захватывает на 5 целей меньше.",
+          "TC": "寒冰之簇造成1點傷害，但可鎖定標靶減少5個。",
+          "TH": "ยอด​เกล็ด​น้ำแข็ง​สร้าง​ 1 DMG แต่​ล็อก​เป้าหมาย​ได้​น้อยลง​ 5 เป้าหมาย",
+          "VN": "Mũi Sương Giá gây 1 ST, nhưng khóa vào ít hơn 5 mục tiêu."
+        },
+        "affixId": "AffixFrost2"
+      },
+      "AffixBreaker1": {
+        "affixDesc": {
+          "BR": "Fúria Bestial pode ricochetear.",
+          "CN": "蛮兽之怒获得弹射效果。",
+          "DE": "„Tierische Wut“ kann abprallen.",
+          "EN": "Beastly Rage can ricochet.",
+          "FR": "Rage bestiale peut ricocher.",
+          "ID": "Amarah Ganas bisa memantul balik.",
+          "IT": "Furia bestiale può rimbalzare.",
+          "JP": "狂獣激昂は跳弾効果を獲得する。",
+          "KR": "비스트의 분노가 연쇄 타격 효과를 획득합니다.",
+          "MX": "Furia bestial puede rebotar.",
+          "RU": "«Звериная ярость» может давать рикошет.",
+          "TC": "蠻獸之怒獲得彈射效果。",
+          "TH": "ความ​พิโรธ​สัตว์ร้าย​สามารถ​ชิ่ง​ใส่​เป้าหมาย​อื่น​ได้",
+          "VN": "Cuồng Nộ Dã Thú có thể nảy bật."
+        },
+        "affixId": "AffixBreaker1"
+      },
+      "breakerArrow2": {
+        "affixDesc": {
+          "BR": "DNO de Fúria Bestial é dobrado e pode ricochetear.",
+          "CN": "蛮兽之怒伤害翻倍且获得弹射效果。",
+          "DE": "Der durch Tierische Wut verursachte SDN wird verdoppelt und der Pfeil kann abprallen.",
+          "EN": "Beastly Rage DMG is doubled and can ricochet.",
+          "FR": "Rage bestiale voit ses DÉG doubler et peut ricocher.",
+          "ID": "DMG Amarah Ganas digandakan dan bisa memantul balik.",
+          "IT": "I danni di Furia bestiale sono raddoppiati e possono rimbalzare.",
+          "JP": "狂獣激昂のダメージが2倍になり、跳弾効果を獲得する。",
+          "KR": "비스트의 분노의 피해가 2배로 증가하고, 연쇄 타격 효과를 획득합니다.",
+          "MX": "El DAÑ de Furia bestial se duplica y puede rebotar.",
+          "RU": "УРН «Звериной ярости» удваивается, и она дает рикошет.",
+          "TC": "蠻獸之怒傷害翻倍且獲得彈射效果。",
+          "TH": "DMG ของ​ความ​พิโรธ​สัตว์ร้าย​เพิ่มขึ้น​เป็น​สองเท่า​ และ​ชิ่ง​ใส่​เป้าหมาย​อื่น​ได้",
+          "VN": "ST của Cuồng Nộ Dã Thú được nhân đôi và có thể bật nảy."
+        },
+        "affixId": "breakerArrow2"
+      },
+      "AffixBreaker3": {
+        "affixDesc": {
+          "BR": "DNO de Fúria Bestial é dobrado.",
+          "CN": "蛮兽之怒伤害翻倍。",
+          "DE": "Der durch Tierische Wut verursachte SDN wird verdoppelt.",
+          "EN": "Beastly Rage DMG is doubled.",
+          "FR": "Les DÉG de Rage bestiale sont doublés.",
+          "ID": "DMG Amarah Ganas akan digandakan.",
+          "IT": "I danni di Furia bestiale sono raddoppiati.",
+          "JP": "狂獣激昂のダメージが2倍になる。",
+          "KR": "비스트의 분노의 피해가 2배 증가합니다.",
+          "MX": "El DAÑ de Furia bestial se duplica.",
+          "RU": "УРН «Звериной ярости» удваивается.",
+          "TC": "蠻獸之怒傷害翻倍。",
+          "TH": "DMG ของ​ความ​พิโรธ​สัตว์ร้าย​เพิ่มขึ้น​เป็น​สองเท่า",
+          "VN": "ST của Cuồng Nộ Dã Thú được nhân đôi."
+        },
+        "affixId": "AffixBreaker3"
+      },
+      "frostArrow": {
+        "affixDesc": {
+          "BR": "Ponta Congelante causa 1 de DNO e pode danificar escudos.",
+          "CN": "寒冰之簇造成1点伤害 ，且可破坏能量护盾。",
+          "DE": "„Reifspitze“ verursacht 1 SDN und kann Schilde beschädigen.",
+          "EN": "Rime Tip deals 1 DMG, and can damage shields.",
+          "FR": "Pointe de givre inflige 1 point de DÉG et peut endommager les boucliers.",
+          "ID": "Ujung Embun Beku akan menimbulkan 1 DMG dan bisa menghancurkan perisai.",
+          "IT": "Punta brinata infligge 1 danno e può danneggiare gli scudi.",
+          "JP": "凍てつく矢はダメージを1与え、エネルギーシールドを破壊する。",
+          "KR": "혹한의 결정이 1포인트의 피해를 주고, 에너지 보호를 파괴합니다.",
+          "MX": "Punta de escarcha inflige 1 de DAÑ y puede dañar escudos.",
+          "RU": "«Острие инея» наносит 1 ед. урона и может наносить урон щитам.",
+          "TC": "寒冰之簇造成1點傷害，且可破壞能量護盾。",
+          "TH": "ยอด​เกล็ด​น้ำแข็ง​จะ​สร้าง​ DMG 1 หน่วย​ และ​สามารถ​สร้าง​ดา​เม​จ​แก่​โล่​ได้",
+          "VN": "Mũi Sương Giá gây 1 ST và có thể phá khiên."
+        },
+        "affixId": "frostArrow"
+      },
+      "AffixEmpty": {
+        "affixDesc": {
+          "BR": "//・",
+          "CN": "//・",
+          "DE": "//・",
+          "EN": "//・",
+          "FR": "//・",
+          "ID": "//・",
+          "IT": "//・",
+          "JP": "//・",
+          "KR": "// ·",
+          "MX": "//・",
+          "RU": "//・",
+          "TC": "//・",
+          "TH": "//",
+          "VN": "//"
+        },
+        "affixId": "AffixEmpty"
+      },
+      "AffixFrost1": {
+        "affixDesc": {
+          "BR": "Ponta Congelante pode Congelar e pode danificar escudos.",
+          "CN": "寒冰之簇可以破坏能量护盾，并造成冰冻效果。",
+          "DE": "Reifspitze kann Ziele einfrieren und Schilde beschädigen.",
+          "EN": "Rime Tip can Freeze and can damage shields.",
+          "FR": "Pointe de givre peut geler et endommager les protections.",
+          "ID": "Ujung Embun Beku bisa Membekukan dan merusak perisai.",
+          "IT": "Punta brinata può congelare e può danneggiare gli scudi.",
+          "JP": "凍てつく矢はエネルギーシールドを破壊し、凍結効果を付与する。",
+          "KR": "혹한의 결정이 에너지 보호를 파괴하고, 빙결 효과를 부여합니다.",
+          "MX": "Punta de escarcha puede Congelar y dañar escudos.",
+          "RU": "«Острие инея» может замораживать цель и наносить урон по щитам.",
+          "TC": "寒冰之簇可以破壞能量護盾，並造成冰凍效果。",
+          "TH": "ยอด​เกล็ด​น้ำแข็ง​สามารถ​แช่แข็ง​และ​สร้าง​ความเสียหาย​ต่อ​โล่",
+          "VN": "Mũi Sương Giá có thể Đóng Băng và gây sát thương lên khiên."
+        },
+        "affixId": "AffixFrost1"
+      },
+      "AffixMulti1": {
+        "affixDesc": {
+          "BR": "Eco Persistente trava em mais 3 alvos, mas causa metade do DNO.",
+          "CN": "游荡之声可以额外锁定3个靶标，但伤害减半。",
+          "DE": "„Persistentes Echo“ visiert 3 weitere Ziele an, verursacht aber nur noch halb so viel SDN.",
+          "EN": "Persistent Echo locks onto 3 more targets, but deals half the DMG.",
+          "FR": "Écho persistant verrouille 3 cibles supplémentaires, mais inflige la moitié des DÉG.",
+          "ID": "Gema Berkepanjangan akan mengunci 3 target lagi, tapi menimbulkan setengah DMG.",
+          "IT": "Eco persistente aggancia 3 bersagli aggiuntivi ma infligge metà dei danni.",
+          "JP": "迷える声は追加で的を3個ロックオンするが、ダメージが半減する。",
+          "KR": "떠도는 메아리가 표적을 3개 더 추가로 고정하는 대신, 주는 피해가 절반으로 감소합니다.",
+          "MX": "Eco persistente fija 3 objetivos más, pero inflige la mitad del DAÑ.",
+          "RU": "«Стойкое эхо» захватывает 3 дополнительные цели, но наносит в два раза меньше УРН.",
+          "TC": "遊蕩之聲可以額外鎖定3個標靶，但傷害減半。",
+          "TH": "เอคโค่​ต่อเนื่อง​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 3 เป้าหมาย​ แต่​สร้าง​ DMG เพียง​ครึ่ง​เดียว",
+          "VN": "Dư Âm Bất Tận khóa vào thêm 3 mục tiêu, nhưng gây nửa lượng ST."
+        },
+        "affixId": "AffixMulti1"
+      },
+      "AffixMulti2": {
+        "affixDesc": {
+          "BR": "DNO de Eco Persistente é dobrado, mas trava em 3 alvos a menos.",
+          "CN": "游荡之声伤害翻倍，但可锁定靶标减少3个。",
+          "DE": "SDN durch Persistentes Echo wird verdoppelt, es werden aber 3 Ziele weniger anvisiert.",
+          "EN": "Persistent Echo DMG is doubled, but locks onto 3 less targets.",
+          "FR": "Les DÉG d'Écho persistant sont doublés, mais la compétence verrouille 3 cibles de moins.",
+          "ID": "DMG Gema Berkepanjangan akan digandakan, tapi mengunci 3 target lebih sedikit.",
+          "IT": "Eco persistente infligge danni raddoppiati ma aggancia 3 bersagli in meno.",
+          "JP": "迷える声のダメージが2倍になるが、ロックオン可能な的数が3つ減少する。",
+          "KR": "떠도는 메아리의 피해가 2배로 증가하는 대신, 고정할 수 있는 표적 수가 3개 감소합니다.",
+          "MX": "El DAÑ de Eco persistente se duplica, pero fija 3 objetivos menos.",
+          "RU": "«Стойкое эхо» наносит двойной УРН, но захватывает на 3 цели меньше.",
+          "TC": "遊蕩之聲傷害翻倍，但可鎖定標靶減少3個。",
+          "TH": "เอคโค่​ต่อเนื่อง​สร้าง​ DMG เพิ่ม​เป็น​สองเท่า​ แต่​ล็อก​เป้าหมาย​ได้​น้อยลง​ 3 เป้าหมาย",
+          "VN": "Dư Âm Bất Tận tăng gấp đôi ST, nhưng khóa vào ít hơn 3 mục tiêu."
+        },
+        "affixId": "AffixMulti2"
+      },
+      "AffixPenetrate3": {
+        "affixDesc": {
+          "BR": "Quebra-Alvorecer trava a mira em mais 1 alvo.",
+          "CN": "破曙之光可以额外锁定1个靶标。",
+          "DE": "„Morgenbrecher“ visiert 1 weiteres Ziel an.",
+          "EN": "Dawnbreaker locks onto 1 more target.",
+          "FR": "Brise-aurore verrouille 1 cible supplémentaire.",
+          "ID": "Pemecah Fajar akan mengunci 1 target lagi.",
+          "IT": "Spezzalba aggancia 1 bersaglio aggiuntivo.",
+          "JP": "夜を裂く光は追加で的を1個ロックオンする。",
+          "KR": "여명을 가르는 빛이 표적을 1개 더 추가로 고정합니다.",
+          "MX": "Rompealbas fija 1 objetivo más.",
+          "RU": "«Разрушитель зари» захватывает 1 дополнительную цель.",
+          "TC": "破曙之光可以額外鎖定1個標靶。",
+          "TH": "ดอว์น​เบรก​เกอร์​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 1 เป้าหมาย",
+          "VN": "Kẻ Phá Bình Minh khóa vào thêm 1 mục tiêu."
+        },
+        "affixId": "AffixPenetrate3"
+      },
+      "AffixMulti3": {
+        "affixDesc": {
+          "BR": "Eco Persistente trava em mais 2 alvos.",
+          "CN": "游荡之声可以额外锁定2个靶标。",
+          "DE": "„Persistentes Echo“ visiert 2 weitere Ziele an.",
+          "EN": "Persistent Echo locks onto 2 more targets.",
+          "FR": "Écho persistant verrouille 2 cibles supplémentaires.",
+          "ID": "Gema Berkepanjangan akan mengunci 2 target lagi.",
+          "IT": "Eco persistente aggancia 2 bersagli aggiuntivi.",
+          "JP": "迷える声は追加で的を2個ロックオンする。",
+          "KR": "떠도는 메아리가 표적을 2개 더 추가로 고정합니다.",
+          "MX": "Eco persistente fija 2 objetivos más.",
+          "RU": "«Стойкое эхо» захватывает 2 дополнительные цели.",
+          "TC": "遊蕩之聲可以額外鎖定2個標靶。",
+          "TH": "เอคโค่​ต่อเนื่อง​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 2 เป้าหมาย",
+          "VN": "Dư Âm Bất Tận khóa vào thêm 2 mục tiêu."
+        },
+        "affixId": "AffixMulti3"
+      },
+      "AffixPenetrate2": {
+        "affixDesc": {
+          "BR": "Quebra-Alvorecer pode ser dividida.",
+          "CN": "破曙之光获得分裂效果。",
+          "DE": "„Morgenbrecher“ kann sich teilen.",
+          "EN": "Dawnbreaker can split.",
+          "FR": "Brise-aurore peut se scinder.",
+          "ID": "Pemecah Fajar bisa membelah.",
+          "IT": "Spezzalba può dividersi.",
+          "JP": "夜を裂く光は分裂効果を獲得する。",
+          "KR": "여명을 가르는 빛이 분열 효과를 획득합니다.",
+          "MX": "Rompealbas puede dividirse.",
+          "RU": "«Разрушитель зари» может разделяться.",
+          "TC": "破曙之光獲得分裂效果。",
+          "TH": "ดอว์น​เบรก​เกอร์​สามารถ​แตก​การ​โจมตี​ได้",
+          "VN": "Kẻ Phá Bình Minh có thể phân tách."
+        },
+        "affixId": "AffixPenetrate2"
+      },
+      "AffixMulti4": {
+        "affixDesc": {
+          "BR": "Eco Persistente pode ricochetear, mas trava em 4 alvos a menos.",
+          "CN": "游荡之声获得弹射效果，但可锁定靶标减少4个。",
+          "DE": "„Persistentes Echo“ kann abprallen, es werden aber 4 Ziele weniger anvisiert.",
+          "EN": "Persistent Echo can ricochet, but locks onto 4 less targets.",
+          "FR": "Écho persistant peut ricocher, mais la compétence verrouille 4 cibles de moins.",
+          "ID": "Gema Berkepanjangan bisa memantul balik, tapi mengunci 4 target lebih sedikit.",
+          "IT": "Eco persistente può rimbalzare ma aggancia 4 bersagli in meno.",
+          "JP": "迷える声は跳弾効果を獲得するが、ロックオン可能な的数が4つ減少する。",
+          "KR": "떠도는 메아리가 연쇄 타격 효과를 획득하는 대신, 고정할 수 있는 표적 수가 4개 감소합니다.",
+          "MX": "Eco persistente puede rebotar, pero fija 4 objetivos menos.",
+          "RU": "«Стойкое эхо» может давать рикошет, но захватывает на 4 цели меньше.",
+          "TC": "遊蕩之聲獲得彈射效果，但可鎖定標靶減少4個。",
+          "TH": "เอคโค่​ต่อเนื่อง​สามารถ​ชิ่ง​ใส่​เป้าหมาย​อื่น​ได้​ แต่​ล็อก​เป้าหมาย​ได้​น้อยลง​ 4 เป้าหมาย",
+          "VN": "Dư Âm Bất Tận có thể nảy bật, nhưng khóa vào ít hơn 4 mục tiêu."
+        },
+        "affixId": "AffixMulti4"
+      },
+      "breakerArrow": {
+        "affixDesc": {
+          "BR": "Fúria Bestial trava a mira em mais 1 alvo e pode ricochetear.",
+          "CN": "蛮兽之怒可以额外锁定1个靶标，且获得弹射效果。",
+          "DE": "„Tierische Wut“ visiert 1 weiteres Ziel an und kann abprallen.",
+          "EN": "Beastly Rage locks onto 1 more target, and can ricochet.",
+          "FR": "Rage bestiale cible 1 ennemi supplémentaire et peut ricocher.",
+          "ID": "Amarah Ganas akan mengunci 1 target lagi dan bisa memantul balik.",
+          "IT": "Furia bestiale aggancia 1 bersaglio aggiuntivo e può rimbalzare.",
+          "JP": "狂獣激昂は追加で的を1個ロックオンし、跳弾効果を獲得する。",
+          "KR": "비스트의 분노가 표적을 하나 더 추가로 고정하고, 연쇄 타격 효과를 획득합니다.",
+          "MX": "Furia bestial fija 1 objetivo adicional y puede rebotar.",
+          "RU": "«Звериная ярость» захватывает 1 дополнительную цель и дает рикошет.",
+          "TC": "蠻獸之怒可以額外鎖定1個標靶，且獲得彈射效果。",
+          "TH": "ความ​พิโรธ​สัตว์ร้าย​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 1 เป้าหมาย​ และ​ชิ่ง​ใส่​เป้าหมาย​อื่น​ได้",
+          "VN": "Cuồng Nộ Dã Thú khóa vào thêm 1 mục tiêu và có thể bật nảy."
+        },
+        "affixId": "breakerArrow"
+      },
+      "AffixPenetrate1": {
+        "affixDesc": {
+          "BR": "DNO de Quebra-Alvorecer é dobrado.",
+          "CN": "破曙之光伤害翻倍。",
+          "DE": "Der durch „Morgenbrecher“ verursachte SDN wird verdoppelt.",
+          "EN": "Dawnbreaker DMG is doubled.",
+          "FR": "Les DÉG de Brise-aurore sont doublés.",
+          "ID": "DMG Pemecah Fajar akan digandakan.",
+          "IT": "I danni di Spezzalba sono raddoppiati.",
+          "JP": "夜を裂く光のダメージが2倍になる。",
+          "KR": "여명을 가르는 빛의 피해가 2배 증가합니다.",
+          "MX": "El DAÑ de Rompealbas se duplica.",
+          "RU": "УРН от «Разрушителя зари» удваивается.",
+          "TC": "破曙之光傷害翻倍。",
+          "TH": "DMG ของ​ดอว์น​เบรก​เกอร์​เพิ่มขึ้น​เป็น​สองเท่า",
+          "VN": "ST của Kẻ Phá Bình Minh được nhân đôi."
+        },
+        "affixId": "AffixPenetrate1"
+      },
+      "bombArrow": {
+        "affixDesc": {
+          "BR": "Resina Flamejante aplica 3 acúmulos de Resina de uma só vez.",
+          "CN": "燃松之脂可以一次性附着三层燃松效果。",
+          "DE": "„Flammendes Harz“ fügt gleichzeitig 3 Harz-Kumulierungen zu.",
+          "EN": "Flaming Resin applies 3 Resin stacks at once.",
+          "FR": "Résine flamboyante applique 3 cumuls de résine d'un coup.",
+          "ID": "Resin Membara akan mengakibatkan 3 tumpuk Resin sekaligus.",
+          "IT": "Resina ardente applica 3 accumuli di Resina contemporaneamente.",
+          "JP": "燃ゆる松脂は一度に松脂効果を3段階付与する。",
+          "KR": "불타는 송진이 불타는 송진 효과를 한 번에 3스택을 부여합니다.",
+          "MX": "Resina ardiente aplica 3 acumulaciones de Resina a la vez.",
+          "RU": "«Пылающая смола» накладывает 3 заряда смолы одновременно.",
+          "TC": "燃松之脂可以一次附著三層燃松效果。",
+          "TH": "เร​ซิน​ที่​ลุกโชน​จะ​ติด​เร​ซิน​ 3 ชั้นใน​ครั้ง​เดียว",
+          "VN": "Nhựa Lửa áp dụng cùng lúc 3 cộng dồn Nhựa."
+        },
+        "affixId": "bombArrow"
+      },
+      "multiArrow": {
+        "affixDesc": {
+          "BR": "Eco Persistente trava em mais 3 alvos e pode ricochetear.",
+          "CN": "游荡之声可以额外锁定3个靶标，且获得弹射效果。",
+          "DE": "„Persistentes Echo“ visiert 3 weitere Ziele an und kann abprallen.",
+          "EN": "Persistent Echo locks onto 3 more targets, and can ricochet.",
+          "FR": "Écho persistant cible 3 ennemis supplémentaires et peut ricocher.",
+          "ID": "Gema Berkepanjangan bisa mengunci 3 target lagi dan bisa memantul balik.",
+          "IT": "Eco persistente aggancia 3 bersagli aggiuntivi e può rimbalzare.",
+          "JP": "迷える声は追加で的を3個ロックオンし、跳弾効果を獲得する。",
+          "KR": "떠도는 메아리가 표적을 세 개 더 추가로 고정하고, 연쇄 타격 효과를 획득합니다.",
+          "MX": "Eco persistente fija 3 objetivos adicionales y puede rebotar.",
+          "RU": "«Стойкое эхо» захватывает 3 дополнительные цели и дает рикошет.",
+          "TC": "遊蕩之聲可以額外鎖定3個標靶，且獲得彈射效果。",
+          "TH": "เอคโค่​ต่อเนื่อง​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 3 เป้าหมาย​ และ​ชิ่ง​ใส่​เป้าหมาย​อื่น​ได้",
+          "VN": "Dư Âm Bất Tận khóa vào thêm 3 mục tiêu và có thể bật nảy."
+        },
+        "affixId": "multiArrow"
+      },
+      "pentrateArrow": {
+        "affixDesc": {
+          "BR": "DNO de Quebra-Alvorecer é dobrado e trava a mira em mais 1 alvo.",
+          "CN": "破曙之光造成的伤害翻倍，且可以额外锁定1个靶标。",
+          "DE": "SDN durch „Morgenbrecher“ wird verdoppelt und visiert 1 weiteres Ziel an.",
+          "EN": "Dawnbreaker DMG is doubled, and locks onto 1 more target.",
+          "FR": "Les DÉG de Brise-aurore sont doublés et la compétence cible 1 ennemi supplémentaire.",
+          "ID": "DMG Pemecah Fajar akan digandakan dan mengunci 1 target lagi.",
+          "IT": "Spezzalba infligge danni raddoppiati e aggancia 1 bersaglio aggiuntivo.",
+          "JP": "夜を裂く光のダメージが2倍になり、追加で的を1個ロックオンする。",
+          "KR": "여명을 가르는 빛의 피해가 2배로 증가하고, 표적을 하나 더 추가로 고정합니다.",
+          "MX": "El DAÑ de Rompealbas se duplica y fija 1 objetivo adicional.",
+          "RU": "«Разрушитель зари» захватывает 1 дополнительную цель и наносит двойной УРН.",
+          "TC": "破曙之光造成的傷害翻倍，且可以額外鎖定1個標靶。",
+          "TH": "ดอว์น​เบรก​เกอร์ส​ร้าง​ DMG เพิ่ม​เป็น​สองเท่า​ และ​ล็อก​เป้าหมาย​เพิ่ม​อีก​ 1 เป้าหมาย",
+          "VN": "ST của Kẻ Phá Bình Minh tăng gấp đôi và khóa vào thêm 1 mục tiêu."
+        },
+        "affixId": "pentrateArrow"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "tableName": "GachaCharPoolTypeTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 4
+  },
+  "entries": {
+    "added": {
+      "4": {
+        "choicePackPullCount": 0,
+        "cumulativeRewardsPullCount": [],
+        "freeTenPullRewardPullCount": [
+          30,
+          60,
+          90
+        ],
+        "hardGuarantee": 120,
+        "intervalAutoRewardPerPullCount": 240,
+        "intervalAutoRewardStartPullCount": 0,
+        "maxPullCount": 0,
+        "maxSoftGuaranteeCount": 0,
+        "name": {
+          "BR": "Caça de Talentos RE-Fator",
+          "CN": "重构寻访",
+          "DE": "RE-Faktor-Rekrutierung",
+          "EN": "RE-Factor Headhunting",
+          "FR": "Recrutement de réusinage",
+          "ID": "Headhunt RE-Faktor",
+          "IT": "Caccia ai talenti RE-Factor",
+          "JP": "再現スカウト",
+          "KR": "재구축 헤드헌팅",
+          "MX": "Caza de reclutas de Re-factor",
+          "RU": "Наем «Рефакторинг»",
+          "TC": "重構尋訪",
+          "TH": "การ​สรรหา​รี​แฟก​เตอร์",
+          "VN": "Chiêu Mộ Tái Cấu Trúc"
+        },
+        "onceRewardId2PullCount": 0,
+        "onceRewardIdPullCount": 0,
+        "permitSinglePull": true,
+        "shareSoftGuarantee": true,
+        "singlePullCostItemCounts": [
+          1,
+          500
+        ],
+        "singlePullCostItemIds": [
+          "item_ticketgacha_special_single",
+          "item_diamond"
+        ],
+        "softGuarantee": 80,
+        "star4BaseRate": 912000,
+        "star5BaseRate": 80000,
+        "star5SoftGuarantee": 10,
+        "star6BaseRate": 8000,
+        "star6RatePromotePullCount": [
+          66
+        ],
+        "star6RatePromoteValue": [
+          50000
+        ],
+        "tagName": {
+          "BR": "RE-Fator",
+          "CN": "重构",
+          "DE": "RE-Faktor",
+          "EN": "RE-Factor",
+          "FR": "Réusinage",
+          "ID": "RE-Faktor",
+          "IT": "RE-Factor",
+          "JP": "再現",
+          "KR": "재구축",
+          "MX": "Re-factor",
+          "RU": "Рефакторинг",
+          "TC": "重構",
+          "TH": "รี​แฟก​เตอร์",
+          "VN": "Tái Cấu Trúc"
+        },
+        "tenPullCostCountAfterDiscount": 0,
+        "tenPullCostItemCounts": [],
+        "tenPullCostItemIds": [],
+        "testimonialPullCount": 0,
+        "type": 4
+      }
+    },
+    "removed": {},
+    "changed": {
+      "0": {
+        "oldValue": {
+          "choicePackPullCount": 0,
+          "cumulativeRewardsPullCount": [],
+          "freeTenPullRewardPullCount": 30,
+          "hardGuarantee": 120,
+          "intervalAutoRewardPerPullCount": 240,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 0,
+          "maxSoftGuaranteeCount": 0,
+          "name": {
+            "BR": "Caça de Talentos Privilegiada",
+            "CN": "特许寻访",
+            "DE": "Rekrutierung: Priorisiert",
+            "EN": "Chartered Headhunting",
+            "FR": "Recrutement certifié",
+            "ID": "Headhunt Khusus",
+            "IT": "Caccia ai talenti certificata",
+            "JP": "特別スカウト",
+            "KR": "특별 허가 헤드헌팅",
+            "MX": "Caza de reclutas certificada",
+            "RU": "Специальный наем",
+            "TC": "特許尋訪",
+            "TH": "การ​สรรหา​รับรอง",
+            "VN": "Chiêu Mộ Đặc Quyền"
+          },
+          "onceRewardId2PullCount": 0,
+          "onceRewardIdPullCount": 0,
+          "permitSinglePull": true,
+          "shareSoftGuarantee": true,
+          "singlePullCostItemCounts": [
+            1,
+            1,
+            500
+          ],
+          "singlePullCostItemIds": [
+            "item_ticketgacha_special_single_1_lt",
+            "item_ticketgacha_special_single",
+            "item_diamond"
+          ],
+          "softGuarantee": 80,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [
+            66
+          ],
+          "star6RatePromoteValue": [
+            50000
+          ],
+          "tagName": {
+            "BR": "Privilegiada",
+            "CN": "特许",
+            "DE": "Priorisiert",
+            "EN": "Chartered",
+            "FR": "Certifié",
+            "ID": "Khusus",
+            "IT": "Certificata",
+            "JP": "特別",
+            "KR": "특별 허가",
+            "MX": "Autorizada",
+            "RU": "Специальн.",
+            "TC": "特許",
+            "TH": "ได้รับอนุญาต",
+            "VN": "Đặc Quyền"
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [
+            1
+          ],
+          "tenPullCostItemIds": [
+            "item_ticketgacha_special_ten"
+          ],
+          "testimonialPullCount": 60,
+          "type": 0
+        },
+        "newValue": {
+          "choicePackPullCount": 0,
+          "cumulativeRewardsPullCount": [],
+          "freeTenPullRewardPullCount": [
+            30,
+            0,
+            0
+          ],
+          "hardGuarantee": 120,
+          "intervalAutoRewardPerPullCount": 240,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 0,
+          "maxSoftGuaranteeCount": 0,
+          "name": {
+            "BR": "Caça de Talentos Privilegiada",
+            "CN": "特许寻访",
+            "DE": "Rekrutierung: Priorisiert",
+            "EN": "Chartered Headhunting",
+            "FR": "Recrutement certifié",
+            "ID": "Headhunt Khusus",
+            "IT": "Caccia ai talenti certificata",
+            "JP": "特別スカウト",
+            "KR": "특별 허가 헤드헌팅",
+            "MX": "Caza de reclutas certificada",
+            "RU": "Специальный наем",
+            "TC": "特許尋訪",
+            "TH": "การ​สรรหา​รับรอง",
+            "VN": "Chiêu Mộ Đặc Quyền"
+          },
+          "onceRewardId2PullCount": 0,
+          "onceRewardIdPullCount": 0,
+          "permitSinglePull": true,
+          "shareSoftGuarantee": true,
+          "singlePullCostItemCounts": [
+            1,
+            1,
+            500
+          ],
+          "singlePullCostItemIds": [
+            "item_ticketgacha_special_single_1_lt",
+            "item_ticketgacha_special_single",
+            "item_diamond"
+          ],
+          "softGuarantee": 80,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [
+            66
+          ],
+          "star6RatePromoteValue": [
+            50000
+          ],
+          "tagName": {
+            "BR": "Privilegiada",
+            "CN": "特许",
+            "DE": "Priorisiert",
+            "EN": "Chartered",
+            "FR": "Certifié",
+            "ID": "Khusus",
+            "IT": "Certificata",
+            "JP": "特別",
+            "KR": "특별 허가",
+            "MX": "Autorizada",
+            "RU": "Специальн.",
+            "TC": "特許",
+            "TH": "ได้รับอนุญาต",
+            "VN": "Đặc Quyền"
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [
+            1
+          ],
+          "tenPullCostItemIds": [
+            "item_ticketgacha_special_ten"
+          ],
+          "testimonialPullCount": 60,
+          "type": 0
+        },
+        "changed": {
+          "freeTenPullRewardPullCount": {
+            "type": "value",
+            "oldValue": 30,
+            "newValue": [
+              30,
+              0,
+              0
+            ]
+          }
+        }
+      },
+      "1": {
+        "oldValue": {
+          "choicePackPullCount": 0,
+          "cumulativeRewardsPullCount": [
+            40
+          ],
+          "freeTenPullRewardPullCount": 0,
+          "hardGuarantee": 0,
+          "intervalAutoRewardPerPullCount": 0,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 40,
+          "maxSoftGuaranteeCount": 1,
+          "name": {
+            "BR": "Caça de Talentos Novos Horizontes",
+            "CN": "启程寻访",
+            "DE": "Rekrutierung: Neue Horizonte",
+            "EN": "New Horizons Headhunting",
+            "FR": "Recrutement Nouveaux horizons",
+            "ID": "Headhunt Cakrawala Baru",
+            "IT": "Caccia ai talenti Nuovi orizzonti",
+            "JP": "旅立ちスカウト",
+            "KR": "여정의 시작 헤드헌팅",
+            "MX": "Caza de reclutas de nuevos horizontes",
+            "RU": "Наем «Новые горизонты»",
+            "TC": "啟程尋訪",
+            "TH": "การ​สรรหา​ขอบฟ้า​ใหม่",
+            "VN": "Chiêu Mộ Chân Trời Mới"
+          },
+          "onceRewardId2PullCount": 0,
+          "onceRewardIdPullCount": 0,
+          "permitSinglePull": false,
+          "shareSoftGuarantee": false,
+          "singlePullCostItemCounts": [],
+          "singlePullCostItemIds": [],
+          "softGuarantee": 40,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [],
+          "star6RatePromoteValue": [],
+          "tagName": {
+            "BR": "Novos Horizontes",
+            "CN": "启程",
+            "DE": "Neue Horizonte",
+            "EN": "New Horizons",
+            "FR": "Nouveaux horizons",
+            "ID": "Cakrawala Baru",
+            "IT": "Nuovi orizzonti",
+            "JP": "旅立ち",
+            "KR": "여정의 시작",
+            "MX": "Nuevos horizontes",
+            "RU": "Новые горизонты",
+            "TC": "啟程",
+            "TH": "ขอบฟ้า​ใหม่",
+            "VN": "Chân Trời Mới"
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [
+            1
+          ],
+          "tenPullCostItemIds": [
+            "item_ticketgacha_beginner_ten"
+          ],
+          "testimonialPullCount": 0,
+          "type": 1
+        },
+        "newValue": {
+          "choicePackPullCount": 0,
+          "cumulativeRewardsPullCount": [
+            40
+          ],
+          "freeTenPullRewardPullCount": [
+            0,
+            0,
+            0
+          ],
+          "hardGuarantee": 0,
+          "intervalAutoRewardPerPullCount": 0,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 40,
+          "maxSoftGuaranteeCount": 1,
+          "name": {
+            "BR": "Caça de Talentos Novos Horizontes",
+            "CN": "启程寻访",
+            "DE": "Rekrutierung: Neue Horizonte",
+            "EN": "New Horizons Headhunting",
+            "FR": "Recrutement Nouveaux horizons",
+            "ID": "Headhunt Cakrawala Baru",
+            "IT": "Caccia ai talenti Nuovi orizzonti",
+            "JP": "旅立ちスカウト",
+            "KR": "여정의 시작 헤드헌팅",
+            "MX": "Caza de reclutas de nuevos horizontes",
+            "RU": "Наем «Новые горизонты»",
+            "TC": "啟程尋訪",
+            "TH": "การ​สรรหา​ขอบฟ้า​ใหม่",
+            "VN": "Chiêu Mộ Chân Trời Mới"
+          },
+          "onceRewardId2PullCount": 0,
+          "onceRewardIdPullCount": 0,
+          "permitSinglePull": false,
+          "shareSoftGuarantee": false,
+          "singlePullCostItemCounts": [],
+          "singlePullCostItemIds": [],
+          "softGuarantee": 40,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [],
+          "star6RatePromoteValue": [],
+          "tagName": {
+            "BR": "Novos Horizontes",
+            "CN": "启程",
+            "DE": "Neue Horizonte",
+            "EN": "New Horizons",
+            "FR": "Nouveaux horizons",
+            "ID": "Cakrawala Baru",
+            "IT": "Nuovi orizzonti",
+            "JP": "旅立ち",
+            "KR": "여정의 시작",
+            "MX": "Nuevos horizontes",
+            "RU": "Новые горизонты",
+            "TC": "啟程",
+            "TH": "ขอบฟ้า​ใหม่",
+            "VN": "Chân Trời Mới"
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [
+            1
+          ],
+          "tenPullCostItemIds": [
+            "item_ticketgacha_beginner_ten"
+          ],
+          "testimonialPullCount": 0,
+          "type": 1
+        },
+        "changed": {
+          "freeTenPullRewardPullCount": {
+            "type": "value",
+            "oldValue": 0,
+            "newValue": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      },
+      "2": {
+        "oldValue": {
+          "choicePackPullCount": 300,
+          "cumulativeRewardsPullCount": [],
+          "freeTenPullRewardPullCount": 0,
+          "hardGuarantee": 0,
+          "intervalAutoRewardPerPullCount": 0,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 0,
+          "maxSoftGuaranteeCount": 0,
+          "name": {
+            "BR": "Caça de Talentos Básica",
+            "CN": "基础寻访",
+            "DE": "Rekrutierung: Standard",
+            "EN": "Basic Headhunting",
+            "FR": "Recrutement de base",
+            "ID": "Headhunt Biasa",
+            "IT": "Caccia ai talenti base",
+            "JP": "通常スカウト",
+            "KR": "기초 헤드헌팅",
+            "MX": "Caza de reclutas básica",
+            "RU": "Стандартный наем",
+            "TC": "基礎尋訪",
+            "TH": "การ​สรรหา​ขั้นพื้นฐาน",
+            "VN": "Chiêu Mộ Cơ Bản"
+          },
+          "onceRewardId2PullCount": 0,
+          "onceRewardIdPullCount": 0,
+          "permitSinglePull": true,
+          "shareSoftGuarantee": false,
+          "singlePullCostItemCounts": [
+            1,
+            500
+          ],
+          "singlePullCostItemIds": [
+            "item_ticketgacha_standard_single",
+            "item_diamond"
+          ],
+          "softGuarantee": 80,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [
+            66
+          ],
+          "star6RatePromoteValue": [
+            50000
+          ],
+          "tagName": {
+            "BR": "Básico",
+            "CN": "基础",
+            "DE": "Standard",
+            "EN": "Basic",
+            "FR": "Base",
+            "ID": "Dasar",
+            "IT": "Base",
+            "JP": "通常",
+            "KR": "기초",
+            "MX": "Básico",
+            "RU": "Стандартн.",
+            "TC": "基礎",
+            "TH": "พื้นฐาน",
+            "VN": "Cơ bản"
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [],
+          "tenPullCostItemIds": [],
+          "testimonialPullCount": 0,
+          "type": 2
+        },
+        "newValue": {
+          "choicePackPullCount": 300,
+          "cumulativeRewardsPullCount": [],
+          "freeTenPullRewardPullCount": [
+            0,
+            0,
+            0
+          ],
+          "hardGuarantee": 0,
+          "intervalAutoRewardPerPullCount": 0,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 0,
+          "maxSoftGuaranteeCount": 0,
+          "name": {
+            "BR": "Caça de Talentos Básica",
+            "CN": "基础寻访",
+            "DE": "Rekrutierung: Standard",
+            "EN": "Basic Headhunting",
+            "FR": "Recrutement de base",
+            "ID": "Headhunt Biasa",
+            "IT": "Caccia ai talenti base",
+            "JP": "通常スカウト",
+            "KR": "기초 헤드헌팅",
+            "MX": "Caza de reclutas básica",
+            "RU": "Стандартный наем",
+            "TC": "基礎尋訪",
+            "TH": "การ​สรรหา​ขั้นพื้นฐาน",
+            "VN": "Chiêu Mộ Cơ Bản"
+          },
+          "onceRewardId2PullCount": 0,
+          "onceRewardIdPullCount": 0,
+          "permitSinglePull": true,
+          "shareSoftGuarantee": false,
+          "singlePullCostItemCounts": [
+            1,
+            500
+          ],
+          "singlePullCostItemIds": [
+            "item_ticketgacha_standard_single",
+            "item_diamond"
+          ],
+          "softGuarantee": 80,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [
+            66
+          ],
+          "star6RatePromoteValue": [
+            50000
+          ],
+          "tagName": {
+            "BR": "Básico",
+            "CN": "基础",
+            "DE": "Standard",
+            "EN": "Basic",
+            "FR": "Base",
+            "ID": "Dasar",
+            "IT": "Base",
+            "JP": "通常",
+            "KR": "기초",
+            "MX": "Básico",
+            "RU": "Стандартн.",
+            "TC": "基礎",
+            "TH": "พื้นฐาน",
+            "VN": "Cơ bản"
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [],
+          "tenPullCostItemIds": [],
+          "testimonialPullCount": 0,
+          "type": 2
+        },
+        "changed": {
+          "freeTenPullRewardPullCount": {
+            "type": "value",
+            "oldValue": 0,
+            "newValue": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      },
+      "3": {
+        "oldValue": {
+          "choicePackPullCount": 0,
+          "cumulativeRewardsPullCount": [],
+          "freeTenPullRewardPullCount": 30,
+          "hardGuarantee": 0,
+          "intervalAutoRewardPerPullCount": 240,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 0,
+          "maxSoftGuaranteeCount": 0,
+          "name": {
+            "BR": "Caça de Talentos Especial [Festival do Brilhantismo]",
+            "CN": "「辉光庆典」特殊寻访",
+            "DE": "[Feier der Exzellenz] Spezielle Rekrutierung",
+            "EN": "[Fest of Brilliance] Special Headhunting",
+            "FR": "Recrutement spécial [Festival de Radiance]",
+            "ID": "Headhunt Spesial [Festival Kegemilangan]",
+            "IT": "Caccia ai talenti speciale: Festival della lucentezza",
+            "JP": "特殊スカウト「輝きの祝典」",
+            "KR": "[찬란한 빛의 축제] 특수 헤드헌팅",
+            "MX": "Caza de reclutas especial [Festival del resplandor]",
+            "RU": "Особый наем «Сияние славы»",
+            "TC": "「輝光慶典」特殊尋訪",
+            "TH": "การ​สรรหา​พิเศษ​ [เทศกาล​เจิด​จรัส​]",
+            "VN": "Chiêu Mộ Nhân Tài [Lễ Hội Rực Rỡ]"
+          },
+          "onceRewardId2PullCount": 120,
+          "onceRewardIdPullCount": 60,
+          "permitSinglePull": true,
+          "shareSoftGuarantee": false,
+          "singlePullCostItemCounts": [
+            1,
+            500
+          ],
+          "singlePullCostItemIds": [
+            "item_ticketgacha_special_single",
+            "item_diamond"
+          ],
+          "softGuarantee": 80,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [
+            66
+          ],
+          "star6RatePromoteValue": [
+            50000
+          ],
+          "tagName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [],
+          "tenPullCostItemIds": [],
+          "testimonialPullCount": 0,
+          "type": 3
+        },
+        "newValue": {
+          "choicePackPullCount": 0,
+          "cumulativeRewardsPullCount": [],
+          "freeTenPullRewardPullCount": [
+            30,
+            0,
+            0
+          ],
+          "hardGuarantee": 0,
+          "intervalAutoRewardPerPullCount": 240,
+          "intervalAutoRewardStartPullCount": 0,
+          "maxPullCount": 0,
+          "maxSoftGuaranteeCount": 0,
+          "name": {
+            "BR": "Caça de Talentos Especial [Festival do Brilhantismo]",
+            "CN": "「辉光庆典」特殊寻访",
+            "DE": "[Feier der Exzellenz] Spezielle Rekrutierung",
+            "EN": "[Fest of Brilliance] Special Headhunting",
+            "FR": "Recrutement spécial [Festival de Radiance]",
+            "ID": "Headhunt Spesial [Festival Kegemilangan]",
+            "IT": "Caccia ai talenti speciale: Festival della lucentezza",
+            "JP": "特殊スカウト「輝きの祝典」",
+            "KR": "[찬란한 빛의 축제] 특수 헤드헌팅",
+            "MX": "Caza de reclutas especial [Festival del resplandor]",
+            "RU": "Особый наем «Сияние славы»",
+            "TC": "「輝光慶典」特殊尋訪",
+            "TH": "การ​สรรหา​พิเศษ​ [เทศกาล​เจิด​จรัส​]",
+            "VN": "Chiêu Mộ Nhân Tài [Lễ Hội Rực Rỡ]"
+          },
+          "onceRewardId2PullCount": 120,
+          "onceRewardIdPullCount": 60,
+          "permitSinglePull": true,
+          "shareSoftGuarantee": false,
+          "singlePullCostItemCounts": [
+            1,
+            500
+          ],
+          "singlePullCostItemIds": [
+            "item_ticketgacha_special_single",
+            "item_diamond"
+          ],
+          "softGuarantee": 80,
+          "star4BaseRate": 912000,
+          "star5BaseRate": 80000,
+          "star5SoftGuarantee": 10,
+          "star6BaseRate": 8000,
+          "star6RatePromotePullCount": [
+            66
+          ],
+          "star6RatePromoteValue": [
+            50000
+          ],
+          "tagName": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "tenPullCostCountAfterDiscount": 0,
+          "tenPullCostItemCounts": [],
+          "tenPullCostItemIds": [],
+          "testimonialPullCount": 0,
+          "type": 3
+        },
+        "changed": {
+          "freeTenPullRewardPullCount": {
+            "type": "value",
+            "oldValue": 30,
+            "newValue": [
+              30,
+              0,
+              0
+            ]
+          }
+        }
+      }
+    }
+  }
+}

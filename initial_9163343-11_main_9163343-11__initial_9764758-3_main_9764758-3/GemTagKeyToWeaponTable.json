@@ -1,0 +1,42 @@
+{
+  "tableName": "GemTagKeyToWeaponTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "attr_agi+attr_naturaldam+burst": {
+        "list": [
+          "wpn_funnel_0020"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "attr_agi+attr_atk+burst": {
+        "oldValue": {
+          "list": [
+            "wpn_pistol_0011"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wpn_pistol_0011",
+            "wpn_funnel_0019"
+          ]
+        },
+        "changed": {
+          "list[1]": {
+            "type": "value",
+            "newValue": "wpn_funnel_0019"
+          }
+        }
+      }
+    }
+  }
+}

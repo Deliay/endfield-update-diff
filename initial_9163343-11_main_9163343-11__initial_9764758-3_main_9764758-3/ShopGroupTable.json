@@ -1,0 +1,65 @@
+{
+  "tableName": "ShopGroupTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "shop_activity_limited_formula_2": {
+        "icon": "",
+        "randGoodsBaseLimit": 0,
+        "randGoodsDailyAddLimit": 0,
+        "shopGroupId": "shop_activity_limited_formula_2",
+        "shopGroupName": {
+          "BR": "Troca de Mercadorias",
+          "CN": "物资兑换处",
+          "DE": "Warentauschbörse",
+          "EN": "Goods Exchange",
+          "FR": "Boutique de marchandises",
+          "ID": "Bursa Barang",
+          "IT": "Scambio articoli",
+          "JP": "物資交換所",
+          "KR": "물자 교환소",
+          "MX": "Intercambio de mercancías",
+          "RU": "Обменник товаров",
+          "TC": "物資兌換處",
+          "TH": "การแลก​เปลี่ยน​สินค้า",
+          "VN": "Điểm Giao Dịch Hàng"
+        },
+        "shopGroupType": 0,
+        "shopIds": [
+          "shop_activity_limited_formula_2_1",
+          "shop_activity_limited_formula_2_2"
+        ],
+        "unlockConditions": [
+          {
+            "conditionId": "unlock_shop_activity_limited_formula_2_condition_1",
+            "desc": {
+              "BR": "",
+              "CN": "",
+              "DE": "",
+              "EN": "",
+              "FR": "",
+              "ID": "",
+              "IT": "",
+              "JP": "",
+              "KR": "",
+              "MX": "",
+              "RU": "",
+              "TC": "",
+              "TH": "",
+              "VN": ""
+            }
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

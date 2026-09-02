@@ -1,0 +1,128 @@
+{
+  "tableName": "ActivityAchievementDataTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 5
+  },
+  "entries": {
+    "added": {
+      "activity_parkour": {
+        "achievementId": "achv_event_wuling_racing_1",
+        "shopJumpId": "",
+        "taskJumpId": ""
+      },
+      "activity_timelimited_typhoea_archery": {
+        "achievementId": "",
+        "shopJumpId": "",
+        "taskJumpId": "jump_task_typhoea_archery"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "activity_contingency_contract_0": {
+        "oldValue": {
+          "achievementId": "achv_event_contingency_contract_0"
+        },
+        "newValue": {
+          "achievementId": "achv_event_contingency_contract_0",
+          "shopJumpId": "",
+          "taskJumpId": ""
+        },
+        "changed": {
+          "shopJumpId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "taskJumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "cleaning_test": {
+        "oldValue": {
+          "achievementId": "achv_event_clean"
+        },
+        "newValue": {
+          "achievementId": "achv_event_clean",
+          "shopJumpId": "",
+          "taskJumpId": ""
+        },
+        "changed": {
+          "shopJumpId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "taskJumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_racingdungeon_1": {
+        "oldValue": {
+          "achievementId": "achv_event_racingdungeon_1"
+        },
+        "newValue": {
+          "achievementId": "achv_event_racingdungeon_1",
+          "shopJumpId": "",
+          "taskJumpId": ""
+        },
+        "changed": {
+          "shopJumpId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "taskJumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "activity_takestwo_1": {
+        "oldValue": {
+          "achievementId": "achv_event_takestwo_1"
+        },
+        "newValue": {
+          "achievementId": "achv_event_takestwo_1",
+          "shopJumpId": "",
+          "taskJumpId": ""
+        },
+        "changed": {
+          "shopJumpId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "taskJumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      },
+      "dungeon_fighting": {
+        "oldValue": {
+          "achievementId": "achv_event_dungfight"
+        },
+        "newValue": {
+          "achievementId": "achv_event_dungfight",
+          "shopJumpId": "",
+          "taskJumpId": ""
+        },
+        "changed": {
+          "shopJumpId": {
+            "type": "value",
+            "newValue": ""
+          },
+          "taskJumpId": {
+            "type": "value",
+            "newValue": ""
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "tableName": "EtherSubmitBuffShowTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "wulingbuff12": {
+        "effectContentText": {
+          "BR": "Ao descansar em um Ponto de TP, a equipe ganha DEF +{defend:0%} por {duration:0} s. \nVálido somente em Wuling.",
+          "CN": "在协议传送点休整后，全队干员防御力+{defend:0%}，持续{duration:0}秒。\n（仅限武陵地区生效）",
+          "DE": "Beim Ausruhen an einem TP-Punkt erhält das Team VERT +{defend:0%} für {duration:0} Sek. \nNur in Wuling wirksam.",
+          "EN": "When resting at a TP Point, the team gains DEF+{defend:0%} for {duration:0}s. \nOnly effective in Wuling.",
+          "FR": "Après s'être reposée à un point TP, l'équipe gagne +{defend:0%} de DÉF pendant {duration:0} s. \nEffet limité à Wuling.",
+          "ID": "Saat beristirahat di Titik TP, tim akan mendapatkan DEF +{defend:0%} selama {duration:0} dtk. \nHanya berlaku di Wuling.",
+          "IT": "Quando riposa in un punto TP, la squadra ottiene +{defend:0%} di difesa per {duration:0} s.\nEfficace solo a Wuling.",
+          "JP": "協約転送ポイントで回復すると、{duration:0}秒間チーム全員の防御力+{defend:0%}\n（武陵でのみ有効）",
+          "KR": "프로토콜 전송 지점에서 휴식 시 모든 오퍼레이터의 방어력 +{defend:0%}, {duration:0}초 동안 지속.\n(무릉 지역에서만 적용 가능.)",
+          "MX": "Al descansar en un Punto de TP, el equipo obtiene DEF+{defend:0%} durante {duration:0} s. \nSolo es efectivo en Wuling.",
+          "RU": "При отдыхе в точке ТП команда получает +{defend:0%} к ЗЩТ на {duration:0} сек. \nРаботает только в Улине.",
+          "TC": "在協議傳送點休整後，全隊幹員防禦力+{defend:0%}，持續{duration:0}秒。\n（僅限武陵地區生效）",
+          "TH": "เมื่อ​พัก​ที่​จุด​ TP ทีม​จะ​ได้รับ​ DEF+{defend:0%} เป็นเวลา​ {duration:0} วินาที​ \nมีผล​เฉพาะ​ใน​อู่​หลิง​เท่านั้น",
+          "VN": "Khi nghỉ ngơi tại Điểm Dịch Chuyển, đội được +{defend:0%} Phòng Thủ trong {duration:0} giây. \nChỉ có hiệu lực ở Võ Lăng."
+        },
+        "effectFlagLevel": 3,
+        "effectFlagType": "type2",
+        "effectIcon": "item_regionbuff_wuling_2_3",
+        "effectLevelText": {
+          "BR": "Lv.3",
+          "CN": "Lv.3",
+          "DE": "Lv.3",
+          "EN": "Lv.3",
+          "FR": "Lv.3",
+          "ID": "Lv.3",
+          "IT": "Lv.3",
+          "JP": "Lv.3",
+          "KR": "Lv.3",
+          "MX": "Lv.3",
+          "RU": "Lv.3",
+          "TC": "Lv.3",
+          "TH": "Lv.3",
+          "VN": "Lv.3"
+        },
+        "effectSubIcon": "item_regionbuff_wuling_2",
+        "effectTitle": {
+          "BR": "Defensiva Descansada",
+          "CN": "休养守势",
+          "DE": "Ruhepausen sind die beste Verteidigung",
+          "EN": "Rested Defensive",
+          "FR": "Repos défensif",
+          "ID": "Rested Defensive",
+          "IT": "Difesa a riposo",
+          "JP": "休守兼備",
+          "KR": "회복 방어 태세",
+          "MX": "Defensa por descanso",
+          "RU": "Оборона с новыми силами",
+          "TC": "休養守勢",
+          "TH": "การป้องกัน​หลัง​พัก",
+          "VN": "Phòng Thủ Nghỉ Ngơi"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {
+      "wulingbuff9": {
+        "oldValue": {
+          "effectContentText": {
+            "BR": "Após descansar em um Ponto de TP, adquire 1 acúmulo de benefício de Reservas Médicas. Quando o PV de qualquer operador da equipe cai abaixo de {hpper:0%}, consome imediatamente o benefício e restaura imediatamente {cure:0%} de PV Máximo para cada companheiro de equipe. \nVálido somente em Wuling.",
+            "CN": "在协议传送点休整后，获得一层预备医疗增益效果。当全队任意干员的生命值低于{hpper:0%}时，自动消耗该效果并且立即为全队干员恢复{cure:0%}最大生命值。\n（仅限武陵地区生效）",
+            "DE": "Erhalte nach einer Ruhepause an einem TP-Punkt 1 Kumulierung des „Medizinische Reserve“-Buffs. Wenn die LP eines Operators unter {hpper:0%} fallen, wird der Buff automatisch verbraucht und sofort {cure:0%} max. LP für jedes Teammitglied wiederhergestellt. \nNur in Wuling wirksam.",
+            "EN": "After resting at a TP Point, acquire 1 stack of Medical Reserves buff. When any operator in the team drops below {hpper:0%} HP, automatically consume the buff and immediately restore {cure:0%} Max HP for every teammate. \nOnly effective in Wuling.",
+            "FR": "Après vous être reposés à un point TP, vous obtenez 1 cumul de Réserves médicales. Lorsque les PV d'un opérateur de l'équipe sont inférieurs à {hpper:0%}, consomme automatiquement le bonus et régénère immédiatement {cure:0%} des PV max. de tous les membres de l'équipe. \nEffet limité à Wuling.",
+            "ID": "Setelah beristirahat di Titik TP, kamu akan mendapatkan 1 tumpuk buff Medical Reserves. Jika ada operator mana saja dalam tim yang HP-nya turun hingga kurang dari {hpper:0%}, buff ini akan secara otomatis dipakai dan langsung memulihkan {cure:0%} HP Maks untuk setiap rekan tim. \nHanya berlaku di Wuling.",
+            "IT": "Dopo aver riposato in un punto TP, acquisisci 1 accumulo di potenziamento di riserve mediche. Quando i PS di un qualsiasi operatore della squadra scendono sotto un {hpper:0%}, consuma automaticamente il potenziamento e ripristina immediatamente un {cure:0%} di PS massimi di tutti i membri della squadra.\nEfficace solo a Wuling.",
+            "JP": "協約転送ポイントで回復すると、「予備治療」を1段階獲得できる\n任意のオペレーターのHPが{hpper:0%}を下回ると、この効果を自動的に消費し、チーム全員のHPを{cure:0%}回復する\n（武陵でのみ有効）",
+            "KR": "프로토콜 전송 지점에서 휴식 시, 예비 의료 버프 효과 1스택 획득. 전체 오퍼레이터 중 한 명이라도 생명력이 {hpper:0%} 미만일 때, 해당 효과가 자동으로 소모되며 즉시 전체 오퍼레이터의 최대 생명력 {cure:0%} 회복.\n(무릉 지역에서만 적용 가능.)",
+            "MX": "Tras descansar en un Punto de TP, se obtiene 1 acumulación de incremento de Reservas médicas. Cuando cualquier operador del equipo baje de {hpper:0%} PV, se consume automáticamente el incremento y se restaura de inmediato {cure:0%} PV Máx. a todo el equipo. \nSolo es efectivo en Wuling.",
+            "RU": "После отдыха в точке ТП вы получаете 1 заряд усиления «Медицинские резервы». Если запас ОЗ любого оперативника в команде упадет ниже {hpper:0%}, усиление автоматически поглотится и немедленно восстановит всем товарищам {cure:0%} от макс. ОЗ. \nРаботает только в Улине.",
+            "TC": "在協議傳送點休整後，獲得一層預備醫療增益效果。當全隊任意幹員的生命值低於{hpper:0%}時，自動消耗該效果並且立即為全隊幹員回復{cure:0%}最大生命值。\n（僅限武陵地區生效）",
+            "TH": "หลังจาก​พัก​ที่​จุด​ TP จะ​ได้รับ​บัฟ​กำลังสำรอง​ทางการแพทย์​ 1 ขั้น​ เมื่อ​โอเปอเรเตอร์​ใน​ทีม​คนใด​ก็ตาม​มี​ HP ลดเหลือ​ต่ำกว่า​ {hpper:0%} จะ​ใช้​บัฟ​โดยอัตโนมัติ​แล้ว​ฟื้นฟู​ {cure:0%} ของ​ HP สูงสุด​ทันที​ให้​เพื่อน​ร่วม​ทีม​ทั้งหมด​ \nมีผล​เฉพาะ​ใน​อู่​หลิง​เท่านั้น",
+            "VN": "Sau khi nghỉ ngơi tại một Điểm Dịch Chuyển, nhận 1 tầng buff Dự Trữ Y Tế. Khi bất kỳ cán viên nào trong đội có HP giảm xuống dưới {hpper:0%}, tự động hấp thụ buff và hồi ngay {cure:0%} HP Tối Đa cho tất cả đồng đội. \nChỉ có hiệu lực ở Võ Lăng."
+          },
+          "effectFlagLevel": 2,
+          "effectFlagType": "type3",
+          "effectIcon": "item_regionbuff_wuling_5_2",
+          "effectLevelText": {
+            "BR": "Lv.2",
+            "CN": "Lv.2",
+            "DE": "Lv.2",
+            "EN": "Lv.2",
+            "FR": "Lv.2",
+            "ID": "Lv.2",
+            "IT": "Lv.2",
+            "JP": "Lv.2",
+            "KR": "Lv.2",
+            "MX": "Lv.2",
+            "RU": "Lv.2",
+            "TC": "Lv.2",
+            "TH": "Lv.2",
+            "VN": "Lv.2"
+          },
+          "effectSubIcon": "item_regionbuff_wuling_5",
+          "effectTitle": {
+            "BR": "Reservas Médicas",
+            "CN": "预备医疗",
+            "DE": "Medizinische Reserve",
+            "EN": "Medical Reserves",
+            "FR": "Réserves médicales",
+            "ID": "Medical Reserves",
+            "IT": "Riserve mediche",
+            "JP": "予備治療",
+            "KR": "예비 의료",
+            "MX": "Reservas médicas",
+            "RU": "Медицинские резервы",
+            "TC": "預備醫療",
+            "TH": "กำลังสำรอง​ทางการแพทย์",
+            "VN": "Dự Trữ Y Tế"
+          }
+        },
+        "newValue": {
+          "effectContentText": {
+            "BR": "Após descansar em um Ponto de TP, adquire 1 acúmulo de benefício de Reservas Médicas. Quando o PV de qualquer operador da equipe cai abaixo de {hpper:0%}, consome imediatamente o benefício e restaura imediatamente {cure:0%} de PV Máximo para cada companheiro de equipe. \nVálido somente em Wuling.",
+            "CN": "在协议传送点休整后，获得一层预备医疗增益效果。当全队任意干员的生命值低于{hpper:0%}时，自动消耗该效果并且立即为全队干员恢复{cure:0%}最大生命值。\n（仅限武陵地区生效）",
+            "DE": "Erhalte nach einer Ruhepause an einem TP-Punkt 1 Kumulierung des „Medizinische Reserve“-Buffs. Wenn die LP eines Operators unter {hpper:0%} fallen, wird der Buff automatisch verbraucht und sofort {cure:0%} max. LP für jedes Teammitglied wiederhergestellt. \nNur in Wuling wirksam.",
+            "EN": "After resting at a TP Point, acquire 1 stack of Medical Reserves buff. When any operator in the team drops below {hpper:0%} HP, automatically consume the buff and immediately restore {cure:0%} Max HP for every teammate. \nOnly effective in Wuling.",
+            "FR": "Après vous être reposés à un point TP, vous obtenez 1 cumul de Réserves médicales. Lorsque les PV d'un opérateur de l'équipe sont inférieurs à {hpper:0%}, consomme automatiquement le bonus et régénère immédiatement {cure:0%} des PV max. de tous les membres de l'équipe. \nEffet limité à Wuling.",
+            "ID": "Setelah beristirahat di Titik TP, kamu akan mendapatkan 1 tumpuk buff Medical Reserves. Jika ada operator mana saja dalam tim yang HP-nya turun hingga kurang dari {hpper:0%}, buff ini akan secara otomatis dipakai dan langsung memulihkan {cure:0%} HP Maks untuk setiap rekan tim. \nHanya berlaku di Wuling.",
+            "IT": "Dopo aver riposato in un punto TP, acquisisci 1 accumulo di potenziamento di riserve mediche. Quando i PS di un qualsiasi operatore della squadra scendono sotto un {hpper:0%}, consuma automaticamente il potenziamento e ripristina immediatamente un {cure:0%} di PS massimi di tutti i membri della squadra.\nEfficace solo a Wuling.",
+            "JP": "協約転送ポイントで回復すると、「予備治療」を1段階獲得できる\n任意のオペレーターのHPが{hpper:0%}を下回ると、この効果を自動的に消費し、チーム全員のHPを{cure:0%}回復する\n（武陵でのみ有効）",
+            "KR": "프로토콜 전송 지점에서 휴식 시, 예비 의료 버프 효과 1스택 획득. 전체 오퍼레이터 중 한 명이라도 생명력이 {hpper:0%} 미만일 때, 해당 효과가 자동으로 소모되며 즉시 전체 오퍼레이터의 최대 생명력 {cure:0%} 회복.\n(무릉 지역에서만 적용 가능.)",
+            "MX": "Tras descansar en un Punto de TP, se obtiene 1 acumulación de incremento de Reservas médicas. Cuando cualquier operador del equipo baje de {hpper:0%} PV, se consume automáticamente el incremento y se restaura de inmediato {cure:0%} PV Máx. a todo el equipo. \nSolo es efectivo en Wuling.",
+            "RU": "После отдыха в точке ТП вы получаете 1 заряд усиления «Медицинские резервы». Если запас ОЗ любого оперативника в команде упадет ниже {hpper:0%}, усиление автоматически поглотится и немедленно восстановит всем товарищам {cure:0%} от макс. ОЗ. \nРаботает только в Улине.",
+            "TC": "在協議傳送點休整後，獲得一層預備醫療增益效果。當全隊任意幹員的生命值低於{hpper:0%}時，自動消耗該效果並且立即為全隊幹員回復{cure:0%}最大生命值。\n（僅限武陵地區生效）",
+            "TH": "หลังจาก​พัก​ที่​จุด​ TP จะ​ได้รับ​บัฟ​กำลังสำรอง​ทางการแพทย์​ 1 ขั้น​ เมื่อ​โอเปอเรเตอร์​ใน​ทีม​คนใด​ก็ตาม​มี​ HP ลดเหลือ​ต่ำกว่า​ {hpper:0%} จะ​ใช้​บัฟ​โดยอัตโนมัติ​แล้ว​ฟื้นฟู​ {cure:0%} ของ​ HP สูงสุด​ทันที​ให้​เพื่อน​ร่วม​ทีม​ทั้งหมด​ \nมีผล​เฉพาะ​ใน​อู่​หลิง​เท่านั้น",
+            "VN": "Sau khi nghỉ ngơi tại một Điểm Dịch Chuyển, nhận 1 tầng buff Dự Trữ Y Tế. Khi bất kỳ cán viên nào trong đội có HP giảm xuống dưới {hpper:0%}, tự động hấp thụ buff và hồi ngay {cure:0%} HP Tối Đa cho tất cả đồng đội. \nChỉ có hiệu lực ở Võ Lăng."
+          },
+          "effectFlagLevel": 2,
+          "effectFlagType": "type5",
+          "effectIcon": "item_regionbuff_wuling_5_2",
+          "effectLevelText": {
+            "BR": "Lv.2",
+            "CN": "Lv.2",
+            "DE": "Lv.2",
+            "EN": "Lv.2",
+            "FR": "Lv.2",
+            "ID": "Lv.2",
+            "IT": "Lv.2",
+            "JP": "Lv.2",
+            "KR": "Lv.2",
+            "MX": "Lv.2",
+            "RU": "Lv.2",
+            "TC": "Lv.2",
+            "TH": "Lv.2",
+            "VN": "Lv.2"
+          },
+          "effectSubIcon": "item_regionbuff_wuling_5",
+          "effectTitle": {
+            "BR": "Reservas Médicas",
+            "CN": "预备医疗",
+            "DE": "Medizinische Reserve",
+            "EN": "Medical Reserves",
+            "FR": "Réserves médicales",
+            "ID": "Medical Reserves",
+            "IT": "Riserve mediche",
+            "JP": "予備治療",
+            "KR": "예비 의료",
+            "MX": "Reservas médicas",
+            "RU": "Медицинские резервы",
+            "TC": "預備醫療",
+            "TH": "กำลังสำรอง​ทางการแพทย์",
+            "VN": "Dự Trữ Y Tế"
+          }
+        },
+        "changed": {
+          "effectFlagType": {
+            "type": "value",
+            "oldValue": "type3",
+            "newValue": "type5"
+          }
+        }
+      }
+    }
+  }
+}

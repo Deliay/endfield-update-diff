@@ -1,0 +1,67 @@
+{
+  "tableName": "SNSChatTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "sns_chr_0034_typhoea": {
+        "charGender": 2,
+        "chatId": "sns_chr_0034_typhoea",
+        "chatType": 3,
+        "icon": "icon_round_chr_0034_typhoea",
+        "isSettlementChannel": false,
+        "name": {
+          "BR": "Typhoeus",
+          "CN": "提弗洛斯",
+          "DE": "Typhoeus",
+          "EN": "Typhoeus",
+          "FR": "Typhoeus",
+          "ID": "Typhoeus",
+          "IT": "Typhoeus",
+          "JP": "ティフォロス",
+          "KR": "티프로스",
+          "MX": "Typhoeus",
+          "RU": "Тифея",
+          "TC": "提弗洛斯",
+          "TH": "ไท​ฟี​อุส",
+          "VN": "Typhoeus"
+        },
+        "owner": "",
+        "tagType": 0
+      },
+      "sns_chat_group_a1m16_1": {
+        "charGender": 0,
+        "chatId": "sns_chat_group_a1m16_1",
+        "chatType": 2,
+        "icon": "icon_sns_npc_channel_a",
+        "isSettlementChannel": false,
+        "name": {
+          "BR": "Grupo de Investigação de Dados Anômalos",
+          "CN": "异常数据调查组",
+          "DE": "Gruppe zur Untersuchung anomaler Daten",
+          "EN": "Anomalous Data Investigation Group",
+          "FR": "Groupe d'enquête sur les données anormales",
+          "ID": "Grup Penyelidikan Data Anomali",
+          "IT": "Gruppo di investigazione dati anomali",
+          "JP": "異常データ調査チーム",
+          "KR": "데이터 오류 조사팀",
+          "MX": "Grupo de investigación de datos anómalos",
+          "RU": "Группа исследования аномальных данных",
+          "TC": "異常數據調查群組",
+          "TH": "กลุ่ม​สืบสวน​ข้อมูล​ผิดปกติ",
+          "VN": "Nhóm Điều Tra Dữ Liệu Dị Thường"
+        },
+        "owner": "",
+        "tagType": 0
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

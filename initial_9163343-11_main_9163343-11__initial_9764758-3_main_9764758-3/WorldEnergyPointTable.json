@@ -1,0 +1,509 @@
+{
+  "tableName": "WorldEnergyPointTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 7,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "world_energy_point12_3": {
+        "costStamina": 0,
+        "desc": {
+          "BR": "Este é um acúmulo de energia. Ativá-lo faz com que inimigos apareçam.",
+          "CN": "能量淤积于此，激发后，会有敌人出现。",
+          "DE": "Energie hat sich hier gesammelt. Wird diese aktiviert, erscheinen Gegner.",
+          "EN": "This is an energy buildup. Activating it causes enemies to appear.",
+          "FR": "Ceci est une formation d'énergie. Si vous l'activez, des ennemis apparaissent.",
+          "ID": "Ini endapan energi. Jika diaktifkan, musuh akan muncul.",
+          "IT": "Questo è un accumulo di energia che, se attivato, fa apparire nemici.",
+          "JP": "ここにエネルギーが蓄えられており、解き放たれると敵が現れる。",
+          "KR": "에너지가 응집된 곳입니다. 활성화하면 적이 나타납니다.",
+          "MX": "Esta es una acumulación de Energía. Al activarla aparecerán enemigos.",
+          "RU": "Скопление энергии. Если его активировать, появятся враги.",
+          "TC": "能量淤積於此，激發後，會有敵人出現。",
+          "TH": "นี่​คือ​พลังงาน​สะสม​ การ​เปิด​ใช้งาน​จะ​ทำให้​ศัตรู​ปรากฏตัว​ขึ้น",
+          "VN": "Đây là điểm tích năng lượng. Kẻ địch sẽ xuất hiện khi kích hoạt."
+        },
+        "enemyIds": [
+          "eny_0007_mimicw",
+          "eny_0073_slimerg",
+          "eny_0100_slimerg2",
+          "eny_0128_babyents",
+          "eny_0129_slwood"
+        ],
+        "enemyLevels": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "gameCategory": "world_energy_point",
+        "gameGroupId": "world_energy_point_group12",
+        "gameMechanicsId": "world_energy_point12_3",
+        "gameName": {
+          "BR": "Aluvião de Energia: Floresta Nevada",
+          "CN": "能量淤积点·雪松林",
+          "DE": "Energie-Alluvium: Verschneiter Wald",
+          "EN": "Energy Alluvium: Snowy Forest",
+          "FR": "Alluvion d'énergie : Forêt enneigée",
+          "ID": "Aluvium Energi: Hutan Salju",
+          "IT": "Sedimento energetico: Foresta innevata",
+          "JP": "超域活性点・雪松林",
+          "KR": "에너지 응집점 · 눈 덮인 소나무 숲",
+          "MX": "Aluvión energético: Bosque Nevado",
+          "RU": "Аллювий энергии: Снежный лес",
+          "TC": "能量淤積點·雪松林",
+          "TH": "อัล​ลู​เวีย​ม​พลังงาน​: ป่า​ขาวโพลน",
+          "VN": "Năng Lượng Bồi Tích: Rừng Tuyết"
+        },
+        "levelId": "map02_lv009",
+        "probGemItemIds": [
+          "item_preset_gem_5_no",
+          "item_preset_gem_5_force",
+          "item_preset_gem_5_smash",
+          "item_preset_gem_5_spirit",
+          "item_preset_gem_5_break",
+          "item_preset_gem_5_heal",
+          "item_preset_gem_5_burst",
+          "item_preset_gem_5_ult",
+          "item_preset_gem_5_tacafter"
+        ],
+        "recommendLv": 30,
+        "regularItemCount": [],
+        "regularItemIds": [],
+        "worldLevel": 3
+      },
+      "world_energy_point12_1": {
+        "costStamina": 0,
+        "desc": {
+          "BR": "Este é um acúmulo de energia. Ativá-lo faz com que inimigos apareçam.",
+          "CN": "能量淤积于此，激发后，会有敌人出现。",
+          "DE": "Energie hat sich hier gesammelt. Wird diese aktiviert, erscheinen Gegner.",
+          "EN": "This is an energy buildup. Activating it causes enemies to appear.",
+          "FR": "Ceci est une formation d'énergie. Si vous l'activez, des ennemis apparaissent.",
+          "ID": "Ini endapan energi. Jika diaktifkan, musuh akan muncul.",
+          "IT": "Questo è un accumulo di energia che, se attivato, fa apparire nemici.",
+          "JP": "ここにエネルギーが蓄えられており、解き放たれると敵が現れる。",
+          "KR": "에너지가 응집된 곳입니다. 활성화하면 적이 나타납니다.",
+          "MX": "Esta es una acumulación de Energía. Al activarla aparecerán enemigos.",
+          "RU": "Скопление энергии. Если его активировать, появятся враги.",
+          "TC": "能量淤積於此，激發後，會有敵人出現。",
+          "TH": "นี่​คือ​พลังงาน​สะสม​ การ​เปิด​ใช้งาน​จะ​ทำให้​ศัตรู​ปรากฏตัว​ขึ้น",
+          "VN": "Đây là điểm tích năng lượng. Kẻ địch sẽ xuất hiện khi kích hoạt."
+        },
+        "enemyIds": [
+          "eny_0007_mimicw",
+          "eny_0073_slimerg",
+          "eny_0100_slimerg2",
+          "eny_0128_babyents",
+          "eny_0129_slwood"
+        ],
+        "enemyLevels": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "gameCategory": "world_energy_point",
+        "gameGroupId": "world_energy_point_group12",
+        "gameMechanicsId": "world_energy_point12_1",
+        "gameName": {
+          "BR": "Aluvião de Energia: Floresta Nevada",
+          "CN": "能量淤积点·雪松林",
+          "DE": "Energie-Alluvium: Verschneiter Wald",
+          "EN": "Energy Alluvium: Snowy Forest",
+          "FR": "Alluvion d'énergie : Forêt enneigée",
+          "ID": "Aluvium Energi: Hutan Salju",
+          "IT": "Sedimento energetico: Foresta innevata",
+          "JP": "超域活性点・雪松林",
+          "KR": "에너지 응집점 · 눈 덮인 소나무 숲",
+          "MX": "Aluvión energético: Bosque Nevado",
+          "RU": "Аллювий энергии: Снежный лес",
+          "TC": "能量淤積點·雪松林",
+          "TH": "อัล​ลู​เวีย​ม​พลังงาน​: ป่า​ขาวโพลน",
+          "VN": "Năng Lượng Bồi Tích: Rừng Tuyết"
+        },
+        "levelId": "map02_lv009",
+        "probGemItemIds": [
+          "item_preset_gem_5_no",
+          "item_preset_gem_5_force",
+          "item_preset_gem_5_smash",
+          "item_preset_gem_5_spirit",
+          "item_preset_gem_5_break",
+          "item_preset_gem_5_heal",
+          "item_preset_gem_5_burst",
+          "item_preset_gem_5_ult",
+          "item_preset_gem_5_tacafter"
+        ],
+        "recommendLv": 20,
+        "regularItemCount": [],
+        "regularItemIds": [],
+        "worldLevel": 1
+      },
+      "world_energy_point12_2": {
+        "costStamina": 0,
+        "desc": {
+          "BR": "Este é um acúmulo de energia. Ativá-lo faz com que inimigos apareçam.",
+          "CN": "能量淤积于此，激发后，会有敌人出现。",
+          "DE": "Energie hat sich hier gesammelt. Wird diese aktiviert, erscheinen Gegner.",
+          "EN": "This is an energy buildup. Activating it causes enemies to appear.",
+          "FR": "Ceci est une formation d'énergie. Si vous l'activez, des ennemis apparaissent.",
+          "ID": "Ini endapan energi. Jika diaktifkan, musuh akan muncul.",
+          "IT": "Questo è un accumulo di energia che, se attivato, fa apparire nemici.",
+          "JP": "ここにエネルギーが蓄えられており、解き放たれると敵が現れる。",
+          "KR": "에너지가 응집된 곳입니다. 활성화하면 적이 나타납니다.",
+          "MX": "Esta es una acumulación de Energía. Al activarla aparecerán enemigos.",
+          "RU": "Скопление энергии. Если его активировать, появятся враги.",
+          "TC": "能量淤積於此，激發後，會有敵人出現。",
+          "TH": "นี่​คือ​พลังงาน​สะสม​ การ​เปิด​ใช้งาน​จะ​ทำให้​ศัตรู​ปรากฏตัว​ขึ้น",
+          "VN": "Đây là điểm tích năng lượng. Kẻ địch sẽ xuất hiện khi kích hoạt."
+        },
+        "enemyIds": [
+          "eny_0007_mimicw",
+          "eny_0073_slimerg",
+          "eny_0100_slimerg2",
+          "eny_0128_babyents",
+          "eny_0129_slwood"
+        ],
+        "enemyLevels": [
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "gameCategory": "world_energy_point",
+        "gameGroupId": "world_energy_point_group12",
+        "gameMechanicsId": "world_energy_point12_2",
+        "gameName": {
+          "BR": "Aluvião de Energia: Floresta Nevada",
+          "CN": "能量淤积点·雪松林",
+          "DE": "Energie-Alluvium: Verschneiter Wald",
+          "EN": "Energy Alluvium: Snowy Forest",
+          "FR": "Alluvion d'énergie : Forêt enneigée",
+          "ID": "Aluvium Energi: Hutan Salju",
+          "IT": "Sedimento energetico: Foresta innevata",
+          "JP": "超域活性点・雪松林",
+          "KR": "에너지 응집점 · 눈 덮인 소나무 숲",
+          "MX": "Aluvión energético: Bosque Nevado",
+          "RU": "Аллювий энергии: Снежный лес",
+          "TC": "能量淤積點·雪松林",
+          "TH": "อัล​ลู​เวีย​ม​พลังงาน​: ป่า​ขาวโพลน",
+          "VN": "Năng Lượng Bồi Tích: Rừng Tuyết"
+        },
+        "levelId": "map02_lv009",
+        "probGemItemIds": [
+          "item_preset_gem_5_no",
+          "item_preset_gem_5_force",
+          "item_preset_gem_5_smash",
+          "item_preset_gem_5_spirit",
+          "item_preset_gem_5_break",
+          "item_preset_gem_5_heal",
+          "item_preset_gem_5_burst",
+          "item_preset_gem_5_ult",
+          "item_preset_gem_5_tacafter"
+        ],
+        "recommendLv": 20,
+        "regularItemCount": [],
+        "regularItemIds": [],
+        "worldLevel": 2
+      },
+      "world_energy_point12_4": {
+        "costStamina": 50,
+        "desc": {
+          "BR": "Este é um acúmulo de energia poderoso. Ativá-lo faz com que inimigos apareçam. Derrote-os para ganhar essências.",
+          "CN": "极多能量淤积于此，激发后，会有敌人出现，将之击败可获得基质",
+          "DE": "Eine Menge Energie hat sich hier gesammelt. Wird diese aktiviert, erscheinen Gegner. Besiege diese, um Essenzen zu erhalten.",
+          "EN": "This is a powerful energy buildup. Activating it causes enemies to appear. Defeat them to earn essences.",
+          "FR": "Ceci est une puissante formation d'énergie. Si vous l'activez, des ennemis apparaissent. Éliminez-les pour gagner des essences.",
+          "ID": "Ini endapan energi yang kuat. Jika diaktifkan, musuh akan muncul. Kalahkan mereka untuk mendapatkan esensi.",
+          "IT": "Questo è un potente accumulo di energia che, se attivato, fa apparire nemici. Sconfiggili per ottenere essenze.",
+          "JP": "ここに大量なエネルギーが蓄えられており、解き放たれると敵が現れる。倒せば、基質を入手できる。",
+          "KR": "많은 에너지가 응집된 곳입니다. 활성화하여 나타난 적을 처치하면 기질을 획득할 수 있습니다.",
+          "MX": "Esta es una poderosa acumulación de Energía. Al activarla aparecerán enemigos. Derrótalos para obtener esencias.",
+          "RU": "Значительное скопление энергии. Если его активировать, появятся враги. Победите их, чтобы получить эссенции.",
+          "TC": "極多能量淤積於此，激發後，會有敵人出現，將之擊敗可獲得基質",
+          "TH": "นี่​คือ​พลังงาน​สะสม​ทรงพลัง​ การ​เปิด​ใช้งาน​จะ​ทำให้​ศัตรู​ปรากฏตัว​ขึ้น​ กำจัด​เพื่อ​รับ​แก่นแท้",
+          "VN": "Đây là điểm tích năng lượng mạnh. Kẻ địch sẽ xuất hiện khi kích hoạt. Tiêu diệt chúng để nhận Tinh Chất."
+        },
+        "enemyIds": [
+          "eny_0007_mimicw",
+          "eny_0073_slimerg",
+          "eny_0100_slimerg2",
+          "eny_0128_babyents",
+          "eny_0129_slwood"
+        ],
+        "enemyLevels": [
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "gameCategory": "world_energy_point",
+        "gameGroupId": "world_energy_point_group12",
+        "gameMechanicsId": "world_energy_point12_4",
+        "gameName": {
+          "BR": "Aluvião de Energia Severo: Floresta Nevada",
+          "CN": "重度能量淤积点·雪松林",
+          "DE": "Schweres Energie-Alluvium: Verschneiter Wald",
+          "EN": "Severe Energy Alluvium: Snowy Forest",
+          "FR": "Alluvion d'énergie intense : Forêt enneigée",
+          "ID": "Aluvium Energi Parah: Hutan Salju",
+          "IT": "Sedimento energetico ostico: Foresta innevata",
+          "JP": "重度超域活性点・雪松林",
+          "KR": "고위 에너지 응집점 · 눈 덮인 소나무 숲",
+          "MX": "Aluvión energético severo: Bosque Nevado",
+          "RU": "Сильный аллювий энергии: Снежный лес",
+          "TC": "重度能量淤積點·雪松林",
+          "TH": "อัล​ลู​เวีย​ม​พลังงาน​รุนแรง​: ป่า​ขาวโพลน",
+          "VN": "Năng Lượng Bồi Tích Dữ Dội: Rừng Tuyết"
+        },
+        "levelId": "map02_lv009",
+        "probGemItemIds": [
+          "item_preset_gem_5_no",
+          "item_preset_gem_5_force",
+          "item_preset_gem_5_smash",
+          "item_preset_gem_5_spirit",
+          "item_preset_gem_5_break",
+          "item_preset_gem_5_heal",
+          "item_preset_gem_5_burst",
+          "item_preset_gem_5_ult",
+          "item_preset_gem_5_tacafter"
+        ],
+        "recommendLv": 40,
+        "regularItemCount": [
+          300
+        ],
+        "regularItemIds": [
+          "item_adventureexp"
+        ],
+        "worldLevel": 4
+      },
+      "world_energy_point12_5": {
+        "costStamina": 60,
+        "desc": {
+          "BR": "Este é um acúmulo de energia poderoso. Ativá-lo faz com que inimigos apareçam. Derrote-os para ganhar essências.",
+          "CN": "极多能量淤积于此，激发后，会有敌人出现，将之击败可获得基质",
+          "DE": "Eine Menge Energie hat sich hier gesammelt. Wird diese aktiviert, erscheinen Gegner. Besiege diese, um Essenzen zu erhalten.",
+          "EN": "This is a powerful energy buildup. Activating it causes enemies to appear. Defeat them to earn essences.",
+          "FR": "Ceci est une puissante formation d'énergie. Si vous l'activez, des ennemis apparaissent. Éliminez-les pour gagner des essences.",
+          "ID": "Ini endapan energi yang kuat. Jika diaktifkan, musuh akan muncul. Kalahkan mereka untuk mendapatkan esensi.",
+          "IT": "Questo è un potente accumulo di energia che, se attivato, fa apparire nemici. Sconfiggili per ottenere essenze.",
+          "JP": "ここに大量なエネルギーが蓄えられており、解き放たれると敵が現れる。倒せば、基質を入手できる。",
+          "KR": "많은 에너지가 응집된 곳입니다. 활성화하여 나타난 적을 처치하면 기질을 획득할 수 있습니다.",
+          "MX": "Esta es una poderosa acumulación de Energía. Al activarla aparecerán enemigos. Derrótalos para obtener esencias.",
+          "RU": "Значительное скопление энергии. Если его активировать, появятся враги. Победите их, чтобы получить эссенции.",
+          "TC": "極多能量淤積於此，激發後，會有敵人出現，將之擊敗可獲得基質",
+          "TH": "นี่​คือ​พลังงาน​สะสม​ทรงพลัง​ การ​เปิด​ใช้งาน​จะ​ทำให้​ศัตรู​ปรากฏตัว​ขึ้น​ กำจัด​เพื่อ​รับ​แก่นแท้",
+          "VN": "Đây là điểm tích năng lượng mạnh. Kẻ địch sẽ xuất hiện khi kích hoạt. Tiêu diệt chúng để nhận Tinh Chất."
+        },
+        "enemyIds": [
+          "eny_0007_mimicw",
+          "eny_0073_slimerg",
+          "eny_0100_slimerg2",
+          "eny_0128_babyents",
+          "eny_0129_slwood"
+        ],
+        "enemyLevels": [
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "gameCategory": "world_energy_point",
+        "gameGroupId": "world_energy_point_group12",
+        "gameMechanicsId": "world_energy_point12_5",
+        "gameName": {
+          "BR": "Aluvião de Energia Severo: Floresta Nevada",
+          "CN": "重度能量淤积点·雪松林",
+          "DE": "Schweres Energie-Alluvium: Verschneiter Wald",
+          "EN": "Severe Energy Alluvium: Snowy Forest",
+          "FR": "Alluvion d'énergie intense : Forêt enneigée",
+          "ID": "Aluvium Energi Parah: Hutan Salju",
+          "IT": "Sedimento energetico ostico: Foresta innevata",
+          "JP": "重度超域活性点・雪松林",
+          "KR": "고위 에너지 응집점 · 눈 덮인 소나무 숲",
+          "MX": "Aluvión energético severo: Bosque Nevado",
+          "RU": "Сильный аллювий энергии: Снежный лес",
+          "TC": "重度能量淤積點·雪松林",
+          "TH": "อัล​ลู​เวีย​ม​พลังงาน​รุนแรง​: ป่า​ขาวโพลน",
+          "VN": "Năng Lượng Bồi Tích Dữ Dội: Rừng Tuyết"
+        },
+        "levelId": "map02_lv009",
+        "probGemItemIds": [
+          "item_preset_gem_5_no",
+          "item_preset_gem_5_force",
+          "item_preset_gem_5_smash",
+          "item_preset_gem_5_spirit",
+          "item_preset_gem_5_break",
+          "item_preset_gem_5_heal",
+          "item_preset_gem_5_burst",
+          "item_preset_gem_5_ult",
+          "item_preset_gem_5_tacafter"
+        ],
+        "recommendLv": 50,
+        "regularItemCount": [
+          360
+        ],
+        "regularItemIds": [
+          "item_adventureexp"
+        ],
+        "worldLevel": 5
+      },
+      "world_energy_point12_6": {
+        "costStamina": 70,
+        "desc": {
+          "BR": "Este é um acúmulo de energia poderoso. Ativá-lo faz com que inimigos apareçam. Derrote-os para ganhar essências.",
+          "CN": "极多能量淤积于此，激发后，会有敌人出现，将之击败可获得基质",
+          "DE": "Eine Menge Energie hat sich hier gesammelt. Wird diese aktiviert, erscheinen Gegner. Besiege diese, um Essenzen zu erhalten.",
+          "EN": "This is a powerful energy buildup. Activating it causes enemies to appear. Defeat them to earn essences.",
+          "FR": "Ceci est une puissante formation d'énergie. Si vous l'activez, des ennemis apparaissent. Éliminez-les pour gagner des essences.",
+          "ID": "Ini endapan energi yang kuat. Jika diaktifkan, musuh akan muncul. Kalahkan mereka untuk mendapatkan esensi.",
+          "IT": "Questo è un potente accumulo di energia che, se attivato, fa apparire nemici. Sconfiggili per ottenere essenze.",
+          "JP": "ここに大量なエネルギーが蓄えられており、解き放たれると敵が現れる。倒せば、基質を入手できる。",
+          "KR": "많은 에너지가 응집된 곳입니다. 활성화하여 나타난 적을 처치하면 기질을 획득할 수 있습니다.",
+          "MX": "Esta es una poderosa acumulación de Energía. Al activarla aparecerán enemigos. Derrótalos para obtener esencias.",
+          "RU": "Значительное скопление энергии. Если его активировать, появятся враги. Победите их, чтобы получить эссенции.",
+          "TC": "極多能量淤積於此，激發後，會有敵人出現，將之擊敗可獲得基質",
+          "TH": "นี่​คือ​พลังงาน​สะสม​ทรงพลัง​ การ​เปิด​ใช้งาน​จะ​ทำให้​ศัตรู​ปรากฏตัว​ขึ้น​ กำจัด​เพื่อ​รับ​แก่นแท้",
+          "VN": "Đây là điểm tích năng lượng mạnh. Kẻ địch sẽ xuất hiện khi kích hoạt. Tiêu diệt chúng để nhận Tinh Chất."
+        },
+        "enemyIds": [
+          "eny_0007_mimicw",
+          "eny_0073_slimerg",
+          "eny_0100_slimerg2",
+          "eny_0128_babyents",
+          "eny_0129_slwood"
+        ],
+        "enemyLevels": [
+          55,
+          55,
+          55,
+          55,
+          55
+        ],
+        "gameCategory": "world_energy_point",
+        "gameGroupId": "world_energy_point_group12",
+        "gameMechanicsId": "world_energy_point12_6",
+        "gameName": {
+          "BR": "Aluvião de Energia Severo: Floresta Nevada",
+          "CN": "重度能量淤积点·雪松林",
+          "DE": "Schweres Energie-Alluvium: Verschneiter Wald",
+          "EN": "Severe Energy Alluvium: Snowy Forest",
+          "FR": "Alluvion d'énergie intense : Forêt enneigée",
+          "ID": "Aluvium Energi Parah: Hutan Salju",
+          "IT": "Sedimento energetico ostico: Foresta innevata",
+          "JP": "重度超域活性点・雪松林",
+          "KR": "고위 에너지 응집점 · 눈 덮인 소나무 숲",
+          "MX": "Aluvión energético severo: Bosque Nevado",
+          "RU": "Сильный аллювий энергии: Снежный лес",
+          "TC": "重度能量淤積點·雪松林",
+          "TH": "อัล​ลู​เวีย​ม​พลังงาน​รุนแรง​: ป่า​ขาวโพลน",
+          "VN": "Năng Lượng Bồi Tích Dữ Dội: Rừng Tuyết"
+        },
+        "levelId": "map02_lv009",
+        "probGemItemIds": [
+          "item_preset_gem_5_no",
+          "item_preset_gem_5_force",
+          "item_preset_gem_5_smash",
+          "item_preset_gem_5_spirit",
+          "item_preset_gem_5_break",
+          "item_preset_gem_5_heal",
+          "item_preset_gem_5_burst",
+          "item_preset_gem_5_ult",
+          "item_preset_gem_5_tacafter"
+        ],
+        "recommendLv": 55,
+        "regularItemCount": [
+          420
+        ],
+        "regularItemIds": [
+          "item_adventureexp"
+        ],
+        "worldLevel": 6
+      },
+      "world_energy_point12_7": {
+        "costStamina": 80,
+        "desc": {
+          "BR": "Este é um acúmulo de energia poderoso. Ativá-lo faz com que inimigos apareçam. Derrote-os para ganhar essências.",
+          "CN": "极多能量淤积于此，激发后，会有敌人出现，将之击败可获得基质",
+          "DE": "Eine Menge Energie hat sich hier gesammelt. Wird diese aktiviert, erscheinen Gegner. Besiege diese, um Essenzen zu erhalten.",
+          "EN": "This is a powerful energy buildup. Activating it causes enemies to appear. Defeat them to earn essences.",
+          "FR": "Ceci est une puissante formation d'énergie. Si vous l'activez, des ennemis apparaissent. Éliminez-les pour gagner des essences.",
+          "ID": "Ini endapan energi yang kuat. Jika diaktifkan, musuh akan muncul. Kalahkan mereka untuk mendapatkan esensi.",
+          "IT": "Questo è un potente accumulo di energia che, se attivato, fa apparire nemici. Sconfiggili per ottenere essenze.",
+          "JP": "ここに大量なエネルギーが蓄えられており、解き放たれると敵が現れる。倒せば、基質を入手できる。",
+          "KR": "많은 에너지가 응집된 곳입니다. 활성화하여 나타난 적을 처치하면 기질을 획득할 수 있습니다.",
+          "MX": "Esta es una poderosa acumulación de Energía. Al activarla aparecerán enemigos. Derrótalos para obtener esencias.",
+          "RU": "Значительное скопление энергии. Если его активировать, появятся враги. Победите их, чтобы получить эссенции.",
+          "TC": "極多能量淤積於此，激發後，會有敵人出現，將之擊敗可獲得基質",
+          "TH": "นี่​คือ​พลังงาน​สะสม​ทรงพลัง​ การ​เปิด​ใช้งาน​จะ​ทำให้​ศัตรู​ปรากฏตัว​ขึ้น​ กำจัด​เพื่อ​รับ​แก่นแท้",
+          "VN": "Đây là điểm tích năng lượng mạnh. Kẻ địch sẽ xuất hiện khi kích hoạt. Tiêu diệt chúng để nhận Tinh Chất."
+        },
+        "enemyIds": [
+          "eny_0007_mimicw",
+          "eny_0073_slimerg",
+          "eny_0100_slimerg2",
+          "eny_0128_babyents",
+          "eny_0129_slwood"
+        ],
+        "enemyLevels": [
+          60,
+          60,
+          60,
+          60,
+          60
+        ],
+        "gameCategory": "world_energy_point",
+        "gameGroupId": "world_energy_point_group12",
+        "gameMechanicsId": "world_energy_point12_7",
+        "gameName": {
+          "BR": "Aluvião de Energia Severo: Floresta Nevada",
+          "CN": "重度能量淤积点·雪松林",
+          "DE": "Schweres Energie-Alluvium: Verschneiter Wald",
+          "EN": "Severe Energy Alluvium: Snowy Forest",
+          "FR": "Alluvion d'énergie intense : Forêt enneigée",
+          "ID": "Aluvium Energi Parah: Hutan Salju",
+          "IT": "Sedimento energetico ostico: Foresta innevata",
+          "JP": "重度超域活性点・雪松林",
+          "KR": "고위 에너지 응집점 · 눈 덮인 소나무 숲",
+          "MX": "Aluvión energético severo: Bosque Nevado",
+          "RU": "Сильный аллювий энергии: Снежный лес",
+          "TC": "重度能量淤積點·雪松林",
+          "TH": "อัล​ลู​เวีย​ม​พลังงาน​รุนแรง​: ป่า​ขาวโพลน",
+          "VN": "Năng Lượng Bồi Tích Dữ Dội: Rừng Tuyết"
+        },
+        "levelId": "map02_lv009",
+        "probGemItemIds": [
+          "item_preset_gem_5_no",
+          "item_preset_gem_5_force",
+          "item_preset_gem_5_smash",
+          "item_preset_gem_5_spirit",
+          "item_preset_gem_5_break",
+          "item_preset_gem_5_heal",
+          "item_preset_gem_5_burst",
+          "item_preset_gem_5_ult",
+          "item_preset_gem_5_tacafter"
+        ],
+        "recommendLv": 60,
+        "regularItemCount": [
+          480
+        ],
+        "regularItemIds": [
+          "item_adventureexp"
+        ],
+        "worldLevel": 7
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

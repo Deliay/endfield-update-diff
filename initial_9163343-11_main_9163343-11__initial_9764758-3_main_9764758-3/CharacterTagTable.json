@@ -1,0 +1,41 @@
+{
+  "tableName": "CharacterTagTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0034_typhoea": {
+        "behaviourHateTagIds": [
+          "tag_hobby_tech"
+        ],
+        "behaviourUnavailableTagIds": [],
+        "blocTagId": "tag_power_rhodes",
+        "charId": "chr_0034_typhoea",
+        "dispositionTagIds": [
+          "tag_activity_universe",
+          "tag_activity_shanshantu"
+        ],
+        "expertTagIds": [
+          "tag_expert_nature",
+          "tag_expert_wild"
+        ],
+        "giftPreferTagId": [
+          "tag_giftperfer_wuling_6"
+        ],
+        "hobbyTagIds": [
+          "tag_hobby_life",
+          "tag_hobby_nature"
+        ],
+        "raceTagId": "tag_race_deavil"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

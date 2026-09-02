@@ -1,0 +1,43 @@
+{
+  "tableName": "SpaceShipCharBehaviourTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "chr_0034_typhoea": {
+        "behaviourTypes": [
+          0
+        ],
+        "charId": "chr_0034_typhoea",
+        "commonNegativeEnvTalk": "envEmoji_common_sad",
+        "commonNormalEnvTalk": "envEmoji_common_normal",
+        "commonPositiveEnvTalk": "envEmoji_common_thumbsup",
+        "friendGreetEnvTalkId": [
+          "greetEnvTalk_typhoea_visitor_01"
+        ],
+        "friendProxyId": "typhoeus_base01_lv003",
+        "greetEnvTalkIds1": [
+          "greetEnvTalk_typhoea_lower_01"
+        ],
+        "greetEnvTalkIds2": [
+          "greetEnvTalk_typhoea_lower_01"
+        ],
+        "greetEnvTalkIds3": [
+          "greetEnvTalk_typhoea_max_01"
+        ],
+        "proxyId": "typhoeus_base01_lv001",
+        "unlockGreetFavorability": 1,
+        "workNegativeEnvTalk": "envEmoji_common_unhappywork",
+        "workPositiveEnvTalk": "envEmoji_common_adaptationwork"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

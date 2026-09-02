@@ -1,0 +1,57 @@
+{
+  "tableName": "ActivityBannerTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 5,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "weapon_gacha_1_5_1": {
+        "bannerId": "weapon_gacha_1_5_1",
+        "bannerType": 0,
+        "corrSysId": "weponbox_1_5_1",
+        "image": "weapon_typhoeus_banner",
+        "jumpId": "jump_weapon_gacha_lt_1_5_1",
+        "sortId": 987
+      },
+      "char_gacha_1_5_1": {
+        "bannerId": "char_gacha_1_5_1",
+        "bannerType": 0,
+        "corrSysId": "special_1_5_1",
+        "image": "watch_char_banner_1_5_1",
+        "jumpId": "jump_gacha_lt_1_5_1",
+        "sortId": 2
+      },
+      "char_gacha_1_5_2": {
+        "bannerId": "char_gacha_1_5_2",
+        "bannerType": 0,
+        "corrSysId": "rerun_chr_yvonne",
+        "image": "yvonne_banner",
+        "jumpId": "jump_gacha_lt_1_5_2",
+        "sortId": 3
+      },
+      "weapon_gacha_1_5_2": {
+        "bannerId": "weapon_gacha_1_5_2",
+        "bannerType": 0,
+        "corrSysId": "rerun_wpn_yvonne",
+        "image": "weapon_yvonne_banner",
+        "jumpId": "jump_weapon_gacha_lt_1_5_2",
+        "sortId": 988
+      },
+      "giftpack_seasonal_lt_1_5_1": {
+        "bannerId": "giftpack_seasonal_lt_1_5_1",
+        "bannerType": 2,
+        "corrSysId": "",
+        "image": "watch_giftpack_banner_1_5_1",
+        "jumpId": "",
+        "sortId": 2991
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

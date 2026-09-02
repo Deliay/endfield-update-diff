@@ -1,0 +1,2165 @@
+{
+  "tableName": "WikiEntryTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 12
+  },
+  "entries": {
+    "added": {
+      "suit_spellburst": {
+        "list": [
+          "wiki_item_equip_t4_suit_spellburst_edc_01",
+          "wiki_item_equip_t4_suit_spellburst_hand_01",
+          "wiki_item_equip_t4_suit_spellburst_body_01"
+        ]
+      },
+      "wiki_group_monster_witchcraft": {
+        "list": [
+          "wiki_eny_0129_slwood",
+          "wiki_eny_0128_babyents",
+          "wiki_eny_0127_bigents"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "wiki_group_tutorial_adventure": {
+        "oldValue": {
+          "list": [
+            "wiki_tut_adv_camp",
+            "wiki_tut_adv_ether",
+            "wiki_tut_adv_doodad",
+            "wiki_tut_adv_mine",
+            "wiki_tut_adv_scan",
+            "wiki_tut_adv_take_photo",
+            "wiki_tut_adv_use_bomb",
+            "wiki_tut_adv_liqiud_fill",
+            "wiki_tut_adv_watergun",
+            "wiki_tut_adv_repair",
+            "wiki_tut_adv_electric_battery",
+            "wiki_tut_adv_restoration",
+            "wiki_tut_adv_dungeon",
+            "wiki_tut_adv_ap",
+            "wiki_tut_adv_start_bomb",
+            "wiki_tut_adv_power_terminal",
+            "wiki_tut_adv_rope",
+            "wiki_tut_adv_pushedbox1",
+            "wiki_tut_adv_pushedbox2",
+            "wiki_tut_adv_pushedbox3",
+            "wiki_tut_adv_collection_piece",
+            "wiki_tut_adv_forklift",
+            "wiki_tut_adv_jumpmachine_vertical",
+            "wiki_tut_adv_ewitch",
+            "wiki_tut_adv_defence_laser",
+            "wiki_tut_adv_chasingrabbit",
+            "wiki_tut_adv_flame_desctruct",
+            "wiki_tut_adv_jump_machine",
+            "wiki_tut_adv_hit_iron",
+            "wiki_tut_adv_seesaw",
+            "wiki_tut_adv_electric_fence",
+            "wiki_tut_adv_recycle_station",
+            "wiki_tut_adv_recycle_station_2",
+            "wiki_tut_adv_delta_robot",
+            "wiki_tut_adv_locked_box",
+            "wiki_tut_adv_equip_chest",
+            "wiki_tut_adv_equip_chest_2",
+            "wiki_tut_adv_energy_point",
+            "wiki_tut_adv_energy_point_2",
+            "wiki_tut_adv_second_energy_point",
+            "wiki_tut_adv_bomb_wall",
+            "wiki_tut_adv_accelerate_mushroom",
+            "wiki_tut_adv_crane_controller",
+            "wiki_tut_adv_crane",
+            "wiki_tut_adv_scan_find",
+            "wiki_tut_adv_erosion",
+            "wiki_tut_adv_scan_erosion",
+            "wiki_tut_adv_anchor_wave",
+            "wiki_tut_adv_crystal_tree",
+            "wiki_tut_adv_timid_insect",
+            "wiki_tut_adv_moss_3",
+            "wiki_tut_adv_conveyorbeltGroup",
+            "wiki_tut_adv_steam_blocker",
+            "wiki_tut_adv_weekly_raid_disorder",
+            "wiki_tut_adv_weekly_raid_mine",
+            "wiki_tut_adv_weekly_raid_pick",
+            "wiki_tut_adv_weekly_raid_mission",
+            "wiki_tut_adv_trchest_wrdg",
+            "wiki_tut_adv_trchest_wrdg001_Area1_2",
+            "wiki_tut_adv_vending_machine",
+            "wiki_tut_adv_purification_device",
+            "wiki_tut_adv_weekraid_jumpmachine",
+            "wiki_tut_adv_weekraid_oil_container",
+            "wiki_tut_adv_tsz",
+            "wiki_tut_adv_scan_liqiud",
+            "wiki_tut_adv_liqiud_height",
+            "wiki_tut_adv_drain_valves",
+            "wiki_tut_adv_waterwheel",
+            "wiki_tut_adv_waterstate_wltech",
+            "wiki_tut_adv_waterstate",
+            "wiki_tut_adv_doormarker",
+            "wiki_tut_adv_hydrant",
+            "wiki_tut_adv_xiranite_hydrant",
+            "wiki_tut_adv_mud_erosion",
+            "wiki_tut_adv_mud_erosion_2",
+            "wiki_tut_adv_mud_erosion_mec",
+            "wiki_tut_adv_wuling_erosion_2",
+            "wiki_tut_adv_wuling_erosion_nocore",
+            "wiki_tut_adv_mazemarker",
+            "wiki_tut_adv_waterdrone_floating_target",
+            "wiki_tut_adv_platform_rdtplotus",
+            "wiki_tut_adv_unstable_platform",
+            "wiki_tut_adv_trchest_supplybox",
+            "wiki_tut_adv_leader_butterfly",
+            "wiki_tut_adv_waterdrone_cooler_unit",
+            "wiki_tut_adv_pressure_switch",
+            "wiki_tut_adv_waterdepth_switch",
+            "wiki_tut_adv_super_pressure_board",
+            "wiki_tut_adv_lsm_controlled_sword",
+            "wiki_tut_adv_lsm_controlled_switch",
+            "wiki_tut_adv_fireflyfrogs",
+            "wiki_tut_adv_wltechbridge",
+            "wiki_tut_adv_unrealwall",
+            "wiki_tut_adv_rotate_bridge",
+            "wiki_tut_adv_erosion_barrier",
+            "wiki_tut_adv_charging_rail",
+            "wiki_tut_adv_two_color_mec",
+            "wiki_tut_adv_monster_heart",
+            "wiki_tut_adv_xiranite_trail",
+            "wiki_tut_adv_matrix_center",
+            "wiki_tut_adv_banana_peel",
+            "wiki_tut_adv_rune_tablet_1",
+            "wiki_tut_adv_rune_tablet_2",
+            "wiki_tut_adv_rune_tablet_3",
+            "wiki_tut_adv_rolling_stone",
+            "wiki_tut_adv_collection_star",
+            "wiki_tut_adv_beacon",
+            "wiki_tut_adv_kickable_ball",
+            "wiki_tut_adv_spot_difference",
+            "wiki_tut_adv_miasma_safe_area",
+            "wiki_tut_adv_xiranite_nexus",
+            "wiki_tut_adv_xiranite_nexus_upgrade",
+            "wiki_tut_adv_xiranite_nexus_scan",
+            "wiki_tut_adv_inert_mine_Bottled",
+            "wiki_tut_adv_balloon_recycle",
+            "wiki_tut_adv_fac_fissure_bury",
+            "wiki_tut_adv_xiranite_radar",
+            "wiki_tut_adv_gas_diffuser_tips",
+            "wiki_tut_adv_equip_portable"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_tut_adv_camp",
+            "wiki_tut_adv_ether",
+            "wiki_tut_adv_doodad",
+            "wiki_tut_adv_mine",
+            "wiki_tut_adv_scan",
+            "wiki_tut_adv_take_photo",
+            "wiki_tut_adv_use_bomb",
+            "wiki_tut_adv_liqiud_fill",
+            "wiki_tut_adv_watergun",
+            "wiki_tut_adv_repair",
+            "wiki_tut_adv_electric_battery",
+            "wiki_tut_adv_restoration",
+            "wiki_tut_adv_dungeon",
+            "wiki_tut_adv_ap",
+            "wiki_tut_adv_start_bomb",
+            "wiki_tut_adv_power_terminal",
+            "wiki_tut_adv_rope",
+            "wiki_tut_adv_pushedbox1",
+            "wiki_tut_adv_pushedbox2",
+            "wiki_tut_adv_pushedbox3",
+            "wiki_tut_adv_collection_piece",
+            "wiki_tut_adv_forklift",
+            "wiki_tut_adv_jumpmachine_vertical",
+            "wiki_tut_adv_ewitch",
+            "wiki_tut_adv_defence_laser",
+            "wiki_tut_adv_chasingrabbit",
+            "wiki_tut_adv_flame_desctruct",
+            "wiki_tut_adv_jump_machine",
+            "wiki_tut_adv_hit_iron",
+            "wiki_tut_adv_seesaw",
+            "wiki_tut_adv_electric_fence",
+            "wiki_tut_adv_recycle_station",
+            "wiki_tut_adv_recycle_station_2",
+            "wiki_tut_adv_delta_robot",
+            "wiki_tut_adv_locked_box",
+            "wiki_tut_adv_equip_chest",
+            "wiki_tut_adv_equip_chest_2",
+            "wiki_tut_adv_energy_point",
+            "wiki_tut_adv_energy_point_2",
+            "wiki_tut_adv_second_energy_point",
+            "wiki_tut_adv_bomb_wall",
+            "wiki_tut_adv_accelerate_mushroom",
+            "wiki_tut_adv_crane_controller",
+            "wiki_tut_adv_crane",
+            "wiki_tut_adv_scan_find",
+            "wiki_tut_adv_erosion",
+            "wiki_tut_adv_scan_erosion",
+            "wiki_tut_adv_anchor_wave",
+            "wiki_tut_adv_crystal_tree",
+            "wiki_tut_adv_timid_insect",
+            "wiki_tut_adv_moss_3",
+            "wiki_tut_adv_conveyorbeltGroup",
+            "wiki_tut_adv_steam_blocker",
+            "wiki_tut_adv_weekly_raid_disorder",
+            "wiki_tut_adv_weekly_raid_mine",
+            "wiki_tut_adv_weekly_raid_pick",
+            "wiki_tut_adv_weekly_raid_mission",
+            "wiki_tut_adv_trchest_wrdg",
+            "wiki_tut_adv_trchest_wrdg001_Area1_2",
+            "wiki_tut_adv_vending_machine",
+            "wiki_tut_adv_purification_device",
+            "wiki_tut_adv_weekraid_jumpmachine",
+            "wiki_tut_adv_weekraid_oil_container",
+            "wiki_tut_adv_tsz",
+            "wiki_tut_adv_scan_liqiud",
+            "wiki_tut_adv_liqiud_height",
+            "wiki_tut_adv_drain_valves",
+            "wiki_tut_adv_waterwheel",
+            "wiki_tut_adv_waterstate_wltech",
+            "wiki_tut_adv_waterstate",
+            "wiki_tut_adv_doormarker",
+            "wiki_tut_adv_hydrant",
+            "wiki_tut_adv_xiranite_hydrant",
+            "wiki_tut_adv_mud_erosion",
+            "wiki_tut_adv_mud_erosion_2",
+            "wiki_tut_adv_mud_erosion_mec",
+            "wiki_tut_adv_wuling_erosion_2",
+            "wiki_tut_adv_wuling_erosion_nocore",
+            "wiki_tut_adv_mazemarker",
+            "wiki_tut_adv_waterdrone_floating_target",
+            "wiki_tut_adv_platform_rdtplotus",
+            "wiki_tut_adv_unstable_platform",
+            "wiki_tut_adv_trchest_supplybox",
+            "wiki_tut_adv_leader_butterfly",
+            "wiki_tut_adv_waterdrone_cooler_unit",
+            "wiki_tut_adv_pressure_switch",
+            "wiki_tut_adv_waterdepth_switch",
+            "wiki_tut_adv_super_pressure_board",
+            "wiki_tut_adv_lsm_controlled_sword",
+            "wiki_tut_adv_lsm_controlled_switch",
+            "wiki_tut_adv_fireflyfrogs",
+            "wiki_tut_adv_wltechbridge",
+            "wiki_tut_adv_unrealwall",
+            "wiki_tut_adv_rotate_bridge",
+            "wiki_tut_adv_erosion_barrier",
+            "wiki_tut_adv_charging_rail",
+            "wiki_tut_adv_two_color_mec",
+            "wiki_tut_adv_monster_heart",
+            "wiki_tut_adv_xiranite_trail",
+            "wiki_tut_adv_matrix_center",
+            "wiki_tut_adv_banana_peel",
+            "wiki_tut_adv_rune_tablet_1",
+            "wiki_tut_adv_rune_tablet_2",
+            "wiki_tut_adv_rune_tablet_3",
+            "wiki_tut_adv_rolling_stone",
+            "wiki_tut_adv_collection_star",
+            "wiki_tut_adv_beacon",
+            "wiki_tut_adv_kickable_ball",
+            "wiki_tut_adv_spot_difference",
+            "wiki_tut_adv_xiranite_nexus",
+            "wiki_tut_adv_xiranite_nexus_upgrade",
+            "wiki_tut_adv_xiranite_nexus_scan",
+            "wiki_tut_adv_miasma_safe_area",
+            "wiki_tut_adv_inert_mine_Bottled",
+            "wiki_tut_adv_balloon_recycle",
+            "wiki_tut_adv_fac_fissure_bury",
+            "wiki_tut_adv_xiranite_radar",
+            "wiki_tut_adv_gas_diffuser_tips",
+            "wiki_tut_adv_equip_portable",
+            "wiki_tut_adv_fog_lost",
+            "wiki_tut_adv_magic_pumice",
+            "wiki_tut_adv_magic_pumice2",
+            "wiki_tut_adv_magic_missile",
+            "wiki_tut_adv_missile_rune",
+            "wiki_tut_adv_shield_monster",
+            "wiki_tut_adv_shooting_rune"
+          ]
+        },
+        "changed": {
+          "list[109]": {
+            "type": "value",
+            "oldValue": "wiki_tut_adv_miasma_safe_area",
+            "newValue": "wiki_tut_adv_xiranite_nexus"
+          },
+          "list[110]": {
+            "type": "value",
+            "oldValue": "wiki_tut_adv_xiranite_nexus",
+            "newValue": "wiki_tut_adv_xiranite_nexus_upgrade"
+          },
+          "list[111]": {
+            "type": "value",
+            "oldValue": "wiki_tut_adv_xiranite_nexus_upgrade",
+            "newValue": "wiki_tut_adv_xiranite_nexus_scan"
+          },
+          "list[112]": {
+            "type": "value",
+            "oldValue": "wiki_tut_adv_xiranite_nexus_scan",
+            "newValue": "wiki_tut_adv_miasma_safe_area"
+          },
+          "list[119]": {
+            "type": "value",
+            "newValue": "wiki_tut_adv_fog_lost"
+          },
+          "list[120]": {
+            "type": "value",
+            "newValue": "wiki_tut_adv_magic_pumice"
+          },
+          "list[121]": {
+            "type": "value",
+            "newValue": "wiki_tut_adv_magic_pumice2"
+          },
+          "list[122]": {
+            "type": "value",
+            "newValue": "wiki_tut_adv_magic_missile"
+          },
+          "list[123]": {
+            "type": "value",
+            "newValue": "wiki_tut_adv_missile_rune"
+          },
+          "list[124]": {
+            "type": "value",
+            "newValue": "wiki_tut_adv_shield_monster"
+          },
+          "list[125]": {
+            "type": "value",
+            "newValue": "wiki_tut_adv_shooting_rune"
+          }
+        }
+      },
+      "suit_burst01": {
+        "oldValue": {
+          "list": [
+            "wiki_item_equip_t4_suit_burst01_edc_02",
+            "wiki_item_equip_t4_suit_burst01_edc_01",
+            "wiki_item_equip_t4_suit_burst01_hand_01",
+            "wiki_item_equip_t4_suit_burst01_body_01"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_equip_t4_suit_burst01_edc_03",
+            "wiki_item_equip_t4_suit_burst01_hand_02",
+            "wiki_item_equip_t4_suit_burst01_body_03",
+            "wiki_item_equip_t4_suit_burst01_body_02",
+            "wiki_item_equip_t4_suit_burst01_edc_02",
+            "wiki_item_equip_t4_suit_burst01_edc_01",
+            "wiki_item_equip_t4_suit_burst01_hand_01",
+            "wiki_item_equip_t4_suit_burst01_body_01"
+          ]
+        },
+        "changed": {
+          "list[0]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_burst01_edc_02",
+            "newValue": "wiki_item_equip_t4_suit_burst01_edc_03"
+          },
+          "list[1]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_burst01_edc_01",
+            "newValue": "wiki_item_equip_t4_suit_burst01_hand_02"
+          },
+          "list[2]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_burst01_hand_01",
+            "newValue": "wiki_item_equip_t4_suit_burst01_body_03"
+          },
+          "list[3]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_burst01_body_01",
+            "newValue": "wiki_item_equip_t4_suit_burst01_body_02"
+          },
+          "list[4]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_suit_burst01_edc_02"
+          },
+          "list[5]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_suit_burst01_edc_01"
+          },
+          "list[6]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_suit_burst01_hand_01"
+          },
+          "list[7]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_suit_burst01_body_01"
+          }
+        }
+      },
+      "wiki_group_item_product": {
+        "oldValue": {
+          "list": [
+            "wiki_item_liquid_plant_grass_1",
+            "wiki_item_liquid_plant_grass_2",
+            "wiki_item_liquid_xiranite",
+            "wiki_item_liquid_xiranite_enr",
+            "wiki_item_liquid_xiranite_poly",
+            "wiki_item_liquid_xiranite_lowpoly",
+            "wiki_item_liquid_copper",
+            "wiki_item_liquid_copper_enr",
+            "wiki_item_liquid_sewage",
+            "wiki_item_gas_water",
+            "wiki_item_gas_acid",
+            "wiki_item_gas_xiranite_enr",
+            "wiki_item_gas_copper",
+            "wiki_item_gas_copper_enr",
+            "wiki_item_gas_copper_enr2",
+            "wiki_item_carbon_mtl",
+            "wiki_item_crystal_shell",
+            "wiki_item_quartz_glass",
+            "wiki_item_iron_nugget",
+            "wiki_item_copper_nugget",
+            "wiki_item_carbon_enr",
+            "wiki_item_crystal_enr",
+            "wiki_item_quartz_enr",
+            "wiki_item_iron_enr",
+            "wiki_item_copper_enr",
+            "wiki_item_copper_enr2",
+            "wiki_item_muck_xiranite_1",
+            "wiki_item_xiranite_powder",
+            "wiki_item_xiranite_enr_powder",
+            "wiki_item_xiranite_poly",
+            "wiki_item_xiranite_lowpoly",
+            "wiki_item_carbon_powder",
+            "wiki_item_originium_powder",
+            "wiki_item_crystal_powder",
+            "wiki_item_quartz_powder",
+            "wiki_item_iron_powder",
+            "wiki_item_copper_powder",
+            "wiki_item_plant_moss_powder_3",
+            "wiki_item_plant_bbflower_powder_1",
+            "wiki_item_plant_moss_enr_powder_1",
+            "wiki_item_plant_moss_enr_powder_2",
+            "wiki_item_carbon_enr_powder",
+            "wiki_item_originium_enr_powder",
+            "wiki_item_crystal_enr_powder",
+            "wiki_item_quartz_enr_powder",
+            "wiki_item_iron_enr_powder",
+            "wiki_item_glass_bottle",
+            "wiki_item_iron_bottle",
+            "wiki_item_glass_enr_bottle",
+            "wiki_item_iron_enr_bottle",
+            "wiki_item_copper_bottle",
+            "wiki_item_copper_enr_bottle",
+            "wiki_item_copper_jar",
+            "wiki_item_glass_cmpt",
+            "wiki_item_iron_cmpt",
+            "wiki_item_glass_enr_cmpt",
+            "wiki_item_iron_enr_cmpt",
+            "wiki_item_copper_cmpt",
+            "wiki_item_copper_enr_cmpt",
+            "wiki_item_copper_enr2_cmpt",
+            "wiki_item_equip_script_1",
+            "wiki_item_equip_script_2",
+            "wiki_item_equip_script_3",
+            "wiki_item_equip_script_4",
+            "wiki_item_equip_script_4_1",
+            "wiki_item_equip_script_4_2",
+            "wiki_item_equip_script_4_3",
+            "wiki_item_proc_battery_1",
+            "wiki_item_proc_battery_2",
+            "wiki_item_proc_battery_3",
+            "wiki_item_proc_battery_4",
+            "wiki_item_proc_battery_5",
+            "wiki_item_filter_core",
+            "wiki_item_activity_xiranite_bottle",
+            "wiki_item_activity_xiranite_cmpt",
+            "wiki_item_activity_xiranite_enr_bottle",
+            "wiki_item_activity_xiranite_enr_cmpt",
+            "wiki_item_activity_xiranite_enr_tool",
+            "wiki_item_activity_xiranite_hulu",
+            "wiki_item_activity_xiranite_enr_hulu",
+            "wiki_item_fbottle_xiranenr_grass_2",
+            "wiki_item_fbottle_glass_water",
+            "wiki_item_fbottle_glass_acid",
+            "wiki_item_fbottle_glass_sewage",
+            "wiki_item_fbottle_glass_grass_1",
+            "wiki_item_fbottle_glass_grass_2",
+            "wiki_item_fbottle_glass_xiranite",
+            "wiki_item_fbottle_glass_xiranite_enr",
+            "wiki_item_fbottle_glass_xiranite_poly",
+            "wiki_item_fbottle_glass_xiranite_lowpoly",
+            "wiki_item_fbottle_glass_copper",
+            "wiki_item_fbottle_glass_copper_enr",
+            "wiki_item_fbottle_glassenr_water",
+            "wiki_item_fbottle_glassenr_acid",
+            "wiki_item_fbottle_glassenr_sewage",
+            "wiki_item_fbottle_glassenr_grass_1",
+            "wiki_item_fbottle_glassenr_grass_2",
+            "wiki_item_fbottle_glassenr_xiranite",
+            "wiki_item_fbottle_glassenr_xiranite_enr",
+            "wiki_item_fbottle_glassenr_xiranite_poly",
+            "wiki_item_fbottle_glassenr_xiranite_lowpoly",
+            "wiki_item_fbottle_glassenr_copper",
+            "wiki_item_fbottle_glassenr_copper_enr",
+            "wiki_item_fbottle_iron_water",
+            "wiki_item_fbottle_iron_acid",
+            "wiki_item_fbottle_iron_sewage",
+            "wiki_item_fbottle_iron_grass_1",
+            "wiki_item_fbottle_iron_grass_2",
+            "wiki_item_fbottle_iron_xiranite",
+            "wiki_item_fbottle_iron_xiranite_enr",
+            "wiki_item_fbottle_iron_xiranite_poly",
+            "wiki_item_fbottle_iron_xiranite_lowpoly",
+            "wiki_item_fbottle_iron_copper",
+            "wiki_item_fbottle_iron_copper_enr",
+            "wiki_item_fbottle_ironenr_water",
+            "wiki_item_fbottle_ironenr_acid",
+            "wiki_item_fbottle_ironenr_sewage",
+            "wiki_item_fbottle_ironenr_grass_1",
+            "wiki_item_fbottle_ironenr_grass_2",
+            "wiki_item_fbottle_ironenr_xiranite",
+            "wiki_item_fbottle_ironenr_xiranite_enr",
+            "wiki_item_fbottle_ironenr_xiranite_poly",
+            "wiki_item_fbottle_ironenr_xiranite_lowpoly",
+            "wiki_item_fbottle_ironenr_copper",
+            "wiki_item_fbottle_ironenr_copper_enr",
+            "wiki_item_fbottle_copper_water",
+            "wiki_item_fbottle_copper_acid",
+            "wiki_item_fbottle_copper_sewage",
+            "wiki_item_fbottle_copper_grass_1",
+            "wiki_item_fbottle_copper_grass_2",
+            "wiki_item_fbottle_copper_xiranite",
+            "wiki_item_fbottle_copper_xiranite_enr",
+            "wiki_item_fbottle_copper_xiranite_poly",
+            "wiki_item_fbottle_copper_xiranite_lowpoly",
+            "wiki_item_fbottle_copper_copper",
+            "wiki_item_fbottle_copper_copper_enr",
+            "wiki_item_fbottle_copperenr_water",
+            "wiki_item_fbottle_copperenr_acid",
+            "wiki_item_fbottle_copperenr_sewage",
+            "wiki_item_fbottle_copperenr_grass_1",
+            "wiki_item_fbottle_copperenr_grass_2",
+            "wiki_item_fbottle_copperenr_xiranite",
+            "wiki_item_fbottle_copperenr_xiranite_enr",
+            "wiki_item_fbottle_copperenr_xiranite_poly",
+            "wiki_item_fbottle_copperenr_xiranite_lowpoly",
+            "wiki_item_fbottle_copperenr_copper",
+            "wiki_item_fbottle_copperenr_copper_enr",
+            "wiki_item_gasjar_copper_gas_water",
+            "wiki_item_gasjar_copper_gas_acid",
+            "wiki_item_gasjar_copper_gas_xiranite",
+            "wiki_item_gasjar_copper_gas_xiranite_enr",
+            "wiki_item_gasjar_copper_gas_inert",
+            "wiki_item_gasjar_copper_gas_copper",
+            "wiki_item_gasjar_copper_gas_copper_enr",
+            "wiki_item_gasjar_copper_gas_copper_enr2"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_liquid_plant_grass_1",
+            "wiki_item_liquid_plant_grass_2",
+            "wiki_item_liquid_xiranite",
+            "wiki_item_liquid_xiranite_enr",
+            "wiki_item_liquid_xiranite_poly",
+            "wiki_item_liquid_xiranite_lowpoly",
+            "wiki_item_liquid_copper",
+            "wiki_item_liquid_copper_enr",
+            "wiki_item_liquid_sewage",
+            "wiki_item_gas_water",
+            "wiki_item_gas_acid",
+            "wiki_item_gas_xiranite_enr",
+            "wiki_item_gas_copper",
+            "wiki_item_gas_copper_enr",
+            "wiki_item_gas_copper_enr2",
+            "wiki_item_carbon_mtl",
+            "wiki_item_crystal_shell",
+            "wiki_item_quartz_glass",
+            "wiki_item_iron_nugget",
+            "wiki_item_copper_nugget",
+            "wiki_item_carbon_enr",
+            "wiki_item_crystal_enr",
+            "wiki_item_quartz_enr",
+            "wiki_item_iron_enr",
+            "wiki_item_copper_enr",
+            "wiki_item_copper_enr2",
+            "wiki_item_muck_xiranite_1",
+            "wiki_item_xiranite_powder",
+            "wiki_item_xiranite_enr_powder",
+            "wiki_item_xiranite_poly",
+            "wiki_item_xiranite_lowpoly",
+            "wiki_item_carbon_powder",
+            "wiki_item_originium_powder",
+            "wiki_item_crystal_powder",
+            "wiki_item_quartz_powder",
+            "wiki_item_iron_powder",
+            "wiki_item_copper_powder",
+            "wiki_item_plant_moss_powder_3",
+            "wiki_item_plant_bbflower_powder_1",
+            "wiki_item_plant_moss_enr_powder_1",
+            "wiki_item_plant_moss_enr_powder_2",
+            "wiki_item_carbon_enr_powder",
+            "wiki_item_originium_enr_powder",
+            "wiki_item_crystal_enr_powder",
+            "wiki_item_quartz_enr_powder",
+            "wiki_item_iron_enr_powder",
+            "wiki_item_glass_bottle",
+            "wiki_item_iron_bottle",
+            "wiki_item_glass_enr_bottle",
+            "wiki_item_iron_enr_bottle",
+            "wiki_item_copper_bottle",
+            "wiki_item_copper_enr_bottle",
+            "wiki_item_copper_jar",
+            "wiki_item_glass_cmpt",
+            "wiki_item_iron_cmpt",
+            "wiki_item_glass_enr_cmpt",
+            "wiki_item_iron_enr_cmpt",
+            "wiki_item_copper_cmpt",
+            "wiki_item_copper_enr_cmpt",
+            "wiki_item_copper_enr2_cmpt",
+            "wiki_item_equip_script_1",
+            "wiki_item_equip_script_2",
+            "wiki_item_equip_script_3",
+            "wiki_item_equip_script_4",
+            "wiki_item_equip_script_4_1",
+            "wiki_item_equip_script_4_2",
+            "wiki_item_equip_script_4_3",
+            "wiki_item_proc_battery_1",
+            "wiki_item_proc_battery_2",
+            "wiki_item_proc_battery_3",
+            "wiki_item_proc_battery_4",
+            "wiki_item_proc_battery_5",
+            "wiki_item_filter_core",
+            "wiki_item_activity_xiranite_bottle",
+            "wiki_item_activity_xiranite_cmpt",
+            "wiki_item_activity_xiranite_enr_bottle",
+            "wiki_item_activity_xiranite_enr_cmpt",
+            "wiki_item_activity_xiranite_enr_tool",
+            "wiki_item_activity_xiranite_hulu",
+            "wiki_item_activity_xiranite_enr_hulu",
+            "wiki_item_activity_xiranite_nugget",
+            "wiki_item_activity_xiranite_box",
+            "wiki_item_activity_copper_xiranite_tool",
+            "wiki_item_activity_xiranite_enr_nugget",
+            "wiki_item_activity_xiranite_enr_box",
+            "wiki_item_activity_copper_poly_gas",
+            "wiki_item_activity_copper_poly",
+            "wiki_item_activity_copper_poly_cmpt",
+            "wiki_item_activity_copper_poly_tool",
+            "wiki_item_activity_xiranite_lung",
+            "wiki_item_activity_xiranite_enr_lung",
+            "wiki_item_fbottle_xiranenr_grass_2",
+            "wiki_item_fbottle_glass_water",
+            "wiki_item_fbottle_glass_acid",
+            "wiki_item_fbottle_glass_sewage",
+            "wiki_item_fbottle_glass_grass_1",
+            "wiki_item_fbottle_glass_grass_2",
+            "wiki_item_fbottle_glass_xiranite",
+            "wiki_item_fbottle_glass_xiranite_enr",
+            "wiki_item_fbottle_glass_xiranite_poly",
+            "wiki_item_fbottle_glass_xiranite_lowpoly",
+            "wiki_item_fbottle_glass_copper",
+            "wiki_item_fbottle_glass_copper_enr",
+            "wiki_item_fbottle_glassenr_water",
+            "wiki_item_fbottle_glassenr_acid",
+            "wiki_item_fbottle_glassenr_sewage",
+            "wiki_item_fbottle_glassenr_grass_1",
+            "wiki_item_fbottle_glassenr_grass_2",
+            "wiki_item_fbottle_glassenr_xiranite",
+            "wiki_item_fbottle_glassenr_xiranite_enr",
+            "wiki_item_fbottle_glassenr_xiranite_poly",
+            "wiki_item_fbottle_glassenr_xiranite_lowpoly",
+            "wiki_item_fbottle_glassenr_copper",
+            "wiki_item_fbottle_glassenr_copper_enr",
+            "wiki_item_fbottle_iron_water",
+            "wiki_item_fbottle_iron_acid",
+            "wiki_item_fbottle_iron_sewage",
+            "wiki_item_fbottle_iron_grass_1",
+            "wiki_item_fbottle_iron_grass_2",
+            "wiki_item_fbottle_iron_xiranite",
+            "wiki_item_fbottle_iron_xiranite_enr",
+            "wiki_item_fbottle_iron_xiranite_poly",
+            "wiki_item_fbottle_iron_xiranite_lowpoly",
+            "wiki_item_fbottle_iron_copper",
+            "wiki_item_fbottle_iron_copper_enr",
+            "wiki_item_fbottle_ironenr_water",
+            "wiki_item_fbottle_ironenr_acid",
+            "wiki_item_fbottle_ironenr_sewage",
+            "wiki_item_fbottle_ironenr_grass_1",
+            "wiki_item_fbottle_ironenr_grass_2",
+            "wiki_item_fbottle_ironenr_xiranite",
+            "wiki_item_fbottle_ironenr_xiranite_enr",
+            "wiki_item_fbottle_ironenr_xiranite_poly",
+            "wiki_item_fbottle_ironenr_xiranite_lowpoly",
+            "wiki_item_fbottle_ironenr_copper",
+            "wiki_item_fbottle_ironenr_copper_enr",
+            "wiki_item_fbottle_copper_water",
+            "wiki_item_fbottle_copper_acid",
+            "wiki_item_fbottle_copper_sewage",
+            "wiki_item_fbottle_copper_grass_1",
+            "wiki_item_fbottle_copper_grass_2",
+            "wiki_item_fbottle_copper_xiranite",
+            "wiki_item_fbottle_copper_xiranite_enr",
+            "wiki_item_fbottle_copper_xiranite_poly",
+            "wiki_item_fbottle_copper_xiranite_lowpoly",
+            "wiki_item_fbottle_copper_copper",
+            "wiki_item_fbottle_copper_copper_enr",
+            "wiki_item_fbottle_copperenr_water",
+            "wiki_item_fbottle_copperenr_acid",
+            "wiki_item_fbottle_copperenr_sewage",
+            "wiki_item_fbottle_copperenr_grass_1",
+            "wiki_item_fbottle_copperenr_grass_2",
+            "wiki_item_fbottle_copperenr_xiranite",
+            "wiki_item_fbottle_copperenr_xiranite_enr",
+            "wiki_item_fbottle_copperenr_xiranite_poly",
+            "wiki_item_fbottle_copperenr_xiranite_lowpoly",
+            "wiki_item_fbottle_copperenr_copper",
+            "wiki_item_fbottle_copperenr_copper_enr",
+            "wiki_item_gasjar_copper_gas_water",
+            "wiki_item_gasjar_copper_gas_acid",
+            "wiki_item_gasjar_copper_gas_xiranite",
+            "wiki_item_gasjar_copper_gas_xiranite_enr",
+            "wiki_item_gasjar_copper_gas_inert",
+            "wiki_item_gasjar_copper_gas_copper",
+            "wiki_item_gasjar_copper_gas_copper_enr",
+            "wiki_item_gasjar_copper_gas_copper_enr2"
+          ]
+        },
+        "changed": {
+          "list[80]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_xiranenr_grass_2",
+            "newValue": "wiki_item_activity_xiranite_nugget"
+          },
+          "list[81]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_water",
+            "newValue": "wiki_item_activity_xiranite_box"
+          },
+          "list[82]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_acid",
+            "newValue": "wiki_item_activity_copper_xiranite_tool"
+          },
+          "list[83]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_sewage",
+            "newValue": "wiki_item_activity_xiranite_enr_nugget"
+          },
+          "list[84]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_grass_1",
+            "newValue": "wiki_item_activity_xiranite_enr_box"
+          },
+          "list[85]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_grass_2",
+            "newValue": "wiki_item_activity_copper_poly_gas"
+          },
+          "list[86]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_xiranite",
+            "newValue": "wiki_item_activity_copper_poly"
+          },
+          "list[87]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_xiranite_enr",
+            "newValue": "wiki_item_activity_copper_poly_cmpt"
+          },
+          "list[88]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_xiranite_poly",
+            "newValue": "wiki_item_activity_copper_poly_tool"
+          },
+          "list[89]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_xiranite_lowpoly",
+            "newValue": "wiki_item_activity_xiranite_lung"
+          },
+          "list[90]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_copper",
+            "newValue": "wiki_item_activity_xiranite_enr_lung"
+          },
+          "list[91]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glass_copper_enr",
+            "newValue": "wiki_item_fbottle_xiranenr_grass_2"
+          },
+          "list[92]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_water",
+            "newValue": "wiki_item_fbottle_glass_water"
+          },
+          "list[93]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_acid",
+            "newValue": "wiki_item_fbottle_glass_acid"
+          },
+          "list[94]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_sewage",
+            "newValue": "wiki_item_fbottle_glass_sewage"
+          },
+          "list[95]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_grass_1",
+            "newValue": "wiki_item_fbottle_glass_grass_1"
+          },
+          "list[96]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_grass_2",
+            "newValue": "wiki_item_fbottle_glass_grass_2"
+          },
+          "list[97]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_xiranite",
+            "newValue": "wiki_item_fbottle_glass_xiranite"
+          },
+          "list[98]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_xiranite_enr",
+            "newValue": "wiki_item_fbottle_glass_xiranite_enr"
+          },
+          "list[99]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_xiranite_poly",
+            "newValue": "wiki_item_fbottle_glass_xiranite_poly"
+          },
+          "list[100]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_xiranite_lowpoly",
+            "newValue": "wiki_item_fbottle_glass_xiranite_lowpoly"
+          },
+          "list[101]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_copper",
+            "newValue": "wiki_item_fbottle_glass_copper"
+          },
+          "list[102]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_glassenr_copper_enr",
+            "newValue": "wiki_item_fbottle_glass_copper_enr"
+          },
+          "list[103]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_water",
+            "newValue": "wiki_item_fbottle_glassenr_water"
+          },
+          "list[104]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_acid",
+            "newValue": "wiki_item_fbottle_glassenr_acid"
+          },
+          "list[105]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_sewage",
+            "newValue": "wiki_item_fbottle_glassenr_sewage"
+          },
+          "list[106]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_grass_1",
+            "newValue": "wiki_item_fbottle_glassenr_grass_1"
+          },
+          "list[107]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_grass_2",
+            "newValue": "wiki_item_fbottle_glassenr_grass_2"
+          },
+          "list[108]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_xiranite",
+            "newValue": "wiki_item_fbottle_glassenr_xiranite"
+          },
+          "list[109]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_xiranite_enr",
+            "newValue": "wiki_item_fbottle_glassenr_xiranite_enr"
+          },
+          "list[110]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_xiranite_poly",
+            "newValue": "wiki_item_fbottle_glassenr_xiranite_poly"
+          },
+          "list[111]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_xiranite_lowpoly",
+            "newValue": "wiki_item_fbottle_glassenr_xiranite_lowpoly"
+          },
+          "list[112]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_copper",
+            "newValue": "wiki_item_fbottle_glassenr_copper"
+          },
+          "list[113]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_iron_copper_enr",
+            "newValue": "wiki_item_fbottle_glassenr_copper_enr"
+          },
+          "list[114]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_water",
+            "newValue": "wiki_item_fbottle_iron_water"
+          },
+          "list[115]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_acid",
+            "newValue": "wiki_item_fbottle_iron_acid"
+          },
+          "list[116]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_sewage",
+            "newValue": "wiki_item_fbottle_iron_sewage"
+          },
+          "list[117]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_grass_1",
+            "newValue": "wiki_item_fbottle_iron_grass_1"
+          },
+          "list[118]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_grass_2",
+            "newValue": "wiki_item_fbottle_iron_grass_2"
+          },
+          "list[119]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_xiranite",
+            "newValue": "wiki_item_fbottle_iron_xiranite"
+          },
+          "list[120]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_xiranite_enr",
+            "newValue": "wiki_item_fbottle_iron_xiranite_enr"
+          },
+          "list[121]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_xiranite_poly",
+            "newValue": "wiki_item_fbottle_iron_xiranite_poly"
+          },
+          "list[122]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_xiranite_lowpoly",
+            "newValue": "wiki_item_fbottle_iron_xiranite_lowpoly"
+          },
+          "list[123]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_copper",
+            "newValue": "wiki_item_fbottle_iron_copper"
+          },
+          "list[124]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_ironenr_copper_enr",
+            "newValue": "wiki_item_fbottle_iron_copper_enr"
+          },
+          "list[125]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_water",
+            "newValue": "wiki_item_fbottle_ironenr_water"
+          },
+          "list[126]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_acid",
+            "newValue": "wiki_item_fbottle_ironenr_acid"
+          },
+          "list[127]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_sewage",
+            "newValue": "wiki_item_fbottle_ironenr_sewage"
+          },
+          "list[128]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_grass_1",
+            "newValue": "wiki_item_fbottle_ironenr_grass_1"
+          },
+          "list[129]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_grass_2",
+            "newValue": "wiki_item_fbottle_ironenr_grass_2"
+          },
+          "list[130]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_xiranite",
+            "newValue": "wiki_item_fbottle_ironenr_xiranite"
+          },
+          "list[131]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_xiranite_enr",
+            "newValue": "wiki_item_fbottle_ironenr_xiranite_enr"
+          },
+          "list[132]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_xiranite_poly",
+            "newValue": "wiki_item_fbottle_ironenr_xiranite_poly"
+          },
+          "list[133]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_xiranite_lowpoly",
+            "newValue": "wiki_item_fbottle_ironenr_xiranite_lowpoly"
+          },
+          "list[134]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_copper",
+            "newValue": "wiki_item_fbottle_ironenr_copper"
+          },
+          "list[135]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copper_copper_enr",
+            "newValue": "wiki_item_fbottle_ironenr_copper_enr"
+          },
+          "list[136]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_water",
+            "newValue": "wiki_item_fbottle_copper_water"
+          },
+          "list[137]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_acid",
+            "newValue": "wiki_item_fbottle_copper_acid"
+          },
+          "list[138]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_sewage",
+            "newValue": "wiki_item_fbottle_copper_sewage"
+          },
+          "list[139]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_grass_1",
+            "newValue": "wiki_item_fbottle_copper_grass_1"
+          },
+          "list[140]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_grass_2",
+            "newValue": "wiki_item_fbottle_copper_grass_2"
+          },
+          "list[141]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_xiranite",
+            "newValue": "wiki_item_fbottle_copper_xiranite"
+          },
+          "list[142]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_xiranite_enr",
+            "newValue": "wiki_item_fbottle_copper_xiranite_enr"
+          },
+          "list[143]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_xiranite_poly",
+            "newValue": "wiki_item_fbottle_copper_xiranite_poly"
+          },
+          "list[144]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_xiranite_lowpoly",
+            "newValue": "wiki_item_fbottle_copper_xiranite_lowpoly"
+          },
+          "list[145]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_copper",
+            "newValue": "wiki_item_fbottle_copper_copper"
+          },
+          "list[146]": {
+            "type": "value",
+            "oldValue": "wiki_item_fbottle_copperenr_copper_enr",
+            "newValue": "wiki_item_fbottle_copper_copper_enr"
+          },
+          "list[147]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_water",
+            "newValue": "wiki_item_fbottle_copperenr_water"
+          },
+          "list[148]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_acid",
+            "newValue": "wiki_item_fbottle_copperenr_acid"
+          },
+          "list[149]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_xiranite",
+            "newValue": "wiki_item_fbottle_copperenr_sewage"
+          },
+          "list[150]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_xiranite_enr",
+            "newValue": "wiki_item_fbottle_copperenr_grass_1"
+          },
+          "list[151]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_inert",
+            "newValue": "wiki_item_fbottle_copperenr_grass_2"
+          },
+          "list[152]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_copper",
+            "newValue": "wiki_item_fbottle_copperenr_xiranite"
+          },
+          "list[153]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_copper_enr",
+            "newValue": "wiki_item_fbottle_copperenr_xiranite_enr"
+          },
+          "list[154]": {
+            "type": "value",
+            "oldValue": "wiki_item_gasjar_copper_gas_copper_enr2",
+            "newValue": "wiki_item_fbottle_copperenr_xiranite_poly"
+          },
+          "list[155]": {
+            "type": "value",
+            "newValue": "wiki_item_fbottle_copperenr_xiranite_lowpoly"
+          },
+          "list[156]": {
+            "type": "value",
+            "newValue": "wiki_item_fbottle_copperenr_copper"
+          },
+          "list[157]": {
+            "type": "value",
+            "newValue": "wiki_item_fbottle_copperenr_copper_enr"
+          },
+          "list[158]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_water"
+          },
+          "list[159]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_acid"
+          },
+          "list[160]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_xiranite"
+          },
+          "list[161]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_xiranite_enr"
+          },
+          "list[162]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_inert"
+          },
+          "list[163]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_copper"
+          },
+          "list[164]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_copper_enr"
+          },
+          "list[165]": {
+            "type": "value",
+            "newValue": "wiki_item_gasjar_copper_gas_copper_enr2"
+          }
+        }
+      },
+      "suit_usp02": {
+        "oldValue": {
+          "list": [
+            "wiki_item_equip_t4_suit_usp02_edc_04",
+            "wiki_item_equip_t4_suit_usp02_hand_04",
+            "wiki_item_equip_t4_suit_usp02_hand_03",
+            "wiki_item_equip_t4_suit_usp02_body_04",
+            "wiki_item_equip_t4_suit_usp02_body_03",
+            "wiki_item_equip_t4_suit_usp02_edc_03",
+            "wiki_item_equip_t4_suit_usp02_edc_02",
+            "wiki_item_equip_t4_suit_usp02_edc_01",
+            "wiki_item_equip_t4_suit_usp02_hand_02",
+            "wiki_item_equip_t4_suit_usp02_hand_01",
+            "wiki_item_equip_t4_suit_usp02_body_01"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_equip_t4_suit_usp02_edc_06",
+            "wiki_item_equip_t4_suit_usp02_edc_05",
+            "wiki_item_equip_t4_suit_usp02_edc_04",
+            "wiki_item_equip_t4_suit_usp02_hand_04",
+            "wiki_item_equip_t4_suit_usp02_hand_03",
+            "wiki_item_equip_t4_suit_usp02_body_04",
+            "wiki_item_equip_t4_suit_usp02_body_03",
+            "wiki_item_equip_t4_suit_usp02_edc_03",
+            "wiki_item_equip_t4_suit_usp02_edc_02",
+            "wiki_item_equip_t4_suit_usp02_edc_01",
+            "wiki_item_equip_t4_suit_usp02_hand_02",
+            "wiki_item_equip_t4_suit_usp02_hand_01",
+            "wiki_item_equip_t4_suit_usp02_body_01"
+          ]
+        },
+        "changed": {
+          "list[0]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_edc_04",
+            "newValue": "wiki_item_equip_t4_suit_usp02_edc_06"
+          },
+          "list[1]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_hand_04",
+            "newValue": "wiki_item_equip_t4_suit_usp02_edc_05"
+          },
+          "list[2]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_hand_03",
+            "newValue": "wiki_item_equip_t4_suit_usp02_edc_04"
+          },
+          "list[3]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_body_04",
+            "newValue": "wiki_item_equip_t4_suit_usp02_hand_04"
+          },
+          "list[4]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_body_03",
+            "newValue": "wiki_item_equip_t4_suit_usp02_hand_03"
+          },
+          "list[5]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_edc_03",
+            "newValue": "wiki_item_equip_t4_suit_usp02_body_04"
+          },
+          "list[6]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_edc_02",
+            "newValue": "wiki_item_equip_t4_suit_usp02_body_03"
+          },
+          "list[7]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_edc_01",
+            "newValue": "wiki_item_equip_t4_suit_usp02_edc_03"
+          },
+          "list[8]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_hand_02",
+            "newValue": "wiki_item_equip_t4_suit_usp02_edc_02"
+          },
+          "list[9]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_hand_01",
+            "newValue": "wiki_item_equip_t4_suit_usp02_edc_01"
+          },
+          "list[10]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_suit_usp02_body_01",
+            "newValue": "wiki_item_equip_t4_suit_usp02_hand_02"
+          },
+          "list[11]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_suit_usp02_hand_01"
+          },
+          "list[12]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_suit_usp02_body_01"
+          }
+        }
+      },
+      "suit_generaltype": {
+        "oldValue": {
+          "list": [
+            "wiki_item_equip_t4_parts_wuling00_edc_03",
+            "wiki_item_equip_t4_parts_wuling00_edc_02",
+            "wiki_item_equip_t4_parts_wuling00_edc_01",
+            "wiki_item_equip_t4_parts_wuling00_hand_03",
+            "wiki_item_equip_t4_parts_wuling00_hand_02",
+            "wiki_item_equip_t4_parts_wuling00_hand_01",
+            "wiki_item_equip_t4_parts_wuling00_body_03",
+            "wiki_item_equip_t4_parts_wuling00_body_02",
+            "wiki_item_equip_t4_parts_wuling00_body_01"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_equip_t4_parts_wuling00_edc_05",
+            "wiki_item_equip_t4_parts_wuling00_edc_04",
+            "wiki_item_equip_t4_parts_wuling00_hand_05",
+            "wiki_item_equip_t4_parts_wuling00_hand_04",
+            "wiki_item_equip_t4_parts_wuling00_body_05",
+            "wiki_item_equip_t4_parts_wuling00_body_04",
+            "wiki_item_equip_t4_parts_wuling00_edc_03",
+            "wiki_item_equip_t4_parts_wuling00_edc_02",
+            "wiki_item_equip_t4_parts_wuling00_edc_01",
+            "wiki_item_equip_t4_parts_wuling00_hand_03",
+            "wiki_item_equip_t4_parts_wuling00_hand_02",
+            "wiki_item_equip_t4_parts_wuling00_hand_01",
+            "wiki_item_equip_t4_parts_wuling00_body_03",
+            "wiki_item_equip_t4_parts_wuling00_body_02",
+            "wiki_item_equip_t4_parts_wuling00_body_01"
+          ]
+        },
+        "changed": {
+          "list[0]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_edc_03",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_edc_05"
+          },
+          "list[1]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_edc_02",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_edc_04"
+          },
+          "list[2]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_edc_01",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_hand_05"
+          },
+          "list[3]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_hand_03",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_hand_04"
+          },
+          "list[4]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_hand_02",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_body_05"
+          },
+          "list[5]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_hand_01",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_body_04"
+          },
+          "list[6]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_body_03",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_edc_03"
+          },
+          "list[7]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_body_02",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_edc_02"
+          },
+          "list[8]": {
+            "type": "value",
+            "oldValue": "wiki_item_equip_t4_parts_wuling00_body_01",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_edc_01"
+          },
+          "list[9]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_hand_03"
+          },
+          "list[10]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_hand_02"
+          },
+          "list[11]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_hand_01"
+          },
+          "list[12]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_body_03"
+          },
+          "list[13]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_body_02"
+          },
+          "list[14]": {
+            "type": "value",
+            "newValue": "wiki_item_equip_t4_parts_wuling00_body_01"
+          }
+        }
+      },
+      "wiki_group_building_decorate": {
+        "oldValue": {
+          "list": [
+            "wiki_item_port_air_dancer_1",
+            "wiki_item_port_chubby_lung_stone_1",
+            "wiki_item_port_pear_blossom_bonsai_1",
+            "wiki_item_port_chubby_lung_balloon_1",
+            "wiki_item_port_jail_1",
+            "wiki_item_port_photo_frame_1",
+            "wiki_item_port_signboard_1",
+            "wiki_item_port_cat_tree_1",
+            "wiki_item_port_microphone_1",
+            "wiki_item_port_display_stand_1",
+            "wiki_item_port_doll_1"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_port_air_dancer_1",
+            "wiki_item_port_chubby_lung_stone_1",
+            "wiki_item_port_pear_blossom_bonsai_1",
+            "wiki_item_port_chubby_lung_balloon_1",
+            "wiki_item_port_jail_1",
+            "wiki_item_port_photo_frame_1",
+            "wiki_item_port_signboard_1",
+            "wiki_item_port_cat_tree_1",
+            "wiki_item_port_microphone_1",
+            "wiki_item_port_display_stand_1",
+            "wiki_item_port_doll_1",
+            "wiki_item_port_rainbow_1",
+            "wiki_item_port_barbecue_1",
+            "wiki_item_port_crystal_ball_1",
+            "wiki_item_port_dream_bubble_1"
+          ]
+        },
+        "changed": {
+          "list[11]": {
+            "type": "value",
+            "newValue": "wiki_item_port_rainbow_1"
+          },
+          "list[12]": {
+            "type": "value",
+            "newValue": "wiki_item_port_barbecue_1"
+          },
+          "list[13]": {
+            "type": "value",
+            "newValue": "wiki_item_port_crystal_ball_1"
+          },
+          "list[14]": {
+            "type": "value",
+            "newValue": "wiki_item_port_dream_bubble_1"
+          }
+        }
+      },
+      "wiki_group_item_usable": {
+        "oldValue": {
+          "list": [
+            "wiki_item_proc_bomb_1",
+            "wiki_item_plant_moss_powder_1",
+            "wiki_item_plant_moss_powder_2",
+            "wiki_item_plant_grass_powder_1",
+            "wiki_item_plant_grass_powder_2",
+            "wiki_item_plant_moss_spc_powder_1",
+            "wiki_item_plant_moss_spc_powder_2",
+            "wiki_item_plant_grass_spc_powder_1",
+            "wiki_item_plant_grass_spc_powder_2",
+            "wiki_item_bottled_rec_hp_1",
+            "wiki_item_bottled_rec_hp_2",
+            "wiki_item_bottled_food_1",
+            "wiki_item_bottled_food_2",
+            "wiki_item_bottled_food_4",
+            "wiki_item_bottled_rec_hp_4",
+            "wiki_item_bottled_rec_hp_3",
+            "wiki_item_bottled_food_3",
+            "wiki_item_bottled_food_5",
+            "wiki_item_bottled_rec_hp_5",
+            "wiki_item_bottled_flower1spc_1",
+            "wiki_item_bottled_flower1spc_2",
+            "wiki_item_bottled_flower2spc_1",
+            "wiki_item_bottled_flower2spc_2",
+            "wiki_item_bottled_grass1spc_1",
+            "wiki_item_bottled_grass2spc_1",
+            "wiki_item_bottled_flower1spc_3",
+            "wiki_item_bottled_flower2spc_3",
+            "wiki_item_bottled_grass1spc_2",
+            "wiki_item_bottled_grass2spc_2",
+            "wiki_item_bottled_insec1_1",
+            "wiki_item_bottled_insec2_1",
+            "wiki_item_bottled_moss_1_2_1",
+            "wiki_item_bottled_insec1_2",
+            "wiki_item_bottled_insec2_2",
+            "wiki_item_agmelee_1_moss_1_lbmob_1_1",
+            "wiki_item_agrange_1_moss_2_lbmob_1_1",
+            "wiki_item_lbmob_1_dog_1_moss_1_1",
+            "wiki_item_lbshamman_1_agmelee_1_1",
+            "wiki_item_dog_1_slimeml_1_1",
+            "wiki_item_slimeml_1_agrange_1_moss_2_1",
+            "wiki_item_mimicw_1_moss_1_moss_2_1",
+            "wiki_item_agrange_1_erhound_1_sp_1_1",
+            "wiki_item_lbmob_1_lbshamman_1_sp_1_1",
+            "wiki_item_firebat_1_agrange_1_1",
+            "wiki_item_erhound_1_agmelee_1_moss_1_1",
+            "wiki_item_lbshield_1_slimeml_1_dog_1_1",
+            "wiki_item_agfly_1_agmelee_1_moss_2_1",
+            "wiki_item_hsmob_1_dog_1_1",
+            "wiki_item_wgslime_1_wgthorns_1_1",
+            "wiki_item_wgshoal_1_grass_1_grass_2_1",
+            "wiki_item_ethillu_1_wgslime_1_wgthorns_1_1",
+            "wiki_item_agmelee_1_sp_2_slimeml_1_1",
+            "wiki_item_lbmob_1_moss_2_bottled_1",
+            "wiki_item_agrange_1_lbshamman_bottled_1",
+            "wiki_item_bottled_moss_2_animal_1",
+            "wiki_item_corp3_grass1_1",
+            "wiki_item_corp4_grass2_1",
+            "wiki_item_sp_1_moss_1_agmelee_1_1",
+            "wiki_item_sp_2_moss_2_agrange_1_1",
+            "wiki_item_slimeml_1_erhound_1_agfly_1_1",
+            "wiki_item_hsmob_1_grass_2_1",
+            "wiki_item_hscrane_1_hsmob_1_grass_1_1",
+            "wiki_item_wgslime_1_hsmob_1_grass_2_1",
+            "wiki_item_wgthorns_1_hshog_1_hsmob_1_1",
+            "wiki_item_hshog_1_hsmob_1_slimeml_1_1",
+            "wiki_item_hsfly_1_slimeml_1_hsmob_1_1",
+            "wiki_item_dog_hsmob_corp_1",
+            "wiki_item_jzmonk_1_hsmob_1_1",
+            "wiki_item_klcreatures_1_wgthorns_1_1",
+            "wiki_item_klbuds_1_hsfly_1_1",
+            "wiki_item_corp1_animal_1",
+            "wiki_item_corp2_animal_1",
+            "wiki_item_corp3_animal_1",
+            "wiki_item_corp4_animal_1",
+            "wiki_item_corp4_spc"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_proc_bomb_1",
+            "wiki_item_plant_moss_powder_1",
+            "wiki_item_plant_moss_powder_2",
+            "wiki_item_plant_grass_powder_1",
+            "wiki_item_plant_grass_powder_2",
+            "wiki_item_plant_moss_spc_powder_1",
+            "wiki_item_plant_moss_spc_powder_2",
+            "wiki_item_plant_grass_spc_powder_1",
+            "wiki_item_plant_grass_spc_powder_2",
+            "wiki_item_bottled_rec_hp_1",
+            "wiki_item_bottled_rec_hp_2",
+            "wiki_item_bottled_food_1",
+            "wiki_item_bottled_food_2",
+            "wiki_item_bottled_food_4",
+            "wiki_item_bottled_rec_hp_4",
+            "wiki_item_bottled_rec_hp_3",
+            "wiki_item_bottled_food_3",
+            "wiki_item_bottled_food_5",
+            "wiki_item_bottled_rec_hp_5",
+            "wiki_item_bottled_flower1spc_1",
+            "wiki_item_bottled_flower1spc_2",
+            "wiki_item_bottled_flower2spc_1",
+            "wiki_item_bottled_flower2spc_2",
+            "wiki_item_bottled_grass1spc_1",
+            "wiki_item_bottled_grass2spc_1",
+            "wiki_item_bottled_flower1spc_3",
+            "wiki_item_bottled_flower2spc_3",
+            "wiki_item_bottled_grass1spc_2",
+            "wiki_item_bottled_grass2spc_2",
+            "wiki_item_bottled_insec1_1",
+            "wiki_item_bottled_insec2_1",
+            "wiki_item_bottled_moss_1_2_1",
+            "wiki_item_bottled_insec1_2",
+            "wiki_item_bottled_insec2_2",
+            "wiki_item_agmelee_1_moss_1_lbmob_1_1",
+            "wiki_item_agrange_1_moss_2_lbmob_1_1",
+            "wiki_item_lbmob_1_dog_1_moss_1_1",
+            "wiki_item_lbshamman_1_agmelee_1_1",
+            "wiki_item_dog_1_slimeml_1_1",
+            "wiki_item_slimeml_1_agrange_1_moss_2_1",
+            "wiki_item_mimicw_1_moss_1_moss_2_1",
+            "wiki_item_lbmob_1_lbshamman_1_sp_1_1",
+            "wiki_item_firebat_1_agrange_1_1",
+            "wiki_item_erhound_1_agmelee_1_moss_1_1",
+            "wiki_item_lbshield_1_slimeml_1_dog_1_1",
+            "wiki_item_agfly_1_agmelee_1_moss_2_1",
+            "wiki_item_hsmob_1_dog_1_1",
+            "wiki_item_wgslime_1_wgthorns_1_1",
+            "wiki_item_wgshoal_1_grass_1_grass_2_1",
+            "wiki_item_ethillu_1_wgslime_1_wgthorns_1_1",
+            "wiki_item_agmelee_1_sp_2_slimeml_1_1",
+            "wiki_item_lbmob_1_moss_2_bottled_1",
+            "wiki_item_agrange_1_lbshamman_bottled_1",
+            "wiki_item_agrange_1_erhound_1_sp_1_1",
+            "wiki_item_bottled_moss_2_animal_1",
+            "wiki_item_corp3_grass1_1",
+            "wiki_item_corp4_grass2_1",
+            "wiki_item_sp_1_moss_1_agmelee_1_1",
+            "wiki_item_sp_2_moss_2_agrange_1_1",
+            "wiki_item_slimeml_1_erhound_1_agfly_1_1",
+            "wiki_item_hsmob_1_grass_2_1",
+            "wiki_item_hscrane_1_hsmob_1_grass_1_1",
+            "wiki_item_wgslime_1_hsmob_1_grass_2_1",
+            "wiki_item_wgthorns_1_hshog_1_hsmob_1_1",
+            "wiki_item_hshog_1_hsmob_1_slimeml_1_1",
+            "wiki_item_hsfly_1_slimeml_1_hsmob_1_1",
+            "wiki_item_dog_hsmob_corp_1",
+            "wiki_item_jzmonk_1_hsmob_1_1",
+            "wiki_item_klcreatures_1_wgthorns_1_1",
+            "wiki_item_klbuds_1_hsfly_1_1",
+            "wiki_item_slwood_1_hshog_1_1",
+            "wiki_item_corp1_animal_1",
+            "wiki_item_corp2_animal_1",
+            "wiki_item_corp3_animal_1",
+            "wiki_item_corp4_animal_1",
+            "wiki_item_corp4_spc"
+          ]
+        },
+        "changed": {
+          "list[41]": {
+            "type": "value",
+            "oldValue": "wiki_item_agrange_1_erhound_1_sp_1_1",
+            "newValue": "wiki_item_lbmob_1_lbshamman_1_sp_1_1"
+          },
+          "list[42]": {
+            "type": "value",
+            "oldValue": "wiki_item_lbmob_1_lbshamman_1_sp_1_1",
+            "newValue": "wiki_item_firebat_1_agrange_1_1"
+          },
+          "list[43]": {
+            "type": "value",
+            "oldValue": "wiki_item_firebat_1_agrange_1_1",
+            "newValue": "wiki_item_erhound_1_agmelee_1_moss_1_1"
+          },
+          "list[44]": {
+            "type": "value",
+            "oldValue": "wiki_item_erhound_1_agmelee_1_moss_1_1",
+            "newValue": "wiki_item_lbshield_1_slimeml_1_dog_1_1"
+          },
+          "list[45]": {
+            "type": "value",
+            "oldValue": "wiki_item_lbshield_1_slimeml_1_dog_1_1",
+            "newValue": "wiki_item_agfly_1_agmelee_1_moss_2_1"
+          },
+          "list[46]": {
+            "type": "value",
+            "oldValue": "wiki_item_agfly_1_agmelee_1_moss_2_1",
+            "newValue": "wiki_item_hsmob_1_dog_1_1"
+          },
+          "list[47]": {
+            "type": "value",
+            "oldValue": "wiki_item_hsmob_1_dog_1_1",
+            "newValue": "wiki_item_wgslime_1_wgthorns_1_1"
+          },
+          "list[48]": {
+            "type": "value",
+            "oldValue": "wiki_item_wgslime_1_wgthorns_1_1",
+            "newValue": "wiki_item_wgshoal_1_grass_1_grass_2_1"
+          },
+          "list[49]": {
+            "type": "value",
+            "oldValue": "wiki_item_wgshoal_1_grass_1_grass_2_1",
+            "newValue": "wiki_item_ethillu_1_wgslime_1_wgthorns_1_1"
+          },
+          "list[50]": {
+            "type": "value",
+            "oldValue": "wiki_item_ethillu_1_wgslime_1_wgthorns_1_1",
+            "newValue": "wiki_item_agmelee_1_sp_2_slimeml_1_1"
+          },
+          "list[51]": {
+            "type": "value",
+            "oldValue": "wiki_item_agmelee_1_sp_2_slimeml_1_1",
+            "newValue": "wiki_item_lbmob_1_moss_2_bottled_1"
+          },
+          "list[52]": {
+            "type": "value",
+            "oldValue": "wiki_item_lbmob_1_moss_2_bottled_1",
+            "newValue": "wiki_item_agrange_1_lbshamman_bottled_1"
+          },
+          "list[53]": {
+            "type": "value",
+            "oldValue": "wiki_item_agrange_1_lbshamman_bottled_1",
+            "newValue": "wiki_item_agrange_1_erhound_1_sp_1_1"
+          },
+          "list[70]": {
+            "type": "value",
+            "oldValue": "wiki_item_corp1_animal_1",
+            "newValue": "wiki_item_slwood_1_hshog_1_1"
+          },
+          "list[71]": {
+            "type": "value",
+            "oldValue": "wiki_item_corp2_animal_1",
+            "newValue": "wiki_item_corp1_animal_1"
+          },
+          "list[72]": {
+            "type": "value",
+            "oldValue": "wiki_item_corp3_animal_1",
+            "newValue": "wiki_item_corp2_animal_1"
+          },
+          "list[73]": {
+            "type": "value",
+            "oldValue": "wiki_item_corp4_animal_1",
+            "newValue": "wiki_item_corp3_animal_1"
+          },
+          "list[74]": {
+            "type": "value",
+            "oldValue": "wiki_item_corp4_spc",
+            "newValue": "wiki_item_corp4_animal_1"
+          },
+          "list[75]": {
+            "type": "value",
+            "newValue": "wiki_item_corp4_spc"
+          }
+        }
+      },
+      "wiki_group_item_portable_device": {
+        "oldValue": {
+          "list": [
+            "wiki_item_device_xiranite_nexus_1",
+            "wiki_item_device_xiranite_nexus_2",
+            "wiki_item_device_xiranite_nexus_3",
+            "wiki_item_device_xiranite_radar_1",
+            "wiki_item_device_balloon_recycle_1",
+            "wiki_item_device_balloon_recycle_2",
+            "wiki_item_device_balloon_recycle_3"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_device_xiranite_nexus_1",
+            "wiki_item_device_xiranite_nexus_2",
+            "wiki_item_device_xiranite_nexus_3",
+            "wiki_item_device_xiranite_radar_1",
+            "wiki_item_device_balloon_recycle_1",
+            "wiki_item_device_balloon_recycle_2",
+            "wiki_item_device_balloon_recycle_3",
+            "wiki_item_arrow_chip_multiple",
+            "wiki_item_arrow_chip_shield_breaker",
+            "wiki_item_arrow_chip_frozen",
+            "wiki_item_arrow_chip_bomb",
+            "wiki_item_arrow_chip_penetrate",
+            "wiki_item_device_buff_snow_1",
+            "wiki_item_device_buff_snow_2",
+            "wiki_item_device_buff_snow_3"
+          ]
+        },
+        "changed": {
+          "list[7]": {
+            "type": "value",
+            "newValue": "wiki_item_arrow_chip_multiple"
+          },
+          "list[8]": {
+            "type": "value",
+            "newValue": "wiki_item_arrow_chip_shield_breaker"
+          },
+          "list[9]": {
+            "type": "value",
+            "newValue": "wiki_item_arrow_chip_frozen"
+          },
+          "list[10]": {
+            "type": "value",
+            "newValue": "wiki_item_arrow_chip_bomb"
+          },
+          "list[11]": {
+            "type": "value",
+            "newValue": "wiki_item_arrow_chip_penetrate"
+          },
+          "list[12]": {
+            "type": "value",
+            "newValue": "wiki_item_device_buff_snow_1"
+          },
+          "list[13]": {
+            "type": "value",
+            "newValue": "wiki_item_device_buff_snow_2"
+          },
+          "list[14]": {
+            "type": "value",
+            "newValue": "wiki_item_device_buff_snow_3"
+          }
+        }
+      },
+      "wiki_group_item_gift": {
+        "oldValue": {
+          "list": [
+            "wiki_item_gift_tundra_1",
+            "wiki_item_gift_tundra_2",
+            "wiki_item_gift_tundra_3",
+            "wiki_item_gift_tundra_4",
+            "wiki_item_gift_tundra_5",
+            "wiki_item_gift_tundra_6",
+            "wiki_item_gift_tundra_7",
+            "wiki_item_gift_jinlong_1",
+            "wiki_item_gift_jinlong_2",
+            "wiki_item_gift_jinlong_3",
+            "wiki_item_gift_jinlong_4",
+            "wiki_item_gift_jinlong_5",
+            "wiki_item_gift_jinlong_6",
+            "wiki_item_gift_jinlong_7",
+            "wiki_item_gift_jinlong_8",
+            "wiki_item_gift_jinlong_9"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_gift_tundra_1",
+            "wiki_item_gift_tundra_2",
+            "wiki_item_gift_tundra_3",
+            "wiki_item_gift_tundra_4",
+            "wiki_item_gift_tundra_5",
+            "wiki_item_gift_tundra_6",
+            "wiki_item_gift_tundra_7",
+            "wiki_item_gift_jinlong_1",
+            "wiki_item_gift_jinlong_2",
+            "wiki_item_gift_jinlong_3",
+            "wiki_item_gift_jinlong_4",
+            "wiki_item_gift_jinlong_5",
+            "wiki_item_gift_jinlong_6",
+            "wiki_item_gift_jinlong_7",
+            "wiki_item_gift_jinlong_8",
+            "wiki_item_gift_jinlong_9",
+            "wiki_item_gift_jinlong_10",
+            "wiki_item_gift_jinlong_11"
+          ]
+        },
+        "changed": {
+          "list[16]": {
+            "type": "value",
+            "newValue": "wiki_item_gift_jinlong_10"
+          },
+          "list[17]": {
+            "type": "value",
+            "newValue": "wiki_item_gift_jinlong_11"
+          }
+        }
+      },
+      "wiki_group_item_material": {
+        "oldValue": {
+          "list": [
+            "wiki_item_plant_tundra_insect_1",
+            "wiki_item_plant_tundra_insect_2",
+            "wiki_item_muck_feces_1",
+            "wiki_item_drop_agmelee_1",
+            "wiki_item_drop_agrange_1",
+            "wiki_item_drop_lbmob_1",
+            "wiki_item_drop_erhound_1",
+            "wiki_item_drop_hsmob_1",
+            "wiki_item_drop_dog_1",
+            "wiki_item_drop_slimeml_1",
+            "wiki_item_drop_lbshield_1",
+            "wiki_item_drop_agfly_1",
+            "wiki_item_drop_wgslime_1",
+            "wiki_item_drop_wgthorns_1",
+            "wiki_item_drop_hsfly_1",
+            "wiki_item_drop_ethillu_1",
+            "wiki_item_drop_jzmonk_1",
+            "wiki_item_drop_mimicw_1",
+            "wiki_item_drop_lbshamman_1",
+            "wiki_item_drop_firebat_1",
+            "wiki_item_drop_hscrane_1",
+            "wiki_item_drop_wgshoal_1",
+            "wiki_item_drop_hshog_1",
+            "wiki_item_drop_lbtough_1",
+            "wiki_item_drop_hvybow_1",
+            "wiki_item_drop_agdisk_1",
+            "wiki_item_drop_hsmino_1",
+            "wiki_item_drop_sandb_1",
+            "wiki_item_drop_lbroshan_1",
+            "wiki_item_drop_hstiger_1",
+            "wiki_item_drop_jzogre_1",
+            "wiki_item_drop_klcreatures_1",
+            "wiki_item_drop_klbuds_1",
+            "wiki_item_drop_klcaps_1",
+            "wiki_item_drop_agshield_1",
+            "wiki_item_drop_wgabyss_1",
+            "wiki_item_drop_hsbear_1"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_item_plant_tundra_insect_1",
+            "wiki_item_plant_tundra_insect_2",
+            "wiki_item_muck_feces_1",
+            "wiki_item_drop_agmelee_1",
+            "wiki_item_drop_agrange_1",
+            "wiki_item_drop_lbmob_1",
+            "wiki_item_drop_erhound_1",
+            "wiki_item_drop_hsmob_1",
+            "wiki_item_drop_dog_1",
+            "wiki_item_drop_slimeml_1",
+            "wiki_item_drop_lbshield_1",
+            "wiki_item_drop_agfly_1",
+            "wiki_item_drop_wgslime_1",
+            "wiki_item_drop_wgthorns_1",
+            "wiki_item_drop_hsfly_1",
+            "wiki_item_drop_ethillu_1",
+            "wiki_item_drop_jzmonk_1",
+            "wiki_item_drop_slwood_1",
+            "wiki_item_drop_mimicw_1",
+            "wiki_item_drop_lbshamman_1",
+            "wiki_item_drop_firebat_1",
+            "wiki_item_drop_hscrane_1",
+            "wiki_item_drop_wgshoal_1",
+            "wiki_item_drop_hshog_1",
+            "wiki_item_drop_lbtough_1",
+            "wiki_item_drop_hvybow_1",
+            "wiki_item_drop_agdisk_1",
+            "wiki_item_drop_hsmino_1",
+            "wiki_item_drop_sandb_1",
+            "wiki_item_drop_lbroshan_1",
+            "wiki_item_drop_hstiger_1",
+            "wiki_item_drop_jzogre_1",
+            "wiki_item_drop_klcreatures_1",
+            "wiki_item_drop_klbuds_1",
+            "wiki_item_drop_klcaps_1",
+            "wiki_item_drop_babyents_1",
+            "wiki_item_drop_agshield_1",
+            "wiki_item_drop_wgabyss_1",
+            "wiki_item_drop_hsbear_1"
+          ]
+        },
+        "changed": {
+          "list[17]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_mimicw_1",
+            "newValue": "wiki_item_drop_slwood_1"
+          },
+          "list[18]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_lbshamman_1",
+            "newValue": "wiki_item_drop_mimicw_1"
+          },
+          "list[19]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_firebat_1",
+            "newValue": "wiki_item_drop_lbshamman_1"
+          },
+          "list[20]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_hscrane_1",
+            "newValue": "wiki_item_drop_firebat_1"
+          },
+          "list[21]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_wgshoal_1",
+            "newValue": "wiki_item_drop_hscrane_1"
+          },
+          "list[22]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_hshog_1",
+            "newValue": "wiki_item_drop_wgshoal_1"
+          },
+          "list[23]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_lbtough_1",
+            "newValue": "wiki_item_drop_hshog_1"
+          },
+          "list[24]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_hvybow_1",
+            "newValue": "wiki_item_drop_lbtough_1"
+          },
+          "list[25]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_agdisk_1",
+            "newValue": "wiki_item_drop_hvybow_1"
+          },
+          "list[26]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_hsmino_1",
+            "newValue": "wiki_item_drop_agdisk_1"
+          },
+          "list[27]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_sandb_1",
+            "newValue": "wiki_item_drop_hsmino_1"
+          },
+          "list[28]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_lbroshan_1",
+            "newValue": "wiki_item_drop_sandb_1"
+          },
+          "list[29]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_hstiger_1",
+            "newValue": "wiki_item_drop_lbroshan_1"
+          },
+          "list[30]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_jzogre_1",
+            "newValue": "wiki_item_drop_hstiger_1"
+          },
+          "list[31]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_klcreatures_1",
+            "newValue": "wiki_item_drop_jzogre_1"
+          },
+          "list[32]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_klbuds_1",
+            "newValue": "wiki_item_drop_klcreatures_1"
+          },
+          "list[33]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_klcaps_1",
+            "newValue": "wiki_item_drop_klbuds_1"
+          },
+          "list[34]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_agshield_1",
+            "newValue": "wiki_item_drop_klcaps_1"
+          },
+          "list[35]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_wgabyss_1",
+            "newValue": "wiki_item_drop_babyents_1"
+          },
+          "list[36]": {
+            "type": "value",
+            "oldValue": "wiki_item_drop_hsbear_1",
+            "newValue": "wiki_item_drop_agshield_1"
+          },
+          "list[37]": {
+            "type": "value",
+            "newValue": "wiki_item_drop_wgabyss_1"
+          },
+          "list[38]": {
+            "type": "value",
+            "newValue": "wiki_item_drop_hsbear_1"
+          }
+        }
+      },
+      "wiki_group_tutorial_system": {
+        "oldValue": {
+          "list": [
+            "wiki_tut_sys_wiki",
+            "wiki_tut_sys_watch",
+            "wiki_tut_sys_map",
+            "wiki_tut_sys_bag",
+            "wiki_tut_sys_valuable",
+            "wiki_tut_sys_team",
+            "wiki_tut_sys_friend",
+            "wiki_tut_sys_achievement",
+            "wiki_tut_sys_prts",
+            "wiki_tut_sys_char_levelup",
+            "wiki_tut_sys_talent_tree",
+            "wiki_tut_sys_attribute",
+            "wiki_tut_sys_potential",
+            "wiki_tut_sys_weapon",
+            "wiki_tut_sys_weapon_gem",
+            "wiki_tut_sys_gem_enhance",
+            "wiki_tut_sys_gem_wishlist",
+            "wiki_tut_sys_equip",
+            "wiki_tut_sys_equip_produce",
+            "wiki_tut_sys_equip_formula_switch",
+            "wiki_tut_sys_equip_enhance",
+            "wiki_tut_sys_adventure_level",
+            "wiki_tut_sys_world_level",
+            "wiki_tut_sys_adventure_book",
+            "wiki_tut_sys_hdwork",
+            "wiki_tut_sys_hdwork_book",
+            "wiki_tut_sys_use_item",
+            "wiki_tut_sys_tactical_item",
+            "wiki_tut_sys_domain",
+            "wiki_tut_sys_settlement",
+            "wiki_tut_sys_domain_shop_1",
+            "wiki_tut_sys_domain_shop_2",
+            "wiki_tut_sys_domain_depot_1",
+            "wiki_tut_sys_domain_depot_2",
+            "wiki_tut_sys_domain_depot_send",
+            "wiki_tut_sys_site_station",
+            "wiki_tut_sys_simulation_training",
+            "wiki_tut_sys_plant",
+            "wiki_tut_sys_liquid_plant",
+            "wiki_tut_sys_tower_defence",
+            "wiki_tut_sys_spaceship_center",
+            "wiki_tut_sys_spaceship_manu",
+            "wiki_tut_sys_spaceship_grow",
+            "wiki_tut_sys_spaceship_operator",
+            "wiki_tut_sys_spaceship_reliance",
+            "wiki_tut_sys_spaceship_contact_station",
+            "wiki_tut_sys_spaceship_reception",
+            "wiki_tut_sys_spaceship_clue",
+            "wiki_tut_sys_spaceship_exhibition",
+            "wiki_tut_sys_spaceship_gender",
+            "wiki_tut_sys_spaceship_credit",
+            "wiki_tut_sys_spaceship_visit",
+            "wiki_tut_sys_spaceship_unlock",
+            "wiki_tut_sys_spaceship_upgrade",
+            "wiki_tut_sys_spaceship_musicplayer"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_tut_sys_wiki",
+            "wiki_tut_sys_watch",
+            "wiki_tut_sys_map",
+            "wiki_tut_sys_bag",
+            "wiki_tut_sys_valuable",
+            "wiki_tut_sys_team",
+            "wiki_tut_sys_friend",
+            "wiki_tut_sys_achievement",
+            "wiki_tut_sys_prts",
+            "wiki_tut_sys_char_levelup",
+            "wiki_tut_sys_talent_tree",
+            "wiki_tut_sys_attribute",
+            "wiki_tut_sys_potential",
+            "wiki_tut_sys_weapon",
+            "wiki_tut_sys_weapon_gem",
+            "wiki_tut_sys_gem_enhance",
+            "wiki_tut_sys_gem_wishlist",
+            "wiki_tut_sys_equip",
+            "wiki_tut_sys_equip_produce",
+            "wiki_tut_sys_equip_formula_switch",
+            "wiki_tut_sys_equip_enhance",
+            "wiki_tut_sys_adventure_level",
+            "wiki_tut_sys_world_level",
+            "wiki_tut_sys_adventure_book",
+            "wiki_tut_sys_hdwork",
+            "wiki_tut_sys_hdwork_book",
+            "wiki_tut_sys_use_item",
+            "wiki_tut_sys_tactical_item",
+            "wiki_tut_sys_domain",
+            "wiki_tut_sys_settlement",
+            "wiki_tut_sys_domain_shop_1",
+            "wiki_tut_sys_domain_shop_2",
+            "wiki_tut_sys_domain_depot_1",
+            "wiki_tut_sys_domain_depot_2",
+            "wiki_tut_sys_domain_depot_send",
+            "wiki_tut_sys_site_station",
+            "wiki_tut_sys_simulation_training",
+            "wiki_tut_sys_plant",
+            "wiki_tut_sys_liquid_plant",
+            "wiki_tut_sys_tower_defence",
+            "wiki_tut_sys_spaceship_center",
+            "wiki_tut_sys_spaceship_manu",
+            "wiki_tut_sys_spaceship_grow",
+            "wiki_tut_sys_spaceship_operator",
+            "wiki_tut_sys_spaceship_reliance",
+            "wiki_tut_sys_spaceship_contact_station",
+            "wiki_tut_sys_spaceship_reception",
+            "wiki_tut_sys_spaceship_clue",
+            "wiki_tut_sys_spaceship_exhibition",
+            "wiki_tut_sys_spaceship_gender",
+            "wiki_tut_sys_spaceship_credit",
+            "wiki_tut_sys_spaceship_visit",
+            "wiki_tut_sys_spaceship_unlock",
+            "wiki_tut_sys_spaceship_upgrade",
+            "wiki_tut_sys_spaceship_musicplayer",
+            "wiki_tut_sys_archery_training"
+          ]
+        },
+        "changed": {
+          "list[55]": {
+            "type": "value",
+            "newValue": "wiki_tut_sys_archery_training"
+          }
+        }
+      },
+      "wiki_group_weapon_wand": {
+        "oldValue": {
+          "list": [
+            "wiki_wpn_funnel_0002",
+            "wiki_wpn_funnel_0001",
+            "wiki_wpn_funnel_0003",
+            "wiki_wpn_funnel_0005",
+            "wiki_wpn_funnel_0007",
+            "wiki_wpn_funnel_0004",
+            "wiki_wpn_funnel_0012",
+            "wiki_wpn_funnel_0014",
+            "wiki_wpn_funnel_0011",
+            "wiki_wpn_funnel_0013",
+            "wiki_wpn_funnel_0006",
+            "wiki_wpn_funnel_0008",
+            "wiki_wpn_funnel_0009",
+            "wiki_wpn_funnel_0010",
+            "wiki_wpn_funnel_0015",
+            "wiki_wpn_funnel_0017",
+            "wiki_wpn_funnel_0016",
+            "wiki_wpn_funnel_0018"
+          ]
+        },
+        "newValue": {
+          "list": [
+            "wiki_wpn_funnel_0002",
+            "wiki_wpn_funnel_0001",
+            "wiki_wpn_funnel_0003",
+            "wiki_wpn_funnel_0005",
+            "wiki_wpn_funnel_0007",
+            "wiki_wpn_funnel_0004",
+            "wiki_wpn_funnel_0012",
+            "wiki_wpn_funnel_0014",
+            "wiki_wpn_funnel_0011",
+            "wiki_wpn_funnel_0013",
+            "wiki_wpn_funnel_0006",
+            "wiki_wpn_funnel_0008",
+            "wiki_wpn_funnel_0009",
+            "wiki_wpn_funnel_0010",
+            "wiki_wpn_funnel_0015",
+            "wiki_wpn_funnel_0017",
+            "wiki_wpn_funnel_0016",
+            "wiki_wpn_funnel_0018",
+            "wiki_wpn_funnel_0019",
+            "wiki_wpn_funnel_0020"
+          ]
+        },
+        "changed": {
+          "list[18]": {
+            "type": "value",
+            "newValue": "wiki_wpn_funnel_0019"
+          },
+          "list[19]": {
+            "type": "value",
+            "newValue": "wiki_wpn_funnel_0020"
+          }
+        }
+      }
+    }
+  }
+}

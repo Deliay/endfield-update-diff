@@ -1,0 +1,54 @@
+{
+  "tableName": "ActivityDungeonTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_parkour": {
+        "activityId": "activity_parkour",
+        "gameMap": {
+          "dung02_rcdg001": {
+            "gameCloseOnActivityEnd": true,
+            "gameCloseStage": "",
+            "gameId": "dung02_rcdg001",
+            "gameUnlockStage": "activity_wuling_racing_stage_1",
+            "lv": 1,
+            "showState": ""
+          },
+          "dung02_rcdg002": {
+            "gameCloseOnActivityEnd": true,
+            "gameCloseStage": "",
+            "gameId": "dung02_rcdg002",
+            "gameUnlockStage": "activity_wuling_racing_stage_02",
+            "lv": 2,
+            "showState": ""
+          },
+          "dung02_rcdg004": {
+            "gameCloseOnActivityEnd": true,
+            "gameCloseStage": "",
+            "gameId": "dung02_rcdg004",
+            "gameUnlockStage": "activity_wuling_racing_stage_03",
+            "lv": 3,
+            "showState": ""
+          },
+          "dung02_rcdg003": {
+            "gameCloseOnActivityEnd": true,
+            "gameCloseStage": "",
+            "gameId": "dung02_rcdg003",
+            "gameUnlockStage": "activity_wuling_racing_stage_04",
+            "lv": 4,
+            "showState": ""
+          }
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "tableName": "GiftItemTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 2
+  },
+  "entries": {
+    "added": {
+      "item_gift_jinlong_10": {
+        "favorablePoint": 20,
+        "finishPopularTimeId": "time_gift_1_5_typhoea_1",
+        "giftPreferTag": "tag_giftperfer_wuling_6",
+        "id": "item_gift_jinlong_10",
+        "isPopular": true,
+        "isShowPopularFinishTime": false,
+        "tagList": [
+          "tag_hobby_life",
+          "tag_hobby_nature"
+        ]
+      },
+      "item_gift_jinlong_11": {
+        "favorablePoint": 20,
+        "finishPopularTimeId": "time_gift_1_5_purrche_1",
+        "giftPreferTag": "tag_giftperfer_wuling_6",
+        "id": "item_gift_jinlong_11",
+        "isPopular": true,
+        "isShowPopularFinishTime": false,
+        "tagList": [
+          "tag_hobby_charity",
+          "tag_hobby_art"
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {
+      "item_gift_jinlong_8": {
+        "oldValue": {
+          "favorablePoint": 20,
+          "finishPopularTimeId": "time_gift_1_4_lizhiyan_1",
+          "giftPreferTag": "tag_giftperfer_wuling_5",
+          "id": "item_gift_jinlong_8",
+          "isPopular": true,
+          "isShowPopularFinishTime": false,
+          "tagList": [
+            "tag_hobby_charity",
+            "tag_hobby_nature"
+          ]
+        },
+        "newValue": {
+          "favorablePoint": 20,
+          "finishPopularTimeId": "time_gift_1_4_lizhiyan_2",
+          "giftPreferTag": "tag_giftperfer_wuling_5",
+          "id": "item_gift_jinlong_8",
+          "isPopular": true,
+          "isShowPopularFinishTime": true,
+          "tagList": [
+            "tag_hobby_charity",
+            "tag_hobby_nature"
+          ]
+        },
+        "changed": {
+          "finishPopularTimeId": {
+            "type": "value",
+            "oldValue": "time_gift_1_4_lizhiyan_1",
+            "newValue": "time_gift_1_4_lizhiyan_2"
+          },
+          "isShowPopularFinishTime": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          }
+        }
+      },
+      "item_gift_jinlong_9": {
+        "oldValue": {
+          "favorablePoint": 20,
+          "finishPopularTimeId": "time_gift_1_4_liino_1",
+          "giftPreferTag": "tag_giftperfer_wuling_5",
+          "id": "item_gift_jinlong_9",
+          "isPopular": true,
+          "isShowPopularFinishTime": false,
+          "tagList": [
+            "tag_hobby_art",
+            "tag_hobby_culture"
+          ]
+        },
+        "newValue": {
+          "favorablePoint": 20,
+          "finishPopularTimeId": "time_gift_1_4_liino_2",
+          "giftPreferTag": "tag_giftperfer_wuling_5",
+          "id": "item_gift_jinlong_9",
+          "isPopular": true,
+          "isShowPopularFinishTime": true,
+          "tagList": [
+            "tag_hobby_art",
+            "tag_hobby_culture"
+          ]
+        },
+        "changed": {
+          "finishPopularTimeId": {
+            "type": "value",
+            "oldValue": "time_gift_1_4_liino_1",
+            "newValue": "time_gift_1_4_liino_2"
+          },
+          "isShowPopularFinishTime": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          }
+        }
+      }
+    }
+  }
+}

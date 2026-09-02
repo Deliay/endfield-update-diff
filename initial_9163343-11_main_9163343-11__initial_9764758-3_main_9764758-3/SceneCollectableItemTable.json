@@ -1,0 +1,129 @@
+{
+  "tableName": "SceneCollectableItemTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "map02_lv009": {
+        "itemList": [
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_ether",
+            "infoLabel": {
+              "BR": "Fogueira",
+              "CN": "营火",
+              "DE": "Lagerfeuer",
+              "EN": "Campfire",
+              "FR": "Feu de camp",
+              "ID": "Api Unggun",
+              "IT": "Accampamento",
+              "JP": "キャンプ地",
+              "KR": "모닥불",
+              "MX": "Fogata",
+              "RU": "Костер",
+              "TC": "營火",
+              "TH": "กองไฟ",
+              "VN": "Lửa Trại"
+            },
+            "itemId": "int_campfire_v2",
+            "maxCount": 5,
+            "sceneId": "map02_lv009"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_ether_wuling",
+            "infoLabel": {
+              "BR": "Aurileno",
+              "CN": "醚质",
+              "DE": "Aurylen",
+              "EN": "Aurylene",
+              "FR": "Aurylène",
+              "ID": "Aurylene",
+              "IT": "Aurylene",
+              "JP": "オーリレン",
+              "KR": "오리렌",
+              "MX": "Aurileno",
+              "RU": "Аурилен",
+              "TC": "醚質",
+              "TH": "ออ​ริ​ลีน",
+              "VN": "Aurylene"
+            },
+            "itemId": "item_collection_ether_wuling",
+            "maxCount": 31,
+            "sceneId": "map02_lv009"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_trstar",
+            "infoLabel": {
+              "BR": "Talosita",
+              "CN": "塔晶",
+              "DE": "Talosit",
+              "EN": "Talosite",
+              "FR": "Talosite",
+              "ID": "Talosite",
+              "IT": "Talosite",
+              "JP": "タロサイト",
+              "KR": "탈로사이트",
+              "MX": "Talosita",
+              "RU": "Талозит",
+              "TC": "塔晶",
+              "TH": "ทา​โล​ไซต์",
+              "VN": "Talosite"
+            },
+            "itemId": "int_collection_trstar",
+            "maxCount": 31,
+            "sceneId": "map02_lv009"
+          },
+          {
+            "convertRequiredCount": -1,
+            "convertTargetItemId": "",
+            "extraBandwidthCapacity": 0,
+            "extraBuildingNumLimit": 0,
+            "hasConvertRule": false,
+            "imagePath": "ItemIcon/item_collection_trstar",
+            "infoLabel": {
+              "BR": "Talosita",
+              "CN": "塔晶",
+              "DE": "Talosit",
+              "EN": "Talosite",
+              "FR": "Talosite",
+              "ID": "Talosite",
+              "IT": "Talosite",
+              "JP": "タロサイト",
+              "KR": "탈로사이트",
+              "MX": "Talosita",
+              "RU": "Талозит",
+              "TC": "塔晶",
+              "TH": "ทา​โล​ไซต์",
+              "VN": "Talosite"
+            },
+            "itemId": "int_collection_trstar_high",
+            "maxCount": 31,
+            "sceneId": "map02_lv009"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

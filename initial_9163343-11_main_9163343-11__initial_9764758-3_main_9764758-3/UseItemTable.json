@@ -1,0 +1,81 @@
+{
+  "tableName": "UseItemTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_slwood_1_hshog_1_1": {
+        "duration": 0,
+        "effectType": 0,
+        "gameModeForbidTagList": [],
+        "isPersistentBuff": false,
+        "isValuableDepot": false,
+        "itemId": "item_slwood_1_hshog_1_1",
+        "itemUseDesc": {
+          "BR": "Use para <#ba.dispel>dissipar</> <#ba.spellinflictonchar>Inflições de Artes</> e <#ba.spellinflictonchar>Reações de Artes</> e, em seguida, restaurar <@ba.vup>{value2:0%}</> de PV Máximo + <@ba.vup>{value:0}</> de PV.",
+          "CN": "使用后，<#ba.dispel>净化</><#ba.spellinflictonchar>法术附着</>与<#ba.spellinflictonchar>法术异常</>，然后立刻回复<@ba.vup>{value2:0%}</>最大生命值，再回复<@ba.vup>{value:0}</>点生命值。",
+          "DE": "Verwenden, um sämtliche <#ba.spellinflictonchar>Technikkumulierungen</> und <#ba.spellinflictonchar>Technikreaktionen</> <#ba.dispel>aufzuheben</> und dann sofort <@ba.vup>{value2:0%}</> deiner max. LP und <@ba.vup>{value:0}</> zusätzliche LP wiederherzustellen.",
+          "EN": "Use this to <#ba.dispel>dispel</> <#ba.spellinflictonchar>Arts Inflictions</> and <#ba.spellinflictonchar>Arts Reactions</>, then instantly restore <@ba.vup>{value2:0%}</> Max HP plus <@ba.vup>{value:0}</> HP.",
+          "FR": "Utilisez ceci pour <#ba.dispel>dissiper</> toutes les <#ba.spellinflictonchar>altérations des Arts</> et <#ba.spellinflictonchar>réactions aux Arts</>, et restaurer instantanément <@ba.vup>{value2:0%}</> des PV max, plus <@ba.vup>{value:0}</> PV.",
+          "ID": "Gunakan item ini untuk <#ba.dispel>menghalau</> <#ba.spellinflictonchar>Arts Infliction</> dan <#ba.spellinflictonchar>Arts Reaction</>, lalu langsung memulihkan <@ba.vup>{value2:0%}</> HP Maks plus <@ba.vup>{value:0}</> HP.",
+          "IT": "Usa questo oggetto per <#ba.dispel>dissolvere</> le <#ba.spellinflictonchar>Afflizioni da Arti</> e le <#ba.spellinflictonchar>Reazioni delle Arti</>, ripristinando istantaneamente un <@ba.vup>{value2:0%}</> dei PS massimi più <@ba.vup>{value:0}</> PS.",
+          "JP": "使用すると、<#ba.spellinflictonchar>アーツ付着</>と<#ba.spellinflictonchar>アーツ異常</>状態が<#ba.dispel>浄化</>されるほか、最大HPの<@ba.vup>{value2:0%}</>分+<@ba.vup>{value:0}</>HPを回復する。",
+          "KR": "사용 시 <#ba.spellinflictonchar>아츠 부착</>과 <#ba.spellinflictonchar>아츠 이상</> 효과를 <#ba.dispel>정화</>하고, 즉시 최대 생명력의 <@ba.vup>{value2:0%}</>와 생명력 <@ba.vup>{value:0}</> 포인트를 회복합니다.",
+          "MX": "Usa esto para <#ba.dispel>disipar</> <#ba.spellinflictonchar>Imposiciones de artes</> y <#ba.spellinflictonchar>Reacciones a artes</>, luego restaura al instante <@ba.vup>{value2:0%}</> PV Máx. más <@ba.vup>{value:0}</> PV.",
+          "RU": "Используйте, чтобы <#ba.dispel>развеять</> все <#ba.spellinflictonchar>поражения искусствами</> и <#ba.spellinflictonchar>реакции искусств</>, а затем мгновенно восстановить <@ba.vup>{value2:0%}</> макс. ОЗ и <@ba.vup>{value:0}</> ОЗ.",
+          "TC": "使用後，<#ba.dispel>淨化</><#ba.spellinflictonchar>法術附著</>與<#ba.spellinflictonchar>法術異常</>，然後立刻回復<@ba.vup>{value2:0%}</>最大生命值，再回復<@ba.vup>{value:0}</>點生命值。",
+          "TH": "ใช้​เพื่อ​<#ba.dispel>​ขจัด​</><#ba.spellinflictonchar>​สถานะ​เวท​</>​และ​<#ba.spellinflictonchar>​ปฏิกิริยา​เวท​</> แล้ว​ฟื้นฟู​ HP <@ba.vup>{value2:0%}</> ของ​ HP สูงสุด​กับ​อีก​ <@ba.vup>{value:0}</> หน่วย​ทันที",
+          "VN": "Dùng vật phẩm này để <#ba.dispel>xua tan</> <#ba.spellinflictonchar>Nhiễm Thuật Pháp</> và <#ba.spellinflictonchar>Phản Ứng Thuật Pháp</>, rồi hồi ngay <@ba.vup>{value2:0%}</> HP Tối Đa cộng thêm <@ba.vup>{value:0}</> HP."
+        },
+        "stackingKey": "",
+        "targetNumType": 0,
+        "uiType": 0,
+        "useActions": [
+          {
+            "buffBBData": {
+              "blackboard": [
+                {
+                  "key": "value",
+                  "value": 1480.102,
+                  "valueStr": ""
+                },
+                {
+                  "key": "value2",
+                  "value": 0.1,
+                  "valueStr": ""
+                }
+              ],
+              "buffId": "buff_common_heal_potion_2"
+            },
+            "skillBBData": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "useType": 2
+          },
+          {
+            "buffBBData": {
+              "blackboard": [],
+              "buffId": "buff_common_dispel_potion"
+            },
+            "skillBBData": {
+              "blackboard": [],
+              "skillId": "",
+              "skillPath": ""
+            },
+            "useType": 2
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

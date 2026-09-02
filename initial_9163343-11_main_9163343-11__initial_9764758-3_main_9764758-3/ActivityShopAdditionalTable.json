@@ -1,0 +1,43 @@
+{
+  "tableName": "ActivityShopAdditionalTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "shop_activity_limited_formula_2": {
+        "activityId": "activity_limited_formula_2",
+        "activityMoneyId": "item_activity_relief_coupon_1",
+        "banner": "shop_banner_05",
+        "closeCdText": {
+          "BR": "Troca de Mercadorias encerrando em: ",
+          "CN": "物资兑换处关闭倒计时：",
+          "DE": "Warentauschbörse schließt in: ",
+          "EN": "Goods Exchange closing in: ",
+          "FR": "La boutique de marchandises ferme dans : ",
+          "ID": "Bursa Barang akan ditutup dalam: ",
+          "IT": "Lo Scambio articoli chiude tra: ",
+          "JP": "物資交換所-終了まで：",
+          "KR": "물자 교환소 종료까지: ",
+          "MX": "El Intercambio de mercancías cierra en: ",
+          "RU": "Обменник товаров закрывается через: ",
+          "TC": "物資兌換處關閉倒數計時：",
+          "TH": "การแลก​เปลี่ยน​สินค้า​จะ​ปิด​ใน​: ",
+          "VN": "Đóng Điểm Giao Dịch Hàng sau: "
+        },
+        "hasHelpComponent": false,
+        "hasSortComponent": true,
+        "shopGroupId": "shop_activity_limited_formula_2",
+        "showCloseCd": true,
+        "titleColor": "2C2C2C"
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

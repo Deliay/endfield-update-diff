@@ -1,0 +1,61 @@
+{
+  "tableName": "AttributeMetaTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "100": {
+        "oldValue": {
+          "attributeType": 100,
+          "bigIconName": "",
+          "defaultValue": 0,
+          "hasMaxValue": true,
+          "hasMinValue": false,
+          "iconName": "icon_combo_skill_cooldown",
+          "maxValue": 1,
+          "minValue": 0
+        },
+        "newValue": {
+          "attributeType": 100,
+          "bigIconName": "",
+          "defaultValue": 1,
+          "hasMaxValue": false,
+          "hasMinValue": true,
+          "iconName": "icon_combo_skill_cooldown",
+          "maxValue": 0,
+          "minValue": 0
+        },
+        "changed": {
+          "defaultValue": {
+            "type": "value",
+            "oldValue": 0,
+            "newValue": 1
+          },
+          "hasMaxValue": {
+            "type": "value",
+            "oldValue": true,
+            "newValue": false
+          },
+          "hasMinValue": {
+            "type": "value",
+            "oldValue": false,
+            "newValue": true
+          },
+          "maxValue": {
+            "type": "value",
+            "oldValue": 1,
+            "newValue": 0
+          }
+        }
+      }
+    }
+  }
+}

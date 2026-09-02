@@ -1,0 +1,202 @@
+{
+  "tableName": "TyphoeaArcheryChipTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 5,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "arrow_chip_bomb": {
+        "chipDesc": {
+          "BR": "Aplica Resina (Máx.: 3 acúmulos/alvo). Cause DNO à Resina para detoná-la. DNO: 1 por acúmulo de Resina.",
+          "CN": "不会直接造成伤害，可在靶标上最多叠加3层燃松，燃松受到伤害会产生爆炸，每层燃松爆炸造成1点伤害。",
+          "DE": "Wendet „Harz“ an (max.: 3 Kumulierungen/Ziel). Verursache SDN, damit das Harz explodiert. SDN: 1 pro Harz-Kumulierung.",
+          "EN": "Applies Resin (Max: 3 stacks/target). Deal DMG to Resin to detonate. DMG: 1 per Resin stack.",
+          "FR": "Applique de la résine (max. : 3 cumuls par cible). Infligez des DÉG à la résine pour la faire exploser. DÉG : 1 par cumul de résine.",
+          "ID": "Mengakibatkan Resin (Maks: 3 tumpuk/target). Timbulkan DMG pada Resin untuk meledakkannya. DMG: 1 per tumpukan Resin.",
+          "IT": "Applica Resina (max: 3 accumuli per bersaglio). Infliggi danni alla Resina per farla detonare. Danni: 1 per ogni accumulo di Resina.",
+          "JP": "直接ダメージを与えられない。的に松脂を最大3段階まで付与する。松脂はダメージを受けると爆発し、1段階につきダメージを1与える。",
+          "KR": "직접적인 피해를 주진 않는 대신, 표적에 '불타는 송진' 효과를 최대 3스택까지 부여할 수 있습니다. 해당 효과가 부여된 표적이 공격을 받으면 폭발하며 1스택마다 1포인트의 피해를 줍니다.",
+          "MX": "Aplica Resina (Máx.: 3 acumulaciones por objetivo). Inflige DAÑ a la Resina para detonarla. DAÑ: 1 por acumulación de Resina.",
+          "RU": "Накладывает смолу (макс. 3 заряда/цель). Нанесите УРН по смоле для детонации. УРН: 1 ед. за каждый заряд смолы.",
+          "TC": "不會直接造成傷害，可在標靶上最多疊加3層燃松，燃松受到傷害會產生爆炸，每層燃松爆炸造成1點傷害。",
+          "TH": "ติด​เร​ซิน​ (สูงสุด​: 3 ชั้น​/​เป้าหมาย​) สร้าง​ DMG ต่อ​เร​ซิน​เพื่อ​จุด​ระเบิด​ DMG: 1 ต่อ​ชั้น​เร​ซิน",
+          "VN": "Áp dụng Nhựa (Tối đa: 3 tầng/mục tiêu). Gây ST lên Nhựa để kích nổ. ST: 1 cho mỗi tầng Nhựa."
+        },
+        "chipId": "arrow_chip_bomb",
+        "chipName": {
+          "BR": "Resina Flamejante",
+          "CN": "燃松之脂",
+          "DE": "Flammendes Harz",
+          "EN": "Flaming Resin",
+          "FR": "Résine flamboyante",
+          "ID": "Resin Membara",
+          "IT": "Resina ardente",
+          "JP": "燃ゆる松脂",
+          "KR": "불타는 송진",
+          "MX": "Resina ardiente",
+          "RU": "Пылающая смола",
+          "TC": "燃松之脂",
+          "TH": "เร​ซิน​ที่​ลุกโชน",
+          "VN": "Nhựa Lửa"
+        },
+        "portableDeviceId": "item_arrow_chip_bomb",
+        "sortId": 4
+      },
+      "arrow_chip_frozen": {
+        "chipDesc": {
+          "BR": "Travar em: Mais rápido. DNO: 0. Congela o alvo por 5 segundos.",
+          "CN": "更快的锁定速度，可冻结靶标5秒，但无法对靶标造成伤害。",
+          "DE": "Anvisieren: Schneller. SDN: 0. Lässt das Ziel für 5 Sek. erstarren",
+          "EN": "Lock On: Faster. DMG: 0. Freezes target for 5s.",
+          "FR": "Verrouillage : plus rapide. DÉG : 0. Gèle la cible pendant 5 s.",
+          "ID": "Penguncian: Lebih Cepat. DMG: 0. Membekukan target selama 5 dtk.",
+          "IT": "Aggancia: più velocemente. Danni: 0. Congela il bersaglio per 5 secondi.",
+          "JP": "素早くロックオンし、5秒間的を凍結させる。ダメージを与えることはできない。",
+          "KR": "조준 속도가 증가하고, 표적을 5초간 동결시킵니다. 단, 피해는 주지 않습니다.",
+          "MX": "Fijar: Más rápido. DAÑ: 0. Congela al objetivo durante 5 s.",
+          "RU": "Захват цели: быстрый. УРН: 0 ед. Замораживает цель на 5 сек.",
+          "TC": "更快的鎖定速度，可凍結標靶5秒，但無法對標靶造成傷害。",
+          "TH": "ล็อก​เป้าหมาย​: เร็ว​ขึ้น​ DMG: 0 แช่แข็ง​เป้าหมาย​เป็นเวลา​ 5 วินาที",
+          "VN": "Khóa Mục Tiêu: Nhanh hơn. ST: 0. Đóng băng mục tiêu trong 5 giây."
+        },
+        "chipId": "arrow_chip_frozen",
+        "chipName": {
+          "BR": "Ponta Congelante",
+          "CN": "寒冰之簇",
+          "DE": "Reifspitze",
+          "EN": "Rime Tip",
+          "FR": "Pointe de givre",
+          "ID": "Ujung Embun Beku",
+          "IT": "Punta brinata",
+          "JP": "凍てつく矢",
+          "KR": "혹한의 결정",
+          "MX": "Punta de escarcha",
+          "RU": "Острие инея",
+          "TC": "寒冰之簇",
+          "TH": "ยอด​เกล็ด​น้ำแข็ง",
+          "VN": "Mũi Sương Giá"
+        },
+        "portableDeviceId": "item_arrow_chip_frozen",
+        "sortId": 3
+      },
+      "arrow_chip_multiple": {
+        "chipDesc": {
+          "BR": "Travar em: Até 7 alvos. DNO: 1",
+          "CN": "可同时锁定7个靶标，对靶标造成1点伤害。",
+          "DE": "Anvisieren: Bis zu 7 Ziele. SDN: 1",
+          "EN": "Lock On: Up to 7 targets. DMG: 1",
+          "FR": "Verrouillage : jusqu'à 7 cibles. DÉG : 1",
+          "ID": "Penguncian: Maks 7 target. DMG: 1",
+          "IT": "Aggancia: fino a 7 bersagli. Danni: 1",
+          "JP": "最大7個の的を同時にロックオンし、的に1ダメージ与える。",
+          "KR": "최대 7개의 표적을 동시에 조준하여 1포인트의 피해를 줍니다.",
+          "MX": "Fijar: Hasta 7 objetivos. DAÑ: 1",
+          "RU": "Захват цели: до 7 целей. УРН: 1 ед.",
+          "TC": "可同時鎖定7個標靶，對標靶造成1點傷害。",
+          "TH": "ล็อก​เป้าหมาย​: สูงสุด​ 7 ตัว​ DMG: 1",
+          "VN": "Khóa Mục Tiêu: Tối đa 7 mục tiêu. ST: 1."
+        },
+        "chipId": "arrow_chip_multiple",
+        "chipName": {
+          "BR": "Eco Persistente",
+          "CN": "游荡之声",
+          "DE": "Persistentes Echo",
+          "EN": "Persistent Echo",
+          "FR": "Écho persistant",
+          "ID": "Gema Berkepanjangan",
+          "IT": "Eco persistente",
+          "JP": "迷える声",
+          "KR": "떠도는 메아리",
+          "MX": "Eco persistente",
+          "RU": "Стойкое эхо",
+          "TC": "遊蕩之聲",
+          "TH": "เอคโค่​ต่อเนื่อง",
+          "VN": "Dư Âm Bất Tận"
+        },
+        "portableDeviceId": "item_arrow_chip_multiple",
+        "sortId": 1
+      },
+      "arrow_chip_penetrate": {
+        "chipDesc": {
+          "BR": "Perfura o alvo. DNO: 1 (a todos os alvos atingidos)",
+          "CN": "可穿透靶标并造成1点伤害。",
+          "DE": "Durchbohrt das Ziel. SDN: 1 (an allen getroffenen Zielen)",
+          "EN": "Pierces target. DMG: 1 (to all targets hit)",
+          "FR": "Transperce la cible. DÉG : 1 (pour toutes les cibles touchées)",
+          "ID": "Menembus target. DMG: 1 (kepada semua target yang terkena)",
+          "IT": "Perfora il bersaglio. Danni: 1 (a tutti i bersagli colpiti)",
+          "JP": "的を貫通し、ダメージを1与える。",
+          "KR": "적을 관통하고, 1포인트의 피해를 줍니다.",
+          "MX": "Perfora al objetivo. DAÑ: 1 (a todos los objetivos alcanzados)",
+          "RU": "Пробивает цель. УРН: 1 ед. (по всем пораженным целям).",
+          "TC": "可穿透標靶並造成1點傷害。",
+          "TH": "เจาะ​ทะลุเป้า​หมาย​ DMG: 1 (ต่อ​เป้าหมาย​ทั้งหมด​ที่​โดน​)",
+          "VN": "Xuyên qua mục tiêu. ST: 1 (cho tất cả các mục tiêu trúng đòn)."
+        },
+        "chipId": "arrow_chip_penetrate",
+        "chipName": {
+          "BR": "Quebra-Alvorecer",
+          "CN": "破曙之光",
+          "DE": "Morgenbrecher",
+          "EN": "Dawnbreaker",
+          "FR": "Brise-aurore",
+          "ID": "Pemecah Fajar",
+          "IT": "Spezzalba",
+          "JP": "夜を裂く光",
+          "KR": "여명을 가르는 빛",
+          "MX": "Rompealbas",
+          "RU": "Разрушитель зари",
+          "TC": "破曙之光",
+          "TH": "ดอว์น​เบรก​เกอร์",
+          "VN": "Kẻ Phá Bình Minh"
+        },
+        "portableDeviceId": "item_arrow_chip_penetrate",
+        "sortId": 5
+      },
+      "arrow_chip_shield_breaker": {
+        "chipDesc": {
+          "BR": "Travar em: Mais rápido. DNO: 2. Disparos repetidos causam mais DNO.",
+          "CN": "更快的锁定速度，对靶标可造成2点伤害，连续命中同一个靶标时伤害大幅度提高。",
+          "DE": "Anvisieren: Schneller. SDN: 2. Wiederholte Schüsse verursachen mehr SDN.",
+          "EN": "Lock On: Faster. DMG: 2. Repeated shots deal more DMG.",
+          "FR": "Verrouillage : plus rapide. DÉG : 2. Les tirs répétés infligent plus de DÉG.",
+          "ID": "Penguncian: Lebih cepat. DMG: 2. Tembakan beruntun akan menimbulkan DMG lebih besar.",
+          "IT": "Aggancia: più velocemente. Danni: 2. I colpi ripetuti infliggono danni maggiori.",
+          "JP": "素早くロックオンし、的に2ダメージ与える。同じ的を連続で命中すると、ダメージが大幅にアップする。",
+          "KR": "조준 속도가 증가하고 2포인트의 피해를 줍니다. 동일한 표적을 연속으로 맞추면 피해량이 크게 증가합니다.",
+          "MX": "Fijar: Más rápido. DAÑ: 2. Los disparos repetidos infligen más DAÑ.",
+          "RU": "Захват цели: быстрый. УРН: 2 ед. Повторные выстрелы наносят больше УРН.",
+          "TC": "更快的鎖定速度，對標靶可造成2點傷害，連續命中同一個標靶時傷害大幅度提高。",
+          "TH": "ล็อก​เป้าหมาย​: เร็ว​ขึ้น​ DMG: 2 การ​ยิง​ซ้ำ​จะ​สร้าง​ DMG มากขึ้น",
+          "VN": "Khóa Mục Tiêu: Nhanh hơn. ST: 2. Phát bắn lặp lại gây thêm sát thương."
+        },
+        "chipId": "arrow_chip_shield_breaker",
+        "chipName": {
+          "BR": "Fúria Bestial",
+          "CN": "蛮兽之怒",
+          "DE": "Tierische Wut",
+          "EN": "Beastly Rage",
+          "FR": "Rage bestiale",
+          "ID": "Amarah Ganas",
+          "IT": "Furia bestiale",
+          "JP": "狂獣激昂",
+          "KR": "비스트의 분노",
+          "MX": "Furia bestial",
+          "RU": "Звериная ярость",
+          "TC": "蠻獸之怒",
+          "TH": "ความ​พิโรธ​สัตว์ร้าย",
+          "VN": "Cuồng Nộ Dã Thú"
+        },
+        "portableDeviceId": "item_arrow_chip_shield_breaker",
+        "sortId": 2
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

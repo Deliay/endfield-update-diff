@@ -1,0 +1,1504 @@
+{
+  "tableName": "WikiTutorialPageTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 10,
+    "removed": 0,
+    "changed": 8
+  },
+  "entries": {
+    "added": {
+      "wiki_tut_adv_fog_lost_1": {
+        "content": {
+          "BR": "Há massas de <@gd.key>névoa espessa</> na Floresta Nevada. Você irá se <@gd.key>perder</> se entrar nela e será <@gd.key>teletransportado automaticamente</> para um local desconhecido.",
+          "CN": "雪松林中分布的<@gd.key>浓雾</>，进入后会<@gd.key>迷失方向</>，并<@gd.key>自动传送</>到未知地点。",
+          "DE": "Im Verschneiten Wald gibt es <@gd.key>dichte Nebelbänke</>. Gerätst du in sie hinein, <@gd.key>verläufst</> du dich und wirst <@gd.key>automatisch</> an einen unbekannten Ort <@gd.key>teleportiert</>.",
+          "EN": "There are masses of <@gd.key>thick fog</> in the Snowy Forest. You will be <@gd.key>lost</> if you walk into them and be <@gd.key>automatically teleported</> to an unknown location.",
+          "FR": "Des bancs de <@gd.key>brouillard épais</> recouvrent la forêt enneigée. Vous vous <@gd.key>perdrez</> en entrant dans l'un d'eux et il vous <@gd.key>téléportera automatiquement</> dans un lieu inconnu.",
+          "ID": "Ada massa <@gd.key>kabut tebal</> di Hutan Salju. Kamu akan <@gd.key>tersesat</> jika berjalan di dalamnya, dan akan <@gd.key>secara otomatis diteleportasi</> ke lokasi yang tidak diketahui.",
+          "IT": "Nella Foresta innevata ci sono banchi di <@gd.key>nebbia fitta</>. Se ci entri, <@gd.key>ti perderai</> e ti <@gd.key>teletrasporteranno automaticamente</> in una posizione sconosciuta.",
+          "JP": "雪松林には<@gd.key>霧</>が広がっている。中に入ると<@gd.key>方向を見失い</>、未知の場所へ<@gd.key>転送</>される。",
+          "KR": "눈 덮인 소나무 숲 곳곳에 퍼져 있는 <@gd.key>짙은 안개</>입니다. 안개 속에 들어가면 <@gd.key>방향을 잃고</>, 알 수 없는 장소로 <@gd.key>자동으로 이동</>됩니다.",
+          "MX": "Hay grandes concentraciones de <@gd.key>niebla espesa</> en el Bosque Nevado. Si entras en ellas, te <@gd.key>perderás</> y serás <@gd.key>teletransportado automáticamente</> a una ubicación desconocida.",
+          "RU": "В Снежном лесу бывает <@gd.key>густой туман</>. Если войдете в него, то <@gd.key>заблудитесь</>, и вас <@gd.key>телепортирует</> в неизвестное место.",
+          "TC": "雪松林中分布的<@gd.key>濃霧</>，進入後會<@gd.key>迷失方向</>，並<@gd.key>自動傳送</>到未知地點。",
+          "TH": "มี​กลุ่ม​<@gd.key>​หมอก​หนา​ทึบ​</>​กระจาย​ตัว​อยู่​ใน​ป่า​ขาวโพลน​ หาก​เดิน​เข้าไป​ คุณ​จะ​<@gd.key>​หลงทาง​</>​และ​ถูก​<@gd.key>​เท​เล​พอร์ต​โดยอัตโนมัติ​</>​ไป​ยัง​ตำแหน่ง​ที่​ไม่รู้​จัก",
+          "VN": "Trong Rừng Tuyết có những khối <@gd.key>sương mù dày đặc</>. Bạn sẽ bị <@gd.key>lạc</> nếu bước vào chúng và sẽ được <@gd.key>tự động dịch chuyển</> đến một vị trí không xác định."
+        },
+        "id": "wiki_tut_adv_fog_lost_1",
+        "image": "",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Névoa na Floresta",
+          "CN": "林中迷雾",
+          "DE": "Nebel des Waldes",
+          "EN": "Fog of the Forest",
+          "FR": "Brouillard de la forêt",
+          "ID": "Kabut Hutan",
+          "IT": "Nebbia della foresta",
+          "JP": "林中の霧",
+          "KR": "숲속 안개",
+          "MX": "Niebla del Bosque",
+          "RU": "Лесной туман",
+          "TC": "林中迷霧",
+          "TH": "หมอก​ป่า",
+          "VN": "Sương Mù Trong Rừng"
+        },
+        "tutorialId": "wiki_tut_adv_fog_lost",
+        "video": "guide_group_lsm_fog_lost",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_adv_magic_missile_1": {
+        "content": {
+          "BR": "O Sopro de Geada <@gd.key>rastreará automaticamente</> seu alvo e <@gd.key>impedirá o progresso</> do alvo atingido. Use <@gd.key>Flechas de Typhoeus</> para <@gd.key>dissipar</> o Sopro de Geada.",
+          "CN": "寒雾之息会<@gd.key>自动追踪</>目标，被寒雾之息击中会导致<@gd.key>前进受阻</>。\n使用<@gd.key>提弗洛斯的弓箭</>可以<@gd.key>清除</>寒雾之息。",
+          "DE": "Der Hauch des Raureifs <@gd.key>findet sein Ziel automatisch</> und <@gd.key>verlangsamt das Vorankommen</> des getroffenen Ziels. Verwende <@gd.key>Typhoeus’ Pfeile</>, um den Hauch des Raureifs <@gd.key>aufzuheben</>.",
+          "EN": "The Breath of Hoarfrost will <@gd.key>automatically track down</> its target and <@gd.key>impede the progress</> of the target it hits. Use <@gd.key>Typhoeus's arrows</> to <@gd.key>dispel</> the Breath of Hoarfrost.",
+          "FR": "Le souffle du givre <@gd.key>poursuit automatiquement</> sa cible et <@gd.key>l'entrave</> une fois qu'il la touche. Utilisez les <@gd.key>flèches de Typhoeus</> pour <@gd.key>dissiper</> le souffle du givre.",
+          "ID": "Napas Embun Beku akan <@gd.key>secara otomatis melacak</> targetnya dan <@gd.key>menghalangi progres</> target yang terkena olehnya. Gunakan <@gd.key>panah Typhoeus</> untuk <@gd.key>menghalau</> Napas Embun Beku.",
+          "IT": "L'Alito di gelo <@gd.key>inseguirà automaticamente</> il suo bersaglio e <@gd.key>ne ostacolerà l'avanzata</> quando lo colpisce. Usa <@gd.key>le frecce di Typhoeus</> per <@gd.key>dissolvere</> l'Alito di gelo.",
+          "JP": "寒霧の息吹は目標を<@gd.key>自動で追跡</>する。寒霧の息吹に命中すると<@gd.key>移動が妨げられる</>。\n<@gd.key>ティフォロスの弓矢</>で寒霧の息吹を<@gd.key>取り除くことができる</>。",
+          "KR": "한기 어린 안개의 숨결은 목표를 <@gd.key>자동으로 추적</>합니다. 한기 어린 안개의 숨결에 맞으면 <@gd.key>이동이 느려집니다</>.\n<@gd.key>티프로스의 활</>로 한기 어린 안개의 숨결을 <@gd.key>제거</>할 수 있습니다.",
+          "MX": "El Aliento de escarcha <@gd.key>rastreará automáticamente</> a su objetivo y <@gd.key>obstaculizará el avance</> del objetivo al que alcance. Usa <@gd.key>las flechas de Typhoeus</> para <@gd.key>disipar</> el Aliento de escarcha.",
+          "RU": "Дыхание инея <@gd.key>автоматически отслеживает</> цель и <@gd.key>замедляет</> ее при попадании. Дыхание инея можно <@gd.key>развеять</> <@gd.key>стрелами Тифеи</>.",
+          "TC": "寒霧之息會<@gd.key>自動追蹤</>目標，被寒霧之息擊中會導致<@gd.key>前進受阻</>。\n使用<@gd.key>提弗洛斯的弓箭</>可以<@gd.key>清除</>寒霧之息。",
+          "TH": "ลมหายใจ​แห่ง​น้ำแข็ง​เยือกแข็ง​จะ​<@gd.key>​ติดตาม​เป้าหมาย​โดยอัตโนมัติ​</> และ​<@gd.key>​ขัดขวาง​การ​เคลื่อนที่​</>​ของ​เป้าหมาย​ที่​โดน​ ใช้​<@gd.key>​ลูกธนู​ของ​ไท​ฟี​อุส​</>​เพื่อ​<@gd.key>​ขจัด​</>​ลมหายใจ​แห่ง​น้ำแข็ง​เยือกแข็ง",
+          "VN": "Hơi Thở Sương Giá sẽ <@gd.key>tự động truy đuổi</> mục tiêu và <@gd.key>cản trở bước tiến</> của mục tiêu bị đánh trúng. Hãy dùng <@gd.key>mũi tên của Typhoeus</> để <@gd.key>xua tan</> Hơi Thở Sương Giá."
+        },
+        "id": "wiki_tut_adv_magic_missile_1",
+        "image": "",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Sopro de Geada",
+          "CN": "寒雾之息",
+          "DE": "Hauch des Raureifs",
+          "EN": "Breath of Hoarfrost",
+          "FR": "Souffle du givre",
+          "ID": "Napas Embun Beku",
+          "IT": "Alito di gelo",
+          "JP": "<p=\"かんむ\" padding=0>寒霧</p>の息吹",
+          "KR": "한기 어린 안개의 숨결",
+          "MX": "Aliento de escarcha",
+          "RU": "Дыхание инея",
+          "TC": "寒霧之息",
+          "TH": "ลมหายใจ​แห่ง​น้ำแข็ง​เยือกแข็ง",
+          "VN": "Hơi Thở Sương Giá"
+        },
+        "tutorialId": "wiki_tut_adv_magic_missile",
+        "video": "guide_group_magic_missile",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_adv_magic_pumice2_1": {
+        "content": {
+          "BR": "Algumas rochas flutuantes na Floresta Nevada só poderão se mover após <@gd.key>determinadas runas serem fragmentadas</> pelas flechas de Typhoeus.",
+          "CN": "雪松林空中的部分浮石需要先用提弗洛斯的弓箭<@gd.key>击破符文</>，才能自行移动。",
+          "DE": "Einige schwebende Felsen im Verschneiten Wald bewegen sich erst, nachdem du mit Typhoeus’ Bogen <@gd.key>bestimmte Runen zersplittert hast</>.",
+          "EN": "Some floating rocks in the Snowy Forest can only move after <@gd.key>shattering certain runes</> with Typhoeus's arrows.",
+          "FR": "Certains rochers flottants de la forêt enneigée ne pourront bouger qu'après avoir <@gd.key>détruit certaines runes</> avec les flèches de Typhoeus.",
+          "ID": "Sebagian batuan melayang di Hutan Salju hanya bisa bergerak setelah kamu <@gd.key>menghancurkan aksara tertentu</> dengan panah Typhoeus.",
+          "IT": "Alcune rocce fluttuanti nella Foresta innevata possono muoversi solo dopo aver <@gd.key>infranto determinate rune</> con le frecce di Typhoeus.",
+          "JP": "雪松林の宙に浮かぶ一部の岩は、ティフォロスの弓矢で<@gd.key>ルーンを破壊</>すると移動するようになる。",
+          "KR": "눈 덮인 소나무 숲 상공의 일부 부유석은 티프로스의 활로 <@gd.key>룬을 파괴</>해야 움직이기 시작합니다.",
+          "MX": "Algunas rocas flotantes del Bosque Nevado solo pueden moverse después de <@gd.key>Quebrar ciertas runas</> con las flechas de Typhoeus.",
+          "RU": "Некоторые парящие камни в Снежном лесу придут в движение, только если <@gd.key>расколоть определенные руны</> стрелами Тифеи.",
+          "TC": "雪松林空中的部分浮石需要先用提弗洛斯的弓箭<@gd.key>擊破符文</>，才能自行移動。",
+          "TH": "หิน​ลอย​บาง​ก้อน​ใน​ป่า​ขาวโพลน​จะ​เคลื่อนที่​ได้​ก็ต่อเมื่อ​<@gd.key>​ทำลาย​รูน​ที่​กำหนด​</>​ด้วย​ลูกธนู​ของ​ไท​ฟี​อุส​เท่านั้น",
+          "VN": "Một số tảng đá nổi trong Rừng Tuyết chỉ có thể di chuyển sau khi Typhoeus dùng mũi tên <@gd.key>phá vỡ một số phù văn nhất định</>."
+        },
+        "id": "wiki_tut_adv_magic_pumice2_1",
+        "image": "",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Ativação da Rocha Flutuante",
+          "CN": "激活空中浮石",
+          "DE": "Schwebender Felsen: Aktivierung",
+          "EN": "Floating Rock Activation",
+          "FR": "Rocher flottant : activation",
+          "ID": "Aktivasi Batu Melayang",
+          "IT": "Attivazione della roccia fluttuante",
+          "JP": "宙に浮かぶ岩の起動",
+          "KR": "공중 부유석 활성화",
+          "MX": "Activación de rocas flotantes",
+          "RU": "Активация парящего камня",
+          "TC": "啟用空中浮石",
+          "TH": "การ​เปิด​ใช้งาน​หิน​ลอย",
+          "VN": "Kích Hoạt Đá Nổi"
+        },
+        "tutorialId": "wiki_tut_adv_magic_pumice2",
+        "video": "guide_group_magic_pumice2",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_adv_magic_pumice_1": {
+        "content": {
+          "BR": "Existem <@gd.key>rochas flutuantes gigantes</> na Floresta Nevada. Elas começam a se <@gd.key>mover</> assim que alguém pisa nelas.",
+          "CN": "雪松林空中<@gd.key>飘浮的巨石</>，走上去后浮石会开始<@gd.key>自行移动</>。",
+          "DE": "Im Verschneiten Wald gibt es <@gd.key>riesige schwebende Felsen</>. Sie <@gd.key>bewegen</> sich, wenn jemand auf sie tritt.",
+          "EN": "There are <@gd.key>giant, floating rocks</> in the Snowy Forest. They will <@gd.key>start moving</> when someone steps on them.",
+          "FR": "De <@gd.key>gigantesques rochers flottants</> se trouvent dans la forêt enneigée. Ils <@gd.key>commencent à bouger</> quand quelqu'un marche dessus.",
+          "ID": "Ada <@gd.key>batuan raksasa melayang</> di Hutan Salju. Batuan ini akan <@gd.key>mulai bergerak</> jika diinjak.",
+          "IT": "Nella Foresta innevata ci sono <@gd.key>gigantesche rocce fluttuanti</>. <@gd.key>Inizieranno a muoversi</> quando qualcuno ci sale sopra.",
+          "JP": "雪松林は宙に<@gd.key>岩が浮かんでいる</>。上に乗ると浮かぶ岩が<@gd.key>自動で移動</>を開始する。",
+          "KR": "눈 덮인 소나무 숲 상공에 <@gd.key>떠 있는 바위</>입니다. 위에 올라서면 <@gd.key>스스로 움직이기 시작</>합니다.",
+          "MX": "Hay <@gd.key>rocas flotantes gigantes</> en el Bosque Nevado. <@gd.key>Comenzarán a moverse</> cuando alguien los pise.",
+          "RU": "В Снежном лесу встречаются <@gd.key>огромные парящие камни</>. Они <@gd.key>приходят в движение</>, если на них наступить.",
+          "TC": "雪松林空中<@gd.key>飄浮的巨石</>，走上去後浮石會開始<@gd.key>自行移動</>。",
+          "TH": "มี​<@gd.key>​หิน​ยักษ์​ลอย​</>​อยู่​ใน​ป่า​ขาวโพลน​ หิน​จะ​เริ่ม​<@gd.key>​ขยับ​</>​เมื่อ​มี​ใคร​เดิน​ไป​เหยียบ",
+          "VN": "Trong Rừng Tuyết có những tảng <@gd.key>đá nổi khổng lồ</>. Chúng sẽ <@gd.key>bắt đầu di chuyển</> khi có người bước lên."
+        },
+        "id": "wiki_tut_adv_magic_pumice_1",
+        "image": "",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Rocha Flutuante",
+          "CN": "空中浮石",
+          "DE": "Schwebender Felsen",
+          "EN": "Floating Rock",
+          "FR": "Rocher flottant",
+          "ID": "Batu Melayang",
+          "IT": "Roccia fluttuante",
+          "JP": "宙に浮かぶ岩",
+          "KR": "공중 부유석",
+          "MX": "Roca flotante",
+          "RU": "Парящий камень",
+          "TC": "空中浮石",
+          "TH": "หิน​ลอย",
+          "VN": "Đá Nổi"
+        },
+        "tutorialId": "wiki_tut_adv_magic_pumice",
+        "video": "guide_group_magic_pumice",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_adv_missile_rune_1": {
+        "content": {
+          "BR": "A runa é o núcleo de sustentação da Geada do Bosque. <@gd.key>Fragmente as runas</> para dissipar a <@gd.key>Geada do Bosque</>.",
+          "CN": "符文是维持林中寒雾的核心，<@gd.key>击破符文</>可以<@gd.key>清除林中寒雾</>。",
+          "DE": "Die Rune ist der Kern, durch den die Reifbedeckten Wälder erzeugt werden. <@gd.key>Zersplittere die Runen</>, um die <@gd.key>Reifbedeckten Wälder</> zu läutern.",
+          "EN": "The rune is the core that sustains the Hoarfrost of the Woods. <@gd.key>Shatter the runes</> to dispel the <@gd.key>Hoarfrost of the Woods</>.",
+          "FR": "La rune constitue le cœur du givre sylvestre. <@gd.key>Détruisez les runes</> pour dissiper le <@gd.key>givre sylvestre</>.",
+          "ID": "Aksara adalah inti yang menopang Embun Beku Hutan. <@gd.key>Hancurkan aksara</> untuk menghalau <@gd.key>Embun Beku Hutan</>.",
+          "IT": "La runa è il nucleo che sostiene la Brina dei boschi. <@gd.key>Infrangi le rune</> per dissolvere la <@gd.key>Brina dei boschi</>.",
+          "JP": "ルーンは林中の寒霧を維持する核である。<@gd.key>ルーンを破壊</>すると<@gd.key>林中の寒霧を取り除くことができる</>。",
+          "KR": "한기가 가득한 숲은 룬을 중심으로 펼쳐집니다. <@gd.key>룬을 파괴</>하면 <@gd.key>한기가 가득한 숲</>을 제거할 수 있습니다.",
+          "MX": "La runa es el núcleo que mantiene la Escarcha del Bosque. <@gd.key>Quiebra las runas</> para disipar la <@gd.key>Escarcha del Bosque</>.",
+          "RU": "Руна — это ядро, которое поддерживает <@gd.key>Лесную изморозь</>. Чтобы развеять ее, <@gd.key>расколите руны</>.",
+          "TC": "符文是維持林中寒霧的核心，<@gd.key>擊破符文</>可以<@gd.key>清除林中寒霧</>。",
+          "TH": "รูน​คือ​แกน​หลัก​ที่​ค้ำจุน​น้ำแข็ง​เยือกแข็ง​แห่ง​พงไพร​ <@gd.key>​ทำลาย​รูน​</>​เพื่อ​ขจัด​<@gd.key>​น้ำแข็ง​เยือกแข็ง​แห่ง​พงไพร​</>",
+          "VN": "Phù văn là lõi duy trì Sương Giá Trong Rừng. Hãy <@gd.key>phá vỡ các phù văn</> để xua tan <@gd.key>Sương Giá Trong Rừng</>."
+        },
+        "id": "wiki_tut_adv_missile_rune_1",
+        "image": "",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Arranjo de Proteção: Runa",
+          "CN": "防护法阵的符文",
+          "DE": "Schützende Säulenreihe: Rune",
+          "EN": "Protective Array: Rune",
+          "FR": "Matrice de protection : rune",
+          "ID": "Rangkaian Pelindung: Aksara",
+          "IT": "Schiera protettiva: runa",
+          "JP": "防衛の陣のルーン",
+          "KR": "방호 진법의 룬",
+          "MX": "Formación protectora: Runa",
+          "RU": "Защитный массив: руна",
+          "TC": "防護法陣的符文",
+          "TH": "แนว​เสา​ป้องกัน​: รูน",
+          "VN": "Trận Pháp Bảo Hộ: Phù Văn"
+        },
+        "tutorialId": "wiki_tut_adv_missile_rune",
+        "video": "guide_group_magic_missile_rune",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_adv_shield_monster_2": {
+        "content": {
+          "BR": "Quando o número de <@gd.key>acúmulos de escudo</> atingir ZERO, o status de Escudos Acumulados do inimigo poderá ser dissipado para recuperar PH.",
+          "CN": "<@gd.key>层叠护盾</>层数削减到0后，可以消除敌人的护盾覆盖状态，并恢复一定技力。",
+          "DE": "Fällt die Anzahl der <@gd.key>Schild-Kumulierungen</> auf NULL, können die kumulierten Schilde des Gegners aufgehoben werden, um einige FP wiederherzustellen.",
+          "EN": "When the number of <@gd.key>shield stacks</> reaches ZERO, the enemy's Stacked Shields status can be dispelled to recover some SP.",
+          "FR": "Lorsque le nombre de <@gd.key>cumuls de protection</> tombe à zéro, le statut de protection de l'ennemi peut être dissipé pour récupérer des PC.",
+          "ID": "Saat jumlah <@gd.key>tumpukan perisai</> mencapai NOL, status Perisai Bertumpuk musuh bisa dihilangkan untuk memulihkan sejumlah SP.",
+          "IT": "Quando il numero di <@gd.key>accumuli di scudo</> scende a ZERO, lo stato Scudi accumulati del nemico può essere dissolto per recuperare qualche PA.",
+          "JP": "<@gd.key>多重シールド</>が0になると、敵のシールド状態を除去でき、SPが一定量回復する。",
+          "KR": "<@gd.key>중첩한 보호</>의 스택 수치가 0이 되면 적의 보호 적용 상태를 제거하고, 일정량의 스킬 게이지를 회복합니다.",
+          "MX": "Cuando el número de <@gd.key>acumulaciones de escudo</> llega a CERO, se puede disipar el estado Escudos acumulados del enemigo para recuperar cierta cantidad de PH.",
+          "RU": "Когда количество <@gd.key>зарядов щита</> падает до нуля, вы можете развеять состояние врага «Многослойные щиты» и восстановить немного ОН.",
+          "TC": "<@gd.key>層疊護盾</>層數削減到0後，可以消除敵人的護盾覆蓋狀態，並回復一定技力。",
+          "TH": "เมื่อ​จำนวน​<@gd.key>​ชั้น​โล่​</>​เหลือ​ 0 สามารถ​ลบล้าง​สถานะ​โล่​ซ้อนทับ​ของ​ศัตรู​เพื่อ​ฟื้นฟู​ SP บางส่วน​ได้",
+          "VN": "Khi số <@gd.key>tầng Khiên</> giảm về 0, có thể xua tan trạng thái Khiên Cộng Dồn của kẻ địch để hồi một lượng Điểm Kỹ Năng."
+        },
+        "id": "wiki_tut_adv_shield_monster_2",
+        "image": "",
+        "order": 2,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Acúmulo de Escudo (2)",
+          "CN": "层叠护盾 - 二",
+          "DE": "Schild-Kumulierung (2)",
+          "EN": "Shield Stack (2)",
+          "FR": "Cumul de protection (2)",
+          "ID": "Tumpukan Perisai (2)",
+          "IT": "Accumulo di scudo (2)",
+          "JP": "多重シールド - 2",
+          "KR": "중첩한 보호 - 2",
+          "MX": "Acumulación de escudo (2)",
+          "RU": "Заряд щита (2)",
+          "TC": "層疊護盾 - 二",
+          "TH": "ชั้น​โล่​ (2)",
+          "VN": "Tầng Khiên (2)"
+        },
+        "tutorialId": "wiki_tut_adv_shield_monster",
+        "video": "guide_group_magic_shield_monster",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_adv_shield_monster_1": {
+        "content": {
+          "BR": "Quando os inimigos têm <@gd.key>acúmulos de escudo</>, elas são <@gd.key>imunes</> a todas as formas de DNO, <#ba.spellinflict>Inflições de Artes</>, <#ba.spellstatus>Reações de Artes</> e <#ba.noguard>Vulnerabilidade</> e <#ba.physicalstatus>Status Físicos</>. Atingi-las com <@gd.key>Golpes Finais ou habilidades</> pode remover acúmulos de escudo. Cada Golpe Final ou habilidade pode remover somente 1 acúmulo de escudo.",
+          "CN": "敌人拥有<@gd.key>层叠护盾</>期间，<@gd.key>免疫</>一切伤害、<#ba.spellinflict>法术附着</>、<#ba.spellstatus>法术异常</>、<#ba.noguard>破防</>和<#ba.physicalstatus>物理异常</>。\n<@gd.key>重击或技能</>命中可以削减护盾层数，每次最多只能削减1层。",
+          "DE": "Verfügen Gegner über <@gd.key>Schild-Kumulierungen</>, sind sie <@gd.key>immun</> gegen alle Arten von SDN, <#ba.spellinflict>Technikkumulierungen</>, <#ba.spellstatus>Technikreaktionen</>, <#ba.noguard>Anfälligkeit</> und <#ba.physicalstatus>Physische Zustände</>. Triffst du sie mit <@gd.key>Abschlussangriffen oder Fertigkeiten</>, kannst du ihre Schild-Kumulierungen entfernen. Jeder Abschlussangriff oder jede Fertigkeit kann nur 1 Schild-Kumulierung entfernen.",
+          "EN": "When enemies have <@gd.key>shield stack(s)</>, they are <@gd.key>immune</> to all forms of DMG, <#ba.spellinflict>Arts Inflictions</>, <#ba.spellstatus>Arts Reactions</>, <#ba.noguard>Vulnerability</>, and <#ba.physicalstatus>Physical Statuses</>. Hitting them with <@gd.key>Final Strikes or skills</> can remove shield stacks. Each Final Strike or skill can only remove 1 shield stack.",
+          "FR": "Lorsque les ennemis possèdent un ou plusieurs <@gd.key>cumuls de protection</>, ils sont <@gd.key>immunisés</> contre tous les types de dégâts, les <#ba.spellinflict>altérations des Arts</>, les <#ba.spellstatus>réactions aux Arts</>, la <#ba.noguard>Vulnérabilité</> et les <#ba.physicalstatus>statuts physiques</>. Les toucher avec des <@gd.key>Coups finaux ou des compétences</> permet de retirer les cumuls de protection. Chaque Coup final ou compétence ne peut retirer qu'un seul cumul.",
+          "ID": "Ketika musuh punya <@gd.key>tumpukan perisai</>, mereka akan menjadi <@gd.key>kebal</> terhadap semua bentuk DMG, <#ba.spellinflict>Arts Infliction</>, <#ba.spellstatus>Arts Reaction</>, <#ba.noguard>Vulnerability</>, dan <#ba.physicalstatus>Status Fisik</>. Jika terkena <@gd.key>Final Strike atau skill</>, mereka akan kehilangan tumpukan perisai. Setiap Final Strike atau skill hanya bisa menghilangkan 1 tumpuk perisai.",
+          "IT": "Quando i nemici hanno <@gd.key>accumuli di scudo</>, sono <@gd.key>immuni</> a tutti i danni, <#ba.spellinflict>Afflizioni da Arti</>, <#ba.spellstatus>Reazioni delle Arti</>, <#ba.noguard>Vulnerabilità</> e <#ba.physicalstatus>stati fisici</>. Colpirle con <@gd.key>colpi finali o abilità</> può rimuovere gli accumuli di scudo. Ogni colpo finale o abilità può rimuovere solo 1 accumulo di scudo.",
+          "JP": "敵は<@gd.key>多重シールド</>を持つ間、すべてのダメージ、<#ba.spellinflict>アーツ付着</>、<#ba.spellstatus>アーツ異常</>、<#ba.noguard>クラッシュ</>、<#ba.physicalstatus>物理異常</>を<@gd.key>無効化</>する。\n<@gd.key>重攻撃またはスキル</>を命中させるとシールドを1段階減らすことができる。なお、1回で減らせるのは最大1段階まで。",
+          "KR": "적은 <@gd.key>중첩한 보호</>가 유지되는 동안 모든 피해, <#ba.spellinflict>아츠 부착</>, <#ba.spellstatus>아츠 이상</>, <#ba.noguard>방어 불능</> 및 <#ba.physicalstatus>물리 이상</>에 <@gd.key>면역</>됩니다.\n<@gd.key>강력한 일격이나 스킬</>이 명중하면 보호 스택 수치를 감소시킬 수 있으며, 명중 1회당 최대 1스택만 감소시킬 수 있습니다.",
+          "MX": "Cuando los enemigos tienen <@gd.key>acumulaciones de escudo</>, son <@gd.key>inmunes</> a todas las formas de DAÑ, <#ba.spellinflict>Imposiciones de artes</>, <#ba.spellstatus>Reacciones a artes</>, <#ba.noguard>Vulnerabilidad</> y <#ba.physicalstatus>Estados físicos</>. Golpearlas con <@gd.key>Golpes finales o habilidades</> puede eliminar acumulaciones de escudo. Cada Golpe final o habilidad solo puede eliminar 1 acumulación de escudo.",
+          "RU": "Пока у врагов есть <@gd.key>заряды щита</>, они <@gd.key>невосприимчивы</> ко всем видам УРН, <#ba.spellinflict>поражению искусствами</>, <#ba.spellstatus>реакциям искусств</>, <#ba.noguard>уязвимости</> и <#ba.physicalstatus>физическим состояниям</>. Попадания <@gd.key>последними ударами или навыками</> снимают заряды щита. Одно попадание снимает только 1 заряд.",
+          "TC": "敵人擁有<@gd.key>層疊護盾</>期間，<@gd.key>免疫</>一切傷害、<#ba.spellinflict>法術附著</>、<#ba.spellstatus>法術異常</>、<#ba.noguard>破防</>和<#ba.physicalstatus>物理異常</>。\n<@gd.key>重擊或技能</>命中可以削減護盾層數，每次最多只能削減1層。",
+          "TH": "เมื่อ​ศัตรู​มี​<@gd.key>​ชั้น​โล่​</> จะ​<@gd.key>​ไม่ได้​รับ​ผล​</>​จาก​ DMG ทุก​รูปแบบ​ การติ​ด​<#ba.spellinflict>​สถานะ​เวท​</> <#ba.spellstatus>​ปฏิกิริยา​เวท​</> <#ba.noguard>​ความ​เปราะบาง​</> และ​<#ba.physicalstatus>​สถานะ​กายภาพ​</> เมื่อ​โจมตี​พวก​มัน​ด้วย​<@gd.key>​การ​โจมตี​พิฆาต​หรือ​ทักษะ​</> จะ​สามารถ​ลด​ชั้น​โล่​คุ้มกัน​ได้​ การ​โจมตี​พิฆาต​หรือ​ทักษะ​แต่ละครั้ง​จะ​ลด​ชั้น​โล่​คุ้มกัน​ได้​ 1 ชั้น",
+          "VN": "Khi kẻ địch còn <@gd.key>tầng Khiên</>, chúng sẽ <@gd.key>miễn nhiễm</> với mọi dạng ST, <#ba.spellinflict>Nhiễm Thuật Pháp</>, <#ba.spellstatus>Phản Ứng Thuật Pháp</>, <#ba.noguard>Trừ Giáp</> và <#ba.physicalstatus>Trạng Thái Vật Lý</>. Đánh trúng chúng bằng <@gd.key>Đòn Dứt Điểm hoặc kỹ năng</> có thể xóa tầng Khiên. Mỗi Đòn Dứt Điểm hoặc kỹ năng chỉ có thể xóa 1 tầng Khiên."
+        },
+        "id": "wiki_tut_adv_shield_monster_1",
+        "image": "",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Acúmulo de Escudo (1)",
+          "CN": "层叠护盾 - 一",
+          "DE": "Schild-Kumulierung (1)",
+          "EN": "Shield Stack (1)",
+          "FR": "Cumul de protection (1)",
+          "ID": "Tumpukan Perisai (1)",
+          "IT": "Accumulo di scudo (1)",
+          "JP": "多重シールド - 1",
+          "KR": "중첩한 보호 - 1",
+          "MX": "Acumulación de escudo (1)",
+          "RU": "Заряд щита (1)",
+          "TC": "層疊護盾 - 一",
+          "TH": "ชั้น​โล่​ (1)",
+          "VN": "Tầng Khiên (1)"
+        },
+        "tutorialId": "wiki_tut_adv_shield_monster",
+        "video": "guide_group_magic_shield_monster",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_adv_shooting_rune_1": {
+        "content": {
+          "BR": "O <@gd.key>arco e as flechas de Typhoeus</> podem ser usados na Floresta Nevada para fragmentar runas, dissipar arranjos de proteção na Floresta Nevada e dissipar a névoa espessa em algumas áreas.",
+          "CN": "在雪松林中使用<@gd.key>提弗洛斯的弓箭</>，可以击破符文，破除雪松林中的防护阵法，清除对应范围的浓雾。",
+          "DE": "Du kannst <@gd.key>Typhoeus’ Pfeil und Bogen</> im Verschneiten Wald einsetzen, um Runen zu zersplittern, schützende Säulenreihen zu entfernen und den dichten Nebel in bestimmten Bereichen aufzulösen.",
+          "EN": "<@gd.key>Typhoeus's bow and arrows</> can be used in the Snowy Forest to shatter runes, dispel protective arrays in the Snowy Forest, and dispel the thick fog in certain areas.",
+          "FR": "Vous pouvez utiliser <@gd.key>l'arc et les flèches de Typhoeus</> dans la forêt enneigée pour détruire des runes et dissiper les matrices de protection de la forêt enneigée ainsi que le brouillard épais qui recouvre certaines zones.",
+          "ID": "<@gd.key>Busur dan panah Typhoeus</> bisa digunakan di Hutan Salju untuk menghancurkan aksara, menghalau rangkaian pelindung di Hutan Salju, dan menghalau kabut tebal di area-area tertentu.",
+          "IT": "<@gd.key>L'arco e le frecce di Typhoeus</> possono essere usati nella Foresta innevata per infrangere rune, disattivare schiere protettive nella Foresta innevata e dissolvere la nebbia fitta in alcune aree.",
+          "JP": "雪松林で<@gd.key>ティフォロスの弓矢</>を使うと、ルーンを破壊して雪松林の防衛の陣を解除し、対応する範囲の霧を取り除くことができる。",
+          "KR": "눈 덮인 소나무 숲에서 <@gd.key>티프로스의 활</>을 사용하면 룬을 파괴하고 방호 진법을 해제해 해당 범위의 짙은 안개를 걷어 낼 수 있습니다.",
+          "MX": "<@gd.key>El arco y flechas de Typhoeus</> se pueden usar en el Bosque Nevado para Quebrar runas, disipar formaciones protectoras y despejar la niebla espesa de ciertas áreas.",
+          "RU": "С помощью <@gd.key>лука и стрел Тифеи</> можно раскалывать руны и развеивать защитные массивы в Снежном лесу, а также развеивать густой туман в некоторых областях.",
+          "TC": "在雪松林中使用<@gd.key>提弗洛斯的弓箭</>，可以擊破符文，破除雪松林中的防護陣法，清除對應範圍的濃霧。",
+          "TH": "<@gd.key>​ธนู​และ​ลูกธนู​ของ​ไท​ฟี​อุส​</>​สามารถ​ใช้​ใน​ป่า​ขาวโพลน​เพื่อ​ทำลาย​รูน​ ขจัด​แนว​เสา​ป้องกัน​ใน​ป่า​ขาวโพลน​ และ​ขจัด​หมอก​หนา​ทึบ​ใน​บาง​พื้นที่",
+          "VN": "<@gd.key>Cung và tên của Typhoeus</> có thể được sử dụng trong Rừng Tuyết để phá vỡ phù văn, xua tan các trận pháp bảo hộ trong Rừng Tuyết và xua tan sương mù dày đặc ở một số khu vực nhất định."
+        },
+        "id": "wiki_tut_adv_shooting_rune_1",
+        "image": "",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Arco e Flechas de Typhoeus",
+          "CN": "提弗洛斯的弓箭",
+          "DE": "Typhoeus’ Pfeil und Bogen",
+          "EN": "Typhoeus's Bow and Arrows",
+          "FR": "Arc et flèches de Typhoeus",
+          "ID": "Busur dan Panah Typhoeus",
+          "IT": "Arco e frecce di Typhoeus",
+          "JP": "ティフォロスの弓矢",
+          "KR": "티프로스의 활",
+          "MX": "Arco y flechas de Typhoeus",
+          "RU": "Лук и стрелы Тифеи",
+          "TC": "提弗洛斯的弓箭",
+          "TH": "ธนู​และ​ลูกธนู​ของ​ไท​ฟี​อุส",
+          "VN": "Cung và Tên của Typhoeus"
+        },
+        "tutorialId": "wiki_tut_adv_shooting_rune",
+        "video": "guide_group_shooting_rune",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_sys_archery_training_2": {
+        "content": {
+          "BR": "Gaste <@gd.key>letras de câmbio</> para desbloquear e <@gd.key>aumentar o nível</> do Estande de Arco e Flecha de Typhoeus. Aumentar o nível do estande de arco e flecha desbloqueia mais estágios que você pode concluir para ganhar recompensas generosas.",
+          "CN": "花费<@gd.key>调度券</>，可以解锁提弗洛斯的靶场，并提升<@gd.key>靶场等级</>。\n提升靶场等级后，能够解锁更多关卡，获得更丰厚的通关奖励。",
+          "DE": "Gib <@gd.key>Aktiennoten</> aus, um Typhoeus’ Bogenschießanlage freizuschalten und <@gd.key>ihr Level zu erhöhen</>. Indem du das Level der Bogenschießanlage erhöhst, schaltest du weitere Phasen frei, die du abschließen kannst, um noch großzügigere Belohnungen zu erhalten.",
+          "EN": "Spend <@gd.key>stock bills</> to unlock and <@gd.key>level up</> Typhoeus's Archery Range. Leveling up the archery range unlocks more stages that can be completed for generous rewards.",
+          "FR": "Dépensez des <@gd.key>billets de réserves</> pour débloquer et <@gd.key>améliorer</> le Pas de tir à l'arc de Typhoeus. Améliorer le pas de tir à l'arc débloque plus de niveaux, que vous pouvez ensuite terminer pour obtenir de généreuses récompenses.",
+          "ID": "Pakai <@gd.key>surat saham</> untuk membuka dan <@gd.key>menaikkan level</> Lapangan Panahan Typhoeus. Dengan menaikkan level lapangan panahan, makin banyak stage akan terbuka dan bisa kamu selesaikan untuk mendapatkan imbalan berlimpah.",
+          "IT": "Spendi <@gd.key>buoni acquisto</> per sbloccare e <@gd.key>aumentare di livello</> il poligono di tiro con l'arco di Typhoeus. Aumentare di livello il poligono di tiro con l'arco sblocca altre fasi che possono essere completate per ottenere ricompense generose.",
+          "JP": "<@gd.key>取引券</>を消費すると、ティフォロスの射場を解放でき、さらに<@gd.key>射場レベル</>を上げることができる。\n射場をレベルアップすると、より多くのステージが解放され、クリア報酬がより豪華になる。",
+          "KR": "<@gd.key>관리권</>을 사용해 티프로스의 활터를 잠금 해제하고 <@gd.key>활터 레벨</>을 올릴 수 있습니다.\n활터 레벨이 오르면 더 많은 스테이지가 잠금 해제되며, 더욱 풍성한 완료 보상을 획득할 수 있습니다.",
+          "MX": "Gasta <@gd.key>vales de crédito</> para desbloquear y <@gd.key>subir de nivel</> el Campo de tiro con arco de Typhoeus. Subir de nivel el campo de tiro con arco desbloquea más fases que puedes completar para obtener generosas recompensas.",
+          "RU": "Откройте стрельбище Тифеи и <@gd.key>повышайте его уровень</> за <@gd.key>облигации</>. Там появятся новые стадии, которые сулят щедрые награды.",
+          "TC": "花費<@gd.key>調度券</>，可以解鎖提弗洛斯的靶場，並提升<@gd.key>靶場等級</>。\n提升靶場等級後，能夠解鎖更多關卡，獲得更豐厚的通關獎勵。",
+          "TH": "ใช้​<@gd.key>​ธนบัตร​คลัง​</>​เพื่อ​ปลดล็อก​และ​<@gd.key>​เพิ่ม​เล​เวล​</>​สนาม​ยิง​ธนู​ของ​ไท​ฟี​อุส​ การ​เพิ่ม​เล​เวล​สนาม​ยิง​ธนู​จะ​ปลดล็อก​ด่าน​เพิ่มเติม​ ซึ่ง​สามารถ​ผ่าน​ด่าน​เพื่อ​รับรางวัล​มากมาย",
+          "VN": "Tiêu hao <@gd.key>phiếu hàng</> để mở khóa và <@gd.key>nâng cấp</> Trường Bắn Cung Của Typhoeus. Nâng cấp Trường Bắn Cung sẽ mở khóa thêm nhiều màn chơi có thể hoàn thành để nhận phần thưởng hậu hĩnh."
+        },
+        "id": "wiki_tut_sys_archery_training_2",
+        "image": "guide_pic_archery_2",
+        "order": 2,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Estande de Arco e Flecha de Typhoeus: Desbloqueios e Upgrades",
+          "CN": "提弗洛斯的靶场 - 解锁与升级",
+          "DE": "Typhoeus’ Bogenschießanlage: Freischaltung und Verbesserung",
+          "EN": "Typhoeus's Archery Range: Unlocks and Upgrades",
+          "FR": "Pas de tir à l'arc de Typhoeus : déblocages et améliorations",
+          "ID": "Lapangan Panahan Typhoeus: Membuka dan Meng-Upgrade",
+          "IT": "Poligono di tiro con l'arco di Typhoeus: sblocchi e potenziamenti",
+          "JP": "ティフォロスの射場 - 解放とレベルアップ",
+          "KR": "티프로스의 활터 - 잠금 해제와 업그레이드",
+          "MX": "Campo de tiro con arco de Typhoeus: Desbloqueos y mejoras",
+          "RU": "Открытие и улучшение стрельбища Тифеи",
+          "TC": "提弗洛斯的靶場 - 解鎖與升級",
+          "TH": "สนาม​ยิง​ธนู​ของ​ไท​ฟี​อุส​: การปลด​ล็อก​และ​อัป​เกรด",
+          "VN": "Trường Bắn Cung Của Typhoeus: Mở Khóa và Nâng Cấp"
+        },
+        "tutorialId": "wiki_tut_sys_archery_training",
+        "video": "",
+        "videoDeviceType": "Common"
+      },
+      "wiki_tut_sys_archery_training_1": {
+        "content": {
+          "BR": "No Estande de Arco e Flecha de Typhoeus, conclua estágios de Treinamento Básico para desbloquear vários <@gd.key>chips de flecha</>. Defina e equipe diferentes chips de flecha para concluir estágios de <@gd.key>Treinamento Avançado</> e <@gd.key>Exercício Diário</> e ganhar várias recompensas.",
+          "CN": "在提弗洛斯的靶场，可以通过完成基础教学解锁多种<@gd.key>箭矢芯片</>，通过配置不同的箭矢芯片完成<@gd.key>进阶训练</>和<@gd.key>日常训练</>，获取对应奖励。",
+          "DE": "Schließe Phasen des Grundlagentrainings auf Typhoeus’ Bogenschießanlage ab, um verschiedene <@gd.key>Pfeilchips</> freizuschalten. Stelle verschiedene Pfeilchips ein und rüste sie aus, um verschiedene Phasen des <@gd.key>Fortgeschrittenen</> und des <@gd.key>Täglichen Trainings</> zu absolvieren und verschiedene Belohnungen zu verdienen.",
+          "EN": "In Typhoeus's Archery Range, complete Basic Training stages to unlock various <@gd.key>arrow chips</>. Set and equip different arrow chips to complete <@gd.key>Advanced Training</> and <@gd.key>Daily Exercise</> stages to earn various rewards.",
+          "FR": "Dans le Pas de tir à l'arc de Typhoeus, terminez des niveaux d'Entraînement de base pour débloquer diverses <@gd.key>puces de flèche</>. Configurez et équipez différentes puces de flèche pour terminer les niveaux d'<@gd.key>Entraînement avancé</> et d'<@gd.key>Exercice quotidien</> et obtenir diverses récompenses.",
+          "ID": "Di Lapangan Panahan Typhoeus, selesaikan stage Latihan Dasar untuk membuka berbagai <@gd.key>chip panah</>. Atur dan pasang chip panah yang berbeda-beda untuk menyelesaikan stage <@gd.key>Latihan Tingkat Lanjut</> dan <@gd.key>Latihan Harian</> untuk mendapatkan berbagai imbalan.",
+          "IT": "Nel poligono di tiro con l'arco di Typhoeus, completa le fasi di addestramento base per sbloccare diversi <@gd.key>chip Freccia</>. Imposta ed equipaggia chip Freccia diversi per completare le fasi di <@gd.key>addestramento avanzato</> ed <@gd.key>esercitazione quotidiana</> per ottenere varie ricompense.",
+          "JP": "ティフォロスの射場では、基礎訓練をクリアしてさまざまな<@gd.key>矢のチップ</>を解放し、矢に取り付けて<@gd.key>上級訓練</>と<@gd.key>日常訓練</>をクリアすることで、対応する報酬を受け取ることができる。",
+          "KR": "티프로스의 활터에서는 기초 훈련을 완료해 다양한 <@gd.key>화살 칩</>을 잠금 해제할 수 있습니다. 화살 칩을 배치해 <@gd.key>고급 훈련</>과 <@gd.key>일상 훈련</>을 완료하고 해당 보상을 획득하세요.",
+          "MX": "En el Campo de tiro con arco de Typhoeus, completa fases de Entrenamiento básico para desbloquear distintos <@gd.key>Chips de flecha</>. Establece y equipa distintos Chips de flecha para completar fases de <@gd.key>Entrenamiento avanzado</> y <@gd.key>Ejercicio diario</>, y obtener varias recompensas.",
+          "RU": "Разные чипы стрел открываются за прохождение стадий <@gd.key>стандартной подготовки</> на стрельбище Тифеи. Устанавливайте новые чипы и проходите с их помощью стадии <@gd.key>продвинутой подготовки</> и <@gd.key>ежедневной тренировки</>, чтобы заработать награды.",
+          "TC": "在提弗洛斯的靶場，可以完成基礎教學來解鎖多種<@gd.key>箭矢晶片</>，透過配置不同的箭矢晶片完成<@gd.key>進階訓練</>和<@gd.key>日常訓練</>，獲得對應獎勵。",
+          "TH": "ใน​สนาม​ยิง​ธนู​ของ​ไท​ฟี​อุส​ ผ่าน​ด่าน​การ​ฝึก​เบื้องต้น​ต่า​งๆ​ ที่​มี​ เพื่อ​ปลดล็อก​<@gd.key>​ชิป​ธนู​</>​หลากหลาย​รูปแบบ​ เซ็ต​และ​ใช้​ชิป​ลูกศร​แบบ​ต่า​งๆ​ เพื่อ​ผ่าน​ด่าน​<@gd.key>​การ​ฝึก​ขั้นสูง​</>​และ​<@gd.key>​การฝึกฝน​รายวัน​</> เพื่อ​รับรางวัล​ต่า​งๆ",
+          "VN": "Trong Trường Bắn Cung Của Typhoeus, hãy hoàn thành nhiều màn Huấn Luyện Cơ Bản để mở khóa nhiều loại <@gd.key>chip mũi tên</>. Thiết lập và trang bị các chip mũi tên khác nhau để hoàn thành các màn <@gd.key>Huấn Luyện Nâng Cao</> và <@gd.key>Luyện Tập Hằng Ngày</>, nhận nhiều phần thưởng khác nhau."
+        },
+        "id": "wiki_tut_sys_archery_training_1",
+        "image": "guide_pic_archery_1",
+        "order": 1,
+        "refWikiEntryIds": [],
+        "title": {
+          "BR": "Estande de Arco e Flecha de Typhoeus",
+          "CN": "提弗洛斯的靶场",
+          "DE": "Typhoeus’ Bogenschießanlage",
+          "EN": "Typhoeus's Archery Range",
+          "FR": "Pas de tir à l'arc de Typhoeus",
+          "ID": "Lapangan Panahan Typhoeus",
+          "IT": "Poligono di tiro con l'arco di Typhoeus",
+          "JP": "ティフォロスの射場",
+          "KR": "티프로스의 활터",
+          "MX": "Campo de tiro con arco de Typhoeus",
+          "RU": "Стрельбище Тифеи",
+          "TC": "提弗洛斯的靶場",
+          "TH": "สนาม​ยิง​ธนู​ของ​ไท​ฟี​อุส",
+          "VN": "Trường Bắn Cung Của Typhoeus"
+        },
+        "tutorialId": "wiki_tut_sys_archery_training",
+        "video": "",
+        "videoDeviceType": "Common"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "wiki_tut_adv_balloon_recycle_2": {
+        "oldValue": {
+          "content": {
+            "BR": "Use o <@gd.key>Aerorrecuperador</> para levantar itens do chão e recuperá-los. <@gd.key>Ajuste as posições</> de <@gd.key>todos os balões</> para equilibrar o <@gd.key>Aerorrecuperador</> e realizar uma recuperação bem-sucedida.",
+            "CN": "使用<@gd.key>浮空回收器</>可以对待回收物品进行回收。使用<@gd.key>所有气球</>，并通过<@gd.key>改变气球的位置</>，使<@gd.key>浮空回收装置平衡</>。达到平衡后可成功回收。",
+            "DE": "Mit dem <@gd.key>Aero-Bergungsmodul</> kannst du Gegenstände vom Boden heben und sie bergen. <@gd.key>Richte die Positionen</> <@gd.key>aller Ballons</> aus, um das <@gd.key>Aero-Bergungsmodul</> ins Gleichgewicht zu bringen und eine erfolgreiche Bergung durchzuführen.",
+            "EN": "Use the <@gd.key>Aero-Salvager</> to lift items off the ground and salvage them. <@gd.key>Adjust the positions</> of <@gd.key>all balloons</> to balance the <@gd.key>Aero-Salvager properly</> for successful salvaging.",
+            "FR": "Utilisez l'<@gd.key>aéro-récupérateur</> pour soulever des objets du sol et les récupérer. <@gd.key>Ajustez la position</> de <@gd.key>tous les ballons</> pour équilibrer <@gd.key>correctement l'aéro-récupérateur</> et réussir la manœuvre.",
+            "ID": "Gunakan <@gd.key>Pengangkut Layang</> untuk mengangkat item dari tanah dan mengambilnya. <@gd.key>Sesuaikan posisi</> <@gd.key>semua balon</> untuk menyeimbangkan <@gd.key>Pengangkut Layang dengan baik</> agar pengambilan berhasil.",
+            "IT": "Usa l'<@gd.key>aerorecuperatore</> per sollevare gli oggetti da terra e recuperarli. <@gd.key>Modifica la posizione</> di <@gd.key>tutti i palloni</> per tenere in equilibrio l'<@gd.key>aerorecuperatore</> e riuscire nel recupero.",
+            "JP": "<@gd.key>空中回収装置</>を使うと未回収アイテムを回収できる。<@gd.key>すべての風船</>を使って<@gd.key>風船の位置を変える</>ことで、<@gd.key>空中回収装置のバランスを取る</>。バランスが取れると回収成功となる。",
+            "KR": "<@gd.key>부유식 회수기</>를 사용하면 대상 아이템을 회수할 수 있습니다. <@gd.key>모든 풍선</>을 사용하고 <@gd.key>풍선의 위치 변경</>을 통해 <@gd.key>부유 회수 장치의 균형을 맞추세요.</> 균형이 잡히면 회수에 성공합니다.",
+            "MX": "Usa el <@gd.key>aerorrecuperador</> para levantar objetos del suelo y recuperarlos. <@gd.key>Ajusta las posiciones</> de <@gd.key>todos los globos</> para equilibrar el <@gd.key>aerorrecuperador correctamente</> y completar la recuperación con éxito.",
+            "RU": "Используйте <@gd.key>аэроэвакуатор</>, чтобы поднимать и забирать предметы. <@gd.key>Настройте положение</> <@gd.key>всех воздушных шаров</>, чтобы <@gd.key>сбалансировать аэроэвакуатор</> и успешно провести эвакуацию.",
+            "TC": "使用<@gd.key>浮空回收器</>可以回收待回收物品。使用<@gd.key>所有氣球</>，並透過<@gd.key>改變氣球的位置</>，使<@gd.key>浮空回收裝置平衡</>。達到平衡後可成功回收。",
+            "TH": "ใช้​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</> เพื่อ​ยก​ไอ​เทม​ขึ้น​จาก​พื้น​และ​กู้​ซาก​ขึ้น​มา​ <@gd.key>​ปรับ​ตำแหน่ง​</><@gd.key>​บอลลูน​ทั้งหมด​</>​ของ​เครื่อง​กู้​ซาก​ทางอากาศ​เพื่อ​รักษา​สมดุล​ของ​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</>​ให้​เหมาะสม​ เพื่อให้​การกู้​ซาก​สำเร็จ",
+            "VN": "Sử dụng <@gd.key>Thiết Bị Thu Hồi Trên Không</> để nâng vật phẩm khỏi mặt đất và thu hồi chúng. <@gd.key>Điều chỉnh vị trí</> của <@gd.key>tất cả bóng khí</> để cân bằng <@gd.key>Thiết Bị Thu Hồi Trên Không đúng cách</> giúp thu hồi thành công."
+          },
+          "id": "wiki_tut_adv_balloon_recycle_2",
+          "image": "",
+          "order": 2,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Aerorrecuperador: Recuperação",
+            "CN": "浮空回收",
+            "DE": "Aero-Bergungsmodul: Bergen",
+            "EN": "Aero-Salvager: Salvaging",
+            "FR": "Aéro-récupérateur : récupération",
+            "ID": "Pengangkut Layang: Pengambilan",
+            "IT": "Aerorecuperatore: recupero",
+            "JP": "空中回収",
+            "KR": "부유 회수",
+            "MX": "Aerorrecuperador: Recuperación",
+            "RU": "Аэроэвакуатор: эвакуация",
+            "TC": "浮空回收",
+            "TH": "เครื่อง​กู้​ซาก​ทางอากาศ​: การกู้​ซาก",
+            "VN": "Thiết Bị Thu Hồi Trên Không: Thu Hồi"
+          },
+          "tutorialId": "wiki_tut_adv_balloon_recycle",
+          "video": "guide_video_balloon_recycle",
+          "videoDeviceType": "Common"
+        },
+        "newValue": {
+          "content": {
+            "BR": "Use o <@gd.key>aerorrecuperador</> para levantar itens do chão e recuperá-los. <@gd.key>Ajuste as posições</> de <@gd.key>todos os balões do aerorrecuperador</> para <@gd.key>equilibrar o dispositivo corretamente</> para realizar recuperações bem-sucedidas.",
+            "CN": "使用<@gd.key>浮空回收器</>可以对浮空回收装置进行回收。使用用<@gd.key>所有气球</>，并通过用<@gd.key>改变气球的位置</>，用<@gd.key>使浮空回收装置平衡</>。达到平衡后可成功回收。",
+            "DE": "Mit dem <@gd.key>Aero-Bergungsmodul</> kannst du Gegenstände vom Boden heben und sie bergen. <@gd.key>Richte die Positionen</> <@gd.key>aller Aero-Bergungsballons</> aus, um <@gd.key>das Gerät ins Gleichgewicht zu bringen</> und eine erfolgreiche Bergung durchzuführen.",
+            "EN": "Use the <@gd.key>aero-salvager</> to lift items off the ground and recover them for salvaging. <@gd.key>Adjust the positions</> of <@gd.key>all aero-salvager balloons</> to <@gd.key>balance the device properly</> for successful salvaging.",
+            "FR": "Utilisez l'<@gd.key>aéro-récupérateur</> pour soulever des objets du sol et les récupérer. <@gd.key>Ajustez la position</> de <@gd.key>tous les ballons de l'aéro-récupérateur</> afin d'<@gd.key>équilibrer correctement l'appareil</> et de réussir la manœuvre.",
+            "ID": "Gunakan <@gd.key>pengangkut layang</> untuk mengangkat item dari tanah dan mengambilnya untuk diselamatkan. <@gd.key>Sesuaikan posisi</> <@gd.key>semua balon pengangkut layang</> untuk <@gd.key>menyeimbangkan perangkat dengan baik</> agar pengambilan berhasil.",
+            "IT": "Usa l'<@gd.key>aerorecuperatore</> per sollevare gli oggetti da terra e recuperarli. <@gd.key>Modifica la posizione</> di <@gd.key>tutti i palloni dell'aerorecuperatore</> per <@gd.key>tenere in equilibrio il dispositivo</> e riuscire nel recupero.",
+            "JP": "<@gd.key>空中回収装置</>を使うと空中回収装置を回収できる。<@gd.key>すべての風船</>を使って<@gd.key>風船の位置を変える</>ことで、<@gd.key>空中回収装置のバランスを取る</>。バランスが取れると回収成功となる。",
+            "KR": "<@gd.key>부유식 회수기</>를 사용하면 부유 회수 장치를 회수할 수 있습니다. <@gd.key>모든 풍선</>을 사용하고 <@gd.key>풍선의 위치를 변경</>하는 방법을 이용하여 <@gd.key>부유 회수 장치의 평형을 찾습니다.</> 평형을 찾은 후 바로 회수하게 됩니다.",
+            "MX": "Usa el <@gd.key>Aerorrecuperador</> para levantar objetos del suelo y recuperarlos. <@gd.key>Ajusta las posiciones</> de <@gd.key>todos los globos del Aerorrecuperador</> para <@gd.key>equilibrar el dispositivo correctamente</> y completar la recuperación con éxito.",
+            "RU": "Используйте <@gd.key>аэроэвакуатор</>, чтобы поднимать и забирать предметы. <@gd.key>Настройте положение</> <@gd.key>всех воздушных шаров аэроэвакуатора</>, чтобы <@gd.key>сбалансировать устройство</> и успешно провести эвакуацию.",
+            "TC": "使用<@gd.key>浮空回收器</>可以回收浮空回收裝置。使用<@gd.key>所有氣球</>，並透過<@gd.key>改變氣球的位置</>，<@gd.key>使浮空回收裝置平衡</>。達到平衡後可成功回收。",
+            "TH": "ใช้​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</> เพื่อ​ยก​ไอ​เทม​ขึ้น​จาก​พื้น​และ​กู้​คืน​มัน​กลับมา​ <@gd.key>​ปรับ​ตำแหน่ง​</>​ของ​<@gd.key>​บอลลูน​เครื่อง​กู้​ซาก​ทางอากาศ​ทั้งหมด​</>​เพื่อ​<@gd.key>​รักษา​สมดุล​ของ​อุปกรณ์​ให้​เหมาะสม​</> เพื่อให้​การกู้​ซาก​สำเร็จ",
+            "VN": "Sử dụng <@gd.key>thiết bị thu hồi trên không</> để nâng vật phẩm khỏi mặt đất và thu hồi chúng. <@gd.key>Điều chỉnh vị trí</> của <@gd.key>tất cả bóng khí của thiết bị thu hồi trên không</> để <@gd.key>cân bằng thiết bị đúng cách</>, giúp quá trình thu hồi thành công."
+          },
+          "id": "wiki_tut_adv_balloon_recycle_2",
+          "image": "",
+          "order": 2,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Aerorrecuperador: Recuperação",
+            "CN": "浮空回收",
+            "DE": "Aero-Bergungsmodul: Bergen",
+            "EN": "Aero-Salvager: Salvaging",
+            "FR": "Aéro-récupérateur : récupération",
+            "ID": "Pengangkut Layang: Pengambilan",
+            "IT": "Aerorecuperatore: recupero",
+            "JP": "空中回収",
+            "KR": "부유 회수",
+            "MX": "Aerorrecuperador: Recuperación",
+            "RU": "Аэроэвакуатор: эвакуация",
+            "TC": "浮空回收",
+            "TH": "เครื่อง​กู้​ซาก​ทางอากาศ​: การกู้​ซาก",
+            "VN": "Thiết Bị Thu Hồi Trên Không: Thu Hồi"
+          },
+          "tutorialId": "wiki_tut_adv_balloon_recycle",
+          "video": "guide_video_balloon_recycle",
+          "videoDeviceType": "Common"
+        },
+        "changed": {
+          "content": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Use o <@gd.key>Aerorrecuperador</> para levantar itens do chão e recuperá-los. <@gd.key>Ajuste as posições</> de <@gd.key>todos os balões</> para equilibrar o <@gd.key>Aerorrecuperador</> e realizar uma recuperação bem-sucedida.",
+                "newText": "Use o <@gd.key>aerorrecuperador</> para levantar itens do chão e recuperá-los. <@gd.key>Ajuste as posições</> de <@gd.key>todos os balões do aerorrecuperador</> para <@gd.key>equilibrar o dispositivo corretamente</> para realizar recuperações bem-sucedidas."
+              },
+              "CN": {
+                "oldText": "使用<@gd.key>浮空回收器</>可以对待回收物品进行回收。使用<@gd.key>所有气球</>，并通过<@gd.key>改变气球的位置</>，使<@gd.key>浮空回收装置平衡</>。达到平衡后可成功回收。",
+                "newText": "使用<@gd.key>浮空回收器</>可以对浮空回收装置进行回收。使用用<@gd.key>所有气球</>，并通过用<@gd.key>改变气球的位置</>，用<@gd.key>使浮空回收装置平衡</>。达到平衡后可成功回收。"
+              },
+              "DE": {
+                "oldText": "Mit dem <@gd.key>Aero-Bergungsmodul</> kannst du Gegenstände vom Boden heben und sie bergen. <@gd.key>Richte die Positionen</> <@gd.key>aller Ballons</> aus, um das <@gd.key>Aero-Bergungsmodul</> ins Gleichgewicht zu bringen und eine erfolgreiche Bergung durchzuführen.",
+                "newText": "Mit dem <@gd.key>Aero-Bergungsmodul</> kannst du Gegenstände vom Boden heben und sie bergen. <@gd.key>Richte die Positionen</> <@gd.key>aller Aero-Bergungsballons</> aus, um <@gd.key>das Gerät ins Gleichgewicht zu bringen</> und eine erfolgreiche Bergung durchzuführen."
+              },
+              "EN": {
+                "oldText": "Use the <@gd.key>Aero-Salvager</> to lift items off the ground and salvage them. <@gd.key>Adjust the positions</> of <@gd.key>all balloons</> to balance the <@gd.key>Aero-Salvager properly</> for successful salvaging.",
+                "newText": "Use the <@gd.key>aero-salvager</> to lift items off the ground and recover them for salvaging. <@gd.key>Adjust the positions</> of <@gd.key>all aero-salvager balloons</> to <@gd.key>balance the device properly</> for successful salvaging."
+              },
+              "FR": {
+                "oldText": "Utilisez l'<@gd.key>aéro-récupérateur</> pour soulever des objets du sol et les récupérer. <@gd.key>Ajustez la position</> de <@gd.key>tous les ballons</> pour équilibrer <@gd.key>correctement l'aéro-récupérateur</> et réussir la manœuvre.",
+                "newText": "Utilisez l'<@gd.key>aéro-récupérateur</> pour soulever des objets du sol et les récupérer. <@gd.key>Ajustez la position</> de <@gd.key>tous les ballons de l'aéro-récupérateur</> afin d'<@gd.key>équilibrer correctement l'appareil</> et de réussir la manœuvre."
+              },
+              "ID": {
+                "oldText": "Gunakan <@gd.key>Pengangkut Layang</> untuk mengangkat item dari tanah dan mengambilnya. <@gd.key>Sesuaikan posisi</> <@gd.key>semua balon</> untuk menyeimbangkan <@gd.key>Pengangkut Layang dengan baik</> agar pengambilan berhasil.",
+                "newText": "Gunakan <@gd.key>pengangkut layang</> untuk mengangkat item dari tanah dan mengambilnya untuk diselamatkan. <@gd.key>Sesuaikan posisi</> <@gd.key>semua balon pengangkut layang</> untuk <@gd.key>menyeimbangkan perangkat dengan baik</> agar pengambilan berhasil."
+              },
+              "IT": {
+                "oldText": "Usa l'<@gd.key>aerorecuperatore</> per sollevare gli oggetti da terra e recuperarli. <@gd.key>Modifica la posizione</> di <@gd.key>tutti i palloni</> per tenere in equilibrio l'<@gd.key>aerorecuperatore</> e riuscire nel recupero.",
+                "newText": "Usa l'<@gd.key>aerorecuperatore</> per sollevare gli oggetti da terra e recuperarli. <@gd.key>Modifica la posizione</> di <@gd.key>tutti i palloni dell'aerorecuperatore</> per <@gd.key>tenere in equilibrio il dispositivo</> e riuscire nel recupero."
+              },
+              "JP": {
+                "oldText": "<@gd.key>空中回収装置</>を使うと未回収アイテムを回収できる。<@gd.key>すべての風船</>を使って<@gd.key>風船の位置を変える</>ことで、<@gd.key>空中回収装置のバランスを取る</>。バランスが取れると回収成功となる。",
+                "newText": "<@gd.key>空中回収装置</>を使うと空中回収装置を回収できる。<@gd.key>すべての風船</>を使って<@gd.key>風船の位置を変える</>ことで、<@gd.key>空中回収装置のバランスを取る</>。バランスが取れると回収成功となる。"
+              },
+              "KR": {
+                "oldText": "<@gd.key>부유식 회수기</>를 사용하면 대상 아이템을 회수할 수 있습니다. <@gd.key>모든 풍선</>을 사용하고 <@gd.key>풍선의 위치 변경</>을 통해 <@gd.key>부유 회수 장치의 균형을 맞추세요.</> 균형이 잡히면 회수에 성공합니다.",
+                "newText": "<@gd.key>부유식 회수기</>를 사용하면 부유 회수 장치를 회수할 수 있습니다. <@gd.key>모든 풍선</>을 사용하고 <@gd.key>풍선의 위치를 변경</>하는 방법을 이용하여 <@gd.key>부유 회수 장치의 평형을 찾습니다.</> 평형을 찾은 후 바로 회수하게 됩니다."
+              },
+              "MX": {
+                "oldText": "Usa el <@gd.key>aerorrecuperador</> para levantar objetos del suelo y recuperarlos. <@gd.key>Ajusta las posiciones</> de <@gd.key>todos los globos</> para equilibrar el <@gd.key>aerorrecuperador correctamente</> y completar la recuperación con éxito.",
+                "newText": "Usa el <@gd.key>Aerorrecuperador</> para levantar objetos del suelo y recuperarlos. <@gd.key>Ajusta las posiciones</> de <@gd.key>todos los globos del Aerorrecuperador</> para <@gd.key>equilibrar el dispositivo correctamente</> y completar la recuperación con éxito."
+              },
+              "RU": {
+                "oldText": "Используйте <@gd.key>аэроэвакуатор</>, чтобы поднимать и забирать предметы. <@gd.key>Настройте положение</> <@gd.key>всех воздушных шаров</>, чтобы <@gd.key>сбалансировать аэроэвакуатор</> и успешно провести эвакуацию.",
+                "newText": "Используйте <@gd.key>аэроэвакуатор</>, чтобы поднимать и забирать предметы. <@gd.key>Настройте положение</> <@gd.key>всех воздушных шаров аэроэвакуатора</>, чтобы <@gd.key>сбалансировать устройство</> и успешно провести эвакуацию."
+              },
+              "TC": {
+                "oldText": "使用<@gd.key>浮空回收器</>可以回收待回收物品。使用<@gd.key>所有氣球</>，並透過<@gd.key>改變氣球的位置</>，使<@gd.key>浮空回收裝置平衡</>。達到平衡後可成功回收。",
+                "newText": "使用<@gd.key>浮空回收器</>可以回收浮空回收裝置。使用<@gd.key>所有氣球</>，並透過<@gd.key>改變氣球的位置</>，<@gd.key>使浮空回收裝置平衡</>。達到平衡後可成功回收。"
+              },
+              "TH": {
+                "oldText": "ใช้​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</> เพื่อ​ยก​ไอ​เทม​ขึ้น​จาก​พื้น​และ​กู้​ซาก​ขึ้น​มา​ <@gd.key>​ปรับ​ตำแหน่ง​</><@gd.key>​บอลลูน​ทั้งหมด​</>​ของ​เครื่อง​กู้​ซาก​ทางอากาศ​เพื่อ​รักษา​สมดุล​ของ​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</>​ให้​เหมาะสม​ เพื่อให้​การกู้​ซาก​สำเร็จ",
+                "newText": "ใช้​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</> เพื่อ​ยก​ไอ​เทม​ขึ้น​จาก​พื้น​และ​กู้​คืน​มัน​กลับมา​ <@gd.key>​ปรับ​ตำแหน่ง​</>​ของ​<@gd.key>​บอลลูน​เครื่อง​กู้​ซาก​ทางอากาศ​ทั้งหมด​</>​เพื่อ​<@gd.key>​รักษา​สมดุล​ของ​อุปกรณ์​ให้​เหมาะสม​</> เพื่อให้​การกู้​ซาก​สำเร็จ"
+              },
+              "VN": {
+                "oldText": "Sử dụng <@gd.key>Thiết Bị Thu Hồi Trên Không</> để nâng vật phẩm khỏi mặt đất và thu hồi chúng. <@gd.key>Điều chỉnh vị trí</> của <@gd.key>tất cả bóng khí</> để cân bằng <@gd.key>Thiết Bị Thu Hồi Trên Không đúng cách</> giúp thu hồi thành công.",
+                "newText": "Sử dụng <@gd.key>thiết bị thu hồi trên không</> để nâng vật phẩm khỏi mặt đất và thu hồi chúng. <@gd.key>Điều chỉnh vị trí</> của <@gd.key>tất cả bóng khí của thiết bị thu hồi trên không</> để <@gd.key>cân bằng thiết bị đúng cách</>, giúp quá trình thu hồi thành công."
+              }
+            }
+          }
+        }
+      },
+      "wiki_tut_adv_xiranite_radar_1": {
+        "oldValue": {
+          "content": {
+            "BR": "O recurso de <@gd.key>Confecção</> permite confeccionar o plug-in de Miasma da Praga do Nexus de Xiranita. A ativação do plugin de scanner <@gd.key>expande o alcance da varredura do Nexus de Xiranita</> para facilitar a exploração do Miasma da Praga.",
+            "CN": "在<@gd.key>简易制作</>可制作侵蚀瘴插件，扫描插件激活时，<@gd.key>枢壤仪扫描时的识别范围会扩大</>。能有力帮助在侵蚀瘴中的探索。",
+            "DE": "Mit der <@gd.key>Herstellungs</>-Funktion kannst du das Xiranit-Nexus-Verderbnisnebel-Plugin herstellen. Aktiviere das Scanner-Plugin, um <@gd.key>die Scanreichweite des Xiranit-Nexus zu erhöhen</> und die Erkundung im Verderbnisnebel einfacher zu gestalten.",
+            "EN": "The <@gd.key>Crafting</> feature allows the crafting of the Xiranite Nexus Blight Miasma plugin. Activating the scanner plugin <@gd.key>expands the Xiranite Nexus scanning range</> to make exploration in the Blight Miasma easier.",
+            "FR": "La fonctionnalité <@gd.key>Fabrication</> permet de fabriquer le plug-in de scanner à miasmes du Nexus en xiranite. Une fois activé, ce plug-in <@gd.key>étend la portée du scanner du Nexus en xiranite</>, ce qui permet d'explorer plus facilement les zones chargées de miasmes.",
+            "ID": "Dengan fitur <@gd.key>Crafting</>, kamu bisa membuat plugin Miasma Hawar Nexus Xiranite. Aktivasi plugin pemindai akan <@gd.key>memperluas jangkauan pindai Nexus Xiranite</> agar eksplorasi di dalam Miasma Hawar menjadi lebih mudah.",
+            "IT": "La funzionalità <@gd.key>Creazione</> permette di creare il plugin miasma contaminante per il Nexus di xiranite. Attivare il plugin scansione <@gd.key>espande il raggio di scansione del Nexus di xiranite</> per semplificare l'esplorazione del miasma contaminante.",
+            "JP": "<@gd.key>道具製作</>で侵蝕霧スキャン装置を製作できる。スキャン装置の起動中は、<@gd.key>枢壌儀スキャン時の識別範囲が拡大される</>ため、侵蝕霧での探索に役立つ。",
+            "KR": "<@gd.key>간편 제작</>에서 침식 안개 모듈을 제작할 수 있습니다. 스캔 모듈을 활성화하면 <@gd.key>중추 식양 장치의 스캔 인식 범위가 확대됩니다.</> 침식 안개 내부를 탐색할 때 큰 도움이 됩니다.",
+            "MX": "La función <@gd.key>Fabricación</> permite fabricar el complemento del Miasma de la Plaga para el Nexus de Xiranita. Activar el complemento de escáner <@gd.key>amplía el radio de escaneo del Nexus de Xiranita</> para facilitar la exploración del Miasma de la Plaga.",
+            "RU": "Функция <@gd.key>Создание</> позволяет создать плагин моровых миазмов для ксиранитового нексуса. Активация плагина сканера <@gd.key>увеличивает дальность сканирования ксиранитового нексуса</> и облегчает исследование моровых миазмов.",
+            "TC": "在<@gd.key>簡易製作</>中可製作侵蝕瘴掃描零件，掃描零件啟用時，<@gd.key>樞壤儀掃描時的識別範圍會擴大</>。能有效幫助在侵蝕瘴中的探索。",
+            "TH": "ฟีเจอร์​<@gd.key>​การ​สร้าง​</>​ช่วย​ให้​สามารถ​สร้าง​ปลั๊ก​อิน​หมอก​ควัน​เสื่อมโทรม​สำหรับ​เ​น็​ก​ซัส​ซี​เรน​ไนต์​ได้​ การ​เปิด​ใช้งาน​ปลั๊ก​อิน​เครื่อง​สแกน​จะ​ช่วย​<@gd.key>​ขยาย​ระยะ​การ​สแกน​ของ​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</> เพื่อให้​การสำรวจ​ใน​หมอก​ควัน​เสื่อมโทรม​ง่าย​ยิ่งขึ้น",
+            "VN": "Tính năng <@gd.key>Chế Tạo</> cho phép chế tạo đầu cắm của Trung Tâm Xiranite Sương Mù Nhiễm Khuẩn. Kích hoạt đầu cắm quét sẽ <@gd.key>mở rộng phạm vi quét của Trung Tâm Xiranite</>, giúp việc thám hiểm trong Sương Mù Nhiễm Khuẩn trở nên dễ dàng hơn."
+          },
+          "id": "wiki_tut_adv_xiranite_radar_1",
+          "image": "guide_pic_xiranite_radar",
+          "order": 1,
+          "refWikiEntryIds": [
+            "wiki_tut_adv_xiranite_nexus"
+          ],
+          "title": {
+            "BR": "Plugin de Scanner de Miasma da Praga",
+            "CN": "侵蚀瘴扫描插件",
+            "DE": "Verderbnisnebel-Scanner-Plugin",
+            "EN": "Blight Miasma Scanner Plugin",
+            "FR": "Plug-in de scanner à miasmes",
+            "ID": "Plugin Pemindai Miasma Hawar",
+            "IT": "Plugin scansione miasma contaminante",
+            "JP": "<p=\"しんしょくむ\" padding=0>侵蝕霧</p>スキャン装置",
+            "KR": "침식 안개 스캔 모듈",
+            "MX": "Complemento de escáner de Miasma de la Plaga",
+            "RU": "Плагин сканера моровых миазмов",
+            "TC": "侵蝕瘴掃描零件",
+            "TH": "ปลั๊ก​อิน​เครื่อง​สแกน​หมอก​ควัน​เสื่อมโทรม",
+            "VN": "Đầu Cắm Quét Sương Mù Nhiễm Khuẩn"
+          },
+          "tutorialId": "wiki_tut_adv_xiranite_radar",
+          "video": "",
+          "videoDeviceType": "Common"
+        },
+        "newValue": {
+          "content": {
+            "BR": "O recurso de <@gd.key>Confecção</> permite confeccionar o plug-in de Miasma da Praga do Nexus de Xiranita. A ativação do plugin de scanner <@gd.key>expande o alcance da varredura do Nexus de Xiranita</> para facilitar a exploração do Miasma da Praga.",
+            "CN": "在<@gd.key>简易制作</>可制作侵蚀瘴扫描插件。扫描插件激活时，<@gd.key>枢壤仪扫描时的识别范围会扩大</>。能有力帮助在侵蚀瘴中的探索。",
+            "DE": "Mit der <@gd.key>Herstellungs</>-Funktion kannst du das Xiranit-Nexus-Verderbnisnebel-Plugin herstellen. Aktiviere das Scanner-Plugin, um <@gd.key>die Scanreichweite des Xiranit-Nexus zu erhöhen</> und die Erkundung im Verderbnisnebel einfacher zu gestalten.",
+            "EN": "The <@gd.key>Crafting</> feature allows the crafting of the Xiranite Nexus Blight Miasma plugin. Activating the scanner plugin <@gd.key>expands the Xiranite Nexus scanning range</> to make exploration of the Blight Miasma easier.",
+            "FR": "La fonctionnalité <@gd.key>Fabrication</> permet de fabriquer le plug-in de scanner à miasmes du Nexus en xiranite. Une fois activé, ce plug-in <@gd.key>étend la portée du scanner du Nexus en xiranite</>, ce qui permet d'explorer plus facilement les zones chargées de miasmes.",
+            "ID": "Dengan fitur <@gd.key>Crafting</>, kamu bisa membuat plugin Miasma Hawar Nexus Xiranite. Aktivasi plugin pemindai akan <@gd.key>memperluas jangkauan pindai Nexus Xiranite</> agar eksplorasi Miasma Hawar menjadi lebih mudah.",
+            "IT": "La funzione <@gd.key>Creazione</> permette di creare il plugin Miasma contaminante per il Nexus di xiranite. Attivare il plugin di scansione <@gd.key>espande il raggio di scansione del Nexus di xiranite</> per facilitare l'esplorazione del miasma contaminante.",
+            "JP": "<@gd.key>道具製作</>で侵蝕霧スキャン装置を製作できる。スキャン装置の起動中は、<@gd.key>枢壌儀スキャン時の識別範囲が拡大される</>ため、侵蝕霧での探索に役立つ。",
+            "KR": "<@gd.key>간편 제작</>에서 침식 안개 스캔 모듈을 제작할 수 있습니다. 스캔 모듈을 활성화하면 <@gd.key>중추 식양 장치의 스캔 인식 범위가 확대됩니다.</> 침식 안개 내부를 탐색할 때 큰 도움이 됩니다.",
+            "MX": "La función <@gd.key>Fabricación</> permite fabricar el complemento del Miasma de la Plaga para el Nexus de Xiranita. Activar el complemento de escáner <@gd.key>amplía el radio de escaneo del Nexus de Xiranita</> para facilitar la exploración del Miasma de la Plaga.",
+            "RU": "Функция <@gd.key>Создание</> позволяет создать плагин моровых миазмов для ксиранитового нексуса. Активация плагина сканера <@gd.key>увеличивает дальность сканирования ксиранитового нексуса</> и облегчает исследование моровых миазмов.",
+            "TC": "在<@gd.key>簡易製作</>中可製作侵蝕瘴掃描零件。掃描零件啟用時，<@gd.key>樞壤儀掃描時的識別範圍會擴大</>。能有效幫助在侵蝕瘴中的探索。",
+            "TH": "ฟีเจอร์​<@gd.key>​การ​สร้าง​</>​ช่วย​ให้​สามารถ​สร้าง​ปลั๊ก​อิน​หมอก​ควัน​เสื่อมโทรม​สำหรับ​เ​น็​ก​ซัส​ซี​เรน​ไนต์​ได้​ การ​เปิด​ใช้งาน​ปลั๊ก​อิน​เครื่อง​สแกน​จะ​ช่วย​<@gd.key>​ขยาย​ระยะ​การ​สแกน​ของ​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</> เพื่อให้​การสำรวจ​ใน​หมอก​ควัน​เสื่อมโทรม​ง่าย​ยิ่งขึ้น",
+            "VN": "Tính năng <@gd.key>Chế Tạo</> cho phép chế tạo đầu cắm của Trung Tâm Xiranite Sương Mù Nhiễm Khuẩn. Kích hoạt đầu cắm quét sẽ <@gd.key>mở rộng phạm vi quét của Trung Tâm Xiranite</>, giúp việc thám hiểm Sương Mù Nhiễm Khuẩn trở nên dễ dàng hơn."
+          },
+          "id": "wiki_tut_adv_xiranite_radar_1",
+          "image": "guide_pic_xiranite_radar",
+          "order": 1,
+          "refWikiEntryIds": [
+            "wiki_tut_adv_xiranite_nexus"
+          ],
+          "title": {
+            "BR": "Plugin de Scanner de Miasma da Praga",
+            "CN": "侵蚀瘴扫描插件",
+            "DE": "Verderbnisnebel-Scanner-Plugin",
+            "EN": "Blight Miasma Scanner Plugin",
+            "FR": "Plug-in de scanner à miasmes",
+            "ID": "Plugin Pemindai Miasma Hawar",
+            "IT": "Plugin scansione miasma contaminante",
+            "JP": "<p=\"しんしょくむ\" padding=0>侵蝕霧</p>スキャン装置",
+            "KR": "침식 안개 스캔 모듈",
+            "MX": "Complemento de escáner de Miasma de la Plaga",
+            "RU": "Плагин сканера моровых миазмов",
+            "TC": "侵蝕瘴掃描零件",
+            "TH": "ปลั๊ก​อิน​เครื่อง​สแกน​หมอก​ควัน​เสื่อมโทรม",
+            "VN": "Đầu Cắm Quét Sương Mù Nhiễm Khuẩn"
+          },
+          "tutorialId": "wiki_tut_adv_xiranite_radar",
+          "video": "",
+          "videoDeviceType": "Common"
+        },
+        "changed": {
+          "content": {
+            "type": "i18n",
+            "changedLocales": {
+              "CN": {
+                "oldText": "在<@gd.key>简易制作</>可制作侵蚀瘴插件，扫描插件激活时，<@gd.key>枢壤仪扫描时的识别范围会扩大</>。能有力帮助在侵蚀瘴中的探索。",
+                "newText": "在<@gd.key>简易制作</>可制作侵蚀瘴扫描插件。扫描插件激活时，<@gd.key>枢壤仪扫描时的识别范围会扩大</>。能有力帮助在侵蚀瘴中的探索。"
+              },
+              "EN": {
+                "oldText": "The <@gd.key>Crafting</> feature allows the crafting of the Xiranite Nexus Blight Miasma plugin. Activating the scanner plugin <@gd.key>expands the Xiranite Nexus scanning range</> to make exploration in the Blight Miasma easier.",
+                "newText": "The <@gd.key>Crafting</> feature allows the crafting of the Xiranite Nexus Blight Miasma plugin. Activating the scanner plugin <@gd.key>expands the Xiranite Nexus scanning range</> to make exploration of the Blight Miasma easier."
+              },
+              "ID": {
+                "oldText": "Dengan fitur <@gd.key>Crafting</>, kamu bisa membuat plugin Miasma Hawar Nexus Xiranite. Aktivasi plugin pemindai akan <@gd.key>memperluas jangkauan pindai Nexus Xiranite</> agar eksplorasi di dalam Miasma Hawar menjadi lebih mudah.",
+                "newText": "Dengan fitur <@gd.key>Crafting</>, kamu bisa membuat plugin Miasma Hawar Nexus Xiranite. Aktivasi plugin pemindai akan <@gd.key>memperluas jangkauan pindai Nexus Xiranite</> agar eksplorasi Miasma Hawar menjadi lebih mudah."
+              },
+              "IT": {
+                "oldText": "La funzionalità <@gd.key>Creazione</> permette di creare il plugin miasma contaminante per il Nexus di xiranite. Attivare il plugin scansione <@gd.key>espande il raggio di scansione del Nexus di xiranite</> per semplificare l'esplorazione del miasma contaminante.",
+                "newText": "La funzione <@gd.key>Creazione</> permette di creare il plugin Miasma contaminante per il Nexus di xiranite. Attivare il plugin di scansione <@gd.key>espande il raggio di scansione del Nexus di xiranite</> per facilitare l'esplorazione del miasma contaminante."
+              },
+              "KR": {
+                "oldText": "<@gd.key>간편 제작</>에서 침식 안개 모듈을 제작할 수 있습니다. 스캔 모듈을 활성화하면 <@gd.key>중추 식양 장치의 스캔 인식 범위가 확대됩니다.</> 침식 안개 내부를 탐색할 때 큰 도움이 됩니다.",
+                "newText": "<@gd.key>간편 제작</>에서 침식 안개 스캔 모듈을 제작할 수 있습니다. 스캔 모듈을 활성화하면 <@gd.key>중추 식양 장치의 스캔 인식 범위가 확대됩니다.</> 침식 안개 내부를 탐색할 때 큰 도움이 됩니다."
+              },
+              "TC": {
+                "oldText": "在<@gd.key>簡易製作</>中可製作侵蝕瘴掃描零件，掃描零件啟用時，<@gd.key>樞壤儀掃描時的識別範圍會擴大</>。能有效幫助在侵蝕瘴中的探索。",
+                "newText": "在<@gd.key>簡易製作</>中可製作侵蝕瘴掃描零件。掃描零件啟用時，<@gd.key>樞壤儀掃描時的識別範圍會擴大</>。能有效幫助在侵蝕瘴中的探索。"
+              },
+              "VN": {
+                "oldText": "Tính năng <@gd.key>Chế Tạo</> cho phép chế tạo đầu cắm của Trung Tâm Xiranite Sương Mù Nhiễm Khuẩn. Kích hoạt đầu cắm quét sẽ <@gd.key>mở rộng phạm vi quét của Trung Tâm Xiranite</>, giúp việc thám hiểm trong Sương Mù Nhiễm Khuẩn trở nên dễ dàng hơn.",
+                "newText": "Tính năng <@gd.key>Chế Tạo</> cho phép chế tạo đầu cắm của Trung Tâm Xiranite Sương Mù Nhiễm Khuẩn. Kích hoạt đầu cắm quét sẽ <@gd.key>mở rộng phạm vi quét của Trung Tâm Xiranite</>, giúp việc thám hiểm Sương Mù Nhiễm Khuẩn trở nên dễ dàng hơn."
+              }
+            }
+          }
+        }
+      },
+      "wiki_tut_adv_equip_portable_1": {
+        "oldValue": {
+          "content": {
+            "BR": "Um dispositivo pessoal deve ser colocado em um espaço para dispositivo pessoal para funcionar. Exemplos desses dispositivos são o Nexus de Xiranita e o Aerorrecuperador.",
+            "CN": "需要放置在随身装置格中激活才会起效的装置，枢壤仪、浮空回收器都属于此类装置。",
+            "DE": "Ein persönliches Gerät muss in einem Platz für ein persönliches Gerät liegen, damit es funktioniert. Beispiele sind der Xiranit-Nexus und das Aero-Bergungsmodul.",
+            "EN": "A personal device must be placed in a personal device slot in order to work. Such devices include the Xiranite Nexus and the Aero-Salvager.",
+            "FR": "Les dispositifs personnels ne fonctionnent que s'ils sont placés dans un emplacement utilitaire personnel. Le Nexus en xiranite et l'aéro-récupérateur en font tous les deux partie.",
+            "ID": "Perangkat pribadi harus ditempatkan di slot perangkat pribadi agar bisa berfungsi. Perangkat ini meliputi Nexus Xiranite dan Pengangkut Layang.",
+            "IT": "Per funzionare, un dispositivo personale dev'essere posizionato in uno slot per dispositivi personali. Tra questi dispositivi c'è il Nexus di xiranite e l'Aerorecuperatore.",
+            "JP": "携帯アイテム枠に入れることで起動状態になる。枢壌儀、空中回収装置もすべて携帯アイテムに分類される。",
+            "KR": "휴대 장치 슬롯에 배치하고 활성화해야만 효과가 적용되는 장치입니다. 중추 식양 장치, 부유식 회수기가 이러한 장치에 속합니다.",
+            "MX": "Un dispositivo personal debe colocarse en una ranura para dispositivo personal para funcionar. Entre estos dispositivos se incluyen el Nexus de Xiranita y el Aerorrecuperador.",
+            "RU": "Для работы нужно поместить личное устройство в соответствующую ячейку. К таким устройствам относятся ксиранитовый нексус и аэроэвакуатор.",
+            "TC": "需要放置在隨身裝置格中才會生效啟用的裝置，樞壤儀、浮空回收器都屬於此類裝置。",
+            "TH": "อุปกรณ์​ส่วนตัว​ที่​ต้อง​ติดตั้ง​ลง​ใน​ช่อง​อุปกรณ์​ส่วนตัว​จึง​จะ​ใช้งาน​ได้​ เช่น​ เ​น็​ก​ซัส​ซี​เรน​ไนต์​และ​เครื่อง​กู้​ซาก​ทางอากาศ",
+            "VN": "Thiết bị cá nhân phải được đặt vào ngăn thiết bị cá nhân để hoạt động. Các thiết bị này bao gồm Trung Tâm Xiranite và Thiết Bị Thu Hồi Trên Không."
+          },
+          "id": "wiki_tut_adv_equip_portable_1",
+          "image": "",
+          "order": 1,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Dispositivo Pessoal",
+            "CN": "随身装置",
+            "DE": "Persönliches Gerät",
+            "EN": "Personal Device",
+            "FR": "Dispositif personnel",
+            "ID": "Perangkat Pribadi",
+            "IT": "Dispositivo personale",
+            "JP": "携帯アイテム",
+            "KR": "휴대 장치",
+            "MX": "Dispositivo personal",
+            "RU": "Личное устройство",
+            "TC": "隨身裝置",
+            "TH": "อุปกรณ์​ส่วนตัว",
+            "VN": "Thiết Bị Cá Nhân"
+          },
+          "tutorialId": "wiki_tut_adv_equip_portable",
+          "video": "guide_video_xiranite_nexus_equip",
+          "videoDeviceType": "Common"
+        },
+        "newValue": {
+          "content": {
+            "BR": "Um dispositivo pessoal deverá ser colocado em um espaço para dispositivo pessoal para funcionar. Exemplos desses dispositivos são o <@gd.key>Nexus de Xiranita</> e o <@gd.key>Aerorrecuperador</>.",
+            "CN": "需要放置在随身装置格中激活才会起效的装置。<@gd.key>枢壤仪</>、<@gd.key>浮空回收器</>都属于此类装置。",
+            "DE": "Ein persönliches Gerät muss in einem persönlichen Geräteplatz liegen, damit es funktioniert. Beispiele sind der <@gd.key>Xiranit-Nexus</> und das <@gd.key>Aero-Bergungsmodul</>.",
+            "EN": "A personal device must be placed in a personal device slot in order to work. Such devices include the <@gd.key>Xiranite Nexus</> and the <@gd.key>Aero-Salvager</>.",
+            "FR": "Les dispositifs personnels ne fonctionnent que s'ils sont placés dans un emplacement utilitaire personnel. Le <@gd.key>Nexus en xiranite</> et l'<@gd.key>aéro-récupérateur</> en font tous les deux partie.",
+            "ID": "Perangkat pribadi harus ditempatkan di slot perangkat pribadi agar bisa berfungsi. Perangkat ini meliputi <@gd.key>Nexus Xiranite</> dan <@gd.key>Pengangkut Layang</>.",
+            "IT": "Per funzionare, un dispositivo personale dev'essere posizionato in uno slot per dispositivi personali. Tra questi, ci sono il <@gd.key>Nexus di xiranite</> e l'<@gd.key>Aerorecuperatore</>.",
+            "JP": "携帯アイテム枠に入れることで起動状態になる。<@gd.key>枢壌儀</>、<@gd.key>空中回収装置</>もすべて携帯アイテムに分類される。",
+            "KR": "휴대 장치 슬롯에 배치하고 활성화해야만 효과가 적용되는 장치입니다. <@gd.key>중추 식양 장치</>, <@gd.key>부유식 회수기</>가 이러한 장치에 속합니다.",
+            "MX": "Un dispositivo personal debe colocarse en una ranura para dispositivo personal para que pueda funcionar. Entre estos dispositivos se encuentran el <@gd.key>Nexus de Xiranita</> y el <@gd.key>Aerorrecuperador</>.",
+            "RU": "Для работы нужно поместить личное устройство в соответствующую ячейку. К таким устройствам относятся <@gd.key>ксиранитовый нексус</> и <@gd.key>аэроэвакуатор</>.",
+            "TC": "需要放置在隨身裝置格中才會生效啟用的裝置。<@gd.key>樞壤儀</>、<@gd.key>浮空回收器</>都屬於此類裝置。",
+            "TH": "อุปกรณ์​ส่วนตัว​ต้อง​ใส่​ใน​ช่อง​อุปกรณ์​ส่วนตัว​เพื่อ​เปิด​ใช้งาน​ เช่น​<@gd.key>​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</>​และ​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</>",
+            "VN": "Thiết bị cá nhân phải được đặt vào ngăn thiết bị cá nhân để hoạt động. Các thiết bị này bao gồm <@gd.key>Trung Tâm Xiranite</> và <@gd.key>Thiết Bị Thu Hồi Trên Không</>."
+          },
+          "id": "wiki_tut_adv_equip_portable_1",
+          "image": "",
+          "order": 1,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Dispositivo Pessoal",
+            "CN": "随身装置",
+            "DE": "Persönliches Gerät",
+            "EN": "Personal Device",
+            "FR": "Dispositif personnel",
+            "ID": "Perangkat Pribadi",
+            "IT": "Dispositivo personale",
+            "JP": "携帯アイテム",
+            "KR": "휴대 장치",
+            "MX": "Dispositivo personal",
+            "RU": "Личное устройство",
+            "TC": "隨身裝置",
+            "TH": "อุปกรณ์​ส่วนตัว",
+            "VN": "Thiết Bị Cá Nhân"
+          },
+          "tutorialId": "wiki_tut_adv_equip_portable",
+          "video": "guide_video_xiranite_nexus_equip",
+          "videoDeviceType": "Common"
+        },
+        "changed": {
+          "content": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Um dispositivo pessoal deve ser colocado em um espaço para dispositivo pessoal para funcionar. Exemplos desses dispositivos são o Nexus de Xiranita e o Aerorrecuperador.",
+                "newText": "Um dispositivo pessoal deverá ser colocado em um espaço para dispositivo pessoal para funcionar. Exemplos desses dispositivos são o <@gd.key>Nexus de Xiranita</> e o <@gd.key>Aerorrecuperador</>."
+              },
+              "CN": {
+                "oldText": "需要放置在随身装置格中激活才会起效的装置，枢壤仪、浮空回收器都属于此类装置。",
+                "newText": "需要放置在随身装置格中激活才会起效的装置。<@gd.key>枢壤仪</>、<@gd.key>浮空回收器</>都属于此类装置。"
+              },
+              "DE": {
+                "oldText": "Ein persönliches Gerät muss in einem Platz für ein persönliches Gerät liegen, damit es funktioniert. Beispiele sind der Xiranit-Nexus und das Aero-Bergungsmodul.",
+                "newText": "Ein persönliches Gerät muss in einem persönlichen Geräteplatz liegen, damit es funktioniert. Beispiele sind der <@gd.key>Xiranit-Nexus</> und das <@gd.key>Aero-Bergungsmodul</>."
+              },
+              "EN": {
+                "oldText": "A personal device must be placed in a personal device slot in order to work. Such devices include the Xiranite Nexus and the Aero-Salvager.",
+                "newText": "A personal device must be placed in a personal device slot in order to work. Such devices include the <@gd.key>Xiranite Nexus</> and the <@gd.key>Aero-Salvager</>."
+              },
+              "FR": {
+                "oldText": "Les dispositifs personnels ne fonctionnent que s'ils sont placés dans un emplacement utilitaire personnel. Le Nexus en xiranite et l'aéro-récupérateur en font tous les deux partie.",
+                "newText": "Les dispositifs personnels ne fonctionnent que s'ils sont placés dans un emplacement utilitaire personnel. Le <@gd.key>Nexus en xiranite</> et l'<@gd.key>aéro-récupérateur</> en font tous les deux partie."
+              },
+              "ID": {
+                "oldText": "Perangkat pribadi harus ditempatkan di slot perangkat pribadi agar bisa berfungsi. Perangkat ini meliputi Nexus Xiranite dan Pengangkut Layang.",
+                "newText": "Perangkat pribadi harus ditempatkan di slot perangkat pribadi agar bisa berfungsi. Perangkat ini meliputi <@gd.key>Nexus Xiranite</> dan <@gd.key>Pengangkut Layang</>."
+              },
+              "IT": {
+                "oldText": "Per funzionare, un dispositivo personale dev'essere posizionato in uno slot per dispositivi personali. Tra questi dispositivi c'è il Nexus di xiranite e l'Aerorecuperatore.",
+                "newText": "Per funzionare, un dispositivo personale dev'essere posizionato in uno slot per dispositivi personali. Tra questi, ci sono il <@gd.key>Nexus di xiranite</> e l'<@gd.key>Aerorecuperatore</>."
+              },
+              "JP": {
+                "oldText": "携帯アイテム枠に入れることで起動状態になる。枢壌儀、空中回収装置もすべて携帯アイテムに分類される。",
+                "newText": "携帯アイテム枠に入れることで起動状態になる。<@gd.key>枢壌儀</>、<@gd.key>空中回収装置</>もすべて携帯アイテムに分類される。"
+              },
+              "KR": {
+                "oldText": "휴대 장치 슬롯에 배치하고 활성화해야만 효과가 적용되는 장치입니다. 중추 식양 장치, 부유식 회수기가 이러한 장치에 속합니다.",
+                "newText": "휴대 장치 슬롯에 배치하고 활성화해야만 효과가 적용되는 장치입니다. <@gd.key>중추 식양 장치</>, <@gd.key>부유식 회수기</>가 이러한 장치에 속합니다."
+              },
+              "MX": {
+                "oldText": "Un dispositivo personal debe colocarse en una ranura para dispositivo personal para funcionar. Entre estos dispositivos se incluyen el Nexus de Xiranita y el Aerorrecuperador.",
+                "newText": "Un dispositivo personal debe colocarse en una ranura para dispositivo personal para que pueda funcionar. Entre estos dispositivos se encuentran el <@gd.key>Nexus de Xiranita</> y el <@gd.key>Aerorrecuperador</>."
+              },
+              "RU": {
+                "oldText": "Для работы нужно поместить личное устройство в соответствующую ячейку. К таким устройствам относятся ксиранитовый нексус и аэроэвакуатор.",
+                "newText": "Для работы нужно поместить личное устройство в соответствующую ячейку. К таким устройствам относятся <@gd.key>ксиранитовый нексус</> и <@gd.key>аэроэвакуатор</>."
+              },
+              "TC": {
+                "oldText": "需要放置在隨身裝置格中才會生效啟用的裝置，樞壤儀、浮空回收器都屬於此類裝置。",
+                "newText": "需要放置在隨身裝置格中才會生效啟用的裝置。<@gd.key>樞壤儀</>、<@gd.key>浮空回收器</>都屬於此類裝置。"
+              },
+              "TH": {
+                "oldText": "อุปกรณ์​ส่วนตัว​ที่​ต้อง​ติดตั้ง​ลง​ใน​ช่อง​อุปกรณ์​ส่วนตัว​จึง​จะ​ใช้งาน​ได้​ เช่น​ เ​น็​ก​ซัส​ซี​เรน​ไนต์​และ​เครื่อง​กู้​ซาก​ทางอากาศ",
+                "newText": "อุปกรณ์​ส่วนตัว​ต้อง​ใส่​ใน​ช่อง​อุปกรณ์​ส่วนตัว​เพื่อ​เปิด​ใช้งาน​ เช่น​<@gd.key>​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</>​และ​<@gd.key>​เครื่อง​กู้​ซาก​ทางอากาศ​</>"
+              },
+              "VN": {
+                "oldText": "Thiết bị cá nhân phải được đặt vào ngăn thiết bị cá nhân để hoạt động. Các thiết bị này bao gồm Trung Tâm Xiranite và Thiết Bị Thu Hồi Trên Không.",
+                "newText": "Thiết bị cá nhân phải được đặt vào ngăn thiết bị cá nhân để hoạt động. Các thiết bị này bao gồm <@gd.key>Trung Tâm Xiranite</> và <@gd.key>Thiết Bị Thu Hồi Trên Không</>."
+              }
+            }
+          }
+        }
+      },
+      "wiki_tut_adv_xiranite_nexus_3": {
+        "oldValue": {
+          "content": {
+            "BR": "Use a varredura de rastreamento contínuo do <@gd.key>Nexus de Xiranita</> para revelar e seguir <@gd.key>veios de energia do Æther</>, localizar seu <@gd.key>núcleo</> e manter o <@gd.key>retículo de varredura sobre o núcleo</> por algum tempo para destruí-lo e acabar com o <@gd.key>aluvião de energia</>.",
+            "CN": "需要使用<@gd.key>枢壤仪</>持续追踪扫描出<@gd.key>超域能量脉络</>，找到最终的<@gd.key>核心</>，对准<@gd.key>核心</>一段时间后会将其摧毁，从而破坏<@gd.key>淤积能量体</>。",
+            "DE": "Finde und folge <@gd.key>Æther-Energieadern</>, indem du die Gegend fortwährend mit dem <@gd.key>Xiranit-Nexus</> scannst, lokalisiere den <@gd.key>Kern</> und halte das <@gd.key>Scan-Fadenkreuz eine Weile auf den Kern gerichtet</>, um ihn zu zerstören und das <@gd.key>Energie-Alluvium</> zu extrahieren.",
+            "EN": "Use the continuous tracking scan of the <@gd.key>Xiranite Nexus</> to reveal and follow <@gd.key>Æther energy veins</>, locate the <@gd.key>core</>, and keep the <@gd.key>scanning reticle on the core</> for a while to destroy it and take out the <@gd.key>energy alluvium</>.",
+            "FR": "Servez-vous de l'analyse continue du <@gd.key>Nexus en xiranite</> pour révéler et suivre les <@gd.key>veines d'énergie æthérique</> et localiser le <@gd.key>noyau</>. Gardez le <@gd.key>réticule du scanner sur le noyau</> pour le détruire et ainsi dissiper l'<@gd.key>alluvion d'énergie</>.",
+            "ID": "Gunakan pemindaian pelacakan terus-menerus dari <@gd.key>Nexus Xiranite</> untuk mengungkap dan mengikuti <@gd.key>urat energi Æther</>, temukan <@gd.key>intinya</>, dan arahkan <@gd.key>retikel pemindaian ke inti tersebut</> selama beberapa saat untuk menghancurkannya serta melenyapkan <@gd.key>aluvium energi</>.",
+            "IT": "Usa la scansione con tracciamento continuo del <@gd.key>Nexus di xiranite</> per rivelare e seguire <@gd.key>vene di energia dell'Æther</>, individuare il <@gd.key>nucleo</> e mantenere per un po' il <@gd.key>reticolo di scansione sul nucleo</> per distruggerlo ed estrarre il <@gd.key>sedimento energetico</>.",
+            "JP": "<@gd.key>枢壌儀</>を使用して<@gd.key>超域エネルギー脈</>を継続的にスキャンしながら追跡し、<@gd.key>コア</>を見つける必要がある。<@gd.key>コア</>に一定時間照準を合わせると破壊でき、<@gd.key>エネルギー体</>も消滅する。",
+            "KR": "<@gd.key>중추 식양 장치</>를 사용해 지속적으로 <@gd.key>초자연 에너지 혈맥</>을 추적 및 스캔하여 <@gd.key>코어</>를 찾아야 합니다. <@gd.key>코어</>를 일정 시간 조준하면 이를 파괴하여 <@gd.key>응집된 에너지체</>를 파괴할 수 있습니다.",
+            "MX": "Usa el escaneo de seguimiento continuo del <@gd.key>Nexus de Xiranita</> para revelar y seguir las <@gd.key>vetas de Energía de éter</>, localizar el <@gd.key>núcleo</> y mantener la <@gd.key>retícula de escaneo sobre el núcleo</> durante un momento para destruirlo y extraer el <@gd.key>Aluvión energético</>.",
+            "RU": "Используйте непрерывное сканирование <@gd.key>ксиранитового нексуса</>, чтобы обнаружить <@gd.key>жилы эфирной энергии</> и найти по ним <@gd.key>ядро</>. Удерживайте <@gd.key>прицел сканера на ядре</>, чтобы уничтожить его и очистить <@gd.key>аллювий энергии</>.",
+            "TC": "需要使用<@gd.key>樞壤儀</>持續追蹤掃描出<@gd.key>超域能量脈絡</>，找到最終的<@gd.key>核心</>，對準<@gd.key>核心</>一段時間後會將其摧毀，從而破壞<@gd.key>淤積能量體</>。",
+            "TH": "ใช้การ​สแกน​ติดตาม​ต่อเนื่อง​ของ​<@gd.key>​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</> เพื่อ​เปิดเผย​และ​ติดตาม​<@gd.key>​สาย​พลังงาน​เอ​เทอร์​</> หา​ตำแหน่ง​<@gd.key>​แกน​</> และ​นำ​<@gd.key>​เป้า​สแกน​ไว้​ที่​แกน​</> สักครู่​หนึ่ง​เพื่อ​ทำลาย​มัน​ละ​นำ​<@gd.key>​อัล​ลู​เวีย​ม​พลังงาน​</>​ออกมา",
+            "VN": "Sử dụng chế độ quét theo dõi liên tục của <@gd.key>Trung Tâm Xiranite</> để hiển thị và lần theo <@gd.key>các mạch năng lượng Æther</>, xác định vị trí <@gd.key>lõi</>, rồi giữ <@gd.key>tâm ngắm quét trên lõi</> trong một khoảng thời gian để phá hủy nó và loại bỏ <@gd.key>Năng Lượng Bồi Tích</>."
+          },
+          "id": "wiki_tut_adv_xiranite_nexus_3",
+          "image": "",
+          "order": 1,
+          "refWikiEntryIds": [
+            "wiki_tut_adv_xiranite_nexus"
+          ],
+          "title": {
+            "BR": "Nexus de Xiranita: Scanner",
+            "CN": "枢壤仪扫描",
+            "DE": "Xiranit-Nexus: Scanner",
+            "EN": "Xiranite Nexus: Scanner",
+            "FR": "Nexus en xiranite : scanner",
+            "ID": "Nexus Xiranite: Pemindai",
+            "IT": "Nexus di xiranite: scansione",
+            "JP": "<p=\"すうじょうぎ\" padding=0>枢壌儀</p>スキャン",
+            "KR": "중추 식양 장치 스캔",
+            "MX": "Nexus de Xiranita: Escáner",
+            "RU": "Ксиранитовый нексус: сканер",
+            "TC": "樞壤儀掃描",
+            "TH": "เ​น็​ก​ซัส​ซี​เรน​ไนต์​: เครื่อง​สแกน",
+            "VN": "Trung Tâm Xiranite: Máy Quét"
+          },
+          "tutorialId": "wiki_tut_adv_xiranite_nexus_scan",
+          "video": "guide_video_xiranite_nexus_scan",
+          "videoDeviceType": "Common"
+        },
+        "newValue": {
+          "content": {
+            "BR": "Recurso de Varredura do Nexus de Xiranita\tUse a varredura de rastreamento contínuo do <@gd.key>Nexus de Xiranita</> para revelar e seguir <@gd.key>veios de energia do Æther</>, localizar seu <@gd.key>núcleo</> e manter o <@gd.key>retículo de varredura sobre o núcleo</> por algum tempo para destruí-lo e acabar com o <@gd.key>aluvião de energia</>.",
+            "CN": "枢壤仪扫描\t需要使用<@gd.key>枢壤仪</>持续追踪扫描出<@gd.key>超域能量脉络</>，找到最终的<@gd.key>核心</>，对准<@gd.key>核心</>一段时间后会将其摧毁，从而破坏<@gd.key>淤积能量体</>。",
+            "DE": "Xiranit-Nexus-Scan-Funktion\tFinde und folge <@gd.key>Æther-Energieadern</>, indem du die Gegend fortwährend mit dem <@gd.key>Xiranit-Nexus</> scannst, lokalisiere den <@gd.key>Kern</> und halte das <@gd.key>Scan-Fadenkreuz eine Weile auf den Kern gerichtet</>, um ihn zu zerstören und das <@gd.key>Energie-Alluvium</> zu extrahieren.",
+            "EN": "Xiranite Nexus Scan Feature\tUse the continuous tracking scan of the <@gd.key>Xiranite Nexus</> to reveal and follow <@gd.key>Æther energy veins</>, locate the <@gd.key>core</>, and keep the <@gd.key>scanning reticle on the core</> for a while to destroy it and take out the <@gd.key>energy alluvium</>.",
+            "FR": "Fonctionnalité de scan du Nexus en xiranite\tServez-vous de l'analyse continue du <@gd.key>Nexus en xiranite</> pour révéler et suivre les <@gd.key>veines d'énergie æthérique</>, localiser le <@gd.key>noyau</> et garder le <@gd.key>réticule du scanner sur le noyau</> pendant un certain temps pour le détruire et dissiper l'<@gd.key>alluvion d'énergie</>.",
+            "ID": "Fitur Pemindaian Nexus Xiranite\tGunakan pemindaian pelacakan terus-menerus dari <@gd.key>Nexus Xiranite</> untuk mengungkap dan mengikuti <@gd.key>urat energi Æther</>, temukan <@gd.key>intinya</>, dan arahkan <@gd.key>retikel pemindaian ke inti tersebut</> selama beberapa saat untuk menghancurkannya serta melenyapkan <@gd.key>aluvium energi</>.",
+            "IT": "Funzione di scansione del Nexus di xiranite\tUsa la scansione con tracciamento continuo del <@gd.key>Nexus di xiranite</> per rivelare e seguire <@gd.key>vene di energia dell'Æther</>, individuare il <@gd.key>nucleo</> e mantenere per un po' il <@gd.key>reticolo di scansione sul nucleo</> per distruggerlo ed estrarre il <@gd.key>sedimento energetico</>.",
+            "JP": "枢壌儀スキャン\t<@gd.key>枢壌儀</>を使用して<@gd.key>超域エネルギー脈</>を継続的にスキャンしながら追跡し、<@gd.key>コア</>を見つける必要がある。<@gd.key>コア</>に一定時間照準を合わせると破壊でき、<@gd.key>エネルギー体</>も消滅する。",
+            "KR": "중추 식양 장치 스캔 \t <@gd.key>중추 식양 장치</>를 사용해 지속적으로 <@gd.key>초자연 에너지 혈맥</>을 추적 및 스캔하여 <@gd.key>코어</>를 찾아야 합니다. <@gd.key>코어</>를 일정 시간 조준하면 이를 파괴하여 <@gd.key>응집된 에너지체</>를 파괴할 수 있습니다.",
+            "MX": "Función de escaneo del Nexus de Xiranita\tUsa el escaneo de seguimiento continuo del <@gd.key>Nexus de Xiranita</> para revelar y seguir las <@gd.key>vetas de Energía de éter</>, localizar el <@gd.key>núcleo</> y mantener la <@gd.key>retícula de escaneo sobre el núcleo</> durante un momento para destruirlo y extraer el <@gd.key>aluvión energético</>.",
+            "RU": "Функция сканирования ксиранитового нексуса\tИспользуйте непрерывное сканирование <@gd.key>ксиранитового нексуса</>, чтобы обнаружить <@gd.key>жилы эфирной энергии</> и найти по ним <@gd.key>ядро</>. Удерживайте <@gd.key>прицел сканера на ядре</>, чтобы уничтожить его и очистить <@gd.key>аллювий энергии</>.",
+            "TC": "樞壤儀掃描\t需要使用<@gd.key>樞壤儀</>持續追蹤掃描出<@gd.key>超域能量脈絡</>，找到最終的<@gd.key>核心</>，對準<@gd.key>核心</>一段時間後會將其摧毀，從而破壞<@gd.key>淤積能量體</>。",
+            "TH": "ฟีเจอร์​สแกน​เ​น็​ก​ซัส​ซี​เรน​ไนต์​\t​ใช้การ​สแกน​ติดตาม​ต่อเนื่อง​ของ​<@gd.key>​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</> เพื่อ​เปิดเผย​และ​ติดตาม​<@gd.key>​สาย​พลังงาน​เอ​เทอร์​</> หา​ตำแหน่ง​<@gd.key>​แกน​</> และ​นำ​<@gd.key>​เป้า​สแกน​ไว้​ที่​แกน​</>​สักครู่​หนึ่ง​เพื่อ​ทำลาย​มัน​และ​นำ​<@gd.key>​อัล​ลู​เวีย​ม​พลังงาน​</>​ออกมา",
+            "VN": "Tính Năng Quét Trung Tâm Xiranite\tSử dụng chế độ quét theo dõi liên tục của <@gd.key>Trung Tâm Xiranite</> để hiển thị và lần theo <@gd.key>các mạch năng lượng Æther</>, xác định vị trí <@gd.key>lõi</>, rồi giữ <@gd.key>tâm ngắm quét trên lõi</> trong một khoảng thời gian để phá hủy nó và loại bỏ <@gd.key>Năng Lượng Bồi Tích</>."
+          },
+          "id": "wiki_tut_adv_xiranite_nexus_3",
+          "image": "",
+          "order": 1,
+          "refWikiEntryIds": [
+            "wiki_tut_adv_xiranite_nexus"
+          ],
+          "title": {
+            "BR": "Nexus de Xiranita: Scanner",
+            "CN": "枢壤仪扫描",
+            "DE": "Xiranit-Nexus: Scanner",
+            "EN": "Xiranite Nexus: Scanner",
+            "FR": "Nexus en xiranite : scanner",
+            "ID": "Nexus Xiranite: Pemindai",
+            "IT": "Nexus di xiranite: scansione",
+            "JP": "<p=\"すうじょうぎ\" padding=0>枢壌儀</p>スキャン",
+            "KR": "중추 식양 장치 스캔",
+            "MX": "Nexus de Xiranita: Escáner",
+            "RU": "Ксиранитовый нексус: сканер",
+            "TC": "樞壤儀掃描",
+            "TH": "เ​น็​ก​ซัส​ซี​เรน​ไนต์​: เครื่อง​สแกน",
+            "VN": "Trung Tâm Xiranite: Máy Quét"
+          },
+          "tutorialId": "wiki_tut_adv_xiranite_nexus_scan",
+          "video": "guide_video_xiranite_nexus_scan",
+          "videoDeviceType": "Common"
+        },
+        "changed": {
+          "content": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Use a varredura de rastreamento contínuo do <@gd.key>Nexus de Xiranita</> para revelar e seguir <@gd.key>veios de energia do Æther</>, localizar seu <@gd.key>núcleo</> e manter o <@gd.key>retículo de varredura sobre o núcleo</> por algum tempo para destruí-lo e acabar com o <@gd.key>aluvião de energia</>.",
+                "newText": "Recurso de Varredura do Nexus de Xiranita\tUse a varredura de rastreamento contínuo do <@gd.key>Nexus de Xiranita</> para revelar e seguir <@gd.key>veios de energia do Æther</>, localizar seu <@gd.key>núcleo</> e manter o <@gd.key>retículo de varredura sobre o núcleo</> por algum tempo para destruí-lo e acabar com o <@gd.key>aluvião de energia</>."
+              },
+              "CN": {
+                "oldText": "需要使用<@gd.key>枢壤仪</>持续追踪扫描出<@gd.key>超域能量脉络</>，找到最终的<@gd.key>核心</>，对准<@gd.key>核心</>一段时间后会将其摧毁，从而破坏<@gd.key>淤积能量体</>。",
+                "newText": "枢壤仪扫描\t需要使用<@gd.key>枢壤仪</>持续追踪扫描出<@gd.key>超域能量脉络</>，找到最终的<@gd.key>核心</>，对准<@gd.key>核心</>一段时间后会将其摧毁，从而破坏<@gd.key>淤积能量体</>。"
+              },
+              "DE": {
+                "oldText": "Finde und folge <@gd.key>Æther-Energieadern</>, indem du die Gegend fortwährend mit dem <@gd.key>Xiranit-Nexus</> scannst, lokalisiere den <@gd.key>Kern</> und halte das <@gd.key>Scan-Fadenkreuz eine Weile auf den Kern gerichtet</>, um ihn zu zerstören und das <@gd.key>Energie-Alluvium</> zu extrahieren.",
+                "newText": "Xiranit-Nexus-Scan-Funktion\tFinde und folge <@gd.key>Æther-Energieadern</>, indem du die Gegend fortwährend mit dem <@gd.key>Xiranit-Nexus</> scannst, lokalisiere den <@gd.key>Kern</> und halte das <@gd.key>Scan-Fadenkreuz eine Weile auf den Kern gerichtet</>, um ihn zu zerstören und das <@gd.key>Energie-Alluvium</> zu extrahieren."
+              },
+              "EN": {
+                "oldText": "Use the continuous tracking scan of the <@gd.key>Xiranite Nexus</> to reveal and follow <@gd.key>Æther energy veins</>, locate the <@gd.key>core</>, and keep the <@gd.key>scanning reticle on the core</> for a while to destroy it and take out the <@gd.key>energy alluvium</>.",
+                "newText": "Xiranite Nexus Scan Feature\tUse the continuous tracking scan of the <@gd.key>Xiranite Nexus</> to reveal and follow <@gd.key>Æther energy veins</>, locate the <@gd.key>core</>, and keep the <@gd.key>scanning reticle on the core</> for a while to destroy it and take out the <@gd.key>energy alluvium</>."
+              },
+              "FR": {
+                "oldText": "Servez-vous de l'analyse continue du <@gd.key>Nexus en xiranite</> pour révéler et suivre les <@gd.key>veines d'énergie æthérique</> et localiser le <@gd.key>noyau</>. Gardez le <@gd.key>réticule du scanner sur le noyau</> pour le détruire et ainsi dissiper l'<@gd.key>alluvion d'énergie</>.",
+                "newText": "Fonctionnalité de scan du Nexus en xiranite\tServez-vous de l'analyse continue du <@gd.key>Nexus en xiranite</> pour révéler et suivre les <@gd.key>veines d'énergie æthérique</>, localiser le <@gd.key>noyau</> et garder le <@gd.key>réticule du scanner sur le noyau</> pendant un certain temps pour le détruire et dissiper l'<@gd.key>alluvion d'énergie</>."
+              },
+              "ID": {
+                "oldText": "Gunakan pemindaian pelacakan terus-menerus dari <@gd.key>Nexus Xiranite</> untuk mengungkap dan mengikuti <@gd.key>urat energi Æther</>, temukan <@gd.key>intinya</>, dan arahkan <@gd.key>retikel pemindaian ke inti tersebut</> selama beberapa saat untuk menghancurkannya serta melenyapkan <@gd.key>aluvium energi</>.",
+                "newText": "Fitur Pemindaian Nexus Xiranite\tGunakan pemindaian pelacakan terus-menerus dari <@gd.key>Nexus Xiranite</> untuk mengungkap dan mengikuti <@gd.key>urat energi Æther</>, temukan <@gd.key>intinya</>, dan arahkan <@gd.key>retikel pemindaian ke inti tersebut</> selama beberapa saat untuk menghancurkannya serta melenyapkan <@gd.key>aluvium energi</>."
+              },
+              "IT": {
+                "oldText": "Usa la scansione con tracciamento continuo del <@gd.key>Nexus di xiranite</> per rivelare e seguire <@gd.key>vene di energia dell'Æther</>, individuare il <@gd.key>nucleo</> e mantenere per un po' il <@gd.key>reticolo di scansione sul nucleo</> per distruggerlo ed estrarre il <@gd.key>sedimento energetico</>.",
+                "newText": "Funzione di scansione del Nexus di xiranite\tUsa la scansione con tracciamento continuo del <@gd.key>Nexus di xiranite</> per rivelare e seguire <@gd.key>vene di energia dell'Æther</>, individuare il <@gd.key>nucleo</> e mantenere per un po' il <@gd.key>reticolo di scansione sul nucleo</> per distruggerlo ed estrarre il <@gd.key>sedimento energetico</>."
+              },
+              "JP": {
+                "oldText": "<@gd.key>枢壌儀</>を使用して<@gd.key>超域エネルギー脈</>を継続的にスキャンしながら追跡し、<@gd.key>コア</>を見つける必要がある。<@gd.key>コア</>に一定時間照準を合わせると破壊でき、<@gd.key>エネルギー体</>も消滅する。",
+                "newText": "枢壌儀スキャン\t<@gd.key>枢壌儀</>を使用して<@gd.key>超域エネルギー脈</>を継続的にスキャンしながら追跡し、<@gd.key>コア</>を見つける必要がある。<@gd.key>コア</>に一定時間照準を合わせると破壊でき、<@gd.key>エネルギー体</>も消滅する。"
+              },
+              "KR": {
+                "oldText": "<@gd.key>중추 식양 장치</>를 사용해 지속적으로 <@gd.key>초자연 에너지 혈맥</>을 추적 및 스캔하여 <@gd.key>코어</>를 찾아야 합니다. <@gd.key>코어</>를 일정 시간 조준하면 이를 파괴하여 <@gd.key>응집된 에너지체</>를 파괴할 수 있습니다.",
+                "newText": "중추 식양 장치 스캔 \t <@gd.key>중추 식양 장치</>를 사용해 지속적으로 <@gd.key>초자연 에너지 혈맥</>을 추적 및 스캔하여 <@gd.key>코어</>를 찾아야 합니다. <@gd.key>코어</>를 일정 시간 조준하면 이를 파괴하여 <@gd.key>응집된 에너지체</>를 파괴할 수 있습니다."
+              },
+              "MX": {
+                "oldText": "Usa el escaneo de seguimiento continuo del <@gd.key>Nexus de Xiranita</> para revelar y seguir las <@gd.key>vetas de Energía de éter</>, localizar el <@gd.key>núcleo</> y mantener la <@gd.key>retícula de escaneo sobre el núcleo</> durante un momento para destruirlo y extraer el <@gd.key>Aluvión energético</>.",
+                "newText": "Función de escaneo del Nexus de Xiranita\tUsa el escaneo de seguimiento continuo del <@gd.key>Nexus de Xiranita</> para revelar y seguir las <@gd.key>vetas de Energía de éter</>, localizar el <@gd.key>núcleo</> y mantener la <@gd.key>retícula de escaneo sobre el núcleo</> durante un momento para destruirlo y extraer el <@gd.key>aluvión energético</>."
+              },
+              "RU": {
+                "oldText": "Используйте непрерывное сканирование <@gd.key>ксиранитового нексуса</>, чтобы обнаружить <@gd.key>жилы эфирной энергии</> и найти по ним <@gd.key>ядро</>. Удерживайте <@gd.key>прицел сканера на ядре</>, чтобы уничтожить его и очистить <@gd.key>аллювий энергии</>.",
+                "newText": "Функция сканирования ксиранитового нексуса\tИспользуйте непрерывное сканирование <@gd.key>ксиранитового нексуса</>, чтобы обнаружить <@gd.key>жилы эфирной энергии</> и найти по ним <@gd.key>ядро</>. Удерживайте <@gd.key>прицел сканера на ядре</>, чтобы уничтожить его и очистить <@gd.key>аллювий энергии</>."
+              },
+              "TC": {
+                "oldText": "需要使用<@gd.key>樞壤儀</>持續追蹤掃描出<@gd.key>超域能量脈絡</>，找到最終的<@gd.key>核心</>，對準<@gd.key>核心</>一段時間後會將其摧毀，從而破壞<@gd.key>淤積能量體</>。",
+                "newText": "樞壤儀掃描\t需要使用<@gd.key>樞壤儀</>持續追蹤掃描出<@gd.key>超域能量脈絡</>，找到最終的<@gd.key>核心</>，對準<@gd.key>核心</>一段時間後會將其摧毀，從而破壞<@gd.key>淤積能量體</>。"
+              },
+              "TH": {
+                "oldText": "ใช้การ​สแกน​ติดตาม​ต่อเนื่อง​ของ​<@gd.key>​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</> เพื่อ​เปิดเผย​และ​ติดตาม​<@gd.key>​สาย​พลังงาน​เอ​เทอร์​</> หา​ตำแหน่ง​<@gd.key>​แกน​</> และ​นำ​<@gd.key>​เป้า​สแกน​ไว้​ที่​แกน​</> สักครู่​หนึ่ง​เพื่อ​ทำลาย​มัน​ละ​นำ​<@gd.key>​อัล​ลู​เวีย​ม​พลังงาน​</>​ออกมา",
+                "newText": "ฟีเจอร์​สแกน​เ​น็​ก​ซัส​ซี​เรน​ไนต์​\t​ใช้การ​สแกน​ติดตาม​ต่อเนื่อง​ของ​<@gd.key>​เ​น็​ก​ซัส​ซี​เรน​ไนต์​</> เพื่อ​เปิดเผย​และ​ติดตาม​<@gd.key>​สาย​พลังงาน​เอ​เทอร์​</> หา​ตำแหน่ง​<@gd.key>​แกน​</> และ​นำ​<@gd.key>​เป้า​สแกน​ไว้​ที่​แกน​</>​สักครู่​หนึ่ง​เพื่อ​ทำลาย​มัน​และ​นำ​<@gd.key>​อัล​ลู​เวีย​ม​พลังงาน​</>​ออกมา"
+              },
+              "VN": {
+                "oldText": "Sử dụng chế độ quét theo dõi liên tục của <@gd.key>Trung Tâm Xiranite</> để hiển thị và lần theo <@gd.key>các mạch năng lượng Æther</>, xác định vị trí <@gd.key>lõi</>, rồi giữ <@gd.key>tâm ngắm quét trên lõi</> trong một khoảng thời gian để phá hủy nó và loại bỏ <@gd.key>Năng Lượng Bồi Tích</>.",
+                "newText": "Tính Năng Quét Trung Tâm Xiranite\tSử dụng chế độ quét theo dõi liên tục của <@gd.key>Trung Tâm Xiranite</> để hiển thị và lần theo <@gd.key>các mạch năng lượng Æther</>, xác định vị trí <@gd.key>lõi</>, rồi giữ <@gd.key>tâm ngắm quét trên lõi</> trong một khoảng thời gian để phá hủy nó và loại bỏ <@gd.key>Năng Lượng Bồi Tích</>."
+              }
+            }
+          }
+        }
+      },
+      "wiki_tut_bat_lockon_1_ct": {
+        "oldValue": {
+          "content": {
+            "BR": "Pressione botão Travar Em <action=battle_camera_lock> para travar a visão no alvo. \nMova o controle analógico <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> para mudar o travamento para outro alvo. \nPressione o botão Travar Em <action=battle_camera_lock> novamente para cancelar o travamento.",
+            "CN": "按下锁定键<action=battle_camera_lock>，视角将锁定在目标身上。\n推动<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>操作杆可以切换锁定目标。\n再次按下锁定键<action=battle_camera_lock>，会取消锁定。",
+            "DE": "Drücke Anvisieren <action=battle_camera_lock>, um die Kamera auf dem Ziel zu verankern. \nBewege den <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>-Stick, um zwischen verschiedenen Zielen zu wechseln. \nDrücke Anvisieren <action=battle_camera_lock> erneut, um dich wieder frei umsehen zu können.",
+            "EN": "Press the lock-on button <action=battle_camera_lock> to lock the view on the target. \nMove the <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> stick to switch the lock-on to another target. \nPress the lock-on button <action=battle_camera_lock> again to cancel the lock-on.",
+            "FR": "Appuyez sur la touche de verrouillage <action=battle_camera_lock> pour verrouiller la cible.\nDéplacez le joystick <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> pour changer de cible verrouillée.\nAppuyez de nouveau sur la touche <action=battle_camera_lock> pour annuler le verrouillage.",
+            "ID": "Ketuk tombol penguncian <action=battle_camera_lock> untuk mengunci tampilan pada target. \nGerakkan tuas <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> untuk beralih penguncian ke target lain. \nTekan tombol penguncian <action=battle_camera_lock> lagi untuk membatalkan penguncian target.",
+            "IT": "Premi il tasto di aggancio <action=battle_camera_lock> per agganciare la visuale su un bersaglio.\nMuovi la <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> levetta per cambiare il bersaglio agganciato.\nPremi di nuovo il tasto di aggancio <action=battle_camera_lock> per cancellare l'aggancio.",
+            "JP": "ロックオン<action=battle_camera_lock>を押すと、カメラ視点をターゲットにロックオンできる。\n<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>を動かすと、ターゲットを切り替えられる。\nもう一度<action=battle_camera_lock>を押すと、ロックオンが解除される。",
+            "KR": "<action=battle_camera_lock> 고정 키를 누르면 시점이 목표에 고정됩니다.\n<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> 스틱을 조작하여 고정한 목표를 전환할 수 있습니다.\n다시 한번 <action=battle_camera_lock> 고정 키를 누르면 고정이 취소됩니다.",
+            "MX": "Presiona el botón de fijar <action=battle_camera_lock> para fijar la vista en el objetivo. \nMueve el joystick <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> para cambiar el fijado a otro objetivo. \nPresiona de nuevo el botón <action=battle_camera_lock> de fijado para cancelarlo.",
+            "RU": "Нажмите на кнопку захвата <action=battle_camera_lock>, чтобы захватить цель.\nИспользуйте джойстик <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>, чтобы переключиться на другую цель.\nПовторно нажмите на кнопку захвата <action=battle_camera_lock>, чтобы отменить захват.",
+            "TC": "按下鎖定按鈕<action=battle_camera_lock>，視角將鎖定在目標身上。\n推動<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>操作桿可以切換鎖定目標。\n再次按下鎖定按鈕<action=battle_camera_lock>，會取消鎖定。",
+            "TH": "กดปุ่ม​ล็อก​เป้า​ <action=battle_camera_lock> เพื่อ​ล็อก​มุมมอง​ไป​ที่​เป้าหมาย​ \nขยับ​จอย​สติ๊ก​<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>​เพื่อ​เปลี่ยน​การ​ล็อก​เป้าหมาย​ไป​ยัง​เป้าหมาย​อื่น​ \nกดปุ่ม​ล็อก​เป้า​<action=battle_camera_lock>​อีกครั้ง​เพื่อ​ยกเลิก​การ​ล็อก​เป้าหมาย",
+            "VN": "Nhấn nút khóa <action=battle_camera_lock> để khóa mục tiêu. \nDi chuyển cần <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> để chuyển chế độ khóa sang mục tiêu khác. \nNhấn nút khóa <action=battle_camera_lock> một lần nữa để hủy chế độ khóa."
+          },
+          "id": "wiki_tut_bat_lockon_1_ct",
+          "image": "",
+          "order": 1,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Travar Em",
+            "CN": "锁定",
+            "DE": "Anvisieren",
+            "EN": "Lock On",
+            "FR": "Verrouillage",
+            "ID": "Penguncian",
+            "IT": "Aggancia",
+            "JP": "ロックオン",
+            "KR": "고정",
+            "MX": "Fijar",
+            "RU": "Захват цели",
+            "TC": "鎖定",
+            "TH": "ล็อก​เป้า",
+            "VN": "Khóa Mục Tiêu"
+          },
+          "tutorialId": "wiki_tut_bat_lockon",
+          "video": "sketch_guide_video_battle_wiki_lockon_1_ct",
+          "videoDeviceType": "Controller"
+        },
+        "newValue": {
+          "content": {
+            "BR": "Pressione botão Travar Em <action=battle_camera_lock> para travar a visão no alvo. \nMova o controle analógico <action=common_rightstick> para mudar o travamento para outro alvo. \nPressione o botão Travar Em <action=battle_camera_lock> novamente para cancelar o travamento.",
+            "CN": "按下锁定键<action=battle_camera_lock>，视角将锁定在目标身上。\n推动<action=common_rightstick>操作杆可以切换锁定目标。\n再次按下锁定键<action=battle_camera_lock>，会取消锁定。",
+            "DE": "Drücke „Anvisieren“ <action=battle_camera_lock>, um die Kamera auf dem Ziel zu verankern. \nBewege den <action=common_rightstick>-Stick, um zwischen verschiedenen Zielen zu wechseln. \nDrücke „Anvisieren“ <action=battle_camera_lock> erneut, um dich wieder frei umsehen zu können.",
+            "EN": "Press the lock-on button <action=battle_camera_lock> to lock the view on the target. \nMove the <action=common_rightstick> stick to switch the lock-on to another target. \nPress the lock-on button <action=battle_camera_lock> again to cancel the lock-on.",
+            "FR": "Appuyez sur la touche de verrouillage <action=battle_camera_lock> pour verrouiller la cible. \nDéplacez le joystick <action=common_rightstick> pour changer de cible verrouillée.\nAppuyez de nouveau sur la touche <action=battle_camera_lock> pour annuler le verrouillage.",
+            "ID": "Ketuk tombol penguncian <action=battle_camera_lock> untuk mengunci tampilan pada target. \nGerakkan tuas <action=common_rightstick> untuk beralih penguncian ke target lain. \nTekan tombol penguncian <action=battle_camera_lock> lagi untuk membatalkan penguncian target.",
+            "IT": "Premi il tasto di aggancio <action=battle_camera_lock> per agganciare la visuale su un bersaglio. \nMuovi la levetta <action=common_rightstick> per cambiare il bersaglio agganciato. \nPremi di nuovo il tasto di aggancio <action=battle_camera_lock> per annullare l'aggancio.",
+            "JP": "ロックオン<action=battle_camera_lock>を押すと、カメラ視点をターゲットにロックオンできる。\n<action=common_rightstick>を動かすと、ターゲットを切り替えられる。\nもう一度<action=battle_camera_lock>を押すと、ロックオンが解除される。",
+            "KR": "<action=battle_camera_lock> 고정 키를 누르면 시점이 목표에 고정됩니다.\n<action=common_rightstick> 스틱을 조작하여 고정한 목표를 전환할 수 있습니다.\n다시 한번 <action=battle_camera_lock> 고정 키를 누르면 고정이 취소됩니다.",
+            "MX": "Presiona el botón de fijar <action=battle_camera_lock> para fijar la vista en el objetivo. \nMueve el joystick <action=common_rightstick> para cambiar el fijado a otro objetivo. \nPresiona de nuevo el botón <action=battle_camera_lock> de fijado para cancelarlo.",
+            "RU": "Нажмите на кнопку захвата <action=battle_camera_lock>, чтобы захватить цель.\nИспользуйте джойстик <action=common_rightstick>, чтобы переключиться на другую цель.\nПовторно нажмите на кнопку захвата <action=battle_camera_lock>, чтобы отменить захват.",
+            "TC": "按下鎖定按鈕<action=battle_camera_lock>，視角將鎖定在目標身上。\n推動<action=common_rightstick>操作桿可以切換鎖定目標。\n再次按下鎖定按鈕<action=battle_camera_lock>，會取消鎖定。",
+            "TH": "กดปุ่ม​ล็อก​เป้า​ <action=battle_camera_lock> เพื่อ​ล็อก​มุมมอง​ไป​ที่​เป้าหมาย​ \nขยับ​จอย​สติ๊ก​<action=common_rightstick>​เพื่อ​เปลี่ยน​การ​ล็อก​เป้าหมาย​ไป​ยัง​เป้าหมาย​อื่น​ \nกดปุ่ม​ล็อก​เป้า​<action=battle_camera_lock>​อีกครั้ง​เพื่อ​ยกเลิก​การ​ล็อก​เป้าหมาย",
+            "VN": "Nhấn nút khóa <action=battle_camera_lock> để khóa mục tiêu. \nDi chuyển cần <action=common_rightstick> để chuyển chế độ khóa sang mục tiêu khác. \nNhấn nút khóa <action=battle_camera_lock> một lần nữa để hủy chế độ khóa."
+          },
+          "id": "wiki_tut_bat_lockon_1_ct",
+          "image": "",
+          "order": 1,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Travar Em",
+            "CN": "锁定",
+            "DE": "Anvisieren",
+            "EN": "Lock On",
+            "FR": "Verrouillage",
+            "ID": "Penguncian",
+            "IT": "Aggancia",
+            "JP": "ロックオン",
+            "KR": "고정",
+            "MX": "Fijar",
+            "RU": "Захват цели",
+            "TC": "鎖定",
+            "TH": "ล็อก​เป้า",
+            "VN": "Khóa Mục Tiêu"
+          },
+          "tutorialId": "wiki_tut_bat_lockon",
+          "video": "sketch_guide_video_battle_wiki_lockon_1_ct",
+          "videoDeviceType": "Controller"
+        },
+        "changed": {
+          "content": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Pressione botão Travar Em <action=battle_camera_lock> para travar a visão no alvo. \nMova o controle analógico <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> para mudar o travamento para outro alvo. \nPressione o botão Travar Em <action=battle_camera_lock> novamente para cancelar o travamento.",
+                "newText": "Pressione botão Travar Em <action=battle_camera_lock> para travar a visão no alvo. \nMova o controle analógico <action=common_rightstick> para mudar o travamento para outro alvo. \nPressione o botão Travar Em <action=battle_camera_lock> novamente para cancelar o travamento."
+              },
+              "CN": {
+                "oldText": "按下锁定键<action=battle_camera_lock>，视角将锁定在目标身上。\n推动<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>操作杆可以切换锁定目标。\n再次按下锁定键<action=battle_camera_lock>，会取消锁定。",
+                "newText": "按下锁定键<action=battle_camera_lock>，视角将锁定在目标身上。\n推动<action=common_rightstick>操作杆可以切换锁定目标。\n再次按下锁定键<action=battle_camera_lock>，会取消锁定。"
+              },
+              "DE": {
+                "oldText": "Drücke Anvisieren <action=battle_camera_lock>, um die Kamera auf dem Ziel zu verankern. \nBewege den <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>-Stick, um zwischen verschiedenen Zielen zu wechseln. \nDrücke Anvisieren <action=battle_camera_lock> erneut, um dich wieder frei umsehen zu können.",
+                "newText": "Drücke „Anvisieren“ <action=battle_camera_lock>, um die Kamera auf dem Ziel zu verankern. \nBewege den <action=common_rightstick>-Stick, um zwischen verschiedenen Zielen zu wechseln. \nDrücke „Anvisieren“ <action=battle_camera_lock> erneut, um dich wieder frei umsehen zu können."
+              },
+              "EN": {
+                "oldText": "Press the lock-on button <action=battle_camera_lock> to lock the view on the target. \nMove the <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> stick to switch the lock-on to another target. \nPress the lock-on button <action=battle_camera_lock> again to cancel the lock-on.",
+                "newText": "Press the lock-on button <action=battle_camera_lock> to lock the view on the target. \nMove the <action=common_rightstick> stick to switch the lock-on to another target. \nPress the lock-on button <action=battle_camera_lock> again to cancel the lock-on."
+              },
+              "FR": {
+                "oldText": "Appuyez sur la touche de verrouillage <action=battle_camera_lock> pour verrouiller la cible.\nDéplacez le joystick <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> pour changer de cible verrouillée.\nAppuyez de nouveau sur la touche <action=battle_camera_lock> pour annuler le verrouillage.",
+                "newText": "Appuyez sur la touche de verrouillage <action=battle_camera_lock> pour verrouiller la cible. \nDéplacez le joystick <action=common_rightstick> pour changer de cible verrouillée.\nAppuyez de nouveau sur la touche <action=battle_camera_lock> pour annuler le verrouillage."
+              },
+              "ID": {
+                "oldText": "Ketuk tombol penguncian <action=battle_camera_lock> untuk mengunci tampilan pada target. \nGerakkan tuas <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> untuk beralih penguncian ke target lain. \nTekan tombol penguncian <action=battle_camera_lock> lagi untuk membatalkan penguncian target.",
+                "newText": "Ketuk tombol penguncian <action=battle_camera_lock> untuk mengunci tampilan pada target. \nGerakkan tuas <action=common_rightstick> untuk beralih penguncian ke target lain. \nTekan tombol penguncian <action=battle_camera_lock> lagi untuk membatalkan penguncian target."
+              },
+              "IT": {
+                "oldText": "Premi il tasto di aggancio <action=battle_camera_lock> per agganciare la visuale su un bersaglio.\nMuovi la <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> levetta per cambiare il bersaglio agganciato.\nPremi di nuovo il tasto di aggancio <action=battle_camera_lock> per cancellare l'aggancio.",
+                "newText": "Premi il tasto di aggancio <action=battle_camera_lock> per agganciare la visuale su un bersaglio. \nMuovi la levetta <action=common_rightstick> per cambiare il bersaglio agganciato. \nPremi di nuovo il tasto di aggancio <action=battle_camera_lock> per annullare l'aggancio."
+              },
+              "JP": {
+                "oldText": "ロックオン<action=battle_camera_lock>を押すと、カメラ視点をターゲットにロックオンできる。\n<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>を動かすと、ターゲットを切り替えられる。\nもう一度<action=battle_camera_lock>を押すと、ロックオンが解除される。",
+                "newText": "ロックオン<action=battle_camera_lock>を押すと、カメラ視点をターゲットにロックオンできる。\n<action=common_rightstick>を動かすと、ターゲットを切り替えられる。\nもう一度<action=battle_camera_lock>を押すと、ロックオンが解除される。"
+              },
+              "KR": {
+                "oldText": "<action=battle_camera_lock> 고정 키를 누르면 시점이 목표에 고정됩니다.\n<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> 스틱을 조작하여 고정한 목표를 전환할 수 있습니다.\n다시 한번 <action=battle_camera_lock> 고정 키를 누르면 고정이 취소됩니다.",
+                "newText": "<action=battle_camera_lock> 고정 키를 누르면 시점이 목표에 고정됩니다.\n<action=common_rightstick> 스틱을 조작하여 고정한 목표를 전환할 수 있습니다.\n다시 한번 <action=battle_camera_lock> 고정 키를 누르면 고정이 취소됩니다."
+              },
+              "MX": {
+                "oldText": "Presiona el botón de fijar <action=battle_camera_lock> para fijar la vista en el objetivo. \nMueve el joystick <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> para cambiar el fijado a otro objetivo. \nPresiona de nuevo el botón <action=battle_camera_lock> de fijado para cancelarlo.",
+                "newText": "Presiona el botón de fijar <action=battle_camera_lock> para fijar la vista en el objetivo. \nMueve el joystick <action=common_rightstick> para cambiar el fijado a otro objetivo. \nPresiona de nuevo el botón <action=battle_camera_lock> de fijado para cancelarlo."
+              },
+              "RU": {
+                "oldText": "Нажмите на кнопку захвата <action=battle_camera_lock>, чтобы захватить цель.\nИспользуйте джойстик <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>, чтобы переключиться на другую цель.\nПовторно нажмите на кнопку захвата <action=battle_camera_lock>, чтобы отменить захват.",
+                "newText": "Нажмите на кнопку захвата <action=battle_camera_lock>, чтобы захватить цель.\nИспользуйте джойстик <action=common_rightstick>, чтобы переключиться на другую цель.\nПовторно нажмите на кнопку захвата <action=battle_camera_lock>, чтобы отменить захват."
+              },
+              "TC": {
+                "oldText": "按下鎖定按鈕<action=battle_camera_lock>，視角將鎖定在目標身上。\n推動<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>操作桿可以切換鎖定目標。\n再次按下鎖定按鈕<action=battle_camera_lock>，會取消鎖定。",
+                "newText": "按下鎖定按鈕<action=battle_camera_lock>，視角將鎖定在目標身上。\n推動<action=common_rightstick>操作桿可以切換鎖定目標。\n再次按下鎖定按鈕<action=battle_camera_lock>，會取消鎖定。"
+              },
+              "TH": {
+                "oldText": "กดปุ่ม​ล็อก​เป้า​ <action=battle_camera_lock> เพื่อ​ล็อก​มุมมอง​ไป​ที่​เป้าหมาย​ \nขยับ​จอย​สติ๊ก​<image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6>​เพื่อ​เปลี่ยน​การ​ล็อก​เป้าหมาย​ไป​ยัง​เป้าหมาย​อื่น​ \nกดปุ่ม​ล็อก​เป้า​<action=battle_camera_lock>​อีกครั้ง​เพื่อ​ยกเลิก​การ​ล็อก​เป้าหมาย",
+                "newText": "กดปุ่ม​ล็อก​เป้า​ <action=battle_camera_lock> เพื่อ​ล็อก​มุมมอง​ไป​ที่​เป้าหมาย​ \nขยับ​จอย​สติ๊ก​<action=common_rightstick>​เพื่อ​เปลี่ยน​การ​ล็อก​เป้าหมาย​ไป​ยัง​เป้าหมาย​อื่น​ \nกดปุ่ม​ล็อก​เป้า​<action=battle_camera_lock>​อีกครั้ง​เพื่อ​ยกเลิก​การ​ล็อก​เป้าหมาย"
+              },
+              "VN": {
+                "oldText": "Nhấn nút khóa <action=battle_camera_lock> để khóa mục tiêu. \nDi chuyển cần <image=\"KeyIcon/Playstation/icon_playstation_rightstick\" scale=1.6> để chuyển chế độ khóa sang mục tiêu khác. \nNhấn nút khóa <action=battle_camera_lock> một lần nữa để hủy chế độ khóa.",
+                "newText": "Nhấn nút khóa <action=battle_camera_lock> để khóa mục tiêu. \nDi chuyển cần <action=common_rightstick> để chuyển chế độ khóa sang mục tiêu khác. \nNhấn nút khóa <action=battle_camera_lock> một lần nữa để hủy chế độ khóa."
+              }
+            }
+          }
+        }
+      },
+      "wiki_tut_fac_transmuter_2_2": {
+        "oldValue": {
+          "content": {
+            "BR": "Uma Unidade de Transmutação Sólido-Gás deverá ser <@gd.key>ativada</> para poder transmutar materiais. Para ativar a instalação, forneça <@gd.key>Xiragênio</> à sua <@gd.key>Porta de Ativação</> verde na taxa de fluxo necessária.",
+            "CN": "固气转化机需要<@gd.key>激活</>才能工作，将<@gd.key>息壤气</>以一定速度持续通入设备的绿色<@gd.key>激活端口</>，才能激活设备。",
+            "DE": "Eine Feststoff-Gas-Transmutationseinheit muss <@gd.key>aktiviert</> werden, bevor sie Material umwandeln kann. Du aktivierst die Anlage, indem du ihren grünen <@gd.key>Aktivierungs-Port</> entsprechend der erforderlichen Flussrate mit <@gd.key>Xiragen</> versorgst.",
+            "EN": "A Solid-Gas Transmuting Unit must be <@gd.key>activated</> before it can transmute materials. The facility can be activated by supplying its green <@gd.key>Activation Port</> with <@gd.key>Xiragen</> at the required flow rate.",
+            "FR": "Une unité de transmutation solide-gaz doit être <@gd.key>activée</> avant de pouvoir transmuter des matériaux. Pour ce faire, alimentez son <@gd.key>port d'activation</> vert avec le flux de <@gd.key>xiragène</> requis.",
+            "ID": "Unit Transmutasi Padat-Gas harus <@gd.key>diaktifkan</> agar bisa mentransmutasi material. Untuk mengaktifkannya, isilah <@gd.key>Porta Aktivasi</> hijaunya dengan <@gd.key>Xiragen</> pada laju aliran yang dibutuhkan.",
+            "IT": "Un'unità di trasmutazione solido-gas deve essere <@gd.key>attivata</> prima del passaggio di stato dei materiali. La funzione può essere attivata rifornendo la sua <@gd.key>porta di attivazione</> verde di <@gd.key>xirageno</> con la portata necessaria.",
+            "JP": "ガス固体転換機は<@gd.key>起動</>しなければ稼働できない。<@gd.key>息壌ガス</>を一定の速度で設備の緑色の<@gd.key>起動接続口</>に送り続けることで起動する。",
+            "KR": "고체 · 기체 전환기는 <@gd.key>활성화</>되어야 작동합니다. <@gd.key>식양 기체</>를 일정 속도로 설비의 녹색 <@gd.key>초록색 활성화 포트</>에 지속적으로 주입해야 설비를 활성화할 수 있습니다.",
+            "MX": "Una Unidad de transmutación sólido-gas debe estar <@gd.key>activada</> antes de poder transmutar materiales. La instalación puede activarse suministrando <@gd.key>Xiragen</> a su <@gd.key>Puerto de activación</> verde con la tasa de flujo requerida.",
+            "RU": "Для работы модуль твердотельно-газового видоизменения необходимо <@gd.key>активировать</>. Это можно сделать, подав в зеленый <@gd.key>порт активации</> объекта <@gd.key>ксираген</> с требуемой скоростью потока.",
+            "TC": "固氣轉化機需要<@gd.key>啟動</>才能工作，將<@gd.key>息壤氣</>以一定速度持續通入設備的綠色<@gd.key>啟動口</>，才能啟動設備。",
+            "TH": "ยู​นิต​แปรสภาพ​ของแข็ง​-​ก๊าซ​ต้อง​<@gd.key>​เปิด​ใช้งาน​</> ก่อนที่จะ​แปรสภาพ​วัสดุ​ สิ่งปลูกสร้าง​สามารถ​เปิด​ใช้งาน​โดย​ซัพ​พลาย​ช่อง​ <@gd.key>​พอร์ต​เปิด​ใช้งาน​สีเขียว​</> ด้วย​ <@gd.key>​ซี​รา​เจน​</> ด้วย​อัตรา​ไหล​ลื่น​ที่​กำหนด",
+            "VN": "Máy Chuyển Hóa Khí Rắn cần được <@gd.key>kích hoạt</> trước khi có thể chuyển hóa vật liệu. Có thể kích hoạt cơ sở này bằng cách cấp <@gd.key>Khí Xiranite</> cho <@gd.key>Cổng Kích Hoạt Xanh</> của nó theo tốc độ chảy yêu cầu."
+          },
+          "id": "wiki_tut_fac_transmuter_2_2",
+          "image": "",
+          "order": 2,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Unidade de Transmutação Sólido-Gás: Porta de Ativação",
+            "CN": "激活端口 - 固气转化机",
+            "DE": "Feststoff-Gas-Transmutationseinheit: Aktivierungs-Port",
+            "EN": "Solid-Gas Transmuting Unit: Activation Port",
+            "FR": "Unité de transmutation solide-gaz : port d'activation",
+            "ID": "Unit Transmutasi Padat-Gas: Porta Aktivasi",
+            "IT": "Unità di trasmutazione solido-gas: porta di attivazione",
+            "JP": "起動接続口 - ガス固体転換機",
+            "KR": "활성화 포트 - 고체 · 기체 전환기",
+            "MX": "Unidad de transmutación sólido-gas: Puerto de activación",
+            "RU": "Модуль твердотельно-газового видоизменения: порт активации",
+            "TC": "啟動口 - 固氣轉化機",
+            "TH": "ยู​นิต​แปรสภาพ​ของแข็ง​-​ก๊าซ​: พอร์ต​เปิด​ใช้งาน",
+            "VN": "Máy Chuyển Hóa Khí Rắn: Cổng Kích Hoạt"
+          },
+          "tutorialId": "wiki_tut_fac_transmuter_2",
+          "video": "guide_video_convert_solid_gas",
+          "videoDeviceType": "Common"
+        },
+        "newValue": {
+          "content": {
+            "BR": "Uma Unidade de Transmutação Sólido-Gás deverá ser <@gd.key>ativada</> para poder transmutar materiais. Para ativar a instalação, forneça <@gd.key>Xiragênio</> à sua <@gd.key>Porta de Ativação</> verde na taxa de fluxo necessária.",
+            "CN": "固气转化机需要<@gd.key>激活</>才能工作，将<@gd.key>息壤气</>以一定速度持续通入设备的绿色<@gd.key>激活端口</>，才能激活设备。",
+            "DE": "Eine Feststoff-Gas-Transmutationseinheit muss <@gd.key>aktiviert</> werden, bevor sie Material umwandeln kann. Du aktivierst die Anlage, indem du ihren grünen <@gd.key>Aktivierungs-Port</> entsprechend der erforderlichen Flussrate mit <@gd.key>Xiragen</> versorgst.",
+            "EN": "A Solid-Gas Transmuting Unit must be <@gd.key>activated</> before it can transmute materials. The facility can be activated by supplying its green <@gd.key>Activation Port</> with <@gd.key>Xiragen</> at the required flow rate.",
+            "FR": "Une unité de transmutation solide-gaz doit être <@gd.key>activée</> avant de pouvoir transmuter des matériaux. Pour ce faire, alimentez son <@gd.key>port d'activation</> vert avec le flux de <@gd.key>xiragène</> requis.",
+            "ID": "Unit Transmutasi Padat-Gas harus <@gd.key>diaktifkan</> agar bisa mentransmutasi material. Untuk mengaktifkannya, isilah <@gd.key>Porta Aktivasi</> hijaunya dengan <@gd.key>Xiragen</> pada laju aliran yang dibutuhkan.",
+            "IT": "Un'unità di trasmutazione solido-gas deve essere <@gd.key>attivata</> prima del passaggio di stato dei materiali. La funzione può essere attivata rifornendo la sua <@gd.key>porta di attivazione</> verde di <@gd.key>xirageno</> con la portata necessaria.",
+            "JP": "ガス固体転換機は<@gd.key>起動</>しなければ稼働できない。<@gd.key>息壌ガス</>を一定の速度で設備の緑色の<@gd.key>起動接続口</>に送り続けることで起動する。",
+            "KR": "고체 · 기체 전환기는 <@gd.key>활성화</>되어야 작동합니다. <@gd.key>기체 식양</>을 일정 속도로 설비의 <@gd.key>초록색 활성화 포트</>에 지속적으로 주입해야 설비를 활성화할 수 있습니다.",
+            "MX": "Una Unidad de transmutación sólido-gas debe estar <@gd.key>activada</> antes de poder transmutar materiales. La instalación puede activarse suministrando <@gd.key>Xiragen</> a su <@gd.key>Puerto de activación</> verde con la tasa de flujo requerida.",
+            "RU": "Для работы модуль твердотельно-газового видоизменения необходимо <@gd.key>активировать</>. Это можно сделать, подав в зеленый <@gd.key>порт активации</> объекта <@gd.key>ксираген</> с требуемой скоростью потока.",
+            "TC": "固氣轉化機需要<@gd.key>啟動</>才能工作，將<@gd.key>息壤氣</>以一定速度持續通入設備的綠色<@gd.key>啟動口</>，才能啟動設備。",
+            "TH": "ยู​นิต​แปรสภาพ​ของแข็ง​-​ก๊าซ​ต้อง​<@gd.key>​เปิด​ใช้งาน​</> ก่อนที่จะ​แปรสภาพ​วัสดุ​ สิ่งปลูกสร้าง​สามารถ​เปิด​ใช้งาน​โดย​ซัพ​พลาย​ช่อง​ <@gd.key>​พอร์ต​เปิด​ใช้งาน​สีเขียว​</> ด้วย​ <@gd.key>​ซี​รา​เจน​</> ด้วย​อัตรา​ไหล​ลื่น​ที่​กำหนด",
+            "VN": "Máy Chuyển Hóa Khí Rắn cần được <@gd.key>kích hoạt</> trước khi có thể chuyển hóa vật liệu. Có thể kích hoạt cơ sở này bằng cách cấp <@gd.key>Khí Xiranite</> cho <@gd.key>Cổng Kích Hoạt Xanh</> của nó theo tốc độ chảy yêu cầu."
+          },
+          "id": "wiki_tut_fac_transmuter_2_2",
+          "image": "",
+          "order": 2,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Unidade de Transmutação Sólido-Gás: Porta de Ativação",
+            "CN": "固气转化机 - 激活端口",
+            "DE": "Feststoff-Gas-Transmutationseinheit: Aktivierungs-Port",
+            "EN": "Solid-Gas Transmuting Unit: Activation Port",
+            "FR": "Unité de transmutation solide-gaz : port d'activation",
+            "ID": "Unit Transmutasi Padat-Gas: Porta Aktivasi",
+            "IT": "Unità di trasmutazione solido-gas: porta di attivazione",
+            "JP": "ガス固体転換機 - 起動接続口",
+            "KR": "고체 · 기체 전환기 - 활성화 포트",
+            "MX": "Unidad de transmutación sólido-gas: Puerto de activación",
+            "RU": "Модуль твердотельно-газового видоизменения: порт активации",
+            "TC": "固氣轉化機 - 啟動口",
+            "TH": "ยู​นิต​แปรสภาพ​ของแข็ง​-​ก๊าซ​: พอร์ต​เปิด​ใช้งาน",
+            "VN": "Máy Chuyển Hóa Khí Rắn: Cổng Kích Hoạt"
+          },
+          "tutorialId": "wiki_tut_fac_transmuter_2",
+          "video": "guide_video_convert_solid_gas",
+          "videoDeviceType": "Common"
+        },
+        "changed": {
+          "title": {
+            "type": "i18n",
+            "changedLocales": {
+              "CN": {
+                "oldText": "激活端口 - 固气转化机",
+                "newText": "固气转化机 - 激活端口"
+              },
+              "JP": {
+                "oldText": "起動接続口 - ガス固体転換機",
+                "newText": "ガス固体転換機 - 起動接続口"
+              },
+              "KR": {
+                "oldText": "활성화 포트 - 고체 · 기체 전환기",
+                "newText": "고체 · 기체 전환기 - 활성화 포트"
+              },
+              "TC": {
+                "oldText": "啟動口 - 固氣轉化機",
+                "newText": "固氣轉化機 - 啟動口"
+              }
+            }
+          }
+        }
+      },
+      "wiki_tut_fac_equip_1d4_1": {
+        "oldValue": {
+          "content": {
+            "BR": "Acessar novas regiões e áreas pode desbloquear novas opções de montagem de equipamento. Os gabaritos de equipamento obtidos nas áreas da <@gd.key>Passagem de Yinglung e da Zona de Exclusão do Norte de Wuling</> necessitam de <@gd.key>Componentes de Pirrolita</> para a montagem de equipamento.",
+            "CN": "随着新区域的开放，在装备制造列表中将会解锁新的装备。\n在<@gd.key>应龙关、北部禁区</>等区域获得的装备制造模板，需要使用<@gd.key>灼铜装备原件</>进行制造。",
+            "DE": "Wenn du neue Regionen und Gebiete betrittst, kannst du neue Optionen zur Ausrüstungsmontage freischalten. Für die Ausrüstungsmontage von Ausrüstungsvorlagen aus dem <@gd.key>Yinglung-Pass und der Sperrzone Nord-Wuling</> sind <@gd.key>Pyrrolit-Komponenten</> erforderlich.",
+            "EN": "Accessing new regions and areas can unlock near gear assembly options. Gear templates acquired from the <@gd.key>Yinglung Pass and North Wuling Exclusion Zone</> areas require <@gd.key>Pyrrolite Components</> for gear assembly.",
+            "FR": "Accéder à de nouvelles régions et zones permet de débloquer des options d'assemblage d'équipement supplémentaires. Les modèles d'équipement obtenus dans les zones du <@gd.key>col de Yinglung et de la zone d'exclusion du nord de Wuling</> nécessitent des <@gd.key>composants en pyrrolite</> pour l'assemblage d'équipement.",
+            "ID": "Jika mengakses wilayah dan area baru, opsi perakitan gear yang baru akan terbuka. Templat gear yang didapatkan dari area <@gd.key>Terusan Yinglung dan Zona Eksklusi Wuling Utara</> butuh <@gd.key>Komponen Pyrrolite</> untuk perakitan gear.",
+            "IT": "Accedere a nuove regioni e aree permette di sbloccare opzioni di assemblaggio di equipaggiamenti vicine. Gli schemi per l'equipaggiamento <@gd.key>Valico di Yinglung e Area interdetta di Wuling Nord</> richiedono <@gd.key>componenti di pirrolite</> per l'assemblaggio di equipaggiamenti.",
+            "JP": "新しいエリアの開放に伴い、装備製造で新たな装備が解放される。\n<@gd.key>応龍関、武陵北部封鎖区域</>などのエリアで入手した装備設計図は、<@gd.key>焔銅装備部品</>を使用して製造する。",
+            "KR": "새 구역이 개방되면 장비 제작 목록에서 새 장비를 잠금 해제할 수 있습니다.\n<@gd.key>응룡 관문, 북쪽 금지 구역</> 등 구역에서 획득한 장비 제작 템플릿은 <@gd.key>작동 장비 부품</>을 사용해 제작해야 합니다.",
+            "MX": "Acceder a nuevas regiones y zonas puede desbloquear opciones de ensamblaje del equipamiento cercanas. Los Moldes de equipamiento obtenidos en las zonas de <@gd.key>Paso de Yinglung y Zona de exclusión norte de Wuling</> requieren <@gd.key>Componentes de Pirrolita</> para el ensamblaje del equipamiento.",
+            "RU": "По мере открытия новых регионов и районов могут появляться новые варианты сборки снаряжения. Для сборки снаряжения по шаблонам, полученным в районах <@gd.key>заставы «Инлуна» и зоны отчуждения северного Улина</>, требуются <@gd.key>пирролитовые компоненты</>.",
+            "TC": "隨著新區域的開放，在裝備製造列表中將會解鎖新的裝備。\n在<@gd.key>應龍關、北部禁區</>等區域獲得的裝備製造模板，需要使用<@gd.key>灼銅裝備原件</>來製造。",
+            "TH": "การ​เข้าถึง​ภูมิภาค​และ​พื้นที่​ใ​ห​ม่ๆ​ จะ​สามารถ​ปลดล็อก​ตัวเลือก​การ​ประกอบ​อุปกรณ์​ใ​ก​ล้ๆ​ ได้​ เทม​เพล​ต​อุปกรณ์​สามารถ​รับได้​จาก​พื้นที่​ <@gd.key>​ทางผ่าน​ห​ยิง​หลง​และ​เขต​พิเศษ​อู่​หลิง​เหนือ​</> ต้องการ​ <@gd.key>​ส่วนประกอบ​ไพร์​โร​ไลท์​</> สำหรับ​ประกอบ​อุปกรณ์",
+            "VN": "Truy cập những vùng và khu vực mới có thể mở khóa các lựa chọn lắp ráp trang bị ở gần. Mẫu trang bị nhận được từ khu vực <@gd.key>Đèo Yinglung và Khu Cấm Bắc Võ Lăng</> cần <@gd.key>Linh Kiện Nham Đồng</> để lắp ráp trang bị."
+          },
+          "id": "wiki_tut_fac_equip_1d4_1",
+          "image": "guide_pic_equip_new_1d4_2",
+          "order": 1,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Caixote de Gabarito de Equipamento: Novas Áreas – Passagem de Yinglung",
+            "CN": "装备模板箱 - 新区域投放 - 应龙关",
+            "DE": "Kiste mit Ausrüstungsvorlagen: Neue Bereiche – Yinglung-Pass",
+            "EN": "Gear Template Crate: New Areas - Yinglung Pass",
+            "FR": "Caisse de modèles d'équipement : nouvelles zones - col de Yinglung",
+            "ID": "Kerat Templat Gear: Area Baru - Terusan Yinglung",
+            "IT": "Cassa con schema per l'equipaggiamento: nuove aree, Valico di Yinglung",
+            "JP": "装備設計ボックス - 新エリア追加 - <p=\"おうりゅうせき\" padding=0>応龍関</p>",
+            "KR": "장비 템플릿 상자 - 신규 구역 - 응룡 관문",
+            "MX": "Caja de molde de equipamiento: Nuevas áreas – Paso de Yinglung",
+            "RU": "Ящик шаблонов снаряжения: новые районы — застава «Инлуна»",
+            "TC": "裝備模板箱 - 新區域投放 - 應龍關",
+            "TH": "ลัง​เทม​เพล​ต​อุปกรณ์​: พื้นที่​ใหม่​ - ทางผ่าน​ห​ยิง​หลง",
+            "VN": "Thùng Mẫu Trang Bị: Khu Vực Mới - Đèo Yinglung"
+          },
+          "tutorialId": "wiki_tut_fac_equip_1d4",
+          "video": "",
+          "videoDeviceType": "Common"
+        },
+        "newValue": {
+          "content": {
+            "BR": "Acessar novas regiões e áreas pode desbloquear novas opções de montagem de equipamento. Os gabaritos de equipamento obtidos nas áreas da <@gd.key>Passagem de Yinglung e da Zona de Exclusão do Norte de Wuling</> necessitam de <@gd.key>Componentes de Pirrolita</> para a montagem de equipamento.",
+            "CN": "随着新区域的开放，在装备制造列表中将会解锁新的装备。\n在<@gd.key>应龙关、北部禁区</>等区域获得的装备制造模板，需要使用<@gd.key>灼铜装备原件</>进行制造。",
+            "DE": "Wenn du neue Regionen und Gebiete betrittst, kannst du neue Optionen zur Ausrüstungsmontage freischalten. Für die Ausrüstungsmontage von Ausrüstungsvorlagen aus dem <@gd.key>Yinglung-Pass und der Sperrzone Nord-Wuling</> sind <@gd.key>Pyrrolit-Komponenten</> erforderlich.",
+            "EN": "Accessing new regions and areas can unlock near gear assembly options. Gear templates acquired from the <@gd.key>Yinglung Pass and North Wuling Exclusion Zone</> areas require <@gd.key>Pyrrolite Components</> for gear assembly.",
+            "FR": "Accéder à de nouvelles régions et zones permet de débloquer des options d'assemblage d'équipement supplémentaires. Les modèles d'équipement obtenus dans les zones du <@gd.key>col de Yinglung et de la zone d'exclusion du nord de Wuling</> nécessitent des <@gd.key>composants en pyrrolite</> pour l'assemblage d'équipement.",
+            "ID": "Jika mengakses wilayah dan area baru, opsi perakitan gear yang baru akan terbuka. Templat gear yang didapatkan dari area <@gd.key>Terusan Yinglung dan Zona Eksklusi Wuling Utara</> butuh <@gd.key>Komponen Pyrrolite</> untuk perakitan gear.",
+            "IT": "Accedere a nuove regioni e aree permette di sbloccare opzioni di assemblaggio di equipaggiamenti vicine. Gli schemi per l'equipaggiamento <@gd.key>Valico di Yinglung e Area interdetta di Wuling Nord</> richiedono <@gd.key>componenti di pirrolite</> per l'assemblaggio di equipaggiamenti.",
+            "JP": "新しいエリアの開放に伴い、装備製造で新たな装備が解放される。\n<@gd.key>応龍関、武陵北部封鎖区域</>などのエリアで入手した装備設計図は、<@gd.key>焔銅装備部品</>を使用して製造する。",
+            "KR": "새 구역이 개방되면 장비 제작 목록에서 새 장비를 잠금 해제할 수 있습니다.\n<@gd.key>응룡 관문, 북쪽 금지 구역</> 등 구역에서 획득한 장비 제작 템플릿은 <@gd.key>작동 장비 부품</>을 사용해 제작해야 합니다.",
+            "MX": "Acceder a nuevas regiones y zonas puede desbloquear opciones de ensamblaje del equipamiento cercanas. Los Moldes de equipamiento obtenidos en las zonas de <@gd.key>Paso de Yinglung y Zona de exclusión norte de Wuling</> requieren <@gd.key>Componentes de Pirrolita</> para el ensamblaje del equipamiento.",
+            "RU": "По мере открытия новых регионов и районов могут появляться новые варианты сборки снаряжения. Для сборки снаряжения по шаблонам, полученным в районах <@gd.key>заставы «Инлуна» и зоны отчуждения северного Улина</>, требуются <@gd.key>пирролитовые компоненты</>.",
+            "TC": "隨著新區域的開放，在裝備製造列表中將會解鎖新的裝備。\n在<@gd.key>應龍關、北部禁區</>等區域獲得的裝備製造模板，需要使用<@gd.key>灼銅裝備原件</>來製造。",
+            "TH": "การ​เข้าถึง​ภูมิภาค​และ​พื้นที่​ใ​ห​ม่ๆ​ จะ​สามารถ​ปลดล็อก​ตัวเลือก​การ​ประกอบ​อุปกรณ์​ใ​ก​ล้ๆ​ ได้​ เทม​เพล​ต​อุปกรณ์​สามารถ​รับได้​จาก​พื้นที่​ <@gd.key>​ทางผ่าน​ห​ยิง​หลง​และ​เขต​พิเศษ​อู่​หลิง​เหนือ​</> ต้องการ​ <@gd.key>​ส่วนประกอบ​ไพร์​โร​ไลท์​</> สำหรับ​ประกอบ​อุปกรณ์",
+            "VN": "Truy cập những vùng và khu vực mới có thể mở khóa các lựa chọn lắp ráp trang bị ở gần. Mẫu trang bị nhận được từ khu vực <@gd.key>Đèo Yinglung và Khu Cấm Bắc Võ Lăng</> cần <@gd.key>Linh Kiện Nham Đồng</> để lắp ráp trang bị."
+          },
+          "id": "wiki_tut_fac_equip_1d4_1",
+          "image": "guide_pic_equip_new_1d4_2",
+          "order": 1,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Gabaritos de Equipamento: Passagem de Yinglung",
+            "CN": "应龙关等区域的装备模板",
+            "DE": "Ausrüstungsvorlagen: Yinglung-Pass",
+            "EN": "Gear Templates: Yinglung Pass",
+            "FR": "Modèles d'équipement : col de Yinglung",
+            "ID": "Templat Gear: Terusan Yinglung",
+            "IT": "Schemi per l'equipaggiamento: Valico di Yinglung",
+            "JP": "応龍関などのエリアの装備設計図",
+            "KR": "응룡 관문 등 구역의 장비 템플릿",
+            "MX": "Moldes de equipamiento: Paso de Yinglung",
+            "RU": "Шаблоны снаряжения: застава «Инлуна»",
+            "TC": "應龍關等區域的裝備模板",
+            "TH": "เทม​เพล​ต​อุปกรณ์​: ทางผ่าน​ห​ยิง​หลง",
+            "VN": "Mẫu Trang Bị: Đèo Yinglung"
+          },
+          "tutorialId": "wiki_tut_fac_equip_1d4",
+          "video": "",
+          "videoDeviceType": "Common"
+        },
+        "changed": {
+          "title": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Caixote de Gabarito de Equipamento: Novas Áreas – Passagem de Yinglung",
+                "newText": "Gabaritos de Equipamento: Passagem de Yinglung"
+              },
+              "CN": {
+                "oldText": "装备模板箱 - 新区域投放 - 应龙关",
+                "newText": "应龙关等区域的装备模板"
+              },
+              "DE": {
+                "oldText": "Kiste mit Ausrüstungsvorlagen: Neue Bereiche – Yinglung-Pass",
+                "newText": "Ausrüstungsvorlagen: Yinglung-Pass"
+              },
+              "EN": {
+                "oldText": "Gear Template Crate: New Areas - Yinglung Pass",
+                "newText": "Gear Templates: Yinglung Pass"
+              },
+              "FR": {
+                "oldText": "Caisse de modèles d'équipement : nouvelles zones - col de Yinglung",
+                "newText": "Modèles d'équipement : col de Yinglung"
+              },
+              "ID": {
+                "oldText": "Kerat Templat Gear: Area Baru - Terusan Yinglung",
+                "newText": "Templat Gear: Terusan Yinglung"
+              },
+              "IT": {
+                "oldText": "Cassa con schema per l'equipaggiamento: nuove aree, Valico di Yinglung",
+                "newText": "Schemi per l'equipaggiamento: Valico di Yinglung"
+              },
+              "JP": {
+                "oldText": "装備設計ボックス - 新エリア追加 - <p=\"おうりゅうせき\" padding=0>応龍関</p>",
+                "newText": "応龍関などのエリアの装備設計図"
+              },
+              "KR": {
+                "oldText": "장비 템플릿 상자 - 신규 구역 - 응룡 관문",
+                "newText": "응룡 관문 등 구역의 장비 템플릿"
+              },
+              "MX": {
+                "oldText": "Caja de molde de equipamiento: Nuevas áreas – Paso de Yinglung",
+                "newText": "Moldes de equipamiento: Paso de Yinglung"
+              },
+              "RU": {
+                "oldText": "Ящик шаблонов снаряжения: новые районы — застава «Инлуна»",
+                "newText": "Шаблоны снаряжения: застава «Инлуна»"
+              },
+              "TC": {
+                "oldText": "裝備模板箱 - 新區域投放 - 應龍關",
+                "newText": "應龍關等區域的裝備模板"
+              },
+              "TH": {
+                "oldText": "ลัง​เทม​เพล​ต​อุปกรณ์​: พื้นที่​ใหม่​ - ทางผ่าน​ห​ยิง​หลง",
+                "newText": "เทม​เพล​ต​อุปกรณ์​: ทางผ่าน​ห​ยิง​หลง"
+              },
+              "VN": {
+                "oldText": "Thùng Mẫu Trang Bị: Khu Vực Mới - Đèo Yinglung",
+                "newText": "Mẫu Trang Bị: Đèo Yinglung"
+              }
+            }
+          }
+        }
+      },
+      "wiki_tut_fac_transmuter_1_2": {
+        "oldValue": {
+          "content": {
+            "BR": "Uma Unidade de Transmutação Fluido-Gás deverá ser <@gd.key>ativada</> para poder transmutar materiais. Para ativar a instalação, forneça <@gd.key>Xiranita Líquida</> à sua <@gd.key>Porta de Ativação</> verde na taxa de fluxo necessária.",
+            "CN": "液气转化机需要<@gd.key>激活</>才能工作，将<@gd.key>液化息壤</>以一定速度持续通入设备的绿色<@gd.key>激活端口</>，才能激活设备。",
+            "DE": "Eine Flüssigkeit-Gas-Transmutationseinheit muss <@gd.key>aktiviert</> werden, bevor sie Material umwandeln kann. Du aktivierst die Anlage, indem du ihren grünen <@gd.key>Aktivierungs-Port</> entsprechend der erforderlichen Flussrate mit <@gd.key>Flüssigem Xiranit</> versorgst.",
+            "EN": "A Fluid-Gas Transmuting Unit must be <@gd.key>activated</> before it can transmute materials. The facility can be activated by supplying its green <@gd.key>Activation Port</> with <@gd.key>Liquid Xiranite</> at the required flow rate.",
+            "FR": "Une unité de transmutation fluide-gaz doit être <@gd.key>activée</> avant de pouvoir transmuter des matériaux. Pour ce faire, alimentez son <@gd.key>port d'activation</> vert avec le flux de <@gd.key>xiranite liquide</> requis.",
+            "ID": "Unit Transmutasi Cair-Gas harus <@gd.key>diaktifkan</> agar bisa mentransmutasi material. Untuk mengaktifkannya, isilah <@gd.key>Porta Aktivasi</> hijaunya dengan <@gd.key>Xiranite Cair</> pada laju aliran yang dibutuhkan.",
+            "IT": "Un'unità di trasmutazione liquido-gas deve essere <@gd.key>attivata</> prima del passaggio di stato dei materiali. La funzione può essere attivata rifornendo la sua <@gd.key>porta di attivazione</> verde di <@gd.key>xiranite liquida</> con la portata necessaria.",
+            "JP": "ガス液体転換機は<@gd.key>起動</>しなければ稼働できない。<@gd.key>液化息壌</>を一定の速度で設備の緑色の<@gd.key>起動接続口</>に送り続けることで起動する。",
+            "KR": "액체 · 기체 전환기는 <@gd.key>활성화</>되어야 작동합니다. <@gd.key>액화 식양</>을 일정 속도로 설비의 녹색 <@gd.key>초록색 활성화 포트</>에 지속적으로 주입해야 설비를 활성화할 수 있습니다.",
+            "MX": "Una Unidad de transmutación fluido-gas debe estar <@gd.key>activada</> antes de poder transmutar materiales. La instalación puede activarse suministrando <@gd.key>Xiranita líquida</> a su <@gd.key>Puerto de activación</> verde con la tasa de flujo requerida.",
+            "RU": "Для работы модуль жидкостно-газового видоизменения необходимо <@gd.key>активировать</>. Это можно сделать, подав в зеленый <@gd.key>порт активации</> объекта <@gd.key>жидкий ксиранит</> с требуемой скоростью потока.",
+            "TC": "液氣轉化機需要<@gd.key>啟動</>才能工作，將<@gd.key>液化息壤</>以一定速度持續通入設備的綠色<@gd.key>啟動口</>，才能啟動設備。",
+            "TH": "ยู​นิต​แปรสภาพ​ของเหลว​-​ก๊าซ​ต้อง​<@gd.key>​เปิด​ใช้งาน​</> ก่อนที่จะ​แปรสภาพ​วัสดุ​ สิ่งปลูกสร้าง​สามารถ​เปิด​ใช้งาน​โดย​ซัพ​พลาย​ช่อง​ <@gd.key>​พอร์ต​เปิด​ใช้งาน​สีเขียว​</> ด้วย​ <@gd.key>​ซี​เรน​ไนต์​เหลว​</> ด้วย​อัตรา​ไหล​ลื่น​ที่​กำหนด",
+            "VN": "Máy Chuyển Hóa Khí Lỏng cần được <@gd.key>kích hoạt</> trước khi có thể chuyển hóa vật liệu. Có thể kích hoạt cơ sở này bằng cách cấp <@gd.key>Xiranite Lỏng</> cho <@gd.key>Cổng Kích Hoạt Xanh</> của nó theo tốc độ chảy yêu cầu."
+          },
+          "id": "wiki_tut_fac_transmuter_1_2",
+          "image": "",
+          "order": 2,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Unidade de Transmutação Fluido-Gás: Porta de Ativação",
+            "CN": "激活端口 - 液气转化机",
+            "DE": "Flüssigkeit-Gas-Transmutationseinheit: Aktivierungs-Port",
+            "EN": "Fluid-Gas Transmuting Unit: Activation Port",
+            "FR": "Unité de transmutation fluide-gaz : port d'activation",
+            "ID": "Unit Transmutasi Cair-Gas: Porta Aktivasi",
+            "IT": "Unità di trasmutazione liquido-gas: porta di attivazione",
+            "JP": "起動接続口 - ガス液体転換機",
+            "KR": "활성화 포트 - 액체 · 기체 전환기",
+            "MX": "Unidad de transmutación fluido-gas: Puerto de activación",
+            "RU": "Модуль жидкостно-газового видоизменения: порт активации",
+            "TC": "啟動口 - 液氣轉化機",
+            "TH": "ยู​นิต​แปรสภาพ​ของเหลว​-​ก๊าซ​: พอร์ต​เปิด​ใช้งาน",
+            "VN": "Máy Chuyển Hóa Khí Lỏng: Cổng Kích Hoạt"
+          },
+          "tutorialId": "wiki_tut_fac_transmuter_1",
+          "video": "guide_video_convert_liquid_gas",
+          "videoDeviceType": "Common"
+        },
+        "newValue": {
+          "content": {
+            "BR": "Uma Unidade de Transmutação Fluido-Gás deverá ser <@gd.key>ativada</> para poder transmutar materiais. Para ativar a instalação, forneça <@gd.key>Xiranita Líquida</> à sua <@gd.key>Porta de Ativação</> verde na taxa de fluxo necessária.",
+            "CN": "液气转化机需要<@gd.key>激活</>才能工作，将<@gd.key>液化息壤</>以一定速度持续通入设备的绿色<@gd.key>激活端口</>，才能激活设备。",
+            "DE": "Eine Flüssigkeit-Gas-Transmutationseinheit muss <@gd.key>aktiviert</> werden, bevor sie Material umwandeln kann. Du aktivierst die Anlage, indem du ihren grünen <@gd.key>Aktivierungs-Port</> entsprechend der erforderlichen Flussrate mit <@gd.key>Flüssigem Xiranit</> versorgst.",
+            "EN": "A Fluid-Gas Transmuting Unit must be <@gd.key>activated</> before it can transmute materials. The facility can be activated by supplying its green <@gd.key>Activation Port</> with <@gd.key>Liquid Xiranite</> at the required flow rate.",
+            "FR": "Une unité de transmutation fluide-gaz doit être <@gd.key>activée</> avant de pouvoir transmuter des matériaux. Pour ce faire, alimentez son <@gd.key>port d'activation</> vert avec le flux de <@gd.key>xiranite liquide</> requis.",
+            "ID": "Unit Transmutasi Cair-Gas harus <@gd.key>diaktifkan</> agar bisa mentransmutasi material. Untuk mengaktifkannya, isilah <@gd.key>Porta Aktivasi</> hijaunya dengan <@gd.key>Xiranite Cair</> pada laju aliran yang dibutuhkan.",
+            "IT": "Un'unità di trasmutazione liquido-gas deve essere <@gd.key>attivata</> prima del passaggio di stato dei materiali. La funzione può essere attivata rifornendo la sua <@gd.key>porta di attivazione</> verde di <@gd.key>xiranite liquida</> con la portata necessaria.",
+            "JP": "ガス液体転換機は<@gd.key>起動</>しなければ稼働できない。<@gd.key>液化息壌</>を一定の速度で設備の緑色の<@gd.key>起動接続口</>に送り続けることで起動する。",
+            "KR": "액체 · 기체 전환기는 <@gd.key>활성화</>되어야 작동합니다. <@gd.key>액체 식양</>을 일정 속도로 설비의 <@gd.key>초록색 활성화 포트</>에 지속적으로 주입해야 설비를 활성화할 수 있습니다.",
+            "MX": "Una Unidad de transmutación fluido-gas debe estar <@gd.key>activada</> antes de poder transmutar materiales. La instalación puede activarse suministrando <@gd.key>Xiranita líquida</> a su <@gd.key>Puerto de activación</> verde con la tasa de flujo requerida.",
+            "RU": "Для работы модуль жидкостно-газового видоизменения необходимо <@gd.key>активировать</>. Это можно сделать, подав в зеленый <@gd.key>порт активации</> объекта <@gd.key>жидкий ксиранит</> с требуемой скоростью потока.",
+            "TC": "液氣轉化機需要<@gd.key>啟動</>才能工作，將<@gd.key>液化息壤</>以一定速度持續通入設備的綠色<@gd.key>啟動口</>，才能啟動設備。",
+            "TH": "ยู​นิต​แปรสภาพ​ของเหลว​-​ก๊าซ​ต้อง​<@gd.key>​เปิด​ใช้งาน​</> ก่อนที่จะ​แปรสภาพ​วัสดุ​ สิ่งปลูกสร้าง​สามารถ​เปิด​ใช้งาน​โดย​ซัพ​พลาย​ช่อง​ <@gd.key>​พอร์ต​เปิด​ใช้งาน​สีเขียว​</> ด้วย​ <@gd.key>​ซี​เรน​ไนต์​เหลว​</> ด้วย​อัตรา​ไหล​ลื่น​ที่​กำหนด",
+            "VN": "Máy Chuyển Hóa Khí Lỏng cần được <@gd.key>kích hoạt</> trước khi có thể chuyển hóa vật liệu. Có thể kích hoạt cơ sở này bằng cách cấp <@gd.key>Xiranite Lỏng</> cho <@gd.key>Cổng Kích Hoạt Xanh</> của nó theo tốc độ chảy yêu cầu."
+          },
+          "id": "wiki_tut_fac_transmuter_1_2",
+          "image": "",
+          "order": 2,
+          "refWikiEntryIds": [],
+          "title": {
+            "BR": "Unidade de Transmutação Fluido-Gás: Porta de Ativação",
+            "CN": "液气转化机 - 激活端口",
+            "DE": "Flüssigkeit-Gas-Transmutationseinheit: Aktivierungs-Port",
+            "EN": "Fluid-Gas Transmuting Unit: Activation Port",
+            "FR": "Unité de transmutation fluide-gaz : port d'activation",
+            "ID": "Unit Transmutasi Cair-Gas: Porta Aktivasi",
+            "IT": "Unità di trasmutazione liquido-gas: porta di attivazione",
+            "JP": "ガス液体転換機 - 起動接続口",
+            "KR": "액체 · 기체 전환기 - 활성화 포트",
+            "MX": "Unidad de transmutación fluido-gas: Puerto de activación",
+            "RU": "Модуль жидкостно-газового видоизменения: порт активации",
+            "TC": "液氣轉化機 - 啟動口",
+            "TH": "ยู​นิต​แปรสภาพ​ของเหลว​-​ก๊าซ​: พอร์ต​เปิด​ใช้งาน",
+            "VN": "Máy Chuyển Hóa Khí Lỏng: Cổng Kích Hoạt"
+          },
+          "tutorialId": "wiki_tut_fac_transmuter_1",
+          "video": "guide_video_convert_liquid_gas",
+          "videoDeviceType": "Common"
+        },
+        "changed": {
+          "title": {
+            "type": "i18n",
+            "changedLocales": {
+              "CN": {
+                "oldText": "激活端口 - 液气转化机",
+                "newText": "液气转化机 - 激活端口"
+              },
+              "JP": {
+                "oldText": "起動接続口 - ガス液体転換機",
+                "newText": "ガス液体転換機 - 起動接続口"
+              },
+              "KR": {
+                "oldText": "활성화 포트 - 액체 · 기체 전환기",
+                "newText": "액체 · 기체 전환기 - 활성화 포트"
+              },
+              "TC": {
+                "oldText": "啟動口 - 液氣轉化機",
+                "newText": "液氣轉化機 - 啟動口"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

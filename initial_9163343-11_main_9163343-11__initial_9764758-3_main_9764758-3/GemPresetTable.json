@@ -1,0 +1,137 @@
+{
+  "tableName": "GemPresetTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 6,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "gem_sword_0023_663": {
+        "domainId": "domain_1",
+        "gemItemId": "gem_sword_0023_663",
+        "rarity": 5,
+        "realItemId": "item_gem_rarity_5",
+        "termList": [
+          {
+            "level": 6,
+            "termId": "gat_passive_attr_str"
+          },
+          {
+            "level": 6,
+            "termId": "gat_passive_attr_heal"
+          },
+          {
+            "level": 3,
+            "termId": "gst_passive_heal"
+          }
+        ]
+      },
+      "gem_funnel_0019_442": {
+        "domainId": "domain_1",
+        "gemItemId": "gem_funnel_0019_442",
+        "rarity": 5,
+        "realItemId": "item_gem_rarity_5",
+        "termList": [
+          {
+            "level": 4,
+            "termId": "gat_passive_attr_agi"
+          },
+          {
+            "level": 4,
+            "termId": "gat_passive_attr_atk"
+          },
+          {
+            "level": 2,
+            "termId": "gst_passive_burst"
+          }
+        ]
+      },
+      "gem_funnel_0020_663": {
+        "domainId": "domain_1",
+        "gemItemId": "gem_funnel_0020_663",
+        "rarity": 5,
+        "realItemId": "item_gem_rarity_5",
+        "termList": [
+          {
+            "level": 6,
+            "termId": "gat_passive_attr_agi"
+          },
+          {
+            "level": 6,
+            "termId": "gat_passive_attr_naturaldam"
+          },
+          {
+            "level": 3,
+            "termId": "gst_passive_burst"
+          }
+        ]
+      },
+      "gem_sword_0023_442": {
+        "domainId": "domain_1",
+        "gemItemId": "gem_sword_0023_442",
+        "rarity": 5,
+        "realItemId": "item_gem_rarity_5",
+        "termList": [
+          {
+            "level": 4,
+            "termId": "gat_passive_attr_str"
+          },
+          {
+            "level": 4,
+            "termId": "gat_passive_attr_heal"
+          },
+          {
+            "level": 2,
+            "termId": "gst_passive_heal"
+          }
+        ]
+      },
+      "gem_funnel_0019_663": {
+        "domainId": "domain_1",
+        "gemItemId": "gem_funnel_0019_663",
+        "rarity": 5,
+        "realItemId": "item_gem_rarity_5",
+        "termList": [
+          {
+            "level": 6,
+            "termId": "gat_passive_attr_agi"
+          },
+          {
+            "level": 6,
+            "termId": "gat_passive_attr_atk"
+          },
+          {
+            "level": 3,
+            "termId": "gst_passive_burst"
+          }
+        ]
+      },
+      "gem_funnel_0020_442": {
+        "domainId": "domain_1",
+        "gemItemId": "gem_funnel_0020_442",
+        "rarity": 5,
+        "realItemId": "item_gem_rarity_5",
+        "termList": [
+          {
+            "level": 4,
+            "termId": "gat_passive_attr_agi"
+          },
+          {
+            "level": 4,
+            "termId": "gat_passive_attr_naturaldam"
+          },
+          {
+            "level": 2,
+            "termId": "gst_passive_burst"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

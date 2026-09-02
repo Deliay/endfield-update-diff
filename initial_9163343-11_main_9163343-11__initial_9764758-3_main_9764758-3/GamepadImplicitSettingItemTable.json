@@ -1,0 +1,53 @@
+{
+  "tableName": "GamepadImplicitSettingItemTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "general_ability_typhoea_archery": {
+        "actions": [
+          {
+            "actionIds": [
+              "typhoea_hud_switch_chip"
+            ],
+            "actionKey": "ArrowUp",
+            "actionKeyIsModifyKey": false,
+            "actionOverrideKeyIconName": ""
+          }
+        ],
+        "mutexSettingIds": [
+          "gamepad_sprint",
+          "gamepad_jump",
+          "gamepad_interact",
+          "gamepad_attack_place"
+        ],
+        "settingId": "general_ability_typhoea_archery",
+        "settingSortOrder": 6,
+        "settingText": {
+          "BR": "Arco e Flecha: Trocar Chip",
+          "CN": "提丰射箭-切换芯片",
+          "DE": "Bogenschießen: Chip wechseln",
+          "EN": "Archery: Switch Chip",
+          "FR": "Tir à l'arc : changer de puce",
+          "ID": "Panahan: Ganti Chip",
+          "IT": "Tiro con l'arco: cambia chip",
+          "JP": "矢を撃つ-チップの切り替え",
+          "KR": "티폰의 활쏘기 - 칩 전환",
+          "MX": "Tiro con arco: Cambio de chip",
+          "RU": "Стрельба из лука: смена чипа",
+          "TC": "提豐射箭-切換晶片",
+          "TH": "ยิง​ธนู​: สลับ​ชิป",
+          "VN": "Cung Thuật: Đổi Chip"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "tableName": "EquipItemTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "item_slwood_1_hshog_1_1": {
+        "autoCheckNotInFight": true,
+        "castTime": 0.5,
+        "chargeCount": 2,
+        "checkTarget": 1,
+        "condParams": [],
+        "condType": 5,
+        "cooldown": 3,
+        "equipDesc": {
+          "BR": "Uma vez equipado, o item será usado automaticamente em qualquer operador da equipe que sofrer uma <#ba.spellinflictonchar>Reação de Artes</>. Máximo de usos por batalha: <@ba.vup>{count:0}</>\n - <@tips.purple>Pode fornecer apoio ao operador controlado (ilimitado)</>\n - <@tips.orange>Os usos são restaurados após o esgotamento</>",
+          "CN": "装备后，当队伍中有干员受到<#ba.spellinflictonchar>法术异常</>时自动对其使用，单场战斗中最多可用<@ba.vup>{count:0}</>次。\n - <@tips.purple>无限制支援主控干员</>\n - <@tips.orange>用尽后恢复次数</>",
+          "DE": "Nach dem Ausrüsten wird dieser Gegenstand automatisch auf einen Operator im Team angewendet, der von einer <#ba.spellinflictonchar>Technikreaktion</> betroffen ist. Max. Verwendungen pro Kampf: <@ba.vup>{count:0}</>\n – <@tips.purple>Kann den gesteuerten Operator unterstützen (unbegrenzt)</>\n – <@tips.orange>Wird nach Verbrauch wiederhergestellt</>",
+          "EN": "Once equipped, item is automatically used on any operator in the team who suffers an <#ba.spellinflictonchar>Arts Reaction</>. Max uses per battle: <@ba.vup>{count:0}</>\n - <@tips.purple>Can support the controlled operator (no limit)</>\n - <@tips.orange>Uses are restored after depletion</>",
+          "FR": "Une fois équipé, l'objet est automatiquement utilisé sur un opérateur de l'équipe victime d'une <#ba.spellinflictonchar>réaction aux Arts</>. Utilisations max. par combat : <@ba.vup>{count:0}</>\n - <@tips.purple>Peut venir en soutien de l'opérateur contrôlé (sans limite)</>\n - <@tips.orange>Restauration des utilisations après épuisement</>",
+          "ID": "Setelah dipasang, item akan otomatis digunakan pada operator mana saja dalam tim yang terkena <#ba.spellinflictonchar>Arts Reaction</>. Penggunaan maks per pertarungan: <@ba.vup>{count:0}</>\n - <@tips.purple>Bisa mendukung operator terkontrol (tanpa batas)</>\n - <@tips.orange>Penggunaan akan dipulihkan setelah habis</>",
+          "IT": "Una volta equipaggiato, l'oggetto viene utilizzato automaticamente su qualsiasi operatore della squadra che subisca una <#ba.spellinflictonchar>Reazione delle Arti</>. Numero massimo di utilizzi per battaglia: <@ba.vup>{count:0}</>\n - <@tips.purple>Impiego a supporto dell'operatore controllato (nessun limite)</>\n - <@tips.orange>Gli utilizzi vengono ripristinati dopo l'esaurimento</>",
+          "JP": "装備中、編成している任意のオペレーターが<#ba.spellinflictonchar>アーツ異常</>を受けたとき、自動的にそのオペレーターに使用される。1回の戦闘につき最大<@ba.vup>{count:0}</>回まで使用可能。\n - <@tips.purple>制限なしで操作中のオペレーターを支援</>\n - <@tips.orange>すべて使い切ると回数が回復</>",
+          "KR": "장착 후, 팀 내 오퍼레이터가 <#ba.spellinflictonchar>아츠 이상</> 효과를 받으면 자동으로 사용하며, 각 전투에서 최대 <@ba.vup>{count:0}</>회 사용할 수 있습니다.\n - <@tips.purple>메인 컨트롤 오퍼레이터 지원(횟수 제한 없음)</>\n - <@tips.orange>소진 시 횟수 회복</>",
+          "MX": "Una vez equipado, el objeto se usa automáticamente en cualquier operador del equipo que sufra una <#ba.spellinflictonchar>Reacción a artes</>. Usos Máx. por batalla: <@ba.vup>{count:0}</>\n - <@tips.purple>Puede dar soporte al operador controlado (sin límite)</>\n - <@tips.orange>Los usos se restauran tras agotarse</>",
+          "RU": "После выбора предмет будет автоматически использован любым оперативником в команде, на которого наложена <#ba.spellinflictonchar>реакция искусств</>. Максимум использований за бой: <@ba.vup>{count:0}</>\n - <@tips.purple>Поддержка управляемого оперативника (без ограничений)</>\n - <@tips.orange>Восстановление, когда попытки закончатся</>",
+          "TC": "裝備後，當隊伍中有幹員受到<#ba.spellinflictonchar>法術異常</>時自動對其使用，單場戰鬥中最多可用<@ba.vup>{count:0}</>次。\n - <@tips.purple>無限制支援主控幹員</>\n - <@tips.orange>用盡後恢復次數</>",
+          "TH": "เมื่อ​ติดตั้ง​ไว้​ จะ​ใช้งาน​ไอ​เทม​อัตโนมัติ​โดย​โอเปอเรเตอร์​คนใดคนหนึ่ง​ใน​ทีม​ที่​ได้รับ​ <#ba.spellinflictonchar>​ปฏิกิริยา​เวท​</> จำนวน​ครั้ง​สูงสุด​ที่​ใช้ได้​ต่อ​การต่อสู้​: <@ba.vup>{count:0}</>\n - <@tips.purple>​สามารถ​สนับสนุน​โอเปอเรเตอร์​ที่​ควบคุม​อยู่​ (ไม่จำกัด​ครั้ง​)</>\n - <@tips.orange>​จำนวน​การ​ใช้​จะ​ฟื้นฟู​หลังจาก​ใช้​หมด​</>",
+          "VN": "Sau khi trang bị, vật phẩm sẽ tự động được dùng lên bất kỳ cán viên nào trong đội chịu <#ba.spellinflictonchar>Phản Ứng Thuật Pháp</>. Số lượt dùng tối đa/trận: <@ba.vup>{count:0}</>\n - <@tips.purple>Có thể hỗ trợ cán viên đang điều khiển (không giới hạn)</>\n - <@tips.orange>Số lượt dùng được hồi lại sau khi dùng hết</>"
+        },
+        "equipExtraDesc": {
+          "BR": "Uma vez equipado, o item será usado automaticamente em qualquer operador da equipe que sofrer uma <#ba.spellinflictonchar>Reação de Artes</>. Máximo de usos por batalha: <@ba.vup>{count:0}</>\n<@tips.purple>Pode fornecer apoio ao operador controlado (ilimitado)</>: não há limite do número de vezes que esse item pode ser usado para fornecer apoio ao operador controlado.\n<@tips.orange>Os usos são restaurados após o esgotamento</>: quando os usos se esgotarem em batalha, <@ba.vup>1</> uso adicional se tornará disponível algum tempo depois.",
+          "CN": "装备后，当队伍中有干员受到<#ba.spellinflictonchar>法术异常</>时自动对其使用，单场战斗中最多可用<@ba.vup>{count:0}</>次。\n<@tips.purple>无限制支援主控干员</>：战斗中支援主控干员无次数限制。\n<@tips.orange>用尽后恢复次数</>：战斗中的可用次数用尽时，一段时间后会恢复<@ba.vup>1</>次可用次数。",
+          "DE": "Nach dem Ausrüsten wird dieser Gegenstand automatisch auf einen Operator im Team angewendet, der von einer <#ba.spellinflictonchar>Technikreaktion</> betroffen ist. Max. Verwendungen pro Kampf: <@ba.vup>{count:0}</>\n<@tips.purple>Kann den gesteuerten Operator unterstützen (unbegrenzt)</>: Es gibt keine Beschränkung, wie oft dieser Gegenstand den gesteuerten Operator unterstützen kann.\n<@tips.orange>Wird nach Verbrauch wiederhergestellt</>: Wenn alle Verwendungen im Kampf verbraucht werden, wird nach einer Weile <@ba.vup>1</> weitere Verwendung verfügbar.",
+          "EN": "Once equipped, item is automatically used on any operator in the team who suffers an <#ba.spellinflictonchar>Arts Reaction</>. Max uses per battle: <@ba.vup>{count:0}</>\n<@tips.purple>Can support the controlled operator (no limit)</>: There is no limit to the number of times this item can be used to support the controlled operator.\n<@tips.orange>Uses are restored after depletion</>: When uses are depleted in battle, <@ba.vup>1</> more use becomes available after a while.",
+          "FR": "Une fois équipé, l'objet est automatiquement utilisé sur un opérateur de l'équipe victime d'une <#ba.spellinflictonchar>réaction aux Arts</>. Utilisations max. par combat : <@ba.vup>{count:0}</>\n<@tips.purple>Peut venir en soutien de l'opérateur contrôlé (sans limite)</> : il n'y a pas de limite au nombre d'utilisations de cet objet pour venir au soutien de l'opérateur contrôlé.\n<@tips.orange>Restauration des utilisations après épuisement</> : lorsque les utilisations sont épuisées au cours du combat, <@ba.vup>1</> utilisation supplémentaire devient disponible au bout d'un moment.",
+          "ID": "Setelah dipasang, item akan otomatis digunakan pada operator mana saja dalam tim yang terkena <#ba.spellinflictonchar>Arts Reaction</>. Penggunaan maks per pertarungan: <@ba.vup>{count:0}</>\n<@tips.purple>Bisa mendukung operator terkontrol (tanpa batas)</>: Item bisa digunakan untuk mendukung operator terkontrol tanpa batasan jumlah.\n<@tips.orange>Penggunaan akan dipulihkan setelah habis</>: Jika penggunaan habis di tengah pertarungan, akan tersedia <@ba.vup>1</> kali penggunaan lagi setelah beberapa saat.",
+          "IT": "Una volta equipaggiato, l'oggetto viene utilizzato automaticamente da qualsiasi operatore della squadra che subisca una <#ba.spellinflictonchar>Reazione delle Arti</>. Numero massimo di utilizzi per battaglia: <@ba.vup>{count:0}</>\n<@tips.purple>Impiego a supporto dell'operatore controllato (nessun limite)</>: non c'è limite al numero di volte che questo oggetto può essere usato a supporto dell'operatore controllato.\n<@tips.orange>Gli utilizzi vengono ripristinati dopo l'esaurimento</>: quando si esauriscono gli utilizzi in battaglia, dopo un certo periodo di tempo si otterrà <@ba.vup>1</> ulteriore utilizzo.",
+          "JP": "装備中、編成している任意のオペレーターが<#ba.spellinflictonchar>アーツ異常</>を受けたとき、自動的にそのオペレーターに使用される。1回の戦闘につき最大<@ba.vup>{count:0}</>回まで使用可能。\n<@tips.purple>制限なしで操作中のオペレーターを支援</>：戦闘中、操作中のオペレーターへの支援は回数制限なし。\n<@tips.orange>すべて使い切ると回数が回復</>：戦闘中に使用回数をすべて使い切ると、一定時間経過後に<@ba.vup>1</>回分が回復する。",
+          "KR": "장착 후, 팀 내 오퍼레이터가 <#ba.spellinflictonchar>아츠 이상</> 효과를 받았을 때 자동으로 사용하며, 각 전투에서 최대 <@ba.vup>{count:0}</>회 사용할 수 있습니다.\n<@tips.purple>메인 컨트롤 오퍼레이터 지원(횟수 제한 없음)</>: 전투 중 메인 컨트롤 오퍼레이터를 횟수 제한 없이 지원합니다.\n<@tips.orange>소진 시 횟수 회복</>: 전투 중 사용 가능 횟수를 모두 소진하면 일정 시간 후 사용 횟수를 <@ba.vup>1</>회 회복합니다.",
+          "MX": "Una vez equipado, el objeto se usa automáticamente en cualquier operador del equipo que sufra una <#ba.spellinflictonchar>Reacción a artes</>. Usos Máx. por batalla: <@ba.vup>{count:0}</>\n<@tips.purple>Puede dar soporte al operador controlado (sin límite)</>. No hay límite para la cantidad de usos que este objeto se puede usar para dar soporte al operador controlado.\n<@tips.orange>Los usos se restauran tras agotarse</>: cuando los usos se agotan en la batalla, al cabo de un tiempo queda disponible <@ba.vup>1</> uso adicional.",
+          "RU": "После выбора предмет будет автоматически использован любым оперативником в команде, на которого наложена <#ba.spellinflictonchar>реакция искусств</>. Максимум использований за бой: <@ba.vup>{count:0}</>\n<@tips.purple>Поддержка управляемого оперативника</>: количество использований предмета для поддержки управляемого оперативника не ограничено.\n<@tips.orange>Восстановление</>: если во время боя закончатся попытки использования, через время станет доступна еще <@ba.vup>1</>.",
+          "TC": "裝備後，當隊伍中有幹員受到<#ba.spellinflictonchar>法術異常</>時自動對其使用，單場戰鬥中最多可用<@ba.vup>{count:0}</>次。\n<@tips.purple>無限制支援主控幹員</>：戰鬥中支援主控幹員無次數限制。\n<@tips.orange>用盡後恢復次數</>：戰鬥中的可用次數用盡時，一段時間後會恢復<@ba.vup>1</>次可用次數。",
+          "TH": "เมื่อ​ติดตั้ง​ไว้​ จะ​ใช้งาน​ไอ​เทม​อัตโนมัติ​โดย​โอเปอเรเตอร์​คนใดคนหนึ่ง​ใน​ทีม​ที่​ได้รับ​ <#ba.spellinflictonchar>​ปฏิกิริยา​เวท​</> จำนวน​ครั้ง​สูงสุด​ที่​ใช้ได้​ต่อ​การต่อสู้​: <@ba.vup>{count:0}</>\n<@tips.purple>​สามารถ​สนับสนุน​โอเปอเรเตอร์​ที่​ควบคุม​อยู่​ (ไม่จำกัด​ครั้ง​)</>: ไม่มี​การ​จำกัด​จำนวน​ครั้ง​ที่​สามารถ​ใช้​ไอ​เทม​นี้​เพื่อ​สนับสนุน​โอเปอเรเตอร์​ที่​ควบคุม​อยู่​\n<@tips.orange>​จำนวน​การ​ใช้​จะ​ฟื้นฟู​หลังจาก​ใช้​หมด​</>: เมื่อ​ใช้​จน​หมด​ใน​การต่อสู้​ จะ​ฟื้นฟู​จำนวน​การ​ใช้​อย่างน้อย​ <@ba.vup>1</> ครั้งหลัง​จาก​ผ่าน​ไป​สักครู่",
+          "VN": "Sau khi trang bị, vật phẩm sẽ tự động được dùng cho bất kỳ cán viên nào trong đội chịu <#ba.spellinflictonchar>Phản Ứng Thuật Pháp</>. Số lượt dùng tối đa/trận: <@ba.vup>{count:0}</>\n<@tips.purple>Có thể hỗ trợ cán viên đang điều khiển (không giới hạn)</>: Không có giới hạn về số lượt dùng vật phẩm này để hỗ trợ cán viên đang điều khiển.\n<@tips.orange>Số lượt dùng được hồi lại sau khi dùng hết</>: Khi dùng hết các lượt trong trận, sẽ được cộng thêm <@ba.vup>1</> lượt sau một khoảng thời gian."
+        },
+        "itemId": "item_slwood_1_hshog_1_1",
+        "levelUpChargeCount": 3,
+        "levelUpRecoverUpperCount": 1,
+        "recoverTime": 60,
+        "recoverUpperCount": 1,
+        "toMainCharCount": 0,
+        "useTarget": 1
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

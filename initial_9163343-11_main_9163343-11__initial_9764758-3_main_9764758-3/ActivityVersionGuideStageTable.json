@@ -1,0 +1,156 @@
+{
+  "tableName": "ActivityVersionGuideStageTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "activity_map02_guide_009": {
+        "stageList": [
+          {
+            "activityId": "activity_map02_guide_009",
+            "conditions": {
+              "conditionId": "activity_guide_cedarforest_con_1",
+              "progressToCompare": 1
+            },
+            "desc": {
+              "BR": "Em [Um Sonho de Inverno Envolto em Névoa na Floresta], conclua a missão [Uma Floresta Coberta por Névoa]",
+              "CN": "在「雾隐冬梦深林中」，完成任务「迷雾藏起松林」",
+              "DE": "Schließe in [Ein Wintertraum, tief im Waldesnebel] die Mission [Ein nebelverhangener Wald] ab.",
+              "EN": "In [A Winter Dream Fogged Deep in the Woods], complete the mission [A Forest Shrouded in Mist]",
+              "FR": "Dans [Rêve d'hiver brumeux au creux des bois], terminer la mission [Une forêt enveloppée de brume]",
+              "ID": "Dalam [Mimpi Musim Dingin di Kedalaman Hutan Berkabut], selesaikan misi [Hutan Berselimut Kabut]",
+              "IT": "Completa la missione [Una foresta avvolta dalla nebbia] in [Un sogno d'inverno tra le nebbie del bosco]",
+              "JP": "「冬の夢は霧の中に」で任務「霧に覆われた森」を完了する",
+              "KR": "[안개에 잠긴 겨울꿈의 숲]에서 임무 [안개로 가려진 소나무 숲] 완료",
+              "MX": "En [Un sueño invernal cubierto de niebla en lo profundo del bosque], completa la misión [Un bosque envuelto en niebla]",
+              "RU": "В «Зимнем сне в окутанной туманом лесной чаще» завершите миссию «Окутанный туманом лес»",
+              "TC": "在「霧隱冬夢深林中」，完成任務「迷霧藏起松林」",
+              "TH": "ใน​ [ฝัน​ฤดูหนาว​ใน​ม่าน​หมอก​กลาง​ป่า​ลึก​] ทำ​ภารกิจ​ [ป่า​ที่​ปกคลุม​ด้วย​หมอก​] ให้​สำเร็จ",
+              "VN": "Trong [Mộng Đông Trong Sương Rừng], hoàn thành nhiệm vụ [Rừng Phủ Sương Mù]"
+            },
+            "jumpId": "jump_activity_guide_cedarforest_01",
+            "rewardId": "reward_activity_guide_cedarforest1",
+            "sortId": 1,
+            "stageId": "activity_guide_cedarforest_stage_1"
+          },
+          {
+            "activityId": "activity_map02_guide_009",
+            "conditions": {
+              "conditionId": "activity_guide_cedarforest_con_2",
+              "progressToCompare": 1
+            },
+            "desc": {
+              "BR": "Em [Um Sonho de Inverno Envolto em Névoa na Floresta], conclua a missão [Um Mundo dos Sonhos Fragmentado por Sua Flecha]",
+              "CN": "在「雾隐冬梦深林中」，完成任务「长箭划破梦境」",
+              "DE": "Schließe in [Ein Wintertraum, tief im Waldesnebel] die Mission [Eine Traumlandschaft, zertrümmert von ihrem Pfeil] ab.",
+              "EN": "In [A Winter Dream Fogged Deep in the Woods], complete the mission [A Dreamscape Shattered by Her Arrow]",
+              "FR": "Dans [Rêve d'hiver brumeux au creux des bois], terminer la mission [Un monde onirique brisé par sa flèche]",
+              "ID": "Dalam [Mimpi Musim Dingin di Kedalaman Hutan Berkabut], selesaikan misi [Alam Mimpi yang Hancur oleh Panahnya]",
+              "IT": "Completa la missione [Un mondo onirico infranto dalla sua freccia] in [Un sogno d'inverno tra le nebbie del bosco]",
+              "JP": "「冬の夢は霧の中に」で任務「夢を裂く矢」を完了する",
+              "KR": "[안개에 잠긴 겨울꿈의 숲]에서 임무 [꿈을 가르는 화살] 완료",
+              "MX": "En [Un sueño invernal cubierto de niebla en lo profundo del bosque], completa la misión [Un mundo onírico destrozado por su flecha]",
+              "RU": "В «Зимнем сне в окутанной туманом лесной чаще» завершите миссию «Мир снов, расколотый ее стрелой»",
+              "TC": "在「霧隱冬夢深林中」，完成任務「長箭劃破夢境」",
+              "TH": "ใน​ [ฝัน​ฤดูหนาว​ใน​ม่าน​หมอก​กลาง​ป่า​ลึก​] ทำ​ภารกิจ​ [โลก​ฝัน​ที่​แตกสลาย​ด้วย​ศร​ของ​เธอ​] ให้​สำเร็จ",
+              "VN": "Trong [Mộng Đông Trong Sương Rừng], hoàn thành nhiệm vụ [Cõi Mộng Vỡ Tan Dưới Mũi Tên Cô]"
+            },
+            "jumpId": "jump_activity_guide_cedarforest_01",
+            "rewardId": "reward_activity_guide_cedarforest2",
+            "sortId": 2,
+            "stageId": "activity_guide_cedarforest_stage_2"
+          },
+          {
+            "activityId": "activity_map02_guide_009",
+            "conditions": {
+              "conditionId": "activity_guide_cedarforest_con_3",
+              "progressToCompare": 2
+            },
+            "desc": {
+              "BR": "Na Floresta Nevada, recupere 2 Caixotes de Gabarito de Equipamento",
+              "CN": "于雪松林区域累计回收2个装备模板箱",
+              "DE": "Birg im Verschneiten Wald 2 Kisten mit Ausrüstungsvorlagen.",
+              "EN": "In the Snowy Forest, recover 2 Gear Template Crates",
+              "FR": "Dans la forêt enneigée, récupérer 2 caisses de modèles d'équipement",
+              "ID": "Di Hutan Salju, ambil 2 Kerat Templat Gear",
+              "IT": "Recupera 2 casse con schema per l'equipaggiamento nella Foresta innevata",
+              "JP": "雪松林で装備設計ボックスを2個開ける",
+              "KR": "눈 덮인 소나무 숲 구역에서 장비 템플릿 상자 누적 2개 회수",
+              "MX": "En el Bosque Nevado, recupera 2 Cajas de moldes de equipamiento",
+              "RU": "Получите 2 ящика шаблонов снаряжения в Cнежном лесу",
+              "TC": "於雪松林區域累計回收2個裝備模板箱",
+              "TH": "ใน​ป่า​ขาวโพลน​ กู้​คืน​ลัง​เทม​เพล​ต​อุปกรณ์​ 2 ลัง",
+              "VN": "Khôi phục 2 Thùng Mẫu Trang Bị tại khu vực Rừng Tuyết"
+            },
+            "jumpId": "jump_activity_guide_cedarforest_02",
+            "rewardId": "reward_activity_guide_cedarforest3",
+            "sortId": 3,
+            "stageId": "activity_guide_cedarforest_stage_3"
+          },
+          {
+            "activityId": "activity_map02_guide_009",
+            "conditions": {
+              "conditionId": "activity_guide_cedarforest_con_4",
+              "progressToCompare": 4
+            },
+            "desc": {
+              "BR": "Na Floresta Nevada, desbloqueie 4 Pontos de TP",
+              "CN": "于雪松林区域累计解锁4个协议传送点",
+              "DE": "Schalte im Verschneiten Wald 4 TP-Punkte frei.",
+              "EN": "In the Snowy Forest, unlock 4 TP Points",
+              "FR": "Dans la forêt enneigée, débloquer 4 points TP",
+              "ID": "Di Hutan Salju, buka 4 Titik TP",
+              "IT": "Sblocca 4 punti TP nella Foresta innevata",
+              "JP": "雪松林で協約転送ポイントを4カ所解放する",
+              "KR": "눈 덮인 소나무 숲 구역에서 프로토콜 전송 지점 누적 4개 잠금 해제",
+              "MX": "En el Bosque Nevado, desbloquea 4 Puntos de TP",
+              "RU": "Откройте 4 точки ТП в Cнежном лесу",
+              "TC": "於雪松林區域累計解鎖4個協議傳送點",
+              "TH": "ใน​ป่า​ขาวโพลน​ ปลดล็อก​จุด​ TP 4 จุด",
+              "VN": "Mở khóa 4 Điểm Dịch Chuyển tại khu vực Rừng Tuyết"
+            },
+            "jumpId": "jump_activity_guide_cedarforest_02",
+            "rewardId": "reward_activity_guide_cedarforest4",
+            "sortId": 4,
+            "stageId": "activity_guide_cedarforest_stage_4"
+          },
+          {
+            "activityId": "activity_map02_guide_009",
+            "conditions": {
+              "conditionId": "activity_guide_cedarforest_con_5",
+              "progressToCompare": 3
+            },
+            "desc": {
+              "BR": "Na Floresta Nevada, abra 3 Caixotes de Protocolo quaisquer",
+              "CN": "于雪松林区域累计开启任意3个协议储藏箱",
+              "DE": "Öffne im Verschneiten Wald 3 beliebige Protokollkisten.",
+              "EN": "In the Snowy Forest, open any 3 Protocol Crates",
+              "FR": "Dans la forêt enneigée, ouvrir 3 caisses de Protocole",
+              "ID": "Di Hutan Salju, buka 3 Kerat Protokol apa saja",
+              "IT": "Apri 3 casse protocollari nella Foresta innevata",
+              "JP": "雪松林で協約資源箱を3個開ける",
+              "KR": "눈 덮인 소나무 숲 구역에서 임의의 프로토콜 보물 상자 누적 3개 개방",
+              "MX": "En el Bosque Nevado, abre 3 Cajas protocolares",
+              "RU": "Откройте 3 протокольных ящика в Cнежном лесу",
+              "TC": "於雪松林區域累計開啟任意3個協議儲藏箱",
+              "TH": "ใน​ป่า​ขาวโพลน​ เปิด​ลัง​โปร​โต​คอล​ใด​ก็ได้​ 3 ลัง",
+              "VN": "Mở 3 Thùng Giao Thức bất kỳ tại khu vực Rừng Tuyết"
+            },
+            "jumpId": "jump_activity_guide_cedarforest_02",
+            "rewardId": "reward_activity_guide_cedarforest5",
+            "sortId": 5,
+            "stageId": "activity_guide_cedarforest_stage_5"
+          }
+        ]
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

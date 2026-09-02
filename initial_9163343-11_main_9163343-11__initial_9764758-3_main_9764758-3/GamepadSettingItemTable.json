@@ -1,0 +1,210 @@
+{
+  "tableName": "GamepadSettingItemTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "gamepad_interact": {
+        "oldValue": {
+          "actionFactoryKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionScope": "Advanced",
+          "actions": [
+            {
+              "actionIds": [
+                "common_interact",
+                "common_interact_pickup_all_start",
+                "common_interact_pickup_all_end",
+                "fac_build_mode_delete"
+              ],
+              "actionKeyIsModifyKey": false
+            }
+          ],
+          "options": [
+            {
+              "optionActionKeys": [
+                "B"
+              ],
+              "optionIndex": 1
+            },
+            {
+              "optionActionKeys": [
+                "A"
+              ],
+              "optionIndex": 2
+            },
+            {
+              "optionActionKeys": [
+                "Y"
+              ],
+              "optionIndex": 3
+            },
+            {
+              "optionActionKeys": [
+                "X"
+              ],
+              "optionIndex": 4
+            },
+            {
+              "optionActionKeys": [
+                "LB",
+                "RB",
+                "LT"
+              ],
+              "optionIndex": 5
+            }
+          ],
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "gamepad_interact",
+          "settingItemType": 0,
+          "settingRedDot": "",
+          "settingSortOrder": 5,
+          "settingText": {
+            "BR": "Interagir/Armazenar Instalação na Reserva",
+            "CN": "交互/收纳设备",
+            "DE": "Anlage lagern/Mit Anlage interagieren",
+            "EN": "Interact / Stash Facility",
+            "FR": "Interagir / Mettre de côté l'installation",
+            "ID": "Interaksi dengan / Simpan Fasilitas",
+            "IT": "Interagisci / Metti struttura nella scorta",
+            "JP": "調べる/設備収納",
+            "KR": "상호작용/설비 수납",
+            "MX": "Interactuar / Almacenar instalación",
+            "RU": "Взаимодействовать / Отправить в запасник",
+            "TC": "互動/收回設備",
+            "TH": "โต้ตอบ​ / เก็บ​สิ่งปลูกสร้าง",
+            "VN": "Tương tác / Lưu Trữ Thiết Bị"
+          }
+        },
+        "newValue": {
+          "actionFactoryKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionKeyHintTextIds": [
+            "ui_set_gamesetting_controller_interact",
+            "ui_set_gamesetting_controller_take_all"
+          ],
+          "actionScope": "Advanced",
+          "actions": [
+            {
+              "actionIds": [
+                "common_interact",
+                "common_interact_pickup_all_start",
+                "common_interact_pickup_all_end",
+                "fac_build_mode_delete",
+                "fac_build_sign_reset"
+              ],
+              "actionKeyIsModifyKey": false
+            }
+          ],
+          "options": [
+            {
+              "optionActionKeys": [
+                "B"
+              ],
+              "optionIndex": 1
+            },
+            {
+              "optionActionKeys": [
+                "A"
+              ],
+              "optionIndex": 2
+            },
+            {
+              "optionActionKeys": [
+                "Y"
+              ],
+              "optionIndex": 3
+            },
+            {
+              "optionActionKeys": [
+                "X"
+              ],
+              "optionIndex": 4
+            },
+            {
+              "optionActionKeys": [
+                "LB",
+                "RB",
+                "LT"
+              ],
+              "optionIndex": 5
+            }
+          ],
+          "settingGroupTitle": {
+            "BR": "",
+            "CN": "",
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ID": "",
+            "IT": "",
+            "JP": "",
+            "KR": "",
+            "MX": "",
+            "RU": "",
+            "TC": "",
+            "TH": "",
+            "VN": ""
+          },
+          "settingId": "gamepad_interact",
+          "settingItemType": 0,
+          "settingRedDot": "",
+          "settingSortOrder": 5,
+          "settingText": {
+            "BR": "Interagir/Armazenar Instalação na Reserva",
+            "CN": "交互/收纳设备",
+            "DE": "Anlage lagern/Mit Anlage interagieren",
+            "EN": "Interact / Stash Facility",
+            "FR": "Interagir / Mettre de côté l'installation",
+            "ID": "Interaksi dengan / Simpan Fasilitas",
+            "IT": "Interagisci / Metti struttura nella scorta",
+            "JP": "調べる/設備収納",
+            "KR": "상호작용/설비 수납",
+            "MX": "Interactuar / Almacenar instalación",
+            "RU": "Взаимодействовать / Отправить в запасник",
+            "TC": "互動/收回設備",
+            "TH": "โต้ตอบ​ / เก็บ​สิ่งปลูกสร้าง",
+            "VN": "Tương tác / Lưu Trữ Thiết Bị"
+          }
+        },
+        "changed": {
+          "actions[0].actionIds[4]": {
+            "type": "value",
+            "newValue": "fac_build_sign_reset"
+          }
+        }
+      }
+    }
+  }
+}

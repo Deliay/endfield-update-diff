@@ -1,0 +1,137 @@
+{
+  "tableName": "ForesightGrowthStageTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 4,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "1": {
+        "breakStage": 2,
+        "containTalent": false,
+        "level": 60,
+        "name": {
+          "BR": "Objetivo: Básico",
+          "CN": "培养期望：基础",
+          "DE": "Ziel: Einfach",
+          "EN": "Goal: Basic",
+          "FR": "Objectif : basique",
+          "ID": "Target: Biasa",
+          "IT": "Obiettivo: Base",
+          "JP": "育成強化：初級",
+          "KR": "육성 목표: 기초",
+          "MX": "Objetivo: Básico",
+          "RU": "Базовая цель",
+          "TC": "培養期望：基礎",
+          "TH": "เป้าหมาย​: พื้นฐาน",
+          "VN": "Mục Tiêu: Cơ Bản"
+        },
+        "skillLevel": [
+          6,
+          6,
+          6,
+          6
+        ],
+        "sortWeight": 1,
+        "stageId": 1,
+        "weaponLevel": 60
+      },
+      "2": {
+        "breakStage": 3,
+        "containTalent": false,
+        "level": 80,
+        "name": {
+          "BR": "Objetivo: Avançado",
+          "CN": "培养期望：进阶",
+          "DE": "Ziel: Fortgeschritten",
+          "EN": "Goal: Advanced",
+          "FR": "Objectif : avancé",
+          "ID": "Target: Tingkat Lanjut",
+          "IT": "Obiettivo: Avanzato",
+          "JP": "育成強化：中級",
+          "KR": "육성 목표: 강화",
+          "MX": "Objetivo: Avanzado",
+          "RU": "Улучшенная цель",
+          "TC": "培養期望：進階",
+          "TH": "เป้าหมาย​: ขั้นสูง",
+          "VN": "Mục Tiêu: Nâng Cao"
+        },
+        "skillLevel": [
+          9,
+          9,
+          9,
+          9
+        ],
+        "sortWeight": 2,
+        "stageId": 2,
+        "weaponLevel": 80
+      },
+      "3": {
+        "breakStage": 4,
+        "containTalent": true,
+        "level": 90,
+        "name": {
+          "BR": "Objetivo: Elite",
+          "CN": "培养期望：精通",
+          "DE": "Ziel: Elite",
+          "EN": "Goal: Elite",
+          "FR": "Objectif : élite",
+          "ID": "Target: Elite",
+          "IT": "Obiettivo: Élite",
+          "JP": "育成強化：上級",
+          "KR": "육성 목표: 숙련",
+          "MX": "Objetivo: Élite",
+          "RU": "Элитная цель",
+          "TC": "培養期望：精通",
+          "TH": "เป้าหมาย​: ขั้นสูง​กว่า",
+          "VN": "Mục Tiêu: Tinh Anh"
+        },
+        "skillLevel": [
+          9,
+          9,
+          9,
+          9
+        ],
+        "sortWeight": 3,
+        "stageId": 3,
+        "weaponLevel": 90
+      },
+      "4": {
+        "breakStage": 4,
+        "containTalent": true,
+        "level": 90,
+        "name": {
+          "BR": "Objetivo: Zênite",
+          "CN": "培养期望：卓越",
+          "DE": "Ziel: Zenit",
+          "EN": "Goal: Zenith",
+          "FR": "Objectif : zénith",
+          "ID": "Target: Zenit",
+          "IT": "Obiettivo: Zenit",
+          "JP": "育成強化：最大",
+          "KR": "육성 목표: 탁월",
+          "MX": "Objetivo: Cénit",
+          "RU": "Высшая цель",
+          "TC": "培養期望：卓越",
+          "TH": "เป้าหมาย​: ขั้นสูงสุด",
+          "VN": "Mục Tiêu: Đỉnh Cao"
+        },
+        "skillLevel": [
+          12,
+          12,
+          12,
+          12
+        ],
+        "sortWeight": 4,
+        "stageId": 4,
+        "weaponLevel": 90
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

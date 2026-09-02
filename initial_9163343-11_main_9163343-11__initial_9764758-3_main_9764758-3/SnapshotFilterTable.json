@@ -1,0 +1,76 @@
+{
+  "tableName": "SnapshotFilterTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 1,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "sp_filter_6": {
+        "desc": {
+          "BR": "Filtro de Cores de Foto da Câmera",
+          "CN": "调整照片色彩的滤镜",
+          "DE": "Kamera-Farbfilter",
+          "EN": "Camera Photo Color Filter",
+          "FR": "Filtre couleur d'appareil photo",
+          "ID": "Filter Warna Foto Kamera",
+          "IT": "Filtro colore per foto",
+          "JP": "写真の色味を整えるフィルター",
+          "KR": "사진 색감을 조정하는 필터입니다.",
+          "MX": "Filtro de color para fotos de la cámara",
+          "RU": "Цветной фильтр для фото",
+          "TC": "調整照片色彩的濾鏡",
+          "TH": "ฟิลเตอร์​สี​ภาพถ่าย​จาก​กล้อง",
+          "VN": "Bộ Lọc Màu Ảnh Chụp"
+        },
+        "filterEffectPath": "",
+        "filterPath": "P_photomode_filter_advanced_bloodnexus_01_light",
+        "icon": "icon_shot_filter_sp_6",
+        "id": "sp_filter_6",
+        "isDefaultUnlock": false,
+        "itemId": "item_shot_filter_sp_6",
+        "jumpId": "item_obtain_bp",
+        "name": {
+          "BR": "Recuperação Sanguínea",
+          "CN": "血忆",
+          "DE": "Blutige Erinnerung",
+          "EN": "Sanguine Recall",
+          "FR": "Souvenir sanguin",
+          "ID": "Ingatan Sanguin",
+          "IT": "Richiamo speranzoso",
+          "JP": "ブラッドカラー",
+          "KR": "피의 기억",
+          "MX": "Recuerdo sanguíneo",
+          "RU": "Кровавый отголосок",
+          "TC": "血憶",
+          "TH": "หวน​รำลึก​สี​เลือด",
+          "VN": "Huyết Ước"
+        },
+        "rewardTaskId": "",
+        "sortId": 5,
+        "sourceText": {
+          "BR": "Recompensa: Passe do Protocolo",
+          "CN": "协议通行证奖励",
+          "DE": "Belohnung: Protokollpass",
+          "EN": "Reward: Protocol Pass",
+          "FR": "Récompense : Pass de Protocole",
+          "ID": "Imbalan: Tiket Akses Protokol",
+          "IT": "Ricompensa: Pass protocollare",
+          "JP": "協約通行証報酬",
+          "KR": "프로토콜 통행증 보상",
+          "MX": "Recompensa: Pase de protocolo",
+          "RU": "Награда: протопропуск",
+          "TC": "協議通行證獎勵",
+          "TH": "รางวัล​: บัตร​ผ่าน​โปร​โต​คอล",
+          "VN": "Phần Thưởng: Thẻ Giao Thức"
+        }
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

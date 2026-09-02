@@ -1,0 +1,159 @@
+{
+  "tableName": "ImportantRewardItemTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 2,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {
+      "item_activity_formula_xiranite_enr_lung": {
+        "desc": {
+          "BR": "Um item para produzir Chubby Lungs de Xiranita Pesada. Eles podem ser trocados em postos avançados por uma grande quantidade de letras de câmbio e <@toast_focal.key>Certificados de Frutos do Altruísmo</>.",
+          "CN": "用于生产重息壤龙泡泡系列物品。重息壤龙泡泡可在据点交易同时换取大量调度券与<@toast_focal.key>援助成果券</>。",
+          "DE": "Ein Gegenstand für die Herstellung von Schweres-Xiranit-Chubby-Lungs. Diese Gegenstände können in Außenposten gegen haufenweise Aktiennoten und <@toast_focal.key>Früchte-der-Hilfsbereitschaft-Zertis</> eingetauscht werden.",
+          "EN": "An item for producing Heavy Xiranite Chubby Lungs. They can be traded at outposts to earn plenty of stock bills and <@toast_focal.key>Fruits of Altruism Certs</>.",
+          "FR": "Un objet permettant de produire des Choupi Lungs à xiranite lourde. Ils peuvent ensuite être échangés aux avant-postes contre une grande quantité de billets de réserves et de <@toast_focal.key>certificats de fruits d'altruisme</>.",
+          "ID": "Item untuk membuat Lung Gembul Xiranite Berat. Bisa diperdagangkan di pos depan untuk mendapatkan banyak surat saham dan <@toast_focal.key>Sertif Buah Altruisme</>.",
+          "IT": "Un oggetto per produrre cicciodraghi di xiranite pesante, che possono essere scambiati presso gli avamposti per ottenere molti buoni acquisto e <@toast_focal.key>certificati di frutti dell'altruismo</>.",
+          "JP": "重息壌龍泡泡系アイテムの生産に使用できる。重息壌龍泡泡は、拠点取引を行った際に取引券と<@toast_focal.key>支援成果券</>を入手できる。",
+          "KR": "중식양 드래곤 버블 시리즈 아이템을 생산하는 데 사용하는 설계도. 중식양 드래곤 버블은 거점 거래에서 대량의 관리권과 <@toast_focal.key>지원 성과권</>으로 교환할 수 있습니다.",
+          "MX": "Un objeto para producir Lungs regordetes de Xiranita pesada. Se pueden intercambiar en los puestos de avanzada para obtener muchos vales de crédito y <@toast_focal.key>Certificados de Frutos del Altruismo</>.",
+          "RU": "Предмет для создания пухликов-лунов из тяжелого ксиранита. Пухликов-лунов можно обменять на аванпостах на множество облигаций и <@toast_focal.key>сертификатов «Плоды доброты»</>.",
+          "TC": "用於生產重息壤龍泡泡系列物品。重息壤龍泡泡可在與據點交易的同時換取大量調度券與<@toast_focal.key>援助成果券</>。",
+          "TH": "ไอ​เทม​สำหรับ​ผลิต​หลง​จ้ำม่ำ​ซี​เรน​ไนต์​หนัก​ สามารถ​นำ​ไป​แลก​ที่​ด่าน​หน้า​เพื่อ​รับ​ธนบัตร​คลัง​และ​<@toast_focal.key>​ใบรับรอง​ผลไม้​แห่ง​ความเอื้ออาทร​</>​จำนวนมาก",
+          "VN": "Vật phẩm dùng để sản xuất Xiranite Nặng Chubby Lung. Loại này có thể trao đổi ở tiền đồn để nhận thật nhiều phiếu hàng và <@toast_focal.key>Chứng Nhận Quả Ngọt Vị Tha</>."
+        },
+        "id": "item_activity_formula_xiranite_enr_lung"
+      },
+      "item_activity_formula_xiranite_lung": {
+        "desc": {
+          "BR": "Um item para produzir Chubby Lungs de Xiranita. Elas podem ser trocadas em postos avançados por letras de câmbio e <@toast_focal.key>Certificados de Frutos do Altruísmo</>.",
+          "CN": "用于生产息壤龙泡泡系列物品。息壤龙泡泡可在据点交易同时换取调度券与<@toast_focal.key>援助成果券</>。",
+          "DE": "Ein Gegenstand für die Herstellung von Xiranit-Chubby-Lungs. Diese Gegenstände können in Außenposten gegen Aktiennoten und <@toast_focal.key>Früchte-der-Hilfsbereitschaft-Zertis</> eingetauscht werden.",
+          "EN": "An item for producing Xiranite Chubby Lungs. They can be traded at outposts to earn stock bills and <@toast_focal.key>Fruits of Altruism Certs</>.",
+          "FR": "Un objet permettant de produire des Choupi Lungs à xiranite. Ils peuvent ensuite être échangés aux avant-postes contre des billets de réserves et des <@toast_focal.key>certificats de fruits d'altruisme</>.",
+          "ID": "Item untuk memproduksi Lung Gembul Xiranite. Bisa diperdagangkan di pos depan untuk mendapatkan surat saham dan <@toast_focal.key>Sertif Buah Altruisme</>.",
+          "IT": "Un oggetto per produrre cicciodraghi di xiranite, che possono essere scambiati presso gli avamposti per ottenere buoni acquisto e <@toast_focal.key>certificati di frutti dell'altruismo</>.",
+          "JP": "息壌龍泡泡系アイテムの生産に使用できる。息壌龍泡泡は、拠点取引を行った際に取引券と<@toast_focal.key>支援成果券</>を入手できる。",
+          "KR": "식양 드래곤 버블 시리즈 아이템을 생산하는 데 사용하는 설계도. 식양 드래곤 버블은 거점 거래에서 관리권과 <@toast_focal.key>지원 성과권</>으로 교환할 수 있습니다.",
+          "MX": "Un objeto para producir Lungs regordetes de Xiranita. Pueden intercambiarse en los puestos de avanzada para obtener vales de crédito y <@toast_focal.key>Certificados de Frutos del Altruismo</>.",
+          "RU": "Предмет для создания ксиранитовых пухликов-лунов. Пухликов-лунов можно обменять на аванпостах на облигации и <@toast_focal.key>сертификаты «Плоды доброты»</>.",
+          "TC": "用於生產息壤龍泡泡系列物品。息壤龍泡泡可在與據點交易的同時換取調度券與<@toast_focal.key>援助成果券</>。",
+          "TH": "ไอ​เทม​สำหรับ​ผลิต​หลง​จ้ำม่ำ​ซี​เรน​ไนต์​ สามารถ​นำ​ไป​แลก​ที่​ด่าน​หน้า​เพื่อ​รับ​ธนบัตร​คลัง​และ​<@toast_focal.key>​ใบรับรอง​ผลไม้​แห่ง​ความเอื้ออาทร​</>",
+          "VN": "Vật phẩm dùng để sản xuất Xiranite Chubby Lung. Loại này có thể trao đổi ở tiền đồn để nhận phiếu hàng và <@toast_focal.key>Chứng Nhận Quả Ngọt Vị Tha</>."
+        },
+        "id": "item_activity_formula_xiranite_lung"
+      }
+    },
+    "removed": {},
+    "changed": {
+      "item_factech_rift_research": {
+        "oldValue": {
+          "desc": {
+            "BR": "Os recursos de <@toast_focal.key>Neutralização de Fendas</> e <@toast_focal.key>Dispersão de Gás</> foram adicionados ao Plano do CAI de Wuling. \nPesquise sobre isso para desbloquear <@toast_focal.key>Unidades de Dispersão de Gás</> e o <@toast_focal.key>modo Neutralizar Fenda das Unidades de Suprimento de Fluidos</>.",
+            "CN": "武陵工业发展规划中新增<@toast_focal.key>气体散布</>与<@toast_focal.key>裂隙中和</>工业计划。\n研究后可解锁<@toast_focal.key>气体散布机</>与<@toast_focal.key>给水器的裂隙中和模式</>。",
+            "DE": "Dem Wuling-AIK-Plan wurden <@toast_focal.key>Riss-Neutralisierung</> und <@toast_focal.key>Gasverteilung</> hinzugefügt.\nErforsche diese Technologien, um <@toast_focal.key>Gasverteilungseinheiten</> und den <@toast_focal.key>Modus „Riss neutralisieren“ für Flüssigkeitsversorgungseinheiten</> freizuschalten.",
+            "EN": "<@toast_focal.key>Rift Neutralization</> and <@toast_focal.key>Gas Dispersal</> has been added to the Wuling AIC Plan. \nResearch these to unlock <@toast_focal.key>Gas Dispersing Units</> and the <@toast_focal.key>Neutralize Rift mode for Fluid Supply Units</>.",
+            "FR": "Les technologies <@toast_focal.key>Neutralisation de faille</> et <@toast_focal.key>Dispersion du gaz</> ont été ajoutées au plan du GIA de Wuling. \nRecherchez-les pour débloquer les <@toast_focal.key>unités de dispersion du gaz</> et le <@toast_focal.key>mode Neutraliser la faille pour les unités d'alimentation en fluide</>.",
+            "ID": "<@toast_focal.key>Netralisasi Celah</> dan <@toast_focal.key>Penyebaran Gas</> berhasil ditambahkan ke Bagan AIC Wuling. \nTeliti teknologi ini untuk membuka <@toast_focal.key>Unit Penyebar Gas</> dan <@toast_focal.key>mode Netralkan Celah untuk Unit Pasokan Cairan</>.",
+            "IT": "<@toast_focal.key>Neutralizzazione della spaccatura</> e <@toast_focal.key>dispersione gas</> sono state aggiunte al progetto del SIA di Wuling. \nEffettua queste ricerche per sbloccare le <@toast_focal.key>unità di dispersione gas</> e la <@toast_focal.key>modalità Neutralizza spaccatura per le unità di erogazione liquidi</>.",
+            "JP": "武陵工業発展計画に<@toast_focal.key>ガス散布</>と<@toast_focal.key>裂け目中和</>工業計画が追加される。\n研究後、武陵に設置できる<@toast_focal.key>ガス散布機</>と<@toast_focal.key>排水機の裂け目中和モード</>を解放できる。",
+            "KR": "무릉 공업 발전 계획에 <@toast_focal.key>기체 분산</>과 <@toast_focal.key>균열 중화</> 공업 계획이 추가되었습니다.\n연구 완료 후 <@toast_focal.key>기체 분산기</>와 <@toast_focal.key>액체 배출 장치의 균열 중화 모드</>를 잠금 해제할 수 있습니다.",
+            "MX": "Se añadieron <@toast_focal.key>Neutralización de grietas</> y <@toast_focal.key>Dispersión de gas</> al Plan del CAI de Wuling. \nInvestígalas para desbloquear <@toast_focal.key>Unidades de dispersión de gas</> y el modo <@toast_focal.key>Neutralizar grieta para Unidades de suministro de fluido</>.",
+            "RU": "В план АПК Улина добавлены <@toast_focal.key>нейтрализация разлома</> и <@toast_focal.key>рассеивание газа</>.\nИзучите технологии, чтобы открыть <@toast_focal.key>модули рассеивания газа</> и <@toast_focal.key>режим нейтрализации разлома для модулей подачи жидкости</>.",
+            "TC": "武陵工業發展規劃中新增<@toast_focal.key>氣體散布</>與<@toast_focal.key>裂隙中和</>工業計劃。\n研究後可解鎖<@toast_focal.key>氣體散布機</>與<@toast_focal.key>液體供給器的裂隙中和模式</>。",
+            "TH": "เพิ่ม​<@toast_focal.key> การ​ทำ​รอยแยก​ให้​เป็นกลาง​</> และ​ <@toast_focal.key>​การ​แพร่กระจาย​ก๊าซ​</>​เข้าสู่​แบบแปลน​โรงงาน​ AIC อู่​หลิง​แล้ว​ \nวิจัย​สิ่ง​เหล่านี้​เพื่อ​ปลดล็อก​ <@toast_focal.key>​ยู​นิต​กระจาย​ก๊าซ​</> และ​ <@toast_focal.key>​โหม​ด​ทำให้​รอยแยก​เป็นกลาง​ของ​ยู​นิต​จ่าย​ของเหลว​</>",
+            "VN": "<@toast_focal.key>Trung Hòa Khe Nứt</> và <@toast_focal.key>Khuếch Tán Khí</> đã được thêm vào Sơ Đồ KPH Võ Lăng. \nNghiên cứu các hạng mục này để mở khóa <@toast_focal.key>Máy Khuếch Tán Khí</> và <@toast_focal.key>chế độ Trung Hòa Khe Nứt cho Bộ Cấp Nước</>."
+          },
+          "id": "item_factech_rift_research"
+        },
+        "newValue": {
+          "desc": {
+            "BR": "As tecnologias do CAI de <@toast_focal.key>Neutralização de Fendas</> e <@toast_focal.key>Dispersão de Gás</> foram adicionadas ao Plano do CAI de Wuling. Pesquise-as para desbloquear <@toast_focal.key>Unidades de Dispersão de Gás</> e o recurso <@toast_focal.key>Neutralizar Fenda das Unidades de Suprimento de Fluidos</>.",
+            "CN": "武陵工业发展规划中新增<@toast_focal.key>气体散布</>与<@toast_focal.key>裂隙中和</>工业技术。\n研究后可解锁<@toast_focal.key>气体散布机</>与<@toast_focal.key>给水器的裂隙中和功能</>。",
+            "DE": "Dem Wuling-AIK-Plan wurden die AIK-Technologien <@toast_focal.key>Riss-Neutralisierung</> und <@toast_focal.key>Gasverteilung</> hinzugefügt. Erforsche diese Technologien, um <@toast_focal.key>Gasverteilungseinheiten</> und die <@toast_focal.key>Funktion „Riss neutralisieren“ für Flüssigkeitsversorgungseinheiten</> freizuschalten.",
+            "EN": "<@toast_focal.key>Rift Neutralization</> and <@toast_focal.key>Gas Dispersal</> AIC technologies have been added to the Wuling AIC Plan. Research them to unlock <@toast_focal.key>Gas Dispersing Units</> and the <@toast_focal.key>Neutralize Rift feature for Fluid Supply Units</>.",
+            "FR": "Les technologies du GIA <@toast_focal.key>Neutralisation de faille</> et <@toast_focal.key>Dispersion du gaz</> ont été ajoutées au plan du GIA de Wuling. Recherchez-les pour débloquer les <@toast_focal.key>unités de dispersion du gaz</> et la <@toast_focal.key>fonctionnalité « Neutraliser la faille » pour les unités d'alimentation en fluide</>.",
+            "ID": "Teknologi AIC <@toast_focal.key>Netralisasi Celah</> dan <@toast_focal.key>Penyebaran Gas</> berhasil ditambahkan ke Bagan AIC Wuling. Teliti teknologi ini untuk membuka <@toast_focal.key>Unit Penyebar Gas</> dan <@toast_focal.key>fitur Netralkan Celah untuk Unit Pasokan Cairan</>.",
+            "IT": "Le tecnologie del SIA <@toast_focal.key>Neutralizzazione della spaccatura</> e <@toast_focal.key>Dispersione gas</> sono state aggiunte al progetto del SIA di Wuling. Ricercale per sbloccare le <@toast_focal.key>unità di dispersione gas</> e la <@toast_focal.key>funzione Neutralizza spaccatura per le unità di erogazione liquidi</>.",
+            "JP": "武陵工業発展計画に工業技術<@toast_focal.key>ガス散布</>と<@toast_focal.key>裂け目中和</>が追加される。\n研究後、<@toast_focal.key>ガス散布機</>と<@toast_focal.key>排水機の裂け目中和機能</>を解放できる。",
+            "KR": "무릉 공업 발전 계획에 <@toast_focal.key>기체 분산</>과 <@toast_focal.key>균열 중화</> 공업 기술이 추가되었습니다.\n연구 완료 후 <@toast_focal.key>기체 분산기</>와 <@toast_focal.key>액체 배출 장치의 균열 중화 기능</>을 잠금 해제할 수 있습니다.",
+            "MX": "Se añadieron las Tecnologías del CAI <@toast_focal.key>Neutralización de Grietas</> y <@toast_focal.key>Dispersión de gas</> al Plan del CAI de Wuling. Investígalas para desbloquear las <@toast_focal.key>Unidades de dispersión de gas</> y la <@toast_focal.key>función Neutralizar Grieta de las Unidades de suministro de fluido</>.",
+            "RU": "В план АПК Улина добавлены технологии <@toast_focal.key>Нейтрализация разлома</> и <@toast_focal.key>Рассеивание газа</>. Изучите их, чтобы открыть <@toast_focal.key>модули рассеивания газа</> и <@toast_focal.key>функцию «Нейтрализация разлома» для модулей подачи жидкости</>.",
+            "TC": "武陵工業發展規劃中新增<@toast_focal.key>氣體散布</>與<@toast_focal.key>裂隙中和</>工業技術。\n研究後可解鎖<@toast_focal.key>氣體散布機</>與<@toast_focal.key>液體供給器的裂隙中和功能</>。",
+            "TH": "เพิ่ม​เทคโนโลยี​ AIC <@toast_focal.key>​การ​ทำให้​รอยแยก​เป็นกลาง​</>​และ​<@toast_focal.key>​การ​แพร่กระจาย​ก๊าซ​</> เข้าสู่​แบบแปลน​โรงงาน​ AIC อู่​หลิง​แล้ว​ วิจัย​สิ่ง​เหล่านี้​เพื่อ​ปลดล็อก​<@toast_focal.key>​ยู​นิต​กระจาย​ก๊าซ​</>​และ​<@toast_focal.key>​คุณสมบัติ​ทำให้​รอยแยก​เป็นกลาง​ของ​ยู​นิต​จ่าย​ของเหลว​</>",
+            "VN": "Công nghệ Khu Phức Hợp <@toast_focal.key>Trung Hòa Khe Nứt</> và <@toast_focal.key>Khuếch Tán Khí</> đã được thêm vào Sơ Đồ KPH Võ Lăng. Nghiên cứu các hạng mục này để mở khóa <@toast_focal.key>Máy Khuếch Tán Khí</> và <@toast_focal.key>tính năng Trung Hòa Khe Nứt cho Bộ Cấp Nước</>."
+          },
+          "id": "item_factech_rift_research"
+        },
+        "changed": {
+          "desc": {
+            "type": "i18n",
+            "changedLocales": {
+              "BR": {
+                "oldText": "Os recursos de <@toast_focal.key>Neutralização de Fendas</> e <@toast_focal.key>Dispersão de Gás</> foram adicionados ao Plano do CAI de Wuling. \nPesquise sobre isso para desbloquear <@toast_focal.key>Unidades de Dispersão de Gás</> e o <@toast_focal.key>modo Neutralizar Fenda das Unidades de Suprimento de Fluidos</>.",
+                "newText": "As tecnologias do CAI de <@toast_focal.key>Neutralização de Fendas</> e <@toast_focal.key>Dispersão de Gás</> foram adicionadas ao Plano do CAI de Wuling. Pesquise-as para desbloquear <@toast_focal.key>Unidades de Dispersão de Gás</> e o recurso <@toast_focal.key>Neutralizar Fenda das Unidades de Suprimento de Fluidos</>."
+              },
+              "CN": {
+                "oldText": "武陵工业发展规划中新增<@toast_focal.key>气体散布</>与<@toast_focal.key>裂隙中和</>工业计划。\n研究后可解锁<@toast_focal.key>气体散布机</>与<@toast_focal.key>给水器的裂隙中和模式</>。",
+                "newText": "武陵工业发展规划中新增<@toast_focal.key>气体散布</>与<@toast_focal.key>裂隙中和</>工业技术。\n研究后可解锁<@toast_focal.key>气体散布机</>与<@toast_focal.key>给水器的裂隙中和功能</>。"
+              },
+              "DE": {
+                "oldText": "Dem Wuling-AIK-Plan wurden <@toast_focal.key>Riss-Neutralisierung</> und <@toast_focal.key>Gasverteilung</> hinzugefügt.\nErforsche diese Technologien, um <@toast_focal.key>Gasverteilungseinheiten</> und den <@toast_focal.key>Modus „Riss neutralisieren“ für Flüssigkeitsversorgungseinheiten</> freizuschalten.",
+                "newText": "Dem Wuling-AIK-Plan wurden die AIK-Technologien <@toast_focal.key>Riss-Neutralisierung</> und <@toast_focal.key>Gasverteilung</> hinzugefügt. Erforsche diese Technologien, um <@toast_focal.key>Gasverteilungseinheiten</> und die <@toast_focal.key>Funktion „Riss neutralisieren“ für Flüssigkeitsversorgungseinheiten</> freizuschalten."
+              },
+              "EN": {
+                "oldText": "<@toast_focal.key>Rift Neutralization</> and <@toast_focal.key>Gas Dispersal</> has been added to the Wuling AIC Plan. \nResearch these to unlock <@toast_focal.key>Gas Dispersing Units</> and the <@toast_focal.key>Neutralize Rift mode for Fluid Supply Units</>.",
+                "newText": "<@toast_focal.key>Rift Neutralization</> and <@toast_focal.key>Gas Dispersal</> AIC technologies have been added to the Wuling AIC Plan. Research them to unlock <@toast_focal.key>Gas Dispersing Units</> and the <@toast_focal.key>Neutralize Rift feature for Fluid Supply Units</>."
+              },
+              "FR": {
+                "oldText": "Les technologies <@toast_focal.key>Neutralisation de faille</> et <@toast_focal.key>Dispersion du gaz</> ont été ajoutées au plan du GIA de Wuling. \nRecherchez-les pour débloquer les <@toast_focal.key>unités de dispersion du gaz</> et le <@toast_focal.key>mode Neutraliser la faille pour les unités d'alimentation en fluide</>.",
+                "newText": "Les technologies du GIA <@toast_focal.key>Neutralisation de faille</> et <@toast_focal.key>Dispersion du gaz</> ont été ajoutées au plan du GIA de Wuling. Recherchez-les pour débloquer les <@toast_focal.key>unités de dispersion du gaz</> et la <@toast_focal.key>fonctionnalité « Neutraliser la faille » pour les unités d'alimentation en fluide</>."
+              },
+              "ID": {
+                "oldText": "<@toast_focal.key>Netralisasi Celah</> dan <@toast_focal.key>Penyebaran Gas</> berhasil ditambahkan ke Bagan AIC Wuling. \nTeliti teknologi ini untuk membuka <@toast_focal.key>Unit Penyebar Gas</> dan <@toast_focal.key>mode Netralkan Celah untuk Unit Pasokan Cairan</>.",
+                "newText": "Teknologi AIC <@toast_focal.key>Netralisasi Celah</> dan <@toast_focal.key>Penyebaran Gas</> berhasil ditambahkan ke Bagan AIC Wuling. Teliti teknologi ini untuk membuka <@toast_focal.key>Unit Penyebar Gas</> dan <@toast_focal.key>fitur Netralkan Celah untuk Unit Pasokan Cairan</>."
+              },
+              "IT": {
+                "oldText": "<@toast_focal.key>Neutralizzazione della spaccatura</> e <@toast_focal.key>dispersione gas</> sono state aggiunte al progetto del SIA di Wuling. \nEffettua queste ricerche per sbloccare le <@toast_focal.key>unità di dispersione gas</> e la <@toast_focal.key>modalità Neutralizza spaccatura per le unità di erogazione liquidi</>.",
+                "newText": "Le tecnologie del SIA <@toast_focal.key>Neutralizzazione della spaccatura</> e <@toast_focal.key>Dispersione gas</> sono state aggiunte al progetto del SIA di Wuling. Ricercale per sbloccare le <@toast_focal.key>unità di dispersione gas</> e la <@toast_focal.key>funzione Neutralizza spaccatura per le unità di erogazione liquidi</>."
+              },
+              "JP": {
+                "oldText": "武陵工業発展計画に<@toast_focal.key>ガス散布</>と<@toast_focal.key>裂け目中和</>工業計画が追加される。\n研究後、武陵に設置できる<@toast_focal.key>ガス散布機</>と<@toast_focal.key>排水機の裂け目中和モード</>を解放できる。",
+                "newText": "武陵工業発展計画に工業技術<@toast_focal.key>ガス散布</>と<@toast_focal.key>裂け目中和</>が追加される。\n研究後、<@toast_focal.key>ガス散布機</>と<@toast_focal.key>排水機の裂け目中和機能</>を解放できる。"
+              },
+              "KR": {
+                "oldText": "무릉 공업 발전 계획에 <@toast_focal.key>기체 분산</>과 <@toast_focal.key>균열 중화</> 공업 계획이 추가되었습니다.\n연구 완료 후 <@toast_focal.key>기체 분산기</>와 <@toast_focal.key>액체 배출 장치의 균열 중화 모드</>를 잠금 해제할 수 있습니다.",
+                "newText": "무릉 공업 발전 계획에 <@toast_focal.key>기체 분산</>과 <@toast_focal.key>균열 중화</> 공업 기술이 추가되었습니다.\n연구 완료 후 <@toast_focal.key>기체 분산기</>와 <@toast_focal.key>액체 배출 장치의 균열 중화 기능</>을 잠금 해제할 수 있습니다."
+              },
+              "MX": {
+                "oldText": "Se añadieron <@toast_focal.key>Neutralización de grietas</> y <@toast_focal.key>Dispersión de gas</> al Plan del CAI de Wuling. \nInvestígalas para desbloquear <@toast_focal.key>Unidades de dispersión de gas</> y el modo <@toast_focal.key>Neutralizar grieta para Unidades de suministro de fluido</>.",
+                "newText": "Se añadieron las Tecnologías del CAI <@toast_focal.key>Neutralización de Grietas</> y <@toast_focal.key>Dispersión de gas</> al Plan del CAI de Wuling. Investígalas para desbloquear las <@toast_focal.key>Unidades de dispersión de gas</> y la <@toast_focal.key>función Neutralizar Grieta de las Unidades de suministro de fluido</>."
+              },
+              "RU": {
+                "oldText": "В план АПК Улина добавлены <@toast_focal.key>нейтрализация разлома</> и <@toast_focal.key>рассеивание газа</>.\nИзучите технологии, чтобы открыть <@toast_focal.key>модули рассеивания газа</> и <@toast_focal.key>режим нейтрализации разлома для модулей подачи жидкости</>.",
+                "newText": "В план АПК Улина добавлены технологии <@toast_focal.key>Нейтрализация разлома</> и <@toast_focal.key>Рассеивание газа</>. Изучите их, чтобы открыть <@toast_focal.key>модули рассеивания газа</> и <@toast_focal.key>функцию «Нейтрализация разлома» для модулей подачи жидкости</>."
+              },
+              "TC": {
+                "oldText": "武陵工業發展規劃中新增<@toast_focal.key>氣體散布</>與<@toast_focal.key>裂隙中和</>工業計劃。\n研究後可解鎖<@toast_focal.key>氣體散布機</>與<@toast_focal.key>液體供給器的裂隙中和模式</>。",
+                "newText": "武陵工業發展規劃中新增<@toast_focal.key>氣體散布</>與<@toast_focal.key>裂隙中和</>工業技術。\n研究後可解鎖<@toast_focal.key>氣體散布機</>與<@toast_focal.key>液體供給器的裂隙中和功能</>。"
+              },
+              "TH": {
+                "oldText": "เพิ่ม​<@toast_focal.key> การ​ทำ​รอยแยก​ให้​เป็นกลาง​</> และ​ <@toast_focal.key>​การ​แพร่กระจาย​ก๊าซ​</>​เข้าสู่​แบบแปลน​โรงงาน​ AIC อู่​หลิง​แล้ว​ \nวิจัย​สิ่ง​เหล่านี้​เพื่อ​ปลดล็อก​ <@toast_focal.key>​ยู​นิต​กระจาย​ก๊าซ​</> และ​ <@toast_focal.key>​โหม​ด​ทำให้​รอยแยก​เป็นกลาง​ของ​ยู​นิต​จ่าย​ของเหลว​</>",
+                "newText": "เพิ่ม​เทคโนโลยี​ AIC <@toast_focal.key>​การ​ทำให้​รอยแยก​เป็นกลาง​</>​และ​<@toast_focal.key>​การ​แพร่กระจาย​ก๊าซ​</> เข้าสู่​แบบแปลน​โรงงาน​ AIC อู่​หลิง​แล้ว​ วิจัย​สิ่ง​เหล่านี้​เพื่อ​ปลดล็อก​<@toast_focal.key>​ยู​นิต​กระจาย​ก๊าซ​</>​และ​<@toast_focal.key>​คุณสมบัติ​ทำให้​รอยแยก​เป็นกลาง​ของ​ยู​นิต​จ่าย​ของเหลว​</>"
+              },
+              "VN": {
+                "oldText": "<@toast_focal.key>Trung Hòa Khe Nứt</> và <@toast_focal.key>Khuếch Tán Khí</> đã được thêm vào Sơ Đồ KPH Võ Lăng. \nNghiên cứu các hạng mục này để mở khóa <@toast_focal.key>Máy Khuếch Tán Khí</> và <@toast_focal.key>chế độ Trung Hòa Khe Nứt cho Bộ Cấp Nước</>.",
+                "newText": "Công nghệ Khu Phức Hợp <@toast_focal.key>Trung Hòa Khe Nứt</> và <@toast_focal.key>Khuếch Tán Khí</> đã được thêm vào Sơ Đồ KPH Võ Lăng. Nghiên cứu các hạng mục này để mở khóa <@toast_focal.key>Máy Khuếch Tán Khí</> và <@toast_focal.key>tính năng Trung Hòa Khe Nứt cho Bộ Cấp Nước</>."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

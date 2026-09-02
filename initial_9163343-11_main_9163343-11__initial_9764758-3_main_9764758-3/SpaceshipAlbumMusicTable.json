@@ -1,0 +1,63 @@
+{
+  "tableName": "SpaceshipAlbumMusicTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 0,
+    "removed": 0,
+    "changed": 1
+  },
+  "entries": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "explore_album_1": {
+        "oldValue": {
+          "musicList": [
+            "item_music_exp_tundra_1",
+            "item_music_exp_tundra_2",
+            "item_music_exp_tundra_3",
+            "item_music_exp_tundra_4",
+            "item_music_exp_tundra_5",
+            "item_music_exp_tundra_6",
+            "item_music_exp_wuling_1",
+            "item_music_exp_wuling_2",
+            "item_music_exp_wuling_3",
+            "item_music_exp_wuling_4",
+            "item_music_exp_wuling_5",
+            "item_music_exp_wuling_6"
+          ]
+        },
+        "newValue": {
+          "musicList": [
+            "item_music_exp_tundra_1",
+            "item_music_exp_tundra_2",
+            "item_music_exp_tundra_3",
+            "item_music_exp_tundra_4",
+            "item_music_exp_tundra_5",
+            "item_music_exp_tundra_6",
+            "item_music_exp_wuling_1",
+            "item_music_exp_wuling_2",
+            "item_music_exp_wuling_3",
+            "item_music_exp_wuling_4",
+            "item_music_exp_wuling_5",
+            "item_music_exp_wuling_6",
+            "item_music_exp_wuling_7",
+            "item_music_exp_wuling_8"
+          ]
+        },
+        "changed": {
+          "musicList[12]": {
+            "type": "value",
+            "newValue": "item_music_exp_wuling_7"
+          },
+          "musicList[13]": {
+            "type": "value",
+            "newValue": "item_music_exp_wuling_8"
+          }
+        }
+      }
+    }
+  }
+}

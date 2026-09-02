@@ -1,0 +1,1225 @@
+{
+  "tableName": "ActivityConditionalMultiStageTaskCompleteConditionTable",
+  "versionOld": "initial_9163343-11_main_9163343-11",
+  "versionNew": "initial_9764758-3_main_9764758-3",
+  "locale": "all",
+  "stats": {
+    "added": 35,
+    "removed": 0,
+    "changed": 0
+  },
+  "entries": {
+    "added": {
+      "typhoeaArchery_task7_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task7_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Deixe o Estande Queimar: acione 1 explosão em cadeia que detona ≥ 5 acúmulos de Resina.",
+          "CN": "星火灼原：触发1次至少包括5个燃松的连锁爆炸。",
+          "DE": "Lass den Zorn lodern: Löse 1 Kettenexplosion aus, die ≥5 Harzstapel zündet.",
+          "EN": "Let the Range Burn: Trigger 1 chain explosion that detonates ≥5 Resin stacks.",
+          "FR": "Feu au pas : déclenchez 1 explosion en chaîne qui fait exploser ≥ 5 cumuls de résine.",
+          "ID": "Biarkan Lapangannya Membara: Picu 1 ledakan beruntun yang akan meledakkan ≥5 tumpukan Resin.",
+          "IT": "Incendio al poligono: genera 1 esplosione a catena che fa esplodere ≥ 5 accumuli di Resina.",
+          "JP": "地を焼く炎：松脂を5個以上巻き込んだ連鎖爆発を1回発生させる。",
+          "KR": "들판을 태우는 불씨: 최소 5개의 불타는 송진이 포함된 연쇄 폭발을 유발하기.",
+          "MX": "Que arda el campo de tiro: Activa 1 explosión en cadena que detone ≥5 acumulaciones de Resina.",
+          "RU": "«Пусть стрельбище горит»: активируйте 1 цепной взрыв, подрывающий как минимум 5 зарядов смолы.",
+          "TC": "星火灼原：觸發1次至少包括5個燃松的連鎖爆炸。",
+          "TH": "ให้​สนาม​ลุกเป็นไฟ​: ใช้งาน​เอฟเฟกต์​เร​ซิน​ที่​ติด​อยู่​ตั้งแต่​ 5 ขั้น​ขึ้นไป​ให้​ระเบิด​ต่อเนื่อง​ 1 ครั้ง",
+          "VN": "Thiêu Rụi Trường Bắn: Kích hoạt 1 vụ nổ dây chuyền làm kích nổ ≥5 cộng dồn Nhựa."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              4
+            ],
+            "valueIntList": [
+              4
+            ],
+            "valueStringList": [
+              "4"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "typhoeaArchery_task7_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task7_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task15_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task15_condition",
+        "conditionType": 15001,
+        "desc": {
+          "BR": "Arqueiro Habilidoso: conclua \"Exercício Diário 03\" uma vez.",
+          "CN": "小有所成：通关1次日常训练03。",
+          "DE": "Erfahrener Bogenschütze: Schließe „Tägliches Training 03“ einmal ab.",
+          "EN": "Accomplished Archer: Clear \"Daily Exercise 03\" once.",
+          "FR": "Archer accompli : terminez l'« Exercice quotidien 03 » 1 fois.",
+          "ID": "Pemanah Ulung: Selesaikan “Latihan Harian 03” sebanyak satu kali.",
+          "IT": "Maestria nel tiro con l'arco: completa \"Esercitazione quotidiana 03\" una volta.",
+          "JP": "上達の証：日常訓練・03を1回クリアする。",
+          "KR": "숙련의 화살: 일상 훈련 03을 1회 완료",
+          "MX": "Arquera consumada: Completa “Ejercicio diario 3” una vez.",
+          "RU": "«Опытный лучник»: один раз пройдите ежедневную тренировку 3",
+          "TC": "小有所成：通關1次日常訓練03。",
+          "TH": "นัก​ธนู​เชี่ยวชาญ​: ผ่าน​ \"การฝึกฝน​รายวัน​ 03\" 1 ครั้ง",
+          "VN": "Cung Thủ Thành Thạo: Hoàn thành \"Luyện Tập Hằng Ngày 03\" 1 lần."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_daily_archery03"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task3_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task3_condition",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Totalmente Equipado: faça upgrade do Estande de Arco e Flecha de Typhoeus para seu nível máximo.",
+          "CN": "装备齐全：提弗洛斯的靶场升到最高等级。",
+          "DE": "Komplett ausgestattet: Verbessere Typhoeus’ Bogenschießanlage auf das maximale Level.",
+          "EN": "Fully Furnished: Upgrade Typhoeus's Archery Range to its max level.",
+          "FR": "Tout équipé : améliorez le pas de tir à l'arc de Typhoeus au niveau maximal.",
+          "ID": "Semuanya Lengkap: Upgrade Lapangan Panahan Typhoeus ke level maks.",
+          "IT": "Dotazione completa: potenzia il Poligono di tiro con l'arco di Typhoeus al livello massimo.",
+          "JP": "装備万全：ティフォロスの射場を最高レベルまで上げる。",
+          "KR": "완전 무장: 티프로스의 활터를 최대치까지 업그레이드",
+          "MX": "Totalmente equipada: Mejora el Campo de tiro con arco de Typhoeus hasta el máximo nivel.",
+          "RU": "«Полное оснащение»: улучшите стрельбище Тифеи до максимального уровня.",
+          "TC": "裝備齊全：提弗洛斯的靶場升到最高等級。",
+          "TH": "ตกแต่ง​ครบครัน​: อัป​เกรด​สนาม​ยิง​ธนู​ของ​ไท​ฟี​อุส​จนถึง​เล​เวล​สูงสุด",
+          "VN": "Đầy Đủ Tiện Nghi: Nâng cấp Trường Bắn Cung Của Typhoeus lên cấp tối đa."
+        },
+        "parameters": [],
+        "progressToCompare": 4
+      },
+      "typhoeaArchery_task6_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task6_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task5_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task5_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task3_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task3_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 3",
+          "CN": "靶场提升至3级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 3 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 3",
+          "FR": "Déblocage : niveau 3 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 3",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 3.",
+          "JP": "射場をLv.3にして解放",
+          "KR": "활터 3레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 3 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 3",
+          "TC": "靶場提升至3級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 3",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 3"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task18_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task18_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Maestro do Arco e Flecha: ganhe 36★ nos estágios de \"Exercício Diário\".",
+          "CN": "射艺大师：在日常训练中累计获得36颗星。",
+          "DE": "Bogenschießen-Maestro: Verdiene 36★ in Phasen von „Tägliches Training“.",
+          "EN": "Archery Maestro: Earn 36★ from \"Daily Exercise\" stages.",
+          "FR": "Maître-archer : obtenez 36★ dans les niveaux d'« Exercice quotidien ».",
+          "ID": "Maestro Panahan: Dapatkan 36★ dari stage “Latihan Harian”.",
+          "IT": "Competenza magistrale nel tiro con l'arco: ottieni 36★ dai livelli di \"Esercitazione quotidiana\".",
+          "JP": "射術の名手：日常訓練で計36個以上の★を獲得する。",
+          "KR": "궁술을 깨우친 자: 일상 훈련에서 성급 누적 36개를 획득",
+          "MX": "Maestra de la Arquería: Obtén 36★ en las etapas de \"Ejercicio diario\".",
+          "RU": "«Знаток лука»: получите 36★ за стадии ежедневной тренировки",
+          "TC": "射藝大師：在日常訓練中累計獲得36顆星。",
+          "TH": "ปรมาจารย์​ธนู​: ได้​ 36★ จาก​ด่าน​ \"การฝึกฝน​รายวัน​\"",
+          "VN": "Bậc Thầy Cung Thuật: Đạt 36★ từ các màn \"Luyện Tập Hằng Ngày\"."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              10
+            ],
+            "valueIntList": [
+              10
+            ],
+            "valueStringList": [
+              "10"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 36
+      },
+      "typhoeaArchery_task5_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task5_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Ângulos Impossíveis: use Fúria Bestial para fragmentar 9 escudos.",
+          "CN": "蛮角相抗：利用蛮兽之怒累计击破9个护盾。",
+          "DE": "Unmögliche Winkel: Zersplittere 9 Schilde mit Tierische Wut.",
+          "EN": "Impossible Angles: Use Beastly Rage to shatter 9 shields.",
+          "FR": "Angles impossibles : utilisez Rage bestiale pour faire éclater 9 boucliers.",
+          "ID": "Sudut Tak Masuk Akal: Gunakan Amarah Ganas untuk menghancurkan 9 perisai.",
+          "IT": "Angoli impossibili: usa Furia bestiale per infrangere 9 scudi.",
+          "JP": "角と角：狂獣激昂を利用し、シールドを計9個射抜く。",
+          "KR": "뿔과 뿔의 격돌: 비스트의 분노로 보호를 누적 9개 이상 파괴",
+          "MX": "Ángulos imposibles: Usa Furia bestial para quebrar 9 escudos.",
+          "RU": "«Невозможные углы»: используйте «Звериную ярость», чтобы разрушить 9 щитов",
+          "TC": "蠻角相抗：利用蠻獸之怒累計擊破9個護盾。",
+          "TH": "มุม​ที่​เป็นไปไม่ได้​: ใช้​ความ​พิโรธ​สัตว์ร้าย​ทำลาย​โล่​ 9 อัน",
+          "VN": "Góc Bắn Không Tưởng: Dùng Cuồng Nộ Dã Thú để phá vỡ 9 chiếc khiên."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              6
+            ],
+            "valueIntList": [
+              6
+            ],
+            "valueStringList": [
+              "6"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 9
+      },
+      "typhoeaArchery_task10_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task10_condition",
+        "conditionType": 15001,
+        "desc": {
+          "BR": "Zênite do Arco e Flecha: conclua \"Exercício Diário 04\" uma vez.",
+          "CN": "锋芒毕露：通关1次日常训练04。",
+          "DE": "Zenit des Bogenschießens: Schließe „Tägliches Training 04“ einmal ab.",
+          "EN": "Zenith of Archery: Clear \"Daily Exercise 04\" once.",
+          "FR": "Summum de l'archerie : terminez l'« Exercice quotidien 04 » 1 fois.",
+          "ID": "Puncak Panahan: Selesaikan “Latihan Harian 04” sebanyak satu kali.",
+          "IT": "Apice del tiro con l'arco: completa \"Esercitazione quotidiana 04\" una volta.",
+          "JP": "才気全開：日常訓練・04を1回クリアする。",
+          "KR": "완성의 화살: 일상 훈련 04을 1회 완료",
+          "MX": "Cúspide de la arquería: Completa “Ejercicio diario 4” una vez.",
+          "RU": "«Виртуозный стрелок»: один раз пройдите ежедневную тренировку 4",
+          "TC": "鋒芒畢露：通關1次日常訓練04。",
+          "TH": "จุดสูงสุด​แห่ง​การ​ยิง​ธนู​: ผ่าน​ \"การฝึกฝน​รายวัน​ 04\" 1 ครั้ง",
+          "VN": "Đỉnh Cao Cung Thuật: Hoàn thành \"Luyện Tập Hằng Ngày 04\" 1 lần."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_daily_archery04"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task13_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task13_condition",
+        "conditionType": 15001,
+        "desc": {
+          "BR": "Arqueiro Iniciante: conclua \"Exercício Diário 01\" uma vez.",
+          "CN": "初露锋芒：通关1次日常训练01。",
+          "DE": "Angehender Bogenschütze: Schließe „Tägliches Training 01“ einmal ab.",
+          "EN": "Novice Archer: Clear \"Daily Exercise 01\" once.",
+          "FR": "Archer débutant : terminez l'« Exercice quotidien 01 » 1 fois.",
+          "ID": "Pemanah Pemula: Selesaikan “Latihan Harian 01” sebanyak satu kali.",
+          "IT": "Principiante del tiro con l'arco: completa \"Esercitazione quotidiana 01\" una volta.",
+          "JP": "才の片鱗：日常訓練・01を1回クリアする。",
+          "KR": "시작의 화살: 일상 훈련 01을 1회 완료",
+          "MX": "Arquera novata: Completa “Ejercicio diario 1” una vez.",
+          "RU": "«Начинающий лучник»: один раз пройдите ежедневную тренировку 1",
+          "TC": "初露鋒芒：通關1次日常訓練01。",
+          "TH": "นัก​ธนู​ฝึกหัด​: ผ่าน​ \"การฝึกฝน​รายวัน​ 01\" 1 ครั้ง",
+          "VN": "Cung Thủ Mới Tập: Hoàn thành \"Luyện Tập Hằng Ngày 01\" 1 lần."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_daily_archery01"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task16_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task16_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task16_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task16_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Especialista no Estande: ganhe 12★ nos estágios de \"Exercício Diário\".",
+          "CN": "靶场达人：在日常训练中累计获得12颗星。",
+          "DE": "Bogenschießanlagen-Experte: Verdiene 12★ in Phasen von „Tägliches Training“.",
+          "EN": "Range Expert: Earn 12★ from \"Daily Exercise\" stages.",
+          "FR": "Expert à distance : obtenez 12★ dans les niveaux d'« Exercice quotidien ».",
+          "ID": "Ahli Lapangan Panahan: Dapatkan 12★ dari stage “Latihan Harian”.",
+          "IT": "Specialista delle grandi distanze: ottieni 12★ dai livelli di \"Esercitazione quotidiana\".",
+          "JP": "射場の達人：日常訓練で計12個以上の★を獲得する。",
+          "KR": "과녁을 꿰뚫는 자: 일상 훈련에서 성급 누적 12개를 획득",
+          "MX": "Experta del Campo de tiro: Obtén 12★ en las etapas de \"Ejercicio diario\".",
+          "RU": "«Эксперт стрельбища»: получите 12★ за стадии ежедневной тренировки",
+          "TC": "靶場達人：在日常訓練中累計獲得12顆星。",
+          "TH": "เซียน​อาวุธ​ระยะไกล​: ได้​ 12★ จาก​ด่าน​ \"การฝึกฝน​รายวัน​\"",
+          "VN": "Chuyên Gia Trường Bắn: Đạt 12★ từ các màn \"Luyện Tập Hằng Ngày\"."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              10
+            ],
+            "valueIntList": [
+              10
+            ],
+            "valueStringList": [
+              "10"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 12
+      },
+      "typhoeaArchery_task15_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task15_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task4_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task4_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Saraivada de Flechas: use Eco Persistente para fragmentar simultaneamente ≥ 7 alvos.",
+          "CN": "箭如雨发：使用游荡之声同时击破7个或以上靶标。",
+          "DE": "Pfeilhagel: Zersplittere ≥7 Ziele gleichzeitig mit Persistentes Echo.",
+          "EN": "Hail of Arrows: Use Persistent Echo to simultaneously shatter ≥7 targets.",
+          "FR": "Pluie de flèches : utilisez Écho persistant pour faire éclater ≥ 7 cibles simultanément.",
+          "ID": "Hujan Panah: Gunakan Gema Berkepanjangan untuk menghancurkan ≥7 target sekaligus.",
+          "IT": "Raffica di frecce: usa Eco persistente per infrangere ≥ 7 bersagli contemporaneamente.",
+          "JP": "矢の雨あられ：迷える声で同時に7個以上の的を射抜く。",
+          "KR": "비처럼 쏟아지는 화살: 떠도는 메아리로 표적 7개 혹은 그 이상을 한꺼번에 파괴",
+          "MX": "Lluvia de flechas: Usa Eco persistente para quebrar ≥7 objetivos simultáneamente.",
+          "RU": "«Град стрел»: используйте «Стойкое эхо», чтобы одновременно разбить 7 или более целей.",
+          "TC": "箭如雨發：使用遊蕩之聲同時擊破7個或以上標靶。",
+          "TH": "ลูกศร​โปรยปราย​: ใช้​เอคโค่​ต่อเนื่อง​ทำให้​เป้าหมาย​อย่างน้อย​ 7 เป้า​แตก​กระจาย​พร้อมกัน",
+          "VN": "Mưa Tên: Dùng Dư Âm Bất Tận để đồng thời phá vỡ ≥7 mục tiêu."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              3
+            ],
+            "valueIntList": [
+              3
+            ],
+            "valueStringList": [
+              "3"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 7
+      },
+      "typhoeaArchery_task9_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task9_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task10_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task10_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task11_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task11_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Todo Disparo Conta: destrua simultaneamente ≥ 15 alvos em 1 segundo.",
+          "CN": "箭无虚发：1秒内同时击破15个或以上靶标。",
+          "DE": "Jeder Schuss zählt: Zersplittere ≥15 Ziele innerhalb einer Sekunde.",
+          "EN": "Every Shot Counts: Simultaneously shatter ≥15 targets within 1s.",
+          "FR": "Chaque tir compte : faites éclater ≥ 15 cibles simultanément en 1 s.",
+          "ID": "Pentingnya Setiap Tembakan: Hancurkan ≥15 target sekaligus dalam 1 dtk.",
+          "IT": "Ogni colpo conta: infrangi contemporaneamente ≥ 15 bersagli entro 1 s.",
+          "JP": "百発百中：1秒以内に同時に15個以上の的を射抜く。",
+          "KR": "백발백중: 1초 내에 표적 15개 이상을 한꺼번에 파괴",
+          "MX": "Cada tiro cuenta: Quiebra simultáneamente ≥15 objetivos en 1 s.",
+          "RU": "«Каждый выстрел на счету»: разбейте не менее 15 целей за 1 сек.",
+          "TC": "箭無虛發：1秒內同時擊破15個或以上標靶。",
+          "TH": "ทุก​นัด​ไม่​พลาด​เป้า​: ทำลาย​เป้าหมาย​อย่างน้อย​ 15 เป้า​พร้อมกัน​ภายใน​ 1 วินาที",
+          "VN": "Bách Phát Bách Trúng: Phá vỡ đồng thời ≥15 mục tiêu trong vòng 1 giây."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              8
+            ],
+            "valueIntList": [
+              8
+            ],
+            "valueStringList": [
+              "8"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 15
+      },
+      "typhoeaArchery_task11_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task11_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task12_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task12_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Disparo Demolidor: destrua 999 alvos no Estande de Arco e Flecha de Typhoeus.",
+          "CN": "无坚不摧：在提弗洛斯的靶场累积击破999个靶标。",
+          "DE": "Abriss-Schuss: Zersplittere 999 Ziele in Typhoeus’ Bogenschießanlage.",
+          "EN": "All-Demolishing Shot: Shatter 999 targets in Typhoeus's Archery Range.",
+          "FR": "Tir démolisseur : faites éclater 999 cibles dans le pas de tir à l'arc de Typhoeus.",
+          "ID": "Tembakan Penghancur Segala: Hancurkan 999 target di Lapangan Panahan Typhoeus.",
+          "IT": "Colpo devastante: infrangi 999 bersagli nel Poligono di tiro con l'arco di Typhoeus.",
+          "JP": "難攻不落：ティフォロスの射場で累計999個の的を射抜く。",
+          "KR": "모든 것을 뚫는 자: 티프로스의 활터에서 표적을 누적 999개 파괴",
+          "MX": "Disparo devastador: Quiebra 999 objetivos en el Campo de tiro con arco de Typhoeus.",
+          "RU": "«Разрушительный выстрел»: разбейте 999 целей на стрельбище Тифеи.",
+          "TC": "無堅不摧：在提弗洛斯的靶場累積擊破999個標靶。",
+          "TH": "คมศร​ทำลายล้าง​ทุกสิ่ง​: ทำลาย​เป้าหมาย​ครบ​ 999 เป้า​ใน​สนาม​ยิง​ธนู​ของ​ไท​ฟี​อุส",
+          "VN": "Một Tên Phá Vạn Vật: Phá vỡ 999 mục tiêu tại Trường Bắn Cung Của Typhoeus."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              9
+            ],
+            "valueIntList": [
+              9
+            ],
+            "valueStringList": [
+              "9"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 999
+      },
+      "typhoeaArchery_task12_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task12_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task13_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task13_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task14_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task14_condition",
+        "conditionType": 15001,
+        "desc": {
+          "BR": "Arqueiro Avançado: conclua \"Exercício Diário 02\" uma vez.",
+          "CN": "日渐精进：通关1次日常训练02。",
+          "DE": "Fortgeschrittener Bogenschütze: Schließe „Tägliches Training 02“ einmal ab.",
+          "EN": "Advancing Archer: Clear \"Daily Exercise 02\" once.",
+          "FR": "Archer confirmé : terminez l'« Exercice quotidien 02 » 1 fois.",
+          "ID": "Pemanah Lanjutan: Selesaikan “Latihan Harian 02” sebanyak satu kali.",
+          "IT": "Tiro con l'arco avanzato: completa \"Esercitazione quotidiana 02\" una volta.",
+          "JP": "日進月歩：日常訓練・02を1回クリアする。",
+          "KR": "성장의 화살: 일상 훈련 02를 1회 완료",
+          "MX": "Arquera en ascenso: Completa “Ejercicio diario 2” una vez.",
+          "RU": "«Умелый лучник»: один раз пройдите ежедневную тренировку 2",
+          "TC": "日漸精進：通關1次日常訓練02。",
+          "TH": "นัก​ธนู​ระดับ​ก้าวหน้า​: ผ่าน​ \"การฝึกฝน​รายวัน​ 02\" 1 ครั้ง",
+          "VN": "Cung Thủ Tiến Bộ: Hoàn thành \"Luyện Tập Hằng Ngày 02\" 1 lần."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_daily_archery02"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task14_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task14_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task17_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task17_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Atirador de Precisão: ganhe 24★ nos estágios de \"Exercício Diário\".",
+          "CN": "箭术高手：在日常训练中累计获得24颗星。",
+          "DE": "Scharfschütze: Verdiene 24★ in Phasen von „Tägliches Training“.",
+          "EN": "Sharp Shooter: Earn 24★ from \"Daily Exercise\" stages.",
+          "FR": "Tireur d'élite : obtenez 24★ dans les niveaux d'« Exercice quotidien ».",
+          "ID": "Penembak Jitu: Dapatkan 24★ dari stage “Latihan Harian”.",
+          "IT": "Vista acuta: ottieni 24★ dai livelli di \"Esercitazione quotidiana\".",
+          "JP": "弓術の玄人：日常訓練で計24個以上の★を獲得する。",
+          "KR": "화살을 다루는 자: 일상 훈련에서 성급 누적 24개를 획득",
+          "MX": "Tiradora Certera: Obtén 24★ en las etapas de \"Ejercicio diario\".",
+          "RU": "«Меткий стрелок»: получите 24★ за стадии ежедневной тренировки",
+          "TC": "箭術高手：在日常訓練中累計獲得24顆星。",
+          "TH": "มือ​แม่นธนู​: ได้​ 24★ จาก​ด่าน​ \"การฝึกฝน​รายวัน​\"",
+          "VN": "Thiện Xạ: Đạt 24★ từ các màn \"Luyện Tập Hằng Ngày\"."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              10
+            ],
+            "valueIntList": [
+              10
+            ],
+            "valueStringList": [
+              "10"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 24
+      },
+      "typhoeaArchery_task19_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task19_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Caçador da Neve Excepcional: ganhe 48★ nos estágios de \"Exercício Diário\".",
+          "CN": "冰雪猎人：在日常训练中累计获得48颗星。",
+          "DE": "Apex-Schneejäger: Verdiene insgesamt 48★ in Phasen von „Tägliches Training“.",
+          "EN": "Apex Snow Hunter: Earn 48★ from \"Daily Exercise\" stages.",
+          "FR": "Superchasseur des neiges : obtenez 48★ dans les niveaux d'« Exercice quotidien ».",
+          "ID": "Pemburu Salju Puncak: Dapatkan 48★ dari stage “Latihan Harian”.",
+          "IT": "Specialista della caccia nella neve: ottieni 48★ dai livelli di \"Esercitazione quotidiana\".",
+          "JP": "氷雪の狩人：日常訓練で計48個以上の★を獲得する。",
+          "KR": "설원을 누비는 자: 일상 훈련에서 성급 누적 48개를 획득",
+          "MX": "Cazadora de Nieve Suprema: Obtén 48★ en las etapas de “Ejercicio diario”",
+          "RU": "«Лучший снежный охотник»: получите 48★ за стадии ежедневной тренировки",
+          "TC": "冰雪獵人：在日常訓練中累計獲得48顆星。",
+          "TH": "สุดยอด​นัก​ล่า​หิมะ​: ได้​ 48★ จาก​ด่าน​ \"การฝึกฝน​รายวัน​\"",
+          "VN": "Thợ Săn Tuyết Đỉnh Cao: Đạt 48★ từ các màn \"Luyện Tập Hằng Ngày\"."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              10
+            ],
+            "valueIntList": [
+              10
+            ],
+            "valueStringList": [
+              "10"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 48
+      },
+      "typhoeaArchery_task1_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task1_condition",
+        "conditionType": 7501,
+        "desc": {
+          "BR": "Arqueiro Amador: conclua todos os estágios do \"Treinamento Básico\".",
+          "CN": "粗通箭术：完成所有基础教学。",
+          "DE": "Angehender Bogenschütze: Schließe alle „Grundlagentraining“-Phasen ab.",
+          "EN": "Amateur Archer: Complete all \"Basic Training\" stages.",
+          "FR": "Archère amatrice : terminez tous les niveaux d'« Entraînement de base ».",
+          "ID": "Pemanah Amatir: Selesaikan semua stage Latihan Dasar.",
+          "IT": "Arciere dilettante: completa tutti i livelli di \"Addestramento base\".",
+          "JP": "弓術入門：すべての基礎訓練を完了する。",
+          "KR": "궁술 입문: 모든 기초 훈련을 완료",
+          "MX": "Arquera aficionada: Completa todas las fases del “Entrenamiento básico”.",
+          "RU": "«Лучник-любитель»: пройдите все стадии стандартной подготовки",
+          "TC": "粗通箭術：完成所有基礎教學。",
+          "TH": "นัก​ธนู​มือใหม่​: ผ่าน​ \"การ​ฝึก​เบื้องต้น​\" ทุก​ด่าน",
+          "VN": "Cung Thủ Nghiệp Dư: Hoàn thành tất cả các màn \"Huấn Luyện Cơ Bản\"."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery01",
+              "dung02_archery02",
+              "dung02_archery03",
+              "dung02_archery04",
+              "dung02_archery05"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "typhoeaArchery_task2_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task2_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 2",
+          "CN": "靶场提升至2级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 2 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 2",
+          "FR": "Déblocage : niveau 2 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 2",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 2.",
+          "JP": "射場をLv.2にして解放",
+          "KR": "활터 2레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 2 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 2",
+          "TC": "靶場提升至2級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 2",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 2"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task1_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task1_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 1",
+          "CN": "靶场1级解锁",
+          "DE": "Wird auf Bogenschießanlage Level 1 freigeschaltet",
+          "EN": "Unlock at Archery Range Level 1",
+          "FR": "Déblocage : niveau 1 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 1",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 1.",
+          "JP": "射場Lv.1で解放",
+          "KR": "활터 1레벨 잠금 해제",
+          "MX": "Se desbloquea en el nivel 1 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 1",
+          "TC": "靶場1級解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 1",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 1"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task2_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task2_condition",
+        "conditionType": 7501,
+        "desc": {
+          "BR": "Arqueiro de Elite: conclua todos os estágios do \"Treinamento Avançado\".",
+          "CN": "精通箭艺：完成所有进阶训练。",
+          "DE": "Elite-Bogenschütze: Schließe alle „Fortgeschrittenes Training“-Phasen ab.",
+          "EN": "Elite Archer: Complete all \"Advanced Training\" stages.",
+          "FR": "Archère d'élite : terminez tous les niveaux d'« Entraînement avancé ».",
+          "ID": "Pemanah Elite: Selesaikan semua stage Latihan Tingkat Lanjut.",
+          "IT": "Arciere d'élite: completa tutti i livelli di \"Addestramento avanzato\".",
+          "JP": "弓術皆伝：すべての上級訓練を完了する。",
+          "KR": "궁술 숙련: 모든 고급 훈련을 완료",
+          "MX": "Arquera de élite: Completa todas las fases del “Entrenamiento avanzado”.",
+          "RU": "«Элитный лучник»: пройдите все стадии продвинутой подготовки",
+          "TC": "精通箭藝：完成所有進階訓練。",
+          "TH": "นัก​ธนู​ชั้นยอด​: ผ่าน​ \"การ​ฝึก​ขั้นสูง​\" ทุก​ด่าน",
+          "VN": "Cung Thủ Tinh Nhuệ: Hoàn thành tất cả các màn \"Huấn Luyện Nâng Cao\"."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "dung02_archery06",
+              "dung02_archery07",
+              "dung02_archery08",
+              "dung02_archery09"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 4
+      },
+      "typhoeaArchery_task4_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task4_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task6_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task6_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Totalmente Glaciado: use a Ponta Congelante para solidificar simultaneamente pelo menos 9 alvos.",
+          "CN": "冰冻三尺：使用寒冰之簇同时冰冻9个或以上靶标。",
+          "DE": "Gut durchgekühlt: Erstarre mindestens 9 Ziele gleichzeitig mit Reifspitze.",
+          "EN": "Thoroughly Glaciated: Use Rime Tip to simultaneously solidify at least 9 targets.",
+          "FR": "Glaciation totale : utilisez Pointe de givre pour solidifier au moins 9 cibles simultanément.",
+          "ID": "Terbungkus Es: Gunakan Ujung Embun Beku untuk membekukan sedikitnya 9 target sekaligus.",
+          "IT": "Congelamento totale: usa Punta brinata per solidificare almeno 9 bersagli contemporaneamente.",
+          "JP": "氷漬け：凍てつく矢で同時に9個以上の的を凍結させる。",
+          "KR": "혹한의 결빙: 혹한의 결정으로 표적 9개 이상을 한꺼번에 빙결",
+          "MX": "Congelación total: Usa Punta de escarcha para solidificar simultáneamente al menos 9 objetivos.",
+          "RU": "«Глубокая заморозка»: используйте «Острие инея», чтобы одновременно заморозить не менее 9 целей",
+          "TC": "冰凍三尺：使用寒冰之簇同時冰凍9個或以上標靶。",
+          "TH": "แช่แข็ง​ทั่วถึง​: ใช้​ยอด​เกล็ด​น้ำแข็ง​ทำให้​เป้าหมาย​อย่างน้อย​ 9 เป้า​ถูก​แช่แข็ง​พร้อมกัน",
+          "VN": "Đóng Băng Toàn Diện: Dùng Mũi Sương Giá để đồng thời đông cứng ít nhất 9 mục tiêu."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              2
+            ],
+            "valueIntList": [
+              2
+            ],
+            "valueStringList": [
+              "2"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 9
+      },
+      "typhoeaArchery_task8_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task8_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Resina Infernal: use Resina Flamejante para destruir simultaneamente pelo menos 5 alvos.",
+          "CN": "烈火松烟：使用燃松之脂同时炸毁5个或以上靶标。",
+          "DE": "Höllisches Harz: Zerstöre mindestens 5 Ziele gleichzeitig mit Flammendes Harz.",
+          "EN": "Infernal Resin: Use Flaming Resin to simultaneously destroy at least 5 targets.",
+          "FR": "Résine infernale : utilisez Résine flamboyante pour détruire au moins 5 cibles simultanément.",
+          "ID": "Resin dari Neraka: Gunakan Resin Membara untuk menghancurkan sedikitnya 5 target sekaligus.",
+          "IT": "Resina infernale: usa Resina ardente per distruggere almeno 5 bersagli contemporaneamente.",
+          "JP": "烈火の煙：燃ゆる松脂で同時に5個以上の的を爆破する。",
+          "KR": "타오르는 잿빛 불꽃: 불타는 송진으로 표적 5개 이상을 한꺼번에 폭발",
+          "MX": "Resina infernal: Usa Resina ardiente para destruir al menos 5 objetivos simultáneamente.",
+          "RU": "«Адская смола»: используйте «Пылающую смолу», чтобы одновременно уничтожить минимум 5 целей",
+          "TC": "烈火松煙：使用燃松之脂同時炸毀5個或以上標靶。",
+          "TH": "ยางไม้​แห่ง​นรก​: ใช้​เร​ซิน​ที่​ลุกโชน​ทำลาย​เป้าหมาย​อย่างน้อย​ 5 เป้า​พร้อมกัน",
+          "VN": "Nhựa Hỏa Ngục: Dùng Nhựa Lửa để đồng thời phá hủy ít nhất 5 mục tiêu."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              5
+            ],
+            "valueIntList": [
+              5
+            ],
+            "valueStringList": [
+              "5"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      },
+      "typhoeaArchery_task8_condition_lv": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task8_condition_lv",
+        "conditionType": 7500,
+        "desc": {
+          "BR": "Desbloqueie no Estande de Arco e Flecha Nível 4",
+          "CN": "靶场提升至4级后解锁",
+          "DE": "Wird auf Bogenschießanlage Level 4 freigeschaltet.",
+          "EN": "Unlock at Archery Range Level 4",
+          "FR": "Déblocage : niveau 4 du pas de tir à l'arc",
+          "ID": "Buka di Lapangan Panahan Level 4",
+          "IT": "Si sblocca con Poligono di tiro con l'arco al livello 4.",
+          "JP": "射場をLv.4にして解放",
+          "KR": "활터 4레벨까지 업그레이드한 후 잠금 해제",
+          "MX": "Se desbloquea en el nivel 4 del Campo de tiro con arco",
+          "RU": "Открывается на уровне стрельбища 4",
+          "TC": "靶場提升至4級後解鎖",
+          "TH": "ปลดล็อก​เมื่อ​สนาม​ยิง​ธนู​ถึง​เล​เวล​ 4",
+          "VN": "Mở khóa tại Trường Bắn Cung Cấp 4"
+        },
+        "parameters": [],
+        "progressToCompare": 1
+      },
+      "typhoeaArchery_task9_condition": {
+        "compareOperator": 3,
+        "conditionId": "typhoeaArchery_task9_condition",
+        "conditionType": 6511,
+        "desc": {
+          "BR": "Poder de Uso Único: use o Quebra-Alvorecer para perfurar e fragmentar simultaneamente pelo menos 5 alvos.",
+          "CN": "一箭之力：使用破曙之光同时穿透击破5个或以上靶标。",
+          "DE": "Ein-Schuss-Gewalt: Durchstoße und zersplittere mindestens 5 Ziele gleichzeitig mit Morgenbrecher.",
+          "EN": "One-Shot Power: Use Dawnbreaker to simultaneously pierce and shatter at least 5 targets.",
+          "FR": "Coup exceptionnel : utilisez Brise-aurore pour transpercer et faire éclater au moins 5 cibles simultanément.",
+          "ID": "Kekuatan Satu Tembakan: Gunakan Pemecah Fajar untuk menembus dan menghancurkan sedikitnya 5 target.",
+          "IT": "La potenza di un colpo: usa Spezzalba per perforare e infrangere almeno 5 bersagli contemporaneamente.",
+          "JP": "一矢の力：夜を裂く光で同時に5個以上の的を貫通して射抜く。",
+          "KR": "단 한 발의 위력: 여명을 가르는 빛으로 표적 5개 이상을 동시에 관통해 파괴",
+          "MX": "El poder de un solo tiro: Usa Rompealbas para perforar y quebrar al menos 5 objetivos simultáneamente.",
+          "RU": "«Сила одного выстрела»: используйте «Разрушитель зари», чтобы одновременно пробить и поразить минимум 5 целей",
+          "TC": "一箭之力：使用破曙之光同時穿透擊破5個或以上標靶。",
+          "TH": "พลัง​แห่ง​นัด​เดียว​: ใช้​ดอว์น​เบรก​เกอร์​เจาะ​ทะลุ​และ​ทำลาย​เป้าหมาย​อย่างน้อย​ 5 เป้า​พร้อมกัน",
+          "VN": "Một Ngắm Uy Lực: Dùng Kẻ Phá Bình Minh để xuyên phá và phá vỡ đồng thời ít nhất 5 mục tiêu."
+        },
+        "parameters": [
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": null,
+            "valueIntList": null,
+            "valueStringList": [
+              "E_StatType_CltShootingRangeEvent"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          },
+          {
+            "realType": 0,
+            "valueBoolList": null,
+            "valueFloatList": [
+              7
+            ],
+            "valueIntList": [
+              7
+            ],
+            "valueStringList": [
+              "7"
+            ],
+            "valueType": 0,
+            "valueVector3": null
+          }
+        ],
+        "progressToCompare": 5
+      }
+    },
+    "removed": {},
+    "changed": {}
+  }
+}
